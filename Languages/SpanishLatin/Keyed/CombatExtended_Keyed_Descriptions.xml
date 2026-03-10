@@ -1,72 +1,72 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
 	<!-- EN: Damage -->
-	<CE_DescDamage>Damage</CE_DescDamage>
+	<CE_DescDamage>Dano</CE_DescDamage>
 	<!-- EN: Base damage -->
-	<CE_DescBaseDamage>Base damage</CE_DescBaseDamage>
+	<CE_DescBaseDamage>Dano base</CE_DescBaseDamage>
 	<!-- EN: Explosion radius -->
-	<CE_DescExplosionRadius>Explosion radius</CE_DescExplosionRadius>
+	<CE_DescExplosionRadius>Radio de explosion</CE_DescExplosionRadius>
 	<!-- EN: Secondary explosion -->
-	<CE_DescSecondaryExplosion>Secondary explosion</CE_DescSecondaryExplosion>
+	<CE_DescSecondaryExplosion>Explosion secundaria</CE_DescSecondaryExplosion>
 	<!-- EN: Armor penetration -->
-	<CE_DescArmorPenetration>Armor penetration</CE_DescArmorPenetration>
+	<CE_DescArmorPenetration>Penetracion de armadura</CE_DescArmorPenetration>
 	<!-- EN: Sharp penetration -->
-	<CE_DescSharpPenetration>Sharp penetration</CE_DescSharpPenetration>
+	<CE_DescSharpPenetration>Penetracion cortante</CE_DescSharpPenetration>
 	<!-- EN: Blunt penetration -->
-	<CE_DescBluntPenetration>Blunt penetration</CE_DescBluntPenetration>
+	<CE_DescBluntPenetration>Penetracion contundente</CE_DescBluntPenetration>
 	<!-- EN: Armor reduction -->
-	<CE_DescAmbientPenetration>Armor reduction</CE_DescAmbientPenetration>
+	<CE_DescAmbientPenetration>Reduccion de armadura</CE_DescAmbientPenetration>
 	<!-- EN: Pellet count -->
-	<CE_DescPelletCount>Pellet count</CE_DescPelletCount>
+	<CE_DescPelletCount>Cantidad de perdigones</CE_DescPelletCount>
 	<!-- EN: Spread factor -->
-	<CE_DescSpreadMult>Spread factor</CE_DescSpreadMult>
+	<CE_DescSpreadMult>Factor de dispersion</CE_DescSpreadMult>
 	<!-- EN: Recoil factor -->
-	<CE_DescRecoilMult>Recoil factor</CE_DescRecoilMult>
+	<CE_DescRecoilMult>Factor de retroceso</CE_DescRecoilMult>
 	<!-- EN: Recoil offset -->
-	<CE_DescRecoilOffset>Recoil offset</CE_DescRecoilOffset>
+	<CE_DescRecoilOffset>Desfase de retroceso</CE_DescRecoilOffset>
 	<!-- EN: Effective range factor -->
-	<CE_DescEffectiveRangeMult>Effective range factor</CE_DescEffectiveRangeMult>
+	<CE_DescEffectiveRangeMult>Factor de alcance efectivo</CE_DescEffectiveRangeMult>
 	<!-- EN: Effective range offset -->
-	<CE_DescEffectiveRangeOffset>Effective range offset</CE_DescEffectiveRangeOffset>
+	<CE_DescEffectiveRangeOffset>Desfase de alcance efectivo</CE_DescEffectiveRangeOffset>
 	<!-- EN: Warmup time factor -->
-	<CE_DescWarmupMult>Warmup time factor</CE_DescWarmupMult>
+	<CE_DescWarmupMult>Factor de tiempo de preparacion</CE_DescWarmupMult>
 	<!-- EN: Warmup time offset -->
-	<CE_DescWarmupOffset>Warmup time offset</CE_DescWarmupOffset>
+	<CE_DescWarmupOffset>Desfase de tiempo de preparacion</CE_DescWarmupOffset>
 	<!-- EN: Muzzle flash scale factor -->
-	<CE_DescMuzzleFlasMult>Muzzle flash scale factor</CE_DescMuzzleFlasMult>
+	<CE_DescMuzzleFlasMult>Factor de escala del fogonazo</CE_DescMuzzleFlasMult>
 	<!-- EN: Muzzle flash scale offset -->
-	<CE_DescMuzzleFlashOffset>Muzzle flash scale offset</CE_DescMuzzleFlashOffset>
+	<CE_DescMuzzleFlashOffset>Desfase de escala del fogonazo</CE_DescMuzzleFlashOffset>
 	<!-- EN: Fragments -->
-	<CE_DescFragments>Fragments</CE_DescFragments>
+	<CE_DescFragments>Fragmentos</CE_DescFragments>
 	<!-- EN: Weapon deterioration -->
-	<CE_DescDeteriorationHP>Weapon deterioration</CE_DescDeteriorationHP>
+	<CE_DescDeteriorationHP>Deterioro del arma</CE_DescDeteriorationHP>
 
 	<!-- EN: Launched from {0} ({1}) to {2} ({3}) -->
-	<CE_TravelingShell_Description>Launched from {0} ({1}) to {2} ({3})</CE_TravelingShell_Description>
+	<CE_TravelingShell_Description>Lanzado desde {0} ({1}) hacia {2} ({3})</CE_TravelingShell_Description>
 	<!-- EN: Enemy influenced -->
-	<CE_EnemyInfluenced>Enemy influenced</CE_EnemyInfluenced>
+	<CE_EnemyInfluenced>Influenciado por enemigo</CE_EnemyInfluenced>
 	<!-- EN: Effects: -->
-	<CE_FactionRecord_Explanation_Effects>Effects:</CE_FactionRecord_Explanation_Effects>
+	<CE_FactionRecord_Explanation_Effects>Efectos:</CE_FactionRecord_Explanation_Effects>
 	<!-- EN: Raids prevented for {0} days -->
-	<CE_FactionRecord_Explanation_RaidEmbargo>Raids prevented for {0} days</CE_FactionRecord_Explanation_RaidEmbargo>
+	<CE_FactionRecord_Explanation_RaidEmbargo>Incursiones evitadas por {0} dias</CE_FactionRecord_Explanation_RaidEmbargo>
 	<!-- EN: Strength affected by x{0} for {1} days -->
-	<CE_FactionRecord_Explanation_Strength>Strength affected by x{0} for {1} days</CE_FactionRecord_Explanation_Strength>
+	<CE_FactionRecord_Explanation_Strength>Fuerza afectada por x{0} durante {1} dias</CE_FactionRecord_Explanation_Strength>
 	<!-- EN: Multiplier: -->
-	<CE_Multiplier>Multiplier:</CE_Multiplier>
+	<CE_Multiplier>Multiplicador:</CE_Multiplier>
 	<!-- EN: Value: -->
-	<CE_SetValPartial>Value:</CE_SetValPartial>
+	<CE_SetValPartial>Valor:</CE_SetValPartial>
 
 	<!-- EN: {0} was influenced by an unknown cause -->
-	<CE_FactionRecord_Explanation_None>{0} was influenced by an unknown cause</CE_FactionRecord_Explanation_None>
+	<CE_FactionRecord_Explanation_None>{0} fue influenciado por una causa desconocida</CE_FactionRecord_Explanation_None>
 	<!-- EN: {0} leader died in a major blow -->
-	<CE_FactionRecord_Explanation_LeaderKilled>{0} leader died in a major blow</CE_FactionRecord_Explanation_LeaderKilled>
+	<CE_FactionRecord_Explanation_LeaderKilled>El lider de {0} murio en un gran golpe</CE_FactionRecord_Explanation_LeaderKilled>
 	<!-- EN: Settlement belonging to {0} was destroyed -->
-	<CE_FactionRecord_Explanation_SettlementDestroyed>Settlement belonging to {0} was destroyed</CE_FactionRecord_Explanation_SettlementDestroyed>
+	<CE_FactionRecord_Explanation_SettlementDestroyed>Se destruyo un asentamiento perteneciente a {0}</CE_FactionRecord_Explanation_SettlementDestroyed>
 	<!-- EN: Site belonging to {0} was destroyed -->
-	<CE_FactionRecord_Explanation_SiteDestroyed>Site belonging to {0} was destroyed</CE_FactionRecord_Explanation_SiteDestroyed>
+	<CE_FactionRecord_Explanation_SiteDestroyed>Se destruyo un sitio perteneciente a {0}</CE_FactionRecord_Explanation_SiteDestroyed>
 	<!-- EN: Strengthened after an enemy of {0} was weakened -->
-	<CE_FactionRecord_Explanation_EnemyWeakened>Strengthened after an enemy of {0} was weakened</CE_FactionRecord_Explanation_EnemyWeakened>
+	<CE_FactionRecord_Explanation_EnemyWeakened>Se fortalecio tras debilitarse un enemigo de {0}</CE_FactionRecord_Explanation_EnemyWeakened>
 
 	<!-- EN: Whether or not this item can be used to spot for artillery fire between maps. -->
-	<CE_Long_Range_Radio_Desc>Whether or not this item can be used to spot for artillery fire between maps.</CE_Long_Range_Radio_Desc>
+	<CE_Long_Range_Radio_Desc>Determina si este objeto puede usarse para marcar fuego de artilleria entre mapas.</CE_Long_Range_Radio_Desc>
 </LanguageData>

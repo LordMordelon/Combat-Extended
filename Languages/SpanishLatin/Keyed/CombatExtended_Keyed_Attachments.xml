@@ -1,56 +1,56 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
 	<!-- EN: Attachments -->
-	<CE_Attachments>Attachments</CE_Attachments>
+	<CE_Attachments>Accesorios</CE_Attachments>
 	<!-- EN: Queued additions -->
-	<CE_AttachmentsAdditions>Queued additions</CE_AttachmentsAdditions>
+	<CE_AttachmentsAdditions>Adiciones en cola</CE_AttachmentsAdditions>
 	<!-- EN: Queued removals -->
-	<CE_AttachmentsRemovals>Queued removals</CE_AttachmentsRemovals>
+	<CE_AttachmentsRemovals>Eliminaciones en cola</CE_AttachmentsRemovals>
 	<!-- EN: Queued removals -->
-	<CE_AttachmentsAvailable>Queued removals</CE_AttachmentsAvailable>
+	<CE_AttachmentsAvailable>Disponibles</CE_AttachmentsAvailable>
 	<!-- EN: Edit profile -->
-	<CE_AttachmentsEdit>Edit profile</CE_AttachmentsEdit>
+	<CE_AttachmentsEdit>Editar perfil</CE_AttachmentsEdit>
 	<!-- EN: Edit attachments loadout -->
-	<CE_AttachmentsEditLoadout>Edit attachments loadout</CE_AttachmentsEditLoadout>
+	<CE_AttachmentsEditLoadout>Editar equipamiento de accesorios</CE_AttachmentsEditLoadout>
 	<!-- EN: Clear attachments loadout -->
-	<CE_AttachmentsClearLoadout>Clear attachments loadout</CE_AttachmentsClearLoadout>
+	<CE_AttachmentsClearLoadout>Limpiar equipamiento de accesorios</CE_AttachmentsClearLoadout>
 	<!-- EN: Information -->
-	<CE_Attachments_Information>Information</CE_Attachments_Information>
+	<CE_Attachments_Information>Informacion</CE_Attachments_Information>
 	<!-- EN: Here you can view general Information related to your current configuration. -->
-	<CE_Attachments_Information_Tip>Here you can view general Information related to your current configuration.</CE_Attachments_Information_Tip>
+	<CE_Attachments_Information_Tip>Aqui puedes ver informacion general relacionada con tu configuracion actual.</CE_Attachments_Information_Tip>
 	<!-- EN: Cost -->
-	<CE_Attachments_Cost>Cost</CE_Attachments_Cost>
+	<CE_Attachments_Cost>Costo</CE_Attachments_Cost>
 	<!-- EN: The cost of the current changes -->
-	<CE_Attachments_Cost_Tip>The cost of the current changes</CE_Attachments_Cost_Tip>
+	<CE_Attachments_Cost_Tip>El costo de los cambios actuales</CE_Attachments_Cost_Tip>
 	<!-- EN: Options -->
-	<CE_Attachments_Options>Options</CE_Attachments_Options>
+	<CE_Attachments_Options>Opciones</CE_Attachments_Options>
 	<!-- EN: Here you can select what attachments you want this weapon to have. -->
-	<CE_Attachments_Options_Tip>Here you can select what attachments you want this weapon to have.</CE_Attachments_Options_Tip>
+	<CE_Attachments_Options_Tip>Aqui puedes elegir que accesorios quieres que tenga esta arma.</CE_Attachments_Options_Tip>
 	<!-- EN: Optics -->
-	<CE_AttachmentSlot_Sight>Optics</CE_AttachmentSlot_Sight>
+	<CE_AttachmentSlot_Sight>Optica</CE_AttachmentSlot_Sight>
 	<!-- EN: Muzzle -->
-	<CE_AttachmentSlot_Muzzle>Muzzle</CE_AttachmentSlot_Muzzle>
+	<CE_AttachmentSlot_Muzzle>Bocacha</CE_AttachmentSlot_Muzzle>
 	<!-- EN: Stock -->
-	<CE_AttachmentSlot_Stock>Stock</CE_AttachmentSlot_Stock>
+	<CE_AttachmentSlot_Stock>Culata</CE_AttachmentSlot_Stock>
 	<!-- EN: Underbarrel -->
-	<CE_AttachmentSlot_Underbarrel>Underbarrel</CE_AttachmentSlot_Underbarrel>
+	<CE_AttachmentSlot_Underbarrel>Bajo canon</CE_AttachmentSlot_Underbarrel>
 	<!-- EN: Close -->
-	<CE_Close>Close</CE_Close>
+	<CE_Close>Cerrar</CE_Close>
 	<!-- EN: Apply -->
-	<CE_Apply>Apply</CE_Apply>
+	<CE_Apply>Aplicar</CE_Apply>
 	<!-- EN: Edit Attachments -->
-	<CE_EditAttachments>Edit Attachments</CE_EditAttachments>
+	<CE_EditAttachments>Editar accesorios</CE_EditAttachments>
 	<!-- EN: Statistics -->
-	<CE_EditAttachmentsStats>Statistics</CE_EditAttachmentsStats>
+	<CE_EditAttachmentsStats>Estadisticas</CE_EditAttachmentsStats>
 	<!-- EN: Cost -->
-	<CE_EditAttachmentsCost>Cost</CE_EditAttachmentsCost>
+	<CE_EditAttachmentsCost>Costo</CE_EditAttachmentsCost>
 
 	<!-- EN: Switch to under barrel -->
-	<CE_SwitchAmmmoSetToUnderBarrel>Switch to under barrel</CE_SwitchAmmmoSetToUnderBarrel>
+	<CE_SwitchAmmmoSetToUnderBarrel>Cambiar a accesorio bajo canon</CE_SwitchAmmmoSetToUnderBarrel>
 	<!-- EN: Switch to standard weapon -->
-	<CE_SwitchAmmmoSetToNormalRifle>Switch to standard weapon</CE_SwitchAmmmoSetToNormalRifle>
+	<CE_SwitchAmmmoSetToNormalRifle>Cambiar a arma estandar</CE_SwitchAmmmoSetToNormalRifle>
 	<!-- EN: Under barrel weapon stats: -->
-	<CE_UBGLStats>Under barrel weapon stats:</CE_UBGLStats>
+	<CE_UBGLStats>Estadisticas del arma bajo canon:</CE_UBGLStats>
 	<!-- EN: Click or hover over -->
-	<CE_UBGLStats_Title>Click or hover over</CE_UBGLStats_Title>
+	<CE_UBGLStats_Title>Haz clic o pasa el cursor</CE_UBGLStats_Title>
 </LanguageData>

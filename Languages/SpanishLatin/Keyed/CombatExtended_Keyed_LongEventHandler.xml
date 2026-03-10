@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
 	<!-- EN: Preparing CombatExtended loadout generators -->
-	<CE_LongEvent_LoadoutProperties>Preparing CombatExtended loadout generators</CE_LongEvent_LoadoutProperties>
+	<CE_LongEvent_LoadoutProperties>Preparando generadores de equipamiento de Combat Extended</CE_LongEvent_LoadoutProperties>
 	<!-- EN: Generalizing ammunition -->
-	<CE_LongEvent_AmmoGeneralizer>Generalizing ammunition</CE_LongEvent_AmmoGeneralizer>
+	<CE_LongEvent_AmmoGeneralizer>Generalizando municion</CE_LongEvent_AmmoGeneralizer>
 	<!-- EN: Injecting ammunition -->
-	<CE_LongEvent_AmmoInjector>Injecting ammunition</CE_LongEvent_AmmoInjector>
+	<CE_LongEvent_AmmoInjector>Inyectando municion</CE_LongEvent_AmmoInjector>
 	<!-- EN: Generating CombatExtended bounding boxes -->
-	<CE_LongEvent_BoundingBoxes>Generating CombatExtended bounding boxes</CE_LongEvent_BoundingBoxes>
+	<CE_LongEvent_BoundingBoxes>Generando limites de Combat Extended</CE_LongEvent_BoundingBoxes>
 	<!-- EN: Caching def data -->
-	<CE_LongEvent_DefUtility>Caching def data</CE_LongEvent_DefUtility>
+	<CE_LongEvent_DefUtility>Almacenando en cache datos de definiciones</CE_LongEvent_DefUtility>
 	<!-- EN: Loading tutorial pop-up -->
-	<CE_LongEvent_TutorialPopup>Loading tutorial pop-up</CE_LongEvent_TutorialPopup>
+	<CE_LongEvent_TutorialPopup>Cargando ventana emergente de tutorial</CE_LongEvent_TutorialPopup>
 	<!-- EN: Applying compatibility patches -->
-	<CE_LongEvent_CompatibilityPatches>Applying compatibility patches</CE_LongEvent_CompatibilityPatches>
+	<CE_LongEvent_CompatibilityPatches>Aplicando parches de compatibilidad</CE_LongEvent_CompatibilityPatches>
 	<!-- EN: Translating menu -->
-	<CE_LongEvent_CE_InitTabs>Translating menu</CE_LongEvent_CE_InitTabs>
+	<CE_LongEvent_CE_InitTabs>Traduciendo menu</CE_LongEvent_CE_InitTabs>
 	<!-- EN: Logging unpatched tools -->
-	<CE_LongEvent_LogUnpatchedTools>Logging unpatched tools</CE_LongEvent_LogUnpatchedTools>
+	<CE_LongEvent_LogUnpatchedTools>Registrando herramientas sin parchear</CE_LongEvent_LogUnpatchedTools>
 </LanguageData>

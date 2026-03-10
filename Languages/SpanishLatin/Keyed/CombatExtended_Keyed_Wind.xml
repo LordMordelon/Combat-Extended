@@ -1,49 +1,49 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
 	<!-- EN: Calm -->
-	<CE_Wind_Beaufort0>Calm</CE_Wind_Beaufort0>
+	<CE_Wind_Beaufort0>Calma</CE_Wind_Beaufort0>
 	<!-- EN: Light breeze -->
-	<CE_Wind_Beaufort1>Light breeze</CE_Wind_Beaufort1>
+	<CE_Wind_Beaufort1>Brisa ligera</CE_Wind_Beaufort1>
 	<!-- EN: Moderate breeze -->
-	<CE_Wind_Beaufort2>Moderate breeze</CE_Wind_Beaufort2>
+	<CE_Wind_Beaufort2>Brisa moderada</CE_Wind_Beaufort2>
 	<!-- EN: Strong breeze -->
-	<CE_Wind_Beaufort3>Strong breeze</CE_Wind_Beaufort3>
+	<CE_Wind_Beaufort3>Brisa fuerte</CE_Wind_Beaufort3>
 	<!-- EN: Light wind -->
-	<CE_Wind_Beaufort4>Light wind</CE_Wind_Beaufort4>
+	<CE_Wind_Beaufort4>Viento ligero</CE_Wind_Beaufort4>
 	<!-- EN: Moderate wind -->
-	<CE_Wind_Beaufort5>Moderate wind</CE_Wind_Beaufort5>
+	<CE_Wind_Beaufort5>Viento moderado</CE_Wind_Beaufort5>
 	<!-- EN: Strong wind -->
-	<CE_Wind_Beaufort6>Strong wind</CE_Wind_Beaufort6>
+	<CE_Wind_Beaufort6>Viento fuerte</CE_Wind_Beaufort6>
 	<!-- EN: Near gale -->
-	<CE_Wind_Beaufort7>Near gale</CE_Wind_Beaufort7>
+	<CE_Wind_Beaufort7>Casi vendaval</CE_Wind_Beaufort7>
 	<!-- EN: Gale -->
-	<CE_Wind_Beaufort8>Gale</CE_Wind_Beaufort8>
+	<CE_Wind_Beaufort8>Vendaval</CE_Wind_Beaufort8>
 	<!-- EN: Strong gale -->
-	<CE_Wind_Beaufort9>Strong gale</CE_Wind_Beaufort9>
+	<CE_Wind_Beaufort9>Vendaval fuerte</CE_Wind_Beaufort9>
 	<!-- EN: Storm -->
-	<CE_Wind_Beaufort10>Storm</CE_Wind_Beaufort10>
+	<CE_Wind_Beaufort10>Tormenta</CE_Wind_Beaufort10>
 	<!-- EN: Violent storm -->
-	<CE_Wind_Beaufort11>Violent storm</CE_Wind_Beaufort11>
+	<CE_Wind_Beaufort11>Tormenta violenta</CE_Wind_Beaufort11>
 	<!-- EN: Hurricane -->
-	<CE_Wind_Beaufort12>Hurricane</CE_Wind_Beaufort12>
+	<CE_Wind_Beaufort12>Huracan</CE_Wind_Beaufort12>
 
 	<!-- EN: heading North -->
-	<CE_Wind_Direction_N>heading North</CE_Wind_Direction_N>
+	<CE_Wind_Direction_N>hacia el Norte</CE_Wind_Direction_N>
 	<!-- EN: heading Northeast -->
-	<CE_Wind_Direction_NE>heading Northeast</CE_Wind_Direction_NE>
+	<CE_Wind_Direction_NE>hacia el Noreste</CE_Wind_Direction_NE>
 	<!-- EN: heading East -->
-	<CE_Wind_Direction_E>heading East</CE_Wind_Direction_E>
+	<CE_Wind_Direction_E>hacia el Este</CE_Wind_Direction_E>
 	<!-- EN: heading Southeast -->
-	<CE_Wind_Direction_SE>heading Southeast</CE_Wind_Direction_SE>
+	<CE_Wind_Direction_SE>hacia el Sureste</CE_Wind_Direction_SE>
 	<!-- EN: heading South -->
-	<CE_Wind_Direction_S>heading South</CE_Wind_Direction_S>
+	<CE_Wind_Direction_S>hacia el Sur</CE_Wind_Direction_S>
 	<!-- EN: heading Southwest -->
-	<CE_Wind_Direction_SW>heading Southwest</CE_Wind_Direction_SW>
+	<CE_Wind_Direction_SW>hacia el Suroeste</CE_Wind_Direction_SW>
 	<!-- EN: heading West -->
-	<CE_Wind_Direction_W>heading West</CE_Wind_Direction_W>
+	<CE_Wind_Direction_W>hacia el Oeste</CE_Wind_Direction_W>
 	<!-- EN: heading Northwest -->
-	<CE_Wind_Direction_NW>heading Northwest</CE_Wind_Direction_NW>
+	<CE_Wind_Direction_NW>hacia el Noroeste</CE_Wind_Direction_NW>
 
 	<!-- EN: Current wind speed and direction.\n\nWind affects the spread pattern of fires, and can range from light breezes to strong gales. -->
-	<CE_Wind_Tooltip>Current wind speed and direction.\n\nWind affects the spread pattern of fires, and can range from light breezes to strong gales.</CE_Wind_Tooltip>
+	<CE_Wind_Tooltip>Velocidad y direccion actual del viento.\n\nEl viento afecta el patron de propagacion del fuego, y puede ir desde brisas ligeras hasta vendavales fuertes.</CE_Wind_Tooltip>
 </LanguageData>
