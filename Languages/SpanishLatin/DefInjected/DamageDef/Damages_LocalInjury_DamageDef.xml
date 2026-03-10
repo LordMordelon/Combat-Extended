@@ -1,82 +1,82 @@
 <LanguageData>
 	<!-- Defs\DamageDefs\Damages_LocalInjury.xml -->
 	<!-- EN: beanbag -->
-	<Beanbag.label>beanbag</Beanbag.label>
+	<Beanbag.label>saco de frijoles</Beanbag.label>
 	<!-- EN: {0} has been beanbagged to death. -->
-	<Beanbag.deathMessage>{0} has been beanbagged to death.</Beanbag.deathMessage>
+	<Beanbag.deathMessage>{0} murio por impactos de saco de frijoles.</Beanbag.deathMessage>
 	
 	<!-- EN: taser -->
 	<Taser.label>taser</Taser.label>
 	<!-- EN: {0} has been tasered to death. -->
-	<Taser.deathMessage>{0} has been tasered to death.</Taser.deathMessage>
+	<Taser.deathMessage>{0} murio electrocutado por taser.</Taser.deathMessage>
 	
 	<!-- EN: fragment -->
-	<Fragment.label>fragment</Fragment.label>
+	<Fragment.label>fragmento</Fragment.label>
 	<!-- EN: {0} has been shredded to death. -->
-	<Fragment.deathMessage>{0} has been shredded to death.</Fragment.deathMessage>
+	<Fragment.deathMessage>{0} murio desgarrado.</Fragment.deathMessage>
 	
 	<!-- EN: prometheum flame -->
-	<PrometheumFlame.label>prometheum flame</PrometheumFlame.label>
+	<PrometheumFlame.label>llama de prometeo</PrometheumFlame.label>
 	<!-- EN: {0} has burned to death. -->
-	<PrometheumFlame.deathMessage>{0} has burned to death.</PrometheumFlame.deathMessage>
+	<PrometheumFlame.deathMessage>{0} murio calcinado.</PrometheumFlame.deathMessage>
 	
 	<!-- EN: bomb -->
-	<Bomb_Secondary.label>bomb</Bomb_Secondary.label>
+	<Bomb_Secondary.label>bomba</Bomb_Secondary.label>
 	<!-- EN: {0} has died in an explosion. -->
-	<Bomb_Secondary.deathMessage>{0} has died in an explosion.</Bomb_Secondary.deathMessage>
+	<Bomb_Secondary.deathMessage>{0} murio en una explosion.</Bomb_Secondary.deathMessage>
 	
 	<!-- EN: thermobaric -->
-	<Thermobaric.label>thermobaric</Thermobaric.label>
+	<Thermobaric.label>termobarica</Thermobaric.label>
 	<!-- EN: {0} has died in an explosion. -->
-	<Thermobaric.deathMessage>{0} has died in an explosion.</Thermobaric.deathMessage>
+	<Thermobaric.deathMessage>{0} murio en una explosion.</Thermobaric.deathMessage>
 	
 	<!-- EN: burn -->
-	<Flame_Secondary.label>burn</Flame_Secondary.label>
+	<Flame_Secondary.label>quemadura</Flame_Secondary.label>
 	<!-- EN: {0} has burned to death. -->
-	<Flame_Secondary.deathMessage>{0} has burned to death.</Flame_Secondary.deathMessage>
+	<Flame_Secondary.deathMessage>{0} murio calcinado.</Flame_Secondary.deathMessage>
 	
 	<!-- EN: flame -->
-	<Flame_Secondary_Incendiary.label>flame</Flame_Secondary_Incendiary.label>
+	<Flame_Secondary_Incendiary.label>llama</Flame_Secondary_Incendiary.label>
 	<!-- EN: {0} has burned to death. -->
-	<Flame_Secondary_Incendiary.deathMessage>{0} has burned to death.</Flame_Secondary_Incendiary.deathMessage>
+	<Flame_Secondary_Incendiary.deathMessage>{0} murio calcinado.</Flame_Secondary_Incendiary.deathMessage>
 	
 	<!-- EN: electrical -->
-	<Electrical.label>electrical</Electrical.label>
+	<Electrical.label>electrico</Electrical.label>
 	<!-- EN: {0} has been electrocuted. -->
-	<Electrical.deathMessage>{0} has been electrocuted.</Electrical.deathMessage>
+	<Electrical.deathMessage>{0} fue electrocutado.</Electrical.deathMessage>
 	
 	<!-- EN: arrow -->
-	<ArrowVenom.label>arrow</ArrowVenom.label>
+	<ArrowVenom.label>flecha</ArrowVenom.label>
 	<!-- EN: {0} has been shot to death by an arrow. -->
-	<ArrowVenom.deathMessage>{0} has been shot to death by an arrow.</ArrowVenom.deathMessage>
+	<ArrowVenom.deathMessage>{0} murio por una flecha.</ArrowVenom.deathMessage>
 	
 	<!-- EN: arrow -->
-	<ArrowFire.label>arrow</ArrowFire.label>
+	<ArrowFire.label>flecha</ArrowFire.label>
 	<!-- EN: {0} has been shot to death by an arrow. -->
-	<ArrowFire.deathMessage>{0} has been shot to death by an arrow.</ArrowFire.deathMessage>
+	<ArrowFire.deathMessage>{0} murio por una flecha.</ArrowFire.deathMessage>
 	
 	<!-- EN: tranquilizer -->
-	<Tranquilizer.label>tranquilizer</Tranquilizer.label>
+	<Tranquilizer.label>tranquilizante</Tranquilizer.label>
 	<!-- EN: {0} has been shot to death. -->
-	<Tranquilizer.deathMessage>{0} has been shot to death.</Tranquilizer.deathMessage>
+	<Tranquilizer.deathMessage>{0} murio por disparos.</Tranquilizer.deathMessage>
 	
 	<!-- EN: neuralizer -->
-	<Neuralizer.label>neuralizer</Neuralizer.label>
+	<Neuralizer.label>neuralizador</Neuralizer.label>
 	<!-- EN: {0} has been electrocuted. -->
-	<Neuralizer.deathMessage>{0} has been electrocuted.</Neuralizer.deathMessage>
+	<Neuralizer.deathMessage>{0} fue electrocutado.</Neuralizer.deathMessage>
 	
 	<!-- EN: low power neuralizer -->
-	<Neuralizer_weak.label>low power neuralizer</Neuralizer_weak.label>
+	<Neuralizer_weak.label>neuralizador de baja potencia</Neuralizer_weak.label>
 	<!-- EN: {0} has been electrocuted. -->
-	<Neuralizer_weak.deathMessage>{0} has been electrocuted.</Neuralizer_weak.deathMessage>
+	<Neuralizer_weak.deathMessage>{0} fue electrocutado.</Neuralizer_weak.deathMessage>
 	
 	<!-- EN: flashbang -->
-	<Flashbang.label>flashbang</Flashbang.label>
+	<Flashbang.label>granada aturdidora</Flashbang.label>
 	<!-- EN: {0} has been killed. -->
-	<Flashbang.deathMessage>{0} has been killed.</Flashbang.deathMessage>
+	<Flashbang.deathMessage>{0} ha muerto.</Flashbang.deathMessage>
 	
 	<!-- EN: laser -->
 	<CE_Laser.label>laser</CE_Laser.label>
 	<!-- EN: {0} has been scorched to death. -->
-	<CE_Laser.deathMessage>{0} has been scorched to death.</CE_Laser.deathMessage>
+	<CE_Laser.deathMessage>{0} murio abrasado.</CE_Laser.deathMessage>
 </LanguageData>

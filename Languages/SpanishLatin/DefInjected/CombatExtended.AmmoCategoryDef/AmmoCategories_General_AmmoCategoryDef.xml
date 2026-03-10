@@ -65,7 +65,7 @@
 	<Taser.description>Municion especial disenada para enfrentamientos no letales, que entrega una descarga electrica incapacitante.</Taser.description>
 	
 	<!-- EN: flare -->
-	<Flare.label>flare</Flare.label>
+	<Flare.label>bengala</Flare.label>
 	<!-- EN: Special round based around a brightly-burning incendiary element, used for signaling and illumination. -->
 	<Flare.description>Municion especial basada en un elemento incendiario de combustion intensa, usada para senalizacion e iluminacion.</Flare.description>
 	
@@ -75,19 +75,19 @@
 	<DisruptorFlare.description>Una capsula de bioferrita encapsulada en un cartucho de escopeta usada para crear una perturbacion psiquica local. Aturde criaturas sensibles psiquicamente y revela a las invisibles.</DisruptorFlare.description>
 	
 	<!-- EN: demolition -->
-	<Demolition.label>demolition</Demolition.label>
+	<Demolition.label>demolición</Demolition.label>
 	<!-- EN: Special round based around a low explosive element, used to destroy structures and fortifications. -->
 	<Demolition.description>Municion especial basada en una carga de bajo explosivo, usada para destruir estructuras y fortificaciones.</Demolition.description>
 	
 	<!-- EN: nail -->
-	<Nail.label>nail</Nail.label>
+	<Nail.label>clavo</Nail.label>
 	<!-- EN: nail -->
-	<Nail.labelShort>nail</Nail.labelShort>
+	<Nail.labelShort>clavo</Nail.labelShort>
 	<!-- EN: Pointy nails arranged in strips. -->
 	<Nail.description>Clavos puntiagudos dispuestos en tiras.</Nail.description>
 	
 	<!-- EN: silver -->
-	<SilverBullet.label>silver</SilverBullet.label>
+	<SilverBullet.label>plata</SilverBullet.label>
 	<!-- EN: Silver -->
 	<SilverBullet.labelShort>Plata</SilverBullet.labelShort>
 	<!-- EN: The body of this projectile is silver, which some believe give it supernatural properties. -->
