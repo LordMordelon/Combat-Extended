@@ -1,53 +1,53 @@
 <LanguageData>
 	<!-- Defs\Ammo\AmmoCategoryDefs\AmmoCategories_Grenades.xml -->
 	<!-- EN: high-explosive -->
-	<GrenadeHE.label>high-explosive</GrenadeHE.label>
+	<GrenadeHE.label>alto explosivo</GrenadeHE.label>
 	<!-- EN: HE -->
 	<GrenadeHE.labelShort>HE</GrenadeHE.labelShort>
 	<!-- EN: The high-explosive charge detonates on impact, scattering lethal shell fragments in a large area. -->
-	<GrenadeHE.description>The high-explosive charge detonates on impact, scattering lethal shell fragments in a large area.</GrenadeHE.description>
+	<GrenadeHE.description>La carga de alto explosivo detona al impactar, dispersando fragmentos letales por una gran area.</GrenadeHE.description>
 	
 	<!-- EN: High-explosive dual-purpose -->
-	<GrenadeHEDP.label>High-explosive dual-purpose</GrenadeHEDP.label>
+	<GrenadeHEDP.label>alto explosivo de doble proposito</GrenadeHEDP.label>
 	<!-- EN: HEDP -->
 	<GrenadeHEDP.labelShort>HEDP</GrenadeHEDP.labelShort>
 	<!-- EN: Grenade with a shaped charge warhead. Detonates on impact, creating a super-heated stream of molten metal that punches through enemy armor. -->
-	<GrenadeHEDP.description>Grenade with a shaped charge warhead. Detonates on impact, creating a super-heated stream of molten metal that punches through enemy armor.</GrenadeHEDP.description>
+	<GrenadeHEDP.description>Granada con ojiva de carga hueca. Detona al impactar, creando un chorro sobrecalentado de metal fundido que perfora la armadura enemiga.</GrenadeHEDP.description>
 	
 	<!-- EN: High-explosive airburst -->
-	<GrenadeHETF.label>High-explosive airburst</GrenadeHETF.label>
+	<GrenadeHETF.label>alto explosivo de estallido aéreo</GrenadeHETF.label>
 	<!-- EN: Airburst -->
-	<GrenadeHETF.labelShort>Airburst</GrenadeHETF.labelShort>
+	<GrenadeHETF.labelShort>Aéreo</GrenadeHETF.labelShort>
 	<!-- EN: Grenade with a timed fuze designed to detonate mid-flight for maxiumum effectiveness. -->
-	<GrenadeHETF.description>Grenade with a timed fuze designed to detonate mid-flight for maxiumum effectiveness.</GrenadeHETF.description>
+	<GrenadeHETF.description>Granada con espoleta temporizada disenada para detonar en pleno vuelo y lograr maxima efectividad.</GrenadeHETF.description>
 	
 	<!-- EN: EMP -->
 	<GrenadeEMP.label>EMP</GrenadeEMP.label>
 	<!-- EN: Creates an electro-magnetic burst on impact, temporarily disrupting electronic systems and Mechanoids. -->
-	<GrenadeEMP.description>Creates an electro-magnetic burst on impact, temporarily disrupting electronic systems and Mechanoids.</GrenadeEMP.description>
+	<GrenadeEMP.description>Crea una rafaga electromagnetica al impactar, interrumpiendo temporalmente sistemas electronicos y mecanoides.</GrenadeEMP.description>
 	
 	<!-- EN: Incendiary -->
-	<GrenadeIncendiary.label>Incendiary</GrenadeIncendiary.label>
+	<GrenadeIncendiary.label>Incendiaria</GrenadeIncendiary.label>
 	<!-- EN: Filled with incendiary agent. The agent is dispersed on impact, covering the area in flames. -->
-	<GrenadeIncendiary.description>Filled with incendiary agent. The agent is dispersed on impact, covering the area in flames.</GrenadeIncendiary.description>
+	<GrenadeIncendiary.description>Rellena con agente incendiario. El agente se dispersa al impacto, cubriendo el area en llamas.</GrenadeIncendiary.description>
 	
 	<!-- EN: Smoke -->
-	<Smoke.label>Smoke</Smoke.label>
+	<Smoke.label>Humo</Smoke.label>
 	<!-- EN: Filled with a smoke-producing agent. Explodes on impact to generate a thick smokescreen. -->
-	<Smoke.description>Filled with a smoke-producing agent. Explodes on impact to generate a thick smokescreen.</Smoke.description>
+	<Smoke.description>Rellena con un agente generador de humo. Explota al impactar para crear una cortina de humo densa.</Smoke.description>
 	
 	<!-- EN: tear gas -->
-	<CNGas.label>tear gas</CNGas.label>
+	<CNGas.label>gas lacrimogeno</CNGas.label>
 	<!-- EN: Filled with a non-lethal chemical agent capable of causing pain, irritation, and temporary blindness. -->
-	<CNGas.description>Filled with a non-lethal chemical agent capable of causing pain, irritation, and temporary blindness.</CNGas.description>
+	<CNGas.description>Rellena con un agente quimico no letal capaz de causar dolor, irritacion y ceguera temporal.</CNGas.description>
 	
 	<!-- EN: Toxic -->
-	<Toxic.label>Toxic</Toxic.label>
+	<Toxic.label>Toxica</Toxic.label>
 	<!-- EN: Filled with tox gas, a caustic agent that burns the lungs and eyes. Continued exposure to it results in toxic buildup which can be lethal. -->
-	<Toxic.description>Filled with tox gas, a caustic agent that burns the lungs and eyes. Continued exposure to it results in toxic buildup which can be lethal.</Toxic.description>
+	<Toxic.description>Rellena con gas toxico, un agente caustico que quema pulmones y ojos. La exposicion continua produce acumulacion toxica que puede ser letal.</Toxic.description>
 	
 	<!-- EN: Deadlife -->
-	<Deadlife.label>Deadlife</Deadlife.label>
+	<Deadlife.label>Muerte viviente</Deadlife.label>
 	<!-- EN: Filled with a dust-like substance that explodes into a cloud and reanimates nearby corpses. -->
-	<Deadlife.description>Filled with a dust-like substance that explodes into a cloud and reanimates nearby corpses.</Deadlife.description>
+	<Deadlife.description>Rellena con una sustancia similar al polvo que explota en una nube y reanima cadaveres cercanos.</Deadlife.description>
 </LanguageData>

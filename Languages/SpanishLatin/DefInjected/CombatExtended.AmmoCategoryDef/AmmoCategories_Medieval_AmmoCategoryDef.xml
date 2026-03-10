@@ -1,42 +1,42 @@
 <LanguageData>
 	<!-- Defs\Ammo\AmmoCategoryDefs\AmmoCategories_Medieval.xml -->
 	<!-- EN: Ballista Bolt -->
-	<BallistaBolt.label>Ballista Bolt</BallistaBolt.label>
+	<BallistaBolt.label>Perno de ballesta</BallistaBolt.label>
 	<!-- EN: A steel tip attached to a long and fletched wooden pole, packing a very strong punch against scarcely armored targets. -->
-	<BallistaBolt.description>A steel tip attached to a long and fletched wooden pole, packing a very strong punch against scarcely armored targets.</BallistaBolt.description>
+	<BallistaBolt.description>Una punta de acero unida a un asta larga de madera emplumada, con un impacto muy potente contra objetivos con poca armadura.</BallistaBolt.description>
 	
 	<!-- EN: Heavy Ballista Bolt -->
-	<BallistaBoltHeavy.label>Heavy Ballista Bolt</BallistaBoltHeavy.label>
+	<BallistaBoltHeavy.label>Perno de ballesta pesado</BallistaBoltHeavy.label>
 	<!-- EN: Fitted with a heavy steel tip to defeat the toughest of targets. -->
-	<BallistaBoltHeavy.description>Fitted with a heavy steel tip to defeat the toughest of targets.</BallistaBoltHeavy.description>
+	<BallistaBoltHeavy.description>Equipado con una pesada punta de acero para derrotar a los objetivos mas duros.</BallistaBoltHeavy.description>
 	
 	<!-- EN: Armor-Piercing Ballista Bolt -->
-	<BallistaBoltArmorPiercing.label>Armor-Piercing Ballista Bolt</BallistaBoltArmorPiercing.label>
+	<BallistaBoltArmorPiercing.label>Perno de ballesta perforante</BallistaBoltArmorPiercing.label>
 	<!-- EN: Fitted with a streamlined and hardened steel tip to punch through armored targets. -->
-	<BallistaBoltArmorPiercing.description>Fitted with a streamlined and hardened steel tip to punch through armored targets.</BallistaBoltArmorPiercing.description>
+	<BallistaBoltArmorPiercing.description>Equipado con una punta de acero endurecida y aerodinamica para perforar objetivos blindados.</BallistaBoltArmorPiercing.description>
 	
 	<!-- EN: Ball -->
-	<MusketBall.label>Ball</MusketBall.label>
+	<MusketBall.label>Bala</MusketBall.label>
 	<!-- EN: A rounded metal projectile fired from an early, black powder firearm. -->
-	<MusketBall.description>A rounded metal projectile fired from an early, black powder firearm.</MusketBall.description>
+	<MusketBall.description>Un proyectil metalico redondeado disparado por un arma de fuego temprana de polvora negra.</MusketBall.description>
 	
 	<!-- EN: Round Shot -->
-	<CannonBall.label>Round Shot</CannonBall.label>
+	<CannonBall.label>Bala redonda</CannonBall.label>
 	<!-- EN: A solid metal ball fired from an early, smoothbore cannon. -->
-	<CannonBall.description>A solid metal ball fired from an early, smoothbore cannon.</CannonBall.description>
+	<CannonBall.description>Una esfera maciza de metal disparada por un canon temprano de anima lisa.</CannonBall.description>
 	
 	<!-- EN: Grapeshot -->
-	<Grapeshot.label>Grapeshot</Grapeshot.label>
+	<Grapeshot.label>Metralla</Grapeshot.label>
 	<!-- EN: A canister packed with numerous small projectiles, fired from early smoothbore cannons as an anti-infantry weapon. -->
-	<Grapeshot.description>A canister packed with numerous small projectiles, fired from early smoothbore cannons as an anti-infantry weapon.</Grapeshot.description>
+	<Grapeshot.description>Un cartucho lleno de numerosos proyectiles pequenos, disparado por canones tempranos de anima lisa como arma antiinfanteria.</Grapeshot.description>
 	
 	<!-- EN: Bursting Shell -->
-	<BurstingShell.label>Bursting Shell</BurstingShell.label>
+	<BurstingShell.label>Proyectil explosivo</BurstingShell.label>
 	<!-- EN: A crude explosive shell consisting of a hollow metal projectile filled with blackpowder to be fired from early smoothbore cannons. -->
-	<BurstingShell.description>A crude explosive shell consisting of a hollow metal projectile filled with blackpowder to be fired from early smoothbore cannons.</BurstingShell.description>
+	<BurstingShell.description>Un proyectil explosivo rudimentario formado por una carcasa metalica hueca rellena de polvora negra para dispararse desde canones tempranos de anima lisa.</BurstingShell.description>
 	
 	<!-- EN: Fire Shell -->
-	<FireShell.label>Fire Shell</FireShell.label>
+	<FireShell.label>Proyectil incendiario</FireShell.label>
 	<!-- EN: A simple incendiary shell consisting of a hollow metal projectile filled with highly flammable liquid to be fired from early smoothbore cannons. -->
-	<FireShell.description>A simple incendiary shell consisting of a hollow metal projectile filled with highly flammable liquid to be fired from early smoothbore cannons.</FireShell.description>
+	<FireShell.description>Un proyectil incendiario simple formado por una carcasa metalica hueca rellena de liquido altamente inflamable para dispararse desde canones tempranos de anima lisa.</FireShell.description>
 </LanguageData>
