@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Mlie_LogannRace\Wolv_Weapons986.xml -->
+	<!-- EN: stock -->
+	<Gun_WolvShotgun.tools.0.label>stock</Gun_WolvShotgun.tools.0.label>
+	<!-- EN: bayonet -->
+	<Gun_WolvShotgun.tools.1.label>bayonet</Gun_WolvShotgun.tools.1.label>
+	<!-- EN: edge -->
+	<Wolv_Katana.tools.0.label>edge</Wolv_Katana.tools.0.label>
+	<!-- EN: edge -->
+	<Wolv_Axe.tools.0.label>edge</Wolv_Axe.tools.0.label>
+	<!-- EN: head -->
+	<Wolv_Mace.tools.0.label>head</Wolv_Mace.tools.0.label>
+	<!-- EN: point -->
+	<Wolv_Sword.tools.0.label>point</Wolv_Sword.tools.0.label>
+</LanguageData>

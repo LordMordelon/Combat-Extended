@@ -1,0 +1,14 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\DankPyon_Medieval_Overhaul_House_Roxmont\MOHR_Weapons1085.xml -->
+	<!-- EN: shaft -->
+	<DankPyon_MeleeWeapon_PikeRoxmont.tools.0.label>shaft</DankPyon_MeleeWeapon_PikeRoxmont.tools.0.label>
+	<!-- EN: point -->
+	<DankPyon_MeleeWeapon_PikeRoxmont.tools.1.label>point</DankPyon_MeleeWeapon_PikeRoxmont.tools.1.label>
+	
+	<!-- EN: shaft -->
+	<DankPyon_MeleeWeapon_RoxWaraxe.tools.0.label>shaft</DankPyon_MeleeWeapon_RoxWaraxe.tools.0.label>
+	<!-- EN: point -->
+	<DankPyon_MeleeWeapon_RoxWaraxe.tools.1.label>point</DankPyon_MeleeWeapon_RoxWaraxe.tools.1.label>
+	<!-- EN: edge -->
+	<DankPyon_MeleeWeapon_RoxWaraxe.tools.2.label>edge</DankPyon_MeleeWeapon_RoxWaraxe.tools.2.label>
+</LanguageData>

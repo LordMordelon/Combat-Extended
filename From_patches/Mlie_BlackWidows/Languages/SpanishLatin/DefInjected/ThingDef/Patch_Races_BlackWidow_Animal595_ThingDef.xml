@@ -1,0 +1,18 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Mlie_BlackWidows\Patch_Races_BlackWidow_Animal595.xml -->
+	<!-- EN: psionic gem -->
+	<BWFlooferMoth.tools.0.label>psionic gem</BWFlooferMoth.tools.0.label>
+	<!-- EN: left wing -->
+	<BWFlooferMoth.tools.2.label>left wing</BWFlooferMoth.tools.2.label>
+	<!-- EN: right wing -->
+	<BWFlooferMoth.tools.3.label>right wing</BWFlooferMoth.tools.3.label>
+	<!-- EN: head -->
+	<BWFlooferMoth.tools.4.label>head</BWFlooferMoth.tools.4.label>
+	
+	<!-- EN: head -->
+	<BWShadowWorm.tools.1.label>head</BWShadowWorm.tools.1.label>
+	<!-- EN: left claw -->
+	<BWShadowWorm.tools.2.label>left claw</BWShadowWorm.tools.2.label>
+	<!-- EN: right claw -->
+	<BWShadowWorm.tools.3.label>right claw</BWShadowWorm.tools.3.label>
+</LanguageData>

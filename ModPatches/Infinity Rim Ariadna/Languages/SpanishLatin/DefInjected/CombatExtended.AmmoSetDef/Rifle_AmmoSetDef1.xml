@@ -1,0 +1,14 @@
+<LanguageData>
+	<!-- ModPatches\Infinity Rim Ariadna\Defs\Infinity Rim Ariadna\Ammo\Rifle.xml -->
+	<!-- EN: 5.45x39mm Ariadnan -->
+	<AmmoSet_TeseumRifleIntermediate.label>5.45x39mm Ariadnan</AmmoSet_TeseumRifleIntermediate.label>
+	
+	<!-- EN: intermediate rifle -->
+	<AmmoSet_TeseumRifleIntermediateGeneric.label>intermediate rifle</AmmoSet_TeseumRifleIntermediateGeneric.label>
+	
+	<!-- EN: 7.62x54mm Ariadnan -->
+	<AmmoSet_TeseumRifleFullPower.label>7.62x54mm Ariadnan</AmmoSet_TeseumRifleFullPower.label>
+	
+	<!-- EN: full power rifle -->
+	<AmmoSet_TeseumRifleFullPowerGeneric.label>full power rifle</AmmoSet_TeseumRifleFullPowerGeneric.label>
+</LanguageData>

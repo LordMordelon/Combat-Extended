@@ -1,0 +1,14 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\ALIEN_KaiserArmory\KaiserArmory_Melee943.xml -->
+	<!-- EN: blade -->
+	<MeleeWeapon_S98_05_KA.tools.0.label>blade</MeleeWeapon_S98_05_KA.tools.0.label>
+	<!-- EN: point -->
+	<MeleeWeapon_S98_05_KA.tools.1.label>point</MeleeWeapon_S98_05_KA.tools.1.label>
+	
+	<!-- EN: handle -->
+	<MeleeWeapon_Sabel.tools.0.label>handle</MeleeWeapon_Sabel.tools.0.label>
+	<!-- EN: point -->
+	<MeleeWeapon_Sabel.tools.1.label>point</MeleeWeapon_Sabel.tools.1.label>
+	<!-- EN: edge -->
+	<MeleeWeapon_Sabel.tools.2.label>edge</MeleeWeapon_Sabel.tools.2.label>
+</LanguageData>

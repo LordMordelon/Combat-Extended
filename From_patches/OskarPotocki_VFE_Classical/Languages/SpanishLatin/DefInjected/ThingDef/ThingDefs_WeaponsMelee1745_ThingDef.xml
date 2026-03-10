@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\OskarPotocki_VFE_Classical\ThingDefs_WeaponsMelee1745.xml -->
+	<!-- EN: handle -->
+	<VFEC_MeleeWeapon_Spatha.tools.0.label>handle</VFEC_MeleeWeapon_Spatha.tools.0.label>
+	<!-- EN: point -->
+	<VFEC_MeleeWeapon_Spatha.tools.1.label>point</VFEC_MeleeWeapon_Spatha.tools.1.label>
+	<!-- EN: edge -->
+	<VFEC_MeleeWeapon_Spatha.tools.2.label>edge</VFEC_MeleeWeapon_Spatha.tools.2.label>
+	
+	<!-- EN: handle -->
+	<VFEC_MeleeWeapon_Dagger.tools.0.label>handle</VFEC_MeleeWeapon_Dagger.tools.0.label>
+	<!-- EN: blade -->
+	<VFEC_MeleeWeapon_Dagger.tools.1.label>blade</VFEC_MeleeWeapon_Dagger.tools.1.label>
+	<!-- EN: point -->
+	<VFEC_MeleeWeapon_Dagger.tools.2.label>point</VFEC_MeleeWeapon_Dagger.tools.2.label>
+</LanguageData>

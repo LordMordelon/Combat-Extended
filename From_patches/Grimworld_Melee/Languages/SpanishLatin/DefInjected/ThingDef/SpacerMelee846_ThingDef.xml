@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Grimworld_Melee\SpacerMelee846.xml -->
+	<!-- EN: head -->
+	<MeleeWeapon_PowerFist.tools.0.label>head</MeleeWeapon_PowerFist.tools.0.label>
+	
+	<!-- EN: handle -->
+	<MeleeWeapon_PowerSword.tools.0.label>handle</MeleeWeapon_PowerSword.tools.0.label>
+	<!-- EN: edge -->
+	<MeleeWeapon_PowerSword.tools.1.label>edge</MeleeWeapon_PowerSword.tools.1.label>
+	<!-- EN: point -->
+	<MeleeWeapon_PowerSword.tools.2.label>point</MeleeWeapon_PowerSword.tools.2.label>
+	
+	<!-- EN: handle -->
+	<MeleeWeapon_PowerSwordtwo.tools.0.label>handle</MeleeWeapon_PowerSwordtwo.tools.0.label>
+	<!-- EN: edge -->
+	<MeleeWeapon_PowerSwordtwo.tools.1.label>edge</MeleeWeapon_PowerSwordtwo.tools.1.label>
+	<!-- EN: point -->
+	<MeleeWeapon_PowerSwordtwo.tools.2.label>point</MeleeWeapon_PowerSwordtwo.tools.2.label>
+</LanguageData>

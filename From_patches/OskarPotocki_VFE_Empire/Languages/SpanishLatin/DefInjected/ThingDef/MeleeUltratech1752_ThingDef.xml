@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\OskarPotocki_VFE_Empire\MeleeUltratech1752.xml -->
+	<!-- EN: handle -->
+	<VFEE_MeleeWeapon_Toxblade.tools.0.label>handle</VFEE_MeleeWeapon_Toxblade.tools.0.label>
+	<!-- EN: blade -->
+	<VFEE_MeleeWeapon_Toxblade.tools.1.label>blade</VFEE_MeleeWeapon_Toxblade.tools.1.label>
+	<!-- EN: point -->
+	<VFEE_MeleeWeapon_Toxblade.tools.2.label>point</VFEE_MeleeWeapon_Toxblade.tools.2.label>
+	
+	<!-- EN: handle -->
+	<VFEE_MeleeWeapon_ToxbladeBladelink.tools.0.label>handle</VFEE_MeleeWeapon_ToxbladeBladelink.tools.0.label>
+	<!-- EN: blade -->
+	<VFEE_MeleeWeapon_ToxbladeBladelink.tools.1.label>blade</VFEE_MeleeWeapon_ToxbladeBladelink.tools.1.label>
+	<!-- EN: point -->
+	<VFEE_MeleeWeapon_ToxbladeBladelink.tools.2.label>point</VFEE_MeleeWeapon_ToxbladeBladelink.tools.2.label>
+</LanguageData>

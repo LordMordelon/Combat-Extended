@@ -1,0 +1,38 @@
+<LanguageData>
+	<!-- Defs\Ammo\Modded\Warhammer 40k\HeavyBolter.xml -->
+	
+	<!-- EN: make .998 Cal Bolter (standard) shell x200 -->
+	<MakeAmmo_Bolter998_Standard.label>make .998 Cal Bolter (standard) shell x200</MakeAmmo_Bolter998_Standard.label>
+	<!-- EN: Craft 200 .998 Cal Bolter (standard) shells. -->
+	<MakeAmmo_Bolter998_Standard.description>Craft 200 .998 Cal Bolter (standard) shells.</MakeAmmo_Bolter998_Standard.description>
+	<!-- EN: Making .998 Cal Bolter (standard) shells. -->
+	<MakeAmmo_Bolter998_Standard.jobString>Making .998 Cal Bolter (standard) shells.</MakeAmmo_Bolter998_Standard.jobString>
+	
+	<!-- EN: make .998 Cal Bolter (inferno) shell x200 -->
+	<MakeAmmo_Bolter998_Inferno.label>make .998 Cal Bolter (inferno) shell x200</MakeAmmo_Bolter998_Inferno.label>
+	<!-- EN: Craft 200 .998 Cal Bolter (inferno) shells. -->
+	<MakeAmmo_Bolter998_Inferno.description>Craft 200 .998 Cal Bolter (inferno) shells.</MakeAmmo_Bolter998_Inferno.description>
+	<!-- EN: Making .998 Cal Bolter (inferno) shells. -->
+	<MakeAmmo_Bolter998_Inferno.jobString>Making .998 Cal Bolter (inferno) shells.</MakeAmmo_Bolter998_Inferno.jobString>
+	
+	<!-- EN: make .998 Cal Bolter (metal storm) shell x200 -->
+	<MakeAmmo_Bolter998_MetalStorm.label>make .998 Cal Bolter (metal storm) shell x200</MakeAmmo_Bolter998_MetalStorm.label>
+	<!-- EN: Craft 200 .998 Cal Bolter (metal storm) shells. -->
+	<MakeAmmo_Bolter998_MetalStorm.description>Craft 200 .998 Cal Bolter (metal storm) shells.</MakeAmmo_Bolter998_MetalStorm.description>
+	<!-- EN: Making .998 Cal Bolter (metal storm) shells. -->
+	<MakeAmmo_Bolter998_MetalStorm.jobString>Making .998 Cal Bolter (metal storm) shells.</MakeAmmo_Bolter998_MetalStorm.jobString>
+	
+	<!-- EN: make .998 Cal Bolter (kraken) shell x200 -->
+	<MakeAmmo_Bolter998_Kraken.label>make .998 Cal Bolter (kraken) shell x200</MakeAmmo_Bolter998_Kraken.label>
+	<!-- EN: Craft 200 .998 Cal Bolter (kraken) shells. -->
+	<MakeAmmo_Bolter998_Kraken.description>Craft 200 .998 Cal Bolter (kraken) shells.</MakeAmmo_Bolter998_Kraken.description>
+	<!-- EN: Making .998 Cal Bolter (kraken) shells. -->
+	<MakeAmmo_Bolter998_Kraken.jobString>Making .998 Cal Bolter (kraken) shells.</MakeAmmo_Bolter998_Kraken.jobString>
+	
+	<!-- EN: make .998 Cal Bolter (tempest) shell x200 -->
+	<MakeAmmo_Bolter998_Tempest.label>make .998 Cal Bolter (tempest) shell x200</MakeAmmo_Bolter998_Tempest.label>
+	<!-- EN: Craft 200 .998 Cal Bolter (tempest) shells. -->
+	<MakeAmmo_Bolter998_Tempest.description>Craft 200 .998 Cal Bolter (tempest) shells.</MakeAmmo_Bolter998_Tempest.description>
+	<!-- EN: Making .998 Cal Bolter (tempest) shells. -->
+	<MakeAmmo_Bolter998_Tempest.jobString>Making .998 Cal Bolter (tempest) shells.</MakeAmmo_Bolter998_Tempest.jobString>
+</LanguageData>

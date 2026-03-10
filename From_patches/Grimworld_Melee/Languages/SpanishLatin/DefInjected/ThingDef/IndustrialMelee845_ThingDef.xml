@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Grimworld_Melee\IndustrialMelee845.xml -->
+	<!-- EN: handle -->
+	<MeleeWeapon_Chainsword.tools.0.label>handle</MeleeWeapon_Chainsword.tools.0.label>
+	<!-- EN: edge -->
+	<MeleeWeapon_Chainsword.tools.1.label>edge</MeleeWeapon_Chainsword.tools.1.label>
+	
+	<!-- EN: handle -->
+	<MeleeWeapon_Chainshortsword.tools.0.label>handle</MeleeWeapon_Chainshortsword.tools.0.label>
+	<!-- EN: edge -->
+	<MeleeWeapon_Chainshortsword.tools.1.label>edge</MeleeWeapon_Chainshortsword.tools.1.label>
+	
+	<!-- EN: handle -->
+	<MeleeWeapon_TrenchShovel.tools.0.label>handle</MeleeWeapon_TrenchShovel.tools.0.label>
+	<!-- EN: head -->
+	<MeleeWeapon_TrenchShovel.tools.1.label>head</MeleeWeapon_TrenchShovel.tools.1.label>
+</LanguageData>

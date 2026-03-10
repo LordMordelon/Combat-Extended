@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Crypto Weapon Restored\Defs\Crypto Weapon Restored\Ammo_CryptoWeapons.xml -->
+	<!-- EN: Crypto Rifle -->
+	<AmmoSet_CryptoRifle.label>Crypto Rifle</AmmoSet_CryptoRifle.label>
+	<!-- EN: Crypto Pistol -->
+	<AmmoSet_CryptoPistol.label>Crypto Pistol</AmmoSet_CryptoPistol.label>
+	<!-- EN: Crypto Shotgun -->
+	<AmmoSet_CryptoShotgun.label>Crypto Shotgun</AmmoSet_CryptoShotgun.label>
+</LanguageData>

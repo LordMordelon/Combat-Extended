@@ -1,0 +1,69 @@
+<LanguageData>
+	<!-- Defs\Ammo\Rifle\44-40Winchester.xml -->
+	
+	<!-- EN: .44-40 Winchester (FMJ) -->
+	<Ammo_44-40Winchester_FMJ.label>.44-40 Winchester (FMJ)</Ammo_44-40Winchester_FMJ.label>
+	<!-- EN: Ancient mid-late 19th century bullet, originally loaded with 40 grains of blackpowder. Used in various repeating rifles and revolvers. -->
+	<Ammo_44-40Winchester_FMJ.description>Ancient mid-late 19th century bullet, originally loaded with 40 grains of blackpowder. Used in various repeating rifles and revolvers.</Ammo_44-40Winchester_FMJ.description>
+	
+	<!-- EN: .44-40 Winchester (AP) -->
+	<Ammo_44-40Winchester_AP.label>.44-40 Winchester (AP)</Ammo_44-40Winchester_AP.label>
+	<!-- EN: Ancient mid-late 19th century bullet, originally loaded with 40 grains of blackpowder. Used in various repeating rifles and revolvers. -->
+	<Ammo_44-40Winchester_AP.description>Ancient mid-late 19th century bullet, originally loaded with 40 grains of blackpowder. Used in various repeating rifles and revolvers.</Ammo_44-40Winchester_AP.description>
+	
+	<!-- EN: .44-40 Winchester (HP) -->
+	<Ammo_44-40Winchester_HP.label>.44-40 Winchester (HP)</Ammo_44-40Winchester_HP.label>
+	<!-- EN: Ancient mid-late 19th century bullet, originally loaded with 40 grains of blackpowder. Used in various repeating rifles and revolvers. -->
+	<Ammo_44-40Winchester_HP.description>Ancient mid-late 19th century bullet, originally loaded with 40 grains of blackpowder. Used in various repeating rifles and revolvers.</Ammo_44-40Winchester_HP.description>
+	
+	<!-- EN: .44-40 Winchester (AP-I) -->
+	<Ammo_44-40Winchester_Incendiary.label>.44-40 Winchester (AP-I)</Ammo_44-40Winchester_Incendiary.label>
+	<!-- EN: Ancient mid-late 19th century bullet, originally loaded with 40 grains of blackpowder. Used in various repeating rifles and revolvers. -->
+	<Ammo_44-40Winchester_Incendiary.description>Ancient mid-late 19th century bullet, originally loaded with 40 grains of blackpowder. Used in various repeating rifles and revolvers.</Ammo_44-40Winchester_Incendiary.description>
+	
+	<!-- EN: .44-40 Winchester (AP-HE) -->
+	<Ammo_44-40Winchester_HE.label>.44-40 Winchester (AP-HE)</Ammo_44-40Winchester_HE.label>
+	<!-- EN: Ancient mid-late 19th century bullet, originally loaded with 40 grains of blackpowder. Used in various repeating rifles and revolvers. -->
+	<Ammo_44-40Winchester_HE.description>Ancient mid-late 19th century bullet, originally loaded with 40 grains of blackpowder. Used in various repeating rifles and revolvers.</Ammo_44-40Winchester_HE.description>
+	
+	<!-- EN: .44-40 Winchester (Sabot) -->
+	<Ammo_44-40Winchester_Sabot.label>.44-40 Winchester (Sabot)</Ammo_44-40Winchester_Sabot.label>
+	<!-- EN: Ancient mid-late 19th century bullet, originally loaded with 40 grains of blackpowder. Used in various repeating rifles and revolvers. -->
+	<Ammo_44-40Winchester_Sabot.description>Ancient mid-late 19th century bullet, originally loaded with 40 grains of blackpowder. Used in various repeating rifles and revolvers.</Ammo_44-40Winchester_Sabot.description>
+	
+	<!-- EN: .44-40 Winchester bullet (FMJ) -->
+	<Bullet_44-40Winchester_FMJ.label>.44-40 Winchester bullet (FMJ)</Bullet_44-40Winchester_FMJ.label>
+	
+	<!-- EN: .44-40 Winchester bullet (AP) -->
+	<Bullet_44-40Winchester_AP.label>.44-40 Winchester bullet (AP)</Bullet_44-40Winchester_AP.label>
+	
+	<!-- EN: .44-40 Winchester bullet (HP) -->
+	<Bullet_44-40Winchester_HP.label>.44-40 Winchester bullet (HP)</Bullet_44-40Winchester_HP.label>
+	
+	<!-- EN: .44-40 Winchester bullet (AP-I) -->
+	<Bullet_44-40Winchester_Incendiary.label>.44-40 Winchester bullet (AP-I)</Bullet_44-40Winchester_Incendiary.label>
+	
+	<!-- EN: .44-40 Winchester bullet (AP-HE) -->
+	<Bullet_44-40Winchester_HE.label>.44-40 Winchester bullet (AP-HE)</Bullet_44-40Winchester_HE.label>
+	
+	<!-- EN: .44-40 Winchester bullet (Sabot) -->
+	<Bullet_44-40Winchester_Sabot.label>.44-40 Winchester bullet (Sabot)</Bullet_44-40Winchester_Sabot.label>
+	
+	<!-- EN: .44-40 Winchester bullet (FMJ) -->
+	<Bullet_44-40Winchester_FMJ_SB.label>.44-40 Winchester bullet (FMJ)</Bullet_44-40Winchester_FMJ_SB.label>
+	
+	<!-- EN: .44-40 Winchester bullet (AP) -->
+	<Bullet_44-40Winchester_AP_SB.label>.44-40 Winchester bullet (AP)</Bullet_44-40Winchester_AP_SB.label>
+	
+	<!-- EN: .44-40 Winchester bullet (HP) -->
+	<Bullet_44-40Winchester_HP_SB.label>.44-40 Winchester bullet (HP)</Bullet_44-40Winchester_HP_SB.label>
+	
+	<!-- EN: .44-40 Winchester bullet (AP-I) -->
+	<Bullet_44-40Winchester_Incendiary_SB.label>.44-40 Winchester bullet (AP-I)</Bullet_44-40Winchester_Incendiary_SB.label>
+	
+	<!-- EN: .44-40 Winchester bullet (AP-HE) -->
+	<Bullet_44-40Winchester_HE_SB.label>.44-40 Winchester bullet (AP-HE)</Bullet_44-40Winchester_HE_SB.label>
+	
+	<!-- EN: .44-40 Winchester bullet (Sabot) -->
+	<Bullet_44-40Winchester_Sabot_SB.label>.44-40 Winchester bullet (Sabot)</Bullet_44-40Winchester_Sabot_SB.label>
+</LanguageData>

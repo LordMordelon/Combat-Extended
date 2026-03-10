@@ -1,0 +1,12 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Ludeon_Rimworld_Biotech\Races_Animal_Pollution53.xml -->
+	<!-- EN: left claw -->
+	<WasteRat.tools.0.label>left claw</WasteRat.tools.0.label>
+	<!-- EN: right claw -->
+	<WasteRat.tools.1.label>right claw</WasteRat.tools.1.label>
+	<!-- EN: head -->
+	<WasteRat.tools.3.label>head</WasteRat.tools.3.label>
+	
+	<!-- EN: head -->
+	<Toxalope.tools.0.label>head</Toxalope.tools.0.label>
+</LanguageData>

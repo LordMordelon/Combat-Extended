@@ -1,0 +1,33 @@
+<LanguageData>
+	<!-- Defs\Ammo\Generic\RifleIntermediate.xml -->
+	
+	<!-- EN: intermediate rifle cartridge (FMJ) -->
+	<Ammo_RifleIntermediate_FMJ.label>intermediate rifle cartridge (FMJ)</Ammo_RifleIntermediate_FMJ.label>
+	<!-- EN: Intermediate power rifle ammunition, used mainly by assault rifles. -->
+	<Ammo_RifleIntermediate_FMJ.description>Intermediate power rifle ammunition, used mainly by assault rifles.</Ammo_RifleIntermediate_FMJ.description>
+	
+	<!-- EN: intermediate rifle cartridge (AP) -->
+	<Ammo_RifleIntermediate_AP.label>intermediate rifle cartridge (AP)</Ammo_RifleIntermediate_AP.label>
+	<!-- EN: Intermediate power rifle ammunition, used mainly by assault rifles. -->
+	<Ammo_RifleIntermediate_AP.description>Intermediate power rifle ammunition, used mainly by assault rifles.</Ammo_RifleIntermediate_AP.description>
+	
+	<!-- EN: intermediate rifle cartridge (HP) -->
+	<Ammo_RifleIntermediate_HP.label>intermediate rifle cartridge (HP)</Ammo_RifleIntermediate_HP.label>
+	<!-- EN: Intermediate power rifle ammunition, used mainly by assault rifles. -->
+	<Ammo_RifleIntermediate_HP.description>Intermediate power rifle ammunition, used mainly by assault rifles.</Ammo_RifleIntermediate_HP.description>
+	
+	<!-- EN: intermediate rifle cartridge (AP-I) -->
+	<Ammo_RifleIntermediate_Incendiary.label>intermediate rifle cartridge (AP-I)</Ammo_RifleIntermediate_Incendiary.label>
+	<!-- EN: Intermediate power rifle ammunition, used mainly by assault rifles. -->
+	<Ammo_RifleIntermediate_Incendiary.description>Intermediate power rifle ammunition, used mainly by assault rifles.</Ammo_RifleIntermediate_Incendiary.description>
+	
+	<!-- EN: intermediate rifle cartridge (AP-HE) -->
+	<Ammo_RifleIntermediate_HE.label>intermediate rifle cartridge (AP-HE)</Ammo_RifleIntermediate_HE.label>
+	<!-- EN: Intermediate power rifle ammunition, used mainly by assault rifles. -->
+	<Ammo_RifleIntermediate_HE.description>Intermediate power rifle ammunition, used mainly by assault rifles.</Ammo_RifleIntermediate_HE.description>
+	
+	<!-- EN: intermediate rifle cartridge (Sabot) -->
+	<Ammo_RifleIntermediate_Sabot.label>intermediate rifle cartridge (Sabot)</Ammo_RifleIntermediate_Sabot.label>
+	<!-- EN: Intermediate power rifle ammunition, used mainly by assault rifles. -->
+	<Ammo_RifleIntermediate_Sabot.description>Intermediate power rifle ammunition, used mainly by assault rifles.</Ammo_RifleIntermediate_Sabot.description>
+</LanguageData>

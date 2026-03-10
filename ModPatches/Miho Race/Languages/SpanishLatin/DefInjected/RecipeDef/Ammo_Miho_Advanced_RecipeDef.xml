@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Miho Race\Defs\Miho Race\Ammo\Ammo_Miho_Advanced.xml -->
+	<!-- EN: make Mechanite Psychic shell x200 -->
+	<MakeAmmo_MechPsyShot.label>make Mechanite Psychic shell x200</MakeAmmo_MechPsyShot.label>
+	<!-- EN: Craft 200 Mechanite Psychic shells. -->
+	<MakeAmmo_MechPsyShot.description>Craft 200 Mechanite Psychic shells.</MakeAmmo_MechPsyShot.description>
+	<!-- EN: Making Mechanite Psychic shells. -->
+	<MakeAmmo_MechPsyShot.jobString>Making Mechanite Psychic shells.</MakeAmmo_MechPsyShot.jobString>
+</LanguageData>

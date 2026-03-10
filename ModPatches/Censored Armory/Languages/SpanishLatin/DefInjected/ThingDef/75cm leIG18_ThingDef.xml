@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- ModPatches\Censored Armory\Defs\Censored Armory\75cm leIG18.xml -->
+	
+	<!-- EN: 7.5cm cannon shell (HE) -->
+	<Ammo_75cmleIG18CannonShell_HE.label>7.5cm cannon shell (HE)</Ammo_75cmleIG18CannonShell_HE.label>
+	<!-- EN: Light cannon shell used in field guns. -->
+	<Ammo_75cmleIG18CannonShell_HE.description>Light cannon shell used in field guns.</Ammo_75cmleIG18CannonShell_HE.description>
+	
+	<!-- EN: 7.5cm cannon shell (EMP) -->
+	<Ammo_75cmleIG18CannonShell_EMP.label>7.5cm cannon shell (EMP)</Ammo_75cmleIG18CannonShell_EMP.label>
+	<!-- EN: Light cannon shell used in field guns. -->
+	<Ammo_75cmleIG18CannonShell_EMP.description>Light cannon shell used in field guns.</Ammo_75cmleIG18CannonShell_EMP.description>
+	
+	<!-- EN: 7.5 cm shell (HE) -->
+	<Bullet_75cmleIG18CannonShell_HE.label>7.5 cm shell (HE)</Bullet_75cmleIG18CannonShell_HE.label>
+	
+	<!-- EN: 7.5 cm shell (EMP) -->
+	<Bullet_75cmleIG18CannonShell_EMP.label>7.5 cm shell (EMP)</Bullet_75cmleIG18CannonShell_EMP.label>
+</LanguageData>

@@ -1,0 +1,28 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\rimsenal_feral\Feral_MeleeWeapons1552.xml -->
+	<!-- EN: shaft -->
+	<MeleeWeapon_FeralGlaive.tools.0.label>shaft</MeleeWeapon_FeralGlaive.tools.0.label>
+	<!-- EN: edge -->
+	<MeleeWeapon_FeralGlaive.tools.1.label>edge</MeleeWeapon_FeralGlaive.tools.1.label>
+	<!-- EN: point -->
+	<MeleeWeapon_FeralGlaive.tools.2.label>point</MeleeWeapon_FeralGlaive.tools.2.label>
+	
+	<!-- EN: handle -->
+	<MeleeWeapon_FeralCleaver.tools.0.label>handle</MeleeWeapon_FeralCleaver.tools.0.label>
+	<!-- EN: edge -->
+	<MeleeWeapon_FeralCleaver.tools.1.label>edge</MeleeWeapon_FeralCleaver.tools.1.label>
+	<!-- EN: point -->
+	<MeleeWeapon_FeralCleaver.tools.2.label>point</MeleeWeapon_FeralCleaver.tools.2.label>
+	
+	<!-- EN: edge -->
+	<Carver.tools.0.label>edge</Carver.tools.0.label>
+	<!-- EN: point -->
+	<Carver.tools.1.label>point</Carver.tools.1.label>
+	
+	<!-- EN: shaft -->
+	<Sunderer.tools.0.label>shaft</Sunderer.tools.0.label>
+	<!-- EN: point -->
+	<Sunderer.tools.1.label>point</Sunderer.tools.1.label>
+	<!-- EN: edge -->
+	<Sunderer.tools.2.label>edge</Sunderer.tools.2.label>
+</LanguageData>

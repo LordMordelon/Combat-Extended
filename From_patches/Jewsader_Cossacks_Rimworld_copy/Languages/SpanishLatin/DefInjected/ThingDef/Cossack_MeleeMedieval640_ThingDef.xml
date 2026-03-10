@@ -1,0 +1,14 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Jewsader_Cossacks_Rimworld_copy\Cossack_MeleeMedieval640.xml -->
+	<!-- EN: handle -->
+	<MeleeWeapon_CossackNobleMace.tools.0.label>handle</MeleeWeapon_CossackNobleMace.tools.0.label>
+	<!-- EN: head -->
+	<MeleeWeapon_CossackNobleMace.tools.1.label>head</MeleeWeapon_CossackNobleMace.tools.1.label>
+	
+	<!-- EN: handle -->
+	<MeleeWeapon_CossackSabre.tools.0.label>handle</MeleeWeapon_CossackSabre.tools.0.label>
+	<!-- EN: point -->
+	<MeleeWeapon_CossackSabre.tools.1.label>point</MeleeWeapon_CossackSabre.tools.1.label>
+	<!-- EN: edge -->
+	<MeleeWeapon_CossackSabre.tools.2.label>edge</MeleeWeapon_CossackSabre.tools.2.label>
+</LanguageData>

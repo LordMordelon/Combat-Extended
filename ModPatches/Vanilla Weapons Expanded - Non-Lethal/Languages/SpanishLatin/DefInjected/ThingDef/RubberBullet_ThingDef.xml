@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla Weapons Expanded - Non-Lethal\Defs\Vanilla Weapons Expanded - Non-Lethal\RubberBullet.xml -->
+	<!-- EN: .43 caliber rubber bullet -->
+	<Ammo_43cal_NL.label>.43 caliber rubber bullet</Ammo_43cal_NL.label>
+	<!-- EN: Gas-powered pistol cartridge firing rubberized projectiles. Painful, but generally non-lethal. -->
+	<Ammo_43cal_NL.description>Gas-powered pistol cartridge firing rubberized projectiles. Painful, but generally non-lethal.</Ammo_43cal_NL.description>
+	<!-- EN: rubber bullet -->
+	<Bullet_43cal_NL.label>rubber bullet</Bullet_43cal_NL.label>
+</LanguageData>

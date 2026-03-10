@@ -1,0 +1,75 @@
+<LanguageData>
+	<!-- Defs\Ammo\HighCaliber\30x113mmB.xml -->
+	
+	<!-- EN: 30x113mmB (AP) -->
+	<Ammo_30x113mmB_AP.label>30x113mmB (AP)</Ammo_30x113mmB_AP.label>
+	<!-- EN: Large caliber cartridge used by autocannons. -->
+	<Ammo_30x113mmB_AP.description>Large caliber cartridge used by autocannons.</Ammo_30x113mmB_AP.description>
+	
+	<!-- EN: 30x113mmB (AP-I) -->
+	<Ammo_30x113mmB_Incendiary.label>30x113mmB (AP-I)</Ammo_30x113mmB_Incendiary.label>
+	<!-- EN: Large caliber cartridge used by autocannons. -->
+	<Ammo_30x113mmB_Incendiary.description>Large caliber cartridge used by autocannons.</Ammo_30x113mmB_Incendiary.description>
+	
+	<!-- EN: 30x113mmB (AP-HE) -->
+	<Ammo_30x113mmB_HE.label>30x113mmB (AP-HE)</Ammo_30x113mmB_HE.label>
+	<!-- EN: Large caliber cartridge used by autocannons. -->
+	<Ammo_30x113mmB_HE.description>Large caliber cartridge used by autocannons.</Ammo_30x113mmB_HE.description>
+	
+	<!-- EN: 30x113mmB (Sabot) -->
+	<Ammo_30x113mmB_Sabot.label>30x113mmB (Sabot)</Ammo_30x113mmB_Sabot.label>
+	<!-- EN: Large caliber cartridge used by autocannons. -->
+	<Ammo_30x113mmB_Sabot.description>Large caliber cartridge used by autocannons.</Ammo_30x113mmB_Sabot.description>
+	
+	<!-- EN: 30x113mmB (HE) -->
+	<Ammo_30x113mmBGrenade_HE.label>30x113mmB (HE)</Ammo_30x113mmBGrenade_HE.label>
+	<!-- EN: Large caliber cartridge used by autocannons. -->
+	<Ammo_30x113mmBGrenade_HE.description>Large caliber cartridge used by autocannons.</Ammo_30x113mmBGrenade_HE.description>
+	
+	<!-- EN: 30x113mmB (HE Time-Fuzed) -->
+	<Ammo_30x113mmBGrenade_HE_TFuzed.label>30x113mmB (HE Time-Fuzed)</Ammo_30x113mmBGrenade_HE_TFuzed.label>
+	<!-- EN: Large caliber cartridge used by autocannons. -->
+	<Ammo_30x113mmBGrenade_HE_TFuzed.description>Large caliber cartridge used by autocannons.</Ammo_30x113mmBGrenade_HE_TFuzed.description>
+	
+	<!-- EN: 30x113mmB (HEDP) -->
+	<Ammo_30x113mmBGrenade_HEDP.label>30x113mmB (HEDP)</Ammo_30x113mmBGrenade_HEDP.label>
+	<!-- EN: Large caliber cartridge used by autocannons. -->
+	<Ammo_30x113mmBGrenade_HEDP.description>Large caliber cartridge used by autocannons.</Ammo_30x113mmBGrenade_HEDP.description>
+	
+	<!-- EN: 30x113mmB (EMP) -->
+	<Ammo_30x113mmBGrenade_EMP.label>30x113mmB (EMP)</Ammo_30x113mmBGrenade_EMP.label>
+	<!-- EN: Large caliber cartridge used by autocannons. -->
+	<Ammo_30x113mmBGrenade_EMP.description>Large caliber cartridge used by autocannons.</Ammo_30x113mmBGrenade_EMP.description>
+	
+	<!-- EN: 30x113mmB (Smoke) -->
+	<Ammo_30x113mmBGrenade_Smoke.label>30x113mmB (Smoke)</Ammo_30x113mmBGrenade_Smoke.label>
+	<!-- EN: Large caliber cartridge used by autocannons. -->
+	<Ammo_30x113mmBGrenade_Smoke.description>Large caliber cartridge used by autocannons.</Ammo_30x113mmBGrenade_Smoke.description>
+	
+	<!-- EN: 30x113mmB bullet (AP) -->
+	<Bullet_30x113mmB_AP.label>30x113mmB bullet (AP)</Bullet_30x113mmB_AP.label>
+	
+	<!-- EN: 30x113mmB bullet (AP-I) -->
+	<Bullet_30x113mmB_Incendiary.label>30x113mmB bullet (AP-I)</Bullet_30x113mmB_Incendiary.label>
+	
+	<!-- EN: 30x113mmB bullet (AP-HE) -->
+	<Bullet_30x113mmB_HE.label>30x113mmB bullet (AP-HE)</Bullet_30x113mmB_HE.label>
+	
+	<!-- EN: 30x113mmB bullet (Sabot) -->
+	<Bullet_30x113mmB_Sabot.label>30x113mmB bullet (Sabot)</Bullet_30x113mmB_Sabot.label>
+	
+	<!-- EN: 30x113mmB bullet (HE) -->
+	<Bullet_30x113mmBGrenade_HE.label>30x113mmB bullet (HE)</Bullet_30x113mmBGrenade_HE.label>
+	
+	<!-- EN: 30x113mmB bullet (HE Time-Fuzed) -->
+	<Bullet_30x113mmBGrenade_HE_TFuzed.label>30x113mmB bullet (HE Time-Fuzed)</Bullet_30x113mmBGrenade_HE_TFuzed.label>
+	
+	<!-- EN: 30x113mmB bullet (HEDP) -->
+	<Bullet_30x113mmBGrenade_HEDP.label>30x113mmB bullet (HEDP)</Bullet_30x113mmBGrenade_HEDP.label>
+	
+	<!-- EN: 30x113mmB bullet (EMP) -->
+	<Bullet_30x113mmBGrenade_EMP.label>30x113mmB bullet (EMP)</Bullet_30x113mmBGrenade_EMP.label>
+	
+	<!-- EN: 30x113mmB bullet (Smoke) -->
+	<Bullet_30x113mmBGrenade_Smoke.label>30x113mmB bullet (Smoke)</Bullet_30x113mmBGrenade_Smoke.label>
+</LanguageData>

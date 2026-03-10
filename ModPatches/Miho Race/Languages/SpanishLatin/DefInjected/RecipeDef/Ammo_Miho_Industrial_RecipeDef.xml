@@ -1,0 +1,80 @@
+<LanguageData>
+	<!-- ModPatches\Miho Race\Defs\Miho Race\Ammo\Ammo_Miho_Industrial.xml -->
+	
+	<!-- EN: make 8x22mm Nambu (AP-IM) cartridge x500 -->
+	<MakeAmmo_8x22mmNambu_Miho.label>make 8x22mm Nambu (AP-IM) cartridge x500</MakeAmmo_8x22mmNambu_Miho.label>
+	<!-- EN: Craft 500 8x22mm Nambu (AP-IM) cartridges. -->
+	<MakeAmmo_8x22mmNambu_Miho.description>Craft 500 8x22mm Nambu (AP-IM) cartridges.</MakeAmmo_8x22mmNambu_Miho.description>
+	<!-- EN: Making 8x22mm Nambu (AP-IM) cartridges. -->
+	<MakeAmmo_8x22mmNambu_Miho.jobString>Making 8x22mm Nambu (AP-IM) cartridges.</MakeAmmo_8x22mmNambu_Miho.jobString>
+	
+	<!-- EN: make 6.5x50mmSR (AP-IM) cartridge x500 -->
+	<MakeAmmo_65x50mmSRArisaka_Miho.label>make 6.5x50mmSR (AP-IM) cartridge x500</MakeAmmo_65x50mmSRArisaka_Miho.label>
+	<!-- EN: Craft 500 6.5x50mmSR Arisaka (AP-IM) cartridges. -->
+	<MakeAmmo_65x50mmSRArisaka_Miho.description>Craft 500 6.5x50mmSR Arisaka (AP-IM) cartridges.</MakeAmmo_65x50mmSRArisaka_Miho.description>
+	<!-- EN: Making 6.5x50mmSR Arisaka (AP-IM) cartridges. -->
+	<MakeAmmo_65x50mmSRArisaka_Miho.jobString>Making 6.5x50mmSR Arisaka (AP-IM) cartridges.</MakeAmmo_65x50mmSRArisaka_Miho.jobString>
+	
+	<!-- EN: make 7.7x58mm Arisaka (AP-IM) cartridge x500 -->
+	<MakeAmmo_77x58mmArisaka_Miho.label>make 7.7x58mm Arisaka (AP-IM) cartridge x500</MakeAmmo_77x58mmArisaka_Miho.label>
+	<!-- EN: Craft 500 7.7x58mm Arisaka (AP-IM) cartridges. -->
+	<MakeAmmo_77x58mmArisaka_Miho.description>Craft 500 7.7x58mm Arisaka (AP-IM) cartridges.</MakeAmmo_77x58mmArisaka_Miho.description>
+	<!-- EN: Making 7.7x58mm Arisaka (AP-IM) cartridges. -->
+	<MakeAmmo_77x58mmArisaka_Miho.jobString>Making 7.7x58mm Arisaka (AP-IM) cartridges.</MakeAmmo_77x58mmArisaka_Miho.jobString>
+	
+	<!-- EN: make 13.2x92mmSR TuF (AP-IM) cartridge x200 -->
+	<MakeAmmo_132x92mmSRTuF_Miho.label>make 13.2x92mmSR TuF (AP-IM) cartridge x200</MakeAmmo_132x92mmSRTuF_Miho.label>
+	<!-- EN: Craft 200 13.2x92mmSR TuF (AP-IM) cartridges. -->
+	<MakeAmmo_132x92mmSRTuF_Miho.description>Craft 200 13.2x92mmSR TuF (AP-IM) cartridges.</MakeAmmo_132x92mmSRTuF_Miho.description>
+	<!-- EN: Making 13.2x92mmSR TuF (AP-IM) cartridges. -->
+	<MakeAmmo_132x92mmSRTuF_Miho.jobString>Making 13.2x92mmSR TuF (AP-IM) cartridges.</MakeAmmo_132x92mmSRTuF_Miho.jobString>
+	
+	<!-- EN: make 20x42mm (AP-IM) cartridge x100 -->
+	<MakeAmmo_20x42mm_Miho.label>make 20x42mm (AP-IM) cartridge x100</MakeAmmo_20x42mm_Miho.label>
+	<!-- EN: Craft 100 20x42mm (AP-IM) cartridges. -->
+	<MakeAmmo_20x42mm_Miho.description>Craft 100 20x42mm (AP-IM) cartridges.</MakeAmmo_20x42mm_Miho.description>
+	<!-- EN: Making 20x42mm (AP-IM) cartridges. -->
+	<MakeAmmo_20x42mm_Miho.jobString>Making 20x42mm (AP-IM) cartridges.</MakeAmmo_20x42mm_Miho.jobString>
+	
+	<!-- EN: make 47x398mmR (AP-IM) shells x5 -->
+	<MakeAmmo_47x398mmR_Miho.label>make 47x398mmR (AP-IM) shells x5</MakeAmmo_47x398mmR_Miho.label>
+	<!-- EN: Craft 5 47x398mmR (AP-IM) shells. -->
+	<MakeAmmo_47x398mmR_Miho.description>Craft 5 47x398mmR (AP-IM) shells.</MakeAmmo_47x398mmR_Miho.description>
+	<!-- EN: Making 47x398mmR (AP-IM) shells. -->
+	<MakeAmmo_47x398mmR_Miho.jobString>Making 47x398mmR (AP-IM) shells.</MakeAmmo_47x398mmR_Miho.jobString>
+	
+	<!-- EN: make 57x280mmR (Canister) cartridge x5 -->
+	<MakeAmmo_57x280mmR_Canister.label>make 57x280mmR (Canister) cartridge x5</MakeAmmo_57x280mmR_Canister.label>
+	<!-- EN: Craft 5 57x280mmR (Canister) cartridges. -->
+	<MakeAmmo_57x280mmR_Canister.description>Craft 5 57x280mmR (Canister) cartridges.</MakeAmmo_57x280mmR_Canister.description>
+	<!-- EN: Making 57x280mmR (Canister) cartridges. -->
+	<MakeAmmo_57x280mmR_Canister.jobString>Making 57x280mmR (Canister) cartridges.</MakeAmmo_57x280mmR_Canister.jobString>
+	
+	<!-- EN: make 57x280mmR (Thermobaric) cartridge x5 -->
+	<MakeAmmo_57x280mmR_Thermobaric.label>make 57x280mmR (Thermobaric) cartridge x5</MakeAmmo_57x280mmR_Thermobaric.label>
+	<!-- EN: Craft 5 57x280mmR (Thermobaric) cartridges. -->
+	<MakeAmmo_57x280mmR_Thermobaric.description>Craft 5 57x280mmR (Thermobaric) cartridges.</MakeAmmo_57x280mmR_Thermobaric.description>
+	<!-- EN: Making 57x280mmR (Thermobaric) cartridges. -->
+	<MakeAmmo_57x280mmR_Thermobaric.jobString>Making 57x280mmR (Thermobaric) cartridges.</MakeAmmo_57x280mmR_Thermobaric.jobString>
+	
+	<!-- EN: make 100mm Miho Rocket x5 -->
+	<MakeAmmo_Miho100mm_Incendiary.label>make 100mm Miho Rocket x5</MakeAmmo_Miho100mm_Incendiary.label>
+	<!-- EN: Craft 5 100mm Miho Rocket cartridges. -->
+	<MakeAmmo_Miho100mm_Incendiary.description>Craft 5 100mm Miho Rocket cartridges.</MakeAmmo_Miho100mm_Incendiary.description>
+	<!-- EN: Making 100mm Miho Rocket cartridges. -->
+	<MakeAmmo_Miho100mm_Incendiary.jobString>Making 100mm Miho Rocket cartridges.</MakeAmmo_Miho100mm_Incendiary.jobString>
+	
+	<!-- EN: make Miho Missiles x5 -->
+	<MakeAmmo_Miho_Missile.label>make Miho Missiles x5</MakeAmmo_Miho_Missile.label>
+	<!-- EN: Craft 5 Miho Missiles. -->
+	<MakeAmmo_Miho_Missile.description>Craft 5 Miho Missiles.</MakeAmmo_Miho_Missile.description>
+	<!-- EN: Making Miho Missiles. -->
+	<MakeAmmo_Miho_Missile.jobString>Making Miho Missiles.</MakeAmmo_Miho_Missile.jobString>
+	
+	<!-- EN: make Miho Plasma Missiles x5 -->
+	<MakeAmmo_Miho_MissilePlasma.label>make Miho Plasma Missiles x5</MakeAmmo_Miho_MissilePlasma.label>
+	<!-- EN: Craft 5 Miho Plasma Missiles. -->
+	<MakeAmmo_Miho_MissilePlasma.description>Craft 5 Miho Plasma Missiles.</MakeAmmo_Miho_MissilePlasma.description>
+	<!-- EN: Making Miho Plasma Missiles. -->
+	<MakeAmmo_Miho_MissilePlasma.jobString>Making Miho Plasma Missiles.</MakeAmmo_Miho_MissilePlasma.jobString>
+</LanguageData>

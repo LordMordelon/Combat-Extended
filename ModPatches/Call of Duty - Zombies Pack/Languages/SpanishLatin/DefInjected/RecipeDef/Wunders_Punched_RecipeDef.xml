@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Wunders\Wunders_Punched.xml -->
+	<!-- EN: make Wunderwaffe DG-3 JZ Bulbs x20 -->
+	<MakeAmmo_Wunder_Punched.label>make Wunderwaffe DG-3 JZ Bulbs x20</MakeAmmo_Wunder_Punched.label>
+	<!-- EN: Craft 20 Wunderwaffe DG-3 JZ Bulbs. -->
+	<MakeAmmo_Wunder_Punched.description>Craft 20 Wunderwaffe DG-3 JZ Bulbs.</MakeAmmo_Wunder_Punched.description>
+	<!-- EN: Making Wunderwaffe DG-3 JZ Bulbs. -->
+	<MakeAmmo_Wunder_Punched.jobString>Making Wunderwaffe DG-3 JZ Bulbs.</MakeAmmo_Wunder_Punched.jobString>
+</LanguageData>

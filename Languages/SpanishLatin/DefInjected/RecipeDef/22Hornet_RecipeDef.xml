@@ -1,0 +1,24 @@
+<LanguageData>
+	<!-- Defs\Ammo\Rifle\22Hornet.xml -->
+	
+	<!-- EN: make .22 Hornet cartridge x500 -->
+	<MakeAmmo_22Hornet_FMJ.label>make .22 Hornet cartridge x500</MakeAmmo_22Hornet_FMJ.label>
+	<!-- EN: Craft 500 .22 Hornet cartridges. -->
+	<MakeAmmo_22Hornet_FMJ.description>Craft 500 .22 Hornet cartridges.</MakeAmmo_22Hornet_FMJ.description>
+	<!-- EN: Making .22 Hornet cartridges. -->
+	<MakeAmmo_22Hornet_FMJ.jobString>Making .22 Hornet cartridges.</MakeAmmo_22Hornet_FMJ.jobString>
+	
+	<!-- EN: make .22 Hornet (AP) cartridge x500 -->
+	<MakeAmmo_22Hornet_AP.label>make .22 Hornet (AP) cartridge x500</MakeAmmo_22Hornet_AP.label>
+	<!-- EN: Craft 500 .22 Hornet (AP) cartridges. -->
+	<MakeAmmo_22Hornet_AP.description>Craft 500 .22 Hornet (AP) cartridges.</MakeAmmo_22Hornet_AP.description>
+	<!-- EN: Making .22 Hornet (AP) cartridges. -->
+	<MakeAmmo_22Hornet_AP.jobString>Making .22 Hornet (AP) cartridges.</MakeAmmo_22Hornet_AP.jobString>
+	
+	<!-- EN: make .22 Hornet (HP) cartridge x500 -->
+	<MakeAmmo_22Hornet_HP.label>make .22 Hornet (HP) cartridge x500</MakeAmmo_22Hornet_HP.label>
+	<!-- EN: Craft 500 .22 Hornet (HP) cartridges. -->
+	<MakeAmmo_22Hornet_HP.description>Craft 500 .22 Hornet (HP) cartridges.</MakeAmmo_22Hornet_HP.description>
+	<!-- EN: Making .22 Hornet (HP) cartridges. -->
+	<MakeAmmo_22Hornet_HP.jobString>Making .22 Hornet (HP) cartridges.</MakeAmmo_22Hornet_HP.jobString>
+</LanguageData>

@@ -1,0 +1,89 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\mlie_reinforcedmechanoid2\RM_Races_Mechanoids1390.xml -->
+	<!-- EN: left fist -->
+	<RM_Mech_Vulture.tools.0.label>left fist</RM_Mech_Vulture.tools.0.label>
+	<!-- EN: right fist -->
+	<RM_Mech_Vulture.tools.1.label>right fist</RM_Mech_Vulture.tools.1.label>
+	<!-- EN: head -->
+	<RM_Mech_Vulture.tools.2.label>head</RM_Mech_Vulture.tools.2.label>
+	
+	<!-- EN: head -->
+	<RM_Mech_Caretaker.tools.0.label>head</RM_Mech_Caretaker.tools.0.label>
+	
+	<!-- EN: left fist -->
+	<RM_Mech_Falcon.tools.0.label>left fist</RM_Mech_Falcon.tools.0.label>
+	<!-- EN: right fist -->
+	<RM_Mech_Falcon.tools.1.label>right fist</RM_Mech_Falcon.tools.1.label>
+	<!-- EN: head -->
+	<RM_Mech_Falcon.tools.2.label>head</RM_Mech_Falcon.tools.2.label>
+	
+	<!-- EN: left fist -->
+	<RM_Mech_Gremlin.tools.0.label>left fist</RM_Mech_Gremlin.tools.0.label>
+	<!-- EN: right fist -->
+	<RM_Mech_Gremlin.tools.1.label>right fist</RM_Mech_Gremlin.tools.1.label>
+	<!-- EN: head -->
+	<RM_Mech_Gremlin.tools.2.label>head</RM_Mech_Gremlin.tools.2.label>
+	
+	<!-- EN: left fist -->
+	<RM_Mech_Harpy.tools.0.label>left fist</RM_Mech_Harpy.tools.0.label>
+	<!-- EN: right fist -->
+	<RM_Mech_Harpy.tools.1.label>right fist</RM_Mech_Harpy.tools.1.label>
+	<!-- EN: head -->
+	<RM_Mech_Harpy.tools.2.label>head</RM_Mech_Harpy.tools.2.label>
+	
+	<!-- EN: left fist -->
+	<RM_Mech_Ranger.tools.0.label>left fist</RM_Mech_Ranger.tools.0.label>
+	<!-- EN: right fist -->
+	<RM_Mech_Ranger.tools.1.label>right fist</RM_Mech_Ranger.tools.1.label>
+	<!-- EN: head -->
+	<RM_Mech_Ranger.tools.2.label>head</RM_Mech_Ranger.tools.2.label>
+	
+	<!-- EN: left fist -->
+	<RM_Mech_Zealot.tools.0.label>left fist</RM_Mech_Zealot.tools.0.label>
+	<!-- EN: right fist -->
+	<RM_Mech_Zealot.tools.1.label>right fist</RM_Mech_Zealot.tools.1.label>
+	<!-- EN: head -->
+	<RM_Mech_Zealot.tools.2.label>head</RM_Mech_Zealot.tools.2.label>
+	
+	<!-- EN: left blade -->
+	<RM_Mech_Marshal.tools.0.label>left blade</RM_Mech_Marshal.tools.0.label>
+	<!-- EN: left blade -->
+	<RM_Mech_Marshal.tools.1.label>left blade</RM_Mech_Marshal.tools.1.label>
+	<!-- EN: right blade -->
+	<RM_Mech_Marshal.tools.2.label>right blade</RM_Mech_Marshal.tools.2.label>
+	<!-- EN: right blade -->
+	<RM_Mech_Marshal.tools.3.label>right blade</RM_Mech_Marshal.tools.3.label>
+	<!-- EN: head -->
+	<RM_Mech_Marshal.tools.4.label>head</RM_Mech_Marshal.tools.4.label>
+	<!-- EN: head -->
+	<RM_Mech_Marshal.tools.5.label>head</RM_Mech_Marshal.tools.5.label>
+	
+	<!-- EN: left fist -->
+	<RM_Mech_Sentinel.tools.0.label>left fist</RM_Mech_Sentinel.tools.0.label>
+	<!-- EN: right fist -->
+	<RM_Mech_Sentinel.tools.1.label>right fist</RM_Mech_Sentinel.tools.1.label>
+	<!-- EN: head -->
+	<RM_Mech_Sentinel.tools.2.label>head</RM_Mech_Sentinel.tools.2.label>
+	<!-- EN: head -->
+	<RM_Mech_Sentinel.tools.3.label>head</RM_Mech_Sentinel.tools.3.label>
+	
+	<!-- EN: left shield -->
+	<RM_Mech_Behemoth.tools.0.label>left shield</RM_Mech_Behemoth.tools.0.label>
+	<!-- EN: right fist -->
+	<RM_Mech_Behemoth.tools.1.label>right fist</RM_Mech_Behemoth.tools.1.label>
+	<!-- EN: head -->
+	<RM_Mech_Behemoth.tools.2.label>head</RM_Mech_Behemoth.tools.2.label>
+	
+	<!-- EN: head -->
+	<RM_Mech_Wraith.tools.0.label>head</RM_Mech_Wraith.tools.0.label>
+	
+	<!-- EN: head -->
+	<RM_Mech_Locust.tools.0.label>head</RM_Mech_Locust.tools.0.label>
+	
+	<!-- EN: head -->
+	<RM_Mech_Matriarch.tools.0.label>head</RM_Mech_Matriarch.tools.0.label>
+	<!-- EN: left fist -->
+	<RM_Mech_Matriarch.tools.1.label>left fist</RM_Mech_Matriarch.tools.1.label>
+	<!-- EN: right fist -->
+	<RM_Mech_Matriarch.tools.2.label>right fist</RM_Mech_Matriarch.tools.2.label>
+</LanguageData>

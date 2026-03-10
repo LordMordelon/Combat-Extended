@@ -1,0 +1,82 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\itzal_bws\British_weapon_set601.xml -->
+	<!-- EN: grip -->
+	<BWP_Browning.tools.0.label>grip</BWP_Browning.tools.0.label>
+	<!-- EN: muzzle -->
+	<BWP_Browning.tools.1.label>muzzle</BWP_Browning.tools.1.label>
+	
+	<!-- EN: grip -->
+	<BWS_Webley.tools.0.label>grip</BWS_Webley.tools.0.label>
+	<!-- EN: muzzle -->
+	<BWS_Webley.tools.1.label>muzzle</BWS_Webley.tools.1.label>
+	
+	<!-- EN: stock -->
+	<BWS_Bren.tools.0.label>stock</BWS_Bren.tools.0.label>
+	<!-- EN: barrel -->
+	<BWS_Bren.tools.1.label>barrel</BWS_Bren.tools.1.label>
+	<!-- EN: muzzle -->
+	<BWS_Bren.tools.2.label>muzzle</BWS_Bren.tools.2.label>
+	
+	<!-- EN: stock -->
+	<BWS_LeeA.tools.0.label>stock</BWS_LeeA.tools.0.label>
+	<!-- EN: barrel -->
+	<BWS_LeeA.tools.1.label>barrel</BWS_LeeA.tools.1.label>
+	<!-- EN: muzzle -->
+	<BWS_LeeA.tools.2.label>muzzle</BWS_LeeA.tools.2.label>
+	
+	<!-- EN: stock -->
+	<BWS_LeeB.tools.0.label>stock</BWS_LeeB.tools.0.label>
+	<!-- EN: barrel -->
+	<BWS_LeeB.tools.1.label>barrel</BWS_LeeB.tools.1.label>
+	<!-- EN: muzzle -->
+	<BWS_LeeB.tools.2.label>muzzle</BWS_LeeB.tools.2.label>
+	
+	<!-- EN: stock -->
+	<BWS_LewisGun.tools.0.label>stock</BWS_LewisGun.tools.0.label>
+	<!-- EN: barrel -->
+	<BWS_LewisGun.tools.1.label>barrel</BWS_LewisGun.tools.1.label>
+	<!-- EN: muzzle -->
+	<BWS_LewisGun.tools.2.label>muzzle</BWS_LewisGun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<BWS_Sten.tools.0.label>stock</BWS_Sten.tools.0.label>
+	<!-- EN: barrel -->
+	<BWS_Sten.tools.1.label>barrel</BWS_Sten.tools.1.label>
+	<!-- EN: muzzle -->
+	<BWS_Sten.tools.2.label>muzzle</BWS_Sten.tools.2.label>
+	
+	<!-- EN: stock -->
+	<BWS_Sterling.tools.0.label>stock</BWS_Sterling.tools.0.label>
+	<!-- EN: barrel -->
+	<BWS_Sterling.tools.1.label>barrel</BWS_Sterling.tools.1.label>
+	<!-- EN: muzzle -->
+	<BWS_Sterling.tools.2.label>muzzle</BWS_Sterling.tools.2.label>
+	
+	<!-- EN: stock -->
+	<BWP_EM.tools.0.label>stock</BWP_EM.tools.0.label>
+	<!-- EN: barrel -->
+	<BWP_EM.tools.1.label>barrel</BWP_EM.tools.1.label>
+	<!-- EN: muzzle -->
+	<BWP_EM.tools.2.label>muzzle</BWP_EM.tools.2.label>
+	
+	<!-- EN: stock -->
+	<BWP_MartiniHenry.tools.0.label>stock</BWP_MartiniHenry.tools.0.label>
+	<!-- EN: barrel -->
+	<BWP_MartiniHenry.tools.1.label>barrel</BWP_MartiniHenry.tools.1.label>
+	<!-- EN: muzzle -->
+	<BWP_MartiniHenry.tools.2.label>muzzle</BWP_MartiniHenry.tools.2.label>
+	
+	<!-- EN: stock -->
+	<BWP_TommyB.tools.0.label>stock</BWP_TommyB.tools.0.label>
+	<!-- EN: barrel -->
+	<BWP_TommyB.tools.1.label>barrel</BWP_TommyB.tools.1.label>
+	<!-- EN: muzzle -->
+	<BWP_TommyB.tools.2.label>muzzle</BWP_TommyB.tools.2.label>
+	
+	<!-- EN: stock -->
+	<BWP_FAL.tools.0.label>stock</BWP_FAL.tools.0.label>
+	<!-- EN: barrel -->
+	<BWP_FAL.tools.1.label>barrel</BWP_FAL.tools.1.label>
+	<!-- EN: muzzle -->
+	<BWP_FAL.tools.2.label>muzzle</BWP_FAL.tools.2.label>
+</LanguageData>

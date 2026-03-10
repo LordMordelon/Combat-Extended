@@ -1,0 +1,61 @@
+<LanguageData>
+	<!-- Defs\ResearchProjectDefs\ResearchProjects_Turrets.xml -->
+	<!-- EN: heavy weapons -->
+	<CE_TurretHeavyWeapons.label>heavy weapons</CE_TurretHeavyWeapons.label>
+	<!-- EN: Allows you to assemble high-caliber weapons, automatic grenade launchers and artillery. -->
+	<CE_TurretHeavyWeapons.description>Allows you to assemble high-caliber weapons, automatic grenade launchers and artillery.</CE_TurretHeavyWeapons.description>
+	<!-- EN: 
+		<li>subject->heavy-duty barrels</li>
+		<li>subject->high-caliber emplacements</li>
+		<li>subject_story->hardened components to withstand enormously high pressures</li>
+		<li>subject_story->survived a years-long siege on a war-world</li>
+		<li>subject_story->worked in a factory that manufactured artillery barrels</li>
+		<li>subject_gerund->building heavy emplacements</li>
+	 -->
+	<CE_TurretHeavyWeapons.generalRules.rulesStrings>
+		<li>subject->heavy-duty barrels</li>
+		<li>subject->high-caliber emplacements</li>
+		<li>subject_story->hardened components to withstand enormously high pressures</li>
+		<li>subject_story->survived a years-long siege on a war-world</li>
+		<li>subject_story->worked in a factory that manufactured artillery barrels</li>
+		<li>subject_gerund->building heavy emplacements</li>
+	</CE_TurretHeavyWeapons.generalRules.rulesStrings>
+	
+	<!-- EN: heavy auto turrets -->
+	<CE_HeavyTurret.label>heavy auto turrets</CE_HeavyTurret.label>
+	<!-- EN: Learn to construct heavy auto-turrets. -->
+	<CE_HeavyTurret.description>Learn to construct heavy auto-turrets.</CE_HeavyTurret.description>
+	<!-- EN: 
+		<li>subject->heavy autoturrets</li>
+		<li>subject_story->optimized automated fire-control systems for long range engagements</li>
+		<li>subject_story->developed improved electronic IFF protocols</li>
+		<li>subject_story->worked for an urbworld firm that produced mechanoid sensory systems</li>
+		<li>subject_gerund->automating heavy emplacements</li>
+	 -->
+	<CE_HeavyTurret.generalRules.rulesStrings>
+		<li>subject->heavy autoturrets</li>
+		<li>subject_story->optimized automated fire-control systems for long range engagements</li>
+		<li>subject_story->developed improved electronic IFF protocols</li>
+		<li>subject_story->worked for an urbworld firm that produced mechanoid sensory systems</li>
+		<li>subject_gerund->automating heavy emplacements</li>
+	</CE_HeavyTurret.generalRules.rulesStrings>
+	
+	<!-- EN: charge blaster turrets -->
+	<CE_ChargeTurret.label>charge blaster turrets</CE_ChargeTurret.label>
+	<!-- EN: Learn to construct charge blaster turrets. -->
+	<CE_ChargeTurret.description>Learn to construct charge blaster turrets.</CE_ChargeTurret.description>
+	<!-- EN: 
+		<li>subject->charge turrets</li>
+		<li>subject_story->created denser power units for higher draw</li>
+		<li>subject_story->explored the remnants of a toxic world battlefield</li>
+		<li>subject_story->took part in a doomed assault against a mechanoid stronghold</li>
+		<li>subject_gerund->building charged-shot turrets</li>
+	 -->
+	<CE_ChargeTurret.generalRules.rulesStrings>
+		<li>subject->charge turrets</li>
+		<li>subject_story->created denser power units for higher draw</li>
+		<li>subject_story->explored the remnants of a toxic world battlefield</li>
+		<li>subject_story->took part in a doomed assault against a mechanoid stronghold</li>
+		<li>subject_gerund->building charged-shot turrets</li>
+	</CE_ChargeTurret.generalRules.rulesStrings>
+</LanguageData>

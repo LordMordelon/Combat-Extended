@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\sarg_alphavehiclesneolithic\Alpha_Vehicle_Hwacha335.xml -->
+	<!-- EN: Full Barrage -->
+	<AV_Hwacha_Turret.fireModes.0.label>Full Barrage</AV_Hwacha_Turret.fireModes.0.label>
+	<!-- EN: Half Barrage -->
+	<AV_Hwacha_Turret.fireModes.1.label>Half Barrage</AV_Hwacha_Turret.fireModes.1.label>
+	<!-- EN: Burst -->
+	<AV_Hwacha_Turret.fireModes.2.label>Burst</AV_Hwacha_Turret.fireModes.2.label>
+</LanguageData>

@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Mlie_DoomFactions\DoomFactions_Ammo697.xml -->
+	<!-- EN: Plasma -->
+	<UAC_Plasm.label>Plasma</UAC_Plasm.label>
+	<!-- EN: {0} has been killed. -->
+	<UAC_Plasm.deathMessage>{0} has been killed.</UAC_Plasm.deathMessage>
+	
+	<!-- EN: Plasma -->
+	<UAC_GAUSS.label>Plasma</UAC_GAUSS.label>
+	<!-- EN: {0} has been killed. -->
+	<UAC_GAUSS.deathMessage>{0} has been killed.</UAC_GAUSS.deathMessage>
+	
+	<!-- EN: BFG Plasma -->
+	<UAC_BFG.label>BFG Plasma</UAC_BFG.label>
+	<!-- EN: {0} has been killed. -->
+	<UAC_BFG.deathMessage>{0} has been killed.</UAC_BFG.deathMessage>
+</LanguageData>

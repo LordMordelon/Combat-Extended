@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- ModPatches\Morgante WW2 Italian Weapons\Defs\Morgante WW2 Italian Weapons\Patch_Ammo.xml -->
+	<!-- EN: 60mm Grenade (HEAT) -->
+	<Ammo_60mmGrenade_HEAT.label>60mm Grenade (HEAT)</Ammo_60mmGrenade_HEAT.label>
+	<!-- EN: Large spigot grenade designed to be fired at tanks. -->
+	<Ammo_60mmGrenade_HEAT.description>Large spigot grenade designed to be fired at tanks.</Ammo_60mmGrenade_HEAT.description>
+	<!-- EN: 60mm Grenade(HEAT) -->
+	<Bullet_60mmGrenade_HEAT.label>60mm Grenade(HEAT)</Bullet_60mmGrenade_HEAT.label>
+	<!-- EN: 10.35mm Ordinanza Italiana cartridge (FMJ) -->
+	<Ammo_1035mmOrdinanzaItaliana_FMJ.label>10.35mm Ordinanza Italiana cartridge (FMJ)</Ammo_1035mmOrdinanzaItaliana_FMJ.label>
+	<!-- EN: Ancient pistol cartridge originally designed for Italian revolvers. -->
+	<Ammo_1035mmOrdinanzaItaliana_FMJ.description>Ancient pistol cartridge originally designed for Italian revolvers.</Ammo_1035mmOrdinanzaItaliana_FMJ.description>
+	<!-- EN: 10.35mm Ordinanza Italiana bullet (FMJ) -->
+	<Bullet_1035mmOrdinanzaItaliana_FMJ.label>10.35mm Ordinanza Italiana bullet (FMJ)</Bullet_1035mmOrdinanzaItaliana_FMJ.label>
+</LanguageData>

@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- ModPatches\Orassans\Defs\Orassans\Ammo\AmmoCategories_ChemicalCompoundOE.xml -->
+	<!-- EN: accelerated jellied prometheum -->
+	<ChemicalMunitionCompoundAprometheum.label>accelerated jellied prometheum</ChemicalMunitionCompoundAprometheum.label>
+	<!-- EN: A.Prometheum -->
+	<ChemicalMunitionCompoundAprometheum.labelShort>A.Prometheum</ChemicalMunitionCompoundAprometheum.labelShort>
+	<!-- EN: Filled with mixture of potent but short-living version of prometheum. -->
+	<ChemicalMunitionCompoundAprometheum.description>Filled with mixture of potent but short-living version of prometheum.</ChemicalMunitionCompoundAprometheum.description>
+	
+	<!-- EN: Thermobaric -->
+	<ChemicalMunitionCompoundThermobaric.label>Thermobaric</ChemicalMunitionCompoundThermobaric.label>
+	<!-- EN: Filled with mixture that disperses and subsequently ignites a fuel-air explosive mix, creating a powerful explosion and potentially igniting flammable objects. -->
+	<ChemicalMunitionCompoundThermobaric.description>Filled with mixture that disperses and subsequently ignites a fuel-air explosive mix, creating a powerful explosion and potentially igniting flammable objects.</ChemicalMunitionCompoundThermobaric.description>
+	
+	<!-- EN: Cryo -->
+	<ChemicalMunitionCompoundCryo.label>Cryo</ChemicalMunitionCompoundCryo.label>
+	<!-- EN: Filled with mixture of solid hydrogen and unstable compounds that vaporizes on contact with the air. -->
+	<ChemicalMunitionCompoundCryo.description>Filled with mixture of solid hydrogen and unstable compounds that vaporizes on contact with the air.</ChemicalMunitionCompoundCryo.description>
+</LanguageData>

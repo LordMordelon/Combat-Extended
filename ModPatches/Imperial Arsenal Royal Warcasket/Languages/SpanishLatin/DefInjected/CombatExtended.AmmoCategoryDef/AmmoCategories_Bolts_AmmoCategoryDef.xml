@@ -1,0 +1,30 @@
+<LanguageData>
+	<!-- ModPatches\Imperial Arsenal Royal Warcasket\Defs\Imperial Arsenal Royal Warcasket\Ammo\AmmoCategories_Bolts.xml -->
+	<!-- EN: Standard -->
+	<Standard.label>Standard</Standard.label>
+	<!-- EN: Standard -->
+	<Standard.labelShort>Standard</Standard.labelShort>
+	<!-- EN: A gyro-stabilized projectile equipped with a hardened tip for penetrating armor and laden with a small explosive charge. -->
+	<Standard.description>A gyro-stabilized projectile equipped with a hardened tip for penetrating armor and laden with a small explosive charge.</Standard.description>
+	
+	<!-- EN: Inferno -->
+	<Inferno.label>Inferno</Inferno.label>
+	<!-- EN: Inferno -->
+	<Inferno.labelShort>Inferno</Inferno.labelShort>
+	<!-- EN: A gyro-stabilized projectile equipped with the explosive filler replaced with sticky, highly flammable prometheum. -->
+	<Inferno.description>A gyro-stabilized projectile equipped with the explosive filler replaced with sticky, highly flammable prometheum.</Inferno.description>
+	
+	<!-- EN: Metal Storm -->
+	<MetalStorm.label>Metal Storm</MetalStorm.label>
+	<!-- EN: Metal Storm -->
+	<MetalStorm.labelShort>Metal Storm</MetalStorm.labelShort>
+	<!-- EN: A gyro-stabilized equipped with a proximity fuse, designed to shower lighly armored targets with a devestating shower of fragmention when it detonates. -->
+	<MetalStorm.description>A gyro-stabilized equipped with a proximity fuse, designed to shower lighly armored targets with a devestating shower of fragmention when it detonates.</MetalStorm.description>
+	
+	<!-- EN: Kraken -->
+	<Kraken.label>Kraken</Kraken.label>
+	<!-- EN: Kraken -->
+	<Kraken.labelShort>Kraken</Kraken.labelShort>
+	<!-- EN: A gyro-stabilized projectile with hardened penetrator and explosive 'kicker' charge, designed to punch through heavy armor. -->
+	<Kraken.description>A gyro-stabilized projectile with hardened penetrator and explosive 'kicker' charge, designed to punch through heavy armor.</Kraken.description>
+</LanguageData>

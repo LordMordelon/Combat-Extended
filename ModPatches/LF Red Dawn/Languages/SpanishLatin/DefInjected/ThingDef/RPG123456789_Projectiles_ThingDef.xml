@@ -1,0 +1,14 @@
+<LanguageData>
+	<!-- ModPatches\LF Red Dawn\Defs\LF Red Dawn\RPG123456789_Projectiles.xml -->
+	<!-- EN: RPG18 grenade -->
+	<Bullet_RPG18_HEAT.label>RPG18 grenade</Bullet_RPG18_HEAT.label>
+	
+	<!-- EN: RPG22 grenade -->
+	<Bullet_RPG22_HEAT.label>RPG22 grenade</Bullet_RPG22_HEAT.label>
+	
+	<!-- EN: RPG26 grenade -->
+	<Bullet_RPG26_HEAT.label>RPG26 grenade</Bullet_RPG26_HEAT.label>
+	
+	<!-- EN: RPG27 grenade -->
+	<Bullet_RPG27_HEAT.label>RPG27 grenade</Bullet_RPG27_HEAT.label>
+</LanguageData>

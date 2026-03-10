@@ -1,0 +1,35 @@
+<LanguageData>
+	<!-- ModPatches\Imperial Arsenal Royal Warcasket\Defs\Imperial Arsenal Royal Warcasket\Ammo\Xonus.xml -->
+	
+	<!-- EN: Xonus bolt shell (Standard) -->
+	<Ammo_BoltXonus_Standard.label>Xonus bolt shell (Standard)</Ammo_BoltXonus_Standard.label>
+	<!-- EN: A .998 caliber, gryojet-stabilized projectile with an explosive charge and hardened tip, fired from most patterns of Astartes heavy bolters. -->
+	<Ammo_BoltXonus_Standard.description>A .998 caliber, gryojet-stabilized projectile with an explosive charge and hardened tip, fired from most patterns of Astartes heavy bolters.</Ammo_BoltXonus_Standard.description>
+	
+	<!-- EN: Xonus bolt shell (Inferno) -->
+	<Ammo_BoltXonus_Inferno.label>Xonus bolt shell (Inferno)</Ammo_BoltXonus_Inferno.label>
+	<!-- EN: A .998 caliber, gryojet-stabilized projectile with an explosive charge and hardened tip, fired from most patterns of Astartes heavy bolters. -->
+	<Ammo_BoltXonus_Inferno.description>A .998 caliber, gryojet-stabilized projectile with an explosive charge and hardened tip, fired from most patterns of Astartes heavy bolters.</Ammo_BoltXonus_Inferno.description>
+	
+	<!-- EN: Xonus bolt shell (Metal Storm) -->
+	<Ammo_BoltXonus_MetalStorm.label>Xonus bolt shell (Metal Storm)</Ammo_BoltXonus_MetalStorm.label>
+	<!-- EN: A .998 caliber, gryojet-stabilized projectile with an explosive charge and hardened tip, fired from most patterns of Astartes heavy bolters. -->
+	<Ammo_BoltXonus_MetalStorm.description>A .998 caliber, gryojet-stabilized projectile with an explosive charge and hardened tip, fired from most patterns of Astartes heavy bolters.</Ammo_BoltXonus_MetalStorm.description>
+	
+	<!-- EN: Xonus bolt shell (Kraken) -->
+	<Ammo_BoltXonus_Kraken.label>Xonus bolt shell (Kraken)</Ammo_BoltXonus_Kraken.label>
+	<!-- EN: A .998 caliber, gryojet-stabilized projectile with an explosive charge and hardened tip, fired from most patterns of Astartes heavy bolters. -->
+	<Ammo_BoltXonus_Kraken.description>A .998 caliber, gryojet-stabilized projectile with an explosive charge and hardened tip, fired from most patterns of Astartes heavy bolters.</Ammo_BoltXonus_Kraken.description>
+	
+	<!-- EN: .998 cal bolt (Standard) -->
+	<Bullet_BoltXonus_Standard.label>.998 cal bolt (Standard)</Bullet_BoltXonus_Standard.label>
+	
+	<!-- EN: .998 cal bolt (Inferno) -->
+	<Bullet_BoltXonus_Inferno.label>.998 cal bolt (Inferno)</Bullet_BoltXonus_Inferno.label>
+	
+	<!-- EN: .998 cal bolt (Metal Storm) -->
+	<Bullet_BoltXonus_MetalStorm.label>.998 cal bolt (Metal Storm)</Bullet_BoltXonus_MetalStorm.label>
+	
+	<!-- EN: .998 cal bolt (Kraken) -->
+	<Bullet_BoltXonus_Kraken.label>.998 cal bolt (Kraken)</Bullet_BoltXonus_Kraken.label>
+</LanguageData>

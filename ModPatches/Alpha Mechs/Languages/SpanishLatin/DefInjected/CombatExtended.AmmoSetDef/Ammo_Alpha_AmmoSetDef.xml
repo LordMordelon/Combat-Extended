@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\Alpha Mechs\Defs\Alpha Mechs\Ammo_Alpha.xml -->
+	<!-- EN: 8mm Railgun -->
+	<AmmoSet_CoilLance.label>8mm Railgun</AmmoSet_CoilLance.label>
+	<!-- EN: 12x64mm Charged -->
+	<AmmoSet_12x64mmHyper.label>12x64mm Charged</AmmoSet_12x64mmHyper.label>
+	<!-- EN: 5x50mm Caseless (Acidic) -->
+	<AmmoSet_5x50mmCaselessAcidic.label>5x50mm Caseless (Acidic)</AmmoSet_5x50mmCaselessAcidic.label>
+	<!-- EN: heavy laser charge -->
+	<AmmoSet_HeavyLaser.label>heavy laser charge</AmmoSet_HeavyLaser.label>
+</LanguageData>

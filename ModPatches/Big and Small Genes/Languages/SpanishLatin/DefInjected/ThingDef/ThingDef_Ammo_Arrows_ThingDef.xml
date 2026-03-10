@@ -1,0 +1,43 @@
+<LanguageData>
+	<!-- ModPatches\Big and Small Genes\Defs\Big and Small Genes\Weapons\ThingDef_Ammo_Arrows.xml -->
+	
+	<!-- EN: giant's arrow (stone) -->
+	<Ammo_BigSmall_GiantArrow_Stone.label>giant's arrow (stone)</Ammo_BigSmall_GiantArrow_Stone.label>
+	<!-- EN: Heavy arrow designed to be fired from a giant's bow. -->
+	<Ammo_BigSmall_GiantArrow_Stone.description>Heavy arrow designed to be fired from a giant's bow.</Ammo_BigSmall_GiantArrow_Stone.description>
+	
+	<!-- EN: giant's arrow (steel) -->
+	<Ammo_BigSmall_GiantArrow_Steel.label>giant's arrow (steel)</Ammo_BigSmall_GiantArrow_Steel.label>
+	<!-- EN: Heavy arrow designed to be fired from a giant's bow. -->
+	<Ammo_BigSmall_GiantArrow_Steel.description>Heavy arrow designed to be fired from a giant's bow.</Ammo_BigSmall_GiantArrow_Steel.description>
+	
+	<!-- EN: giant's arrow (plasteel) -->
+	<Ammo_BigSmall_GiantArrow_Plasteel.label>giant's arrow (plasteel)</Ammo_BigSmall_GiantArrow_Plasteel.label>
+	<!-- EN: Heavy arrow designed to be fired from a giant's bow. -->
+	<Ammo_BigSmall_GiantArrow_Plasteel.description>Heavy arrow designed to be fired from a giant's bow.</Ammo_BigSmall_GiantArrow_Plasteel.description>
+	
+	<!-- EN: giant's arrow (venom) -->
+	<Ammo_BigSmall_GiantArrow_Venom.label>giant's arrow (venom)</Ammo_BigSmall_GiantArrow_Venom.label>
+	<!-- EN: Heavy arrow designed to be fired from a giant's bow. -->
+	<Ammo_BigSmall_GiantArrow_Venom.description>Heavy arrow designed to be fired from a giant's bow.</Ammo_BigSmall_GiantArrow_Venom.description>
+	
+	<!-- EN: giant's arrow (flame) -->
+	<Ammo_BigSmall_GiantArrow_Flame.label>giant's arrow (flame)</Ammo_BigSmall_GiantArrow_Flame.label>
+	<!-- EN: Heavy arrow designed to be fired from a giant's bow. -->
+	<Ammo_BigSmall_GiantArrow_Flame.description>Heavy arrow designed to be fired from a giant's bow.</Ammo_BigSmall_GiantArrow_Flame.description>
+	
+	<!-- EN: giant's arrow (stone) -->
+	<Projectile_BigSmall_GiantArrow_Stone.label>giant's arrow (stone)</Projectile_BigSmall_GiantArrow_Stone.label>
+	
+	<!-- EN: giant's arrow (steel) -->
+	<Projectile_BigSmall_GiantArrow_Steel.label>giant's arrow (steel)</Projectile_BigSmall_GiantArrow_Steel.label>
+	
+	<!-- EN: giant's arrow (plasteel) -->
+	<Projectile_BigSmall_GiantArrow_Plasteel.label>giant's arrow (plasteel)</Projectile_BigSmall_GiantArrow_Plasteel.label>
+	
+	<!-- EN: giant's arrow (venom) -->
+	<Projectile_BigSmall_GiantArrow_Venom.label>giant's arrow (venom)</Projectile_BigSmall_GiantArrow_Venom.label>
+	
+	<!-- EN: giant's arrow (flame) -->
+	<Projectile_BigSmall_GiantArrow_Flame.label>giant's arrow (flame)</Projectile_BigSmall_GiantArrow_Flame.label>
+</LanguageData>

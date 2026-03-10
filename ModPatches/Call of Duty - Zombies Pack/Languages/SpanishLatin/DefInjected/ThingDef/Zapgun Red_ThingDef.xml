@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Zaps\Zapgun Red.xml -->
+	
+	<!-- EN: Red Zapgun Cartridge -->
+	<Ammo_Zapgun_red.label>Red Zapgun Cartridge</Ammo_Zapgun_red.label>
+	<!-- EN: Pistol cartridge favoured for its above average stopping power. -->
+	<Ammo_Zapgun_red.description>Pistol cartridge favoured for its above average stopping power.</Ammo_Zapgun_red.description>
+	
+	<!-- EN: Red Zap Bolt -->
+	<Bullet_Zapgun_red.label>Red Zap Bolt</Bullet_Zapgun_red.label>
+</LanguageData>

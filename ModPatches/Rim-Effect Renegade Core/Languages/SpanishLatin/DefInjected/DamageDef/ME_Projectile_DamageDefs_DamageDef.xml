@@ -1,0 +1,22 @@
+<LanguageData>
+	<!-- ModPatches\Rim-Effect Renegade Core\Defs\Rim-Effect Renegade Core\ME_Projectile_DamageDefs.xml -->
+	<!-- EN: bullet -->
+	<ME_BigBullet.label>bullet</ME_BigBullet.label>
+	<!-- EN: {0} has been shot to death. -->
+	<ME_BigBullet.deathMessage>{0} has been shot to death.</ME_BigBullet.deathMessage>
+	
+	<!-- EN: prometheum burn -->
+	<ME_SickBurn.label>prometheum burn</ME_SickBurn.label>
+	<!-- EN: {0} has burned to death. -->
+	<ME_SickBurn.deathMessage>{0} has burned to death.</ME_SickBurn.deathMessage>
+	
+	<!-- EN: Cryo shot -->
+	<ME_Cryo.label>Cryo shot</ME_Cryo.label>
+	<!-- EN: {0} has succumbed to frostbite. -->
+	<ME_Cryo.deathMessage>{0} has succumbed to frostbite.</ME_Cryo.deathMessage>
+	
+	<!-- EN: Toxin shot -->
+	<ME_Toxin.label>Toxin shot</ME_Toxin.label>
+	<!-- EN: {0} has succumbed to bullet poisoning. -->
+	<ME_Toxin.deathMessage>{0} has succumbed to bullet poisoning.</ME_Toxin.deathMessage>
+</LanguageData>

@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- ModPatches\Star Wars - Factions\Defs\Star Wars - Factions\PlasmaGasCartridge.xml -->
+	<!-- EN: Plasma Gas Cartridges -->
+	<AmmoSet_SWPlasmaGasCartridge.label>Plasma Gas Cartridges</AmmoSet_SWPlasmaGasCartridge.label>
+	<!-- EN: Plasma Gas Cartridges -->
+	<AmmoSet_SWPlasmaGasCartridgeBlue.label>Plasma Gas Cartridges</AmmoSet_SWPlasmaGasCartridgeBlue.label>
+	<!-- EN: Plasma Gas Cartridges -->
+	<AmmoSet_SWPlasmaGasCartridgeJawa.label>Plasma Gas Cartridges</AmmoSet_SWPlasmaGasCartridgeJawa.label>
+	<!-- EN: 12 Gauge -->
+	<AmmoSet_Nym.label>12 Gauge</AmmoSet_Nym.label>
+	<!-- EN: Big Plasma Gas Cartridges -->
+	<AmmoSet_SWBigPlasmaGasCartridge.label>Big Plasma Gas Cartridges</AmmoSet_SWBigPlasmaGasCartridge.label>
+</LanguageData>

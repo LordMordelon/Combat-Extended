@@ -1,0 +1,46 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Mlie_SpidercampsHorses\SpidercampsHorses_Races_Animal_Horse1627.xml -->
+	<!-- EN: left hoof -->
+	<SCQuarterHorse.tools.0.label>left hoof</SCQuarterHorse.tools.0.label>
+	<!-- EN: left hoof -->
+	<SCQuarterHorse.tools.1.label>left hoof</SCQuarterHorse.tools.1.label>
+	<!-- EN: right hoof -->
+	<SCQuarterHorse.tools.2.label>right hoof</SCQuarterHorse.tools.2.label>
+	<!-- EN: right hoof -->
+	<SCQuarterHorse.tools.3.label>right hoof</SCQuarterHorse.tools.3.label>
+	<!-- EN: head -->
+	<SCQuarterHorse.tools.5.label>head</SCQuarterHorse.tools.5.label>
+	
+	<!-- EN: left hoof -->
+	<SCBlackHorse.tools.0.label>left hoof</SCBlackHorse.tools.0.label>
+	<!-- EN: left hoof -->
+	<SCBlackHorse.tools.1.label>left hoof</SCBlackHorse.tools.1.label>
+	<!-- EN: right hoof -->
+	<SCBlackHorse.tools.2.label>right hoof</SCBlackHorse.tools.2.label>
+	<!-- EN: right hoof -->
+	<SCBlackHorse.tools.3.label>right hoof</SCBlackHorse.tools.3.label>
+	<!-- EN: head -->
+	<SCBlackHorse.tools.5.label>head</SCBlackHorse.tools.5.label>
+	
+	<!-- EN: left hoof -->
+	<SCWhiteHorse.tools.0.label>left hoof</SCWhiteHorse.tools.0.label>
+	<!-- EN: left hoof -->
+	<SCWhiteHorse.tools.1.label>left hoof</SCWhiteHorse.tools.1.label>
+	<!-- EN: right hoof -->
+	<SCWhiteHorse.tools.2.label>right hoof</SCWhiteHorse.tools.2.label>
+	<!-- EN: right hoof -->
+	<SCWhiteHorse.tools.3.label>right hoof</SCWhiteHorse.tools.3.label>
+	<!-- EN: head -->
+	<SCWhiteHorse.tools.5.label>head</SCWhiteHorse.tools.5.label>
+	
+	<!-- EN: left hoof -->
+	<SCPalomino.tools.0.label>left hoof</SCPalomino.tools.0.label>
+	<!-- EN: left hoof -->
+	<SCPalomino.tools.1.label>left hoof</SCPalomino.tools.1.label>
+	<!-- EN: right hoof -->
+	<SCPalomino.tools.2.label>right hoof</SCPalomino.tools.2.label>
+	<!-- EN: right hoof -->
+	<SCPalomino.tools.3.label>right hoof</SCPalomino.tools.3.label>
+	<!-- EN: head -->
+	<SCPalomino.tools.5.label>head</SCPalomino.tools.5.label>
+</LanguageData>

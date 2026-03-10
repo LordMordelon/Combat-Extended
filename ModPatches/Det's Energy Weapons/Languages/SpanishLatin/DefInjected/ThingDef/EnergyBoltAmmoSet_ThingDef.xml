@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Det's Energy Weapons\Defs\Det's Energy Weapons\EnergyBoltAmmoSet.XML -->
+	<!-- EN: bullet -->
+	<Bullet_Bolt_LaserPistol.label>bullet</Bullet_Bolt_LaserPistol.label>
+	<!-- EN: bullet -->
+	<Bullet_Bolt_LaserRifle.label>bullet</Bullet_Bolt_LaserRifle.label>
+	<!-- EN: bullet -->
+	<Bullet_Bolt_LaserSniperRifle.label>bullet</Bullet_Bolt_LaserSniperRifle.label>
+</LanguageData>

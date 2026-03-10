@@ -1,0 +1,149 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Ravvy_AMW\Patch_Melee108.xml -->
+	<!-- EN: front legs -->
+	<Mech_NovaBlossom.tools.0.label>front legs</Mech_NovaBlossom.tools.0.label>
+	
+	<!-- EN: front legs -->
+	<AMW_Mech_Frosthound.tools.0.label>front legs</AMW_Mech_Frosthound.tools.0.label>
+	
+	<!-- EN: front legs -->
+	<AMW_Mech_Supernova.tools.0.label>front legs</AMW_Mech_Supernova.tools.0.label>
+	
+	<!-- EN: head -->
+	<AMW_Mech_Blacklight.tools.0.label>head</AMW_Mech_Blacklight.tools.0.label>
+	
+	<!-- EN: head -->
+	<Mech_Derg.tools.0.label>head</Mech_Derg.tools.0.label>
+	<!-- EN: derg claws -->
+	<Mech_Derg.tools.1.label>derg claws</Mech_Derg.tools.1.label>
+	<!-- EN: tail -->
+	<Mech_Derg.tools.2.label>tail</Mech_Derg.tools.2.label>
+	
+	<!-- EN: head -->
+	<Mech_Thrumbo.tools.0.label>head</Mech_Thrumbo.tools.0.label>
+	<!-- EN: plasma horn -->
+	<Mech_Thrumbo.tools.1.label>plasma horn</Mech_Thrumbo.tools.1.label>
+	
+	<!-- EN: head -->
+	<Mech_Supressor.tools.0.label>head</Mech_Supressor.tools.0.label>
+	<!-- EN: derg claws -->
+	<Mech_Supressor.tools.1.label>derg claws</Mech_Supressor.tools.1.label>
+	
+	<!-- EN: mechanical paws -->
+	<Mech_Charger.tools.0.label>mechanical paws</Mech_Charger.tools.0.label>
+	<!-- EN: head -->
+	<Mech_Charger.tools.1.label>head</Mech_Charger.tools.1.label>
+	<!-- EN: mechanical jaw -->
+	<Mech_Charger.tools.2.label>mechanical jaw</Mech_Charger.tools.2.label>
+	
+	<!-- EN: mechanical paws -->
+	<Mech_Sawblade.tools.0.label>mechanical paws</Mech_Sawblade.tools.0.label>
+	<!-- EN: head -->
+	<Mech_Sawblade.tools.1.label>head</Mech_Sawblade.tools.1.label>
+	<!-- EN: mechanical jaw -->
+	<Mech_Sawblade.tools.2.label>mechanical jaw</Mech_Sawblade.tools.2.label>
+	
+	<!-- EN: mechanical paws -->
+	<Mech_Impulse.tools.0.label>mechanical paws</Mech_Impulse.tools.0.label>
+	<!-- EN: head -->
+	<Mech_Impulse.tools.1.label>head</Mech_Impulse.tools.1.label>
+	<!-- EN: mechanical jaw -->
+	<Mech_Impulse.tools.2.label>mechanical jaw</Mech_Impulse.tools.2.label>
+	
+	<!-- EN: head -->
+	<Mech_Flayer.tools.0.label>head</Mech_Flayer.tools.0.label>
+	<!-- EN: mechanical tail -->
+	<Mech_Flayer.tools.1.label>mechanical tail</Mech_Flayer.tools.1.label>
+	<!-- EN: scythe -->
+	<Mech_Flayer.tools.2.label>scythe</Mech_Flayer.tools.2.label>
+	
+	<!-- EN: head -->
+	<Mech_Vortex.tools.0.label>head</Mech_Vortex.tools.0.label>
+	<!-- EN: mechanical tail -->
+	<Mech_Vortex.tools.1.label>mechanical tail</Mech_Vortex.tools.1.label>
+	
+	<!-- EN: mechanical paws -->
+	<Mech_Spike.tools.0.label>mechanical paws</Mech_Spike.tools.0.label>
+	<!-- EN: head -->
+	<Mech_Spike.tools.1.label>head</Mech_Spike.tools.1.label>
+	<!-- EN: mechanical jaw -->
+	<Mech_Spike.tools.2.label>mechanical jaw</Mech_Spike.tools.2.label>
+	
+	<!-- EN: mechanical paws -->
+	<Mech_Renegade.tools.0.label>mechanical paws</Mech_Renegade.tools.0.label>
+	<!-- EN: head -->
+	<Mech_Renegade.tools.1.label>head</Mech_Renegade.tools.1.label>
+	<!-- EN: mechanical jaw -->
+	<Mech_Renegade.tools.2.label>mechanical jaw</Mech_Renegade.tools.2.label>
+	
+	<!-- EN: scythe -->
+	<Mech_Wraith.tools.0.label>scythe</Mech_Wraith.tools.0.label>
+	<!-- EN: mechanical tail -->
+	<Mech_Wraith.tools.1.label>mechanical tail</Mech_Wraith.tools.1.label>
+	
+	<!-- EN: mechanical paws -->
+	<Mech_Scourge.tools.0.label>mechanical paws</Mech_Scourge.tools.0.label>
+	<!-- EN: head -->
+	<Mech_Scourge.tools.1.label>head</Mech_Scourge.tools.1.label>
+	<!-- EN: mechanical jaw -->
+	<Mech_Scourge.tools.2.label>mechanical jaw</Mech_Scourge.tools.2.label>
+	
+	<!-- EN: mechanical pincer -->
+	<Mech_Anarchist.tools.0.label>mechanical pincer</Mech_Anarchist.tools.0.label>
+	<!-- EN: head -->
+	<Mech_Anarchist.tools.1.label>head</Mech_Anarchist.tools.1.label>
+	<!-- EN: mechanical tail -->
+	<Mech_Anarchist.tools.2.label>mechanical tail</Mech_Anarchist.tools.2.label>
+	
+	<!-- EN: mechanical pincer -->
+	<Mech_Headhunter.tools.0.label>mechanical pincer</Mech_Headhunter.tools.0.label>
+	<!-- EN: head -->
+	<Mech_Headhunter.tools.1.label>head</Mech_Headhunter.tools.1.label>
+	
+	<!-- EN: front legs -->
+	<Mech_Purger.tools.0.label>front legs</Mech_Purger.tools.0.label>
+	<!-- EN: head -->
+	<Mech_Purger.tools.1.label>head</Mech_Purger.tools.1.label>
+	
+	<!-- EN: front legs -->
+	<Mech_Reaper.tools.0.label>front legs</Mech_Reaper.tools.0.label>
+	<!-- EN: head -->
+	<Mech_Reaper.tools.1.label>head</Mech_Reaper.tools.1.label>
+	
+	<!-- EN: left fist -->
+	<Mech_Nomad.tools.0.label>left fist</Mech_Nomad.tools.0.label>
+	<!-- EN: right fist -->
+	<Mech_Nomad.tools.1.label>right fist</Mech_Nomad.tools.1.label>
+	
+	<!-- EN: left fist -->
+	<Mech_AMWSeeker.tools.0.label>left fist</Mech_AMWSeeker.tools.0.label>
+	<!-- EN: right fist -->
+	<Mech_AMWSeeker.tools.1.label>right fist</Mech_AMWSeeker.tools.1.label>
+	
+	<!-- EN: left fist -->
+	<Mech_Spectre.tools.0.label>left fist</Mech_Spectre.tools.0.label>
+	<!-- EN: right fist -->
+	<Mech_Spectre.tools.1.label>right fist</Mech_Spectre.tools.1.label>
+	
+	<!-- EN: left fist -->
+	<Mech_Stalker.tools.0.label>left fist</Mech_Stalker.tools.0.label>
+	<!-- EN: right fist -->
+	<Mech_Stalker.tools.1.label>right fist</Mech_Stalker.tools.1.label>
+	
+	<!-- EN: handle -->
+	<MechaWeapon_SeekerKatana.tools.0.label>handle</MechaWeapon_SeekerKatana.tools.0.label>
+	<!-- EN: blade -->
+	<MechaWeapon_SeekerKatana.tools.1.label>blade</MechaWeapon_SeekerKatana.tools.1.label>
+	<!-- EN: point -->
+	<MechaWeapon_SeekerKatana.tools.2.label>point</MechaWeapon_SeekerKatana.tools.2.label>
+	
+	<!-- EN: handle -->
+	<AMW_MechaWeapon_SSeekerKatana.tools.0.label>handle</AMW_MechaWeapon_SSeekerKatana.tools.0.label>
+	<!-- EN: blade -->
+	<AMW_MechaWeapon_SSeekerKatana.tools.1.label>blade</AMW_MechaWeapon_SSeekerKatana.tools.1.label>
+	<!-- EN: point -->
+	<AMW_MechaWeapon_SSeekerKatana.tools.2.label>point</AMW_MechaWeapon_SSeekerKatana.tools.2.label>
+	
+	<!-- EN: blade -->
+	<AMW_MechaWeapon_PowerClaw.tools.0.label>blade</AMW_MechaWeapon_PowerClaw.tools.0.label>
+</LanguageData>

@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- Defs\Ammo\Pistols\44Magnum.xml -->
+	<!-- EN: .44 Magnum (FMJ) -->
+	<Ammo_44Magnum_FMJ.label>.44 Magnum (FMJ)</Ammo_44Magnum_FMJ.label>
+	<!-- EN: Ancient pistol cartridge originally designed for revolvers. -->
+	<Ammo_44Magnum_FMJ.description>Ancient pistol cartridge originally designed for revolvers.</Ammo_44Magnum_FMJ.description>
+	<!-- EN: .44 Magnum (AP) -->
+	<Ammo_44Magnum_AP.label>.44 Magnum (AP)</Ammo_44Magnum_AP.label>
+	<!-- EN: Ancient pistol cartridge originally designed for revolvers. -->
+	<Ammo_44Magnum_AP.description>Ancient pistol cartridge originally designed for revolvers.</Ammo_44Magnum_AP.description>
+	<!-- EN: .44 Magnum (HP) -->
+	<Ammo_44Magnum_HP.label>.44 Magnum (HP)</Ammo_44Magnum_HP.label>
+	<!-- EN: Ancient pistol cartridge originally designed for revolvers. -->
+	<Ammo_44Magnum_HP.description>Ancient pistol cartridge originally designed for revolvers.</Ammo_44Magnum_HP.description>
+	<!-- EN: .44 Magnum bullet (FMJ) -->
+	<Bullet_44Magnum_FMJ.label>.44 Magnum bullet (FMJ)</Bullet_44Magnum_FMJ.label>
+	<!-- EN: .44 Magnum bullet (AP) -->
+	<Bullet_44Magnum_AP.label>.44 Magnum bullet (AP)</Bullet_44Magnum_AP.label>
+	<!-- EN: .44 Magnum bullet (HP) -->
+	<Bullet_44Magnum_HP.label>.44 Magnum bullet (HP)</Bullet_44Magnum_HP.label>
+	<!-- EN: .44 Magnum bullet (FMJ) -->
+	<Bullet_44Magnum_HV_FMJ.label>.44 Magnum bullet (FMJ)</Bullet_44Magnum_HV_FMJ.label>
+	<!-- EN: .44 Magnum bullet (AP) -->
+	<Bullet_44Magnum_HV_AP.label>.44 Magnum bullet (AP)</Bullet_44Magnum_HV_AP.label>
+	<!-- EN: .44 Magnum bullet (HP) -->
+	<Bullet_44Magnum_HV_HP.label>.44 Magnum bullet (HP)</Bullet_44Magnum_HV_HP.label>
+</LanguageData>

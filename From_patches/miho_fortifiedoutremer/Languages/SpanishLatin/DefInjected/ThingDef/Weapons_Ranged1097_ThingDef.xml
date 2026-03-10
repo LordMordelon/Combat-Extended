@@ -1,0 +1,111 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\miho_fortifiedoutremer\Weapons_Ranged1097.xml -->
+	<!-- EN: stock -->
+	<Miho_Weapon_RifleDefence.tools.0.label>stock</Miho_Weapon_RifleDefence.tools.0.label>
+	<!-- EN: barrel -->
+	<Miho_Weapon_RifleDefence.tools.1.label>barrel</Miho_Weapon_RifleDefence.tools.1.label>
+	<!-- EN: muzzle -->
+	<Miho_Weapon_RifleDefence.tools.2.label>muzzle</Miho_Weapon_RifleDefence.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Miho_Weapon_RifleMachinegun.tools.0.label>stock</Miho_Weapon_RifleMachinegun.tools.0.label>
+	<!-- EN: barrel -->
+	<Miho_Weapon_RifleMachinegun.tools.1.label>barrel</Miho_Weapon_RifleMachinegun.tools.1.label>
+	<!-- EN: muzzle -->
+	<Miho_Weapon_RifleMachinegun.tools.2.label>muzzle</Miho_Weapon_RifleMachinegun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Miho_Weapon_RifleOld.tools.0.label>stock</Miho_Weapon_RifleOld.tools.0.label>
+	<!-- EN: barrel -->
+	<Miho_Weapon_RifleOld.tools.1.label>barrel</Miho_Weapon_RifleOld.tools.1.label>
+	<!-- EN: muzzle -->
+	<Miho_Weapon_RifleOld.tools.2.label>muzzle</Miho_Weapon_RifleOld.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Miho_Weapon_RifleGrenade.tools.0.label>stock</Miho_Weapon_RifleGrenade.tools.0.label>
+	<!-- EN: barrel -->
+	<Miho_Weapon_RifleGrenade.tools.1.label>barrel</Miho_Weapon_RifleGrenade.tools.1.label>
+	<!-- EN: muzzle -->
+	<Miho_Weapon_RifleGrenade.tools.2.label>muzzle</Miho_Weapon_RifleGrenade.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Miho_Weapon_Shotgun.tools.0.label>stock</Miho_Weapon_Shotgun.tools.0.label>
+	<!-- EN: barrel -->
+	<Miho_Weapon_Shotgun.tools.1.label>barrel</Miho_Weapon_Shotgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<Miho_Weapon_Shotgun.tools.2.label>muzzle</Miho_Weapon_Shotgun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Miho_Weapon_RiflePlasma.tools.0.label>stock</Miho_Weapon_RiflePlasma.tools.0.label>
+	<!-- EN: barrel -->
+	<Miho_Weapon_RiflePlasma.tools.1.label>barrel</Miho_Weapon_RiflePlasma.tools.1.label>
+	<!-- EN: muzzle -->
+	<Miho_Weapon_RiflePlasma.tools.2.label>muzzle</Miho_Weapon_RiflePlasma.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Miho_Weapon_ShotgunPsychic.tools.0.label>stock</Miho_Weapon_ShotgunPsychic.tools.0.label>
+	<!-- EN: barrel -->
+	<Miho_Weapon_ShotgunPsychic.tools.1.label>barrel</Miho_Weapon_ShotgunPsychic.tools.1.label>
+	<!-- EN: muzzle -->
+	<Miho_Weapon_ShotgunPsychic.tools.2.label>muzzle</Miho_Weapon_ShotgunPsychic.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Miho_Weapon_SniperPlasma.tools.0.label>stock</Miho_Weapon_SniperPlasma.tools.0.label>
+	<!-- EN: barrel -->
+	<Miho_Weapon_SniperPlasma.tools.1.label>barrel</Miho_Weapon_SniperPlasma.tools.1.label>
+	<!-- EN: muzzle -->
+	<Miho_Weapon_SniperPlasma.tools.2.label>muzzle</Miho_Weapon_SniperPlasma.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Miho_Weapon_RiflePsychic.tools.0.label>stock</Miho_Weapon_RiflePsychic.tools.0.label>
+	<!-- EN: barrel -->
+	<Miho_Weapon_RiflePsychic.tools.1.label>barrel</Miho_Weapon_RiflePsychic.tools.1.label>
+	<!-- EN: muzzle -->
+	<Miho_Weapon_RiflePsychic.tools.2.label>muzzle</Miho_Weapon_RiflePsychic.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Miho_Weapon_RifleRecoillessSharp.tools.0.label>stock</Miho_Weapon_RifleRecoillessSharp.tools.0.label>
+	<!-- EN: barrel -->
+	<Miho_Weapon_RifleRecoillessSharp.tools.1.label>barrel</Miho_Weapon_RifleRecoillessSharp.tools.1.label>
+	<!-- EN: muzzle -->
+	<Miho_Weapon_RifleRecoillessSharp.tools.2.label>muzzle</Miho_Weapon_RifleRecoillessSharp.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Miho_Weapon_RifleDefenceGrenade.tools.0.label>stock</Miho_Weapon_RifleDefenceGrenade.tools.0.label>
+	<!-- EN: barrel -->
+	<Miho_Weapon_RifleDefenceGrenade.tools.1.label>barrel</Miho_Weapon_RifleDefenceGrenade.tools.1.label>
+	<!-- EN: muzzle -->
+	<Miho_Weapon_RifleDefenceGrenade.tools.2.label>muzzle</Miho_Weapon_RifleDefenceGrenade.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Miho_Weapon_AutoShotgun.tools.0.label>stock</Miho_Weapon_AutoShotgun.tools.0.label>
+	<!-- EN: barrel -->
+	<Miho_Weapon_AutoShotgun.tools.1.label>barrel</Miho_Weapon_AutoShotgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<Miho_Weapon_AutoShotgun.tools.2.label>muzzle</Miho_Weapon_AutoShotgun.tools.2.label>
+	
+	<!-- EN: grip -->
+	<Miho_Weapon_HeavyPistol.tools.0.label>grip</Miho_Weapon_HeavyPistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<Miho_Weapon_HeavyPistol.tools.1.label>muzzle</Miho_Weapon_HeavyPistol.tools.1.label>
+	
+	<!-- EN: grip -->
+	<Miho_Weapon_HeavyPistolFlechette.tools.0.label>grip</Miho_Weapon_HeavyPistolFlechette.tools.0.label>
+	<!-- EN: muzzle -->
+	<Miho_Weapon_HeavyPistolFlechette.tools.1.label>muzzle</Miho_Weapon_HeavyPistolFlechette.tools.1.label>
+	
+	<!-- EN: grip -->
+	<Miho_Weapon_HeavyPistolHardkill.tools.0.label>grip</Miho_Weapon_HeavyPistolHardkill.tools.0.label>
+	<!-- EN: muzzle -->
+	<Miho_Weapon_HeavyPistolHardkill.tools.1.label>muzzle</Miho_Weapon_HeavyPistolHardkill.tools.1.label>
+	
+	<!-- EN: grip -->
+	<Miho_Weapon_RifleCQB.tools.0.label>grip</Miho_Weapon_RifleCQB.tools.0.label>
+	<!-- EN: muzzle -->
+	<Miho_Weapon_RifleCQB.tools.1.label>muzzle</Miho_Weapon_RifleCQB.tools.1.label>
+	
+	<!-- EN: grip -->
+	<Miho_Weapon_Pistol.tools.0.label>grip</Miho_Weapon_Pistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<Miho_Weapon_Pistol.tools.1.label>muzzle</Miho_Weapon_Pistol.tools.1.label>
+</LanguageData>

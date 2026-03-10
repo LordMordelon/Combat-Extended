@@ -1,0 +1,30 @@
+<LanguageData>
+	<!-- Defs\Ammo\Advanced\8x35mmCharged.xml -->
+	
+	<!-- EN: 8x35mm Charged -->
+	<Ammo_8x35mmCharged.label>8x35mm Charged</Ammo_8x35mmCharged.label>
+	<!-- EN: Charged shot ammo used by advanced assault rifle designs. -->
+	<Ammo_8x35mmCharged.description>Charged shot ammo used by advanced assault rifle designs.</Ammo_8x35mmCharged.description>
+	
+	<!-- EN: 8x35mm Charged (Conc.) -->
+	<Ammo_8x35mmCharged_AP.label>8x35mm Charged (Conc.)</Ammo_8x35mmCharged_AP.label>
+	<!-- EN: Charged shot ammo used by advanced assault rifle designs. -->
+	<Ammo_8x35mmCharged_AP.description>Charged shot ammo used by advanced assault rifle designs.</Ammo_8x35mmCharged_AP.description>
+	
+	<!-- EN: 8x35mm Charged (Ion) -->
+	<Ammo_8x35mmCharged_Ion.label>8x35mm Charged (Ion)</Ammo_8x35mmCharged_Ion.label>
+	<!-- EN: Charged shot ammo used by advanced assault rifle designs. -->
+	<Ammo_8x35mmCharged_Ion.description>Charged shot ammo used by advanced assault rifle designs.</Ammo_8x35mmCharged_Ion.description>
+	
+	<!-- EN: 8x35mm Charged bullet -->
+	<Bullet_8x35mmCharged.label>8x35mm Charged bullet</Bullet_8x35mmCharged.label>
+	
+	<!-- EN: 8x35mm Charged bullet (Conc.) -->
+	<Bullet_8x35mmCharged_AP.label>8x35mm Charged bullet (Conc.)</Bullet_8x35mmCharged_AP.label>
+	
+	<!-- EN: 8x35mm Charged bullet (Ion) -->
+	<Bullet_8x35mmCharged_Ion.label>8x35mm Charged bullet (Ion)</Bullet_8x35mmCharged_Ion.label>
+	
+	<!-- EN: 8x35mm Charged bullet -->
+	<Bullet_8x35mmChargedCIWS.label>8x35mm Charged bullet</Bullet_8x35mmChargedCIWS.label>
+</LanguageData>

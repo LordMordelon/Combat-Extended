@@ -1,0 +1,14 @@
+<LanguageData>
+	<!-- ModPatches\Infinity Rim Ariadna\Defs\Infinity Rim Ariadna\Ammo\Pistol.xml -->
+	<!-- EN: 9x19mm Ariadnan -->
+	<AmmoSet_TeseumPistol.label>9x19mm Ariadnan</AmmoSet_TeseumPistol.label>
+	
+	<!-- EN: pistol -->
+	<AmmoSet_TeseumPistolGeneric.label>pistol</AmmoSet_TeseumPistolGeneric.label>
+	
+	<!-- EN: .44 Magnum Ariadnan -->
+	<AmmoSet_TeseumPistolMagnum.label>.44 Magnum Ariadnan</AmmoSet_TeseumPistolMagnum.label>
+	
+	<!-- EN: magnum pistol -->
+	<AmmoSet_TeseumPistolMagnumGeneric.label>magnum pistol</AmmoSet_TeseumPistolMagnumGeneric.label>
+</LanguageData>

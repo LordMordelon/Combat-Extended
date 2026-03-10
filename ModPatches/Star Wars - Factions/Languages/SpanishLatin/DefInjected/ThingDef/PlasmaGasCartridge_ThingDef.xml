@@ -1,0 +1,29 @@
+<LanguageData>
+	<!-- ModPatches\Star Wars - Factions\Defs\Star Wars - Factions\PlasmaGasCartridge.xml -->
+	<!-- EN: Plasma Gas Cartridges -->
+	<Ammo_SWPlasmaGasCartridge.label>Plasma Gas Cartridges</Ammo_SWPlasmaGasCartridge.label>
+	<!-- EN: Plasma gas cartridge ammo used by advanced assault rifle designs. -->
+	<Ammo_SWPlasmaGasCartridge.description>Plasma gas cartridge ammo used by advanced assault rifle designs.</Ammo_SWPlasmaGasCartridge.description>
+	<!-- EN: Plasma Gas Cartridges (Imp) -->
+	<Ammo_SWPlasmaGasCartridge_AP.label>Plasma Gas Cartridges (Imp)</Ammo_SWPlasmaGasCartridge_AP.label>
+	<!-- EN: Plasma gas cartridge ammo used by advanced assault rifle designs. -->
+	<Ammo_SWPlasmaGasCartridge_AP.description>Plasma gas cartridge ammo used by advanced assault rifle designs.</Ammo_SWPlasmaGasCartridge_AP.description>
+	<!-- EN: Plasma Gas Cartridges (Stun) -->
+	<Ammo_SWPlasmaGasCartridge_Ion.label>Plasma Gas Cartridges (Stun)</Ammo_SWPlasmaGasCartridge_Ion.label>
+	<!-- EN: Plasma gas cartridge ammo used by advanced assault rifle designs. -->
+	<Ammo_SWPlasmaGasCartridge_Ion.description>Plasma gas cartridge ammo used by advanced assault rifle designs.</Ammo_SWPlasmaGasCartridge_Ion.description>
+	<!-- EN: Blaster Bolt -->
+	<Bullet_SWPlasmaGasCartridge.label>Blaster Bolt</Bullet_SWPlasmaGasCartridge.label>
+	<!-- EN: Blaster Bolt -->
+	<Bullet_SWPlasmaGasCartridgeBlue.label>Blaster Bolt</Bullet_SWPlasmaGasCartridgeBlue.label>
+	<!-- EN: Blaster Bolt (Imp) -->
+	<Bullet_SWPlasmaGasCartridge_AP.label>Blaster Bolt (Imp)</Bullet_SWPlasmaGasCartridge_AP.label>
+	<!-- EN: Blaster Bolt(Stun) -->
+	<Bullet_SWPlasmaGasCartridge_Ion.label>Blaster Bolt(Stun)</Bullet_SWPlasmaGasCartridge_Ion.label>
+	<!-- EN: Big Blaster Bolt -->
+	<Bullet_SWBigPlasmaGasCartridge.label>Big Blaster Bolt</Bullet_SWBigPlasmaGasCartridge.label>
+	<!-- EN: Big Blaster Bolt (Conc.) -->
+	<Bullet_SWBigPlasmaGasCartridge_AP.label>Big Blaster Bolt (Conc.)</Bullet_SWBigPlasmaGasCartridge_AP.label>
+	<!-- EN: Big Blaster Bolt(Ion) -->
+	<Bullet_SWBigPlasmaGasCartridge_Ion.label>Big Blaster Bolt(Ion)</Bullet_SWBigPlasmaGasCartridge_Ion.label>
+</LanguageData>

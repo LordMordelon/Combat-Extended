@@ -1,0 +1,23 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\RimEffect_Core\ME_Animals1424.xml -->
+	<!-- EN: head -->
+	<RE_SpaceCow.tools.0.label>head</RE_SpaceCow.tools.0.label>
+	<!-- EN: left hoof -->
+	<RE_SpaceCow.tools.1.label>left hoof</RE_SpaceCow.tools.1.label>
+	<!-- EN: right hoof -->
+	<RE_SpaceCow.tools.2.label>right hoof</RE_SpaceCow.tools.2.label>
+	
+	<!-- EN: left claw -->
+	<RE_Pyjak.tools.0.label>left claw</RE_Pyjak.tools.0.label>
+	<!-- EN: right claw -->
+	<RE_Pyjak.tools.1.label>right claw</RE_Pyjak.tools.1.label>
+	<!-- EN: head -->
+	<RE_Pyjak.tools.3.label>head</RE_Pyjak.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<RE_Varren.tools.0.label>left claw</RE_Varren.tools.0.label>
+	<!-- EN: right claw -->
+	<RE_Varren.tools.1.label>right claw</RE_Varren.tools.1.label>
+	<!-- EN: head -->
+	<RE_Varren.tools.3.label>head</RE_Varren.tools.3.label>
+</LanguageData>

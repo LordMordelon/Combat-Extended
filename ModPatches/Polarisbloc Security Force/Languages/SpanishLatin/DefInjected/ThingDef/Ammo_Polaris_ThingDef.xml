@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- ModPatches\Polarisbloc Security Force\Defs\Polarisbloc Security Force\Ammo\Ammo_Polaris.xml -->
+	<!-- EN: 6x24mm Charged SF bullet -->
+	<Bullet_6x24mmPolarisSF.label>6x24mm Charged SF bullet</Bullet_6x24mmPolarisSF.label>
+	<!-- EN: 6x24mm Charged SF bullet (Conc.) -->
+	<Bullet_6x24mmPolarisSF_AP.label>6x24mm Charged SF bullet (Conc.)</Bullet_6x24mmPolarisSF_AP.label>
+	<!-- EN: 6x24mm Charged SF bullet (Ion) -->
+	<Bullet_6x24mmPolarisSF_Ion.label>6x24mm Charged SF bullet (Ion)</Bullet_6x24mmPolarisSF_Ion.label>
+	<!-- EN: 8x35mm Charged SF bullet -->
+	<Bullet_8x35mmPolarisSF.label>8x35mm Charged SF bullet</Bullet_8x35mmPolarisSF.label>
+	<!-- EN: 8x35mm Charged SF bullet (Conc.) -->
+	<Bullet_8x35mmPolarisSF_AP.label>8x35mm Charged SF bullet (Conc.)</Bullet_8x35mmPolarisSF_AP.label>
+	<!-- EN: 8x35mm Charged SF bullet (Ion) -->
+	<Bullet_8x35mmPolarisSF_Ion.label>8x35mm Charged SF bullet (Ion)</Bullet_8x35mmPolarisSF_Ion.label>
+</LanguageData>

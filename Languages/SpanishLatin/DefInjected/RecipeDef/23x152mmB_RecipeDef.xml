@@ -1,0 +1,31 @@
+<LanguageData>
+	<!-- Defs\Ammo\HighCaliber\23x152mmB.xml -->
+	
+	<!-- EN: make 23x152mmB (AP) cartridge x200 -->
+	<MakeAmmo_23x152mmB_AP.label>make 23x152mmB (AP) cartridge x200</MakeAmmo_23x152mmB_AP.label>
+	<!-- EN: Craft 200 23x152mmB (AP) cartridges. -->
+	<MakeAmmo_23x152mmB_AP.description>Craft 200 23x152mmB (AP) cartridges.</MakeAmmo_23x152mmB_AP.description>
+	<!-- EN: Making 23x152mmB (AP) cartridges. -->
+	<MakeAmmo_23x152mmB_AP.jobString>Making 23x152mmB (AP) cartridges.</MakeAmmo_23x152mmB_AP.jobString>
+	
+	<!-- EN: make 23x152mmB (AP-I) cartridge x200 -->
+	<MakeAmmo_23x152mmB_Incendiary.label>make 23x152mmB (AP-I) cartridge x200</MakeAmmo_23x152mmB_Incendiary.label>
+	<!-- EN: Craft 200 23x152mmB (AP-I) cartridges. -->
+	<MakeAmmo_23x152mmB_Incendiary.description>Craft 200 23x152mmB (AP-I) cartridges.</MakeAmmo_23x152mmB_Incendiary.description>
+	<!-- EN: Making 23x152mmB (AP-I) cartridges. -->
+	<MakeAmmo_23x152mmB_Incendiary.jobString>Making 23x152mmB (AP-I) cartridges.</MakeAmmo_23x152mmB_Incendiary.jobString>
+	
+	<!-- EN: make 23x152mmB (AP-HE) cartridge x200 -->
+	<MakeAmmo_23x152mmB_APHE.label>make 23x152mmB (AP-HE) cartridge x200</MakeAmmo_23x152mmB_APHE.label>
+	<!-- EN: Craft 200 23x152mmB (AP-HE) cartridges. -->
+	<MakeAmmo_23x152mmB_APHE.description>Craft 200 23x152mmB (AP-HE) cartridges.</MakeAmmo_23x152mmB_APHE.description>
+	<!-- EN: Making 23x152mmB (AP-HE) cartridges. -->
+	<MakeAmmo_23x152mmB_APHE.jobString>Making 23x152mmB (AP-HE) cartridges.</MakeAmmo_23x152mmB_APHE.jobString>
+	
+	<!-- EN: make 23x152mmB (Sabot) cartridge x200 -->
+	<MakeAmmo_23x152mmB_Sabot.label>make 23x152mmB (Sabot) cartridge x200</MakeAmmo_23x152mmB_Sabot.label>
+	<!-- EN: Craft 200 23x152mmB (Sabot) cartridges. -->
+	<MakeAmmo_23x152mmB_Sabot.description>Craft 200 23x152mmB (Sabot) cartridges.</MakeAmmo_23x152mmB_Sabot.description>
+	<!-- EN: Making 23x152mmB (Sabot) cartridges. -->
+	<MakeAmmo_23x152mmB_Sabot.jobString>Making 23x152mmB (Sabot) cartridges.</MakeAmmo_23x152mmB_Sabot.jobString>
+</LanguageData>

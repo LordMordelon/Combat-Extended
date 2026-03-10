@@ -1,0 +1,262 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Spino_Megafauna\Races_Animal_Megafauna1088.xml -->
+	<!-- EN: teeth -->
+	<Arthropleura.tools.0.label>teeth</Arthropleura.tools.0.label>
+	
+	<!-- EN: tail -->
+	<Doedicurus.tools.0.label>tail</Doedicurus.tools.0.label>
+	<!-- EN: left claw -->
+	<Doedicurus.tools.1.label>left claw</Doedicurus.tools.1.label>
+	<!-- EN: right claw -->
+	<Doedicurus.tools.2.label>right claw</Doedicurus.tools.2.label>
+	<!-- EN: teeth -->
+	<Doedicurus.tools.3.label>teeth</Doedicurus.tools.3.label>
+	
+	<!-- EN: left hoof -->
+	<Daeodon.tools.0.label>left hoof</Daeodon.tools.0.label>
+	<!-- EN: right hoof -->
+	<Daeodon.tools.1.label>right hoof</Daeodon.tools.1.label>
+	<!-- EN: teeth -->
+	<Daeodon.tools.2.label>teeth</Daeodon.tools.2.label>
+	
+	<!-- EN: left fist -->
+	<Gigantopithecus.tools.0.label>left fist</Gigantopithecus.tools.0.label>
+	<!-- EN: right fist -->
+	<Gigantopithecus.tools.1.label>right fist</Gigantopithecus.tools.1.label>
+	<!-- EN: teeth -->
+	<Gigantopithecus.tools.2.label>teeth</Gigantopithecus.tools.2.label>
+	
+	<!-- EN: left hoof -->
+	<Paraceratherium.tools.0.label>left hoof</Paraceratherium.tools.0.label>
+	<!-- EN: right hoof -->
+	<Paraceratherium.tools.1.label>right hoof</Paraceratherium.tools.1.label>
+	<!-- EN: teeth -->
+	<Paraceratherium.tools.2.label>teeth</Paraceratherium.tools.2.label>
+	
+	<!-- EN: claws -->
+	<Titanis.tools.0.label>claws</Titanis.tools.0.label>
+	<!-- EN: teeth -->
+	<Titanis.tools.1.label>teeth</Titanis.tools.1.label>
+	
+	<!-- EN: teeth -->
+	<Titanoboa.tools.0.label>teeth</Titanoboa.tools.0.label>
+	
+	<!-- EN: tusk -->
+	<WoollyMammoth.tools.0.label>tusk</WoollyMammoth.tools.0.label>
+	<!-- EN: left foot -->
+	<WoollyMammoth.tools.1.label>left foot</WoollyMammoth.tools.1.label>
+	<!-- EN: right foot -->
+	<WoollyMammoth.tools.2.label>right foot</WoollyMammoth.tools.2.label>
+	<!-- EN: head -->
+	<WoollyMammoth.tools.3.label>head</WoollyMammoth.tools.3.label>
+	
+	<!-- EN: horn -->
+	<Elasmotherium.tools.0.label>horn</Elasmotherium.tools.0.label>
+	<!-- EN: teeth -->
+	<Elasmotherium.tools.1.label>teeth</Elasmotherium.tools.1.label>
+	<!-- EN: head -->
+	<Elasmotherium.tools.2.label>head</Elasmotherium.tools.2.label>
+	
+	<!-- EN: left claw -->
+	<Smilodon.tools.0.label>left claw</Smilodon.tools.0.label>
+	<!-- EN: right claw -->
+	<Smilodon.tools.1.label>right claw</Smilodon.tools.1.label>
+	<!-- EN: teeth -->
+	<Smilodon.tools.2.label>teeth</Smilodon.tools.2.label>
+	
+	<!-- EN: left claw -->
+	<Chalicotherium.tools.0.label>left claw</Chalicotherium.tools.0.label>
+	<!-- EN: right claw -->
+	<Chalicotherium.tools.1.label>right claw</Chalicotherium.tools.1.label>
+	<!-- EN: teeth -->
+	<Chalicotherium.tools.2.label>teeth</Chalicotherium.tools.2.label>
+	
+	<!-- EN: left hoof -->
+	<Megaloceros.tools.0.label>left hoof</Megaloceros.tools.0.label>
+	<!-- EN: right hoof -->
+	<Megaloceros.tools.1.label>right hoof</Megaloceros.tools.1.label>
+	<!-- EN: teeth -->
+	<Megaloceros.tools.2.label>teeth</Megaloceros.tools.2.label>
+	<!-- EN: head -->
+	<Megaloceros.tools.3.label>head</Megaloceros.tools.3.label>
+	<!-- EN: antlers -->
+	<Megaloceros.tools.4.label>antlers</Megaloceros.tools.4.label>
+	
+	<!-- EN: feet -->
+	<Procoptodon.tools.0.label>feet</Procoptodon.tools.0.label>
+	<!-- EN: left fist -->
+	<Procoptodon.tools.1.label>left fist</Procoptodon.tools.1.label>
+	<!-- EN: right fist -->
+	<Procoptodon.tools.2.label>right fist</Procoptodon.tools.2.label>
+	<!-- EN: teeth -->
+	<Procoptodon.tools.3.label>teeth</Procoptodon.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<Megalania.tools.0.label>left claw</Megalania.tools.0.label>
+	<!-- EN: right claw -->
+	<Megalania.tools.1.label>right claw</Megalania.tools.1.label>
+	<!-- EN: toxic bite -->
+	<Megalania.tools.2.label>toxic bite</Megalania.tools.2.label>
+	
+	<!-- EN: teeth -->
+	<Gomphotaria.tools.0.label>teeth</Gomphotaria.tools.0.label>
+	
+	<!-- EN: left claw -->
+	<Diprotodon.tools.0.label>left claw</Diprotodon.tools.0.label>
+	<!-- EN: right claw -->
+	<Diprotodon.tools.1.label>right claw</Diprotodon.tools.1.label>
+	<!-- EN: teeth -->
+	<Diprotodon.tools.2.label>teeth</Diprotodon.tools.2.label>
+	
+	<!-- EN: left claw -->
+	<ShortfacedBear.tools.0.label>left claw</ShortfacedBear.tools.0.label>
+	<!-- EN: right claw -->
+	<ShortfacedBear.tools.1.label>right claw</ShortfacedBear.tools.1.label>
+	<!-- EN: teeth -->
+	<ShortfacedBear.tools.2.label>teeth</ShortfacedBear.tools.2.label>
+	
+	<!-- EN: left claw -->
+	<Dinocrocuta.tools.0.label>left claw</Dinocrocuta.tools.0.label>
+	<!-- EN: right claw -->
+	<Dinocrocuta.tools.1.label>right claw</Dinocrocuta.tools.1.label>
+	<!-- EN: teeth -->
+	<Dinocrocuta.tools.2.label>teeth</Dinocrocuta.tools.2.label>
+	
+	<!-- EN: left hoof -->
+	<Sivatherium.tools.0.label>left hoof</Sivatherium.tools.0.label>
+	<!-- EN: right hoof -->
+	<Sivatherium.tools.1.label>right hoof</Sivatherium.tools.1.label>
+	<!-- EN: teeth -->
+	<Sivatherium.tools.2.label>teeth</Sivatherium.tools.2.label>
+	<!-- EN: head -->
+	<Sivatherium.tools.3.label>head</Sivatherium.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<Andrewsarchus.tools.0.label>left claw</Andrewsarchus.tools.0.label>
+	<!-- EN: right claw -->
+	<Andrewsarchus.tools.1.label>right claw</Andrewsarchus.tools.1.label>
+	<!-- EN: teeth -->
+	<Andrewsarchus.tools.2.label>teeth</Andrewsarchus.tools.2.label>
+	
+	<!-- EN: claws -->
+	<Dinornis.tools.0.label>claws</Dinornis.tools.0.label>
+	<!-- EN: beak -->
+	<Dinornis.tools.1.label>beak</Dinornis.tools.1.label>
+	
+	<!-- EN: left hoof -->
+	<Macrauchenia.tools.0.label>left hoof</Macrauchenia.tools.0.label>
+	<!-- EN: right hoof -->
+	<Macrauchenia.tools.1.label>right hoof</Macrauchenia.tools.1.label>
+	<!-- EN: teeth -->
+	<Macrauchenia.tools.2.label>teeth</Macrauchenia.tools.2.label>
+	
+	<!-- EN: left claw -->
+	<Quinkana.tools.0.label>left claw</Quinkana.tools.0.label>
+	<!-- EN: right claw -->
+	<Quinkana.tools.1.label>right claw</Quinkana.tools.1.label>
+	<!-- EN: teeth -->
+	<Quinkana.tools.2.label>teeth</Quinkana.tools.2.label>
+	
+	<!-- EN: tusk -->
+	<Deinotherium.tools.0.label>tusk</Deinotherium.tools.0.label>
+	<!-- EN: left foot -->
+	<Deinotherium.tools.1.label>left foot</Deinotherium.tools.1.label>
+	<!-- EN: right foot -->
+	<Deinotherium.tools.2.label>right foot</Deinotherium.tools.2.label>
+	<!-- EN: head -->
+	<Deinotherium.tools.3.label>head</Deinotherium.tools.3.label>
+	
+	<!-- EN: left hoof -->
+	<Aurochs.tools.0.label>left hoof</Aurochs.tools.0.label>
+	<!-- EN: right hoof -->
+	<Aurochs.tools.1.label>right hoof</Aurochs.tools.1.label>
+	<!-- EN: horn -->
+	<Aurochs.tools.2.label>horn</Aurochs.tools.2.label>
+	<!-- EN: head -->
+	<Aurochs.tools.3.label>head</Aurochs.tools.3.label>
+	
+	<!-- EN: beak -->
+	<Megalochelys.tools.0.label>beak</Megalochelys.tools.0.label>
+	<!-- EN: head -->
+	<Megalochelys.tools.1.label>head</Megalochelys.tools.1.label>
+	
+	<!-- EN: claws -->
+	<Palaeeudyptes.tools.0.label>claws</Palaeeudyptes.tools.0.label>
+	<!-- EN: teeth -->
+	<Palaeeudyptes.tools.1.label>teeth</Palaeeudyptes.tools.1.label>
+	
+	<!-- EN: left claw -->
+	<Josephoartigasia.tools.0.label>left claw</Josephoartigasia.tools.0.label>
+	<!-- EN: right claw -->
+	<Josephoartigasia.tools.1.label>right claw</Josephoartigasia.tools.1.label>
+	<!-- EN: teeth -->
+	<Josephoartigasia.tools.2.label>teeth</Josephoartigasia.tools.2.label>
+	
+	<!-- EN: teeth -->
+	<Gigantophis.tools.0.label>teeth</Gigantophis.tools.0.label>
+	
+	<!-- EN: teeth -->
+	<Meganeura.tools.0.label>teeth</Meganeura.tools.0.label>
+	
+	<!-- EN: tusk -->
+	<Zygolophodon.tools.0.label>tusk</Zygolophodon.tools.0.label>
+	<!-- EN: left foot -->
+	<Zygolophodon.tools.1.label>left foot</Zygolophodon.tools.1.label>
+	<!-- EN: right foot -->
+	<Zygolophodon.tools.2.label>right foot</Zygolophodon.tools.2.label>
+	<!-- EN: head -->
+	<Zygolophodon.tools.3.label>head</Zygolophodon.tools.3.label>
+	
+	<!-- EN: tusk -->
+	<Platybelodon.tools.0.label>tusk</Platybelodon.tools.0.label>
+	<!-- EN: left foot -->
+	<Platybelodon.tools.1.label>left foot</Platybelodon.tools.1.label>
+	<!-- EN: right foot -->
+	<Platybelodon.tools.2.label>right foot</Platybelodon.tools.2.label>
+	<!-- EN: head -->
+	<Platybelodon.tools.3.label>head</Platybelodon.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<Purussaurus.tools.0.label>left claw</Purussaurus.tools.0.label>
+	<!-- EN: right claw -->
+	<Purussaurus.tools.1.label>right claw</Purussaurus.tools.1.label>
+	<!-- EN: teeth -->
+	<Purussaurus.tools.2.label>teeth</Purussaurus.tools.2.label>
+	
+	<!-- EN: horns -->
+	<Uintatherium.tools.0.label>horns</Uintatherium.tools.0.label>
+	<!-- EN: teeth -->
+	<Uintatherium.tools.1.label>teeth</Uintatherium.tools.1.label>
+	<!-- EN: head -->
+	<Uintatherium.tools.2.label>head</Uintatherium.tools.2.label>
+	
+	<!-- EN: left pincer -->
+	<Pulmonoscorpius.tools.0.label>left pincer</Pulmonoscorpius.tools.0.label>
+	<!-- EN: right pincer -->
+	<Pulmonoscorpius.tools.1.label>right pincer</Pulmonoscorpius.tools.1.label>
+	<!-- EN: stinger -->
+	<Pulmonoscorpius.tools.2.label>stinger</Pulmonoscorpius.tools.2.label>
+	
+	<!-- EN: left hand -->
+	<Dinopithecus.tools.0.label>left hand</Dinopithecus.tools.0.label>
+	<!-- EN: right hand -->
+	<Dinopithecus.tools.1.label>right hand</Dinopithecus.tools.1.label>
+	<!-- EN: teeth -->
+	<Dinopithecus.tools.2.label>teeth</Dinopithecus.tools.2.label>
+	
+	<!-- EN: left claw -->
+	<Castoroides.tools.0.label>left claw</Castoroides.tools.0.label>
+	<!-- EN: right claw -->
+	<Castoroides.tools.1.label>right claw</Castoroides.tools.1.label>
+	<!-- EN: teeth -->
+	<Castoroides.tools.2.label>teeth</Castoroides.tools.2.label>
+	<!-- EN: head -->
+	<Castoroides.tools.3.label>head</Castoroides.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<Enhydriodon.tools.0.label>left claw</Enhydriodon.tools.0.label>
+	<!-- EN: right claw -->
+	<Enhydriodon.tools.1.label>right claw</Enhydriodon.tools.1.label>
+	<!-- EN: teeth -->
+	<Enhydriodon.tools.2.label>teeth</Enhydriodon.tools.2.label>
+</LanguageData>

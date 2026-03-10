@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Defs\ApparelAutoPatcherPresets\Helmets.xml -->
+	<!-- EN: preset helmet -->
+	<Helmet.label>preset helmet</Helmet.label>
+	<!-- EN: preset light helmet -->
+	<LightHelmet.label>preset light helmet</LightHelmet.label>
+	<!-- EN: preset hat -->
+	<Hat.label>preset hat</Hat.label>
+</LanguageData>

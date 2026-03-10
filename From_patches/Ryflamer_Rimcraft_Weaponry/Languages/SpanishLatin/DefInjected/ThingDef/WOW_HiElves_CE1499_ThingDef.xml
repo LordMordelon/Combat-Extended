@@ -1,0 +1,37 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Ryflamer_Rimcraft_Weaponry\WOW_HiElves_CE1499.xml -->
+	<!-- EN: handle -->
+	<WoWM_HighElf_Dagger.tools.0.label>handle</WoWM_HighElf_Dagger.tools.0.label>
+	<!-- EN: blade -->
+	<WoWM_HighElf_Dagger.tools.1.label>blade</WoWM_HighElf_Dagger.tools.1.label>
+	<!-- EN: point -->
+	<WoWM_HighElf_Dagger.tools.2.label>point</WoWM_HighElf_Dagger.tools.2.label>
+	
+	<!-- EN: handle -->
+	<WoWM_HighElf_Sabre.tools.0.label>handle</WoWM_HighElf_Sabre.tools.0.label>
+	<!-- EN: point -->
+	<WoWM_HighElf_Sabre.tools.1.label>point</WoWM_HighElf_Sabre.tools.1.label>
+	<!-- EN: edge -->
+	<WoWM_HighElf_Sabre.tools.2.label>edge</WoWM_HighElf_Sabre.tools.2.label>
+	
+	<!-- EN: handle -->
+	<WoWM_HighElf_Greatsword.tools.0.label>handle</WoWM_HighElf_Greatsword.tools.0.label>
+	<!-- EN: point -->
+	<WoWM_HighElf_Greatsword.tools.1.label>point</WoWM_HighElf_Greatsword.tools.1.label>
+	<!-- EN: edge -->
+	<WoWM_HighElf_Greatsword.tools.2.label>edge</WoWM_HighElf_Greatsword.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<WoWM_HighElf_Glaive.tools.0.label>shaft</WoWM_HighElf_Glaive.tools.0.label>
+	<!-- EN: shaft -->
+	<WoWM_HighElf_Glaive.tools.1.label>shaft</WoWM_HighElf_Glaive.tools.1.label>
+	<!-- EN: point -->
+	<WoWM_HighElf_Glaive.tools.2.label>point</WoWM_HighElf_Glaive.tools.2.label>
+	<!-- EN: edge -->
+	<WoWM_HighElf_Glaive.tools.3.label>edge</WoWM_HighElf_Glaive.tools.3.label>
+	
+	<!-- EN: handle -->
+	<WoWM_HighElf_Warhammer.tools.0.label>handle</WoWM_HighElf_Warhammer.tools.0.label>
+	<!-- EN: head -->
+	<WoWM_HighElf_Warhammer.tools.1.label>head</WoWM_HighElf_Warhammer.tools.1.label>
+</LanguageData>

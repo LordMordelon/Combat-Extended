@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- Defs\Ammo\Generic\Charged.xml -->
+	
+	<!-- EN: charged pistol -->
+	<AmmoSet_ChargedPistol.label>charged pistol</AmmoSet_ChargedPistol.label>
+	
+	<!-- EN: charged rifle -->
+	<AmmoSet_ChargedRifle.label>charged rifle</AmmoSet_ChargedRifle.label>
+	
+	<!-- EN: heavy charged -->
+	<AmmoSet_ChargedHeavy.label>heavy charged</AmmoSet_ChargedHeavy.label>
+	
+	<!-- EN: charged shotgun -->
+	<AmmoSet_ChargedShotgun.label>charged shotgun</AmmoSet_ChargedShotgun.label>
+</LanguageData>

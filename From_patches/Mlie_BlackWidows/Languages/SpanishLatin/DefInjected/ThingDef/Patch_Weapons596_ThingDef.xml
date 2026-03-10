@@ -1,0 +1,34 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Mlie_BlackWidows\Patch_Weapons596.xml -->
+	
+	<!-- EN: black widow arrow (steel) -->
+	<Ammo_BlackWidowArrow_Steel.label>black widow arrow (steel)</Ammo_BlackWidowArrow_Steel.label>
+	
+	<!-- EN: black widow arrow (plasteel) -->
+	<Ammo_BlackWidowArrow_Plasteel.label>black widow arrow (plasteel)</Ammo_BlackWidowArrow_Plasteel.label>
+	
+	<!-- EN: black widow arrow (steel) -->
+	<Projectile_BlackWidowArrow_Steel.label>black widow arrow (steel)</Projectile_BlackWidowArrow_Steel.label>
+	
+	<!-- EN: black widow arrow (plasteel) -->
+	<Projectile_BlackWidowArrow_Plasteel.label>black widow arrow (plasteel)</Projectile_BlackWidowArrow_Plasteel.label>
+	
+	<!-- EN: stock -->
+	<Gun_BWRifle.tools.0.label>stock</Gun_BWRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_BWRifle.tools.1.label>barrel</Gun_BWRifle.tools.1.label>
+	<!-- EN: barrel -->
+	<Gun_BWRifle.tools.2.label>barrel</Gun_BWRifle.tools.2.label>
+	
+	<!-- EN: upper blade -->
+	<Bow_BWBow.tools.0.label>upper blade</Bow_BWBow.tools.0.label>
+	<!-- EN: lower blade -->
+	<Bow_BWBow.tools.1.label>lower blade</Bow_BWBow.tools.1.label>
+	
+	<!-- EN: hand guard -->
+	<MeleeWeapon_bwscythe.tools.0.label>hand guard</MeleeWeapon_bwscythe.tools.0.label>
+	<!-- EN: hook -->
+	<MeleeWeapon_bwscythe.tools.1.label>hook</MeleeWeapon_bwscythe.tools.1.label>
+	<!-- EN: edge -->
+	<MeleeWeapon_bwscythe.tools.2.label>edge</MeleeWeapon_bwscythe.tools.2.label>
+</LanguageData>

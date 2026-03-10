@@ -1,0 +1,52 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\CP_RimmuNation_Weapons\RNW_CE_Patch_RangedIndustrial_Revolvers1513.xml -->
+	<!-- EN: grip -->
+	<RNGun_ColtCobra.tools.0.label>grip</RNGun_ColtCobra.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_ColtCobra.tools.1.label>muzzle</RNGun_ColtCobra.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_ColtPeacemaker.tools.0.label>grip</RNGun_ColtPeacemaker.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_ColtPeacemaker.tools.1.label>muzzle</RNGun_ColtPeacemaker.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_ColtPeacemaker_II.tools.0.label>grip</RNGun_ColtPeacemaker_II.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_ColtPeacemaker_II.tools.1.label>muzzle</RNGun_ColtPeacemaker_II.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_ColtPython.tools.0.label>grip</RNGun_ColtPython.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_ColtPython.tools.1.label>muzzle</RNGun_ColtPython.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_Mateba.tools.0.label>grip</RNGun_Mateba.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_Mateba.tools.1.label>muzzle</RNGun_Mateba.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_MP412REX.tools.0.label>grip</RNGun_MP412REX.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_MP412REX.tools.1.label>muzzle</RNGun_MP412REX.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_NagantRevolver.tools.0.label>grip</RNGun_NagantRevolver.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_NagantRevolver.tools.1.label>muzzle</RNGun_NagantRevolver.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_RagingBull.tools.0.label>grip</RNGun_RagingBull.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_RagingBull.tools.1.label>muzzle</RNGun_RagingBull.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_Remington1858P.tools.0.label>grip</RNGun_Remington1858P.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_Remington1858P.tools.1.label>muzzle</RNGun_Remington1858P.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_SWModel29P.tools.0.label>grip</RNGun_SWModel29P.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_SWModel29P.tools.1.label>muzzle</RNGun_SWModel29P.tools.1.label>
+</LanguageData>

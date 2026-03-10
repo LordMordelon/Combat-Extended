@@ -1,0 +1,10 @@
+<LanguageData>
+	<!-- ModPatches\Filthy Orc Invasion\Defs\Filthy Orc Invasion\FilthyOrcInvasion_AmmoPatch.xml -->
+	
+	<!-- EN: make javelin x5 -->
+	<MakeAmmo_Javelin.label>make javelin x5</MakeAmmo_Javelin.label>
+	<!-- EN: Craft 5 javelins. -->
+	<MakeAmmo_Javelin.description>Craft 5 javelins.</MakeAmmo_Javelin.description>
+	<!-- EN: Making javelins. -->
+	<MakeAmmo_Javelin.jobString>Making javelins.</MakeAmmo_Javelin.jobString>
+</LanguageData>

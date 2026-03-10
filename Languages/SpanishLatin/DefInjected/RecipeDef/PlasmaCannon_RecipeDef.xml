@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Defs\Ammo\Modded\Warhammer 40k\PlasmaCannon.xml -->
+	<!-- EN: make plasma canister x50 -->
+	<MakeAmmo_PlasmaCanister.label>make plasma canister x50</MakeAmmo_PlasmaCanister.label>
+	<!-- EN: Craft 50 plasma canisters. -->
+	<MakeAmmo_PlasmaCanister.description>Craft 50 plasma canisters.</MakeAmmo_PlasmaCanister.description>
+	<!-- EN: Making plasma canisters. -->
+	<MakeAmmo_PlasmaCanister.jobString>Making plasma canisters.</MakeAmmo_PlasmaCanister.jobString>
+</LanguageData>

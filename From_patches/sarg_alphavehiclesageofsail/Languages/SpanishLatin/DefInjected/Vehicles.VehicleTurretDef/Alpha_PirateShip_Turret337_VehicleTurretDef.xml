@@ -1,0 +1,12 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\sarg_alphavehiclesageofsail\Alpha_PirateShip_Turret337.xml -->
+	<!-- EN: Single -->
+	<AV_PirateCaravel_MainTurret.fireModes.0.label>Single</AV_PirateCaravel_MainTurret.fireModes.0.label>
+	<!-- EN: Broadside -->
+	<AV_PirateCaravel_MainTurret.fireModes.1.label>Broadside</AV_PirateCaravel_MainTurret.fireModes.1.label>
+	
+	<!-- EN: Single -->
+	<AV_PirateCaravel_SecondTurret.fireModes.0.label>Single</AV_PirateCaravel_SecondTurret.fireModes.0.label>
+	<!-- EN: Broadside -->
+	<AV_PirateCaravel_SecondTurret.fireModes.1.label>Broadside</AV_PirateCaravel_SecondTurret.fireModes.1.label>
+</LanguageData>

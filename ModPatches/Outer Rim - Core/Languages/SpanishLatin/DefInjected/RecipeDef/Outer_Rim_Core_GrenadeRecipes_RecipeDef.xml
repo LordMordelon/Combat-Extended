@@ -1,0 +1,51 @@
+<LanguageData>
+	<!-- ModPatches\Outer Rim - Core\Defs\Outer Rim - Core\Outer_Rim_Core_GrenadeRecipes.xml -->
+	<!-- EN: make frag detonators x10 -->
+	<MakeORFragGrenade.label>make frag detonators x10</MakeORFragGrenade.label>
+	<!-- EN: Craft 10 frag detonators. -->
+	<MakeORFragGrenade.description>Craft 10 frag detonators.</MakeORFragGrenade.description>
+	<!-- EN: Making frag detonators. -->
+	<MakeORFragGrenade.jobString>Making frag detonators.</MakeORFragGrenade.jobString>
+	
+	<!-- EN: make cryoban detonators x10 -->
+	<MakeORCryoGrenade.label>make cryoban detonators x10</MakeORCryoGrenade.label>
+	<!-- EN: Craft 10 cryoban detonators. -->
+	<MakeORCryoGrenade.description>Craft 10 cryoban detonators.</MakeORCryoGrenade.description>
+	<!-- EN: Making cryoban detonators. -->
+	<MakeORCryoGrenade.jobString>Making cryoban detonators.</MakeORCryoGrenade.jobString>
+	
+	<!-- EN: make ion detonators x10 -->
+	<MakeORIonGrenade.label>make ion detonators x10</MakeORIonGrenade.label>
+	<!-- EN: Craft 10 ion detonators. -->
+	<MakeORIonGrenade.description>Craft 10 ion detonators.</MakeORIonGrenade.description>
+	<!-- EN: Making ion detonators. -->
+	<MakeORIonGrenade.jobString>Making ion detonators.</MakeORIonGrenade.jobString>
+	
+	<!-- EN: make plasma detonators x10 -->
+	<MakeORPlasmaGrenade.label>make plasma detonators x10</MakeORPlasmaGrenade.label>
+	<!-- EN: Craft 10 plasma detonators. -->
+	<MakeORPlasmaGrenade.description>Craft 10 plasma detonators.</MakeORPlasmaGrenade.description>
+	<!-- EN: Making plasma detonators. -->
+	<MakeORPlasmaGrenade.jobString>Making plasma detonators.</MakeORPlasmaGrenade.jobString>
+	
+	<!-- EN: make sonic detonators x10 -->
+	<MakeORSonicGrenade.label>make sonic detonators x10</MakeORSonicGrenade.label>
+	<!-- EN: Craft 10 sonic detonators. -->
+	<MakeORSonicGrenade.description>Craft 10 sonic detonators.</MakeORSonicGrenade.description>
+	<!-- EN: Making sonic detonators. -->
+	<MakeORSonicGrenade.jobString>Making sonic detonators.</MakeORSonicGrenade.jobString>
+	
+	<!-- EN: make stun detonators x10 -->
+	<MakeORStunGrenade.label>make stun detonators x10</MakeORStunGrenade.label>
+	<!-- EN: Craft 10 stun detonators. -->
+	<MakeORStunGrenade.description>Craft 10 stun detonators.</MakeORStunGrenade.description>
+	<!-- EN: Making stun detonators. -->
+	<MakeORStunGrenade.jobString>Making stun detonators.</MakeORStunGrenade.jobString>
+	
+	<!-- EN: make thermal detonators x5 -->
+	<MakeORThermalGrenade.label>make thermal detonators x5</MakeORThermalGrenade.label>
+	<!-- EN: Craft 5 thermal detonators. -->
+	<MakeORThermalGrenade.description>Craft 5 thermal detonators.</MakeORThermalGrenade.description>
+	<!-- EN: Making thermal detonators. -->
+	<MakeORThermalGrenade.jobString>Making thermal detonators.</MakeORThermalGrenade.jobString>
+</LanguageData>

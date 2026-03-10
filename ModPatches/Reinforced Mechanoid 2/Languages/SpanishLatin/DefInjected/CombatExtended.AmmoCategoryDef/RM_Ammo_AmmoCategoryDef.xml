@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Reinforced Mechanoid 2\Defs\Reinforced Mechanoid 2\RM_Ammo.xml -->
+	<!-- EN: crystalline shard -->
+	<CrystallineShard.label>crystalline shard</CrystallineShard.label>
+	<!-- EN: CS -->
+	<CrystallineShard.labelShort>CS</CrystallineShard.labelShort>
+	<!-- EN: The crystalline shard core shatters into sharp splinter that maximize flesh damage but produces less armor penetration. -->
+	<CrystallineShard.description>The crystalline shard core shatters into sharp splinter that maximize flesh damage but produces less armor penetration.</CrystallineShard.description>
+</LanguageData>

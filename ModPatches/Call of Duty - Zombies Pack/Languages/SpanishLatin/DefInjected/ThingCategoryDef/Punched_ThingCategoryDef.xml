@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Punched.xml -->
+	<!-- EN: Pack a Punched -->
+	<AmmoPunched.label>Pack a Punched</AmmoPunched.label>
+	<!-- EN: advanced -->
+	<AmmoAdvanced_Punched.label>advanced</AmmoAdvanced_Punched.label>
+	<!-- EN: pistol -->
+	<AmmoPistols_Punched.label>pistol</AmmoPistols_Punched.label>
+	<!-- EN: rifle -->
+	<AmmoRifles_Punched.label>rifle</AmmoRifles_Punched.label>
+	<!-- EN: shotgun -->
+	<AmmoShotguns_Punched.label>shotgun</AmmoShotguns_Punched.label>
+</LanguageData>

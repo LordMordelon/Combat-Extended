@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Winters\WintersHowl.xml -->
+	<!-- EN: make Winter's Howl cartridge x75 -->
+	<MakeAmmo_Winters_Cryo.label>make Winter's Howl cartridge x75</MakeAmmo_Winters_Cryo.label>
+	<!-- EN: Craft 75 Winter's Howl cartridges. -->
+	<MakeAmmo_Winters_Cryo.description>Craft 75 Winter's Howl cartridges.</MakeAmmo_Winters_Cryo.description>
+	<!-- EN: Making Winter's Howl cartridges. -->
+	<MakeAmmo_Winters_Cryo.jobString>Making Winter's Howl cartridges.</MakeAmmo_Winters_Cryo.jobString>
+</LanguageData>

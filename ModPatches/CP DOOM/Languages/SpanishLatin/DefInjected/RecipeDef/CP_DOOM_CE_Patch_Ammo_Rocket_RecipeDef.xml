@@ -1,0 +1,10 @@
+<LanguageData>
+	<!-- ModPatches\CP DOOM\Defs\CP DOOM\CP_DOOM_CE_Patch_Ammo_Rocket.xml -->
+	
+	<!-- EN: make UAC Rocket Mk VI (HEAT) rockets x9 -->
+	<MakeAmmo_Doom2016Rocket_HEAT.label>make UAC Rocket Mk VI (HEAT) rockets x9</MakeAmmo_Doom2016Rocket_HEAT.label>
+	<!-- EN: Craft 9 UAC Rocket Mk VI (HEAT) rockets. -->
+	<MakeAmmo_Doom2016Rocket_HEAT.description>Craft 9 UAC Rocket Mk VI (HEAT) rockets.</MakeAmmo_Doom2016Rocket_HEAT.description>
+	<!-- EN: Making UAC Rocket Mk VI (HEAT) rockets. -->
+	<MakeAmmo_Doom2016Rocket_HEAT.jobString>Making UAC Rocket Mk VI (HEAT) rockets.</MakeAmmo_Doom2016Rocket_HEAT.jobString>
+</LanguageData>

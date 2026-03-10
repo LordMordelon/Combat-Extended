@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\rimsenal_federation\Race_Bion1547.xml -->
+	<!-- EN: head -->
+	<Bion_Base.tools.0.label>head</Bion_Base.tools.0.label>
+	<!-- EN: left fist -->
+	<Bion_Base.tools.1.label>left fist</Bion_Base.tools.1.label>
+	<!-- EN: right fist -->
+	<Bion_Base.tools.2.label>right fist</Bion_Base.tools.2.label>
+	
+	<!-- EN: head -->
+	<Bion_Stalker.tools.0.label>head</Bion_Stalker.tools.0.label>
+	<!-- EN: left fist -->
+	<Bion_Stalker.tools.1.label>left fist</Bion_Stalker.tools.1.label>
+	<!-- EN: right fist -->
+	<Bion_Stalker.tools.2.label>right fist</Bion_Stalker.tools.2.label>
+</LanguageData>

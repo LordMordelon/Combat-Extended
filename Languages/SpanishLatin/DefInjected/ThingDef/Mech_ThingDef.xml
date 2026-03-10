@@ -1,0 +1,18 @@
+<LanguageData>
+	<!-- Defs\Ammo\Generic\Mech.xml -->
+	
+	<!-- EN: Mech Charged cartridge -->
+	<Ammo_Mech_Charged.label>Mech Charged cartridge</Ammo_Mech_Charged.label>
+	<!-- EN: Charged shot ammo used by mechanoid weaponry. -->
+	<Ammo_Mech_Charged.description>Charged shot ammo used by mechanoid weaponry.</Ammo_Mech_Charged.description>
+	
+	<!-- EN: mech shell (Incendiary) -->
+	<Ammo_MechShell_Incendiary.label>mech shell (Incendiary)</Ammo_MechShell_Incendiary.label>
+	<!-- EN: Large shell used by mechanoid cannons and heavy weapons. -->
+	<Ammo_MechShell_Incendiary.description>Large shell used by mechanoid cannons and heavy weapons.</Ammo_MechShell_Incendiary.description>
+	
+	<!-- EN: mech shell (Demo) -->
+	<Ammo_MechShell_Demo.label>mech shell (Demo)</Ammo_MechShell_Demo.label>
+	<!-- EN: Large shell used by mechanoid cannons and heavy weapons. -->
+	<Ammo_MechShell_Demo.description>Large shell used by mechanoid cannons and heavy weapons.</Ammo_MechShell_Demo.description>
+</LanguageData>

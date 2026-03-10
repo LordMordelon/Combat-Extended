@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\Crypto Arsenal\Defs\Crypto Arsenal\Ammo_CryoHarpoon.xml -->
+	
+	<!-- EN: Heavy Cryo Harpoon -->
+	<Ammo_CryoHarpoon.label>Heavy Cryo Harpoon</Ammo_CryoHarpoon.label>
+	<!-- EN: Metal javelins tiped with plasteel, for use with Cryo Harpoon launcher. -->
+	<Ammo_CryoHarpoon.description>Metal javelins tiped with plasteel, for use with Cryo Harpoon launcher.</Ammo_CryoHarpoon.description>
+	
+	<!-- EN: Heavy Cryo Harpoon -->
+	<Bullet_CryoHarpoon.label>Heavy Cryo Harpoon</Bullet_CryoHarpoon.label>
+</LanguageData>

@@ -1,0 +1,21 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\OskarPotocki_VFE_Pirates\Ranged_Warcaskets1795.xml -->
+	<!-- EN: barrel -->
+	<VFEP_WarcasketGun_Autorifle.tools.0.label>barrel</VFEP_WarcasketGun_Autorifle.tools.0.label>
+	<!-- EN: barrel -->
+	<VFEP_WarcasketGun_UraniumSlugRifle.tools.0.label>barrel</VFEP_WarcasketGun_UraniumSlugRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<VFEP_WarcasketGun_Slugthrower.tools.0.label>barrel</VFEP_WarcasketGun_Slugthrower.tools.0.label>
+	<!-- EN: barrel -->
+	<VFEP_WarcasketGun_Minigun.tools.0.label>barrel</VFEP_WarcasketGun_Minigun.tools.0.label>
+	<!-- EN: barrel -->
+	<VFEP_WarcasketGun_GrenadeLauncher.tools.0.label>barrel</VFEP_WarcasketGun_GrenadeLauncher.tools.0.label>
+	<!-- EN: barrel -->
+	<VFEP_WarcasketGun_HeavyFlamer.tools.0.label>barrel</VFEP_WarcasketGun_HeavyFlamer.tools.0.label>
+	<!-- EN: barrel -->
+	<VFEP_WarcasketGun_ChargeLance.tools.0.label>barrel</VFEP_WarcasketGun_ChargeLance.tools.0.label>
+	<!-- EN: barrel -->
+	<VFEP_WarcasketGun_HandheldCannon.tools.0.label>barrel</VFEP_WarcasketGun_HandheldCannon.tools.0.label>
+	<!-- EN: barrel -->
+	<VFEP_WarcasketGun_ChargeBlaster.tools.0.label>barrel</VFEP_WarcasketGun_ChargeBlaster.tools.0.label>
+</LanguageData>

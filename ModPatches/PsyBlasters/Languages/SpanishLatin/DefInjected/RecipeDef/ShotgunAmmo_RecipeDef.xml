@@ -1,0 +1,24 @@
+<LanguageData>
+	<!-- ModPatches\PsyBlasters\Defs\PsyBlasters\ShotgunAmmo.xml -->
+	
+	<!-- EN: make 12 gauge Psychic shell x200 -->
+	<MakeAmmo_12GaugePsychic.label>make 12 gauge Psychic shell x200</MakeAmmo_12GaugePsychic.label>
+	<!-- EN: Craft 200 12Gauge Psychic shells. -->
+	<MakeAmmo_12GaugePsychic.description>Craft 200 12Gauge Psychic shells.</MakeAmmo_12GaugePsychic.description>
+	<!-- EN: Making 12Gauge Psychic shells. -->
+	<MakeAmmo_12GaugePsychic.jobString>Making 12Gauge Psychic shells.</MakeAmmo_12GaugePsychic.jobString>
+	
+	<!-- EN: make 12 gauge Psychic (Focus) shell x200 -->
+	<MakeAmmo_12GaugePsychic_Focus.label>make 12 gauge Psychic (Focus) shell x200</MakeAmmo_12GaugePsychic_Focus.label>
+	<!-- EN: Craft 200 12Gauge Psychic (Focus) shells. -->
+	<MakeAmmo_12GaugePsychic_Focus.description>Craft 200 12Gauge Psychic (Focus) shells.</MakeAmmo_12GaugePsychic_Focus.description>
+	<!-- EN: Making 12Gauge Psychic (Focus) shells. -->
+	<MakeAmmo_12GaugePsychic_Focus.jobString>Making 12Gauge Psychic (Focus) shells.</MakeAmmo_12GaugePsychic_Focus.jobString>
+	
+	<!-- EN: make 12 gauge Psychic (Neuro) shell x200 -->
+	<MakeAmmo_12GaugePsychic_Neuro.label>make 12 gauge Psychic (Neuro) shell x200</MakeAmmo_12GaugePsychic_Neuro.label>
+	<!-- EN: Craft 200 12Gauge Psychic (Neuro) shells. -->
+	<MakeAmmo_12GaugePsychic_Neuro.description>Craft 200 12Gauge Psychic (Neuro) shells.</MakeAmmo_12GaugePsychic_Neuro.description>
+	<!-- EN: Making 12Gauge Psychic (Neuro) shells. -->
+	<MakeAmmo_12GaugePsychic_Neuro.jobString>Making 12Gauge Psychic (Neuro) shells.</MakeAmmo_12GaugePsychic_Neuro.jobString>
+</LanguageData>

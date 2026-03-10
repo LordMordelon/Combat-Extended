@@ -1,0 +1,111 @@
+<LanguageData>
+	<!-- Defs\Ammo\Shell\81mmMortar.xml -->
+	
+	<!-- EN: 81mm mortar shell (HE) -->
+	<Shell_HighExplosive.label>81mm mortar shell (HE)</Shell_HighExplosive.label>
+	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+	<Shell_HighExplosive.description>Low-velocity shell designed to be fired from a mortar.</Shell_HighExplosive.description>
+	<!-- EN: mortar shell (HE) -->
+	<Shell_HighExplosive.modExtensions.0.genericLabel>mortar shell (HE)</Shell_HighExplosive.modExtensions.0.genericLabel>
+	
+	<!-- EN: 81mm mortar shell (Airburst) -->
+	<Shell_HighExplosive_HFuzed.label>81mm mortar shell (Airburst)</Shell_HighExplosive_HFuzed.label>
+	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+	<Shell_HighExplosive_HFuzed.description>Low-velocity shell designed to be fired from a mortar.</Shell_HighExplosive_HFuzed.description>
+	<!-- EN: mortar shell (Airburst) -->
+	<Shell_HighExplosive_HFuzed.modExtensions.0.genericLabel>mortar shell (Airburst)</Shell_HighExplosive_HFuzed.modExtensions.0.genericLabel>
+	
+	<!-- EN: 81mm mortar shell (Incendiary) -->
+	<Shell_Incendiary.label>81mm mortar shell (Incendiary)</Shell_Incendiary.label>
+	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+	<Shell_Incendiary.description>Low-velocity shell designed to be fired from a mortar.</Shell_Incendiary.description>
+	<!-- EN: mortar shell (Incendiary) -->
+	<Shell_Incendiary.modExtensions.0.genericLabel>mortar shell (Incendiary)</Shell_Incendiary.modExtensions.0.genericLabel>
+	
+	<!-- EN: 81mm mortar shell (EMP) -->
+	<Shell_EMP.label>81mm mortar shell (EMP)</Shell_EMP.label>
+	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+	<Shell_EMP.description>Low-velocity shell designed to be fired from a mortar.</Shell_EMP.description>
+	<!-- EN: mortar shell (EMP) -->
+	<Shell_EMP.modExtensions.0.genericLabel>mortar shell (EMP)</Shell_EMP.modExtensions.0.genericLabel>
+	
+	<!-- EN: 81mm mortar shell (Foam) -->
+	<Shell_Firefoam.label>81mm mortar shell (Foam)</Shell_Firefoam.label>
+	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+	<Shell_Firefoam.description>Low-velocity shell designed to be fired from a mortar.</Shell_Firefoam.description>
+	<!-- EN: mortar shell (Foam) -->
+	<Shell_Firefoam.modExtensions.0.genericLabel>mortar shell (Foam)</Shell_Firefoam.modExtensions.0.genericLabel>
+	
+	<!-- EN: 81mm mortar shell (Smoke) -->
+	<Shell_Smoke.label>81mm mortar shell (Smoke)</Shell_Smoke.label>
+	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+	<Shell_Smoke.description>Low-velocity shell designed to be fired from a mortar.</Shell_Smoke.description>
+	<!-- EN: mortar shell (Smoke) -->
+	<Shell_Smoke.modExtensions.0.genericLabel>mortar shell (Smoke)</Shell_Smoke.modExtensions.0.genericLabel>
+	
+	<!-- EN: 81mm mortar shell (Anti) -->
+	<Shell_AntigrainWarhead.label>81mm mortar shell (Anti)</Shell_AntigrainWarhead.label>
+	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+	<Shell_AntigrainWarhead.description>Low-velocity shell designed to be fired from a mortar.</Shell_AntigrainWarhead.description>
+	<!-- EN: mortar shell (Anti) -->
+	<Shell_AntigrainWarhead.modExtensions.0.genericLabel>mortar shell (Anti)</Shell_AntigrainWarhead.modExtensions.0.genericLabel>
+	
+	<!-- EN: 81mm mortar shell (Toxic) -->
+	<Shell_Toxic.label>81mm mortar shell (Toxic)</Shell_Toxic.label>
+	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+	<Shell_Toxic.description>Low-velocity shell designed to be fired from a mortar.</Shell_Toxic.description>
+	<!-- EN: mortar shell (Toxic) -->
+	<Shell_Toxic.modExtensions.0.genericLabel>mortar shell (Toxic)</Shell_Toxic.modExtensions.0.genericLabel>
+	
+	<!-- EN: 81mm mortar shell (Deadlife) -->
+	<Shell_Deadlife.label>81mm mortar shell (Deadlife)</Shell_Deadlife.label>
+	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+	<Shell_Deadlife.description>Low-velocity shell designed to be fired from a mortar.</Shell_Deadlife.description>
+	<!-- EN: mortar shell (Deadlife) -->
+	<Shell_Deadlife.modExtensions.0.genericLabel>mortar shell (Deadlife)</Shell_Deadlife.modExtensions.0.genericLabel>
+	
+	<!-- EN: 81mm mortar shell (HE) -->
+	<Bullet_81mmMortarShell_HE.label>81mm mortar shell (HE)</Bullet_81mmMortarShell_HE.label>
+	<!-- EN: mortar shell (HE) -->
+	<Bullet_81mmMortarShell_HE.modExtensions.0.genericLabel>mortar shell (HE)</Bullet_81mmMortarShell_HE.modExtensions.0.genericLabel>
+	
+	<!-- EN: 81mm mortar shell (Airburst) -->
+	<Bullet_81mmMortarShell_HE_HFuzed.label>81mm mortar shell (Airburst)</Bullet_81mmMortarShell_HE_HFuzed.label>
+	<!-- EN: mortar shell (Airburst) -->
+	<Bullet_81mmMortarShell_HE_HFuzed.modExtensions.0.genericLabel>mortar shell (Airburst)</Bullet_81mmMortarShell_HE_HFuzed.modExtensions.0.genericLabel>
+	
+	<!-- EN: 81mm mortar shell (Incendiary) -->
+	<Bullet_81mmMortarShell_Incendiary.label>81mm mortar shell (Incendiary)</Bullet_81mmMortarShell_Incendiary.label>
+	<!-- EN: mortar shell (Incendiary) -->
+	<Bullet_81mmMortarShell_Incendiary.modExtensions.0.genericLabel>mortar shell (Incendiary)</Bullet_81mmMortarShell_Incendiary.modExtensions.0.genericLabel>
+	
+	<!-- EN: 81mm mortar shell (EMP) -->
+	<Bullet_81mmMortarShell_EMP.label>81mm mortar shell (EMP)</Bullet_81mmMortarShell_EMP.label>
+	<!-- EN: mortar shell (EMP) -->
+	<Bullet_81mmMortarShell_EMP.modExtensions.0.genericLabel>mortar shell (EMP)</Bullet_81mmMortarShell_EMP.modExtensions.0.genericLabel>
+	
+	<!-- EN: 81mm mortar shell (Foam) -->
+	<Bullet_81mmMortarShell_Firefoam.label>81mm mortar shell (Foam)</Bullet_81mmMortarShell_Firefoam.label>
+	<!-- EN: mortar shell (Foam) -->
+	<Bullet_81mmMortarShell_Firefoam.modExtensions.0.genericLabel>mortar shell (Foam)</Bullet_81mmMortarShell_Firefoam.modExtensions.0.genericLabel>
+	
+	<!-- EN: 81mm mortar shell (Smoke) -->
+	<Bullet_81mmMortarShell_Smoke.label>81mm mortar shell (Smoke)</Bullet_81mmMortarShell_Smoke.label>
+	<!-- EN: mortar shell (Smoke) -->
+	<Bullet_81mmMortarShell_Smoke.modExtensions.0.genericLabel>mortar shell (Smoke)</Bullet_81mmMortarShell_Smoke.modExtensions.0.genericLabel>
+	
+	<!-- EN: 81mm mortar shell (Anti) -->
+	<Bullet_81mmMortarShell_Antigrain.label>81mm mortar shell (Anti)</Bullet_81mmMortarShell_Antigrain.label>
+	<!-- EN: mortar shell (Anti) -->
+	<Bullet_81mmMortarShell_Antigrain.modExtensions.0.genericLabel>mortar shell (Anti)</Bullet_81mmMortarShell_Antigrain.modExtensions.0.genericLabel>
+	
+	<!-- EN: 81mm mortar shell (Toxic) -->
+	<Bullet_81mmMortarShell_Tox.label>81mm mortar shell (Toxic)</Bullet_81mmMortarShell_Tox.label>
+	<!-- EN: mortar shell (Toxic) -->
+	<Bullet_81mmMortarShell_Tox.modExtensions.0.genericLabel>mortar shell (Toxic)</Bullet_81mmMortarShell_Tox.modExtensions.0.genericLabel>
+	
+	<!-- EN: 81mm mortar shell (Deadlife) -->
+	<Bullet_81mmMortarShell_Deadlife.label>81mm mortar shell (Deadlife)</Bullet_81mmMortarShell_Deadlife.label>
+	<!-- EN: mortar shell (Deadlife) -->
+	<Bullet_81mmMortarShell_Deadlife.modExtensions.0.genericLabel>mortar shell (Deadlife)</Bullet_81mmMortarShell_Deadlife.modExtensions.0.genericLabel>
+</LanguageData>

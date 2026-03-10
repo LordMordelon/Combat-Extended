@@ -1,0 +1,43 @@
+<LanguageData>
+	<!-- Defs\Ammo\Neolithic\Arrows.xml -->
+	<!-- EN: arrow (stone) -->
+	<Ammo_Arrow_Stone.label>arrow (stone)</Ammo_Arrow_Stone.label>
+	<!-- EN: Simple arrow design with a cutting head attached to a wooden shaft. -->
+	<Ammo_Arrow_Stone.description>Simple arrow design with a cutting head attached to a wooden shaft.</Ammo_Arrow_Stone.description>
+	<!-- EN: arrow (steel) -->
+	<Ammo_Arrow_Steel.label>arrow (steel)</Ammo_Arrow_Steel.label>
+	<!-- EN: Simple arrow design with a cutting head attached to a wooden shaft. -->
+	<Ammo_Arrow_Steel.description>Simple arrow design with a cutting head attached to a wooden shaft.</Ammo_Arrow_Steel.description>
+	<!-- EN: arrow (plasteel) -->
+	<Ammo_Arrow_Plasteel.label>arrow (plasteel)</Ammo_Arrow_Plasteel.label>
+	<!-- EN: Simple arrow design with a cutting head attached to a wooden shaft. -->
+	<Ammo_Arrow_Plasteel.description>Simple arrow design with a cutting head attached to a wooden shaft.</Ammo_Arrow_Plasteel.description>
+	<!-- EN: arrow (venom) -->
+	<Ammo_Arrow_Venom.label>arrow (venom)</Ammo_Arrow_Venom.label>
+	<!-- EN: Simple arrow design with a cutting head attached to a wooden shaft. -->
+	<Ammo_Arrow_Venom.description>Simple arrow design with a cutting head attached to a wooden shaft.</Ammo_Arrow_Venom.description>
+	<!-- EN: arrow (flame) -->
+	<Ammo_Arrow_Flame.label>arrow (flame)</Ammo_Arrow_Flame.label>
+	<!-- EN: Simple arrow design with a cutting head attached to a wooden shaft. -->
+	<Ammo_Arrow_Flame.description>Simple arrow design with a cutting head attached to a wooden shaft.</Ammo_Arrow_Flame.description>
+	<!-- EN: arrow (stone) -->
+	<Projectile_Arrow_Stone.label>arrow (stone)</Projectile_Arrow_Stone.label>
+	<!-- EN: arrow (steel) -->
+	<Projectile_Arrow_Steel.label>arrow (steel)</Projectile_Arrow_Steel.label>
+	<!-- EN: arrow (plasteel) -->
+	<Projectile_Arrow_Plasteel.label>arrow (plasteel)</Projectile_Arrow_Plasteel.label>
+	<!-- EN: arrow (venom) -->
+	<Projectile_Arrow_Venom.label>arrow (venom)</Projectile_Arrow_Venom.label>
+	<!-- EN: arrow (flame) -->
+	<Projectile_Arrow_Flame.label>arrow (flame)</Projectile_Arrow_Flame.label>
+	<!-- EN: streamlined arrow (stone) -->
+	<Projectile_StreamlinedArrow_Stone.label>streamlined arrow (stone)</Projectile_StreamlinedArrow_Stone.label>
+	<!-- EN: streamlined arrow (steel) -->
+	<Projectile_StreamlinedArrow_Steel.label>streamlined arrow (steel)</Projectile_StreamlinedArrow_Steel.label>
+	<!-- EN: streamlined arrow (plasteel) -->
+	<Projectile_StreamlinedArrow_Plasteel.label>streamlined arrow (plasteel)</Projectile_StreamlinedArrow_Plasteel.label>
+	<!-- EN: streamlined arrow (venom) -->
+	<Projectile_StreamlinedArrow_Venom.label>streamlined arrow (venom)</Projectile_StreamlinedArrow_Venom.label>
+	<!-- EN: streamlined arrow (flame) -->
+	<Projectile_StreamlinedArrow_Flame.label>streamlined arrow (flame)</Projectile_StreamlinedArrow_Flame.label>
+</LanguageData>

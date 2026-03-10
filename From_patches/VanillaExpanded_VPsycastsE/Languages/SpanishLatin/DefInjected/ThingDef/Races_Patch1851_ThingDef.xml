@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VPsycastsE\Races_Patch1851.xml -->
+	<!-- EN: head -->
+	<VPE_SteelConstruct.tools.0.label>head</VPE_SteelConstruct.tools.0.label>
+	<!-- EN: head -->
+	<VPE_RockConstruct.tools.0.label>head</VPE_RockConstruct.tools.0.label>
+	<!-- EN: left fist -->
+	<VPE_SummonedSkeleton.tools.0.label>left fist</VPE_SummonedSkeleton.tools.0.label>
+	<!-- EN: right fist -->
+	<VPE_SummonedSkeleton.tools.1.label>right fist</VPE_SummonedSkeleton.tools.1.label>
+</LanguageData>

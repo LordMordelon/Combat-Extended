@@ -1,0 +1,21 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Torann_ARimworldOfMagic\Patch_SpiritAnimal89.xml -->
+	<!-- EN: left claw -->
+	<TM_SpiritBearR.tools.0.label>left claw</TM_SpiritBearR.tools.0.label>
+	<!-- EN: right claw -->
+	<TM_SpiritBearR.tools.1.label>right claw</TM_SpiritBearR.tools.1.label>
+	<!-- EN: head -->
+	<TM_SpiritBearR.tools.3.label>head</TM_SpiritBearR.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<TM_SpiritMongooseR.tools.0.label>left claw</TM_SpiritMongooseR.tools.0.label>
+	<!-- EN: right claw -->
+	<TM_SpiritMongooseR.tools.1.label>right claw</TM_SpiritMongooseR.tools.1.label>
+	<!-- EN: head -->
+	<TM_SpiritMongooseR.tools.3.label>head</TM_SpiritMongooseR.tools.3.label>
+	
+	<!-- EN: claws -->
+	<TM_SpiritCrowR.tools.0.label>claws</TM_SpiritCrowR.tools.0.label>
+	<!-- EN: head -->
+	<TM_SpiritCrowR.tools.2.label>head</TM_SpiritCrowR.tools.2.label>
+</LanguageData>

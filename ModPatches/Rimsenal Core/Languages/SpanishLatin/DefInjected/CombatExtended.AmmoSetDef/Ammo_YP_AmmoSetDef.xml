@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- ModPatches\Rimsenal Core\Defs\Rimsenal Core\Ammo_YP.xml -->
+	<!-- EN: Small YP -->
+	<AmmoSet_PistolYP.label>Small YP</AmmoSet_PistolYP.label>
+	<!-- EN: Light YP -->
+	<AmmoSet_RifleYP.label>Light YP</AmmoSet_RifleYP.label>
+	<!-- EN: Light YP -->
+	<AmmoSet_SwarmerYP.label>Light YP</AmmoSet_SwarmerYP.label>
+	<!-- EN: Heavy YP -->
+	<AmmoSet_SpikeYP.label>Heavy YP</AmmoSet_SpikeYP.label>
+	<!-- EN: Heavy YP -->
+	<AmmoSet_VectorYP.label>Heavy YP</AmmoSet_VectorYP.label>
+</LanguageData>

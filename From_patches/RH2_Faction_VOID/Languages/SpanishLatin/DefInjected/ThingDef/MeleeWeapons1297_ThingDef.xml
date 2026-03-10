@@ -1,0 +1,28 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\RH2_Faction_VOID\MeleeWeapons1297.xml -->
+	<!-- EN: pommel -->
+	<RNMelee_DFDuskBlade_Sword.tools.0.label>pommel</RNMelee_DFDuskBlade_Sword.tools.0.label>
+	<!-- EN: point -->
+	<RNMelee_DFDuskBlade_Sword.tools.1.label>point</RNMelee_DFDuskBlade_Sword.tools.1.label>
+	<!-- EN: serrated blade -->
+	<RNMelee_DFDuskBlade_Sword.tools.2.label>serrated blade</RNMelee_DFDuskBlade_Sword.tools.2.label>
+	
+	<!-- EN: pommel -->
+	<RNMelee_DFAmputator_Blade.tools.0.label>pommel</RNMelee_DFAmputator_Blade.tools.0.label>
+	<!-- EN: point -->
+	<RNMelee_DFAmputator_Blade.tools.1.label>point</RNMelee_DFAmputator_Blade.tools.1.label>
+	<!-- EN: blade -->
+	<RNMelee_DFAmputator_Blade.tools.2.label>blade</RNMelee_DFAmputator_Blade.tools.2.label>
+	
+	<!-- EN: point -->
+	<RNMelee_DFGrinder_Chainsaw.tools.0.label>point</RNMelee_DFGrinder_Chainsaw.tools.0.label>
+	<!-- EN: blade -->
+	<RNMelee_DFGrinder_Chainsaw.tools.1.label>blade</RNMelee_DFGrinder_Chainsaw.tools.1.label>
+	
+	<!-- EN: pommel -->
+	<RNMelee_DFDual_Blade.tools.0.label>pommel</RNMelee_DFDual_Blade.tools.0.label>
+	<!-- EN: point -->
+	<RNMelee_DFDual_Blade.tools.1.label>point</RNMelee_DFDual_Blade.tools.1.label>
+	<!-- EN: blade -->
+	<RNMelee_DFDual_Blade.tools.2.label>blade</RNMelee_DFDual_Blade.tools.2.label>
+</LanguageData>

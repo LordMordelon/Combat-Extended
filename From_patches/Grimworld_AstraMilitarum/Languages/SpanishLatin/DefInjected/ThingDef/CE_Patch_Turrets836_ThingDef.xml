@@ -1,0 +1,37 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Grimworld_AstraMilitarum\CE_Patch_Turrets836.xml -->
+	<!-- EN: Heavy bolter turret -->
+	<GW_HOI_BuildingGun_HeavyBolter.label>Heavy bolter turret</GW_HOI_BuildingGun_HeavyBolter.label>
+	<!-- EN: An automated heavy machine gun designed to be mounted on a turret, effective against infantry and light vehicles. -->
+	<GW_HOI_BuildingGun_HeavyBolter.description>An automated heavy machine gun designed to be mounted on a turret, effective against infantry and light vehicles.</GW_HOI_BuildingGun_HeavyBolter.description>
+	<!-- EN: ㅤ -->
+	<GW_HOI_BuildingGun_HeavyBolter.verbs.0.label>ㅤ</GW_HOI_BuildingGun_HeavyBolter.verbs.0.label>
+	
+	<!-- EN: Autocannon -->
+	<GW_HOI_BuildingGun_AutoCannon.label>Autocannon</GW_HOI_BuildingGun_AutoCannon.label>
+	<!-- EN: An autocannon emplaced on a mount for Imperial Guard use. -->
+	<GW_HOI_BuildingGun_AutoCannon.description>An autocannon emplaced on a mount for Imperial Guard use.</GW_HOI_BuildingGun_AutoCannon.description>
+	<!-- EN: ㅤ -->
+	<GW_HOI_BuildingGun_AutoCannon.verbs.0.label>ㅤ</GW_HOI_BuildingGun_AutoCannon.verbs.0.label>
+	
+	<!-- EN: Lascannon turret cannon -->
+	<GW_HOI_BuildingGun_Lascannon.label>Lascannon turret cannon</GW_HOI_BuildingGun_Lascannon.label>
+	<!-- EN: The turret portion of a lascannon turret. -->
+	<GW_HOI_BuildingGun_Lascannon.description>The turret portion of a lascannon turret.</GW_HOI_BuildingGun_Lascannon.description>
+	<!-- EN: ㅤ -->
+	<GW_HOI_BuildingGun_Lascannon.verbs.0.label>ㅤ</GW_HOI_BuildingGun_Lascannon.verbs.0.label>
+	
+	<!-- EN: An automated bolter turret -->
+	<GW_HOI_BuildingGun_TarantulaHeavyBolter.label>An automated bolter turret</GW_HOI_BuildingGun_TarantulaHeavyBolter.label>
+	<!-- EN: An automated heavy machine gun designed to be mounted on a turret, effective against infantry and light vehicles. -->
+	<GW_HOI_BuildingGun_TarantulaHeavyBolter.description>An automated heavy machine gun designed to be mounted on a turret, effective against infantry and light vehicles.</GW_HOI_BuildingGun_TarantulaHeavyBolter.description>
+	<!-- EN: ㅤ -->
+	<GW_HOI_BuildingGun_TarantulaHeavyBolter.verbs.0.label>ㅤ</GW_HOI_BuildingGun_TarantulaHeavyBolter.verbs.0.label>
+	
+	<!-- EN: An automated lascannon turret -->
+	<GW_HOI_BuildingGun_TarantulaLascannon.label>An automated lascannon turret</GW_HOI_BuildingGun_TarantulaLascannon.label>
+	<!-- EN: The turret portion of a tarantula lascannon turret. -->
+	<GW_HOI_BuildingGun_TarantulaLascannon.description>The turret portion of a tarantula lascannon turret.</GW_HOI_BuildingGun_TarantulaLascannon.description>
+	<!-- EN: ㅤ -->
+	<GW_HOI_BuildingGun_TarantulaLascannon.verbs.0.label>ㅤ</GW_HOI_BuildingGun_TarantulaLascannon.verbs.0.label>
+</LanguageData>

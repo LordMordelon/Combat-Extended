@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\mlie_reinforcedmechanoid2\RM_PlasmaWeaponry1391.xml -->
+	<!-- EN: throw immolator grenade -->
+	<VWE_Apparel_GrenadePlasmaImmolator.verbs.0.label>throw immolator grenade</VWE_Apparel_GrenadePlasmaImmolator.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<VWE_Apparel_GrenadePlasmaImmolator.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>ㅤ</VWE_Apparel_GrenadePlasmaImmolator.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>
+</LanguageData>

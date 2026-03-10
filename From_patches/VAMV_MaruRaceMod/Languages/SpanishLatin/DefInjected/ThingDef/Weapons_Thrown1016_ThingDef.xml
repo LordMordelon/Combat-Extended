@@ -1,0 +1,116 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VAMV_MaruRaceMod\Weapons_Thrown1016.xml -->
+	<!-- EN: edge -->
+	<MR_HA_O.tools.0.label>edge</MR_HA_O.tools.0.label>
+	
+	<!-- EN: Hand Axe -->
+	<MR_HandaxeO_Thrown.label>Hand Axe</MR_HandaxeO_Thrown.label>
+	
+	<!-- EN: edge -->
+	<MR_HA_AO.tools.0.label>edge</MR_HA_AO.tools.0.label>
+	
+	<!-- EN: Hand Axe -->
+	<MR_HandaxeAO_Thrown.label>Hand Axe</MR_HandaxeAO_Thrown.label>
+	
+	<!-- EN: edge -->
+	<MR_HA_AT.tools.0.label>edge</MR_HA_AT.tools.0.label>
+	
+	<!-- EN: Hand Axe -->
+	<MR_HandaxeAT_Thrown.label>Hand Axe</MR_HandaxeAT_Thrown.label>
+	
+	<!-- EN: edge -->
+	<MR_HA_BO.tools.0.label>edge</MR_HA_BO.tools.0.label>
+	
+	<!-- EN: Hand Axe -->
+	<MR_HandaxeBO_Thrown.label>Hand Axe</MR_HandaxeBO_Thrown.label>
+	
+	<!-- EN: edge -->
+	<MR_HA_BT.tools.0.label>edge</MR_HA_BT.tools.0.label>
+	
+	<!-- EN: edge -->
+	<MR_WH_O.tools.0.label>edge</MR_WH_O.tools.0.label>
+	<!-- EN: shaft -->
+	<MR_WH_O.tools.1.label>shaft</MR_WH_O.tools.1.label>
+	<!-- EN: shaft -->
+	<MR_WH_O.tools.2.label>shaft</MR_WH_O.tools.2.label>
+	
+	<!-- EN: Whaling Harpoon -->
+	<MR_WhalingHarpoon_Thrown.label>Whaling Harpoon</MR_WhalingHarpoon_Thrown.label>
+	
+	<!-- EN: edge -->
+	<MR_WH_AO.tools.0.label>edge</MR_WH_AO.tools.0.label>
+	<!-- EN: shaft -->
+	<MR_WH_AO.tools.1.label>shaft</MR_WH_AO.tools.1.label>
+	<!-- EN: shaft -->
+	<MR_WH_AO.tools.2.label>shaft</MR_WH_AO.tools.2.label>
+	
+	<!-- EN: Whaling Harpoon -->
+	<MR_WhalingHarpoonAO_Thrown.label>Whaling Harpoon</MR_WhalingHarpoonAO_Thrown.label>
+	
+	<!-- EN: edge -->
+	<MR_WH_AT.tools.0.label>edge</MR_WH_AT.tools.0.label>
+	<!-- EN: shaft -->
+	<MR_WH_AT.tools.1.label>shaft</MR_WH_AT.tools.1.label>
+	<!-- EN: shaft -->
+	<MR_WH_AT.tools.2.label>shaft</MR_WH_AT.tools.2.label>
+	
+	<!-- EN: Whaling Harpoon -->
+	<MR_WhalingHarpoonAT_Thrown.label>Whaling Harpoon</MR_WhalingHarpoonAT_Thrown.label>
+	
+	<!-- EN: edge -->
+	<MR_WH_ATT.tools.0.label>edge</MR_WH_ATT.tools.0.label>
+	<!-- EN: shaft -->
+	<MR_WH_ATT.tools.1.label>shaft</MR_WH_ATT.tools.1.label>
+	<!-- EN: shaft -->
+	<MR_WH_ATT.tools.2.label>shaft</MR_WH_ATT.tools.2.label>
+	
+	<!-- EN: edge -->
+	<MR_WH_BO.tools.0.label>edge</MR_WH_BO.tools.0.label>
+	<!-- EN: shaft -->
+	<MR_WH_BO.tools.1.label>shaft</MR_WH_BO.tools.1.label>
+	<!-- EN: shaft -->
+	<MR_WH_BO.tools.2.label>shaft</MR_WH_BO.tools.2.label>
+	
+	<!-- EN: Whaling Harpoon -->
+	<MR_WhalingHarpoonBO_Thrown.label>Whaling Harpoon</MR_WhalingHarpoonBO_Thrown.label>
+	
+	<!-- EN: edge -->
+	<MR_WH_BT.tools.0.label>edge</MR_WH_BT.tools.0.label>
+	<!-- EN: shaft -->
+	<MR_WH_BT.tools.1.label>shaft</MR_WH_BT.tools.1.label>
+	<!-- EN: shaft -->
+	<MR_WH_BT.tools.2.label>shaft</MR_WH_BT.tools.2.label>
+	
+	<!-- EN: Whaling Harpoon -->
+	<MR_WhalingHarpoonBT_Thrown.label>Whaling Harpoon</MR_WhalingHarpoonBT_Thrown.label>
+	
+	<!-- EN: edge -->
+	<MR_WH_BTT.tools.0.label>edge</MR_WH_BTT.tools.0.label>
+	<!-- EN: shaft -->
+	<MR_WH_BTT.tools.1.label>shaft</MR_WH_BTT.tools.1.label>
+	<!-- EN: shaft -->
+	<MR_WH_BTT.tools.2.label>shaft</MR_WH_BTT.tools.2.label>
+	
+	<!-- EN: Whaling Harpoon -->
+	<MR_WhalingHarpoonBTT_Thrown.label>Whaling Harpoon</MR_WhalingHarpoonBTT_Thrown.label>
+	
+	<!-- EN: head -->
+	<MR_WH_CO.tools.0.label>head</MR_WH_CO.tools.0.label>
+	<!-- EN: handle -->
+	<MR_WH_CO.tools.1.label>handle</MR_WH_CO.tools.1.label>
+	
+	<!-- EN: head -->
+	<MR_WH_COT.tools.0.label>head</MR_WH_COT.tools.0.label>
+	<!-- EN: handle -->
+	<MR_WH_COT.tools.1.label>handle</MR_WH_COT.tools.1.label>
+	
+	<!-- EN: head -->
+	<MR_WH_CT.tools.0.label>head</MR_WH_CT.tools.0.label>
+	<!-- EN: handle -->
+	<MR_WH_CT.tools.1.label>handle</MR_WH_CT.tools.1.label>
+	
+	<!-- EN: head -->
+	<MR_WH_CTT.tools.0.label>head</MR_WH_CTT.tools.0.label>
+	<!-- EN: handle -->
+	<MR_WH_CTT.tools.1.label>handle</MR_WH_CTT.tools.1.label>
+</LanguageData>

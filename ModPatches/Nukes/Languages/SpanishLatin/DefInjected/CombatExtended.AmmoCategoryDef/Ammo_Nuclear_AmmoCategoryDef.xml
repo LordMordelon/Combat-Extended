@@ -1,0 +1,22 @@
+<LanguageData>
+	<!-- ModPatches\Nukes\Defs\Nukes\Ammo_Nuclear.xml -->
+	<!-- EN: Fusion -->
+	<Fusion.label>Fusion</Fusion.label>
+	<!-- EN: A massively powerful nuclear fusion warhead. -->
+	<Fusion.description>A massively powerful nuclear fusion warhead.</Fusion.description>
+	
+	<!-- EN: Large Nuke -->
+	<LargeNuke.label>Large Nuke</LargeNuke.label>
+	<!-- EN: A large nuclear fission device. -->
+	<LargeNuke.description>A large nuclear fission device.</LargeNuke.description>
+	
+	<!-- EN: Small Nuke -->
+	<SmallNuke.label>Small Nuke</SmallNuke.label>
+	<!-- EN: A small nuclear fission device. -->
+	<SmallNuke.description>A small nuclear fission device.</SmallNuke.description>
+	
+	<!-- EN: Dirty -->
+	<DirtyBomb.label>Dirty</DirtyBomb.label>
+	<!-- EN: A bomb loaded with dangerous radioactive materials, designed to poison large areas with radiation. -->
+	<DirtyBomb.description>A bomb loaded with dangerous radioactive materials, designed to poison large areas with radiation.</DirtyBomb.description>
+</LanguageData>

@@ -1,0 +1,22 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\OskarPotocki_VFE_Pirates\Melee_Warcaskets1794.xml -->
+	<!-- EN: point -->
+	<VFEP_WarcasketMeleeWeapon_CombatKnife.tools.0.label>point</VFEP_WarcasketMeleeWeapon_CombatKnife.tools.0.label>
+	<!-- EN: edge -->
+	<VFEP_WarcasketMeleeWeapon_CombatKnife.tools.1.label>edge</VFEP_WarcasketMeleeWeapon_CombatKnife.tools.1.label>
+	
+	<!-- EN: point -->
+	<VFEP_WarcasketMeleeWeapon_Broadsword.tools.0.label>point</VFEP_WarcasketMeleeWeapon_Broadsword.tools.0.label>
+	<!-- EN: edge -->
+	<VFEP_WarcasketMeleeWeapon_Broadsword.tools.1.label>edge</VFEP_WarcasketMeleeWeapon_Broadsword.tools.1.label>
+	
+	<!-- EN: head -->
+	<VFEP_WarcasketMeleeWeapon_GravityHammer.tools.0.label>head</VFEP_WarcasketMeleeWeapon_GravityHammer.tools.0.label>
+	<!-- EN: handle -->
+	<VFEP_WarcasketMeleeWeapon_GravityHammer.tools.1.label>handle</VFEP_WarcasketMeleeWeapon_GravityHammer.tools.1.label>
+	
+	<!-- EN: point -->
+	<VFEP_WarcasketMeleeWeapon_PlasmaSword.tools.0.label>point</VFEP_WarcasketMeleeWeapon_PlasmaSword.tools.0.label>
+	<!-- EN: blade -->
+	<VFEP_WarcasketMeleeWeapon_PlasmaSword.tools.1.label>blade</VFEP_WarcasketMeleeWeapon_PlasmaSword.tools.1.label>
+</LanguageData>

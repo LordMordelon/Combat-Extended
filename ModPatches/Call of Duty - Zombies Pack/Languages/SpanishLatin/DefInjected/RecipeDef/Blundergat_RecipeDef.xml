@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Blunders\Blundergat.xml -->
+	
+	<!-- EN: make Blundergat (Buck) shell x20 -->
+	<MakeAmmo_Blundergat_Buck.label>make Blundergat (Buck) shell x20</MakeAmmo_Blundergat_Buck.label>
+	<!-- EN: Craft 20 Blundergat (Buck) shells . -->
+	<MakeAmmo_Blundergat_Buck.description>Craft 20 Blundergat (Buck) shells .</MakeAmmo_Blundergat_Buck.description>
+	<!-- EN: Making Blundergat (Buck) shells. -->
+	<MakeAmmo_Blundergat_Buck.jobString>Making Blundergat (Buck) shells.</MakeAmmo_Blundergat_Buck.jobString>
+	
+	<!-- EN: make Blundergat (Slug) shell x20 -->
+	<MakeAmmo_Blundergat_Slug.label>make Blundergat (Slug) shell x20</MakeAmmo_Blundergat_Slug.label>
+	<!-- EN: Craft 20 Blundergat (Slug) shells . -->
+	<MakeAmmo_Blundergat_Slug.description>Craft 20 Blundergat (Slug) shells .</MakeAmmo_Blundergat_Slug.description>
+	<!-- EN: Making Blundergat (Slug) shells. -->
+	<MakeAmmo_Blundergat_Slug.jobString>Making Blundergat (Slug) shells.</MakeAmmo_Blundergat_Slug.jobString>
+</LanguageData>

@@ -1,0 +1,51 @@
+<LanguageData>
+	<!-- ModPatches\Impact Weaponry\Defs\Impact Weaponry\ImpactAmmo.xml -->
+	
+	<!-- EN: Impact Shells (Small) -->
+	<Ammo_ImpactShellsSmall.label>Impact Shells (Small)</Ammo_ImpactShellsSmall.label>
+	<!-- EN: A Large caliber, gryojet-stabilized projectile with an explosive charge. -->
+	<Ammo_ImpactShellsSmall.description>A Large caliber, gryojet-stabilized projectile with an explosive charge.</Ammo_ImpactShellsSmall.description>
+	
+	<!-- EN: Impact Shells (Big) -->
+	<Ammo_ImpactShellsBig.label>Impact Shells (Big)</Ammo_ImpactShellsBig.label>
+	<!-- EN: A Large caliber, gryojet-stabilized projectile with an explosive charge. -->
+	<Ammo_ImpactShellsBig.description>A Large caliber, gryojet-stabilized projectile with an explosive charge.</Ammo_ImpactShellsBig.description>
+	
+	<!-- EN: Impact Shells (Shell) -->
+	<Ammo_ImpactShellsShell.label>Impact Shells (Shell)</Ammo_ImpactShellsShell.label>
+	<!-- EN: A Large caliber, gryojet-stabilized projectile with an explosive charge. -->
+	<Ammo_ImpactShellsShell.description>A Large caliber, gryojet-stabilized projectile with an explosive charge.</Ammo_ImpactShellsShell.description>
+	
+	<!-- EN: Impact Shells (Sniper) -->
+	<Ammo_ImpactShellsSniper.label>Impact Shells (Sniper)</Ammo_ImpactShellsSniper.label>
+	<!-- EN: A Large caliber, gryojet-stabilized projectile with an explosive charge. -->
+	<Ammo_ImpactShellsSniper.description>A Large caliber, gryojet-stabilized projectile with an explosive charge.</Ammo_ImpactShellsSniper.description>
+	
+	<!-- EN: Impact Shells (Bolter) -->
+	<Ammo_ImpactShellsBolter.label>Impact Shells (Bolter)</Ammo_ImpactShellsBolter.label>
+	<!-- EN: A Large caliber, gryojet-stabilized projectile with an explosive charge. -->
+	<Ammo_ImpactShellsBolter.description>A Large caliber, gryojet-stabilized projectile with an explosive charge.</Ammo_ImpactShellsBolter.description>
+	
+	<!-- EN: Impact Shells (Slugger) -->
+	<Ammo_ImpactShellsSlugger.label>Impact Shells (Slugger)</Ammo_ImpactShellsSlugger.label>
+	<!-- EN: A Large caliber, gryojet-stabilized projectile with an explosive charge. -->
+	<Ammo_ImpactShellsSlugger.description>A Large caliber, gryojet-stabilized projectile with an explosive charge.</Ammo_ImpactShellsSlugger.description>
+	
+	<!-- EN: Impact Shells (Small) -->
+	<Bullet_ImpactShellsSmall.label>Impact Shells (Small)</Bullet_ImpactShellsSmall.label>
+	
+	<!-- EN: Impact Shells (Big) -->
+	<Bullet_ImpactShellsBig.label>Impact Shells (Big)</Bullet_ImpactShellsBig.label>
+	
+	<!-- EN: Impact Shells (Shell) -->
+	<Bullet_ImpactShellsShell.label>Impact Shells (Shell)</Bullet_ImpactShellsShell.label>
+	
+	<!-- EN: Impact Shells (Sniper) -->
+	<Bullet_ImpactShellsSniper.label>Impact Shells (Sniper)</Bullet_ImpactShellsSniper.label>
+	
+	<!-- EN: Impact Shells (Bolter) -->
+	<Bullet_ImpactShellsBolter.label>Impact Shells (Bolter)</Bullet_ImpactShellsBolter.label>
+	
+	<!-- EN: Impact Shells (Slugger) -->
+	<Bullet_ImpactShellsSlugger.label>Impact Shells (Slugger)</Bullet_ImpactShellsSlugger.label>
+</LanguageData>

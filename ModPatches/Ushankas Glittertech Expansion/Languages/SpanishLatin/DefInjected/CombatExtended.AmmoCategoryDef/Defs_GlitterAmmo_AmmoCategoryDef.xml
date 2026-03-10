@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- ModPatches\Ushankas Glittertech Expansion\Defs\Ushankas Glittertech Expansion\Defs_GlitterAmmo.xml -->
+	<!-- EN: ADP -->
+	<ADP.label>ADP</ADP.label>
+	<!-- EN: Area Denial Pulse (ADP) is a newer and more effective version of the common EMP charge. It uses far more aggressive electrical targeting, bypassing even the most advanced adaptation systems.\n\nIt renders mechanoids immobile over a wider radius, without any risk being of countered. -->
+	<ADP.description>Area Denial Pulse (ADP) is a newer and more effective version of the common EMP charge. It uses far more aggressive electrical targeting, bypassing even the most advanced adaptation systems.\n\nIt renders mechanoids immobile over a wider radius, without any risk being of countered.</ADP.description>
+</LanguageData>

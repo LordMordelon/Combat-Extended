@@ -1,0 +1,38 @@
+<LanguageData>
+	<!-- Defs\Ammo\Grenade\40x53mmGrenade.xml -->
+	
+	<!-- EN: make 40x53mm HE grenades x100 -->
+	<MakeAmmo_40x53mmGrenade_HE.label>make 40x53mm HE grenades x100</MakeAmmo_40x53mmGrenade_HE.label>
+	<!-- EN: Craft 100 40x53mm HE grenades. -->
+	<MakeAmmo_40x53mmGrenade_HE.description>Craft 100 40x53mm HE grenades.</MakeAmmo_40x53mmGrenade_HE.description>
+	<!-- EN: Making 40x53mm HE grenades. -->
+	<MakeAmmo_40x53mmGrenade_HE.jobString>Making 40x53mm HE grenades.</MakeAmmo_40x53mmGrenade_HE.jobString>
+	
+	<!-- EN: make 40x53mm HE Time-Fuzed grenades x100 -->
+	<MakeAmmo_40x53mmGrenade_HE_TFuzed.label>make 40x53mm HE Time-Fuzed grenades x100</MakeAmmo_40x53mmGrenade_HE_TFuzed.label>
+	<!-- EN: Craft 100 40x53mm HE Time-Fuzed grenades. -->
+	<MakeAmmo_40x53mmGrenade_HE_TFuzed.description>Craft 100 40x53mm HE Time-Fuzed grenades.</MakeAmmo_40x53mmGrenade_HE_TFuzed.description>
+	<!-- EN: Making 40x53mm HE Time-Fuzed grenades. -->
+	<MakeAmmo_40x53mmGrenade_HE_TFuzed.jobString>Making 40x53mm HE Time-Fuzed grenades.</MakeAmmo_40x53mmGrenade_HE_TFuzed.jobString>
+	
+	<!-- EN: make 40x53mm HEDP grenades x100 -->
+	<MakeAmmo_40x53mmGrenade_HEDP.label>make 40x53mm HEDP grenades x100</MakeAmmo_40x53mmGrenade_HEDP.label>
+	<!-- EN: Craft 100 40x53mm HEDP grenades. -->
+	<MakeAmmo_40x53mmGrenade_HEDP.description>Craft 100 40x53mm HEDP grenades.</MakeAmmo_40x53mmGrenade_HEDP.description>
+	<!-- EN: Making 40x53mm HEDP grenades. -->
+	<MakeAmmo_40x53mmGrenade_HEDP.jobString>Making 40x53mm HEDP grenades.</MakeAmmo_40x53mmGrenade_HEDP.jobString>
+	
+	<!-- EN: make 40x53mm EMP grenades x100 -->
+	<MakeAmmo_40x53mmGrenade_EMP.label>make 40x53mm EMP grenades x100</MakeAmmo_40x53mmGrenade_EMP.label>
+	<!-- EN: Craft 100 40x53mm EMP grenades. -->
+	<MakeAmmo_40x53mmGrenade_EMP.description>Craft 100 40x53mm EMP grenades.</MakeAmmo_40x53mmGrenade_EMP.description>
+	<!-- EN: Making 40x53mm EMP grenades. -->
+	<MakeAmmo_40x53mmGrenade_EMP.jobString>Making 40x53mm EMP grenades.</MakeAmmo_40x53mmGrenade_EMP.jobString>
+	
+	<!-- EN: make 40x53mm smoke grenades x100 -->
+	<MakeAmmo_40x53mmGrenade_Smoke.label>make 40x53mm smoke grenades x100</MakeAmmo_40x53mmGrenade_Smoke.label>
+	<!-- EN: Craft 100 40x53mm smoke grenades. -->
+	<MakeAmmo_40x53mmGrenade_Smoke.description>Craft 100 40x53mm smoke grenades.</MakeAmmo_40x53mmGrenade_Smoke.description>
+	<!-- EN: Making 40x53mm smoke grenades. -->
+	<MakeAmmo_40x53mmGrenade_Smoke.jobString>Making 40x53mm smoke grenades.</MakeAmmo_40x53mmGrenade_Smoke.jobString>
+</LanguageData>

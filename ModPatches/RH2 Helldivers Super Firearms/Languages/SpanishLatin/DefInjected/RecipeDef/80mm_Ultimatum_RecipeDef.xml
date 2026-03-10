@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\RH2 Helldivers Super Firearms\Defs\RH2 Helldivers Super Firearms\Ammo\80mm_Ultimatum.xml -->
+	<!-- EN: make 80mm Ultimatum HE shell x5 -->
+	<MakeAmmo_80mm_UltiHE.label>make 80mm Ultimatum HE shell x5</MakeAmmo_80mm_UltiHE.label>
+	<!-- EN: Craft 5 80mm Ultimatum HE shells. -->
+	<MakeAmmo_80mm_UltiHE.description>Craft 5 80mm Ultimatum HE shells.</MakeAmmo_80mm_UltiHE.description>
+	<!-- EN: Making 80mm Ultimatum HE shells. -->
+	<MakeAmmo_80mm_UltiHE.jobString>Making 80mm Ultimatum HE shells.</MakeAmmo_80mm_UltiHE.jobString>
+</LanguageData>

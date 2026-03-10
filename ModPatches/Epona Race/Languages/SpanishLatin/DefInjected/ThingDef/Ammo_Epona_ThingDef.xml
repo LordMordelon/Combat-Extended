@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- ModPatches\Epona Race\Defs\Epona Race\Ammo\Ammo_Epona.xml -->
+	<!-- EN: vaporized toxin pulse -->
+	<Bullet_Epona_Shock.label>vaporized toxin pulse</Bullet_Epona_Shock.label>
+	<!-- EN: shard pulse -->
+	<Bullet_Epona_Shard.label>shard pulse</Bullet_Epona_Shard.label>
+	<!-- EN: plasma pulse -->
+	<Bullet_Epona_Molten.label>plasma pulse</Bullet_Epona_Molten.label>
+	<!-- EN: plasma -->
+	<Bullet_Epona_Plasma.label>plasma</Bullet_Epona_Plasma.label>
+	<!-- EN: shotgun_blast -->
+	<Bullet_Epona_NapalmShotgun.label>shotgun_blast</Bullet_Epona_NapalmShotgun.label>
+	<!-- EN: 6mm Railgun bullet (Neurotoxin) -->
+	<Bullet_6mmEponaShock.label>6mm Railgun bullet (Neurotoxin)</Bullet_6mmEponaShock.label>
+</LanguageData>

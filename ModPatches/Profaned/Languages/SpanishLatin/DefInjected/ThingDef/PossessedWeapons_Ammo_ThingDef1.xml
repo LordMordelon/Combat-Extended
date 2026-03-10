@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\Profaned\Defs\Profaned\PossessedWeapons_Ammo.xml -->
+	
+	<!-- EN: great arrow (rot stink) -->
+	<Ammo_ProfanedGreatbowArrow.label>great arrow (rot stink)</Ammo_ProfanedGreatbowArrow.label>
+	<!-- EN: Heavy arrow designed to be fired from a great bow. -->
+	<Ammo_ProfanedGreatbowArrow.description>Heavy arrow designed to be fired from a great bow.</Ammo_ProfanedGreatbowArrow.description>
+	
+	<!-- EN: greatbow arrow -->
+	<Projectile_ProfanedGreatbowArrow.label>greatbow arrow</Projectile_ProfanedGreatbowArrow.label>
+</LanguageData>

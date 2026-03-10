@@ -1,0 +1,58 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VexedTrees980_RimUHiversI\Patch_Race_Hivers1446.xml -->
+	<!-- EN: left fist -->
+	<Hiver_Prince.tools.0.label>left fist</Hiver_Prince.tools.0.label>
+	<!-- EN: right fist -->
+	<Hiver_Prince.tools.1.label>right fist</Hiver_Prince.tools.1.label>
+	<!-- EN: head -->
+	<Hiver_Prince.tools.2.label>head</Hiver_Prince.tools.2.label>
+	
+	<!-- EN: left fist -->
+	<Hiver_Soldier.tools.0.label>left fist</Hiver_Soldier.tools.0.label>
+	<!-- EN: right fist -->
+	<Hiver_Soldier.tools.1.label>right fist</Hiver_Soldier.tools.1.label>
+	<!-- EN: head -->
+	<Hiver_Soldier.tools.2.label>head</Hiver_Soldier.tools.2.label>
+	
+	<!-- EN: left fist -->
+	<Hiver_Worker.tools.0.label>left fist</Hiver_Worker.tools.0.label>
+	<!-- EN: right fist -->
+	<Hiver_Worker.tools.1.label>right fist</Hiver_Worker.tools.1.label>
+	<!-- EN: head -->
+	<Hiver_Worker.tools.2.label>head</Hiver_Worker.tools.2.label>
+	
+	<!-- EN: left fist -->
+	<Hiver_Prince_South.tools.0.label>left fist</Hiver_Prince_South.tools.0.label>
+	<!-- EN: right fist -->
+	<Hiver_Prince_South.tools.1.label>right fist</Hiver_Prince_South.tools.1.label>
+	<!-- EN: head -->
+	<Hiver_Prince_South.tools.2.label>head</Hiver_Prince_South.tools.2.label>
+	
+	<!-- EN: left fist -->
+	<Hiver_Queen.tools.0.label>left fist</Hiver_Queen.tools.0.label>
+	<!-- EN: right fist -->
+	<Hiver_Queen.tools.1.label>right fist</Hiver_Queen.tools.1.label>
+	<!-- EN: head -->
+	<Hiver_Queen.tools.2.label>head</Hiver_Queen.tools.2.label>
+	
+	<!-- EN: left fist -->
+	<Hiver_Worker_South.tools.0.label>left fist</Hiver_Worker_South.tools.0.label>
+	<!-- EN: right fist -->
+	<Hiver_Worker_South.tools.1.label>right fist</Hiver_Worker_South.tools.1.label>
+	<!-- EN: head -->
+	<Hiver_Worker_South.tools.2.label>head</Hiver_Worker_South.tools.2.label>
+	
+	<!-- EN: left fist -->
+	<Hiver_Soldier_South.tools.0.label>left fist</Hiver_Soldier_South.tools.0.label>
+	<!-- EN: right fist -->
+	<Hiver_Soldier_South.tools.1.label>right fist</Hiver_Soldier_South.tools.1.label>
+	<!-- EN: head -->
+	<Hiver_Soldier_South.tools.2.label>head</Hiver_Soldier_South.tools.2.label>
+	
+	<!-- EN: left fist -->
+	<Hiver_Queen_South.tools.0.label>left fist</Hiver_Queen_South.tools.0.label>
+	<!-- EN: right fist -->
+	<Hiver_Queen_South.tools.1.label>right fist</Hiver_Queen_South.tools.1.label>
+	<!-- EN: head -->
+	<Hiver_Queen_South.tools.2.label>head</Hiver_Queen_South.tools.2.label>
+</LanguageData>

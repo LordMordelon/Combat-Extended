@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\pphhyy_BarbariansMOSubmod\ThrownWeapons1082.xml -->
+	<!-- EN: Throw rusted axe -->
+	<pphhyy_Barbarian_RustedJavalin.Properties.label>Throw rusted axe</pphhyy_Barbarian_RustedJavalin.Properties.label>
+	<!-- EN: shaft -->
+	<pphhyy_Barbarian_RustedJavalin.tools.0.label>shaft</pphhyy_Barbarian_RustedJavalin.tools.0.label>
+	<!-- EN: point -->
+	<pphhyy_Barbarian_RustedJavalin.tools.1.label>point</pphhyy_Barbarian_RustedJavalin.tools.1.label>
+	
+	<!-- EN: Throw rusted axe -->
+	<pphhyy_Barbarian_RustedThrowingAxe.Properties.label>Throw rusted axe</pphhyy_Barbarian_RustedThrowingAxe.Properties.label>
+	<!-- EN: handle -->
+	<pphhyy_Barbarian_RustedThrowingAxe.tools.0.label>handle</pphhyy_Barbarian_RustedThrowingAxe.tools.0.label>
+	<!-- EN: edge -->
+	<pphhyy_Barbarian_RustedThrowingAxe.tools.1.label>edge</pphhyy_Barbarian_RustedThrowingAxe.tools.1.label>
+</LanguageData>

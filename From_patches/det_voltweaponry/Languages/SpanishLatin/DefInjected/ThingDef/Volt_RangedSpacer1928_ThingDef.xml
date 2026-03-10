@@ -1,0 +1,45 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\det_voltweaponry\Volt_RangedSpacer1928.xml -->
+	<!-- EN: grip -->
+	<DV_Gun_VoltPistol.tools.0.label>grip</DV_Gun_VoltPistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<DV_Gun_VoltPistol.tools.1.label>muzzle</DV_Gun_VoltPistol.tools.1.label>
+	
+	<!-- EN: stock -->
+	<DV_Gun_VoltRifle.tools.0.label>stock</DV_Gun_VoltRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<DV_Gun_VoltRifle.tools.1.label>barrel</DV_Gun_VoltRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<DV_Gun_VoltRifle.tools.2.label>muzzle</DV_Gun_VoltRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<DV_Gun_VoltCarbine.tools.0.label>stock</DV_Gun_VoltCarbine.tools.0.label>
+	<!-- EN: barrel -->
+	<DV_Gun_VoltCarbine.tools.1.label>barrel</DV_Gun_VoltCarbine.tools.1.label>
+	<!-- EN: muzzle -->
+	<DV_Gun_VoltCarbine.tools.2.label>muzzle</DV_Gun_VoltCarbine.tools.2.label>
+	
+	<!-- EN: stock -->
+	<DV_Gun_VoltTrenchgun.tools.0.label>stock</DV_Gun_VoltTrenchgun.tools.0.label>
+	<!-- EN: barrel -->
+	<DV_Gun_VoltTrenchgun.tools.1.label>barrel</DV_Gun_VoltTrenchgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<DV_Gun_VoltTrenchgun.tools.2.label>muzzle</DV_Gun_VoltTrenchgun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<DV_Gun_VoltDMR.tools.0.label>stock</DV_Gun_VoltDMR.tools.0.label>
+	<!-- EN: barrel -->
+	<DV_Gun_VoltDMR.tools.1.label>barrel</DV_Gun_VoltDMR.tools.1.label>
+	<!-- EN: muzzle -->
+	<DV_Gun_VoltDMR.tools.2.label>muzzle</DV_Gun_VoltDMR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<DV_Gun_VoltSniper.tools.0.label>stock</DV_Gun_VoltSniper.tools.0.label>
+	<!-- EN: barrel -->
+	<DV_Gun_VoltSniper.tools.1.label>barrel</DV_Gun_VoltSniper.tools.1.label>
+	<!-- EN: muzzle -->
+	<DV_Gun_VoltSniper.tools.2.label>muzzle</DV_Gun_VoltSniper.tools.2.label>
+	
+	<!-- EN: barrel -->
+	<DV_Gun_VoltChaingun.tools.0.label>barrel</DV_Gun_VoltChaingun.tools.0.label>
+</LanguageData>

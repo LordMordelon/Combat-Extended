@@ -1,0 +1,122 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\AhnDemi_PanieltheAutomata\Weapons1225.xml -->
+	<!-- EN: handle -->
+	<PN_Shovel.tools.0.label>handle</PN_Shovel.tools.0.label>
+	<!-- EN: head -->
+	<PN_Shovel.tools.1.label>head</PN_Shovel.tools.1.label>
+	<!-- EN: blade -->
+	<PN_Shovel.tools.2.label>blade</PN_Shovel.tools.2.label>
+	
+	<!-- EN: handle -->
+	<PN_Chainsword.tools.0.label>handle</PN_Chainsword.tools.0.label>
+	<!-- EN: point -->
+	<PN_Chainsword.tools.1.label>point</PN_Chainsword.tools.1.label>
+	<!-- EN: edge -->
+	<PN_Chainsword.tools.2.label>edge</PN_Chainsword.tools.2.label>
+	
+	<!-- EN: Point -->
+	<PN_Chainlongsword.tools.0.label>Point</PN_Chainlongsword.tools.0.label>
+	<!-- EN: blade -->
+	<PN_Chainlongsword.tools.1.label>blade</PN_Chainlongsword.tools.1.label>
+	<!-- EN: handle -->
+	<PN_Chainlongsword.tools.2.label>handle</PN_Chainlongsword.tools.2.label>
+	
+	<!-- EN: handle -->
+	<PN_WarHammer.tools.0.label>handle</PN_WarHammer.tools.0.label>
+	<!-- EN: head -->
+	<PN_WarHammer.tools.1.label>head</PN_WarHammer.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<PN_PrototypeRailGun.tools.0.label>barrel</PN_PrototypeRailGun.tools.0.label>
+	
+	<!-- EN: stock -->
+	<PN_Rifle.tools.0.label>stock</PN_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<PN_Rifle.tools.1.label>barrel</PN_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<PN_Rifle.tools.2.label>muzzle</PN_Rifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<PN_Machinegun.tools.0.label>stock</PN_Machinegun.tools.0.label>
+	<!-- EN: barrel -->
+	<PN_Machinegun.tools.1.label>barrel</PN_Machinegun.tools.1.label>
+	<!-- EN: muzzle -->
+	<PN_Machinegun.tools.2.label>muzzle</PN_Machinegun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<PN_Cannon.tools.0.label>stock</PN_Cannon.tools.0.label>
+	<!-- EN: barrel -->
+	<PN_Cannon.tools.1.label>barrel</PN_Cannon.tools.1.label>
+	<!-- EN: muzzle -->
+	<PN_Cannon.tools.2.label>muzzle</PN_Cannon.tools.2.label>
+	
+	<!-- EN: stock -->
+	<PN_RoyalRifle.tools.0.label>stock</PN_RoyalRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<PN_RoyalRifle.tools.1.label>barrel</PN_RoyalRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<PN_RoyalRifle.tools.2.label>muzzle</PN_RoyalRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<PN_RoyalHeavySlug.tools.0.label>stock</PN_RoyalHeavySlug.tools.0.label>
+	<!-- EN: barrel -->
+	<PN_RoyalHeavySlug.tools.1.label>barrel</PN_RoyalHeavySlug.tools.1.label>
+	<!-- EN: muzzle -->
+	<PN_RoyalHeavySlug.tools.2.label>muzzle</PN_RoyalHeavySlug.tools.2.label>
+	
+	<!-- EN: stock -->
+	<PN_RoyalMachinegun.tools.0.label>stock</PN_RoyalMachinegun.tools.0.label>
+	<!-- EN: barrel -->
+	<PN_RoyalMachinegun.tools.1.label>barrel</PN_RoyalMachinegun.tools.1.label>
+	<!-- EN: muzzle -->
+	<PN_RoyalMachinegun.tools.2.label>muzzle</PN_RoyalMachinegun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<PN_RoyalLSW.tools.0.label>stock</PN_RoyalLSW.tools.0.label>
+	<!-- EN: barrel -->
+	<PN_RoyalLSW.tools.1.label>barrel</PN_RoyalLSW.tools.1.label>
+	<!-- EN: muzzle -->
+	<PN_RoyalLSW.tools.2.label>muzzle</PN_RoyalLSW.tools.2.label>
+	
+	<!-- EN: grip -->
+	<PN_Revolver.tools.0.label>grip</PN_Revolver.tools.0.label>
+	<!-- EN: muzzle -->
+	<PN_Revolver.tools.1.label>muzzle</PN_Revolver.tools.1.label>
+	
+	<!-- EN: grip -->
+	<PN_TwinPistol.tools.0.label>grip</PN_TwinPistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<PN_TwinPistol.tools.1.label>muzzle</PN_TwinPistol.tools.1.label>
+	<!-- EN: grip -->
+	<PN_TwinPistol.tools.0.label>grip</PN_TwinPistol.tools.0.label>
+	<!-- EN: kick -->
+	<PN_TwinPistol.tools.1.label>kick</PN_TwinPistol.tools.1.label>
+	<!-- EN: Close Shot -->
+	<PN_TwinPistol.tools.2.label>Close Shot</PN_TwinPistol.tools.2.label>
+	
+	<!-- EN: handle -->
+	<PN_RoyalSaber_Bladelink.tools.0.label>handle</PN_RoyalSaber_Bladelink.tools.0.label>
+	<!-- EN: edge -->
+	<PN_RoyalSaber_Bladelink.tools.1.label>edge</PN_RoyalSaber_Bladelink.tools.1.label>
+	<!-- EN: point -->
+	<PN_RoyalSaber_Bladelink.tools.2.label>point</PN_RoyalSaber_Bladelink.tools.2.label>
+	
+	<!-- EN: handle -->
+	<PN_Chainsword_Bladelink.tools.0.label>handle</PN_Chainsword_Bladelink.tools.0.label>
+	<!-- EN: edge -->
+	<PN_Chainsword_Bladelink.tools.1.label>edge</PN_Chainsword_Bladelink.tools.1.label>
+	<!-- EN: point -->
+	<PN_Chainsword_Bladelink.tools.2.label>point</PN_Chainsword_Bladelink.tools.2.label>
+	
+	<!-- EN: handle -->
+	<PN_RoyalHammer_Bladelink.tools.0.label>handle</PN_RoyalHammer_Bladelink.tools.0.label>
+	<!-- EN: head -->
+	<PN_RoyalHammer_Bladelink.tools.1.label>head</PN_RoyalHammer_Bladelink.tools.1.label>
+	
+	<!-- EN: handle -->
+	<PN_StormLance_Bladelink.tools.0.label>handle</PN_StormLance_Bladelink.tools.0.label>
+	<!-- EN: side -->
+	<PN_StormLance_Bladelink.tools.1.label>side</PN_StormLance_Bladelink.tools.1.label>
+	<!-- EN: point -->
+	<PN_StormLance_Bladelink.tools.2.label>point</PN_StormLance_Bladelink.tools.2.label>
+</LanguageData>

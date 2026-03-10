@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Defs\Ammo\Other\Ammo_Nail.xml -->
+	<!-- EN: make nails x500 -->
+	<MakeAmmo_Nail.label>make nails x500</MakeAmmo_Nail.label>
+	<!-- EN: Craft 500 steel nails. -->
+	<MakeAmmo_Nail.description>Craft 500 steel nails.</MakeAmmo_Nail.description>
+	<!-- EN: Making nails. -->
+	<MakeAmmo_Nail.jobString>Making nails.</MakeAmmo_Nail.jobString>
+</LanguageData>

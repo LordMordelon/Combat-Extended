@@ -1,0 +1,52 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Weapons_Melee18.xml -->
+	<!-- EN: handle -->
+	<MeleeWeapon_Knife.tools.0.label>handle</MeleeWeapon_Knife.tools.0.label>
+	<!-- EN: blade -->
+	<MeleeWeapon_Knife.tools.1.label>blade</MeleeWeapon_Knife.tools.1.label>
+	<!-- EN: point -->
+	<MeleeWeapon_Knife.tools.2.label>point</MeleeWeapon_Knife.tools.2.label>
+	
+	<!-- EN: handle -->
+	<MeleeWeapon_Club.tools.0.label>handle</MeleeWeapon_Club.tools.0.label>
+	<!-- EN: head -->
+	<MeleeWeapon_Club.tools.1.label>head</MeleeWeapon_Club.tools.1.label>
+	
+	<!-- EN: handle -->
+	<MeleeWeapon_Mace.tools.0.label>handle</MeleeWeapon_Mace.tools.0.label>
+	<!-- EN: head -->
+	<MeleeWeapon_Mace.tools.1.label>head</MeleeWeapon_Mace.tools.1.label>
+	
+	<!-- EN: handle -->
+	<MeleeWeapon_Gladius.tools.0.label>handle</MeleeWeapon_Gladius.tools.0.label>
+	<!-- EN: point -->
+	<MeleeWeapon_Gladius.tools.1.label>point</MeleeWeapon_Gladius.tools.1.label>
+	<!-- EN: edge -->
+	<MeleeWeapon_Gladius.tools.2.label>edge</MeleeWeapon_Gladius.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<MeleeWeapon_Ikwa.tools.0.label>shaft</MeleeWeapon_Ikwa.tools.0.label>
+	<!-- EN: point -->
+	<MeleeWeapon_Ikwa.tools.1.label>point</MeleeWeapon_Ikwa.tools.1.label>
+	<!-- EN: head -->
+	<MeleeWeapon_Ikwa.tools.2.label>head</MeleeWeapon_Ikwa.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<MeleeWeapon_Spear.tools.0.label>shaft</MeleeWeapon_Spear.tools.0.label>
+	<!-- EN: shaft -->
+	<MeleeWeapon_Spear.tools.1.label>shaft</MeleeWeapon_Spear.tools.1.label>
+	<!-- EN: head -->
+	<MeleeWeapon_Spear.tools.2.label>head</MeleeWeapon_Spear.tools.2.label>
+	
+	<!-- EN: handle -->
+	<MeleeWeapon_LongSword.tools.0.label>handle</MeleeWeapon_LongSword.tools.0.label>
+	<!-- EN: point -->
+	<MeleeWeapon_LongSword.tools.1.label>point</MeleeWeapon_LongSword.tools.1.label>
+	<!-- EN: edge -->
+	<MeleeWeapon_LongSword.tools.2.label>edge</MeleeWeapon_LongSword.tools.2.label>
+	
+	<!-- EN: handle -->
+	<MeleeWeapon_BreachAxe.tools.0.label>handle</MeleeWeapon_BreachAxe.tools.0.label>
+	<!-- EN: head -->
+	<MeleeWeapon_BreachAxe.tools.1.label>head</MeleeWeapon_BreachAxe.tools.1.label>
+</LanguageData>

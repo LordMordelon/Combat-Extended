@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\HC_GiantRace\GiantApparel1649.xml -->
+	<!-- EN: launch 81mm shell -->
+	<GI_Powerarmour.verbs.0.label>launch 81mm shell</GI_Powerarmour.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<GI_Powerarmour.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>ㅤ</GI_Powerarmour.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>
+</LanguageData>

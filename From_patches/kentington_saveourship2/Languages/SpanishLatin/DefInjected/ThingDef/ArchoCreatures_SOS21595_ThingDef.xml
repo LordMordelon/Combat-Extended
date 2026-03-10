@@ -1,0 +1,58 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\kentington_saveourship2\ArchoCreatures_SOS21595.xml -->
+	<!-- EN: left claw -->
+	<Archocat.tools.0.label>left claw</Archocat.tools.0.label>
+	<!-- EN: right claw -->
+	<Archocat.tools.1.label>right claw</Archocat.tools.1.label>
+	<!-- EN: head -->
+	<Archocat.tools.3.label>head</Archocat.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<Archomutt.tools.0.label>left claw</Archomutt.tools.0.label>
+	<!-- EN: right claw -->
+	<Archomutt.tools.1.label>right claw</Archomutt.tools.1.label>
+	<!-- EN: head -->
+	<Archomutt.tools.3.label>head</Archomutt.tools.3.label>
+	
+	<!-- EN: claws -->
+	<Archostrich.tools.0.label>claws</Archostrich.tools.0.label>
+	<!-- EN: head -->
+	<Archostrich.tools.2.label>head</Archostrich.tools.2.label>
+	
+	<!-- EN: head -->
+	<Archoffalo.tools.0.label>head</Archoffalo.tools.0.label>
+	
+	<!-- EN: head -->
+	<Archospider.tools.2.label>head</Archospider.tools.2.label>
+	
+	<!-- EN: head -->
+	<Archolope.tools.0.label>head</Archolope.tools.0.label>
+	
+	<!-- EN: head -->
+	<Archotortoise.tools.1.label>head</Archotortoise.tools.1.label>
+	
+	<!-- EN: left claw -->
+	<Archopanda.tools.0.label>left claw</Archopanda.tools.0.label>
+	<!-- EN: right claw -->
+	<Archopanda.tools.1.label>right claw</Archopanda.tools.1.label>
+	<!-- EN: head -->
+	<Archopanda.tools.3.label>head</Archopanda.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<Archojerboa.tools.0.label>left claw</Archojerboa.tools.0.label>
+	<!-- EN: right claw -->
+	<Archojerboa.tools.1.label>right claw</Archojerboa.tools.1.label>
+	<!-- EN: head -->
+	<Archojerboa.tools.3.label>head</Archojerboa.tools.3.label>
+	
+	<!-- EN: horn -->
+	<Archothrumbo.tools.0.label>horn</Archothrumbo.tools.0.label>
+	<!-- EN: horn -->
+	<Archothrumbo.tools.1.label>horn</Archothrumbo.tools.1.label>
+	<!-- EN: left foot -->
+	<Archothrumbo.tools.2.label>left foot</Archothrumbo.tools.2.label>
+	<!-- EN: right foot -->
+	<Archothrumbo.tools.3.label>right foot</Archothrumbo.tools.3.label>
+	<!-- EN: head -->
+	<Archothrumbo.tools.4.label>head</Archothrumbo.tools.4.label>
+</LanguageData>

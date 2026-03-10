@@ -1,0 +1,36 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\BotchJob_PossessedWeapons\PossessedWeapons_MeleePatch1234.xml -->
+	<!-- EN: handle -->
+	<BotchJob_PossessedScourgeBlade.tools.0.label>handle</BotchJob_PossessedScourgeBlade.tools.0.label>
+	<!-- EN: edge -->
+	<BotchJob_PossessedScourgeBlade.tools.1.label>edge</BotchJob_PossessedScourgeBlade.tools.1.label>
+	<!-- EN: point -->
+	<BotchJob_PossessedScourgeBlade.tools.2.label>point</BotchJob_PossessedScourgeBlade.tools.2.label>
+	
+	<!-- EN: handle -->
+	<BotchJob_PossessedGlacialCleaver.tools.0.label>handle</BotchJob_PossessedGlacialCleaver.tools.0.label>
+	<!-- EN: edge -->
+	<BotchJob_PossessedGlacialCleaver.tools.1.label>edge</BotchJob_PossessedGlacialCleaver.tools.1.label>
+	
+	<!-- EN: handle -->
+	<BotchJob_PossessedSanctifiedSword.tools.0.label>handle</BotchJob_PossessedSanctifiedSword.tools.0.label>
+	<!-- EN: edge -->
+	<BotchJob_PossessedSanctifiedSword.tools.1.label>edge</BotchJob_PossessedSanctifiedSword.tools.1.label>
+	<!-- EN: point -->
+	<BotchJob_PossessedSanctifiedSword.tools.2.label>point</BotchJob_PossessedSanctifiedSword.tools.2.label>
+	
+	<!-- EN: handle -->
+	<BotchJob_PossessedVolcanicMaul.tools.0.label>handle</BotchJob_PossessedVolcanicMaul.tools.0.label>
+	<!-- EN: head -->
+	<BotchJob_PossessedVolcanicMaul.tools.1.label>head</BotchJob_PossessedVolcanicMaul.tools.1.label>
+	
+	<!-- EN: handle -->
+	<BotchJob_PossessedCraghammer.tools.0.label>handle</BotchJob_PossessedCraghammer.tools.0.label>
+	<!-- EN: head -->
+	<BotchJob_PossessedCraghammer.tools.1.label>head</BotchJob_PossessedCraghammer.tools.1.label>
+	
+	<!-- EN: handle -->
+	<BotchJob_PossessedBloodstainedScythe.tools.0.label>handle</BotchJob_PossessedBloodstainedScythe.tools.0.label>
+	<!-- EN: edge -->
+	<BotchJob_PossessedBloodstainedScythe.tools.1.label>edge</BotchJob_PossessedBloodstainedScythe.tools.1.label>
+</LanguageData>

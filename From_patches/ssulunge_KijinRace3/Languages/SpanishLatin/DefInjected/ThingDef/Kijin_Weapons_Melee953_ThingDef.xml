@@ -1,0 +1,21 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\ssulunge_KijinRace3\Kijin_Weapons_Melee953.xml -->
+	<!-- EN: shaft -->
+	<Kijin_Polearm.tools.0.label>shaft</Kijin_Polearm.tools.0.label>
+	<!-- EN: edge -->
+	<Kijin_Polearm.tools.1.label>edge</Kijin_Polearm.tools.1.label>
+	<!-- EN: point -->
+	<Kijin_Polearm.tools.2.label>point</Kijin_Polearm.tools.2.label>
+	<!-- EN: handle -->
+	<Kijin_Mace.tools.0.label>handle</Kijin_Mace.tools.0.label>
+	<!-- EN: head -->
+	<Kijin_Mace.tools.1.label>head</Kijin_Mace.tools.1.label>
+	<!-- EN: head -->
+	<Kijin_100tHammer.tools.0.label>head</Kijin_100tHammer.tools.0.label>
+	<!-- EN: point -->
+	<Kijin_PoisonDagger.tools.0.label>point</Kijin_PoisonDagger.tools.0.label>
+	<!-- EN: edge -->
+	<Kijin_FlameSword.tools.0.label>edge</Kijin_FlameSword.tools.0.label>
+	<!-- EN: edge -->
+	<Kijin_AbyssalBladelink.tools.0.label>edge</Kijin_AbyssalBladelink.tools.0.label>
+</LanguageData>

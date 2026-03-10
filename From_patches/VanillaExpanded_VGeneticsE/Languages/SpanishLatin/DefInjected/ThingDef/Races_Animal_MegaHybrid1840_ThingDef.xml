@@ -1,0 +1,73 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VGeneticsE\Races_Animal_MegaHybrid1840.xml -->
+	<!-- EN: left claw -->
+	<GR_Elasmobearium.tools.0.label>left claw</GR_Elasmobearium.tools.0.label>
+	<!-- EN: right claw -->
+	<GR_Elasmobearium.tools.1.label>right claw</GR_Elasmobearium.tools.1.label>
+	<!-- EN: Jaws -->
+	<GR_Elasmobearium.tools.2.label>Jaws</GR_Elasmobearium.tools.2.label>
+	<!-- EN: horn -->
+	<GR_Elasmobearium.tools.3.label>horn</GR_Elasmobearium.tools.3.label>
+	
+	<!-- EN: left foot -->
+	<GR_Boomnotherium.tools.0.label>left foot</GR_Boomnotherium.tools.0.label>
+	<!-- EN: right foot -->
+	<GR_Boomnotherium.tools.1.label>right foot</GR_Boomnotherium.tools.1.label>
+	<!-- EN: head -->
+	<GR_Boomnotherium.tools.2.label>head</GR_Boomnotherium.tools.2.label>
+	<!-- EN: tusk -->
+	<GR_Boomnotherium.tools.3.label>tusk</GR_Boomnotherium.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<GR_Chickenlodon.tools.0.label>left claw</GR_Chickenlodon.tools.0.label>
+	<!-- EN: right claw -->
+	<GR_Chickenlodon.tools.1.label>right claw</GR_Chickenlodon.tools.1.label>
+	<!-- EN: Beak -->
+	<GR_Chickenlodon.tools.2.label>Beak</GR_Chickenlodon.tools.2.label>
+	
+	<!-- EN: mantis blades -->
+	<GR_Mantistanis.tools.1.label>mantis blades</GR_Mantistanis.tools.1.label>
+	<!-- EN: mantis blades -->
+	<GR_Mantistanis.tools.2.label>mantis blades</GR_Mantistanis.tools.2.label>
+	<!-- EN: claws -->
+	<GR_Mantistanis.tools.3.label>claws</GR_Mantistanis.tools.3.label>
+	
+	<!-- EN: left hoof -->
+	<GR_Paraceramuffalo.tools.0.label>left hoof</GR_Paraceramuffalo.tools.0.label>
+	<!-- EN: left hoof -->
+	<GR_Paraceramuffalo.tools.1.label>left hoof</GR_Paraceramuffalo.tools.1.label>
+	<!-- EN: head -->
+	<GR_Paraceramuffalo.tools.2.label>head</GR_Paraceramuffalo.tools.2.label>
+	
+	<!-- EN: left hoof -->
+	<GR_Lizardochs.tools.0.label>left hoof</GR_Lizardochs.tools.0.label>
+	<!-- EN: right hoof -->
+	<GR_Lizardochs.tools.1.label>right hoof</GR_Lizardochs.tools.1.label>
+	<!-- EN: head -->
+	<GR_Lizardochs.tools.2.label>head</GR_Lizardochs.tools.2.label>
+	<!-- EN: horn -->
+	<GR_Lizardochs.tools.3.label>horn</GR_Lizardochs.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<GR_Doedicoon.tools.0.label>left claw</GR_Doedicoon.tools.0.label>
+	<!-- EN: left claw -->
+	<GR_Doedicoon.tools.1.label>left claw</GR_Doedicoon.tools.1.label>
+	<!-- EN: tail -->
+	<GR_Doedicoon.tools.2.label>tail</GR_Doedicoon.tools.2.label>
+	
+	<!-- EN: left foot -->
+	<GR_Thrumdraeodon.tools.0.label>left foot</GR_Thrumdraeodon.tools.0.label>
+	<!-- EN: right foot -->
+	<GR_Thrumdraeodon.tools.1.label>right foot</GR_Thrumdraeodon.tools.1.label>
+	<!-- EN: horn -->
+	<GR_Thrumdraeodon.tools.2.label>horn</GR_Thrumdraeodon.tools.2.label>
+	
+	<!-- EN: left claw -->
+	<GR_WoolyWolf.tools.0.label>left claw</GR_WoolyWolf.tools.0.label>
+	<!-- EN: right claw -->
+	<GR_WoolyWolf.tools.1.label>right claw</GR_WoolyWolf.tools.1.label>
+	<!-- EN: tusk -->
+	<GR_WoolyWolf.tools.2.label>tusk</GR_WoolyWolf.tools.2.label>
+	<!-- EN: Jaws -->
+	<GR_WoolyWolf.tools.3.label>Jaws</GR_WoolyWolf.tools.3.label>
+</LanguageData>

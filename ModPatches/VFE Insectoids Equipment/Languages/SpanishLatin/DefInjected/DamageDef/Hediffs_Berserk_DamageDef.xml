@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- ModPatches\VFE Insectoids Equipment\Defs\VFE Insectoids Equipment\Hediffs\Hediffs_Berserk.xml -->
+	<!-- EN: psychic -->
+	<VFEI_PsychicDamage.label>psychic</VFEI_PsychicDamage.label>
+	<!-- EN: {0} has been killed. -->
+	<VFEI_PsychicDamage.deathMessage>{0} has been killed.</VFEI_PsychicDamage.deathMessage>
+</LanguageData>

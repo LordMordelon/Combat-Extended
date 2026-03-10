@@ -1,0 +1,10 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\KIT_RomanWeapons\Roman_Weapons963.xml -->
+	
+	<!-- EN: make plumbata x10 -->
+	<MakeAmmo_KIT_WeaponRanged_Plumbatae.label>make plumbata x10</MakeAmmo_KIT_WeaponRanged_Plumbatae.label>
+	<!-- EN: Craft 10 plumbata. -->
+	<MakeAmmo_KIT_WeaponRanged_Plumbatae.description>Craft 10 plumbata.</MakeAmmo_KIT_WeaponRanged_Plumbatae.description>
+	<!-- EN: Making plumbata. -->
+	<MakeAmmo_KIT_WeaponRanged_Plumbatae.jobString>Making plumbata.</MakeAmmo_KIT_WeaponRanged_Plumbatae.jobString>
+</LanguageData>

@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\mlie_reinforcedmechanoid2\RM_MechWeaponry1386.xml -->
+	<!-- EN: stock -->
+	<RM_Gun_InfernoRifle.tools.0.label>stock</RM_Gun_InfernoRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RM_Gun_InfernoRifle.tools.1.label>barrel</RM_Gun_InfernoRifle.tools.1.label>
+	
+	<!-- EN: stock -->
+	<RM_Gun_InfernoLauncher.tools.0.label>stock</RM_Gun_InfernoLauncher.tools.0.label>
+	<!-- EN: barrel -->
+	<RM_Gun_InfernoLauncher.tools.1.label>barrel</RM_Gun_InfernoLauncher.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<RM_Gun_ChargeLanceHeavy.tools.0.label>barrel</RM_Gun_ChargeLanceHeavy.tools.0.label>
+	<!-- EN: rail -->
+	<RM_Gun_ChargeLanceHeavy.tools.1.label>rail</RM_Gun_ChargeLanceHeavy.tools.1.label>
+</LanguageData>

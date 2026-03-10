@@ -1,0 +1,38 @@
+<LanguageData>
+	<!-- ModPatches\LF Red Dawn\Defs\LF Red Dawn\82mmMortar.xml -->
+	
+	<!-- EN: make 82mm HE mortar shells x5 -->
+	<MakeShell_82mmMortar_HE.label>make 82mm HE mortar shells x5</MakeShell_82mmMortar_HE.label>
+	<!-- EN: Craft 5 82mm HE mortar shells. -->
+	<MakeShell_82mmMortar_HE.description>Craft 5 82mm HE mortar shells.</MakeShell_82mmMortar_HE.description>
+	<!-- EN: Making 82mm HE mortar shells. -->
+	<MakeShell_82mmMortar_HE.jobString>Making 82mm HE mortar shells.</MakeShell_82mmMortar_HE.jobString>
+	
+	<!-- EN: make 82mm incendiary mortar shells x5 -->
+	<MakeShell_82mmMortar_Incendiary.label>make 82mm incendiary mortar shells x5</MakeShell_82mmMortar_Incendiary.label>
+	<!-- EN: Craft 5 82mm incendiary mortar shells. -->
+	<MakeShell_82mmMortar_Incendiary.description>Craft 5 82mm incendiary mortar shells.</MakeShell_82mmMortar_Incendiary.description>
+	<!-- EN: Making 82mm incendiary mortar shells. -->
+	<MakeShell_82mmMortar_Incendiary.jobString>Making 82mm incendiary mortar shells.</MakeShell_82mmMortar_Incendiary.jobString>
+	
+	<!-- EN: make 82mm EMP mortar shells x5 -->
+	<MakeShell_82mmMortar_EMP.label>make 82mm EMP mortar shells x5</MakeShell_82mmMortar_EMP.label>
+	<!-- EN: Craft 5 82mm EMP mortar shells. -->
+	<MakeShell_82mmMortar_EMP.description>Craft 5 82mm EMP mortar shells.</MakeShell_82mmMortar_EMP.description>
+	<!-- EN: Making 82mm EMP mortar shells. -->
+	<MakeShell_82mmMortar_EMP.jobString>Making 82mm EMP mortar shells.</MakeShell_82mmMortar_EMP.jobString>
+	
+	<!-- EN: make 82mm firefoam mortar shells x5 -->
+	<MakeShell_82mmMortar_Firefoam.label>make 82mm firefoam mortar shells x5</MakeShell_82mmMortar_Firefoam.label>
+	<!-- EN: Craft 5 82mm firefoam mortar shells. -->
+	<MakeShell_82mmMortar_Firefoam.description>Craft 5 82mm firefoam mortar shells.</MakeShell_82mmMortar_Firefoam.description>
+	<!-- EN: Making 82mm firefoam mortar shells. -->
+	<MakeShell_82mmMortar_Firefoam.jobString>Making 82mm firefoam mortar shells.</MakeShell_82mmMortar_Firefoam.jobString>
+	
+	<!-- EN: make 82mm smoke mortar shells x5 -->
+	<MakeShell_82mmMortar_Smoke.label>make 82mm smoke mortar shells x5</MakeShell_82mmMortar_Smoke.label>
+	<!-- EN: Craft 5 82mm smoke mortar shells. -->
+	<MakeShell_82mmMortar_Smoke.description>Craft 5 82mm smoke mortar shells.</MakeShell_82mmMortar_Smoke.description>
+	<!-- EN: Making 82mm smoke mortar shells. -->
+	<MakeShell_82mmMortar_Smoke.jobString>Making 82mm smoke mortar shells.</MakeShell_82mmMortar_Smoke.jobString>
+</LanguageData>

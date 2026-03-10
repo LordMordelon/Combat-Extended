@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Eltex Weaponry\Defs\Eltex Weaponry\EW_Ammo_CE.xml -->
+	<!-- EN: make eltex capacitor x500 -->
+	<MakeAmmo_EltexCap.label>make eltex capacitor x500</MakeAmmo_EltexCap.label>
+	<!-- EN: Craft 500 eltex capacitors. -->
+	<MakeAmmo_EltexCap.description>Craft 500 eltex capacitors.</MakeAmmo_EltexCap.description>
+	<!-- EN: Making eltex capacitors. -->
+	<MakeAmmo_EltexCap.jobString>Making eltex capacitors.</MakeAmmo_EltexCap.jobString>
+</LanguageData>

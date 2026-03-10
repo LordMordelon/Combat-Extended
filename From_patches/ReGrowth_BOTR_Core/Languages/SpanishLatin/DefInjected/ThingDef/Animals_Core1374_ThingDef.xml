@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\ReGrowth_BOTR_Core\Animals_Core1374.xml -->
+	<!-- EN: head -->
+	<RG_Neutrolope.tools.0.label>head</RG_Neutrolope.tools.0.label>
+	<!-- EN: left hoof -->
+	<RG_Neutrolope.tools.1.label>left hoof</RG_Neutrolope.tools.1.label>
+	<!-- EN: left hoof -->
+	<RG_Neutrolope.tools.2.label>left hoof</RG_Neutrolope.tools.2.label>
+	<!-- EN: right hoof -->
+	<RG_Neutrolope.tools.3.label>right hoof</RG_Neutrolope.tools.3.label>
+	<!-- EN: right hoof -->
+	<RG_Neutrolope.tools.4.label>right hoof</RG_Neutrolope.tools.4.label>
+	
+	<!-- EN: head -->
+	<RG_Rabbit.tools.1.label>head</RG_Rabbit.tools.1.label>
+	
+	<!-- EN: claws -->
+	<RG_KiwiBird.tools.0.label>claws</RG_KiwiBird.tools.0.label>
+</LanguageData>

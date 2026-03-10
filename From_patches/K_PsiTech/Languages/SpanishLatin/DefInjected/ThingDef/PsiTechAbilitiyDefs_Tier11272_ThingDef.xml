@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\K_PsiTech\PsiTechAbilitiyDefs_Tier11272.xml -->
+	<!-- EN: Combat precognition is a technique that allows a psion to predict an adversary's movement before it happens, making them better at evading and blocking attacks. -->
+	<PTCombatPrecognition.description>Combat precognition is a technique that allows a psion to predict an adversary's movement before it happens, making them better at evading and blocking attacks.</PTCombatPrecognition.description>
+	<!-- EN: Combat insight is a technique that allows a psion to more easily see an adversary's weaknesses, making them more effective at penetrating armor and dealing critical blows. -->
+	<PTCombatInsight.description>Combat insight is a technique that allows a psion to more easily see an adversary's weaknesses, making them more effective at penetrating armor and dealing critical blows.</PTCombatInsight.description>
+</LanguageData>

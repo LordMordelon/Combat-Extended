@@ -1,0 +1,45 @@
+<LanguageData>
+	<!-- Defs\Ammo\Rifle\50Beowulf.xml -->
+	
+	<!-- EN: make .50 Beowulf (FMJ) cartridge x500 -->
+	<MakeAmmo_50Beowulf_FMJ.label>make .50 Beowulf (FMJ) cartridge x500</MakeAmmo_50Beowulf_FMJ.label>
+	<!-- EN: Craft 500 .50 Beowulf (FMJ) cartridges. -->
+	<MakeAmmo_50Beowulf_FMJ.description>Craft 500 .50 Beowulf (FMJ) cartridges.</MakeAmmo_50Beowulf_FMJ.description>
+	<!-- EN: Making .50 Beowulf (FMJ) cartridges. -->
+	<MakeAmmo_50Beowulf_FMJ.jobString>Making .50 Beowulf (FMJ) cartridges.</MakeAmmo_50Beowulf_FMJ.jobString>
+	
+	<!-- EN: make .50 Beowulf (AP) cartridge x500 -->
+	<MakeAmmo_50Beowulf_AP.label>make .50 Beowulf (AP) cartridge x500</MakeAmmo_50Beowulf_AP.label>
+	<!-- EN: Craft 500 .50 Beowulf (AP) cartridges. -->
+	<MakeAmmo_50Beowulf_AP.description>Craft 500 .50 Beowulf (AP) cartridges.</MakeAmmo_50Beowulf_AP.description>
+	<!-- EN: Making .50 Beowulf (AP) cartridges. -->
+	<MakeAmmo_50Beowulf_AP.jobString>Making .50 Beowulf (AP) cartridges.</MakeAmmo_50Beowulf_AP.jobString>
+	
+	<!-- EN: make .50 Beowulf (HP) cartridge x500 -->
+	<MakeAmmo_50Beowulf_HP.label>make .50 Beowulf (HP) cartridge x500</MakeAmmo_50Beowulf_HP.label>
+	<!-- EN: Craft 500 .50 Beowulf (HP) cartridges. -->
+	<MakeAmmo_50Beowulf_HP.description>Craft 500 .50 Beowulf (HP) cartridges.</MakeAmmo_50Beowulf_HP.description>
+	<!-- EN: Making .50 Beowulf (HP) cartridges. -->
+	<MakeAmmo_50Beowulf_HP.jobString>Making .50 Beowulf (HP) cartridges.</MakeAmmo_50Beowulf_HP.jobString>
+	
+	<!-- EN: make .50 Beowulf (AP-I) cartridge x500 -->
+	<MakeAmmo_50Beowulf_Incendiary.label>make .50 Beowulf (AP-I) cartridge x500</MakeAmmo_50Beowulf_Incendiary.label>
+	<!-- EN: Craft 500 .50 Beowulf (AP-I) cartridges. -->
+	<MakeAmmo_50Beowulf_Incendiary.description>Craft 500 .50 Beowulf (AP-I) cartridges.</MakeAmmo_50Beowulf_Incendiary.description>
+	<!-- EN: Making .50 Beowulf (AP-I) cartridges. -->
+	<MakeAmmo_50Beowulf_Incendiary.jobString>Making .50 Beowulf (AP-I) cartridges.</MakeAmmo_50Beowulf_Incendiary.jobString>
+	
+	<!-- EN: make .50 Beowulf (AP-HE) cartridge x500 -->
+	<MakeAmmo_50Beowulf_HE.label>make .50 Beowulf (AP-HE) cartridge x500</MakeAmmo_50Beowulf_HE.label>
+	<!-- EN: Craft 500 .50 Beowulf (AP-HE) cartridges. -->
+	<MakeAmmo_50Beowulf_HE.description>Craft 500 .50 Beowulf (AP-HE) cartridges.</MakeAmmo_50Beowulf_HE.description>
+	<!-- EN: Making .50 Beowulf (AP-HE) cartridges. -->
+	<MakeAmmo_50Beowulf_HE.jobString>Making .50 Beowulf (AP-HE) cartridges.</MakeAmmo_50Beowulf_HE.jobString>
+	
+	<!-- EN: make .50 Beowulf (Sabot) cartridge x500 -->
+	<MakeAmmo_50Beowulf_Sabot.label>make .50 Beowulf (Sabot) cartridge x500</MakeAmmo_50Beowulf_Sabot.label>
+	<!-- EN: Craft 500 .50 Beowulf (Sabot) cartridges. -->
+	<MakeAmmo_50Beowulf_Sabot.description>Craft 500 .50 Beowulf (Sabot) cartridges.</MakeAmmo_50Beowulf_Sabot.description>
+	<!-- EN: Making .50 Beowulf (Sabot) cartridges. -->
+	<MakeAmmo_50Beowulf_Sabot.jobString>Making .50 Beowulf (Sabot) cartridges.</MakeAmmo_50Beowulf_Sabot.jobString>
+</LanguageData>

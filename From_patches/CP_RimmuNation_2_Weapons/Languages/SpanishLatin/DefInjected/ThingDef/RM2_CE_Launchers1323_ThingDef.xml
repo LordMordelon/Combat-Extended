@@ -1,0 +1,28 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\CP_RimmuNation_2_Weapons\RM2_CE_Launchers1323.xml -->
+	<!-- EN: stock -->
+	<RNGun_HK69A1_GrenadeLauncher.tools.0.label>stock</RNGun_HK69A1_GrenadeLauncher.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_HK69A1_GrenadeLauncher.tools.1.label>barrel</RNGun_HK69A1_GrenadeLauncher.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_HK69A1_GrenadeLauncher.tools.2.label>muzzle</RNGun_HK69A1_GrenadeLauncher.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_M79_GrenadeLauncher.tools.0.label>stock</RNGun_M79_GrenadeLauncher.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_M79_GrenadeLauncher.tools.1.label>barrel</RNGun_M79_GrenadeLauncher.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_M79_GrenadeLauncher.tools.2.label>muzzle</RNGun_M79_GrenadeLauncher.tools.2.label>
+	
+	<!-- EN: barrel -->
+	<RNGun_M72LAW_RocketLauncher.tools.0.label>barrel</RNGun_M72LAW_RocketLauncher.tools.0.label>
+	
+	<!-- EN: barrel -->
+	<RNGun_RPG7_RocketLauncher.tools.0.label>barrel</RNGun_RPG7_RocketLauncher.tools.0.label>
+	
+	<!-- EN: barrel -->
+	<RNGun_NLAW_RocketLauncher.tools.0.label>barrel</RNGun_NLAW_RocketLauncher.tools.0.label>
+	
+	<!-- EN: barrel -->
+	<RNGun_FGM148Javelin_RocketLauncher.tools.0.label>barrel</RNGun_FGM148Javelin_RocketLauncher.tools.0.label>
+</LanguageData>

@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Moyo light in the abyss\Defs\Moyo light in the abyss\Ammo\Ammo_Moyo.xml -->
+	<!-- EN: Low Density Plasma Bolt -->
+	<Bullet_MabyssalPlasmaPistol.label>Low Density Plasma Bolt</Bullet_MabyssalPlasmaPistol.label>
+	<!-- EN: Medium Density Plasma Bolt -->
+	<Bullet_MabyssalPlasmaMid.label>Medium Density Plasma Bolt</Bullet_MabyssalPlasmaMid.label>
+	<!-- EN: Accelerated Plasma Bolt -->
+	<Bullet_MabyssalPlasmaAccelerated.label>Accelerated Plasma Bolt</Bullet_MabyssalPlasmaAccelerated.label>
+</LanguageData>

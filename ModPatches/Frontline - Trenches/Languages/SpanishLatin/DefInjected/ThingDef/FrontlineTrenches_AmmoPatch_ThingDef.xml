@@ -1,0 +1,21 @@
+<LanguageData>
+	<!-- ModPatches\Frontline - Trenches\Defs\Frontline - Trenches\FrontlineTrenches_AmmoPatch.xml -->
+	<!-- EN: Mortar Round (HE) -->
+	<Ammo_TRMortarGrenade_HE.label>Mortar Round (HE)</Ammo_TRMortarGrenade_HE.label>
+	<!-- EN: Grenades for your Mortar. -->
+	<Ammo_TRMortarGrenade_HE.description>Grenades for your Mortar.</Ammo_TRMortarGrenade_HE.description>
+	<!-- EN: Mortar round (HE) -->
+	<Bullet_TRMortarGrenade_HE.label>Mortar round (HE)</Bullet_TRMortarGrenade_HE.label>
+	<!-- EN: Howitzer Shell (HE) -->
+	<Ammo_TRHowitzerShell_HE.label>Howitzer Shell (HE)</Ammo_TRHowitzerShell_HE.label>
+	<!-- EN: Shells for your Howitzer. -->
+	<Ammo_TRHowitzerShell_HE.description>Shells for your Howitzer.</Ammo_TRHowitzerShell_HE.description>
+	<!-- EN: Howitzer Shell (HE) -->
+	<Bullet_TRHowitzerShell_HE.label>Howitzer Shell (HE)</Bullet_TRHowitzerShell_HE.label>
+	<!-- EN: PAK Shell (HEAT) -->
+	<Ammo_TRPAKShell_HEAT.label>PAK Shell (HEAT)</Ammo_TRPAKShell_HEAT.label>
+	<!-- EN: Shell for your PAK. -->
+	<Ammo_TRPAKShell_HEAT.description>Shell for your PAK.</Ammo_TRPAKShell_HEAT.description>
+	<!-- EN: PAK Shell (HEAT) -->
+	<Bullet_TRPAKShell_HEAT.label>PAK Shell (HEAT)</Bullet_TRPAKShell_HEAT.label>
+</LanguageData>

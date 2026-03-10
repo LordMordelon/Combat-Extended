@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla Weapons Expanded - Non-Lethal\Defs\Vanilla Weapons Expanded - Non-Lethal\RubberBullet.xml -->
+	<!-- EN: make .43 rubber bullet cartridges x200 -->
+	<MakeAmmo_43cal_NL.label>make .43 rubber bullet cartridges x200</MakeAmmo_43cal_NL.label>
+	<!-- EN: Craft 200 .43 rubber bullet cartridges. -->
+	<MakeAmmo_43cal_NL.description>Craft 200 .43 rubber bullet cartridges.</MakeAmmo_43cal_NL.description>
+	<!-- EN: Making .43 rubber bullet cartridges. -->
+	<MakeAmmo_43cal_NL.jobString>Making .43 rubber bullet cartridges.</MakeAmmo_43cal_NL.jobString>
+</LanguageData>

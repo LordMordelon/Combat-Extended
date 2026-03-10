@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Defs\Ammo\Modded\Warhammer 40k\LasGun.xml -->
+	<!-- EN: make lasgun power pack x500 -->
+	<MakeAmmo_LasgunPowerPack.label>make lasgun power pack x500</MakeAmmo_LasgunPowerPack.label>
+	<!-- EN: Craft 500 lasgun batteries. -->
+	<MakeAmmo_LasgunPowerPack.description>Craft 500 lasgun batteries.</MakeAmmo_LasgunPowerPack.description>
+	<!-- EN: Making lasgun power pack. -->
+	<MakeAmmo_LasgunPowerPack.jobString>Making lasgun power pack.</MakeAmmo_LasgunPowerPack.jobString>
+</LanguageData>

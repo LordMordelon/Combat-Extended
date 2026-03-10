@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\com_distman_gastrap\Patch_AmmoCategories_Gas810.xml -->
+	<!-- EN: 81mm mortar shell (Toxic) -->
+	<Shell_GasToxic.label>81mm mortar shell (Toxic)</Shell_GasToxic.label>
+	<!-- EN: 81mm mortar shell (Rage) -->
+	<Shell_GasRage.label>81mm mortar shell (Rage)</Shell_GasRage.label>
+	<!-- EN: 81mm mortar shell (Tear gas) -->
+	<Shell_GasTear.label>81mm mortar shell (Tear gas)</Shell_GasTear.label>
+	<!-- EN: 81mm mortar shell (Sleep) -->
+	<Shell_GasSleep.label>81mm mortar shell (Sleep)</Shell_GasSleep.label>
+	<!-- EN: 81mm mortar shell (Fear) -->
+	<Shell_GasFear.label>81mm mortar shell (Fear)</Shell_GasFear.label>
+	<!-- EN: 81mm mortar shell (Acid) -->
+	<Shell_GasAcid.label>81mm mortar shell (Acid)</Shell_GasAcid.label>
+	<!-- EN: 81mm mortar shell (Nanomachines) -->
+	<Shell_MechVirus.label>81mm mortar shell (Nanomachines)</Shell_MechVirus.label>
+	<!-- EN: 81mm mortar shell (Insecticide) -->
+	<Shell_GasAntiBug.label>81mm mortar shell (Insecticide)</Shell_GasAntiBug.label>
+</LanguageData>

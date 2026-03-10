@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\Sergal\Defs\Sergal\Ammo_Sergal_LeadBall.xml -->
+	
+	<!-- EN: lead ball -->
+	<Ammo_Sergal_LeadBall.label>lead ball</Ammo_Sergal_LeadBall.label>
+	<!-- EN: Projectile traditionally fired from smooth-bore muskets and flintlock pistols. -->
+	<Ammo_Sergal_LeadBall.description>Projectile traditionally fired from smooth-bore muskets and flintlock pistols.</Ammo_Sergal_LeadBall.description>
+	
+	<!-- EN: lead ball -->
+	<Bullet_Sergal_LeadBall.label>lead ball</Bullet_Sergal_LeadBall.label>
+</LanguageData>

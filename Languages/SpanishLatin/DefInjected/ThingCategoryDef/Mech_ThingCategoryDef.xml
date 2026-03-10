@@ -1,0 +1,8 @@
+<LanguageData>
+	<!-- Defs\Ammo\Generic\Mech.xml -->
+	<!-- EN: mech charged ammo -->
+	<AmmoMechCharged.label>mech charged ammo</AmmoMechCharged.label>
+	
+	<!-- EN: mech shell -->
+	<AmmoMechShell.label>mech shell</AmmoMechShell.label>
+</LanguageData>

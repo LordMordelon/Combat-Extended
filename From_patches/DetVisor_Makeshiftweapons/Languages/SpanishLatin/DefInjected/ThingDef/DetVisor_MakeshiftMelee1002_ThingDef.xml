@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\DetVisor_Makeshiftweapons\DetVisor_MakeshiftMelee1002.xml -->
+	<!-- EN: head -->
+	<DV_MakeshiftHammer.tools.0.label>head</DV_MakeshiftHammer.tools.0.label>
+	<!-- EN: head -->
+	<DV_MakeshiftHammer.tools.1.label>head</DV_MakeshiftHammer.tools.1.label>
+	<!-- EN: head -->
+	<DV_MakeshiftHammer.tools.2.label>head</DV_MakeshiftHammer.tools.2.label>
+	
+	<!-- EN: handle -->
+	<DV_MakeshiftMace.tools.0.label>handle</DV_MakeshiftMace.tools.0.label>
+	<!-- EN: head -->
+	<DV_MakeshiftMace.tools.1.label>head</DV_MakeshiftMace.tools.1.label>
+	<!-- EN: head -->
+	<DV_MakeshiftMace.tools.2.label>head</DV_MakeshiftMace.tools.2.label>
+	<!-- EN: head -->
+	<DV_MakeshiftMace.tools.3.label>head</DV_MakeshiftMace.tools.3.label>
+	
+	<!-- EN: handle -->
+	<DV_MakeshiftScythe.tools.0.label>handle</DV_MakeshiftScythe.tools.0.label>
+	<!-- EN: edge -->
+	<DV_MakeshiftScythe.tools.1.label>edge</DV_MakeshiftScythe.tools.1.label>
+	<!-- EN: edge -->
+	<DV_MakeshiftScythe.tools.2.label>edge</DV_MakeshiftScythe.tools.2.label>
+	<!-- EN: edge -->
+	<DV_MakeshiftScythe.tools.3.label>edge</DV_MakeshiftScythe.tools.3.label>
+</LanguageData>

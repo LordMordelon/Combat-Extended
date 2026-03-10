@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\K4G Rimworld War 2\Defs\K4G Rimworld War 2\AmmoDefs\WW2_RocketAmmo.xml -->
+	<!-- EN: make Type 74mm HEAT rockets x5 -->
+	<MakeAmmo_K4GType74mm_HEAT.label>make Type 74mm HEAT rockets x5</MakeAmmo_K4GType74mm_HEAT.label>
+	<!-- EN: Craft 5 Type 74mm HEAT rockets. -->
+	<MakeAmmo_K4GType74mm_HEAT.description>Craft 5 Type 74mm HEAT rockets.</MakeAmmo_K4GType74mm_HEAT.description>
+	<!-- EN: Making Type 74mm HEAT rockets. -->
+	<MakeAmmo_K4GType74mm_HEAT.jobString>Making Type 74mm HEAT rockets.</MakeAmmo_K4GType74mm_HEAT.jobString>
+</LanguageData>

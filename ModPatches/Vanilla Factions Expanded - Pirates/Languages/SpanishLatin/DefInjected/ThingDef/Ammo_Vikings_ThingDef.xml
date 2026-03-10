@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla Factions Expanded - Pirates\Defs\Vanilla Factions Expanded - Pirates\Ammo\Ammo_Vikings.xml -->
+	<!-- EN: Crypto Cannon Fuel -->
+	<Ammo_CryptoCannon.label>Crypto Cannon Fuel</Ammo_CryptoCannon.label>
+	<!-- EN: Metal-cored projectiles wrapped in unstable crypto technology contained with an energy field. Capable of dealing both ballistic damage and causing serious hypothermia. -->
+	<Ammo_CryptoCannon.description>Metal-cored projectiles wrapped in unstable crypto technology contained with an energy field. Capable of dealing both ballistic damage and causing serious hypothermia.</Ammo_CryptoCannon.description>
+</LanguageData>

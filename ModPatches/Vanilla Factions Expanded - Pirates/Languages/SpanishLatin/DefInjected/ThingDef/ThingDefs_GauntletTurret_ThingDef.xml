@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla Factions Expanded - Pirates\Defs\Vanilla Factions Expanded - Pirates\Ammo\ThingDefs_GauntletTurret.xml -->
+	<!-- EN: gauntlet charge cannon -->
+	<VFEP_GauntletChargeCanon_CE.label>gauntlet charge cannon</VFEP_GauntletChargeCanon_CE.label>
+	<!-- EN: Ship mounted anti-armor charge cannon, often utilised in ship-to-ship combat in low atmosphere. -->
+	<VFEP_GauntletChargeCanon_CE.description>Ship mounted anti-armor charge cannon, often utilised in ship-to-ship combat in low atmosphere.</VFEP_GauntletChargeCanon_CE.description>
+	<!-- EN: ㅤ -->
+	<VFEP_GauntletChargeCanon_CE.verbs.0.label>ㅤ</VFEP_GauntletChargeCanon_CE.verbs.0.label>
+</LanguageData>

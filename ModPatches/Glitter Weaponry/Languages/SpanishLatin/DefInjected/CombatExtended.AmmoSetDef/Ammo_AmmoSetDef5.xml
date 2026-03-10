@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\Glitter Weaponry\Defs\Glitter Weaponry\Ammo.xml -->
+	<!-- EN: laser charge -->
+	<AmmoSet_Laser_Handcannon.label>laser charge</AmmoSet_Laser_Handcannon.label>
+	<!-- EN: laser charge -->
+	<AmmoSet_Laser_Carbine.label>laser charge</AmmoSet_Laser_Carbine.label>
+	<!-- EN: laser charge -->
+	<AmmoSet_Laser_Scatterer.label>laser charge</AmmoSet_Laser_Scatterer.label>
+	<!-- EN: laser charge -->
+	<AmmoSet_DestructorLaser.label>laser charge</AmmoSet_DestructorLaser.label>
+</LanguageData>

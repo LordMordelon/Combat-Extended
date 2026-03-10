@@ -1,0 +1,35 @@
+<LanguageData>
+	<!-- Defs\Ammo\Shell\57x348mmSR.xml -->
+	
+	<!-- EN: 57x348mmSR cartridge (AP) -->
+	<Ammo_57x348mmSR_AP.label>57x348mmSR cartridge (AP)</Ammo_57x348mmSR_AP.label>
+	<!-- EN: Large caliber cartridge used by autocannons. -->
+	<Ammo_57x348mmSR_AP.description>Large caliber cartridge used by autocannons.</Ammo_57x348mmSR_AP.description>
+	
+	<!-- EN: 57x348mmSR cartridge (HE) -->
+	<Ammo_57x348mmSR_HE.label>57x348mmSR cartridge (HE)</Ammo_57x348mmSR_HE.label>
+	<!-- EN: Large caliber cartridge used by autocannons. -->
+	<Ammo_57x348mmSR_HE.description>Large caliber cartridge used by autocannons.</Ammo_57x348mmSR_HE.description>
+	
+	<!-- EN: 57x348mmsr cartridge (HE Time-Fuzed) -->
+	<Ammo_57x348mmSR_HE_TFuzed.label>57x348mmsr cartridge (HE Time-Fuzed)</Ammo_57x348mmSR_HE_TFuzed.label>
+	<!-- EN: Large caliber cartridge used by autocannons. -->
+	<Ammo_57x348mmSR_HE_TFuzed.description>Large caliber cartridge used by autocannons.</Ammo_57x348mmSR_HE_TFuzed.description>
+	
+	<!-- EN: 57x348mmSR cartridge (Sabot) -->
+	<Ammo_57x348mmSR_Sabot.label>57x348mmSR cartridge (Sabot)</Ammo_57x348mmSR_Sabot.label>
+	<!-- EN: Large caliber cartridge used by autocannons. -->
+	<Ammo_57x348mmSR_Sabot.description>Large caliber cartridge used by autocannons.</Ammo_57x348mmSR_Sabot.description>
+	
+	<!-- EN: 57x348mmSR bullet (AP) -->
+	<Bullet_57x348mmSR_AP.label>57x348mmSR bullet (AP)</Bullet_57x348mmSR_AP.label>
+	
+	<!-- EN: 57x348mmSR bullet (HE) -->
+	<Bullet_57x348mmSR_HE.label>57x348mmSR bullet (HE)</Bullet_57x348mmSR_HE.label>
+	
+	<!-- EN: 57x348mmSR bullet (HE Time-Fuzed) -->
+	<Bullet_57x348mmSR_HE_TFuzed.label>57x348mmSR bullet (HE Time-Fuzed)</Bullet_57x348mmSR_HE_TFuzed.label>
+	
+	<!-- EN: 57x348mmSR bullet (Sabot) -->
+	<Bullet_57x348mmSR_Sabot.label>57x348mmSR bullet (Sabot)</Bullet_57x348mmSR_Sabot.label>
+</LanguageData>

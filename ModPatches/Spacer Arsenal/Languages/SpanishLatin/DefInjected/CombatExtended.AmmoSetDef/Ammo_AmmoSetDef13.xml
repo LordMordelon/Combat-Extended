@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\Spacer Arsenal\Defs\Spacer Arsenal\Ammo.xml -->
+	<!-- EN: 8mm Railgun -->
+	<AmmoSet_8mmRailgun_CoilgunLance.label>8mm Railgun</AmmoSet_8mmRailgun_CoilgunLance.label>
+	
+	<!-- EN: Hot Plasma Cell -->
+	<AmmoSet_PlasmaBlaster.label>Hot Plasma Cell</AmmoSet_PlasmaBlaster.label>
+	
+	<!-- EN: Photon charge -->
+	<AmmoSet_PhotonBlaster.label>Photon charge</AmmoSet_PhotonBlaster.label>
+</LanguageData>

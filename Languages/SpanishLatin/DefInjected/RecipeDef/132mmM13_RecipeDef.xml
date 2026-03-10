@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Defs\Ammo\Rocket\132mmM13.xml -->
+	<!-- EN: make 4x 132mm M13 (HE) rocket -->
+	<MakeAmmo_132mmM13_HE.label>make 4x 132mm M13 (HE) rocket</MakeAmmo_132mmM13_HE.label>
+	<!-- EN: Craft 4x 132mm M13 (HE) rockets. -->
+	<MakeAmmo_132mmM13_HE.description>Craft 4x 132mm M13 (HE) rockets.</MakeAmmo_132mmM13_HE.description>
+	<!-- EN: Making 132mm M13 (HE) rockets. -->
+	<MakeAmmo_132mmM13_HE.jobString>Making 132mm M13 (HE) rockets.</MakeAmmo_132mmM13_HE.jobString>
+</LanguageData>

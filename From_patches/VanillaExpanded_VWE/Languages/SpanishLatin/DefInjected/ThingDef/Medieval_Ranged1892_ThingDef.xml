@@ -1,0 +1,30 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VWE\Medieval_Ranged1892.xml -->
+	<!-- EN: grip -->
+	<VWE_Gun_Flintlock.tools.0.label>grip</VWE_Gun_Flintlock.tools.0.label>
+	<!-- EN: muzzle -->
+	<VWE_Gun_Flintlock.tools.1.label>muzzle</VWE_Gun_Flintlock.tools.1.label>
+	
+	<!-- EN: stock -->
+	<VWE_Gun_Musket.tools.0.label>stock</VWE_Gun_Musket.tools.0.label>
+	<!-- EN: barrel -->
+	<VWE_Gun_Musket.tools.1.label>barrel</VWE_Gun_Musket.tools.1.label>
+	<!-- EN: muzzle -->
+	<VWE_Gun_Musket.tools.2.label>muzzle</VWE_Gun_Musket.tools.2.label>
+	
+	<!-- EN: ㅤ -->
+	<VWE_Gun_Flintlock.verbs.0.label>ㅤ</VWE_Gun_Flintlock.verbs.0.label>
+	
+	<!-- EN: ㅤ -->
+	<VWE_Gun_Musket.verbs.0.label>ㅤ</VWE_Gun_Musket.verbs.0.label>
+	
+	<!-- EN: Throw knife -->
+	<VWE_Throwing_Knives.Properties.label>Throw knife</VWE_Throwing_Knives.Properties.label>
+	<!-- EN: handle -->
+	<VWE_Throwing_Knives.tools.0.label>handle</VWE_Throwing_Knives.tools.0.label>
+	<!-- EN: point -->
+	<VWE_Throwing_Knives.tools.1.label>point</VWE_Throwing_Knives.tools.1.label>
+	
+	<!-- EN: handle -->
+	<VWE_Tool_Whip.tools.0.label>handle</VWE_Tool_Whip.tools.0.label>
+</LanguageData>

@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\Rimsenal Enhanced Vanilla\Defs\Rimsenal Enhanced Vanilla\Ammo_EnhancedVanilla_Lasers.xml -->
+	<!-- EN: laser beam -->
+	<Bullet_Laser_RSBeamCarbine.label>laser beam</Bullet_Laser_RSBeamCarbine.label>
+	<!-- EN: laser beam -->
+	<Bullet_Laser_RSBeamPistol.label>laser beam</Bullet_Laser_RSBeamPistol.label>
+	<!-- EN: laser beam -->
+	<Bullet_Laser_RSBeamShotgun.label>laser beam</Bullet_Laser_RSBeamShotgun.label>
+	<!-- EN: laser beam -->
+	<Bullet_Laser_RSBeamSniper.label>laser beam</Bullet_Laser_RSBeamSniper.label>
+</LanguageData>

@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Call of Cthulhu - Cosmic Horrors\Defs\Call of Cthulhu - Cosmic Horrors\Ammo.xml -->
+	<!-- EN: make MiGo Casting Weapon cartridge x50 -->
+	<MakeAmmo_MiGoCastingWeapon.label>make MiGo Casting Weapon cartridge x50</MakeAmmo_MiGoCastingWeapon.label>
+	<!-- EN: Craft 50 MiGo Casting Weapon cartridges. -->
+	<MakeAmmo_MiGoCastingWeapon.description>Craft 50 MiGo Casting Weapon cartridges.</MakeAmmo_MiGoCastingWeapon.description>
+	<!-- EN: Making MiGo Casting Weapon cartridge. -->
+	<MakeAmmo_MiGoCastingWeapon.jobString>Making MiGo Casting Weapon cartridge.</MakeAmmo_MiGoCastingWeapon.jobString>
+</LanguageData>

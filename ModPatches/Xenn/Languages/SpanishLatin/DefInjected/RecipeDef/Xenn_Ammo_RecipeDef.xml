@@ -1,0 +1,24 @@
+<LanguageData>
+	<!-- ModPatches\Xenn\Defs\Xenn\ThingDefs_Misc\Xenn_Ammo.xml -->
+	
+	<!-- EN: make Xenn Plasma Cells x50 -->
+	<MakeAmmo_Xenn_Hot.label>make Xenn Plasma Cells x50</MakeAmmo_Xenn_Hot.label>
+	<!-- EN: Craft 50 Xenn plasma cells. -->
+	<MakeAmmo_Xenn_Hot.description>Craft 50 Xenn plasma cells.</MakeAmmo_Xenn_Hot.description>
+	<!-- EN: Making Xenn Plasma cells. -->
+	<MakeAmmo_Xenn_Hot.jobString>Making Xenn Plasma cells.</MakeAmmo_Xenn_Hot.jobString>
+	
+	<!-- EN: make Xenn Cryo Cell x50 -->
+	<MakeAmmo_Xenn_Cold.label>make Xenn Cryo Cell x50</MakeAmmo_Xenn_Cold.label>
+	<!-- EN: Craft 50 Xenn cryo cells. -->
+	<MakeAmmo_Xenn_Cold.description>Craft 50 Xenn cryo cells.</MakeAmmo_Xenn_Cold.description>
+	<!-- EN: Making Xenn cells. -->
+	<MakeAmmo_Xenn_Cold.jobString>Making Xenn cells.</MakeAmmo_Xenn_Cold.jobString>
+	
+	<!-- EN: make Xenn foam cell x50 -->
+	<MakeAmmo_Xenn_Foam.label>make Xenn foam cell x50</MakeAmmo_Xenn_Foam.label>
+	<!-- EN: Craft 50 Xenn foam cells. -->
+	<MakeAmmo_Xenn_Foam.description>Craft 50 Xenn foam cells.</MakeAmmo_Xenn_Foam.description>
+	<!-- EN: Making Xenn foam cells. -->
+	<MakeAmmo_Xenn_Foam.jobString>Making Xenn foam cells.</MakeAmmo_Xenn_Foam.jobString>
+</LanguageData>

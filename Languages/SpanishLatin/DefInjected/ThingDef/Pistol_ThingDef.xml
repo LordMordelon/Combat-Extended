@@ -1,0 +1,18 @@
+<LanguageData>
+	<!-- Defs\Ammo\Generic\Pistol.xml -->
+	
+	<!-- EN: pistol cartridge (FMJ) -->
+	<Ammo_Pistol_FMJ.label>pistol cartridge (FMJ)</Ammo_Pistol_FMJ.label>
+	<!-- EN: Common pistol cartridge used by a variety of handguns and SMGs. -->
+	<Ammo_Pistol_FMJ.description>Common pistol cartridge used by a variety of handguns and SMGs.</Ammo_Pistol_FMJ.description>
+	
+	<!-- EN: pistol cartridge (AP) -->
+	<Ammo_Pistol_AP.label>pistol cartridge (AP)</Ammo_Pistol_AP.label>
+	<!-- EN: Common pistol cartridge used by a variety of handguns and SMGs. -->
+	<Ammo_Pistol_AP.description>Common pistol cartridge used by a variety of handguns and SMGs.</Ammo_Pistol_AP.description>
+	
+	<!-- EN: pistol cartridge (HP) -->
+	<Ammo_Pistol_HP.label>pistol cartridge (HP)</Ammo_Pistol_HP.label>
+	<!-- EN: Common pistol cartridge used by a variety of handguns and SMGs. -->
+	<Ammo_Pistol_HP.description>Common pistol cartridge used by a variety of handguns and SMGs.</Ammo_Pistol_HP.description>
+</LanguageData>

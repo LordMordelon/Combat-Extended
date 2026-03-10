@@ -1,0 +1,56 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\sarg_alphamechs\Weapons285.xml -->
+	<!-- EN: barrel -->
+	<AM_Gun_HellsphereOrbital.tools.0.label>barrel</AM_Gun_HellsphereOrbital.tools.0.label>
+	
+	<!-- EN: stock -->
+	<AM_Gun_CoilLance.tools.0.label>stock</AM_Gun_CoilLance.tools.0.label>
+	<!-- EN: barrel -->
+	<AM_Gun_CoilLance.tools.1.label>barrel</AM_Gun_CoilLance.tools.1.label>
+	<!-- EN: muzzle -->
+	<AM_Gun_CoilLance.tools.2.label>muzzle</AM_Gun_CoilLance.tools.2.label>
+	
+	<!-- EN: barrel -->
+	<AM_Gun_SuperHeavyChargeBlaster.tools.0.label>barrel</AM_Gun_SuperHeavyChargeBlaster.tools.0.label>
+	
+	<!-- EN: barrel -->
+	<AM_Gun_AcidSpewer.tools.0.label>barrel</AM_Gun_AcidSpewer.tools.0.label>
+	
+	<!-- EN: stock -->
+	<AM_Gun_HeavyLaser.tools.0.label>stock</AM_Gun_HeavyLaser.tools.0.label>
+	<!-- EN: barrel -->
+	<AM_Gun_HeavyLaser.tools.1.label>barrel</AM_Gun_HeavyLaser.tools.1.label>
+	<!-- EN: muzzle -->
+	<AM_Gun_HeavyLaser.tools.2.label>muzzle</AM_Gun_HeavyLaser.tools.2.label>
+	
+	<!-- EN: barrel -->
+	<AM_SiegemelterTurret.tools.0.label>barrel</AM_SiegemelterTurret.tools.0.label>
+	
+	<!-- EN: stock -->
+	<AM_TeslaGun.tools.0.label>stock</AM_TeslaGun.tools.0.label>
+	<!-- EN: barrel -->
+	<AM_TeslaGun.tools.1.label>barrel</AM_TeslaGun.tools.1.label>
+	<!-- EN: muzzle -->
+	<AM_TeslaGun.tools.2.label>muzzle</AM_TeslaGun.tools.2.label>
+	
+	<!-- EN: barrel -->
+	<AM_StarfireTurret.tools.0.label>barrel</AM_StarfireTurret.tools.0.label>
+	
+	<!-- EN: barrel -->
+	<AM_BeamGraserCannon.tools.0.label>barrel</AM_BeamGraserCannon.tools.0.label>
+	
+	<!-- EN: barrel -->
+	<AM_MechanoidGunRotaryNeedle.tools.0.label>barrel</AM_MechanoidGunRotaryNeedle.tools.0.label>
+	
+	<!-- EN: stock -->
+	<AM_Gun_MiniNeedle.tools.0.label>stock</AM_Gun_MiniNeedle.tools.0.label>
+	<!-- EN: barrel -->
+	<AM_Gun_MiniNeedle.tools.1.label>barrel</AM_Gun_MiniNeedle.tools.1.label>
+	<!-- EN: muzzle -->
+	<AM_Gun_MiniNeedle.tools.2.label>muzzle</AM_Gun_MiniNeedle.tools.2.label>
+	
+	<!-- EN: barrel -->
+	<AM_MechanoidMortar.tools.0.label>barrel</AM_MechanoidMortar.tools.0.label>
+	<!-- EN: muzzle -->
+	<AM_MechanoidMortar.tools.1.label>muzzle</AM_MechanoidMortar.tools.1.label>
+</LanguageData>

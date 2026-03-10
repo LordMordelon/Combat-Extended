@@ -1,0 +1,26 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Declinedkilr_RadWorld_copy\ThingDefs_Races1360.xml -->
+	<!-- EN: left claw -->
+	<RW_IrradiatedBear.tools.0.label>left claw</RW_IrradiatedBear.tools.0.label>
+	<!-- EN: right claw -->
+	<RW_IrradiatedBear.tools.1.label>right claw</RW_IrradiatedBear.tools.1.label>
+	<!-- EN: head -->
+	<RW_IrradiatedBear.tools.3.label>head</RW_IrradiatedBear.tools.3.label>
+	
+	<!-- EN: head -->
+	<RW_IrradiatedMegaspider.tools.2.label>head</RW_IrradiatedMegaspider.tools.2.label>
+	
+	<!-- EN: left claw -->
+	<RW_IrradiatedRat.tools.0.label>left claw</RW_IrradiatedRat.tools.0.label>
+	<!-- EN: right claw -->
+	<RW_IrradiatedRat.tools.1.label>right claw</RW_IrradiatedRat.tools.1.label>
+	<!-- EN: head -->
+	<RW_IrradiatedRat.tools.3.label>head</RW_IrradiatedRat.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<RW_Mole.tools.0.label>left claw</RW_Mole.tools.0.label>
+	<!-- EN: right claw -->
+	<RW_Mole.tools.1.label>right claw</RW_Mole.tools.1.label>
+	<!-- EN: head -->
+	<RW_Mole.tools.3.label>head</RW_Mole.tools.3.label>
+</LanguageData>

@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- ModPatches\PsyBlasters\Defs\PsyBlasters\PistolAmmo.xml -->
+	
+	<!-- EN: 6x18mm Psychic -->
+	<Ammo_6x18mmPsychic.label>6x18mm Psychic</Ammo_6x18mmPsychic.label>
+	<!-- EN: Charged shot ammo used by psychically enhanced advanced SMG designs. -->
+	<Ammo_6x18mmPsychic.description>Charged shot ammo used by psychically enhanced advanced SMG designs.</Ammo_6x18mmPsychic.description>
+	
+	<!-- EN: 6x18mm Psychic (Focus) -->
+	<Ammo_6x18mmPsychic_Focus.label>6x18mm Psychic (Focus)</Ammo_6x18mmPsychic_Focus.label>
+	<!-- EN: Charged shot ammo used by psychically enhanced advanced SMG designs. -->
+	<Ammo_6x18mmPsychic_Focus.description>Charged shot ammo used by psychically enhanced advanced SMG designs.</Ammo_6x18mmPsychic_Focus.description>
+	
+	<!-- EN: 6x18mm Psychic (Neuro) -->
+	<Ammo_6x18mmPsychic_Neuro.label>6x18mm Psychic (Neuro)</Ammo_6x18mmPsychic_Neuro.label>
+	<!-- EN: Charged shot ammo used by psychically enhanced advanced SMG designs. -->
+	<Ammo_6x18mmPsychic_Neuro.description>Charged shot ammo used by psychically enhanced advanced SMG designs.</Ammo_6x18mmPsychic_Neuro.description>
+	
+	<!-- EN: 6x18mm Psychic bullet -->
+	<Bullet_6x18mmPsychic.label>6x18mm Psychic bullet</Bullet_6x18mmPsychic.label>
+	
+	<!-- EN: 6x18mm Psychic bullet (Focus) -->
+	<Bullet_6x18mmPsychic_Focus.label>6x18mm Psychic bullet (Focus)</Bullet_6x18mmPsychic_Focus.label>
+	
+	<!-- EN: 6x18mm Psychic bullet (Neuro) -->
+	<Bullet_6x18mmPsychic_Neuro.label>6x18mm Psychic bullet (Neuro)</Bullet_6x18mmPsychic_Neuro.label>
+</LanguageData>

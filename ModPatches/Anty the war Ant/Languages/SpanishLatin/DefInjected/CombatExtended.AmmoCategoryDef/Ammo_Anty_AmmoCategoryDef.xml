@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- ModPatches\Anty the war Ant\Defs\Anty the war Ant\Ammo_Anty.xml -->
+	<!-- EN: Acid -->
+	<AntyAcid.label>Acid</AntyAcid.label>
+	<!-- EN: Anty Bioacid. -->
+	<AntyAcid.description>Anty Bioacid.</AntyAcid.description>
+	<!-- EN: Glue -->
+	<AntyGlue.label>Glue</AntyGlue.label>
+	<!-- EN: Anty Glue. -->
+	<AntyGlue.description>Anty Glue.</AntyGlue.description>
+	<!-- EN: Acid -->
+	<AntyBolt.label>Acid</AntyBolt.label>
+	<!-- EN: Acid Bolt. -->
+	<AntyBolt.description>Acid Bolt.</AntyBolt.description>
+	<!-- EN: Acid -->
+	<AntyRedAcid.label>Acid</AntyRedAcid.label>
+	<!-- EN: Red Acid. -->
+	<AntyRedAcid.description>Red Acid.</AntyRedAcid.description>
+</LanguageData>

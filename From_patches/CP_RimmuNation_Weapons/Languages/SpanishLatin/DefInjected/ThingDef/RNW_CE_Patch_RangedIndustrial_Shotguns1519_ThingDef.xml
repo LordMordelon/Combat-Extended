@@ -1,0 +1,128 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\CP_RimmuNation_Weapons\RNW_CE_Patch_RangedIndustrial_Shotguns1519.xml -->
+	<!-- EN: stock -->
+	<RNGun_AA12S.tools.0.label>stock</RNGun_AA12S.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_AA12S.tools.1.label>barrel</RNGun_AA12S.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_AA12S.tools.2.label>muzzle</RNGun_AA12S.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_KS23S.tools.0.label>stock</RNGun_KS23S.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_KS23S.tools.1.label>barrel</RNGun_KS23S.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_KS23S.tools.2.label>muzzle</RNGun_KS23S.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_KSGS.tools.0.label>stock</RNGun_KSGS.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_KSGS.tools.1.label>barrel</RNGun_KSGS.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_KSGS.tools.2.label>muzzle</RNGun_KSGS.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_M1014S.tools.0.label>stock</RNGun_M1014S.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_M1014S.tools.1.label>barrel</RNGun_M1014S.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_M1014S.tools.2.label>muzzle</RNGun_M1014S.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_Mossberg500S.tools.0.label>stock</RNGun_Mossberg500S.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_Mossberg500S.tools.1.label>barrel</RNGun_Mossberg500S.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_Mossberg500S.tools.2.label>muzzle</RNGun_Mossberg500S.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_Mossberg500TacticalS.tools.0.label>stock</RNGun_Mossberg500TacticalS.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_Mossberg500TacticalS.tools.1.label>barrel</RNGun_Mossberg500TacticalS.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_Mossberg500TacticalS.tools.2.label>muzzle</RNGun_Mossberg500TacticalS.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_Remington870MagnumS.tools.0.label>stock</RNGun_Remington870MagnumS.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_Remington870MagnumS.tools.1.label>barrel</RNGun_Remington870MagnumS.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_Remington870MagnumS.tools.2.label>muzzle</RNGun_Remington870MagnumS.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_Remington870TacticalS.tools.0.label>stock</RNGun_Remington870TacticalS.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_Remington870TacticalS.tools.1.label>barrel</RNGun_Remington870TacticalS.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_Remington870TacticalS.tools.2.label>muzzle</RNGun_Remington870TacticalS.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_Saiga12S.tools.0.label>stock</RNGun_Saiga12S.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_Saiga12S.tools.1.label>barrel</RNGun_Saiga12S.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_Saiga12S.tools.2.label>muzzle</RNGun_Saiga12S.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_SPAS12S.tools.0.label>stock</RNGun_SPAS12S.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_SPAS12S.tools.1.label>barrel</RNGun_SPAS12S.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_SPAS12S.tools.2.label>muzzle</RNGun_SPAS12S.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_Supernova.tools.0.label>stock</RNGun_Supernova.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_Supernova.tools.1.label>barrel</RNGun_Supernova.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_Supernova.tools.2.label>muzzle</RNGun_Supernova.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_USAS12S.tools.0.label>stock</RNGun_USAS12S.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_USAS12S.tools.1.label>barrel</RNGun_USAS12S.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_USAS12S.tools.2.label>muzzle</RNGun_USAS12S.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_UTS15S.tools.0.label>stock</RNGun_UTS15S.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_UTS15S.tools.1.label>barrel</RNGun_UTS15S.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_UTS15S.tools.2.label>muzzle</RNGun_UTS15S.tools.2.label>
+	
+	<!-- EN: grip -->
+	<RNGun_Model1887LA.tools.0.label>grip</RNGun_Model1887LA.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_Model1887LA.tools.1.label>barrel</RNGun_Model1887LA.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_Model1887LA.tools.2.label>muzzle</RNGun_Model1887LA.tools.2.label>
+	
+	<!-- EN: grip -->
+	<RNGun_Model1897S.tools.0.label>grip</RNGun_Model1897S.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_Model1897S.tools.1.label>barrel</RNGun_Model1897S.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_Model1897S.tools.2.label>muzzle</RNGun_Model1897S.tools.2.label>
+	
+	<!-- EN: grip -->
+	<RNGun_Remington870S.tools.0.label>grip</RNGun_Remington870S.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_Remington870S.tools.1.label>barrel</RNGun_Remington870S.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_Remington870S.tools.2.label>muzzle</RNGun_Remington870S.tools.2.label>
+	
+	<!-- EN: grip -->
+	<RNGun_SawedOff.tools.0.label>grip</RNGun_SawedOff.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_SawedOff.tools.1.label>barrel</RNGun_SawedOff.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_SawedOff.tools.2.label>muzzle</RNGun_SawedOff.tools.2.label>
+	
+	<!-- EN: grip -->
+	<RNGun_SuperShorty.tools.0.label>grip</RNGun_SuperShorty.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_SuperShorty.tools.1.label>barrel</RNGun_SuperShorty.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_SuperShorty.tools.2.label>muzzle</RNGun_SuperShorty.tools.2.label>
+</LanguageData>

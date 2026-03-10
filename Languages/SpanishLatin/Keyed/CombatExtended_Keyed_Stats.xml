@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+		<!-- Partial armor statworker -->
+	<!-- EN: General value: -->
+	<CE_StatWorker_ArmorGeneral>General value:</CE_StatWorker_ArmorGeneral>
+	<!-- EN: Special value for bodyparts: -->
+	<CE_StatWorker_ArmorSpecific>Special value for bodyparts:</CE_StatWorker_ArmorSpecific>
+	<!-- EN: Carried bulk: -->
+	<CE_BulkEffect>Carried bulk:</CE_BulkEffect>
+	<!-- EN: Carried weight: -->
+	<CE_MassEffect>Carried weight:</CE_MassEffect>
+	<!-- EN: Additional material toughness multiplier: -->
+	<CE_StatsReport_WeaponToughness_StuffEffect>Additional material toughness multiplier:</CE_StatsReport_WeaponToughness_StuffEffect>
+	<!-- EN: Wielder skill effect: -->
+	<CE_StatsReport_WeaponToughness_HolderEffect>Wielder skill effect:</CE_StatsReport_WeaponToughness_HolderEffect>
+	<!-- EN: Long range radio -->
+	<CE_Long_Range_Radio>Long range radio</CE_Long_Range_Radio>
+	<!-- EN: Picks the lowest value of available -->
+	<CE_StatPart_MinimaExplanation>Picks the lowest value of available</CE_StatPart_MinimaExplanation>
+	<!-- EN: Picks the highest value of available -->
+	<CE_StatPart_MaximaExplanation>Picks the highest value of available</CE_StatPart_MaximaExplanation>
+</LanguageData>

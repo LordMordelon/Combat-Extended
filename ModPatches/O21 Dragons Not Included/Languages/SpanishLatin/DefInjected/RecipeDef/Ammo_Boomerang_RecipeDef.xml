@@ -1,0 +1,10 @@
+<LanguageData>
+	<!-- ModPatches\O21 Dragons Not Included\Defs\O21 Dragons Not Included\Ammo_Boomerang.xml -->
+	
+	<!-- EN: make boomerang x5 -->
+	<MakeAmmo_O21_DNI_Boomerang.label>make boomerang x5</MakeAmmo_O21_DNI_Boomerang.label>
+	<!-- EN: Craft 5 boomerangs. -->
+	<MakeAmmo_O21_DNI_Boomerang.description>Craft 5 boomerangs.</MakeAmmo_O21_DNI_Boomerang.description>
+	<!-- EN: Making boomerangs. -->
+	<MakeAmmo_O21_DNI_Boomerang.jobString>Making boomerangs.</MakeAmmo_O21_DNI_Boomerang.jobString>
+</LanguageData>

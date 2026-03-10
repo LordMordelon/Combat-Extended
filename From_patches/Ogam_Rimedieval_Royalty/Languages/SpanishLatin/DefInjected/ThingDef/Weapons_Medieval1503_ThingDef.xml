@@ -1,0 +1,14 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Ogam_Rimedieval_Royalty\Weapons_Medieval1503.xml -->
+	<!-- EN: handle -->
+	<BZT_MeleeWeapon_VarangianAxe.tools.0.label>handle</BZT_MeleeWeapon_VarangianAxe.tools.0.label>
+	<!-- EN: edge -->
+	<BZT_MeleeWeapon_VarangianAxe.tools.1.label>edge</BZT_MeleeWeapon_VarangianAxe.tools.1.label>
+	
+	<!-- EN: handle -->
+	<BZT_MeleeWeapon_ImperialSabre.tools.0.label>handle</BZT_MeleeWeapon_ImperialSabre.tools.0.label>
+	<!-- EN: point -->
+	<BZT_MeleeWeapon_ImperialSabre.tools.1.label>point</BZT_MeleeWeapon_ImperialSabre.tools.1.label>
+	<!-- EN: edge -->
+	<BZT_MeleeWeapon_ImperialSabre.tools.2.label>edge</BZT_MeleeWeapon_ImperialSabre.tools.2.label>
+</LanguageData>

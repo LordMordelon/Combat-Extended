@@ -1,0 +1,30 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\DevDesigner_Blood_finch_blood\Blood_Weapons661.xml -->
+	<!-- EN: handle -->
+	<DevDesigner_Blood_MeleeWeapon_BloodLongsword.tools.0.label>handle</DevDesigner_Blood_MeleeWeapon_BloodLongsword.tools.0.label>
+	<!-- EN: point -->
+	<DevDesigner_Blood_MeleeWeapon_BloodLongsword.tools.1.label>point</DevDesigner_Blood_MeleeWeapon_BloodLongsword.tools.1.label>
+	<!-- EN: edge -->
+	<DevDesigner_Blood_MeleeWeapon_BloodLongsword.tools.2.label>edge</DevDesigner_Blood_MeleeWeapon_BloodLongsword.tools.2.label>
+	
+	<!-- EN: handle -->
+	<DevDesigner_Blood_MeleeWeapon_BloodExecutionerGreatsword.tools.0.label>handle</DevDesigner_Blood_MeleeWeapon_BloodExecutionerGreatsword.tools.0.label>
+	<!-- EN: point -->
+	<DevDesigner_Blood_MeleeWeapon_BloodExecutionerGreatsword.tools.1.label>point</DevDesigner_Blood_MeleeWeapon_BloodExecutionerGreatsword.tools.1.label>
+	<!-- EN: edge -->
+	<DevDesigner_Blood_MeleeWeapon_BloodExecutionerGreatsword.tools.2.label>edge</DevDesigner_Blood_MeleeWeapon_BloodExecutionerGreatsword.tools.2.label>
+	
+	<!-- EN: handle -->
+	<DevDesigner_Blood_MeleeWeapon_BloodSword.tools.0.label>handle</DevDesigner_Blood_MeleeWeapon_BloodSword.tools.0.label>
+	<!-- EN: point -->
+	<DevDesigner_Blood_MeleeWeapon_BloodSword.tools.1.label>point</DevDesigner_Blood_MeleeWeapon_BloodSword.tools.1.label>
+	<!-- EN: edge -->
+	<DevDesigner_Blood_MeleeWeapon_BloodSword.tools.2.label>edge</DevDesigner_Blood_MeleeWeapon_BloodSword.tools.2.label>
+	
+	<!-- EN: handle -->
+	<DevDesigner_Blood_MeleeWeapon_VoidLongsword.tools.0.label>handle</DevDesigner_Blood_MeleeWeapon_VoidLongsword.tools.0.label>
+	<!-- EN: point -->
+	<DevDesigner_Blood_MeleeWeapon_VoidLongsword.tools.1.label>point</DevDesigner_Blood_MeleeWeapon_VoidLongsword.tools.1.label>
+	<!-- EN: edge -->
+	<DevDesigner_Blood_MeleeWeapon_VoidLongsword.tools.2.label>edge</DevDesigner_Blood_MeleeWeapon_VoidLongsword.tools.2.label>
+</LanguageData>

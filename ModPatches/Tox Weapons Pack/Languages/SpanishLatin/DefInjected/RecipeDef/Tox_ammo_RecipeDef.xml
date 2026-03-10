@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Tox Weapons Pack\Defs\Tox Weapons Pack\Tox_ammo.xml -->
+	<!-- EN: make mini-fletcher dart cartridge x50 -->
+	<MakeAmmo_410Bore_Fletcher_Tox.label>make mini-fletcher dart cartridge x50</MakeAmmo_410Bore_Fletcher_Tox.label>
+	<!-- EN: Craft 200 mini-fletcher dart cartridges. -->
+	<MakeAmmo_410Bore_Fletcher_Tox.description>Craft 200 mini-fletcher dart cartridges.</MakeAmmo_410Bore_Fletcher_Tox.description>
+	<!-- EN: Making mini-fletcher dart cartridges. -->
+	<MakeAmmo_410Bore_Fletcher_Tox.jobString>Making mini-fletcher dart cartridges.</MakeAmmo_410Bore_Fletcher_Tox.jobString>
+</LanguageData>

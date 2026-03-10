@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Rayguns\Raygun3GKZ.xml -->
+	<!-- EN: make GKZ-45 cartridge x500 -->
+	<MakeAmmo_Raygun_three_GKZ.label>make GKZ-45 cartridge x500</MakeAmmo_Raygun_three_GKZ.label>
+	<!-- EN: Craft 500 GKZ-45 cartridges. -->
+	<MakeAmmo_Raygun_three_GKZ.description>Craft 500 GKZ-45 cartridges.</MakeAmmo_Raygun_three_GKZ.description>
+	<!-- EN: Making GKZ-45 cartridges. -->
+	<MakeAmmo_Raygun_three_GKZ.jobString>Making GKZ-45 cartridges.</MakeAmmo_Raygun_three_GKZ.jobString>
+</LanguageData>

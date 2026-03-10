@@ -1,0 +1,10 @@
+<LanguageData>
+	<!-- ModPatches\CP The DOOM Kit - Classic\Defs\CP The DOOM Kit - Classic\CP_DOOM_KitClassic_CE_Patch_Ammo_ClassicRocket.xml -->
+	
+	<!-- EN: make UAC Rocket Mk I (HEAT) rockets x5 -->
+	<MakeAmmo_DoomClassicRocket_HEAT.label>make UAC Rocket Mk I (HEAT) rockets x5</MakeAmmo_DoomClassicRocket_HEAT.label>
+	<!-- EN: Craft 5 UAC Rocket Mk I (HEAT) rockets. -->
+	<MakeAmmo_DoomClassicRocket_HEAT.description>Craft 5 UAC Rocket Mk I (HEAT) rockets.</MakeAmmo_DoomClassicRocket_HEAT.description>
+	<!-- EN: Making UAC Rocket Mk I (HEAT) rockets. -->
+	<MakeAmmo_DoomClassicRocket_HEAT.jobString>Making UAC Rocket Mk I (HEAT) rockets.</MakeAmmo_DoomClassicRocket_HEAT.jobString>
+</LanguageData>

@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- ModPatches\Starship Troopers Arachnids\Defs\Starship Troopers Arachnids\Projectiles_Bugs.xml -->
+	<!-- EN: flame stream -->
+	<Bullet_TankerInfernoCannon.label>flame stream</Bullet_TankerInfernoCannon.label>
+	<!-- EN: flame stream -->
+	<Bullet_FireFlyInfernoCannon.label>flame stream</Bullet_FireFlyInfernoCannon.label>
+	<!-- EN: Bombardier Suicide -->
+	<Bullet_BombardierBugTrigger.label>Bombardier Suicide</Bullet_BombardierBugTrigger.label>
+	<!-- EN: plasma burst -->
+	<Bullet_PlasmaGrenadierBugPlasma.label>plasma burst</Bullet_PlasmaGrenadierBugPlasma.label>
+	<!-- EN: plasma burst -->
+	<Bullet_ScorpionBugPlasma.label>plasma burst</Bullet_ScorpionBugPlasma.label>
+	<!-- EN: plasma burst -->
+	<Bullet_PlasmaBugPlasma.label>plasma burst</Bullet_PlasmaBugPlasma.label>
+</LanguageData>

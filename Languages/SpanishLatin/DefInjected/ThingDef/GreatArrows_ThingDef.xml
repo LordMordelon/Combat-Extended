@@ -1,0 +1,43 @@
+<LanguageData>
+	<!-- Defs\Ammo\Neolithic\GreatArrows.xml -->
+	
+	<!-- EN: great arrow (stone) -->
+	<Ammo_GreatArrow_Stone.label>great arrow (stone)</Ammo_GreatArrow_Stone.label>
+	<!-- EN: Heavy arrow designed to be fired from a great bow. -->
+	<Ammo_GreatArrow_Stone.description>Heavy arrow designed to be fired from a great bow.</Ammo_GreatArrow_Stone.description>
+	
+	<!-- EN: great arrow (steel) -->
+	<Ammo_GreatArrow_Steel.label>great arrow (steel)</Ammo_GreatArrow_Steel.label>
+	<!-- EN: Heavy arrow designed to be fired from a great bow. -->
+	<Ammo_GreatArrow_Steel.description>Heavy arrow designed to be fired from a great bow.</Ammo_GreatArrow_Steel.description>
+	
+	<!-- EN: great arrow (plasteel) -->
+	<Ammo_GreatArrow_Plasteel.label>great arrow (plasteel)</Ammo_GreatArrow_Plasteel.label>
+	<!-- EN: Heavy arrow designed to be fired from a great bow. -->
+	<Ammo_GreatArrow_Plasteel.description>Heavy arrow designed to be fired from a great bow.</Ammo_GreatArrow_Plasteel.description>
+	
+	<!-- EN: great arrow (venom) -->
+	<Ammo_GreatArrow_Venom.label>great arrow (venom)</Ammo_GreatArrow_Venom.label>
+	<!-- EN: Heavy arrow designed to be fired from a great bow. -->
+	<Ammo_GreatArrow_Venom.description>Heavy arrow designed to be fired from a great bow.</Ammo_GreatArrow_Venom.description>
+	
+	<!-- EN: great arrow (flame) -->
+	<Ammo_GreatArrow_Flame.label>great arrow (flame)</Ammo_GreatArrow_Flame.label>
+	<!-- EN: Heavy arrow designed to be fired from a great bow. -->
+	<Ammo_GreatArrow_Flame.description>Heavy arrow designed to be fired from a great bow.</Ammo_GreatArrow_Flame.description>
+	
+	<!-- EN: great arrow (stone) -->
+	<Projectile_GreatArrow_Stone.label>great arrow (stone)</Projectile_GreatArrow_Stone.label>
+	
+	<!-- EN: great arrow (steel) -->
+	<Projectile_GreatArrow_Steel.label>great arrow (steel)</Projectile_GreatArrow_Steel.label>
+	
+	<!-- EN: great arrow (plasteel) -->
+	<Projectile_GreatArrow_Plasteel.label>great arrow (plasteel)</Projectile_GreatArrow_Plasteel.label>
+	
+	<!-- EN: great arrow (venom) -->
+	<Projectile_GreatArrow_Venom.label>great arrow (venom)</Projectile_GreatArrow_Venom.label>
+	
+	<!-- EN: great arrow (flame) -->
+	<Projectile_GreatArrow_Flame.label>great arrow (flame)</Projectile_GreatArrow_Flame.label>
+</LanguageData>

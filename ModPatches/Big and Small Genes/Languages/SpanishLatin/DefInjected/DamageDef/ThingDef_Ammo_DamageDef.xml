@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\Big and Small Genes\Defs\Big and Small Genes\Weapons\ThingDef_Ammo.xml -->
+	<!-- EN: vaporize -->
+	<ShrinkRay.label>vaporize</ShrinkRay.label>
+	<!-- EN: {0} has been vaporized by extreme heat. -->
+	<ShrinkRay.deathMessage>{0} has been vaporized by extreme heat.</ShrinkRay.deathMessage>
+	<!-- EN: vaporize -->
+	<GrowthRay.label>vaporize</GrowthRay.label>
+	<!-- EN: {0} has been vaporized by extreme heat. -->
+	<GrowthRay.deathMessage>{0} has been vaporized by extreme heat.</GrowthRay.deathMessage>
+</LanguageData>

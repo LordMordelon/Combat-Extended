@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Races_Animal_Tropical30.xml -->
+	<!-- EN: fangs -->
+	<Cobra.tools.0.label>fangs</Cobra.tools.0.label>
+	<!-- EN: head -->
+	<Cobra.tools.1.label>head</Cobra.tools.1.label>
+	
+	<!-- EN: left hand -->
+	<Monkey.tools.0.label>left hand</Monkey.tools.0.label>
+	<!-- EN: right hand -->
+	<Monkey.tools.1.label>right hand</Monkey.tools.1.label>
+	<!-- EN: head -->
+	<Monkey.tools.3.label>head</Monkey.tools.3.label>
+	
+	<!-- EN: head -->
+	<Boomalope.tools.0.label>head</Boomalope.tools.0.label>
+	<!-- EN: left hoof -->
+	<Boomalope.tools.1.label>left hoof</Boomalope.tools.1.label>
+	<!-- EN: left hoof -->
+	<Boomalope.tools.2.label>left hoof</Boomalope.tools.2.label>
+	<!-- EN: right hoof -->
+	<Boomalope.tools.3.label>right hoof</Boomalope.tools.3.label>
+	<!-- EN: right hoof -->
+	<Boomalope.tools.4.label>right hoof</Boomalope.tools.4.label>
+	<!-- EN: Secretion level -->
+	<Boomalope.comps.CompShearableRenameable.growthLabel>Secretion level</Boomalope.comps.CompShearableRenameable.growthLabel>
+</LanguageData>

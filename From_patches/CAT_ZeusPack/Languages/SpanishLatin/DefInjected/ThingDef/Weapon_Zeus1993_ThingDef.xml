@@ -1,0 +1,46 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\CAT_ZeusPack\Weapon_Zeus1993.xml -->
+	<!-- EN: handle -->
+	<CAT_ZeusKanabo.tools.0.label>handle</CAT_ZeusKanabo.tools.0.label>
+	<!-- EN: head -->
+	<CAT_ZeusKanabo.tools.1.label>head</CAT_ZeusKanabo.tools.1.label>
+	
+	<!-- EN: head -->
+	<CAT_ZeusQuarterstaff.tools.0.label>head</CAT_ZeusQuarterstaff.tools.0.label>
+	<!-- EN: shaft -->
+	<CAT_ZeusQuarterstaff.tools.1.label>shaft</CAT_ZeusQuarterstaff.tools.1.label>
+	
+	<!-- EN: handle -->
+	<CAT_ZeusNunchucks.tools.0.label>handle</CAT_ZeusNunchucks.tools.0.label>
+	<!-- EN: head -->
+	<CAT_ZeusNunchucks.tools.1.label>head</CAT_ZeusNunchucks.tools.1.label>
+	
+	<!-- EN: handle -->
+	<CAT_ZeusJian.tools.0.label>handle</CAT_ZeusJian.tools.0.label>
+	<!-- EN: point -->
+	<CAT_ZeusJian.tools.1.label>point</CAT_ZeusJian.tools.1.label>
+	<!-- EN: head -->
+	<CAT_ZeusJian.tools.2.label>head</CAT_ZeusJian.tools.2.label>
+	
+	<!-- EN: handle -->
+	<CAT_ZeusGreathammer.tools.0.label>handle</CAT_ZeusGreathammer.tools.0.label>
+	<!-- EN: blade -->
+	<CAT_ZeusGreathammer.tools.1.label>blade</CAT_ZeusGreathammer.tools.1.label>
+	<!-- EN: head -->
+	<CAT_ZeusGreathammer.tools.2.label>head</CAT_ZeusGreathammer.tools.2.label>
+	
+	<!-- EN: body -->
+	<CAT_ZeusTome.tools.0.label>body</CAT_ZeusTome.tools.0.label>
+	
+	<!-- EN: handle -->
+	<CAT_ZeusBaton.tools.0.label>handle</CAT_ZeusBaton.tools.0.label>
+	<!-- EN: head -->
+	<CAT_ZeusBaton.tools.1.label>head</CAT_ZeusBaton.tools.1.label>
+	<!-- EN: edge -->
+	<CAT_ZeusBaton.tools.2.label>edge</CAT_ZeusBaton.tools.2.label>
+	
+	<!-- EN: smite -->
+	<CAT_ZeusTome.verbs.0.label>smite</CAT_ZeusTome.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<CAT_ZeusTome.verbs.CombatExtended.Verb_ShootCE.label>ㅤ</CAT_ZeusTome.verbs.CombatExtended.Verb_ShootCE.label>
+</LanguageData>

@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Warhammer - Dryad\Defs\Warhammer - Dryad\Projectiles_Dryad.xml -->
+	<!-- EN: willow lash -->
+	<Bullet_WillowWhip.label>willow lash</Bullet_WillowWhip.label>
+	<!-- EN: revenant projectile -->
+	<Bullet_DryadArm.label>revenant projectile</Bullet_DryadArm.label>
+	<!-- EN: revenant projectile -->
+	<Bullet_RevenantArm.label>revenant projectile</Bullet_RevenantArm.label>
+</LanguageData>

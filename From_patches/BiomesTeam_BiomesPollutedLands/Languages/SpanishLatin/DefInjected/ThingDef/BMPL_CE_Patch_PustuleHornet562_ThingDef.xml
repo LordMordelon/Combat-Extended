@@ -1,0 +1,12 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\BiomesTeam_BiomesPollutedLands\BMPL_CE_Patch_PustuleHornet562.xml -->
+	<!-- EN: head -->
+	<BMT_PustuleHornet.tools.1.label>head</BMT_PustuleHornet.tools.1.label>
+	<!-- EN: stinger -->
+	<BMT_PustuleHornet.tools.2.label>stinger</BMT_PustuleHornet.tools.2.label>
+	
+	<!-- EN: head -->
+	<BMT_PustuleHornetQueen.tools.1.label>head</BMT_PustuleHornetQueen.tools.1.label>
+	<!-- EN: stinger -->
+	<BMT_PustuleHornetQueen.tools.2.label>stinger</BMT_PustuleHornetQueen.tools.2.label>
+</LanguageData>

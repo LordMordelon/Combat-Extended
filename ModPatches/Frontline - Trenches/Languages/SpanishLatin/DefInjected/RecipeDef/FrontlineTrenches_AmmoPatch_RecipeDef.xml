@@ -1,0 +1,21 @@
+<LanguageData>
+	<!-- ModPatches\Frontline - Trenches\Defs\Frontline - Trenches\FrontlineTrenches_AmmoPatch.xml -->
+	<!-- EN: make TR-Mortar rounds x5 -->
+	<MakeAmmo_TRMortarGrenade_HE.label>make TR-Mortar rounds x5</MakeAmmo_TRMortarGrenade_HE.label>
+	<!-- EN: Craft 5 TR-Mortar rounds. -->
+	<MakeAmmo_TRMortarGrenade_HE.description>Craft 5 TR-Mortar rounds.</MakeAmmo_TRMortarGrenade_HE.description>
+	<!-- EN: Making TR-Mortar rounds. -->
+	<MakeAmmo_TRMortarGrenade_HE.jobString>Making TR-Mortar rounds.</MakeAmmo_TRMortarGrenade_HE.jobString>
+	<!-- EN: make TR-Howitzer shells x5 -->
+	<MakeAmmo_TRHowitzerShell_HE.label>make TR-Howitzer shells x5</MakeAmmo_TRHowitzerShell_HE.label>
+	<!-- EN: Craft 5 TR-Howitzer shells. -->
+	<MakeAmmo_TRHowitzerShell_HE.description>Craft 5 TR-Howitzer shells.</MakeAmmo_TRHowitzerShell_HE.description>
+	<!-- EN: Making TR-Howitzer shells. -->
+	<MakeAmmo_TRHowitzerShell_HE.jobString>Making TR-Howitzer shells.</MakeAmmo_TRHowitzerShell_HE.jobString>
+	<!-- EN: make TR-PAK shells x5 -->
+	<MakeAmmo_TRPAKShell_HEAT.label>make TR-PAK shells x5</MakeAmmo_TRPAKShell_HEAT.label>
+	<!-- EN: Craft 5 TR-PAK shells. -->
+	<MakeAmmo_TRPAKShell_HEAT.description>Craft 5 TR-PAK shells.</MakeAmmo_TRPAKShell_HEAT.description>
+	<!-- EN: Making TR-PAK shells. -->
+	<MakeAmmo_TRPAKShell_HEAT.jobString>Making TR-PAK shells.</MakeAmmo_TRPAKShell_HEAT.jobString>
+</LanguageData>

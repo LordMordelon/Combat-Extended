@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- Defs\Misc\DesignatorDropdownGroupDef\DesignatorDropdownGroupDef.xml -->
+	<!-- EN: combat extended blackpowder emplacements -->
+	<CE_BlackpowderEmplacements.label>combat extended blackpowder emplacements</CE_BlackpowderEmplacements.label>
+	<!-- EN: combat extended modern manned turrets -->
+	<CE_ModernMannedTurrets.label>combat extended modern manned turrets</CE_ModernMannedTurrets.label>
+	<!-- EN: combat extended medium manned turrets -->
+	<CE_MediumMannedTurrets.label>combat extended medium manned turrets</CE_MediumMannedTurrets.label>
+	<!-- EN: combat extended heavy manned turrets -->
+	<CE_HeavyMannedTurrets.label>combat extended heavy manned turrets</CE_HeavyMannedTurrets.label>
+	<!-- EN: combat extended auto-turrets -->
+	<CE_AutoTurrets.label>combat extended auto-turrets</CE_AutoTurrets.label>
+</LanguageData>

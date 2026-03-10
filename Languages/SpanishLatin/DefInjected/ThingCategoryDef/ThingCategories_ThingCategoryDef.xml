@@ -1,0 +1,34 @@
+<LanguageData>
+	<!-- Defs\Ammo\ThingCategories.xml -->
+	<!-- EN: ammunition -->
+	<Ammo.label>ammunition</Ammo.label>
+	<!-- EN: advanced -->
+	<AmmoAdvanced.label>advanced</AmmoAdvanced.label>
+	<!-- EN: grenade -->
+	<AmmoGrenades.label>grenade</AmmoGrenades.label>
+	<!-- EN: high caliber -->
+	<AmmoHighCaliber.label>high caliber</AmmoHighCaliber.label>
+	<!-- EN: pistol -->
+	<AmmoPistols.label>pistol</AmmoPistols.label>
+	<!-- EN: rifle -->
+	<AmmoRifles.label>rifle</AmmoRifles.label>
+	<!-- EN: shotgun -->
+	<AmmoShotguns.label>shotgun</AmmoShotguns.label>
+	<!-- EN: rocket -->
+	<AmmoRockets.label>rocket</AmmoRockets.label>
+	<!-- EN: missile -->
+	<AmmoMissiles.label>missile</AmmoMissiles.label>
+	<!-- EN: shell -->
+	<AmmoShells.label>shell</AmmoShells.label>
+	<!-- EN: neolithic -->
+	<AmmoNeolithic.label>neolithic</AmmoNeolithic.label>
+	<!-- EN: medieval -->
+	<AmmoMedieval.label>medieval</AmmoMedieval.label>
+	<!-- Defs\ThingCategoryDefs\ThingCategories.xml -->
+	<!-- EN: loadbearing gear -->
+	<Loadout.label>loadbearing gear</Loadout.label>
+	<!-- EN: turrets -->
+	<WeaponsTurrets.label>turrets</WeaponsTurrets.label>
+	<!-- EN: shields -->
+	<Shields.label>shields</Shields.label>
+</LanguageData>

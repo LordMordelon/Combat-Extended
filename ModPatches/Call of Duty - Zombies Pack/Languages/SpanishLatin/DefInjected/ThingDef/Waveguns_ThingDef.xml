@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Zaps\Waveguns.xml -->
+	<!-- EN: Wavegun cartridge -->
+	<Ammo_Wavegun.label>Wavegun cartridge</Ammo_Wavegun.label>
+	<!-- EN: Pistol cartridge favoured for its above average stopping power. -->
+	<Ammo_Wavegun.description>Pistol cartridge favoured for its above average stopping power.</Ammo_Wavegun.description>
+	<!-- EN: Wave Blast -->
+	<Bullet_Wavegun.label>Wave Blast</Bullet_Wavegun.label>
+</LanguageData>

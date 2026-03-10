@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\zal_vfeieq\MadnessShell1694.xml -->
+	<!-- EN: 81mm mortar shell (Psychic warhead) -->
+	<VFEI_Shell_PsychicWarhead.label>81mm mortar shell (Psychic warhead)</VFEI_Shell_PsychicWarhead.label>
+	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+	<VFEI_Shell_PsychicWarhead.description>Low-velocity shell designed to be fired from a mortar.</VFEI_Shell_PsychicWarhead.description>
+	<!-- EN: 81mm mortar shell (Psychic Warhead) -->
+	<VFEI_Bullet_Shell_PsychicWarhead.label>81mm mortar shell (Psychic Warhead)</VFEI_Bullet_Shell_PsychicWarhead.label>
+</LanguageData>

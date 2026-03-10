@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\VFE Insectoids Equipment\Defs\VFE Insectoids Equipment\Ammo\PlasmaCells.xml -->
+	<!-- EN: Plasma Pistol Power Cell -->
+	<AmmoSet_VFEI_PlasmaCutter.label>Plasma Pistol Power Cell</AmmoSet_VFEI_PlasmaCutter.label>
+	<!-- EN: Plasma Heavy Power Cell(Scatter) -->
+	<AmmoSet_VFEI_PlasmaScatter.label>Plasma Heavy Power Cell(Scatter)</AmmoSet_VFEI_PlasmaScatter.label>
+	<!-- EN: Plasma Rifle Power Cell -->
+	<AmmoSet_VFEI_PlasmaRifle.label>Plasma Rifle Power Cell</AmmoSet_VFEI_PlasmaRifle.label>
+	<!-- EN: Plasma Heavy Power Cell -->
+	<AmmoSet_VFEI_PlasmaPiercer.label>Plasma Heavy Power Cell</AmmoSet_VFEI_PlasmaPiercer.label>
+</LanguageData>

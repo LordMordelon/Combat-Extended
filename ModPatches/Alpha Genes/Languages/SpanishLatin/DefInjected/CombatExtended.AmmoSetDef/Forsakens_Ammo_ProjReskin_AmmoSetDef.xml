@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\Alpha Genes\Defs\Alpha Genes\Ammo\Forsakens_Ammo_ProjReskin.xml -->
+	<!-- EN: 8x35mm Charged -->
+	<AmmoSet_8x35mmCharged_ForsakenSniper.label>8x35mm Charged</AmmoSet_8x35mmCharged_ForsakenSniper.label>
+	<!-- EN: 12 Gauge Charged -->
+	<AmmoSet_12GaugeCharged_ForsakenShotGun.label>12 Gauge Charged</AmmoSet_12GaugeCharged_ForsakenShotGun.label>
+	<!-- EN: 5x35mm Charged -->
+	<AmmoSet_5x35mmCharged_ForsakenAR.label>5x35mm Charged</AmmoSet_5x35mmCharged_ForsakenAR.label>
+	<!-- EN: forsakens arrows -->
+	<AmmoSet_ForsakensArrows.label>forsakens arrows</AmmoSet_ForsakensArrows.label>
+</LanguageData>

@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- ModPatches\Alpha Animals\Defs\Alpha Animals\Defs_Hediffs.xml -->
+	<!-- EN: This creature bleeds very little. -->
+	<AA_LowBleed.description>This creature bleeds very little.</AA_LowBleed.description>
+	<!-- EN: Regen factor -->
+	<AA_LowBleed.label>Regen factor</AA_LowBleed.label>
+</LanguageData>

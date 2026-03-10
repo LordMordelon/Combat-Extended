@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\lts_I\Hediffs_Modules915.xml -->
+	<!-- EN: blade -->
+	<LTS_ModuleArm_ArmBlade.comps.0.tools.0.label>blade</LTS_ModuleArm_ArmBlade.comps.0.tools.0.label>
+	<!-- EN: claw -->
+	<LTS_ModuleArm_BionicClaw.comps.0.tools.0.label>claw</LTS_ModuleArm_BionicClaw.comps.0.tools.0.label>
+	<!-- EN: monowire -->
+	<LTS_ModuleArm_Monowire.comps.0.tools.0.label>monowire</LTS_ModuleArm_Monowire.comps.0.tools.0.label>
+	<!-- EN: zeusknuckles -->
+	<LTS_ModuleArm_ZeusKnuckles.comps.0.tools.0.label>zeusknuckles</LTS_ModuleArm_ZeusKnuckles.comps.0.tools.0.label>
+	<!-- EN: plasma claw -->
+	<LTS_ModuleArm_PlasmaClaw.comps.0.tools.0.label>plasma claw</LTS_ModuleArm_PlasmaClaw.comps.0.tools.0.label>
+	<!-- EN: laser arm blade -->
+	<LTS_ModuleArm_LaserArmBlade.comps.0.tools.0.label>laser arm blade</LTS_ModuleArm_LaserArmBlade.comps.0.tools.0.label>
+</LanguageData>

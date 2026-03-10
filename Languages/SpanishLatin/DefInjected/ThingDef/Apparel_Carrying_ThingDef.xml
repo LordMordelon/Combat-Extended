@@ -1,0 +1,32 @@
+<LanguageData>
+	<!-- Defs\ThingDefs_Misc\Apparel_Carrying.xml -->
+	<!-- EN: tactical vest -->
+	<CE_Apparel_TacVest.label>tactical vest</CE_Apparel_TacVest.label>
+	<!-- EN: A loadbearing vest with a number of pouches to store magazines and other equipment.\n\nSpeeds up reloading but is quite bulky to wear. -->
+	<CE_Apparel_TacVest.description>A loadbearing vest with a number of pouches to store magazines and other equipment.\n\nSpeeds up reloading but is quite bulky to wear.</CE_Apparel_TacVest.description>
+	
+	<!-- EN: backpack -->
+	<CE_Apparel_Backpack.label>backpack</CE_Apparel_Backpack.label>
+	<!-- EN: A comfortable and spacious backpack for storing all kinds of items. -->
+	<CE_Apparel_Backpack.description>A comfortable and spacious backpack for storing all kinds of items.</CE_Apparel_Backpack.description>
+	
+	<!-- EN: kid backpack -->
+	<CE_Apparel_KidBackpack.label>kid backpack</CE_Apparel_KidBackpack.label>
+	<!-- EN: A small backpack sized for a child. -->
+	<CE_Apparel_KidBackpack.description>A small backpack sized for a child.</CE_Apparel_KidBackpack.description>
+	
+	<!-- EN: tribal backpack -->
+	<CE_Apparel_TribalBackpack.label>tribal backpack</CE_Apparel_TribalBackpack.label>
+	<!-- EN: Primitive backpack made from animal furs, useful for storing items when travelling. -->
+	<CE_Apparel_TribalBackpack.description>Primitive backpack made from animal furs, useful for storing items when travelling.</CE_Apparel_TribalBackpack.description>
+	
+	<!-- EN: radio pack -->
+	<CE_Apparel_RadioPack.label>radio pack</CE_Apparel_RadioPack.label>
+	<!-- EN: A long range radio pack, allowing a spotter to call in accurate, long range fire support from afar. Works in conjunction with binoculars. -->
+	<CE_Apparel_RadioPack.description>A long range radio pack, allowing a spotter to call in accurate, long range fire support from afar. Works in conjunction with binoculars.</CE_Apparel_RadioPack.description>
+	
+	<!-- EN: powered exoframe -->
+	<CE_Apparel_ExoFrame.label>powered exoframe</CE_Apparel_ExoFrame.label>
+	<!-- EN: A powered exoframe with articulated joints, commonly used in industrial settings by workers handling heavy parts.\n\nIncreases lifting capacity and improves weapon handling, but is quite bulky to wear. -->
+	<CE_Apparel_ExoFrame.description>A powered exoframe with articulated joints, commonly used in industrial settings by workers handling heavy parts.\n\nIncreases lifting capacity and improves weapon handling, but is quite bulky to wear.</CE_Apparel_ExoFrame.description>
+</LanguageData>

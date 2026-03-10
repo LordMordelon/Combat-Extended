@@ -1,0 +1,23 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Mlem_beeralope\Races_Beerhybrids449.xml -->
+	<!-- EN: head -->
+	<Beeralope.tools.0.label>head</Beeralope.tools.0.label>
+	
+	<!-- EN: left claw -->
+	<Beerat.tools.0.label>left claw</Beerat.tools.0.label>
+	<!-- EN: right claw -->
+	<Beerat.tools.1.label>right claw</Beerat.tools.1.label>
+	<!-- EN: head -->
+	<Beerat.tools.3.label>head</Beerat.tools.3.label>
+	
+	<!-- EN: horn -->
+	<Beerbro.tools.0.label>horn</Beerbro.tools.0.label>
+	<!-- EN: horn -->
+	<Beerbro.tools.1.label>horn</Beerbro.tools.1.label>
+	<!-- EN: left foot -->
+	<Beerbro.tools.2.label>left foot</Beerbro.tools.2.label>
+	<!-- EN: right foot -->
+	<Beerbro.tools.3.label>right foot</Beerbro.tools.3.label>
+	<!-- EN: head -->
+	<Beerbro.tools.5.label>head</Beerbro.tools.5.label>
+</LanguageData>

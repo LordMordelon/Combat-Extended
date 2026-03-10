@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\Alpha Mechs\Defs\Alpha Mechs\Ammo_Alpha.xml -->
+	<!-- EN: coil lance shot -->
+	<Bullet_CoilLance.label>coil lance shot</Bullet_CoilLance.label>
+	<!-- EN: 12x64mm Hyper bullet -->
+	<Bullet_12x64mmHyper.label>12x64mm Hyper bullet</Bullet_12x64mmHyper.label>
+	<!-- EN: 5x50 Caseless bullet (Acidic) -->
+	<Bullet_5x50mmCaseless_Acidic.label>5x50 Caseless bullet (Acidic)</Bullet_5x50mmCaseless_Acidic.label>
+	<!-- EN: laser shot -->
+	<Bullet_HeavyLaser.label>laser shot</Bullet_HeavyLaser.label>
+</LanguageData>

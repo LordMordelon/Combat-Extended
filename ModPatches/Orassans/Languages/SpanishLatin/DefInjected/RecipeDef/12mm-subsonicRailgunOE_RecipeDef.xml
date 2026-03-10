@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Orassans\Defs\Orassans\Ammo\12mm-subsonicRailgunOE.xml -->
+	<!-- EN: make 12mm subsonic Railgun cartridge (Sabot:OE) x500 -->
+	<MakeAmmo_12mmsubsonicRailgun_SabotOE.label>make 12mm subsonic Railgun cartridge (Sabot:OE) x500</MakeAmmo_12mmsubsonicRailgun_SabotOE.label>
+	<!-- EN: Craft 500 12mm subsonic Railgun (Sabot:OE) cartridges. -->
+	<MakeAmmo_12mmsubsonicRailgun_SabotOE.description>Craft 500 12mm subsonic Railgun (Sabot:OE) cartridges.</MakeAmmo_12mmsubsonicRailgun_SabotOE.description>
+	<!-- EN: Making 12mm auto Railgun (Sabot:OE) cartridges. -->
+	<MakeAmmo_12mmsubsonicRailgun_SabotOE.jobString>Making 12mm auto Railgun (Sabot:OE) cartridges.</MakeAmmo_12mmsubsonicRailgun_SabotOE.jobString>
+</LanguageData>

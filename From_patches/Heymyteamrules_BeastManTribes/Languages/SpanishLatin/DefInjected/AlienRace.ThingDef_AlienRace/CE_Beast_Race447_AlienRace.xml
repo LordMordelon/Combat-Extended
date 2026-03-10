@@ -1,0 +1,84 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Heymyteamrules_BeastManTribes\CE_Beast_Race447.xml -->
+	<!-- EN: left fist -->
+	<BearMan.tools.0.label>left fist</BearMan.tools.0.label>
+	<!-- EN: right fist -->
+	<BearMan.tools.1.label>right fist</BearMan.tools.1.label>
+	<!-- EN: teeth -->
+	<BearMan.tools.2.label>teeth</BearMan.tools.2.label>
+	<!-- EN: Head -->
+	<BearMan.tools.3.label>Head</BearMan.tools.3.label>
+	
+	<!-- EN: left fist -->
+	<CamelMan.tools.0.label>left fist</CamelMan.tools.0.label>
+	<!-- EN: right fist -->
+	<CamelMan.tools.1.label>right fist</CamelMan.tools.1.label>
+	<!-- EN: head -->
+	<CamelMan.tools.2.label>head</CamelMan.tools.2.label>
+	
+	<!-- EN: left fist -->
+	<ElephantMan.tools.0.label>left fist</ElephantMan.tools.0.label>
+	<!-- EN: right fist -->
+	<ElephantMan.tools.1.label>right fist</ElephantMan.tools.1.label>
+	<!-- EN: head -->
+	<ElephantMan.tools.2.label>head</ElephantMan.tools.2.label>
+	
+	<!-- EN: left fist -->
+	<ElkMan.tools.0.label>left fist</ElkMan.tools.0.label>
+	<!-- EN: right fist -->
+	<ElkMan.tools.1.label>right fist</ElkMan.tools.1.label>
+	<!-- EN: head -->
+	<ElkMan.tools.2.label>head</ElkMan.tools.2.label>
+	
+	<!-- EN: left fist -->
+	<GazelleMan.tools.0.label>left fist</GazelleMan.tools.0.label>
+	<!-- EN: right fist -->
+	<GazelleMan.tools.1.label>right fist</GazelleMan.tools.1.label>
+	<!-- EN: head -->
+	<GazelleMan.tools.2.label>head</GazelleMan.tools.2.label>
+	
+	<!-- EN: left fist -->
+	<FoxMan.tools.0.label>left fist</FoxMan.tools.0.label>
+	<!-- EN: right fist -->
+	<FoxMan.tools.1.label>right fist</FoxMan.tools.1.label>
+	<!-- EN: teeth -->
+	<FoxMan.tools.2.label>teeth</FoxMan.tools.2.label>
+	<!-- EN: head -->
+	<FoxMan.tools.3.label>head</FoxMan.tools.3.label>
+	
+	<!-- EN: left fist -->
+	<LynxMan.tools.0.label>left fist</LynxMan.tools.0.label>
+	<!-- EN: right fist -->
+	<LynxMan.tools.1.label>right fist</LynxMan.tools.1.label>
+	<!-- EN: teeth -->
+	<LynxMan.tools.2.label>teeth</LynxMan.tools.2.label>
+	<!-- EN: head -->
+	<LynxMan.tools.3.label>head</LynxMan.tools.3.label>
+	
+	<!-- EN: left fist -->
+	<PigMan.tools.0.label>left fist</PigMan.tools.0.label>
+	<!-- EN: right fist -->
+	<PigMan.tools.1.label>right fist</PigMan.tools.1.label>
+	<!-- EN: teeth -->
+	<PigMan.tools.2.label>teeth</PigMan.tools.2.label>
+	<!-- EN: head -->
+	<PigMan.tools.3.label>head</PigMan.tools.3.label>
+	
+	<!-- EN: left fist -->
+	<RaccoonMan.tools.0.label>left fist</RaccoonMan.tools.0.label>
+	<!-- EN: right fist -->
+	<RaccoonMan.tools.1.label>right fist</RaccoonMan.tools.1.label>
+	<!-- EN: teeth -->
+	<RaccoonMan.tools.2.label>teeth</RaccoonMan.tools.2.label>
+	<!-- EN: head -->
+	<RaccoonMan.tools.3.label>head</RaccoonMan.tools.3.label>
+	
+	<!-- EN: left fist -->
+	<WolfMan.tools.0.label>left fist</WolfMan.tools.0.label>
+	<!-- EN: right fist -->
+	<WolfMan.tools.1.label>right fist</WolfMan.tools.1.label>
+	<!-- EN: teeth -->
+	<WolfMan.tools.2.label>teeth</WolfMan.tools.2.label>
+	<!-- EN: head -->
+	<WolfMan.tools.3.label>head</WolfMan.tools.3.label>
+</LanguageData>

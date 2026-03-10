@@ -1,0 +1,22 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\GF40K_IoM_Weaponry\GF40K_GrenadeLauncherWeapon1956.xml -->
+	<!-- EN: stock -->
+	<GF40K_GrenadeLauncher.tools.0.label>stock</GF40K_GrenadeLauncher.tools.0.label>
+	<!-- EN: barrel -->
+	<GF40K_GrenadeLauncher.tools.1.label>barrel</GF40K_GrenadeLauncher.tools.1.label>
+	<!-- EN: muzzle -->
+	<GF40K_GrenadeLauncher.tools.2.label>muzzle</GF40K_GrenadeLauncher.tools.2.label>
+	
+	<!-- EN: stock -->
+	<GF40K_RelicGrenadeLauncher.tools.0.label>stock</GF40K_RelicGrenadeLauncher.tools.0.label>
+	<!-- EN: barrel -->
+	<GF40K_RelicGrenadeLauncher.tools.1.label>barrel</GF40K_RelicGrenadeLauncher.tools.1.label>
+	<!-- EN: muzzle -->
+	<GF40K_RelicGrenadeLauncher.tools.2.label>muzzle</GF40K_RelicGrenadeLauncher.tools.2.label>
+	
+	<!-- EN: ㅤ -->
+	<GF40K_GrenadeLauncher.verbs.0.label>ㅤ</GF40K_GrenadeLauncher.verbs.0.label>
+	
+	<!-- EN: ㅤ -->
+	<GF40K_RelicGrenadeLauncher.verbs.0.label>ㅤ</GF40K_RelicGrenadeLauncher.verbs.0.label>
+</LanguageData>

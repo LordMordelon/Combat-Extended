@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Defs\Ammo\Rocket\RPO.xml -->
+	<!-- EN: RPO-A grenade -->
+	<Bullet_RPO_A_Grenade.label>RPO-A grenade</Bullet_RPO_A_Grenade.label>
+	<!-- EN: RPO-Z grenade -->
+	<Bullet_RPO_Z_Grenade.label>RPO-Z grenade</Bullet_RPO_Z_Grenade.label>
+	<!-- EN: RPO-D grenade -->
+	<Bullet_RPO_D_Grenade.label>RPO-D grenade</Bullet_RPO_D_Grenade.label>
+</LanguageData>

@@ -1,0 +1,8 @@
+<LanguageData>
+	<!-- ModPatches\RH2 Metal Gear Solid\Defs\RH2 Metal Gear Solid\RH2_MGS_CE_Patch_Ammo_NonLethal.xml -->
+	<!-- EN: 9x19mm Para (Tranq) -->
+	<AmmoSet_9x19mmPara_NonLethal.label>9x19mm Para (Tranq)</AmmoSet_9x19mmPara_NonLethal.label>
+	
+	<!-- EN: 7.62x51mm NATO (Tranq) -->
+	<AmmoSet_762x51mmNATO_NonLethal.label>7.62x51mm NATO (Tranq)</AmmoSet_762x51mmNATO_NonLethal.label>
+</LanguageData>

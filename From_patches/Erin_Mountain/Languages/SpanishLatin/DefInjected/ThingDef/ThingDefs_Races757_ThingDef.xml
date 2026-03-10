@@ -1,0 +1,36 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Erin_Mountain\ThingDefs_Races757.xml -->
+	<!-- EN: left claw -->
+	<Pallas_cat.tools.0.label>left claw</Pallas_cat.tools.0.label>
+	<!-- EN: right claw -->
+	<Pallas_cat.tools.1.label>right claw</Pallas_cat.tools.1.label>
+	<!-- EN: head -->
+	<Pallas_cat.tools.3.label>head</Pallas_cat.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<Snow_leopard.tools.0.label>left claw</Snow_leopard.tools.0.label>
+	<!-- EN: right claw -->
+	<Snow_leopard.tools.1.label>right claw</Snow_leopard.tools.1.label>
+	<!-- EN: head -->
+	<Snow_leopard.tools.3.label>head</Snow_leopard.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<Pika.tools.0.label>left claw</Pika.tools.0.label>
+	<!-- EN: right claw -->
+	<Pika.tools.1.label>right claw</Pika.tools.1.label>
+	<!-- EN: head -->
+	<Pika.tools.3.label>head</Pika.tools.3.label>
+	
+	<!-- EN: left hoof -->
+	<Argali.tools.0.label>left hoof</Argali.tools.0.label>
+	<!-- EN: left hoof -->
+	<Argali.tools.1.label>left hoof</Argali.tools.1.label>
+	<!-- EN: right hoof -->
+	<Argali.tools.2.label>right hoof</Argali.tools.2.label>
+	<!-- EN: right hoof -->
+	<Argali.tools.3.label>right hoof</Argali.tools.3.label>
+	<!-- EN: antlers -->
+	<Argali.tools.5.label>antlers</Argali.tools.5.label>
+	<!-- EN: antlers -->
+	<Argali.tools.6.label>antlers</Argali.tools.6.label>
+</LanguageData>

@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Defs\Ammo\Advanced\8x40mmCharged.xml -->
+	<!-- EN: 8x40mm Charged -->
+	<Ammo_8x40mmCharged.label>8x40mm Charged</Ammo_8x40mmCharged.label>
+	<!-- EN: Mechanoid-built high power charged shot ammo used in long range assault weapons. -->
+	<Ammo_8x40mmCharged.description>Mechanoid-built high power charged shot ammo used in long range assault weapons.</Ammo_8x40mmCharged.description>
+	<!-- EN: 8x40mm Charged bullet -->
+	<Bullet_8x40mmCharged.label>8x40mm Charged bullet</Bullet_8x40mmCharged.label>
+</LanguageData>

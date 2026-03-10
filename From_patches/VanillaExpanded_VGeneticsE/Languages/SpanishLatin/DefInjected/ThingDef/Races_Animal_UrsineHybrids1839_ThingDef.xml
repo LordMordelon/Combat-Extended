@@ -1,0 +1,53 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VGeneticsE\Races_Animal_UrsineHybrids1839.xml -->
+	<!-- EN: left claw -->
+	<GR_Bearalope.tools.0.label>left claw</GR_Bearalope.tools.0.label>
+	<!-- EN: right claw -->
+	<GR_Bearalope.tools.1.label>right claw</GR_Bearalope.tools.1.label>
+	<!-- EN: head -->
+	<GR_Bearalope.tools.3.label>head</GR_Bearalope.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<GR_Bearchicken.tools.0.label>left claw</GR_Bearchicken.tools.0.label>
+	<!-- EN: right claw -->
+	<GR_Bearchicken.tools.1.label>right claw</GR_Bearchicken.tools.1.label>
+	<!-- EN: head -->
+	<GR_Bearchicken.tools.3.label>head</GR_Bearchicken.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<GR_Bearffalo.tools.0.label>left claw</GR_Bearffalo.tools.0.label>
+	<!-- EN: right claw -->
+	<GR_Bearffalo.tools.1.label>right claw</GR_Bearffalo.tools.1.label>
+	<!-- EN: head -->
+	<GR_Bearffalo.tools.3.label>head</GR_Bearffalo.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<GR_Bearwolf.tools.0.label>left claw</GR_Bearwolf.tools.0.label>
+	<!-- EN: right claw -->
+	<GR_Bearwolf.tools.1.label>right claw</GR_Bearwolf.tools.1.label>
+	<!-- EN: head -->
+	<GR_Bearwolf.tools.3.label>head</GR_Bearwolf.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<GR_Bearmole.tools.0.label>left claw</GR_Bearmole.tools.0.label>
+	<!-- EN: right claw -->
+	<GR_Bearmole.tools.1.label>right claw</GR_Bearmole.tools.1.label>
+	<!-- EN: head -->
+	<GR_Bearmole.tools.3.label>head</GR_Bearmole.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<GR_Bearcat.tools.0.label>left claw</GR_Bearcat.tools.0.label>
+	<!-- EN: right claw -->
+	<GR_Bearcat.tools.1.label>right claw</GR_Bearcat.tools.1.label>
+	<!-- EN: head -->
+	<GR_Bearcat.tools.3.label>head</GR_Bearcat.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<GR_Bearman.tools.0.label>left claw</GR_Bearman.tools.0.label>
+	<!-- EN: right claw -->
+	<GR_Bearman.tools.1.label>right claw</GR_Bearman.tools.1.label>
+	<!-- EN: teeth -->
+	<GR_Bearman.tools.2.label>teeth</GR_Bearman.tools.2.label>
+	<!-- EN: head -->
+	<GR_Bearman.tools.3.label>head</GR_Bearman.tools.3.label>
+</LanguageData>

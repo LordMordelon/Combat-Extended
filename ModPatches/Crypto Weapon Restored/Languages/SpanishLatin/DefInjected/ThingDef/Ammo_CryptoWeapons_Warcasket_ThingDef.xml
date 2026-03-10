@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Crypto Weapon Restored\Defs\Crypto Weapon Restored\Ammo_CryptoWeapons_Warcasket.xml -->
+	<!-- EN: Crypto Cannon Fuel -->
+	<Ammo_CryptoCannon.label>Crypto Cannon Fuel</Ammo_CryptoCannon.label>
+	<!-- EN: Metal-cored projectiles wrapped in unstable crypto technology contained with an energy field. Capable of dealing both ballistic damage and causing serious hypothermia. -->
+	<Ammo_CryptoCannon.description>Metal-cored projectiles wrapped in unstable crypto technology contained with an energy field. Capable of dealing both ballistic damage and causing serious hypothermia.</Ammo_CryptoCannon.description>
+	<!-- EN: Crygenic stream -->
+	<Bullet_Flamethrower_CryptoCannon.label>Crygenic stream</Bullet_Flamethrower_CryptoCannon.label>
+</LanguageData>

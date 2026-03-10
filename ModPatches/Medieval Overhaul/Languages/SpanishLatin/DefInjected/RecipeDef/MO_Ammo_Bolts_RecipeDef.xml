@@ -1,0 +1,10 @@
+<LanguageData>
+	<!-- ModPatches\Medieval Overhaul\Defs\Medieval Overhaul\Ammo\MO_Ammo_Bolts.xml -->
+	
+	<!-- EN: make iron crossbow bolts x10 -->
+	<MakeAmmo_CrossbowBolt_Iron.label>make iron crossbow bolts x10</MakeAmmo_CrossbowBolt_Iron.label>
+	<!-- EN: Craft 10 iron crossbow bolts. -->
+	<MakeAmmo_CrossbowBolt_Iron.description>Craft 10 iron crossbow bolts.</MakeAmmo_CrossbowBolt_Iron.description>
+	<!-- EN: Making iron crossbow bolts. -->
+	<MakeAmmo_CrossbowBolt_Iron.jobString>Making iron crossbow bolts.</MakeAmmo_CrossbowBolt_Iron.jobString>
+</LanguageData>

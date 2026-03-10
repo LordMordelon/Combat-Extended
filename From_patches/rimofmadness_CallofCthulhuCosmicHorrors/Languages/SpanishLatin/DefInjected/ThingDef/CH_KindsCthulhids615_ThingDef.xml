@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\rimofmadness_CallofCthulhuCosmicHorrors\CH_KindsCthulhids615.xml -->
+	<!-- EN: wings -->
+	<ROM_Cthulhid.tools.0.label>wings</ROM_Cthulhid.tools.0.label>
+	<!-- EN: left claw -->
+	<ROM_Cthulhid.tools.1.label>left claw</ROM_Cthulhid.tools.1.label>
+	<!-- EN: right claw -->
+	<ROM_Cthulhid.tools.2.label>right claw</ROM_Cthulhid.tools.2.label>
+	<!-- EN: overwhelming mind -->
+	<ROM_Cthulhid.tools.3.label>overwhelming mind</ROM_Cthulhid.tools.3.label>
+	<!-- EN: maw -->
+	<ROM_Cthulhid.tools.4.label>maw</ROM_Cthulhid.tools.4.label>
+</LanguageData>

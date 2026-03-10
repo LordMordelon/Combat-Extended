@@ -1,0 +1,24 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\ssulunge_KijinRace3\Kijin_Weapons_Ranged954.xml -->
+	<!-- EN: head -->
+	<Kijin_Fan.tools.0.label>head</Kijin_Fan.tools.0.label>
+	<!-- EN: handle -->
+	<Kijin_Fan.tools.1.label>handle</Kijin_Fan.tools.1.label>
+	
+	<!-- EN: limb -->
+	<Kijin_FlameBow.tools.0.label>limb</Kijin_FlameBow.tools.0.label>
+	<!-- EN: nock -->
+	<Kijin_FlameBow.tools.1.label>nock</Kijin_FlameBow.tools.1.label>
+	
+	<!-- EN: limb -->
+	<Kijin_PosionBow.tools.0.label>limb</Kijin_PosionBow.tools.0.label>
+	<!-- EN: nock -->
+	<Kijin_PosionBow.tools.1.label>nock</Kijin_PosionBow.tools.1.label>
+	
+	<!-- EN: throw dark matter -->
+	<KijinDarkMatter.Properties.label>throw dark matter</KijinDarkMatter.Properties.label>
+	<!-- EN: throw dark matter -->
+	<KijinDarkMatter.verbs.0.label>throw dark matter</KijinDarkMatter.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<KijinDarkMatter.verbs.CombatExtended.Verb_ShootCEOneUse.label>ㅤ</KijinDarkMatter.verbs.CombatExtended.Verb_ShootCEOneUse.label>
+</LanguageData>

@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Rabbit_EdgeOfDescension\EoD_WeaponsDefs726.xml -->
+	<!-- EN: handle -->
+	<EoD_Monoblade.tools.0.label>handle</EoD_Monoblade.tools.0.label>
+	<!-- EN: point -->
+	<EoD_Monoblade.tools.1.label>point</EoD_Monoblade.tools.1.label>
+	<!-- EN: edge -->
+	<EoD_Monoblade.tools.2.label>edge</EoD_Monoblade.tools.2.label>
+	
+	<!-- EN: handle -->
+	<EoD_LuciBlade.tools.0.label>handle</EoD_LuciBlade.tools.0.label>
+	<!-- EN: point -->
+	<EoD_LuciBlade.tools.1.label>point</EoD_LuciBlade.tools.1.label>
+	<!-- EN: edge -->
+	<EoD_LuciBlade.tools.2.label>edge</EoD_LuciBlade.tools.2.label>
+</LanguageData>

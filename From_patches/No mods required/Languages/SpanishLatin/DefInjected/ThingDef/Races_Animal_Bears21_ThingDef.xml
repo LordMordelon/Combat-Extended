@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Races_Animal_Bears21.xml -->
+	<!-- EN: left claw -->
+	<Bear_Grizzly.tools.0.label>left claw</Bear_Grizzly.tools.0.label>
+	<!-- EN: right claw -->
+	<Bear_Grizzly.tools.1.label>right claw</Bear_Grizzly.tools.1.label>
+	<!-- EN: head -->
+	<Bear_Grizzly.tools.3.label>head</Bear_Grizzly.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<Bear_Polar.tools.0.label>left claw</Bear_Polar.tools.0.label>
+	<!-- EN: right claw -->
+	<Bear_Polar.tools.1.label>right claw</Bear_Polar.tools.1.label>
+	<!-- EN: head -->
+	<Bear_Polar.tools.3.label>head</Bear_Polar.tools.3.label>
+</LanguageData>

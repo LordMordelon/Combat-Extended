@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\ACPteam_ACPVanillaStyle\AnimalCollabProj_CE_Patch_Races_Animal_Wolves402.xml -->
+	<!-- EN: left claw -->
+	<ACPDirewolf.tools.0.label>left claw</ACPDirewolf.tools.0.label>
+	<!-- EN: right claw -->
+	<ACPDirewolf.tools.1.label>right claw</ACPDirewolf.tools.1.label>
+	
+	<!-- EN: left claw -->
+	<ACPSpiritwolf.tools.0.label>left claw</ACPSpiritwolf.tools.0.label>
+	<!-- EN: right claw -->
+	<ACPSpiritwolf.tools.1.label>right claw</ACPSpiritwolf.tools.1.label>
+	
+	<!-- EN: left claw -->
+	<ACPSpiritwolfFF.tools.0.label>left claw</ACPSpiritwolfFF.tools.0.label>
+	<!-- EN: right claw -->
+	<ACPSpiritwolfFF.tools.1.label>right claw</ACPSpiritwolfFF.tools.1.label>
+</LanguageData>

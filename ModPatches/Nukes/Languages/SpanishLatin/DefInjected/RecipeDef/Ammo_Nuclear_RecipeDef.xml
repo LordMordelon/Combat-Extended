@@ -1,0 +1,31 @@
+<LanguageData>
+	<!-- ModPatches\Nukes\Defs\Nukes\Ammo_Nuclear.xml -->
+	
+	<!-- EN: make a fusion shell -->
+	<MakeAmmo_FusionBomb.label>make a fusion shell</MakeAmmo_FusionBomb.label>
+	<!-- EN: Craft a fusion shell. -->
+	<MakeAmmo_FusionBomb.description>Craft a fusion shell.</MakeAmmo_FusionBomb.description>
+	<!-- EN: Making a fusion shell. -->
+	<MakeAmmo_FusionBomb.jobString>Making a fusion shell.</MakeAmmo_FusionBomb.jobString>
+	
+	<!-- EN: make a large nuclear shell -->
+	<MakeAmmo_LargeNuclearBomb.label>make a large nuclear shell</MakeAmmo_LargeNuclearBomb.label>
+	<!-- EN: Craft a large nuclear shell. -->
+	<MakeAmmo_LargeNuclearBomb.description>Craft a large nuclear shell.</MakeAmmo_LargeNuclearBomb.description>
+	<!-- EN: Making a large nuclear shell. -->
+	<MakeAmmo_LargeNuclearBomb.jobString>Making a large nuclear shell.</MakeAmmo_LargeNuclearBomb.jobString>
+	
+	<!-- EN: make a small nuclear shell -->
+	<MakeAmmo_SmallNuclearBomb.label>make a small nuclear shell</MakeAmmo_SmallNuclearBomb.label>
+	<!-- EN: Craft a small nuclear shell. -->
+	<MakeAmmo_SmallNuclearBomb.description>Craft a small nuclear shell.</MakeAmmo_SmallNuclearBomb.description>
+	<!-- EN: Making a small nuclear shell. -->
+	<MakeAmmo_SmallNuclearBomb.jobString>Making a small nuclear shell.</MakeAmmo_SmallNuclearBomb.jobString>
+	
+	<!-- EN: make a dirty nuclear shell -->
+	<MakeAmmo_DirtyNuclearBomb.label>make a dirty nuclear shell</MakeAmmo_DirtyNuclearBomb.label>
+	<!-- EN: Craft a dirty nuclear shell. -->
+	<MakeAmmo_DirtyNuclearBomb.description>Craft a dirty nuclear shell.</MakeAmmo_DirtyNuclearBomb.description>
+	<!-- EN: Making a dirty nuclear shell. -->
+	<MakeAmmo_DirtyNuclearBomb.jobString>Making a dirty nuclear shell.</MakeAmmo_DirtyNuclearBomb.jobString>
+</LanguageData>

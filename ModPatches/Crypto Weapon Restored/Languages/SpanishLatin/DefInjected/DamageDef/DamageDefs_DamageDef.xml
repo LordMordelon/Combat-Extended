@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- ModPatches\Crypto Weapon Restored\Defs\Crypto Weapon Restored\DamageDefs.xml -->
+	<!-- EN: frostbite -->
+	<CE_Cryptofuel.label>frostbite</CE_Cryptofuel.label>
+	<!-- EN: {0} has been killed. -->
+	<CE_Cryptofuel.deathMessage>{0} has been killed.</CE_Cryptofuel.deathMessage>
+</LanguageData>

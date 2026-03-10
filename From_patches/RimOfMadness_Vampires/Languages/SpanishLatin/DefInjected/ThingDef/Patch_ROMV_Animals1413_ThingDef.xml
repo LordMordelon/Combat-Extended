@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\RimOfMadness_Vampires\Patch_ROMV_Animals1413.xml -->
+	<!-- EN: Teeth -->
+	<ROMV_BatRace.tools.0.label>Teeth</ROMV_BatRace.tools.0.label>
+	<!-- EN: head -->
+	<ROMV_BatRace.tools.1.label>head</ROMV_BatRace.tools.1.label>
+	
+	<!-- EN: left claw -->
+	<ROMV_BatSpectralRace.tools.0.label>left claw</ROMV_BatSpectralRace.tools.0.label>
+	<!-- EN: right claw -->
+	<ROMV_BatSpectralRace.tools.1.label>right claw</ROMV_BatSpectralRace.tools.1.label>
+	<!-- EN: fangs -->
+	<ROMV_BatSpectralRace.tools.2.label>fangs</ROMV_BatSpectralRace.tools.2.label>
+	<!-- EN: head -->
+	<ROMV_BatSpectralRace.tools.3.label>head</ROMV_BatSpectralRace.tools.3.label>
+</LanguageData>

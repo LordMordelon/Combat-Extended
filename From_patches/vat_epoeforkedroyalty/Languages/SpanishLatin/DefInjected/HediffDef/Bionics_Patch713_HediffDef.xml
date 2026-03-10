@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\vat_epoeforkedroyalty\Bionics_Patch713.xml -->
+	<!-- EN: drill arm -->
+	<EPOE_AdvancedDrillArm.comps.0.tools.0.label>drill arm</EPOE_AdvancedDrillArm.comps.0.tools.0.label>
+	<!-- EN: knuckle -->
+	<EPOE_AdvancedFieldHand.comps.0.tools.0.label>knuckle</EPOE_AdvancedFieldHand.comps.0.tools.0.label>
+	<!-- EN: talon -->
+	<EPOE_AdvancedHandTalon.comps.0.tools.0.label>talon</EPOE_AdvancedHandTalon.comps.0.tools.0.label>
+	<!-- EN: blade -->
+	<EPOE_AdvancedElbowBlade.comps.0.tools.0.label>blade</EPOE_AdvancedElbowBlade.comps.0.tools.0.label>
+	<!-- EN: spike -->
+	<EPOE_AdvancedKneeSpike.comps.0.tools.0.label>spike</EPOE_AdvancedKneeSpike.comps.0.tools.0.label>
+	<!-- EN: talon -->
+	<EPOE_ScytherHandTalon.comps.0.tools.0.label>talon</EPOE_ScytherHandTalon.comps.0.tools.0.label>
+	<!-- EN: blade -->
+	<EPOE_ScytherElbowBlade.comps.0.tools.0.label>blade</EPOE_ScytherElbowBlade.comps.0.tools.0.label>
+	<!-- EN: spike -->
+	<EPOE_ScytherKneeSpike.comps.0.tools.0.label>spike</EPOE_ScytherKneeSpike.comps.0.tools.0.label>
+</LanguageData>

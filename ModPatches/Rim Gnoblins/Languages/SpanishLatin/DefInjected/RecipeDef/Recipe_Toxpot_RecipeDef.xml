@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Rim Gnoblins\Defs\Rim Gnoblins\Recipe_Toxpot.xml -->
+	<!-- EN: make toxic grenade x10 -->
+	<MakeToxPot.label>make toxic grenade x10</MakeToxPot.label>
+	<!-- EN: Craft 10 toxic grenade. -->
+	<MakeToxPot.description>Craft 10 toxic grenade.</MakeToxPot.description>
+	<!-- EN: Making toxic grenade. -->
+	<MakeToxPot.jobString>Making toxic grenade.</MakeToxPot.jobString>
+</LanguageData>

@@ -1,0 +1,24 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\ACPteam_ACPVanillaStyle\AnimalCollabProj_CE_Patch_Races_Animal_Horse377.xml -->
+	<!-- EN: left hoof -->
+	<ACPHorse.tools.0.label>left hoof</ACPHorse.tools.0.label>
+	<!-- EN: left hoof -->
+	<ACPHorse.tools.1.label>left hoof</ACPHorse.tools.1.label>
+	<!-- EN: right hoof -->
+	<ACPHorse.tools.2.label>right hoof</ACPHorse.tools.2.label>
+	<!-- EN: right hoof -->
+	<ACPHorse.tools.3.label>right hoof</ACPHorse.tools.3.label>
+	<!-- EN: head -->
+	<ACPHorse.tools.5.label>head</ACPHorse.tools.5.label>
+	
+	<!-- EN: left hoof -->
+	<ACPWoolyHorse.tools.0.label>left hoof</ACPWoolyHorse.tools.0.label>
+	<!-- EN: left hoof -->
+	<ACPWoolyHorse.tools.1.label>left hoof</ACPWoolyHorse.tools.1.label>
+	<!-- EN: right hoof -->
+	<ACPWoolyHorse.tools.2.label>right hoof</ACPWoolyHorse.tools.2.label>
+	<!-- EN: right hoof -->
+	<ACPWoolyHorse.tools.3.label>right hoof</ACPWoolyHorse.tools.3.label>
+	<!-- EN: head -->
+	<ACPWoolyHorse.tools.5.label>head</ACPWoolyHorse.tools.5.label>
+</LanguageData>

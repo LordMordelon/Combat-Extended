@@ -1,0 +1,21 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\GT_Sam_GlitterTech\GlitterTech_CE_Patch_Weapons_APB-1Group863.xml -->
+	<!-- EN: grip -->
+	<Gun_APB-1Pistol.tools.0.label>grip</Gun_APB-1Pistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_APB-1Pistol.tools.1.label>muzzle</Gun_APB-1Pistol.tools.1.label>
+	
+	<!-- EN: stock -->
+	<Gun_APB-1Projector.tools.0.label>stock</Gun_APB-1Projector.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_APB-1Projector.tools.1.label>barrel</Gun_APB-1Projector.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_APB-1Projector.tools.2.label>muzzle</Gun_APB-1Projector.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_APB-1Rifle.tools.0.label>stock</Gun_APB-1Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_APB-1Rifle.tools.1.label>barrel</Gun_APB-1Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_APB-1Rifle.tools.2.label>muzzle</Gun_APB-1Rifle.tools.2.label>
+</LanguageData>

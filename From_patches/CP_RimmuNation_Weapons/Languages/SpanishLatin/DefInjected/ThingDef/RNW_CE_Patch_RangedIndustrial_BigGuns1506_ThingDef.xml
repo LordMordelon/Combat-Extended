@@ -1,0 +1,55 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\CP_RimmuNation_Weapons\RNW_CE_Patch_RangedIndustrial_BigGuns1506.xml -->
+	<!-- EN: stock -->
+	<RNEx_ChinaLakeGL.tools.0.label>stock</RNEx_ChinaLakeGL.tools.0.label>
+	<!-- EN: barrel -->
+	<RNEx_ChinaLakeGL.tools.1.label>barrel</RNEx_ChinaLakeGL.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNEx_ChinaLakeGL.tools.2.label>muzzle</RNEx_ChinaLakeGL.tools.2.label>
+	<!-- EN: stock -->
+	<RNEx_HK69A1GL.tools.0.label>stock</RNEx_HK69A1GL.tools.0.label>
+	<!-- EN: barrel -->
+	<RNEx_HK69A1GL.tools.1.label>barrel</RNEx_HK69A1GL.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNEx_HK69A1GL.tools.2.label>muzzle</RNEx_HK69A1GL.tools.2.label>
+	<!-- EN: stock -->
+	<RNEx_M320GL.tools.0.label>stock</RNEx_M320GL.tools.0.label>
+	<!-- EN: barrel -->
+	<RNEx_M320GL.tools.1.label>barrel</RNEx_M320GL.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNEx_M320GL.tools.2.label>muzzle</RNEx_M320GL.tools.2.label>
+	<!-- EN: stock -->
+	<RNEx_MilkorMGL.tools.0.label>stock</RNEx_MilkorMGL.tools.0.label>
+	<!-- EN: barrel -->
+	<RNEx_MilkorMGL.tools.1.label>barrel</RNEx_MilkorMGL.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNEx_MilkorMGL.tools.2.label>muzzle</RNEx_MilkorMGL.tools.2.label>
+	<!-- EN: stock -->
+	<RNEx_XM25GL.tools.0.label>stock</RNEx_XM25GL.tools.0.label>
+	<!-- EN: barrel -->
+	<RNEx_XM25GL.tools.1.label>barrel</RNEx_XM25GL.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNEx_XM25GL.tools.2.label>muzzle</RNEx_XM25GL.tools.2.label>
+	<!-- EN: barrel -->
+	<RNEx_AT4RL.tools.0.label>barrel</RNEx_AT4RL.tools.0.label>
+	<!-- EN: barrel -->
+	<RNEx_CarlGustafRL.tools.0.label>barrel</RNEx_CarlGustafRL.tools.0.label>
+	<!-- EN: barrel -->
+	<RNEx_JavelinRL.tools.0.label>barrel</RNEx_JavelinRL.tools.0.label>
+	<!-- EN: barrel -->
+	<RNEx_M72LAW.tools.0.label>barrel</RNEx_M72LAW.tools.0.label>
+	<!-- EN: barrel -->
+	<RNEx_M202FLASH.tools.0.label>barrel</RNEx_M202FLASH.tools.0.label>
+	<!-- EN: barrel -->
+	<RNEx_MATADORRL.tools.0.label>barrel</RNEx_MATADORRL.tools.0.label>
+	<!-- EN: barrel -->
+	<RNEx_MBTLAWRL.tools.0.label>barrel</RNEx_MBTLAWRL.tools.0.label>
+	<!-- EN: barrel -->
+	<RNEx_RPG7V2RL.tools.0.label>barrel</RNEx_RPG7V2RL.tools.0.label>
+	<!-- EN: barrel -->
+	<RNEx_RPG28RL.tools.0.label>barrel</RNEx_RPG28RL.tools.0.label>
+	<!-- EN: barrel -->
+	<RNEx_RPG32RL.tools.0.label>barrel</RNEx_RPG32RL.tools.0.label>
+	<!-- EN: barrel -->
+	<RNEx_SMAWRL.tools.0.label>barrel</RNEx_SMAWRL.tools.0.label>
+</LanguageData>

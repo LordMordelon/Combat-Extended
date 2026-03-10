@@ -1,0 +1,21 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Rimsenal_Spacer\Weapons_EVSmart_CE1527.xml -->
+	<!-- EN: grip -->
+	<Gun_SmartHeavyPistol.tools.0.label>grip</Gun_SmartHeavyPistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_SmartHeavyPistol.tools.1.label>muzzle</Gun_SmartHeavyPistol.tools.1.label>
+	
+	<!-- EN: stock -->
+	<Gun_SmartCarbine.tools.0.label>stock</Gun_SmartCarbine.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_SmartCarbine.tools.1.label>barrel</Gun_SmartCarbine.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_SmartCarbine.tools.2.label>muzzle</Gun_SmartCarbine.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_SmartBattleRifle.tools.0.label>stock</Gun_SmartBattleRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_SmartBattleRifle.tools.1.label>barrel</Gun_SmartBattleRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_SmartBattleRifle.tools.2.label>muzzle</Gun_SmartBattleRifle.tools.2.label>
+</LanguageData>

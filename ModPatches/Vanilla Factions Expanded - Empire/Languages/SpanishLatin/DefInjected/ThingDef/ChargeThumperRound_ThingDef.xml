@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla Factions Expanded - Empire\Defs\Vanilla Factions Expanded - Empire\Ammo\ChargeThumperRound.xml -->
+	<!-- EN: 40x68mm charge cell (Demolition) -->
+	<Ammo_40x68mmDemo_Thump.label>40x68mm charge cell (Demolition)</Ammo_40x68mmDemo_Thump.label>
+	<!-- EN: Container holding fuel for incendiary shot firearms. -->
+	<Ammo_40x68mmDemo_Thump.description>Container holding fuel for incendiary shot firearms.</Ammo_40x68mmDemo_Thump.description>
+	<!-- EN: demolition bolt -->
+	<Bullet_40x68mmDemo_Thump.label>demolition bolt</Bullet_40x68mmDemo_Thump.label>
+</LanguageData>

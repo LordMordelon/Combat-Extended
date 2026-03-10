@@ -1,0 +1,30 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Killathon_ArtificialBeings_SynCore_Civil\AlienRace_Synstructs92.xml -->
+	<!-- EN: left fist -->
+	<ABF_Thing_Synstruct_Simpleton.tools.0.label>left fist</ABF_Thing_Synstruct_Simpleton.tools.0.label>
+	<!-- EN: right fist -->
+	<ABF_Thing_Synstruct_Simpleton.tools.1.label>right fist</ABF_Thing_Synstruct_Simpleton.tools.1.label>
+	<!-- EN: head -->
+	<ABF_Thing_Synstruct_Simpleton.tools.2.label>head</ABF_Thing_Synstruct_Simpleton.tools.2.label>
+	
+	<!-- EN: left fist -->
+	<ABF_Thing_Synstruct_Commoner.tools.0.label>left fist</ABF_Thing_Synstruct_Commoner.tools.0.label>
+	<!-- EN: right fist -->
+	<ABF_Thing_Synstruct_Commoner.tools.1.label>right fist</ABF_Thing_Synstruct_Commoner.tools.1.label>
+	<!-- EN: head -->
+	<ABF_Thing_Synstruct_Commoner.tools.2.label>head</ABF_Thing_Synstruct_Commoner.tools.2.label>
+	
+	<!-- EN: left fist -->
+	<ABF_Thing_Synstruct_Socialite.tools.0.label>left fist</ABF_Thing_Synstruct_Socialite.tools.0.label>
+	<!-- EN: right fist -->
+	<ABF_Thing_Synstruct_Socialite.tools.1.label>right fist</ABF_Thing_Synstruct_Socialite.tools.1.label>
+	<!-- EN: head -->
+	<ABF_Thing_Synstruct_Socialite.tools.2.label>head</ABF_Thing_Synstruct_Socialite.tools.2.label>
+	
+	<!-- EN: left fist -->
+	<ABF_Thing_Synstruct_Stoic.tools.0.label>left fist</ABF_Thing_Synstruct_Stoic.tools.0.label>
+	<!-- EN: right fist -->
+	<ABF_Thing_Synstruct_Stoic.tools.1.label>right fist</ABF_Thing_Synstruct_Stoic.tools.1.label>
+	<!-- EN: head -->
+	<ABF_Thing_Synstruct_Stoic.tools.2.label>head</ABF_Thing_Synstruct_Stoic.tools.2.label>
+</LanguageData>

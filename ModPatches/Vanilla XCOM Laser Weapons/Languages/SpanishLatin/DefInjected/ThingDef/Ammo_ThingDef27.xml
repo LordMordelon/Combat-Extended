@@ -1,0 +1,61 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla XCOM Laser Weapons\Defs\Vanilla XCOM Laser Weapons\Ammo.xml -->
+	<!-- EN: standard laser cell -->
+	<Ammo_XCOMLaserPack.label>standard laser cell</Ammo_XCOMLaserPack.label>
+	<!-- EN: A universal charge pack for various laser weapons. -->
+	<Ammo_XCOMLaserPack.description>A universal charge pack for various laser weapons.</Ammo_XCOMLaserPack.description>
+	<!-- EN: infrared laser cell -->
+	<Ammo_XCOMLaserPackInc.label>infrared laser cell</Ammo_XCOMLaserPackInc.label>
+	<!-- EN: A universal charge pack for various laser weapons. -->
+	<Ammo_XCOMLaserPackInc.description>A universal charge pack for various laser weapons.</Ammo_XCOMLaserPackInc.description>
+	<!-- EN: untraviolet laser cell -->
+	<Ammo_XCOMLaserPackHP.label>untraviolet laser cell</Ammo_XCOMLaserPackHP.label>
+	<!-- EN: A universal charge pack for various laser weapons. -->
+	<Ammo_XCOMLaserPackHP.description>A universal charge pack for various laser weapons.</Ammo_XCOMLaserPackHP.description>
+	<!-- EN: EM frequency laser cell -->
+	<Ammo_XCOMLaserPackEMP.label>EM frequency laser cell</Ammo_XCOMLaserPackEMP.label>
+	<!-- EN: A universal charge pack for various laser weapons. -->
+	<Ammo_XCOMLaserPackEMP.description>A universal charge pack for various laser weapons.</Ammo_XCOMLaserPackEMP.description>
+	<!-- EN: laser beam -->
+	<XCOM_Bullet_LaserRifleCE.label>laser beam</XCOM_Bullet_LaserRifleCE.label>
+	<!-- EN: laser beam -->
+	<XCOM_Bullet_LaserRifleCEInc.label>laser beam</XCOM_Bullet_LaserRifleCEInc.label>
+	<!-- EN: laser beam -->
+	<XCOM_Bullet_LaserRifleCEHP.label>laser beam</XCOM_Bullet_LaserRifleCEHP.label>
+	<!-- EN: laser beam -->
+	<XCOM_Bullet_LaserRifleCEEMP.label>laser beam</XCOM_Bullet_LaserRifleCEEMP.label>
+	<!-- EN: laser beam -->
+	<XCOM_Bullet_LaserSniperRifleCE.label>laser beam</XCOM_Bullet_LaserSniperRifleCE.label>
+	<!-- EN: laser beam -->
+	<XCOM_Bullet_LaserSniperRifleCEInc.label>laser beam</XCOM_Bullet_LaserSniperRifleCEInc.label>
+	<!-- EN: laser beam -->
+	<XCOM_Bullet_LaserSniperRifleCEHP.label>laser beam</XCOM_Bullet_LaserSniperRifleCEHP.label>
+	<!-- EN: laser beam -->
+	<XCOM_Bullet_LaserSniperRifleCEEMP.label>laser beam</XCOM_Bullet_LaserSniperRifleCEEMP.label>
+	<!-- EN: laser beam -->
+	<XCOM_Bullet_LaserShotgunCE.label>laser beam</XCOM_Bullet_LaserShotgunCE.label>
+	<!-- EN: laser beam -->
+	<XCOM_Bullet_LaserShotgunCEInc.label>laser beam</XCOM_Bullet_LaserShotgunCEInc.label>
+	<!-- EN: laser beam -->
+	<XCOM_Bullet_LaserShotgunCEHP.label>laser beam</XCOM_Bullet_LaserShotgunCEHP.label>
+	<!-- EN: laser beam -->
+	<XCOM_Bullet_LaserShotgunCEEMP.label>laser beam</XCOM_Bullet_LaserShotgunCEEMP.label>
+	<!-- EN: laser beam -->
+	<XCOM_Bullet_LaserCannonCE.label>laser beam</XCOM_Bullet_LaserCannonCE.label>
+	<!-- EN: laser beam -->
+	<XCOM_Bullet_LaserCannonCEInc.label>laser beam</XCOM_Bullet_LaserCannonCEInc.label>
+	<!-- EN: laser beam -->
+	<XCOM_Bullet_LaserCannonCEHP.label>laser beam</XCOM_Bullet_LaserCannonCEHP.label>
+	<!-- EN: laser beam -->
+	<XCOM_Bullet_LaserCannonCEEMP.label>laser beam</XCOM_Bullet_LaserCannonCEEMP.label>
+	<!-- EN: laser beam -->
+	<XCOM_Bullet_Laser_PistolCE.label>laser beam</XCOM_Bullet_Laser_PistolCE.label>
+	<!-- EN: laser beam -->
+	<XCOM_Bullet_Laser_PistolCEInc.label>laser beam</XCOM_Bullet_Laser_PistolCEInc.label>
+	<!-- EN: laser beam -->
+	<XCOM_Bullet_Laser_PistolCEHP.label>laser beam</XCOM_Bullet_Laser_PistolCEHP.label>
+	<!-- EN: laser beam -->
+	<XCOM_Bullet_Laser_PistolCEEMP.label>laser beam</XCOM_Bullet_Laser_PistolCEEMP.label>
+	<!-- EN: 12mm Railgun bullet (Sabot) -->
+	<XCOM_Bullet_LaserRailgunCE.label>12mm Railgun bullet (Sabot)</XCOM_Bullet_LaserRailgunCE.label>
+</LanguageData>

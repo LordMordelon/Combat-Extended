@@ -1,0 +1,53 @@
+<LanguageData>
+	<!-- ModPatches\Rim-Effect Renegade Core\Defs\Rim-Effect Renegade Core\ME_Projectile_Hediffs.xml -->
+	<!-- EN: toxin round -->
+	<ME_Toxic.label>toxin round</ME_Toxic.label>
+	<!-- EN: Neurotoxin in the bloodstream. Causes nausea and severe degradation of neuromotor functions.
+			\nAt high doses, toxic buildup can have severe health effects. Even at low doses, it can generate cancers.
+			\nCreatures who die with toxic buildup cannot be eaten. -->
+	<ME_Toxic.description>Neurotoxin in the bloodstream. Causes nausea and severe degradation of neuromotor functions.
+			\nAt high doses, toxic buildup can have severe health effects. Even at low doses, it can generate cancers.
+			\nCreatures who die with toxic buildup cannot be eaten.</ME_Toxic.description>
+	<!-- EN: initial -->
+	<ME_Toxic.stages.0.label>initial</ME_Toxic.stages.0.label>
+	<!-- EN: initial -->
+	<ME_Toxic.stages.1.label>initial</ME_Toxic.stages.1.label>
+	<!-- EN: minor -->
+	<ME_Toxic.stages.2.label>minor</ME_Toxic.stages.2.label>
+	<!-- EN: moderate -->
+	<ME_Toxic.stages.3.label>moderate</ME_Toxic.stages.3.label>
+	<!-- EN: serious -->
+	<ME_Toxic.stages.4.label>serious</ME_Toxic.stages.4.label>
+	<!-- EN: extreme -->
+	<ME_Toxic.stages.5.label>extreme</ME_Toxic.stages.5.label>
+	
+	<!-- EN: Freeze -->
+	<ME_Freeze.label>Freeze</ME_Freeze.label>
+	<!-- EN: Dangerously low core body temperature. Unless re-warmed, hypothermia gets worse and ends in death. Recovery is quick once the victim is re-warmed. Avoid hypothermia by wearing warm clothes in cold environments. -->
+	<ME_Freeze.description>Dangerously low core body temperature. Unless re-warmed, hypothermia gets worse and ends in death. Recovery is quick once the victim is re-warmed. Avoid hypothermia by wearing warm clothes in cold environments.</ME_Freeze.description>
+	<!-- EN: shivering -->
+	<ME_Freeze.stages.0.label>shivering</ME_Freeze.stages.0.label>
+	<!-- EN: shivering -->
+	<ME_Freeze.stages.1.label>shivering</ME_Freeze.stages.1.label>
+	<!-- EN: minor -->
+	<ME_Freeze.stages.2.label>minor</ME_Freeze.stages.2.label>
+	<!-- EN: serious -->
+	<ME_Freeze.stages.3.label>serious</ME_Freeze.stages.3.label>
+	<!-- EN: extreme -->
+	<ME_Freeze.stages.4.label>extreme</ME_Freeze.stages.4.label>
+	<!-- EN: Frozen -->
+	<ME_Freeze.stages.5.label>Frozen</ME_Freeze.stages.5.label>
+	
+	<!-- EN: Incendiary agent -->
+	<ME_PrometheumSoaked.label>Incendiary agent</ME_PrometheumSoaked.label>
+	<!-- EN: Shot by incendiary slug -->
+	<ME_PrometheumSoaked.description>Shot by incendiary slug</ME_PrometheumSoaked.description>
+	<!-- EN: minor -->
+	<ME_PrometheumSoaked.stages.0.label>minor</ME_PrometheumSoaked.stages.0.label>
+	<!-- EN: dripping -->
+	<ME_PrometheumSoaked.stages.1.label>dripping</ME_PrometheumSoaked.stages.1.label>
+	<!-- EN: soaked -->
+	<ME_PrometheumSoaked.stages.2.label>soaked</ME_PrometheumSoaked.stages.2.label>
+	<!-- EN: drenched -->
+	<ME_PrometheumSoaked.stages.3.label>drenched</ME_PrometheumSoaked.stages.3.label>
+</LanguageData>

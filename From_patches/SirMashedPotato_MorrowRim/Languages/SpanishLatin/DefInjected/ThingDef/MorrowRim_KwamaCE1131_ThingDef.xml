@@ -1,0 +1,28 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\SirMashedPotato_MorrowRim\MorrowRim_KwamaCE1131.xml -->
+	<!-- EN: head -->
+	<MorrowRim_KwamaScrib.tools.0.label>head</MorrowRim_KwamaScrib.tools.0.label>
+	<!-- EN: mandibles -->
+	<MorrowRim_KwamaScrib.tools.1.label>mandibles</MorrowRim_KwamaScrib.tools.1.label>
+	
+	<!-- EN: head -->
+	<MorrowRim_KwamaForager.tools.0.label>head</MorrowRim_KwamaForager.tools.0.label>
+	<!-- EN: mandibles -->
+	<MorrowRim_KwamaForager.tools.1.label>mandibles</MorrowRim_KwamaForager.tools.1.label>
+	
+	<!-- EN: head -->
+	<MorrowRim_KwamaWorker.tools.0.label>head</MorrowRim_KwamaWorker.tools.0.label>
+	<!-- EN: mandibles -->
+	<MorrowRim_KwamaWorker.tools.1.label>mandibles</MorrowRim_KwamaWorker.tools.1.label>
+	<!-- EN: claws -->
+	<MorrowRim_KwamaWorker.tools.2.label>claws</MorrowRim_KwamaWorker.tools.2.label>
+	<!-- EN: claws -->
+	<MorrowRim_KwamaWorker.tools.3.label>claws</MorrowRim_KwamaWorker.tools.3.label>
+	
+	<!-- EN: mouth -->
+	<MorrowRim_KwamaWarrior.tools.0.label>mouth</MorrowRim_KwamaWarrior.tools.0.label>
+	<!-- EN: claws -->
+	<MorrowRim_KwamaWarrior.tools.1.label>claws</MorrowRim_KwamaWarrior.tools.1.label>
+	<!-- EN: claws -->
+	<MorrowRim_KwamaWarrior.tools.2.label>claws</MorrowRim_KwamaWarrior.tools.2.label>
+</LanguageData>

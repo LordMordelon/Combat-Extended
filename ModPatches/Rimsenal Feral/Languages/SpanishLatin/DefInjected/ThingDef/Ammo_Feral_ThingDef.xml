@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- ModPatches\Rimsenal Feral\Defs\Rimsenal Feral\ThingDefs_Misc\Ammo_Feral.xml -->
+	<!-- EN: bits of jagged scrap metal -->
+	<Ammo_Feral_Scrap.label>bits of jagged scrap metal</Ammo_Feral_Scrap.label>
+	<!-- EN: Bits of jagged scrap metal. -->
+	<Ammo_Feral_Scrap.description>Bits of jagged scrap metal.</Ammo_Feral_Scrap.description>
+	<!-- EN: scrap metal -->
+	<Bullet_Feral_Scrap.label>scrap metal</Bullet_Feral_Scrap.label>
+	<!-- EN: rivet -->
+	<Bullet_Feral_Rivet.label>rivet</Bullet_Feral_Rivet.label>
+	<!-- EN: nail -->
+	<Bullet_Feral_Nail.label>nail</Bullet_Feral_Nail.label>
+	<!-- EN: 9mm Para bullet (FMJ) -->
+	<Bullet_9x19mmParaTwin_Feral_FMJ.label>9mm Para bullet (FMJ)</Bullet_9x19mmParaTwin_Feral_FMJ.label>
+	<!-- EN: 9mm Para bullet (AP) -->
+	<Bullet_9x19mmParaTwin_Feral_AP.label>9mm Para bullet (AP)</Bullet_9x19mmParaTwin_Feral_AP.label>
+	<!-- EN: 9mm Para bullet (HP) -->
+	<Bullet_9x19mmParaTwin_Feral_HP.label>9mm Para bullet (HP)</Bullet_9x19mmParaTwin_Feral_HP.label>
+</LanguageData>

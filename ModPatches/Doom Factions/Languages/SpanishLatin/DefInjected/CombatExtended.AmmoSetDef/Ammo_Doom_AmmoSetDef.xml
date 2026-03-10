@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- ModPatches\Doom Factions\Defs\Doom Factions\Ammo_Doom.xml -->
+	<!-- EN: Energy Cell -->
+	<AmmoSet_PlasmaRifle.label>Energy Cell</AmmoSet_PlasmaRifle.label>
+	<!-- EN: Energy Cell -->
+	<AmmoSet_GaussCannon.label>Energy Cell</AmmoSet_GaussCannon.label>
+	<!-- EN: Energy Cell -->
+	<AmmoSet_VortexRifle.label>Energy Cell</AmmoSet_VortexRifle.label>
+	<!-- EN: Energy Cell -->
+	<AmmoSet_Hellshot.label>Energy Cell</AmmoSet_Hellshot.label>
+	<!-- EN: Energy Cell -->
+	<AmmoSet_BFG.label>Energy Cell</AmmoSet_BFG.label>
+</LanguageData>

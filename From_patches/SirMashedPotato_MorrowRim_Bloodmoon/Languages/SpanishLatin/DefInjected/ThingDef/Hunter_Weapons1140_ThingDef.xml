@@ -1,0 +1,14 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\SirMashedPotato_MorrowRim_Bloodmoon\Hunter_Weapons1140.xml -->
+	<!-- EN: shaft -->
+	<MorrowRim_MeleeWeapon_HuntersSpear.tools.0.label>shaft</MorrowRim_MeleeWeapon_HuntersSpear.tools.0.label>
+	<!-- EN: head -->
+	<MorrowRim_MeleeWeapon_HuntersSpear.tools.1.label>head</MorrowRim_MeleeWeapon_HuntersSpear.tools.1.label>
+	
+	<!-- EN: stock -->
+	<MorrowRim_Gun_Hunters.tools.0.label>stock</MorrowRim_Gun_Hunters.tools.0.label>
+	<!-- EN: barrel -->
+	<MorrowRim_Gun_Hunters.tools.1.label>barrel</MorrowRim_Gun_Hunters.tools.1.label>
+	<!-- EN: muzzle -->
+	<MorrowRim_Gun_Hunters.tools.2.label>muzzle</MorrowRim_Gun_Hunters.tools.2.label>
+</LanguageData>

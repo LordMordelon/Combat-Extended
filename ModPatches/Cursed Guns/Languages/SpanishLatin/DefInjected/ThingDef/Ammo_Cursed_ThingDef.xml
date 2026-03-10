@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- ModPatches\Cursed Guns\Defs\Cursed Guns\Ammo_Cursed.xml -->
+	
+	<!-- EN: 40x46mm grenade (Rubber) -->
+	<Ammo_40x46mmGrenade_Rubber.label>40x46mm grenade (Rubber)</Ammo_40x46mmGrenade_Rubber.label>
+	<!-- EN: Low velocity grenade fired from handheld grenade launchers. -->
+	<Ammo_40x46mmGrenade_Rubber.description>Low velocity grenade fired from handheld grenade launchers.</Ammo_40x46mmGrenade_Rubber.description>
+	
+	<!-- EN: Rubberised slug -->
+	<Bullet_40x46mmGrenade_Rubber.label>Rubberised slug</Bullet_40x46mmGrenade_Rubber.label>
+	
+	<!-- EN: kniper blade -->
+	<Ammo_kniper_blade.label>kniper blade</Ammo_kniper_blade.label>
+	<!-- EN: A ballistic knife blade. -->
+	<Ammo_kniper_blade.description>A ballistic knife blade.</Ammo_kniper_blade.description>
+	
+	<!-- EN: Blade -->
+	<Projectile_kniper_blade.label>Blade</Projectile_kniper_blade.label>
+</LanguageData>

@@ -1,0 +1,10 @@
+<LanguageData>
+	<!-- ModPatches\Grimworld Core Imperialis\Defs\Grimworld Core Imperialis\CE_Patch_Ammo_Production.xml -->
+	
+	<!-- EN: make ammo -->
+	<GW_DoBillsLoadingBench.label>make ammo</GW_DoBillsLoadingBench.label>
+	<!-- EN: produce ammo -->
+	<GW_DoBillsLoadingBench.verb>produce ammo</GW_DoBillsLoadingBench.verb>
+	<!-- EN: producing ammo at -->
+	<GW_DoBillsLoadingBench.gerund>producing ammo at</GW_DoBillsLoadingBench.gerund>
+</LanguageData>

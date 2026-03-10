@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\RH2_Metal_Gear_Solid\RH2_MGS_CE_Patch_MeleeWeapon1313.xml -->
+	<!-- EN: handle -->
+	<RHMelee_HF_Katana.tools.0.label>handle</RHMelee_HF_Katana.tools.0.label>
+	<!-- EN: point -->
+	<RHMelee_HF_Katana.tools.1.label>point</RHMelee_HF_Katana.tools.1.label>
+	<!-- EN: blade -->
+	<RHMelee_HF_Katana.tools.2.label>blade</RHMelee_HF_Katana.tools.2.label>
+	
+	<!-- EN: handle -->
+	<RHMelee_HF_Blade.tools.0.label>handle</RHMelee_HF_Blade.tools.0.label>
+	<!-- EN: point -->
+	<RHMelee_HF_Blade.tools.1.label>point</RHMelee_HF_Blade.tools.1.label>
+	<!-- EN: blade -->
+	<RHMelee_HF_Blade.tools.2.label>blade</RHMelee_HF_Blade.tools.2.label>
+</LanguageData>

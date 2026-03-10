@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\sargoskar_witcherhunt\Races_WyvernCE1481.xml -->
+	<!-- EN: left claws -->
+	<WMH_Wyvern.tools.0.label>left claws</WMH_Wyvern.tools.0.label>
+	<!-- EN: Right claws -->
+	<WMH_Wyvern.tools.1.label>Right claws</WMH_Wyvern.tools.1.label>
+	<!-- EN: razor beak -->
+	<WMH_Wyvern.tools.2.label>razor beak</WMH_Wyvern.tools.2.label>
+	<!-- EN: tail -->
+	<WMH_Wyvern.tools.3.label>tail</WMH_Wyvern.tools.3.label>
+</LanguageData>

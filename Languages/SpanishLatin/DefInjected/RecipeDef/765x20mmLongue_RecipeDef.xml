@@ -1,0 +1,24 @@
+<LanguageData>
+	<!-- Defs\Ammo\Pistols\765x20mmLongue.xml -->
+	
+	<!-- EN: make 7.65x20mm Longue (FMJ) cartridge x500 -->
+	<MakeAmmo_765x20mmLongue_FMJ.label>make 7.65x20mm Longue (FMJ) cartridge x500</MakeAmmo_765x20mmLongue_FMJ.label>
+	<!-- EN: Craft 500 7.65x20mm Longue (FMJ) cartridges. -->
+	<MakeAmmo_765x20mmLongue_FMJ.description>Craft 500 7.65x20mm Longue (FMJ) cartridges.</MakeAmmo_765x20mmLongue_FMJ.description>
+	<!-- EN: Making 7.65x20mm Longue (FMJ) cartridges. -->
+	<MakeAmmo_765x20mmLongue_FMJ.jobString>Making 7.65x20mm Longue (FMJ) cartridges.</MakeAmmo_765x20mmLongue_FMJ.jobString>
+	
+	<!-- EN: make 7.65x20mm Longue (AP) cartridge x500 -->
+	<MakeAmmo_765x20mmLongue_AP.label>make 7.65x20mm Longue (AP) cartridge x500</MakeAmmo_765x20mmLongue_AP.label>
+	<!-- EN: Craft 500 7.65x20mm Longue (AP) cartridges. -->
+	<MakeAmmo_765x20mmLongue_AP.description>Craft 500 7.65x20mm Longue (AP) cartridges.</MakeAmmo_765x20mmLongue_AP.description>
+	<!-- EN: Making 7.65x20mm Longue (AP) cartridges. -->
+	<MakeAmmo_765x20mmLongue_AP.jobString>Making 7.65x20mm Longue (AP) cartridges.</MakeAmmo_765x20mmLongue_AP.jobString>
+	
+	<!-- EN: make 7.65x20mm Longue (HP) cartridge x500 -->
+	<MakeAmmo_765x20mmLongue_HP.label>make 7.65x20mm Longue (HP) cartridge x500</MakeAmmo_765x20mmLongue_HP.label>
+	<!-- EN: Craft 500 7.65x20mm Longue (HP) cartridges. -->
+	<MakeAmmo_765x20mmLongue_HP.description>Craft 500 7.65x20mm Longue (HP) cartridges.</MakeAmmo_765x20mmLongue_HP.description>
+	<!-- EN: Making 7.65x20mm Longue (HP) cartridges. -->
+	<MakeAmmo_765x20mmLongue_HP.jobString>Making 7.65x20mm Longue (HP) cartridges.</MakeAmmo_765x20mmLongue_HP.jobString>
+</LanguageData>

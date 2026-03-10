@@ -1,0 +1,8 @@
+<LanguageData>
+	<!-- ModPatches\Warhammer 40.000 - Imperium Weaponry\Defs\Warhammer 40.000 - Imperium Weaponry\GF40K_Ammo_Radium.xml -->
+	<!-- EN: 10x18mm Radium Charged -->
+	<AmmoSet_Radium_Pistol.label>10x18mm Radium Charged</AmmoSet_Radium_Pistol.label>
+	
+	<!-- EN: 8x35mm Radium Charged -->
+	<AmmoSet_Radium_Carbine.label>8x35mm Radium Charged</AmmoSet_Radium_Carbine.label>
+</LanguageData>

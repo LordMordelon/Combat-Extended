@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla Factions Expanded - Mechanoids\Defs\Vanilla Factions Expanded - Mechanoids\ThingDefs_Misc\Ammo_Mechanoid.xml -->
+	<!-- EN: 5x35mm Hyper bullet -->
+	<VFE_Bullet_5x35mmHyper.label>5x35mm Hyper bullet</VFE_Bullet_5x35mmHyper.label>
+	<!-- EN: charge railgun shot -->
+	<VFE_Bullet_ChargeRailgun_CE.label>charge railgun shot</VFE_Bullet_ChargeRailgun_CE.label>
+	<!-- EN: lightning bolt -->
+	<VFE_Bullet_TeslaProjectileCE.label>lightning bolt</VFE_Bullet_TeslaProjectileCE.label>
+</LanguageData>

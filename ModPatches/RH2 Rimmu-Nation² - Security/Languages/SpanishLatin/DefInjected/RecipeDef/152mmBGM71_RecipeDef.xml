@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\RH2 Rimmu-Nation² - Security\Defs\RH2 Rimmu-Nation² - Security\152mmBGM71.xml -->
+	<!-- EN: make BGM-71 HEAT Missile -->
+	<MakeAmmo_BGM71_HEAT.label>make BGM-71 HEAT Missile</MakeAmmo_BGM71_HEAT.label>
+	<!-- EN: Craft 1 BGM-71 HEAT Missiles. -->
+	<MakeAmmo_BGM71_HEAT.description>Craft 1 BGM-71 HEAT Missiles.</MakeAmmo_BGM71_HEAT.description>
+	<!-- EN: Making BGM-71 HEAT Missiles. -->
+	<MakeAmmo_BGM71_HEAT.jobString>Making BGM-71 HEAT Missiles.</MakeAmmo_BGM71_HEAT.jobString>
+</LanguageData>

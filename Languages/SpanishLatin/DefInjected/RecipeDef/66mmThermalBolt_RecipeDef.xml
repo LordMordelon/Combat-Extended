@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Defs\Ammo\Advanced\66mmThermalBolt.xml -->
+	<!-- EN: make 66mm Thermal Bolt x5 -->
+	<MakeAmmo_66mmThermalBolt_Incendiary.label>make 66mm Thermal Bolt x5</MakeAmmo_66mmThermalBolt_Incendiary.label>
+	<!-- EN: Craft 5 66mm Thermal Bolts. -->
+	<MakeAmmo_66mmThermalBolt_Incendiary.description>Craft 5 66mm Thermal Bolts.</MakeAmmo_66mmThermalBolt_Incendiary.description>
+	<!-- EN: Making 66mm Thermal Bolts. -->
+	<MakeAmmo_66mmThermalBolt_Incendiary.jobString>Making 66mm Thermal Bolts.</MakeAmmo_66mmThermalBolt_Incendiary.jobString>
+</LanguageData>

@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Wunders\Wunders.xml -->
+	<!-- EN: make Wunderwaffe DG-2 Bulbs x20 -->
+	<MakeAmmo_Wunder.label>make Wunderwaffe DG-2 Bulbs x20</MakeAmmo_Wunder.label>
+	<!-- EN: Craft 20 Wunderwaffe DG-2 Bulbs. -->
+	<MakeAmmo_Wunder.description>Craft 20 Wunderwaffe DG-2 Bulbs.</MakeAmmo_Wunder.description>
+	<!-- EN: Making Wunderwaffe DG-2 Bulbs. -->
+	<MakeAmmo_Wunder.jobString>Making Wunderwaffe DG-2 Bulbs.</MakeAmmo_Wunder.jobString>
+</LanguageData>

@@ -1,0 +1,41 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\DankPyon_Medieval_Overhaul\MO_Weapons_Melee_Hammers1054.xml -->
+	<!-- EN: handle -->
+	<DankPyon_MeleeWeapon_BlacksmithHammer.tools.0.label>handle</DankPyon_MeleeWeapon_BlacksmithHammer.tools.0.label>
+	<!-- EN: head -->
+	<DankPyon_MeleeWeapon_BlacksmithHammer.tools.1.label>head</DankPyon_MeleeWeapon_BlacksmithHammer.tools.1.label>
+	
+	<!-- EN: shaft -->
+	<DankPyon_MeleeWeapon_MilitaryPick.tools.0.label>shaft</DankPyon_MeleeWeapon_MilitaryPick.tools.0.label>
+	<!-- EN: head -->
+	<DankPyon_MeleeWeapon_MilitaryPick.tools.1.label>head</DankPyon_MeleeWeapon_MilitaryPick.tools.1.label>
+	
+	<!-- EN: shaft -->
+	<DankPyon_MeleeWeapon_Warhammer.tools.0.label>shaft</DankPyon_MeleeWeapon_Warhammer.tools.0.label>
+	<!-- EN: head -->
+	<DankPyon_MeleeWeapon_Warhammer.tools.1.label>head</DankPyon_MeleeWeapon_Warhammer.tools.1.label>
+	<!-- EN: head -->
+	<DankPyon_MeleeWeapon_Warhammer.tools.2.label>head</DankPyon_MeleeWeapon_Warhammer.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<DankPyon_MeleeWeapon_Pickaxe.tools.0.label>shaft</DankPyon_MeleeWeapon_Pickaxe.tools.0.label>
+	<!-- EN: head -->
+	<DankPyon_MeleeWeapon_Pickaxe.tools.1.label>head</DankPyon_MeleeWeapon_Pickaxe.tools.1.label>
+	
+	<!-- EN: shaft -->
+	<DankPyon_MeleeWeapon_TwoHandedMallet.tools.0.label>shaft</DankPyon_MeleeWeapon_TwoHandedMallet.tools.0.label>
+	<!-- EN: head -->
+	<DankPyon_MeleeWeapon_TwoHandedMallet.tools.1.label>head</DankPyon_MeleeWeapon_TwoHandedMallet.tools.1.label>
+	
+	<!-- EN: shaft -->
+	<DankPyon_MeleeWeapon_TwoHandedHammer.tools.0.label>shaft</DankPyon_MeleeWeapon_TwoHandedHammer.tools.0.label>
+	<!-- EN: head -->
+	<DankPyon_MeleeWeapon_TwoHandedHammer.tools.1.label>head</DankPyon_MeleeWeapon_TwoHandedHammer.tools.1.label>
+	
+	<!-- EN: shaft -->
+	<DankPyon_MeleeWeapon_Polehammer.tools.0.label>shaft</DankPyon_MeleeWeapon_Polehammer.tools.0.label>
+	<!-- EN: head -->
+	<DankPyon_MeleeWeapon_Polehammer.tools.1.label>head</DankPyon_MeleeWeapon_Polehammer.tools.1.label>
+	<!-- EN: head -->
+	<DankPyon_MeleeWeapon_Polehammer.tools.2.label>head</DankPyon_MeleeWeapon_Polehammer.tools.2.label>
+</LanguageData>

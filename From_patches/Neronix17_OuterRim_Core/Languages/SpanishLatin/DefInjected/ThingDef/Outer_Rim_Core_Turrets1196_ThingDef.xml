@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Neronix17_OuterRim_Core\Outer_Rim_Core_Turrets1196.xml -->
+	<!-- EN: A mid-sized automatic blaster turret, small enough to be placed indoors. It runs on Tibanna and must be kept fueled. It may explode when damaged. -->
+	<OuterRim_LightLaserCannon_Coruscant.description>A mid-sized automatic blaster turret, small enough to be placed indoors. It runs on Tibanna and must be kept fueled. It may explode when damaged.</OuterRim_LightLaserCannon_Coruscant.description>
+	<!-- EN: A mid-sized automatic blaster turret, small enough to be placed indoors. It runs on Tibanna and must be kept fueled. It may explode when damaged. -->
+	<OuterRim_LightLaserCannon_Tatooine.description>A mid-sized automatic blaster turret, small enough to be placed indoors. It runs on Tibanna and must be kept fueled. It may explode when damaged.</OuterRim_LightLaserCannon_Tatooine.description>
+	<!-- EN: A mid-sized automatic blaster turret, small enough to be placed indoors. It runs on Tibanna and must be kept fueled. It may explode when damaged. -->
+	<OuterRim_LightLaserCannon_Corellia.description>A mid-sized automatic blaster turret, small enough to be placed indoors. It runs on Tibanna and must be kept fueled. It may explode when damaged.</OuterRim_LightLaserCannon_Corellia.description>
+	<!-- EN: A mid-sized automatic blaster turret, small enough to be placed indoors. It fires ion bolts that are highly effective against electronics. It runs on Tibanna and must be kept fueled. It may explode when damaged. -->
+	<OuterRim_LightIonCannon.description>A mid-sized automatic blaster turret, small enough to be placed indoors. It fires ion bolts that are highly effective against electronics. It runs on Tibanna and must be kept fueled. It may explode when damaged.</OuterRim_LightIonCannon.description>
+	<!-- EN: ㅤ -->
+	<OuterRim_Gun_ProtonMortar.verbs.0.label>ㅤ</OuterRim_Gun_ProtonMortar.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<OuterRim_Gun_ProtonArtillery.verbs.0.label>ㅤ</OuterRim_Gun_ProtonArtillery.verbs.0.label>
+</LanguageData>

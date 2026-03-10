@@ -1,0 +1,31 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla Factions Expanded - Pirates\Defs\Vanilla Factions Expanded - Pirates\Ammo\SlugthrowerShell.xml -->
+	
+	<!-- EN: make Slugthrower (Buck) shell x100 -->
+	<MakeAmmo_Slugthrower_Buck.label>make Slugthrower (Buck) shell x100</MakeAmmo_Slugthrower_Buck.label>
+	<!-- EN: Craft 100 Slugthrower (Buck) shells. -->
+	<MakeAmmo_Slugthrower_Buck.description>Craft 100 Slugthrower (Buck) shells.</MakeAmmo_Slugthrower_Buck.description>
+	<!-- EN: Making Slugthrower (Buck) shells. -->
+	<MakeAmmo_Slugthrower_Buck.jobString>Making Slugthrower (Buck) shells.</MakeAmmo_Slugthrower_Buck.jobString>
+	
+	<!-- EN: make Slugthrower (Slug) shell x100 -->
+	<MakeAmmo_Slugthrower_Slug.label>make Slugthrower (Slug) shell x100</MakeAmmo_Slugthrower_Slug.label>
+	<!-- EN: Craft 100 Slugthrower (Slug) shells. -->
+	<MakeAmmo_Slugthrower_Slug.description>Craft 100 Slugthrower (Slug) shells.</MakeAmmo_Slugthrower_Slug.description>
+	<!-- EN: Making Slugthrower (Slug) shells. -->
+	<MakeAmmo_Slugthrower_Slug.jobString>Making Slugthrower (Slug) shells.</MakeAmmo_Slugthrower_Slug.jobString>
+	
+	<!-- EN: make Slugthrower (Beanbag) shell x100 -->
+	<MakeAmmo_Slugthrower_Beanbag.label>make Slugthrower (Beanbag) shell x100</MakeAmmo_Slugthrower_Beanbag.label>
+	<!-- EN: Craft 100 Slugthrower (Beanbag) shells. -->
+	<MakeAmmo_Slugthrower_Beanbag.description>Craft 100 Slugthrower (Beanbag) shells.</MakeAmmo_Slugthrower_Beanbag.description>
+	<!-- EN: Making Slugthrower (Beanbag) shells. -->
+	<MakeAmmo_Slugthrower_Beanbag.jobString>Making Slugthrower (Beanbag) shells.</MakeAmmo_Slugthrower_Beanbag.jobString>
+	
+	<!-- EN: make Slugthrower (EMP) shell x100 -->
+	<MakeAmmo_Slugthrower_ElectroSlug.label>make Slugthrower (EMP) shell x100</MakeAmmo_Slugthrower_ElectroSlug.label>
+	<!-- EN: Craft 100 Slugthrower (EMP) shells. -->
+	<MakeAmmo_Slugthrower_ElectroSlug.description>Craft 100 Slugthrower (EMP) shells.</MakeAmmo_Slugthrower_ElectroSlug.description>
+	<!-- EN: Making Slugthrower (EMP) shells. -->
+	<MakeAmmo_Slugthrower_ElectroSlug.jobString>Making Slugthrower (EMP) shells.</MakeAmmo_Slugthrower_ElectroSlug.jobString>
+</LanguageData>

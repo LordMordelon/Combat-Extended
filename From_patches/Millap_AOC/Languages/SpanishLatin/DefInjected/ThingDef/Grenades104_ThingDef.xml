@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Millap_AOC\Grenades104.xml -->
+	<!-- EN: throw EMP grenade -->
+	<AOC_B2H.Properties.label>throw EMP grenade</AOC_B2H.Properties.label>
+	<!-- EN: throw trash bag -->
+	<AOC_Trash_Grenade.Properties.label>throw trash bag</AOC_Trash_Grenade.Properties.label>
+</LanguageData>

@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Staffs\Staff of Fire.xml -->
+	<!-- EN: Elemental Fire Crystal -->
+	<Ammo_Elemental_Staff_Fire.label>Elemental Fire Crystal</Ammo_Elemental_Staff_Fire.label>
+	<!-- EN: A brilliant coloured Gem that radiates power -->
+	<Ammo_Elemental_Staff_Fire.description>A brilliant coloured Gem that radiates power</Ammo_Elemental_Staff_Fire.description>
+	<!-- EN: Fire Projectile -->
+	<Bullet_Elemental_Staff_Fire.label>Fire Projectile</Bullet_Elemental_Staff_Fire.label>
+</LanguageData>

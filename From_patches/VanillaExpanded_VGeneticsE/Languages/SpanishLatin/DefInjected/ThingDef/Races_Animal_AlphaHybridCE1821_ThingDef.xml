@@ -1,0 +1,51 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VGeneticsE\Races_Animal_AlphaHybridCE1821.xml -->
+	<!-- EN: mandibles -->
+	<GR_BearBug.tools.0.label>mandibles</GR_BearBug.tools.0.label>
+	<!-- EN: head -->
+	<GR_BearBug.tools.1.label>head</GR_BearBug.tools.1.label>
+	
+	<!-- EN: left first leg -->
+	<GR_Boomalisk.tools.0.label>left first leg</GR_Boomalisk.tools.0.label>
+	<!-- EN: right first leg -->
+	<GR_Boomalisk.tools.1.label>right first leg</GR_Boomalisk.tools.1.label>
+	<!-- EN: head -->
+	<GR_Boomalisk.tools.3.label>head</GR_Boomalisk.tools.3.label>
+	
+	<!-- EN: stings -->
+	<GR_Needlechicken.tools.0.label>stings</GR_Needlechicken.tools.0.label>
+	<!-- EN: head -->
+	<GR_Needlechicken.tools.1.label>head</GR_Needlechicken.tools.1.label>
+	<!-- EN: Bite -->
+	<GR_Needlechicken.tools.2.label>Bite</GR_Needlechicken.tools.2.label>
+	
+	<!-- EN: tentacles -->
+	<GR_Beetlefleet.tools.1.label>tentacles</GR_Beetlefleet.tools.1.label>
+	
+	<!-- EN: left claw -->
+	<GR_Groundffalo.tools.0.label>left claw</GR_Groundffalo.tools.0.label>
+	<!-- EN: right claw -->
+	<GR_Groundffalo.tools.1.label>right claw</GR_Groundffalo.tools.1.label>
+	<!-- EN: horn -->
+	<GR_Groundffalo.tools.2.label>horn</GR_Groundffalo.tools.2.label>
+	<!-- EN: head -->
+	<GR_Groundffalo.tools.3.label>head</GR_Groundffalo.tools.3.label>
+	
+	<!-- EN: claws -->
+	<GR_MeadowLizard.tools.0.label>claws</GR_MeadowLizard.tools.0.label>
+	<!-- EN: head -->
+	<GR_MeadowLizard.tools.2.label>head</GR_MeadowLizard.tools.2.label>
+	
+	<!-- EN: head -->
+	<GR_AnimusHare.tools.0.label>head</GR_AnimusHare.tools.0.label>
+	
+	<!-- EN: horn -->
+	<GR_Nighthrumbo.tools.0.label>horn</GR_Nighthrumbo.tools.0.label>
+	<!-- EN: head -->
+	<GR_Nighthrumbo.tools.2.label>head</GR_Nighthrumbo.tools.2.label>
+	
+	<!-- EN: left claw -->
+	<GR_WolfShrimp.tools.0.label>left claw</GR_WolfShrimp.tools.0.label>
+	<!-- EN: right claw -->
+	<GR_WolfShrimp.tools.1.label>right claw</GR_WolfShrimp.tools.1.label>
+</LanguageData>

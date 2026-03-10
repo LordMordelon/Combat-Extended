@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+		<!-- Partial armor statworker -->
+	<!-- EN: Armor durability:  -->
+	<CE_ArmorDurability>Armor durability: </CE_ArmorDurability>
+	<!-- EN: Repair armor -->
+	<CE_RepairArmorDurability>Repair armor</CE_RepairArmorDurability>
+	<!-- EN: Can't repair natural armor, armor is undamaged -->
+	<CE_ArmorDurability_CannotRepairUndamaged>Can't repair natural armor, armor is undamaged</CE_ArmorDurability_CannotRepairUndamaged>
+	<!-- EN: Can't repair natural armor, no resources -->
+	<CE_ArmorDurability_CannonRepairNoResource>Can't repair natural armor, no resources</CE_ArmorDurability_CannonRepairNoResource>
+</LanguageData>

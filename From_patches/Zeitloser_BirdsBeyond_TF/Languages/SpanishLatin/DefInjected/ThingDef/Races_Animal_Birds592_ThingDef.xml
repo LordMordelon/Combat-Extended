@@ -1,0 +1,30 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Zeitloser_BirdsBeyond_TF\Races_Animal_Birds592.xml -->
+	<!-- EN: talons -->
+	<BB_BarnOwl.tools.0.label>talons</BB_BarnOwl.tools.0.label>
+	<!-- EN: beak -->
+	<BB_BarnOwl.tools.1.label>beak</BB_BarnOwl.tools.1.label>
+	<!-- EN: head -->
+	<BB_BarnOwl.tools.2.label>head</BB_BarnOwl.tools.2.label>
+	
+	<!-- EN: talons -->
+	<BB_EagleOwl.tools.0.label>talons</BB_EagleOwl.tools.0.label>
+	<!-- EN: beak -->
+	<BB_EagleOwl.tools.1.label>beak</BB_EagleOwl.tools.1.label>
+	<!-- EN: head -->
+	<BB_EagleOwl.tools.2.label>head</BB_EagleOwl.tools.2.label>
+	
+	<!-- EN: talons -->
+	<BB_Kestrel.tools.0.label>talons</BB_Kestrel.tools.0.label>
+	<!-- EN: beak -->
+	<BB_Kestrel.tools.1.label>beak</BB_Kestrel.tools.1.label>
+	<!-- EN: head -->
+	<BB_Kestrel.tools.2.label>head</BB_Kestrel.tools.2.label>
+	
+	<!-- EN: talons -->
+	<BB_Crow.tools.0.label>talons</BB_Crow.tools.0.label>
+	<!-- EN: beak -->
+	<BB_Crow.tools.1.label>beak</BB_Crow.tools.1.label>
+	<!-- EN: head -->
+	<BB_Crow.tools.2.label>head</BB_Crow.tools.2.label>
+</LanguageData>

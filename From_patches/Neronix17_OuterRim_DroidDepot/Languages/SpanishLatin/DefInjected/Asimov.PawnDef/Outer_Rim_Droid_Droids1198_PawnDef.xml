@@ -1,0 +1,77 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Neronix17_OuterRim_DroidDepot\Outer_Rim_Droid_Droids1198.xml -->
+	<!-- EN: left fist -->
+	<OuterRim_BattleDroid.tools.0.label>left fist</OuterRim_BattleDroid.tools.0.label>
+	<!-- EN: right fist -->
+	<OuterRim_BattleDroid.tools.1.label>right fist</OuterRim_BattleDroid.tools.1.label>
+	<!-- EN: head -->
+	<OuterRim_BattleDroid.tools.2.label>head</OuterRim_BattleDroid.tools.2.label>
+	
+	<!-- EN: left fist -->
+	<OuterRim_BattleDroidAdvanced.tools.0.label>left fist</OuterRim_BattleDroidAdvanced.tools.0.label>
+	<!-- EN: right fist -->
+	<OuterRim_BattleDroidAdvanced.tools.1.label>right fist</OuterRim_BattleDroidAdvanced.tools.1.label>
+	<!-- EN: head -->
+	<OuterRim_BattleDroidAdvanced.tools.2.label>head</OuterRim_BattleDroidAdvanced.tools.2.label>
+	
+	<!-- EN: left fist -->
+	<OuterRim_MagnaGuardDroid.tools.0.label>left fist</OuterRim_MagnaGuardDroid.tools.0.label>
+	<!-- EN: right fist -->
+	<OuterRim_MagnaGuardDroid.tools.1.label>right fist</OuterRim_MagnaGuardDroid.tools.1.label>
+	<!-- EN: head -->
+	<OuterRim_MagnaGuardDroid.tools.2.label>head</OuterRim_MagnaGuardDroid.tools.2.label>
+	
+	<!-- EN: left fist -->
+	<OuterRim_ProtocolDroid.tools.0.label>left fist</OuterRim_ProtocolDroid.tools.0.label>
+	<!-- EN: right fist -->
+	<OuterRim_ProtocolDroid.tools.1.label>right fist</OuterRim_ProtocolDroid.tools.1.label>
+	<!-- EN: head -->
+	<OuterRim_ProtocolDroid.tools.2.label>head</OuterRim_ProtocolDroid.tools.2.label>
+	
+	<!-- EN: left fist -->
+	<OuterRim_CommandoDroid.tools.0.label>left fist</OuterRim_CommandoDroid.tools.0.label>
+	<!-- EN: right fist -->
+	<OuterRim_CommandoDroid.tools.1.label>right fist</OuterRim_CommandoDroid.tools.1.label>
+	<!-- EN: head -->
+	<OuterRim_CommandoDroid.tools.2.label>head</OuterRim_CommandoDroid.tools.2.label>
+	
+	<!-- EN: left fist -->
+	<OuterRim_HKDroid.tools.0.label>left fist</OuterRim_HKDroid.tools.0.label>
+	<!-- EN: right fist -->
+	<OuterRim_HKDroid.tools.1.label>right fist</OuterRim_HKDroid.tools.1.label>
+	<!-- EN: head -->
+	<OuterRim_HKDroid.tools.2.label>head</OuterRim_HKDroid.tools.2.label>
+	
+	<!-- EN: left fist -->
+	<OuterRim_ImperialLaborDroid.tools.0.label>left fist</OuterRim_ImperialLaborDroid.tools.0.label>
+	<!-- EN: right fist -->
+	<OuterRim_ImperialLaborDroid.tools.1.label>right fist</OuterRim_ImperialLaborDroid.tools.1.label>
+	<!-- EN: head -->
+	<OuterRim_ImperialLaborDroid.tools.2.label>head</OuterRim_ImperialLaborDroid.tools.2.label>
+	
+	<!-- EN: left fist -->
+	<OuterRim_KXSecurityDroid.tools.0.label>left fist</OuterRim_KXSecurityDroid.tools.0.label>
+	<!-- EN: right fist -->
+	<OuterRim_KXSecurityDroid.tools.1.label>right fist</OuterRim_KXSecurityDroid.tools.1.label>
+	<!-- EN: head -->
+	<OuterRim_KXSecurityDroid.tools.2.label>head</OuterRim_KXSecurityDroid.tools.2.label>
+	
+	<!-- EN: left fist -->
+	<OuterRim_SuperTacticalDroid.tools.0.label>left fist</OuterRim_SuperTacticalDroid.tools.0.label>
+	<!-- EN: right fist -->
+	<OuterRim_SuperTacticalDroid.tools.1.label>right fist</OuterRim_SuperTacticalDroid.tools.1.label>
+	<!-- EN: head -->
+	<OuterRim_SuperTacticalDroid.tools.2.label>head</OuterRim_SuperTacticalDroid.tools.2.label>
+	
+	<!-- EN: left fist -->
+	<OuterRim_TacticalDroid.tools.0.label>left fist</OuterRim_TacticalDroid.tools.0.label>
+	<!-- EN: right fist -->
+	<OuterRim_TacticalDroid.tools.1.label>right fist</OuterRim_TacticalDroid.tools.1.label>
+	<!-- EN: head -->
+	<OuterRim_TacticalDroid.tools.2.label>head</OuterRim_TacticalDroid.tools.2.label>
+	
+	<!-- EN: left fist -->
+	<OuterRim_SuperBattleDroid.tools.0.label>left fist</OuterRim_SuperBattleDroid.tools.0.label>
+	<!-- EN: right fist -->
+	<OuterRim_SuperBattleDroid.tools.1.label>right fist</OuterRim_SuperBattleDroid.tools.1.label>
+</LanguageData>

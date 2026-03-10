@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VanillaAnimalsExpanded\TropicalRainforest_Animals1709.xml -->
+	<!-- EN: left fist -->
+	<AEXP_Lemur.tools.0.label>left fist</AEXP_Lemur.tools.0.label>
+	<!-- EN: right fist -->
+	<AEXP_Lemur.tools.1.label>right fist</AEXP_Lemur.tools.1.label>
+	<!-- EN: head -->
+	<AEXP_Lemur.tools.3.label>head</AEXP_Lemur.tools.3.label>
+	
+	<!-- EN: left fist -->
+	<AEXP_Mandrill.tools.0.label>left fist</AEXP_Mandrill.tools.0.label>
+	<!-- EN: right fist -->
+	<AEXP_Mandrill.tools.1.label>right fist</AEXP_Mandrill.tools.1.label>
+	<!-- EN: head -->
+	<AEXP_Mandrill.tools.3.label>head</AEXP_Mandrill.tools.3.label>
+	
+	<!-- EN: head -->
+	<AEXP_Tapir.tools.1.label>head</AEXP_Tapir.tools.1.label>
+</LanguageData>

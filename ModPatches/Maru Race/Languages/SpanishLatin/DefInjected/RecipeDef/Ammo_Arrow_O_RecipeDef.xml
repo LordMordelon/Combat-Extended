@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Maru Race\Defs\Maru Race\Ammo_Arrow_O.xml -->
+	<!-- EN: make maru compound arrows x10 -->
+	<MakeAmmo_CPB_O.label>make maru compound arrows x10</MakeAmmo_CPB_O.label>
+	<!-- EN: Craft 10 maru compound arrows. -->
+	<MakeAmmo_CPB_O.description>Craft 10 maru compound arrows.</MakeAmmo_CPB_O.description>
+	<!-- EN: Making maru compound arrows. -->
+	<MakeAmmo_CPB_O.jobString>Making maru compound arrows.</MakeAmmo_CPB_O.jobString>
+</LanguageData>

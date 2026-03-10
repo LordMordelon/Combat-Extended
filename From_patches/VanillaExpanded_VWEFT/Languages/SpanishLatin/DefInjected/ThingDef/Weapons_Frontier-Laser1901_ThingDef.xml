@@ -1,0 +1,21 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VWEFT\Weapons_Frontier-Laser1901.xml -->
+	<!-- EN: grip -->
+	<VWEFT_Gun_SalvagedLaserRevolver.tools.0.label>grip</VWEFT_Gun_SalvagedLaserRevolver.tools.0.label>
+	<!-- EN: muzzle -->
+	<VWEFT_Gun_SalvagedLaserRevolver.tools.1.label>muzzle</VWEFT_Gun_SalvagedLaserRevolver.tools.1.label>
+	
+	<!-- EN: stock -->
+	<VWEFT_Gun_SalvagedLaserRepeater.tools.0.label>stock</VWEFT_Gun_SalvagedLaserRepeater.tools.0.label>
+	<!-- EN: barrel -->
+	<VWEFT_Gun_SalvagedLaserRepeater.tools.1.label>barrel</VWEFT_Gun_SalvagedLaserRepeater.tools.1.label>
+	<!-- EN: muzzle -->
+	<VWEFT_Gun_SalvagedLaserRepeater.tools.2.label>muzzle</VWEFT_Gun_SalvagedLaserRepeater.tools.2.label>
+	
+	<!-- EN: stock -->
+	<VWEFT_Gun_SalvagedLaserHuntingRifle.tools.0.label>stock</VWEFT_Gun_SalvagedLaserHuntingRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<VWEFT_Gun_SalvagedLaserHuntingRifle.tools.1.label>barrel</VWEFT_Gun_SalvagedLaserHuntingRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<VWEFT_Gun_SalvagedLaserHuntingRifle.tools.2.label>muzzle</VWEFT_Gun_SalvagedLaserHuntingRifle.tools.2.label>
+</LanguageData>

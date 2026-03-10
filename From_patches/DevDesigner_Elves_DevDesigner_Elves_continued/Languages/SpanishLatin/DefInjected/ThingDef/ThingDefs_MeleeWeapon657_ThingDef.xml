@@ -1,0 +1,121 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\DevDesigner_Elves_DevDesigner_Elves_continued\ThingDefs_MeleeWeapon657.xml -->
+	<!-- EN: shaft -->
+	<DevDesigner_DarkElves_Spear.tools.0.label>shaft</DevDesigner_DarkElves_Spear.tools.0.label>
+	<!-- EN: shaft -->
+	<DevDesigner_DarkElves_Spear.tools.1.label>shaft</DevDesigner_DarkElves_Spear.tools.1.label>
+	<!-- EN: head -->
+	<DevDesigner_DarkElves_Spear.tools.2.label>head</DevDesigner_DarkElves_Spear.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<DevDesigner_HighElves_Spear.tools.0.label>shaft</DevDesigner_HighElves_Spear.tools.0.label>
+	<!-- EN: shaft -->
+	<DevDesigner_HighElves_Spear.tools.1.label>shaft</DevDesigner_HighElves_Spear.tools.1.label>
+	<!-- EN: head -->
+	<DevDesigner_HighElves_Spear.tools.2.label>head</DevDesigner_HighElves_Spear.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<DevDesigner_WoodElves_Spear.tools.0.label>shaft</DevDesigner_WoodElves_Spear.tools.0.label>
+	<!-- EN: shaft -->
+	<DevDesigner_WoodElves_Spear.tools.1.label>shaft</DevDesigner_WoodElves_Spear.tools.1.label>
+	<!-- EN: head -->
+	<DevDesigner_WoodElves_Spear.tools.2.label>head</DevDesigner_WoodElves_Spear.tools.2.label>
+	
+	<!-- EN: handle -->
+	<DevDesigner_DarkElves_Greatsword.tools.0.label>handle</DevDesigner_DarkElves_Greatsword.tools.0.label>
+	<!-- EN: point -->
+	<DevDesigner_DarkElves_Greatsword.tools.1.label>point</DevDesigner_DarkElves_Greatsword.tools.1.label>
+	<!-- EN: edge -->
+	<DevDesigner_DarkElves_Greatsword.tools.2.label>edge</DevDesigner_DarkElves_Greatsword.tools.2.label>
+	
+	<!-- EN: handle -->
+	<DevDesigner_HighElves_Greatsword.tools.0.label>handle</DevDesigner_HighElves_Greatsword.tools.0.label>
+	<!-- EN: point -->
+	<DevDesigner_HighElves_Greatsword.tools.1.label>point</DevDesigner_HighElves_Greatsword.tools.1.label>
+	<!-- EN: edge -->
+	<DevDesigner_HighElves_Greatsword.tools.2.label>edge</DevDesigner_HighElves_Greatsword.tools.2.label>
+	
+	<!-- EN: handle -->
+	<DevDesigner_WoodElves_Greatsword.tools.0.label>handle</DevDesigner_WoodElves_Greatsword.tools.0.label>
+	<!-- EN: point -->
+	<DevDesigner_WoodElves_Greatsword.tools.1.label>point</DevDesigner_WoodElves_Greatsword.tools.1.label>
+	<!-- EN: edge -->
+	<DevDesigner_WoodElves_Greatsword.tools.2.label>edge</DevDesigner_WoodElves_Greatsword.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<DevDesigner_DarkElves_Halberd.tools.0.label>shaft</DevDesigner_DarkElves_Halberd.tools.0.label>
+	<!-- EN: edge -->
+	<DevDesigner_DarkElves_Halberd.tools.1.label>edge</DevDesigner_DarkElves_Halberd.tools.1.label>
+	<!-- EN: point -->
+	<DevDesigner_DarkElves_Halberd.tools.2.label>point</DevDesigner_DarkElves_Halberd.tools.2.label>
+	
+	<!-- EN: handle -->
+	<DevDesigner_HighElves_Longsword.tools.0.label>handle</DevDesigner_HighElves_Longsword.tools.0.label>
+	<!-- EN: point -->
+	<DevDesigner_HighElves_Longsword.tools.1.label>point</DevDesigner_HighElves_Longsword.tools.1.label>
+	<!-- EN: edge -->
+	<DevDesigner_HighElves_Longsword.tools.2.label>edge</DevDesigner_HighElves_Longsword.tools.2.label>
+	
+	<!-- EN: handle -->
+	<DevDesigner_DarkElves_Sword.tools.0.label>handle</DevDesigner_DarkElves_Sword.tools.0.label>
+	<!-- EN: point -->
+	<DevDesigner_DarkElves_Sword.tools.1.label>point</DevDesigner_DarkElves_Sword.tools.1.label>
+	<!-- EN: edge -->
+	<DevDesigner_DarkElves_Sword.tools.2.label>edge</DevDesigner_DarkElves_Sword.tools.2.label>
+	
+	<!-- EN: handle -->
+	<DevDesigner_HighElves_Sword.tools.0.label>handle</DevDesigner_HighElves_Sword.tools.0.label>
+	<!-- EN: point -->
+	<DevDesigner_HighElves_Sword.tools.1.label>point</DevDesigner_HighElves_Sword.tools.1.label>
+	<!-- EN: edge -->
+	<DevDesigner_HighElves_Sword.tools.2.label>edge</DevDesigner_HighElves_Sword.tools.2.label>
+	
+	<!-- EN: handle -->
+	<DevDesigner_WoodElves_Sword.tools.0.label>handle</DevDesigner_WoodElves_Sword.tools.0.label>
+	<!-- EN: point -->
+	<DevDesigner_WoodElves_Sword.tools.1.label>point</DevDesigner_WoodElves_Sword.tools.1.label>
+	<!-- EN: edge -->
+	<DevDesigner_WoodElves_Sword.tools.2.label>edge</DevDesigner_WoodElves_Sword.tools.2.label>
+	
+	<!-- EN: handle -->
+	<DevDesigner_DarkElves_Dagger.tools.0.label>handle</DevDesigner_DarkElves_Dagger.tools.0.label>
+	<!-- EN: point -->
+	<DevDesigner_DarkElves_Dagger.tools.1.label>point</DevDesigner_DarkElves_Dagger.tools.1.label>
+	<!-- EN: edge -->
+	<DevDesigner_DarkElves_Dagger.tools.2.label>edge</DevDesigner_DarkElves_Dagger.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<DevDesigner_WoodElves_Axe.tools.0.label>shaft</DevDesigner_WoodElves_Axe.tools.0.label>
+	<!-- EN: head -->
+	<DevDesigner_WoodElves_Axe.tools.1.label>head</DevDesigner_WoodElves_Axe.tools.1.label>
+	<!-- EN: edge -->
+	<DevDesigner_WoodElves_Axe.tools.2.label>edge</DevDesigner_WoodElves_Axe.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<DevDesigner_HighElves_Greataxe.tools.0.label>shaft</DevDesigner_HighElves_Greataxe.tools.0.label>
+	<!-- EN: head -->
+	<DevDesigner_HighElves_Greataxe.tools.1.label>head</DevDesigner_HighElves_Greataxe.tools.1.label>
+	<!-- EN: edge -->
+	<DevDesigner_HighElves_Greataxe.tools.2.label>edge</DevDesigner_HighElves_Greataxe.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<DevDesigner_WoodElves_Greataxe.tools.0.label>shaft</DevDesigner_WoodElves_Greataxe.tools.0.label>
+	<!-- EN: head -->
+	<DevDesigner_WoodElves_Greataxe.tools.1.label>head</DevDesigner_WoodElves_Greataxe.tools.1.label>
+	<!-- EN: edge -->
+	<DevDesigner_WoodElves_Greataxe.tools.2.label>edge</DevDesigner_WoodElves_Greataxe.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<DevDesigner_WoodElves_AlarielleStaff.tools.0.label>shaft</DevDesigner_WoodElves_AlarielleStaff.tools.0.label>
+	<!-- EN: shaft -->
+	<DevDesigner_WoodElves_AlarielleStaff.tools.1.label>shaft</DevDesigner_WoodElves_AlarielleStaff.tools.1.label>
+	<!-- EN: head -->
+	<DevDesigner_WoodElves_AlarielleStaff.tools.2.label>head</DevDesigner_WoodElves_AlarielleStaff.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<DevDesigner_WoodElves_ShamanStaff.tools.0.label>shaft</DevDesigner_WoodElves_ShamanStaff.tools.0.label>
+	<!-- EN: shaft -->
+	<DevDesigner_WoodElves_ShamanStaff.tools.1.label>shaft</DevDesigner_WoodElves_ShamanStaff.tools.1.label>
+	<!-- EN: head -->
+	<DevDesigner_WoodElves_ShamanStaff.tools.2.label>head</DevDesigner_WoodElves_ShamanStaff.tools.2.label>
+</LanguageData>

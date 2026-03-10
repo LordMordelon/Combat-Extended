@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- Defs\Ammo\Projectiles_Fragments.xml -->
+	<!-- EN: large fragments -->
+	<Fragment_Large.label>large fragments</Fragment_Large.label>
+	<!-- EN: medium fragments -->
+	<Fragment_Medium.label>medium fragments</Fragment_Medium.label>
+	<!-- EN: small fragments -->
+	<Fragment_Small.label>small fragments</Fragment_Small.label>
+	<!-- EN: bomblet -->
+	<Fragment_Bomblet.label>bomblet</Fragment_Bomblet.label>
+</LanguageData>

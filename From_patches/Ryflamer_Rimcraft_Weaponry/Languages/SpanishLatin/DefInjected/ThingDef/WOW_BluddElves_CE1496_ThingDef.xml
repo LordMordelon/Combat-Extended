@@ -1,0 +1,33 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Ryflamer_Rimcraft_Weaponry\WOW_BluddElves_CE1496.xml -->
+	<!-- EN: handle -->
+	<WoWM_Bloodelf_Warblade.tools.0.label>handle</WoWM_Bloodelf_Warblade.tools.0.label>
+	<!-- EN: point -->
+	<WoWM_Bloodelf_Warblade.tools.1.label>point</WoWM_Bloodelf_Warblade.tools.1.label>
+	<!-- EN: edge -->
+	<WoWM_Bloodelf_Warblade.tools.2.label>edge</WoWM_Bloodelf_Warblade.tools.2.label>
+	
+	<!-- EN: handle -->
+	<WoWM_Bloodelf_GreatSword.tools.0.label>handle</WoWM_Bloodelf_GreatSword.tools.0.label>
+	<!-- EN: point -->
+	<WoWM_Bloodelf_GreatSword.tools.1.label>point</WoWM_Bloodelf_GreatSword.tools.1.label>
+	<!-- EN: edge -->
+	<WoWM_Bloodelf_GreatSword.tools.2.label>edge</WoWM_Bloodelf_GreatSword.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<WoWM_Bloodelf_Ranseur.tools.0.label>shaft</WoWM_Bloodelf_Ranseur.tools.0.label>
+	<!-- EN: shaft -->
+	<WoWM_Bloodelf_Ranseur.tools.1.label>shaft</WoWM_Bloodelf_Ranseur.tools.1.label>
+	<!-- EN: point -->
+	<WoWM_Bloodelf_Ranseur.tools.2.label>point</WoWM_Bloodelf_Ranseur.tools.2.label>
+	
+	<!-- EN: point -->
+	<WoWM_Bloodelf_Glaive.tools.0.label>point</WoWM_Bloodelf_Glaive.tools.0.label>
+	<!-- EN: point -->
+	<WoWM_Bloodelf_Glaive.tools.1.label>point</WoWM_Bloodelf_Glaive.tools.1.label>
+	
+	<!-- EN: handle -->
+	<WoWM_Bloodelf_Warmace.tools.0.label>handle</WoWM_Bloodelf_Warmace.tools.0.label>
+	<!-- EN: head -->
+	<WoWM_Bloodelf_Warmace.tools.1.label>head</WoWM_Bloodelf_Warmace.tools.1.label>
+</LanguageData>

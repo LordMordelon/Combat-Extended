@@ -1,0 +1,44 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Millap_AOC\RangedWeapons106.xml -->
+	<!-- EN: shaft -->
+	<AOC_Monojavelin.tools.0.label>shaft</AOC_Monojavelin.tools.0.label>
+	<!-- EN: shaft -->
+	<AOC_Monojavelin.tools.1.label>shaft</AOC_Monojavelin.tools.1.label>
+	<!-- EN: head -->
+	<AOC_Monojavelin.tools.2.label>head</AOC_Monojavelin.tools.2.label>
+	<!-- EN: ㅤ -->
+	<AOC_Monojavelin.verbs.0.label>ㅤ</AOC_Monojavelin.verbs.0.label>
+	
+	<!-- EN: stock -->
+	<QKB_18K.tools.0.label>stock</QKB_18K.tools.0.label>
+	<!-- EN: barrel -->
+	<QKB_18K.tools.1.label>barrel</QKB_18K.tools.1.label>
+	<!-- EN: muzzle -->
+	<QKB_18K.tools.2.label>muzzle</QKB_18K.tools.2.label>
+	
+	<!-- EN: stock -->
+	<TCB_26K.tools.0.label>stock</TCB_26K.tools.0.label>
+	<!-- EN: barrel -->
+	<TCB_26K.tools.1.label>barrel</TCB_26K.tools.1.label>
+	<!-- EN: muzzle -->
+	<TCB_26K.tools.2.label>muzzle</TCB_26K.tools.2.label>
+	
+	<!-- EN: pickaxe -->
+	<AOC_SCP_SK.tools.0.label>pickaxe</AOC_SCP_SK.tools.0.label>
+	<!-- EN: grip -->
+	<AOC_SCP_SK.tools.1.label>grip</AOC_SCP_SK.tools.1.label>
+	<!-- EN: shovel -->
+	<AOC_SCP_SK.tools.2.label>shovel</AOC_SCP_SK.tools.2.label>
+	
+	<!-- EN: barrels -->
+	<AOC_KJW.tools.0.label>barrels</AOC_KJW.tools.0.label>
+	
+	<!-- EN: barrels -->
+	<AOC_KJW_H.tools.0.label>barrels</AOC_KJW_H.tools.0.label>
+	
+	<!-- EN: barrel -->
+	<AOC_Suvi_Sniper.tools.0.label>barrel</AOC_Suvi_Sniper.tools.0.label>
+	
+	<!-- EN: barrels -->
+	<AOC_TAS_Rifle.tools.0.label>barrels</AOC_TAS_Rifle.tools.0.label>
+</LanguageData>

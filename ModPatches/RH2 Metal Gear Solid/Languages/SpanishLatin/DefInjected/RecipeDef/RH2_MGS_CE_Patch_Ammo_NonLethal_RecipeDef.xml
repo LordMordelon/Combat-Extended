@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- ModPatches\RH2 Metal Gear Solid\Defs\RH2 Metal Gear Solid\RH2_MGS_CE_Patch_Ammo_NonLethal.xml -->
+	
+	<!-- EN: make 9x19mm Parabellum (Tranq) cartridge x500 -->
+	<MakeAmmo_9x19mmPara_NL.label>make 9x19mm Parabellum (Tranq) cartridge x500</MakeAmmo_9x19mmPara_NL.label>
+	<!-- EN: Craft 500 9x19mm Parabellum (Tranq) cartridges. -->
+	<MakeAmmo_9x19mmPara_NL.description>Craft 500 9x19mm Parabellum (Tranq) cartridges.</MakeAmmo_9x19mmPara_NL.description>
+	<!-- EN: Making 9x19mm Parabellum (Tranq) cartridges. -->
+	<MakeAmmo_9x19mmPara_NL.jobString>Making 9x19mm Parabellum (Tranq) cartridges.</MakeAmmo_9x19mmPara_NL.jobString>
+	
+	<!-- EN: make 7.62x51mm NATO (Tranq) cartridge x500 -->
+	<MakeAmmo_762x51mmNATO_NL.label>make 7.62x51mm NATO (Tranq) cartridge x500</MakeAmmo_762x51mmNATO_NL.label>
+	<!-- EN: Craft 500 7.62x51mm NATO (Tranq) cartridges. -->
+	<MakeAmmo_762x51mmNATO_NL.description>Craft 500 7.62x51mm NATO (Tranq) cartridges.</MakeAmmo_762x51mmNATO_NL.description>
+	<!-- EN: Making 7.62x51mm NATO (Tranq) cartridges. -->
+	<MakeAmmo_762x51mmNATO_NL.jobString>Making 7.62x51mm NATO (Tranq) cartridges.</MakeAmmo_762x51mmNATO_NL.jobString>
+</LanguageData>

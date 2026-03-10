@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VFEA\Patch_Abilities1742.xml -->
+	<!-- EN: Jump over a medium distance (20 cells) within line of sight to close the distance to the enemy. -->
+	<VFEA_SuperJump.description>Jump over a medium distance (20 cells) within line of sight to close the distance to the enemy.</VFEA_SuperJump.description>
+	<!-- EN: Using ability: {0} -->
+	<VFEA_SuperJump.jobReportString>Using ability: {0}</VFEA_SuperJump.jobReportString>
+</LanguageData>

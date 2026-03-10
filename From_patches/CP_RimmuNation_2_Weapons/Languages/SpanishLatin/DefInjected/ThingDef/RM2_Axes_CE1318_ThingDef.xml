@@ -1,0 +1,39 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\CP_RimmuNation_2_Weapons\RM2_Axes_CE1318.xml -->
+	<!-- EN: handle -->
+	<RNMeleeWeapon_USMC_Tomahawk.tools.0.label>handle</RNMeleeWeapon_USMC_Tomahawk.tools.0.label>
+	<!-- EN: edge -->
+	<RNMeleeWeapon_USMC_Tomahawk.tools.1.label>edge</RNMeleeWeapon_USMC_Tomahawk.tools.1.label>
+	
+	<!-- EN: handle -->
+	<RNMeleeWeapon_Gerber_Tomahawk.tools.0.label>handle</RNMeleeWeapon_Gerber_Tomahawk.tools.0.label>
+	<!-- EN: edge -->
+	<RNMeleeWeapon_Gerber_Tomahawk.tools.1.label>edge</RNMeleeWeapon_Gerber_Tomahawk.tools.1.label>
+	
+	<!-- EN: handle -->
+	<RNMeleeWeapon_Roughneck_Handaxe.tools.0.label>handle</RNMeleeWeapon_Roughneck_Handaxe.tools.0.label>
+	<!-- EN: edge -->
+	<RNMeleeWeapon_Roughneck_Handaxe.tools.1.label>edge</RNMeleeWeapon_Roughneck_Handaxe.tools.1.label>
+	
+	<!-- EN: handle -->
+	<RNMeleeWeapon_GerberSurvival_Axe.tools.0.label>handle</RNMeleeWeapon_GerberSurvival_Axe.tools.0.label>
+	<!-- EN: edge -->
+	<RNMeleeWeapon_GerberSurvival_Axe.tools.1.label>edge</RNMeleeWeapon_GerberSurvival_Axe.tools.1.label>
+	
+	<!-- EN: handle -->
+	<RNMeleeWeapon_Fire_Axe.tools.0.label>handle</RNMeleeWeapon_Fire_Axe.tools.0.label>
+	<!-- EN: edge -->
+	<RNMeleeWeapon_Fire_Axe.tools.1.label>edge</RNMeleeWeapon_Fire_Axe.tools.1.label>
+	
+	<!-- EN: handle -->
+	<RNMeleeWeapon_DMMFly_IceAxe.tools.0.label>handle</RNMeleeWeapon_DMMFly_IceAxe.tools.0.label>
+	<!-- EN: edge -->
+	<RNMeleeWeapon_DMMFly_IceAxe.tools.1.label>edge</RNMeleeWeapon_DMMFly_IceAxe.tools.1.label>
+	<!-- EN: Point -->
+	<RNMeleeWeapon_DMMFly_IceAxe.tools.2.label>Point</RNMeleeWeapon_DMMFly_IceAxe.tools.2.label>
+	
+	<!-- EN: handle -->
+	<RNMeleeWeapon_Felling_Axe.tools.0.label>handle</RNMeleeWeapon_Felling_Axe.tools.0.label>
+	<!-- EN: edge -->
+	<RNMeleeWeapon_Felling_Axe.tools.1.label>edge</RNMeleeWeapon_Felling_Axe.tools.1.label>
+</LanguageData>

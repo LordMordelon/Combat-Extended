@@ -1,0 +1,51 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\CP_RimmuNation_2_Weapons\RM2_Swords_CE1335.xml -->
+	<!-- EN: handle -->
+	<RNMeleeWeapon_Mizutori_Katana.tools.0.label>handle</RNMeleeWeapon_Mizutori_Katana.tools.0.label>
+	<!-- EN: point -->
+	<RNMeleeWeapon_Mizutori_Katana.tools.1.label>point</RNMeleeWeapon_Mizutori_Katana.tools.1.label>
+	<!-- EN: edge -->
+	<RNMeleeWeapon_Mizutori_Katana.tools.2.label>edge</RNMeleeWeapon_Mizutori_Katana.tools.2.label>
+	
+	<!-- EN: handle -->
+	<RNMeleeWeapon_Fudoshin_Katana.tools.0.label>handle</RNMeleeWeapon_Fudoshin_Katana.tools.0.label>
+	<!-- EN: point -->
+	<RNMeleeWeapon_Fudoshin_Katana.tools.1.label>point</RNMeleeWeapon_Fudoshin_Katana.tools.1.label>
+	<!-- EN: edge -->
+	<RNMeleeWeapon_Fudoshin_Katana.tools.2.label>edge</RNMeleeWeapon_Fudoshin_Katana.tools.2.label>
+	
+	<!-- EN: handle -->
+	<RNMeleeWeapon_Yanmaodao_Saber.tools.0.label>handle</RNMeleeWeapon_Yanmaodao_Saber.tools.0.label>
+	<!-- EN: point -->
+	<RNMeleeWeapon_Yanmaodao_Saber.tools.1.label>point</RNMeleeWeapon_Yanmaodao_Saber.tools.1.label>
+	<!-- EN: edge -->
+	<RNMeleeWeapon_Yanmaodao_Saber.tools.2.label>edge</RNMeleeWeapon_Yanmaodao_Saber.tools.2.label>
+	
+	<!-- EN: handle -->
+	<RNMeleeWeapon_Manganese_Wakizashi.tools.0.label>handle</RNMeleeWeapon_Manganese_Wakizashi.tools.0.label>
+	<!-- EN: point -->
+	<RNMeleeWeapon_Manganese_Wakizashi.tools.1.label>point</RNMeleeWeapon_Manganese_Wakizashi.tools.1.label>
+	<!-- EN: edge -->
+	<RNMeleeWeapon_Manganese_Wakizashi.tools.2.label>edge</RNMeleeWeapon_Manganese_Wakizashi.tools.2.label>
+	
+	<!-- EN: handle -->
+	<RNMeleeWeapon_Hanzo_Katana.tools.0.label>handle</RNMeleeWeapon_Hanzo_Katana.tools.0.label>
+	<!-- EN: point -->
+	<RNMeleeWeapon_Hanzo_Katana.tools.1.label>point</RNMeleeWeapon_Hanzo_Katana.tools.1.label>
+	<!-- EN: edge -->
+	<RNMeleeWeapon_Hanzo_Katana.tools.2.label>edge</RNMeleeWeapon_Hanzo_Katana.tools.2.label>
+	
+	<!-- EN: handle -->
+	<RNMeleeWeapon_Maximus_Spatha.tools.0.label>handle</RNMeleeWeapon_Maximus_Spatha.tools.0.label>
+	<!-- EN: point -->
+	<RNMeleeWeapon_Maximus_Spatha.tools.1.label>point</RNMeleeWeapon_Maximus_Spatha.tools.1.label>
+	<!-- EN: edge -->
+	<RNMeleeWeapon_Maximus_Spatha.tools.2.label>edge</RNMeleeWeapon_Maximus_Spatha.tools.2.label>
+	
+	<!-- EN: handle -->
+	<RNMeleeWeapon_ZKiller_Sword.tools.0.label>handle</RNMeleeWeapon_ZKiller_Sword.tools.0.label>
+	<!-- EN: blade -->
+	<RNMeleeWeapon_ZKiller_Sword.tools.1.label>blade</RNMeleeWeapon_ZKiller_Sword.tools.1.label>
+	<!-- EN: point -->
+	<RNMeleeWeapon_ZKiller_Sword.tools.2.label>point</RNMeleeWeapon_ZKiller_Sword.tools.2.label>
+</LanguageData>

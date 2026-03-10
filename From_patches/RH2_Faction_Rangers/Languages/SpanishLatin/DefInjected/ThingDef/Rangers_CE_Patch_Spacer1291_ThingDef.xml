@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\RH2_Faction_Rangers\Rangers_CE_Patch_Spacer1291.xml -->
+	<!-- EN: stock -->
+	<RNGun_MrShorty_ChargeRifle.tools.0.label>stock</RNGun_MrShorty_ChargeRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_MrShorty_ChargeRifle.tools.1.label>barrel</RNGun_MrShorty_ChargeRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_MrShorty_ChargeRifle.tools.2.label>muzzle</RNGun_MrShorty_ChargeRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_KBARailgun_BoltAction.tools.0.label>stock</RNGun_KBARailgun_BoltAction.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_KBARailgun_BoltAction.tools.1.label>barrel</RNGun_KBARailgun_BoltAction.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_KBARailgun_BoltAction.tools.2.label>muzzle</RNGun_KBARailgun_BoltAction.tools.2.label>
+</LanguageData>

@@ -1,0 +1,45 @@
+<LanguageData>
+	<!-- Defs\Ammo\Rifle\792x33mmKurz.xml -->
+	
+	<!-- EN: make 7.92x33mm Kurz (FMJ) cartridge x500 -->
+	<MakeAmmo_792x33mmKurz_FMJ.label>make 7.92x33mm Kurz (FMJ) cartridge x500</MakeAmmo_792x33mmKurz_FMJ.label>
+	<!-- EN: Craft 500 7.92x33mm Kurz (FMJ) cartridges. -->
+	<MakeAmmo_792x33mmKurz_FMJ.description>Craft 500 7.92x33mm Kurz (FMJ) cartridges.</MakeAmmo_792x33mmKurz_FMJ.description>
+	<!-- EN: Making 7.92x33mm Kurz (FMJ) cartridges. -->
+	<MakeAmmo_792x33mmKurz_FMJ.jobString>Making 7.92x33mm Kurz (FMJ) cartridges.</MakeAmmo_792x33mmKurz_FMJ.jobString>
+	
+	<!-- EN: make 7.92x33mm Kurz (AP) cartridge x500 -->
+	<MakeAmmo_792x33mmKurz_AP.label>make 7.92x33mm Kurz (AP) cartridge x500</MakeAmmo_792x33mmKurz_AP.label>
+	<!-- EN: Craft 500 7.92x33mm Kurz (AP) cartridges. -->
+	<MakeAmmo_792x33mmKurz_AP.description>Craft 500 7.92x33mm Kurz (AP) cartridges.</MakeAmmo_792x33mmKurz_AP.description>
+	<!-- EN: Making 7.92x33mm Kurz (AP) cartridges. -->
+	<MakeAmmo_792x33mmKurz_AP.jobString>Making 7.92x33mm Kurz (AP) cartridges.</MakeAmmo_792x33mmKurz_AP.jobString>
+	
+	<!-- EN: make 7.92x33mm Kurz (HP) cartridge x500 -->
+	<MakeAmmo_792x33mmKurz_HP.label>make 7.92x33mm Kurz (HP) cartridge x500</MakeAmmo_792x33mmKurz_HP.label>
+	<!-- EN: Craft 500 7.92x33mm Kurz (HP) cartridges. -->
+	<MakeAmmo_792x33mmKurz_HP.description>Craft 500 7.92x33mm Kurz (HP) cartridges.</MakeAmmo_792x33mmKurz_HP.description>
+	<!-- EN: Making 7.92x33mm Kurz (HP) cartridges. -->
+	<MakeAmmo_792x33mmKurz_HP.jobString>Making 7.92x33mm Kurz (HP) cartridges.</MakeAmmo_792x33mmKurz_HP.jobString>
+	
+	<!-- EN: make 7.92x33mm Kurz (AP-I) cartridge x500 -->
+	<MakeAmmo_792x33mmKurz_Incendiary.label>make 7.92x33mm Kurz (AP-I) cartridge x500</MakeAmmo_792x33mmKurz_Incendiary.label>
+	<!-- EN: Craft 500 7.92x33mm Kurz (AP-I) cartridges. -->
+	<MakeAmmo_792x33mmKurz_Incendiary.description>Craft 500 7.92x33mm Kurz (AP-I) cartridges.</MakeAmmo_792x33mmKurz_Incendiary.description>
+	<!-- EN: Making 7.92x33mm Kurz (AP-I) cartridges. -->
+	<MakeAmmo_792x33mmKurz_Incendiary.jobString>Making 7.92x33mm Kurz (AP-I) cartridges.</MakeAmmo_792x33mmKurz_Incendiary.jobString>
+	
+	<!-- EN: make 7.92x33mm Kurz (AP-HE) cartridge x500 -->
+	<MakeAmmo_792x33mmKurz_HE.label>make 7.92x33mm Kurz (AP-HE) cartridge x500</MakeAmmo_792x33mmKurz_HE.label>
+	<!-- EN: Craft 500 7.92x33mm Kurz (AP-HE) cartridges. -->
+	<MakeAmmo_792x33mmKurz_HE.description>Craft 500 7.92x33mm Kurz (AP-HE) cartridges.</MakeAmmo_792x33mmKurz_HE.description>
+	<!-- EN: Making 7.92x33mm Kurz (AP-HE) cartridges. -->
+	<MakeAmmo_792x33mmKurz_HE.jobString>Making 7.92x33mm Kurz (AP-HE) cartridges.</MakeAmmo_792x33mmKurz_HE.jobString>
+	
+	<!-- EN: make 7.92x33mm Kurz (Sabot) cartridge x500 -->
+	<MakeAmmo_792x33mmKurz_Sabot.label>make 7.92x33mm Kurz (Sabot) cartridge x500</MakeAmmo_792x33mmKurz_Sabot.label>
+	<!-- EN: Craft 500 7.92x33mm Kurz (Sabot) cartridges. -->
+	<MakeAmmo_792x33mmKurz_Sabot.description>Craft 500 7.92x33mm Kurz (Sabot) cartridges.</MakeAmmo_792x33mmKurz_Sabot.description>
+	<!-- EN: Making 7.92x33mm Kurz (Sabot) cartridges. -->
+	<MakeAmmo_792x33mmKurz_Sabot.jobString>Making 7.92x33mm Kurz (Sabot) cartridges.</MakeAmmo_792x33mmKurz_Sabot.jobString>
+</LanguageData>

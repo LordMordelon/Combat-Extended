@@ -1,0 +1,23 @@
+<LanguageData>
+	<!-- Defs\Drugs\Psychite_Psycho.xml -->
+	
+	<!-- EN: high on psycho -->
+	<PsychoHigh.label>high on psycho</PsychoHigh.label>
+	<!-- EN: a psycho high -->
+	<PsychoHigh.labelNoun>a psycho high</PsychoHigh.labelNoun>
+	<!-- EN: Active psycho in the bloodstream. Generates a very intense euphoric high. -->
+	<PsychoHigh.description>Active psycho in the bloodstream. Generates a very intense euphoric high.</PsychoHigh.description>
+	
+	<!-- EN: psycho crash -->
+	<PsychoCrash.label>psycho crash</PsychoCrash.label>
+	<!-- EN: a psycho crash -->
+	<PsychoCrash.labelNoun>a psycho crash</PsychoCrash.labelNoun>
+	<!-- EN: A very unpleasant delayed after-effect of psycho intake. -->
+	<PsychoCrash.description>A very unpleasant delayed after-effect of psycho intake.</PsychoCrash.description>
+	<!-- EN: recovering -->
+	<PsychoCrash.stages.0.label>recovering</PsychoCrash.stages.0.label>
+	<!-- EN: major -->
+	<PsychoCrash.stages.1.label>major</PsychoCrash.stages.1.label>
+	<!-- EN: initial -->
+	<PsychoCrash.stages.2.label>initial</PsychoCrash.stages.2.label>
+</LanguageData>

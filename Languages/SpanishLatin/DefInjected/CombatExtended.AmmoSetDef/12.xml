@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- Defs\Ammo\HighCaliber\12.7x108mmSoviet.xml -->
+	
+	<!-- EN: 12.7x108mm Soviet -->
+	<AmmoSet_127x108mm.label>12.7x108mm Soviet</AmmoSet_127x108mm.label>
+	<!-- Defs\Ammo\Modded\Halo\12.7x40mm.xml -->
+	<!-- EN: 12.7x40mm -->
+	<AmmoSet_127x40mmUNSC.label>12.7x40mm</AmmoSet_127x40mmUNSC.label>
+	<!-- EN: 12.7x40mm -->
+	<AmmoSet_127x40mmUNSCLight.label>12.7x40mm</AmmoSet_127x40mmUNSCLight.label>
+	<!-- Defs\Ammo\Modded\Halo\12.7x99mm.xml -->
+	
+	<!-- EN: 12.7x99mm -->
+	<AmmoSet_127x99mm.label>12.7x99mm</AmmoSet_127x99mm.label>
+</LanguageData>

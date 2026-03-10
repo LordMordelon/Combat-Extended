@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+	<!-- EN: Damage -->
+	<CE_DescDamage>Damage</CE_DescDamage>
+	<!-- EN: Base damage -->
+	<CE_DescBaseDamage>Base damage</CE_DescBaseDamage>
+	<!-- EN: Explosion radius -->
+	<CE_DescExplosionRadius>Explosion radius</CE_DescExplosionRadius>
+	<!-- EN: Secondary explosion -->
+	<CE_DescSecondaryExplosion>Secondary explosion</CE_DescSecondaryExplosion>
+	<!-- EN: Armor penetration -->
+	<CE_DescArmorPenetration>Armor penetration</CE_DescArmorPenetration>
+	<!-- EN: Sharp penetration -->
+	<CE_DescSharpPenetration>Sharp penetration</CE_DescSharpPenetration>
+	<!-- EN: Blunt penetration -->
+	<CE_DescBluntPenetration>Blunt penetration</CE_DescBluntPenetration>
+	<!-- EN: Armor reduction -->
+	<CE_DescAmbientPenetration>Armor reduction</CE_DescAmbientPenetration>
+	<!-- EN: Pellet count -->
+	<CE_DescPelletCount>Pellet count</CE_DescPelletCount>
+	<!-- EN: Spread factor -->
+	<CE_DescSpreadMult>Spread factor</CE_DescSpreadMult>
+	<!-- EN: Recoil factor -->
+	<CE_DescRecoilMult>Recoil factor</CE_DescRecoilMult>
+	<!-- EN: Recoil offset -->
+	<CE_DescRecoilOffset>Recoil offset</CE_DescRecoilOffset>
+	<!-- EN: Effective range factor -->
+	<CE_DescEffectiveRangeMult>Effective range factor</CE_DescEffectiveRangeMult>
+	<!-- EN: Effective range offset -->
+	<CE_DescEffectiveRangeOffset>Effective range offset</CE_DescEffectiveRangeOffset>
+	<!-- EN: Warmup time factor -->
+	<CE_DescWarmupMult>Warmup time factor</CE_DescWarmupMult>
+	<!-- EN: Warmup time offset -->
+	<CE_DescWarmupOffset>Warmup time offset</CE_DescWarmupOffset>
+	<!-- EN: Muzzle flash scale factor -->
+	<CE_DescMuzzleFlasMult>Muzzle flash scale factor</CE_DescMuzzleFlasMult>
+	<!-- EN: Muzzle flash scale offset -->
+	<CE_DescMuzzleFlashOffset>Muzzle flash scale offset</CE_DescMuzzleFlashOffset>
+	<!-- EN: Fragments -->
+	<CE_DescFragments>Fragments</CE_DescFragments>
+	<!-- EN: Weapon deterioration -->
+	<CE_DescDeteriorationHP>Weapon deterioration</CE_DescDeteriorationHP>
+
+	<!-- EN: Launched from {0} ({1}) to {2} ({3}) -->
+	<CE_TravelingShell_Description>Launched from {0} ({1}) to {2} ({3})</CE_TravelingShell_Description>
+	<!-- EN: Enemy influenced -->
+	<CE_EnemyInfluenced>Enemy influenced</CE_EnemyInfluenced>
+	<!-- EN: Effects: -->
+	<CE_FactionRecord_Explanation_Effects>Effects:</CE_FactionRecord_Explanation_Effects>
+	<!-- EN: Raids prevented for {0} days -->
+	<CE_FactionRecord_Explanation_RaidEmbargo>Raids prevented for {0} days</CE_FactionRecord_Explanation_RaidEmbargo>
+	<!-- EN: Strength affected by x{0} for {1} days -->
+	<CE_FactionRecord_Explanation_Strength>Strength affected by x{0} for {1} days</CE_FactionRecord_Explanation_Strength>
+	<!-- EN: Multiplier: -->
+	<CE_Multiplier>Multiplier:</CE_Multiplier>
+	<!-- EN: Value: -->
+	<CE_SetValPartial>Value:</CE_SetValPartial>
+
+	<!-- EN: {0} was influenced by an unknown cause -->
+	<CE_FactionRecord_Explanation_None>{0} was influenced by an unknown cause</CE_FactionRecord_Explanation_None>
+	<!-- EN: {0} leader died in a major blow -->
+	<CE_FactionRecord_Explanation_LeaderKilled>{0} leader died in a major blow</CE_FactionRecord_Explanation_LeaderKilled>
+	<!-- EN: Settlement belonging to {0} was destroyed -->
+	<CE_FactionRecord_Explanation_SettlementDestroyed>Settlement belonging to {0} was destroyed</CE_FactionRecord_Explanation_SettlementDestroyed>
+	<!-- EN: Site belonging to {0} was destroyed -->
+	<CE_FactionRecord_Explanation_SiteDestroyed>Site belonging to {0} was destroyed</CE_FactionRecord_Explanation_SiteDestroyed>
+	<!-- EN: Strengthened after an enemy of {0} was weakened -->
+	<CE_FactionRecord_Explanation_EnemyWeakened>Strengthened after an enemy of {0} was weakened</CE_FactionRecord_Explanation_EnemyWeakened>
+
+	<!-- EN: Whether or not this item can be used to spot for artillery fire between maps. -->
+	<CE_Long_Range_Radio_Desc>Whether or not this item can be used to spot for artillery fire between maps.</CE_Long_Range_Radio_Desc>
+</LanguageData>

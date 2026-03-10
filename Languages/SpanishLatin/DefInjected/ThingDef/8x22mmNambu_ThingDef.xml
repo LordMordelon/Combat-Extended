@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- Defs\Ammo\Pistols\8x22mmNambu.xml -->
+	
+	<!-- EN: 8x22mm Nambu (FMJ) -->
+	<Ammo_8x22mmNambu_FMJ.label>8x22mm Nambu (FMJ)</Ammo_8x22mmNambu_FMJ.label>
+	<!-- EN: Low caliber handgun cartridge lacking in stopping power. -->
+	<Ammo_8x22mmNambu_FMJ.description>Low caliber handgun cartridge lacking in stopping power.</Ammo_8x22mmNambu_FMJ.description>
+	
+	<!-- EN: 8x22mm Nambu (AP) -->
+	<Ammo_8x22mmNambu_AP.label>8x22mm Nambu (AP)</Ammo_8x22mmNambu_AP.label>
+	<!-- EN: Low caliber handgun cartridge lacking in stopping power. -->
+	<Ammo_8x22mmNambu_AP.description>Low caliber handgun cartridge lacking in stopping power.</Ammo_8x22mmNambu_AP.description>
+	
+	<!-- EN: 8x22mm Nambu (HP) -->
+	<Ammo_8x22mmNambu_HP.label>8x22mm Nambu (HP)</Ammo_8x22mmNambu_HP.label>
+	<!-- EN: Low caliber handgun cartridge lacking in stopping power. -->
+	<Ammo_8x22mmNambu_HP.description>Low caliber handgun cartridge lacking in stopping power.</Ammo_8x22mmNambu_HP.description>
+	
+	<!-- EN: 8mm Nambu bullet (FMJ) -->
+	<Bullet_8x22mmNambu_FMJ.label>8mm Nambu bullet (FMJ)</Bullet_8x22mmNambu_FMJ.label>
+	
+	<!-- EN: 8x22mm Nambu bullet (AP) -->
+	<Bullet_8x22mmNambu_AP.label>8x22mm Nambu bullet (AP)</Bullet_8x22mmNambu_AP.label>
+	
+	<!-- EN: 8x22mm Nambu bullet (HP) -->
+	<Bullet_8x22mmNambu_HP.label>8x22mm Nambu bullet (HP)</Bullet_8x22mmNambu_HP.label>
+</LanguageData>

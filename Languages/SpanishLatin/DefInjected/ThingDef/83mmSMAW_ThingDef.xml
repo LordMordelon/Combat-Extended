@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- Defs\Ammo\Rocket\83mmSMAW.xml -->
+	
+	<!-- EN: 83mm SMAW rocket (HEAT) -->
+	<Ammo_83mmSMAW_HEAT.label>83mm SMAW rocket (HEAT)</Ammo_83mmSMAW_HEAT.label>
+	<!-- EN: 83mm rocket designed for the Shoulder-Launched Multipurpose Assault Weapon (SMAW). After being fired a rocket motor kicks in to propel the warhead further. -->
+	<Ammo_83mmSMAW_HEAT.description>83mm rocket designed for the Shoulder-Launched Multipurpose Assault Weapon (SMAW). After being fired a rocket motor kicks in to propel the warhead further.</Ammo_83mmSMAW_HEAT.description>
+	
+	<!-- EN: 83mm SMAW rocket (HE) -->
+	<Ammo_83mmSMAW_HE.label>83mm SMAW rocket (HE)</Ammo_83mmSMAW_HE.label>
+	<!-- EN: 83mm rocket designed for the Shoulder-Launched Multipurpose Assault Weapon (SMAW). After being fired a rocket motor kicks in to propel the warhead further. -->
+	<Ammo_83mmSMAW_HE.description>83mm rocket designed for the Shoulder-Launched Multipurpose Assault Weapon (SMAW). After being fired a rocket motor kicks in to propel the warhead further.</Ammo_83mmSMAW_HE.description>
+	
+	<!-- EN: 83mm SMAW rocket (Thermobaric) -->
+	<Ammo_83mmSMAW_Thermobaric.label>83mm SMAW rocket (Thermobaric)</Ammo_83mmSMAW_Thermobaric.label>
+	<!-- EN: 83mm rocket designed for the Shoulder-Launched Multipurpose Assault Weapon (SMAW). After being fired a rocket motor kicks in to propel the warhead further. -->
+	<Ammo_83mmSMAW_Thermobaric.description>83mm rocket designed for the Shoulder-Launched Multipurpose Assault Weapon (SMAW). After being fired a rocket motor kicks in to propel the warhead further.</Ammo_83mmSMAW_Thermobaric.description>
+	
+	<!-- EN: 83mm SMAW rocket (HEAT) -->
+	<Bullet_83mmSMAW_HEAT.label>83mm SMAW rocket (HEAT)</Bullet_83mmSMAW_HEAT.label>
+	
+	<!-- EN: 83mm SMAW rocket (HE) -->
+	<Bullet_83mmSMAW_HE.label>83mm SMAW rocket (HE)</Bullet_83mmSMAW_HE.label>
+	
+	<!-- EN: 83mm SMAW rocket (Thermobaric) -->
+	<Bullet_83mmSMAW_Thermobaric.label>83mm SMAW rocket (Thermobaric)</Bullet_83mmSMAW_Thermobaric.label>
+</LanguageData>

@@ -1,0 +1,101 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Weapons_Guns17.xml -->
+	<!-- EN: grip -->
+	<Gun_Revolver.tools.0.label>grip</Gun_Revolver.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_Revolver.tools.1.label>muzzle</Gun_Revolver.tools.1.label>
+	
+	<!-- EN: grip -->
+	<Gun_Autopistol.tools.0.label>grip</Gun_Autopistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_Autopistol.tools.1.label>muzzle</Gun_Autopistol.tools.1.label>
+	
+	<!-- EN: grip -->
+	<Gun_MachinePistol.tools.0.label>grip</Gun_MachinePistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_MachinePistol.tools.1.label>muzzle</Gun_MachinePistol.tools.1.label>
+	
+	<!-- EN: stock -->
+	<Gun_PumpShotgun.tools.0.label>stock</Gun_PumpShotgun.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_PumpShotgun.tools.1.label>barrel</Gun_PumpShotgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_PumpShotgun.tools.2.label>muzzle</Gun_PumpShotgun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_ChainShotgun.tools.0.label>stock</Gun_ChainShotgun.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_ChainShotgun.tools.1.label>barrel</Gun_ChainShotgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_ChainShotgun.tools.2.label>muzzle</Gun_ChainShotgun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_BoltActionRifle.tools.0.label>stock</Gun_BoltActionRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_BoltActionRifle.tools.1.label>barrel</Gun_BoltActionRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_BoltActionRifle.tools.2.label>muzzle</Gun_BoltActionRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_AssaultRifle.tools.0.label>stock</Gun_AssaultRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_AssaultRifle.tools.1.label>barrel</Gun_AssaultRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_AssaultRifle.tools.2.label>muzzle</Gun_AssaultRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_SniperRifle.tools.0.label>stock</Gun_SniperRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_SniperRifle.tools.1.label>barrel</Gun_SniperRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_SniperRifle.tools.2.label>muzzle</Gun_SniperRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_HeavySMG.tools.0.label>stock</Gun_HeavySMG.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_HeavySMG.tools.1.label>barrel</Gun_HeavySMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_HeavySMG.tools.2.label>muzzle</Gun_HeavySMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_IncendiaryLauncher.tools.0.label>stock</Gun_IncendiaryLauncher.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_IncendiaryLauncher.tools.1.label>barrel</Gun_IncendiaryLauncher.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_IncendiaryLauncher.tools.2.label>muzzle</Gun_IncendiaryLauncher.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_LMG.tools.0.label>stock</Gun_LMG.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_LMG.tools.1.label>barrel</Gun_LMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_LMG.tools.2.label>muzzle</Gun_LMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_ChargeRifle.tools.0.label>stock</Gun_ChargeRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_ChargeRifle.tools.1.label>barrel</Gun_ChargeRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_ChargeRifle.tools.2.label>muzzle</Gun_ChargeRifle.tools.2.label>
+	
+	<!-- EN: barrel -->
+	<Gun_TripleRocket.tools.0.label>barrel</Gun_TripleRocket.tools.0.label>
+	
+	<!-- EN: barrel -->
+	<Gun_DoomsdayRocket.tools.0.label>barrel</Gun_DoomsdayRocket.tools.0.label>
+	
+	<!-- EN: A magazine-fed semi-automatic shotgun. It has the same range as a typical shotgun, but is extraordinarily dangerous due to being semi-automatic. -->
+	<Gun_ChainShotgun.description>A magazine-fed semi-automatic shotgun. It has the same range as a typical shotgun, but is extraordinarily dangerous due to being semi-automatic.</Gun_ChainShotgun.description>
+	
+	<!-- EN: barrels -->
+	<Gun_Minigun.tools.0.label>barrels</Gun_Minigun.tools.0.label>
+	
+	<!-- EN: barrel -->
+	<Gun_ThumpCannon.tools.0.label>barrel</Gun_ThumpCannon.tools.0.label>
+	
+	<!-- EN: barrel -->
+	<Gun_ChargeLance.tools.0.label>barrel</Gun_ChargeLance.tools.0.label>
+	
+	<!-- EN: barrel -->
+	<Gun_Needle.tools.0.label>barrel</Gun_Needle.tools.0.label>
+</LanguageData>

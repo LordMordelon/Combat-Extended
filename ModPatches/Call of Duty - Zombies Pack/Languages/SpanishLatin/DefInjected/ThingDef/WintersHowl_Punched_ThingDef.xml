@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Winters\WintersHowl_Punched.xml -->
+	<!-- EN: Winter's Fury cartridge -->
+	<Ammo_Winters_Cryo_Punched.label>Winter's Fury cartridge</Ammo_Winters_Cryo_Punched.label>
+	<!-- EN: Pistol cartridge favoured for its above average stopping power. -->
+	<Ammo_Winters_Cryo_Punched.description>Pistol cartridge favoured for its above average stopping power.</Ammo_Winters_Cryo_Punched.description>
+	<!-- EN: Winters Fury bullet -->
+	<Bullet_Winters_Cryo_Punched.label>Winters Fury bullet</Bullet_Winters_Cryo_Punched.label>
+</LanguageData>

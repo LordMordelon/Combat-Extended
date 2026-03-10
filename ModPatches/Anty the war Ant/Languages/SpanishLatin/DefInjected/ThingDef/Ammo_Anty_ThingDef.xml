@@ -1,0 +1,37 @@
+<LanguageData>
+	<!-- ModPatches\Anty the war Ant\Defs\Anty the war Ant\Ammo_Anty.xml -->
+	<!-- EN: Anty Acid Cartridge -->
+	<Ammo_AntyAcidRifle.label>Anty Acid Cartridge</Ammo_AntyAcidRifle.label>
+	<!-- EN: Specialised munitions filled with acid produced by anty, used in a number of their weapons. -->
+	<Ammo_AntyAcidRifle.description>Specialised munitions filled with acid produced by anty, used in a number of their weapons.</Ammo_AntyAcidRifle.description>
+	<!-- EN: anty glue canister -->
+	<Ammo_AntyGlueLauncher.label>anty glue canister</Ammo_AntyGlueLauncher.label>
+	<!-- EN: Container holding glue for use in anty support weapons. -->
+	<Ammo_AntyGlueLauncher.description>Container holding glue for use in anty support weapons.</Ammo_AntyGlueLauncher.description>
+	<!-- EN: Anty Hydroheliumion Cartridge -->
+	<Ammo_AntyAcidRed.label>Anty Hydroheliumion Cartridge</Ammo_AntyAcidRed.label>
+	<!-- EN: High strength mixture made of Anty-acid combined with Refleum. -->
+	<Ammo_AntyAcidRed.description>High strength mixture made of Anty-acid combined with Refleum.</Ammo_AntyAcidRed.description>
+	<!-- EN: crossbow bolt (Acid) -->
+	<Ammo_CrossbowBolt_AntyAcid.label>crossbow bolt (Acid)</Ammo_CrossbowBolt_AntyAcid.label>
+	<!-- EN: A crossbow bolt. -->
+	<Ammo_CrossbowBolt_AntyAcid.description>A crossbow bolt.</Ammo_CrossbowBolt_AntyAcid.description>
+	<!-- EN: Acid Bullet -->
+	<Bullet_AntyAcidRifle.label>Acid Bullet</Bullet_AntyAcidRifle.label>
+	<!-- EN: Red Burst Bullet -->
+	<Bullet_AntyRedAcidLine.label>Red Burst Bullet</Bullet_AntyRedAcidLine.label>
+	<!-- EN: Acid Grenade -->
+	<Bullet_AntyAcidLauncher.label>Acid Grenade</Bullet_AntyAcidLauncher.label>
+	<!-- EN: Red Burst Bullet -->
+	<Bullet_AntyRedAcidLauncher.label>Red Burst Bullet</Bullet_AntyRedAcidLauncher.label>
+	<!-- EN: Red Burst Cluster -->
+	<Bullet_AntyRedAcidCluster.label>Red Burst Cluster</Bullet_AntyRedAcidCluster.label>
+	<!-- EN: Red Burst Cluster -->
+	<Bullet_AntyRedAcidCluster_Frag.label>Red Burst Cluster</Bullet_AntyRedAcidCluster_Frag.label>
+	<!-- EN: glue grenade -->
+	<Bullet_AntyGlueLauncher.label>glue grenade</Bullet_AntyGlueLauncher.label>
+	<!-- EN: crossbow bolt (acid) -->
+	<Projectile_CrossbowBolt_AntyAcid.label>crossbow bolt (acid)</Projectile_CrossbowBolt_AntyAcid.label>
+	<!-- EN: Acid Bullet -->
+	<Bullet_AntyAcidGlue.label>Acid Bullet</Bullet_AntyAcidGlue.label>
+</LanguageData>

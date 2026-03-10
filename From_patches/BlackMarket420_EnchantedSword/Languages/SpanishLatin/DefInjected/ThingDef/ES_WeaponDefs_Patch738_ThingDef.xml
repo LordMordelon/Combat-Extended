@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\BlackMarket420_EnchantedSword\ES_WeaponDefs_Patch738.xml -->
+	<!-- EN: edge -->
+	<Melee_EnchantedSword.tools.0.label>edge</Melee_EnchantedSword.tools.0.label>
+	<!-- EN: blade tip -->
+	<Melee_EnchantedSword.tools.1.label>blade tip</Melee_EnchantedSword.tools.1.label>
+	<!-- EN: handle -->
+	<Melee_EnchantedSword.tools.2.label>handle</Melee_EnchantedSword.tools.2.label>
+	
+	<!-- EN: edge -->
+	<Melee_EnchantedSword_Awakened.tools.0.label>edge</Melee_EnchantedSword_Awakened.tools.0.label>
+	<!-- EN: blade tip -->
+	<Melee_EnchantedSword_Awakened.tools.1.label>blade tip</Melee_EnchantedSword_Awakened.tools.1.label>
+	<!-- EN: handle -->
+	<Melee_EnchantedSword_Awakened.tools.2.label>handle</Melee_EnchantedSword_Awakened.tools.2.label>
+</LanguageData>

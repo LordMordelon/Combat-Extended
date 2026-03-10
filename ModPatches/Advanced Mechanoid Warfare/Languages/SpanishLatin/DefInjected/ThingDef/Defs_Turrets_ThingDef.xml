@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- ModPatches\Advanced Mechanoid Warfare\Defs\Advanced Mechanoid Warfare\Defs_Turrets.xml -->
+	<!-- EN: automated mortar complex -->
+	<AMW_Turret_AutoMortar.label>automated mortar complex</AMW_Turret_AutoMortar.label>
+	<!-- EN: A fully automated mortar complex. Fires a volley of 3 explosive shells and does not require to be reloaded or manned in order to operate. However it requires a lot of power to manufacture shells quickly and it can only fire explosive shells. -->
+	<AMW_Turret_AutoMortar.description>A fully automated mortar complex. Fires a volley of 3 explosive shells and does not require to be reloaded or manned in order to operate. However it requires a lot of power to manufacture shells quickly and it can only fire explosive shells.</AMW_Turret_AutoMortar.description>
+</LanguageData>

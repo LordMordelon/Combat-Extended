@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\JoeDaly_MedMeds_MO\Hediff_MM1043.xml -->
+	<!-- EN: mechanical hand -->
+	<MechanicalMedHand.comps.0.tools.0.label>mechanical hand</MechanicalMedHand.comps.0.tools.0.label>
+	<!-- EN: mechanical arm -->
+	<MechanicalMedArm.comps.0.tools.0.label>mechanical arm</MechanicalMedArm.comps.0.tools.0.label>
+	<!-- EN: iron fist -->
+	<IronArm.comps.0.tools.0.label>iron fist</IronArm.comps.0.tools.0.label>
+	<!-- EN: prosthetic hook -->
+	<ProstheticHook.comps.0.tools.0.label>prosthetic hook</ProstheticHook.comps.0.tools.0.label>
+	<!-- EN: artificial hand -->
+	<ArtificialMedHand.comps.0.tools.0.label>artificial hand</ArtificialMedHand.comps.0.tools.0.label>
+	<!-- EN: artificial arm -->
+	<ArtificialMedArm.comps.0.tools.0.label>artificial arm</ArtificialMedArm.comps.0.tools.0.label>
+	<!-- EN: ambroisen hand -->
+	<AmbroisenMedHand.comps.0.tools.0.label>ambroisen hand</AmbroisenMedHand.comps.0.tools.0.label>
+	<!-- EN: ambroisen arm -->
+	<AmbroisenMedArm.comps.0.tools.0.label>ambroisen arm</AmbroisenMedArm.comps.0.tools.0.label>
+</LanguageData>

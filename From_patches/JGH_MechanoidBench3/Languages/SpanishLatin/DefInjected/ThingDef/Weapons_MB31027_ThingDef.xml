@@ -1,0 +1,23 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\JGH_MechanoidBench3\Weapons_MB31027.xml -->
+	<!-- EN: stock -->
+	<Gun_MechaMinigun.tools.0.label>stock</Gun_MechaMinigun.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_MechaMinigun.tools.1.label>barrel</Gun_MechaMinigun.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_MechaMinigun.tools.2.label>muzzle</Gun_MechaMinigun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_MechaSniperRifle.tools.0.label>stock</Gun_MechaSniperRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_MechaSniperRifle.tools.1.label>barrel</Gun_MechaSniperRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_MechaSniperRifle.tools.2.label>muzzle</Gun_MechaSniperRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_MechaShotgun.tools.0.label>stock</Gun_MechaShotgun.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_MechaShotgun.tools.1.label>barrel</Gun_MechaShotgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_MechaShotgun.tools.2.label>muzzle</Gun_MechaShotgun.tools.2.label>
+</LanguageData>

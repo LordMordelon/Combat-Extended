@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- Defs\BipodCategoryDefs\BipodCategories.xml -->
+	<!-- EN: Rifle -->
+	<bipodRifle.label>Rifle</bipodRifle.label>
+	<!-- EN: SAW -->
+	<bipodSAW.label>SAW</bipodSAW.label>
+	<!-- EN: LMG -->
+	<bipodLMG.label>LMG</bipodLMG.label>
+	<!-- EN: DMR -->
+	<bipodDMR.label>DMR</bipodDMR.label>
+	<!-- EN: AMR -->
+	<bipodAMR.label>AMR</bipodAMR.label>
+	<!-- EN: ATR -->
+	<bipodATR.label>ATR</bipodATR.label>
+</LanguageData>

@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Defs\Ammo\Advanced\164x284mmDemoShell.xml -->
+	<!-- EN: make 164x284mm demolition shell x5 -->
+	<MakeAmmo_164x284mmDemo.label>make 164x284mm demolition shell x5</MakeAmmo_164x284mmDemo.label>
+	<!-- EN: Craft 5 164x284mm demolition shells. -->
+	<MakeAmmo_164x284mmDemo.description>Craft 5 164x284mm demolition shells.</MakeAmmo_164x284mmDemo.description>
+	<!-- EN: Making 164x284mm demolition shell. -->
+	<MakeAmmo_164x284mmDemo.jobString>Making 164x284mm demolition shell.</MakeAmmo_164x284mmDemo.jobString>
+</LanguageData>

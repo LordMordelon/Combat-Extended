@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\LF Red Dawn\Defs\LF Red Dawn\135mm9M113Konkur.xml -->
+	<!-- EN: make 9M113 HEAT Missile -->
+	<MakeAmmo_9M113_HEAT.label>make 9M113 HEAT Missile</MakeAmmo_9M113_HEAT.label>
+	<!-- EN: Craft 5 9M113 HEAT Missiles. -->
+	<MakeAmmo_9M113_HEAT.description>Craft 5 9M113 HEAT Missiles.</MakeAmmo_9M113_HEAT.description>
+	<!-- EN: Making 9M113 HEAT Missiles. -->
+	<MakeAmmo_9M113_HEAT.jobString>Making 9M113 HEAT Missiles.</MakeAmmo_9M113_HEAT.jobString>
+</LanguageData>

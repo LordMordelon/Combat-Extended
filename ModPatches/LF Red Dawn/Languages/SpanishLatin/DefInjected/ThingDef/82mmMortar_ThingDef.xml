@@ -1,0 +1,43 @@
+<LanguageData>
+	<!-- ModPatches\LF Red Dawn\Defs\LF Red Dawn\82mmMortar.xml -->
+	
+	<!-- EN: 82mm mortar shell (HE) -->
+	<Shell_82mmMortar_HE.label>82mm mortar shell (HE)</Shell_82mmMortar_HE.label>
+	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+	<Shell_82mmMortar_HE.description>Low-velocity shell designed to be fired from a mortar.</Shell_82mmMortar_HE.description>
+	
+	<!-- EN: 82mm mortar shell (Incendiary) -->
+	<Shell_82mmMortar_Incendiary.label>82mm mortar shell (Incendiary)</Shell_82mmMortar_Incendiary.label>
+	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+	<Shell_82mmMortar_Incendiary.description>Low-velocity shell designed to be fired from a mortar.</Shell_82mmMortar_Incendiary.description>
+	
+	<!-- EN: 82mm mortar shell (EMP) -->
+	<Shell_82mmMortar_EMP.label>82mm mortar shell (EMP)</Shell_82mmMortar_EMP.label>
+	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+	<Shell_82mmMortar_EMP.description>Low-velocity shell designed to be fired from a mortar.</Shell_82mmMortar_EMP.description>
+	
+	<!-- EN: 82mm mortar shell (Foam) -->
+	<Shell_82mmMortar_Firefoam.label>82mm mortar shell (Foam)</Shell_82mmMortar_Firefoam.label>
+	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+	<Shell_82mmMortar_Firefoam.description>Low-velocity shell designed to be fired from a mortar.</Shell_82mmMortar_Firefoam.description>
+	
+	<!-- EN: 82mm mortar shell (Smoke) -->
+	<Shell_82mmMortar_Smoke.label>82mm mortar shell (Smoke)</Shell_82mmMortar_Smoke.label>
+	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+	<Shell_82mmMortar_Smoke.description>Low-velocity shell designed to be fired from a mortar.</Shell_82mmMortar_Smoke.description>
+	
+	<!-- EN: 82mm mortar shell (HE) -->
+	<Bullet_82mmMortarShell_HE.label>82mm mortar shell (HE)</Bullet_82mmMortarShell_HE.label>
+	
+	<!-- EN: 82mm mortar shell (Incendiary) -->
+	<Bullet_82mmMortarShell_Incendiary.label>82mm mortar shell (Incendiary)</Bullet_82mmMortarShell_Incendiary.label>
+	
+	<!-- EN: 82mm mortar shell (EMP) -->
+	<Bullet_82mmMortarShell_EMP.label>82mm mortar shell (EMP)</Bullet_82mmMortarShell_EMP.label>
+	
+	<!-- EN: 82mm mortar shell (Foam) -->
+	<Bullet_82mmMortarShell_Firefoam.label>82mm mortar shell (Foam)</Bullet_82mmMortarShell_Firefoam.label>
+	
+	<!-- EN: 82mm mortar shell (Smoke) -->
+	<Bullet_82mmMortarShell_82mmMortar_Smoke.label>82mm mortar shell (Smoke)</Bullet_82mmMortarShell_82mmMortar_Smoke.label>
+</LanguageData>

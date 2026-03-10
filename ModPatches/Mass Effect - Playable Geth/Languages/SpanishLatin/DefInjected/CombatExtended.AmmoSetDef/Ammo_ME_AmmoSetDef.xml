@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- ModPatches\Mass Effect - Playable Geth\Defs\Mass Effect - Playable Geth\Ammo_ME.xml -->
+	<!-- EN: Geth Thermal Clip -->
+	<AmmoSet_GethRifle.label>Geth Thermal Clip</AmmoSet_GethRifle.label>
+	<!-- EN: Geth Thermal Clip -->
+	<AmmoSet_GethSMG.label>Geth Thermal Clip</AmmoSet_GethSMG.label>
+	<!-- EN: Geth Thermal Clip -->
+	<AmmoSet_GethShotgun.label>Geth Thermal Clip</AmmoSet_GethShotgun.label>
+	<!-- EN: Geth Thermal Clip -->
+	<AmmoSet_M98_Geth.label>Geth Thermal Clip</AmmoSet_M98_Geth.label>
+	<!-- EN: Geth Thermal Clip -->
+	<AmmoSet_GethSniper.label>Geth Thermal Clip</AmmoSet_GethSniper.label>
+	<!-- EN: Geth Thermal Clip -->
+	<AmmoSet_GethSpitfire.label>Geth Thermal Clip</AmmoSet_GethSpitfire.label>
+	<!-- EN: ML-77 Missile -->
+	<AmmoSet_ML77CE.label>ML-77 Missile</AmmoSet_ML77CE.label>
+</LanguageData>

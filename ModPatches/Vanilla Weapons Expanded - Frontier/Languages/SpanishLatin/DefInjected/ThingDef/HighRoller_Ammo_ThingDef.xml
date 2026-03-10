@@ -1,0 +1,39 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla Weapons Expanded - Frontier\Defs\Vanilla Weapons Expanded - Frontier\HighRoller_Ammo.xml -->
+	<!-- EN: .44 Magnum bullet (FMJ) -->
+	<Bullet_44MagnumHR_FMJ.label>.44 Magnum bullet (FMJ)</Bullet_44MagnumHR_FMJ.label>
+	<!-- EN: .44 Magnum bullet (AP) -->
+	<Bullet_44MagnumHR_AP.label>.44 Magnum bullet (AP)</Bullet_44MagnumHR_AP.label>
+	<!-- EN: .44 Magnum bullet (HP) -->
+	<Bullet_44MagnumHR_HP.label>.44 Magnum bullet (HP)</Bullet_44MagnumHR_HP.label>
+	<!-- EN: 7.63mm Mauser bullet (FMJ) -->
+	<Bullet_763x25mmMauserHR_FMJ.label>7.63mm Mauser bullet (FMJ)</Bullet_763x25mmMauserHR_FMJ.label>
+	<!-- EN: 7.63mm Mauser bullet (AP) -->
+	<Bullet_763x25mmMauserHR_AP.label>7.63mm Mauser bullet (AP)</Bullet_763x25mmMauserHR_AP.label>
+	<!-- EN: 7.63mm Mauser bullet (HP) -->
+	<Bullet_763x25mmMauserHR_HP.label>7.63mm Mauser bullet (HP)</Bullet_763x25mmMauserHR_HP.label>
+	<!-- EN: .45-70 Government cartridge (FMJ) -->
+	<Bullet_4570GovHR_FMJ.label>.45-70 Government cartridge (FMJ)</Bullet_4570GovHR_FMJ.label>
+	<!-- EN: .45-70 Government cartridge (AP) -->
+	<Bullet_4570GovHR_AP.label>.45-70 Government cartridge (AP)</Bullet_4570GovHR_AP.label>
+	<!-- EN: .45-70 Government cartridge (HP) -->
+	<Bullet_4570GovHR_HP.label>.45-70 Government cartridge (HP)</Bullet_4570GovHR_HP.label>
+	<!-- EN: .45-70 bullet (AP-I) -->
+	<Bullet_4570GovHR_Incendiary.label>.45-70 bullet (AP-I)</Bullet_4570GovHR_Incendiary.label>
+	<!-- EN: .45-70 bullet (HE) -->
+	<Bullet_4570GovHR_HE.label>.45-70 bullet (HE)</Bullet_4570GovHR_HE.label>
+	<!-- EN: .45-70 bullet (Sabot) -->
+	<Bullet_4570GovHR_Sabot.label>.45-70 bullet (Sabot)</Bullet_4570GovHR_Sabot.label>
+	<!-- EN: buckshot pellet -->
+	<Bullet_12GaugeHR_Buck.label>buckshot pellet</Bullet_12GaugeHR_Buck.label>
+	<!-- EN: shotgun slug -->
+	<Bullet_12GaugeHR_Slug.label>shotgun slug</Bullet_12GaugeHR_Slug.label>
+	<!-- EN: EMP slug -->
+	<Bullet_12GaugeHR_ElectroSlug.label>EMP slug</Bullet_12GaugeHR_ElectroSlug.label>
+	<!-- EN: .25 ACP bullet (FMJ) -->
+	<Bullet_25ACPHR_FMJ.label>.25 ACP bullet (FMJ)</Bullet_25ACPHR_FMJ.label>
+	<!-- EN: .25 ACP bullet (AP) -->
+	<Bullet_25ACPHR_AP.label>.25 ACP bullet (AP)</Bullet_25ACPHR_AP.label>
+	<!-- EN: .25 ACP bullet (HP) -->
+	<Bullet_25ACPHR_HP.label>.25 ACP bullet (HP)</Bullet_25ACPHR_HP.label>
+</LanguageData>

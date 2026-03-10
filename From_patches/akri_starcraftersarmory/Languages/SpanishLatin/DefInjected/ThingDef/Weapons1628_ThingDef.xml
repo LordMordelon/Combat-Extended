@@ -1,0 +1,40 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\akri_starcraftersarmory\Weapons1628.xml -->
+	<!-- EN: stock -->
+	<CoS_C14_D_Gun.tools.0.label>stock</CoS_C14_D_Gun.tools.0.label>
+	<!-- EN: barrel -->
+	<CoS_C14_D_Gun.tools.1.label>barrel</CoS_C14_D_Gun.tools.1.label>
+	<!-- EN: muzzle -->
+	<CoS_C14_D_Gun.tools.2.label>muzzle</CoS_C14_D_Gun.tools.2.label>
+	<!-- EN: point -->
+	<CoS_C14_D_Gun.tools.3.label>point</CoS_C14_D_Gun.tools.3.label>
+	<!-- EN: edge -->
+	<CoS_C14_D_Gun.tools.4.label>edge</CoS_C14_D_Gun.tools.4.label>
+	
+	<!-- EN: stock -->
+	<CoS_C14_Gun.tools.0.label>stock</CoS_C14_Gun.tools.0.label>
+	<!-- EN: barrel -->
+	<CoS_C14_Gun.tools.1.label>barrel</CoS_C14_Gun.tools.1.label>
+	<!-- EN: muzzle -->
+	<CoS_C14_Gun.tools.2.label>muzzle</CoS_C14_Gun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<CoS_C20_Gun.tools.0.label>stock</CoS_C20_Gun.tools.0.label>
+	<!-- EN: barrel -->
+	<CoS_C20_Gun.tools.1.label>barrel</CoS_C20_Gun.tools.1.label>
+	<!-- EN: muzzle -->
+	<CoS_C20_Gun.tools.2.label>muzzle</CoS_C20_Gun.tools.2.label>
+	
+	<!-- EN: grip -->
+	<CoS_P45_Gun.tools.0.label>grip</CoS_P45_Gun.tools.0.label>
+	<!-- EN: muzzle -->
+	<CoS_P45_Gun.tools.1.label>muzzle</CoS_P45_Gun.tools.1.label>
+	
+	<!-- EN: fist -->
+	<CoS_Perdition_Flamethrower.tools.0.label>fist</CoS_Perdition_Flamethrower.tools.0.label>
+	
+	<!-- EN: Combat Medic Shield -->
+	<CoS_CombatMedicShield.label>Combat Medic Shield</CoS_CombatMedicShield.label>
+	<!-- EN: A plasteel alloy combat shield designed for medical staff to carry during battle. Tough and bulky, it will straight out reduce incoming damage in a percentage and can be used as a bash weapon. -->
+	<CoS_CombatMedicShield.description>A plasteel alloy combat shield designed for medical staff to carry during battle. Tough and bulky, it will straight out reduce incoming damage in a percentage and can be used as a bash weapon.</CoS_CombatMedicShield.description>
+</LanguageData>

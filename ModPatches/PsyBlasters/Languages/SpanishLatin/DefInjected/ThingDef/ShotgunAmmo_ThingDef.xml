@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- ModPatches\PsyBlasters\Defs\PsyBlasters\ShotgunAmmo.xml -->
+	
+	<!-- EN: 12 gauge psychic -->
+	<Ammo_12GaugePsychic.label>12 gauge psychic</Ammo_12GaugePsychic.label>
+	<!-- EN: Multi-pellet charge shot cartridge designed for psychically enhanced shotgun-type weapons. -->
+	<Ammo_12GaugePsychic.description>Multi-pellet charge shot cartridge designed for psychically enhanced shotgun-type weapons.</Ammo_12GaugePsychic.description>
+	
+	<!-- EN: 12 gauge psychic (Focus) -->
+	<Ammo_12GaugePsychic_Focus.label>12 gauge psychic (Focus)</Ammo_12GaugePsychic_Focus.label>
+	<!-- EN: Multi-pellet charge shot cartridge designed for psychically enhanced shotgun-type weapons. -->
+	<Ammo_12GaugePsychic_Focus.description>Multi-pellet charge shot cartridge designed for psychically enhanced shotgun-type weapons.</Ammo_12GaugePsychic_Focus.description>
+	
+	<!-- EN: 12 gauge psychic (Neuro) -->
+	<Ammo_12GaugePsychic_Neuro.label>12 gauge psychic (Neuro)</Ammo_12GaugePsychic_Neuro.label>
+	<!-- EN: Multi-pellet charge shot cartridge designed for psychically enhanced shotgun-type weapons. -->
+	<Ammo_12GaugePsychic_Neuro.description>Multi-pellet charge shot cartridge designed for psychically enhanced shotgun-type weapons.</Ammo_12GaugePsychic_Neuro.description>
+	
+	<!-- EN: psychic shot pellet -->
+	<Bullet_12GaugePsychic.label>psychic shot pellet</Bullet_12GaugePsychic.label>
+	
+	<!-- EN: psychic shot pellet (Focus) -->
+	<Bullet_12GaugePsychic_Focus.label>psychic shot pellet (Focus)</Bullet_12GaugePsychic_Focus.label>
+	
+	<!-- EN: psychic shot pellet (Neuro) -->
+	<Bullet_12GaugePsychic_Neuro.label>psychic shot pellet (Neuro)</Bullet_12GaugePsychic_Neuro.label>
+</LanguageData>

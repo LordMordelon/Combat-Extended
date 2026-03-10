@@ -1,0 +1,20 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\DankPyon_Medieval_Overhaul\MO_CE_Patch_Mimic1070.xml -->
+	<!-- EN: left side -->
+	<DankPyon_RusticMimic.tools.0.label>left side</DankPyon_RusticMimic.tools.0.label>
+	<!-- EN: right side -->
+	<DankPyon_RusticMimic.tools.1.label>right side</DankPyon_RusticMimic.tools.1.label>
+	<!-- EN: head -->
+	<DankPyon_RusticMimic.tools.3.label>head</DankPyon_RusticMimic.tools.3.label>
+	<!-- EN: mouth -->
+	<DankPyon_RusticMimic.tools.4.label>mouth</DankPyon_RusticMimic.tools.4.label>
+	
+	<!-- EN: left side -->
+	<DankPyon_RoyalMimic.tools.0.label>left side</DankPyon_RoyalMimic.tools.0.label>
+	<!-- EN: right side -->
+	<DankPyon_RoyalMimic.tools.1.label>right side</DankPyon_RoyalMimic.tools.1.label>
+	<!-- EN: head -->
+	<DankPyon_RoyalMimic.tools.3.label>head</DankPyon_RoyalMimic.tools.3.label>
+	<!-- EN: mouth -->
+	<DankPyon_RoyalMimic.tools.4.label>mouth</DankPyon_RoyalMimic.tools.4.label>
+</LanguageData>

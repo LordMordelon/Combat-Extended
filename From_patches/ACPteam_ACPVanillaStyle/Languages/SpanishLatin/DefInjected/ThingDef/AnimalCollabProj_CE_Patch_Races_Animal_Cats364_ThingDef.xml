@@ -1,0 +1,37 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\ACPteam_ACPVanillaStyle\AnimalCollabProj_CE_Patch_Races_Animal_Cats364.xml -->
+	<!-- EN: left claw -->
+	<ACPLion.tools.0.label>left claw</ACPLion.tools.0.label>
+	<!-- EN: right claw -->
+	<ACPLion.tools.1.label>right claw</ACPLion.tools.1.label>
+	<!-- EN: head -->
+	<ACPLion.tools.3.label>head</ACPLion.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<ACPTiger.tools.0.label>left claw</ACPTiger.tools.0.label>
+	<!-- EN: right claw -->
+	<ACPTiger.tools.1.label>right claw</ACPTiger.tools.1.label>
+	<!-- EN: head -->
+	<ACPTiger.tools.3.label>head</ACPTiger.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<ACPCheetah.tools.0.label>left claw</ACPCheetah.tools.0.label>
+	<!-- EN: right claw -->
+	<ACPCheetah.tools.1.label>right claw</ACPCheetah.tools.1.label>
+	<!-- EN: head -->
+	<ACPCheetah.tools.3.label>head</ACPCheetah.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<ACPAmurLeopard.tools.0.label>left claw</ACPAmurLeopard.tools.0.label>
+	<!-- EN: right claw -->
+	<ACPAmurLeopard.tools.1.label>right claw</ACPAmurLeopard.tools.1.label>
+	<!-- EN: head -->
+	<ACPAmurLeopard.tools.3.label>head</ACPAmurLeopard.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<ACPSnowLeopard.tools.0.label>left claw</ACPSnowLeopard.tools.0.label>
+	<!-- EN: right claw -->
+	<ACPSnowLeopard.tools.1.label>right claw</ACPSnowLeopard.tools.1.label>
+	<!-- EN: head -->
+	<ACPSnowLeopard.tools.3.label>head</ACPSnowLeopard.tools.3.label>
+</LanguageData>

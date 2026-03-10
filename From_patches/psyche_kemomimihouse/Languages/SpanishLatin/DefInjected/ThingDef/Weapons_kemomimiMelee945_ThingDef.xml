@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\psyche_kemomimihouse\Weapons_kemomimiMelee945.xml -->
+	<!-- EN: handle -->
+	<MeleeWeapon_konkatana.tools.0.label>handle</MeleeWeapon_konkatana.tools.0.label>
+	<!-- EN: point -->
+	<MeleeWeapon_konkatana.tools.1.label>point</MeleeWeapon_konkatana.tools.1.label>
+	<!-- EN: edge -->
+	<MeleeWeapon_konkatana.tools.2.label>edge</MeleeWeapon_konkatana.tools.2.label>
+	
+	<!-- EN: handle -->
+	<MeleeWeapon_sirokatana.tools.0.label>handle</MeleeWeapon_sirokatana.tools.0.label>
+	<!-- EN: point -->
+	<MeleeWeapon_sirokatana.tools.1.label>point</MeleeWeapon_sirokatana.tools.1.label>
+	<!-- EN: edge -->
+	<MeleeWeapon_sirokatana.tools.2.label>edge</MeleeWeapon_sirokatana.tools.2.label>
+</LanguageData>

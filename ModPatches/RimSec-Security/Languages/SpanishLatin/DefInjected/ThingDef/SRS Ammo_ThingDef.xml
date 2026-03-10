@@ -1,0 +1,21 @@
+<LanguageData>
+	<!-- ModPatches\RimSec-Security\Defs\RimSec-Security\Ammo\SRS Ammo.xml -->
+	<!-- EN: 6x24mm Charged SRS bullet -->
+	<Bullet_6x24mmSRS.label>6x24mm Charged SRS bullet</Bullet_6x24mmSRS.label>
+	<!-- EN: 6x24mm Charged SRS bullet (Conc.) -->
+	<Bullet_6x24mmSRS_AP.label>6x24mm Charged SRS bullet (Conc.)</Bullet_6x24mmSRS_AP.label>
+	<!-- EN: 6x24mm Charged SRS bullet (Ion) -->
+	<Bullet_6x24mmSRS_Ion.label>6x24mm Charged SRS bullet (Ion)</Bullet_6x24mmSRS_Ion.label>
+	<!-- EN: 6x18mm Charged SRS bullet -->
+	<Bullet_6x18mmSRS.label>6x18mm Charged SRS bullet</Bullet_6x18mmSRS.label>
+	<!-- EN: 6x18mm Charged SRS bullet (Conc.) -->
+	<Bullet_6x18mmSRS_AP.label>6x18mm Charged SRS bullet (Conc.)</Bullet_6x18mmSRS_AP.label>
+	<!-- EN: 6x18mm Charged SRS bullet (Ion) -->
+	<Bullet_6x18mmSRS_Ion.label>6x18mm Charged SRS bullet (Ion)</Bullet_6x18mmSRS_Ion.label>
+	<!-- EN: 8x35mm Charged SRS bullet -->
+	<Bullet_8x35mmSRS.label>8x35mm Charged SRS bullet</Bullet_8x35mmSRS.label>
+	<!-- EN: 8x35mm Charged SRS bullet (Conc.) -->
+	<Bullet_8x35mmSRS_AP.label>8x35mm Charged SRS bullet (Conc.)</Bullet_8x35mmSRS_AP.label>
+	<!-- EN: 8x35mm Charged SRS bullet (Ion) -->
+	<Bullet_8x35mmSRS_Ion.label>8x35mm Charged SRS bullet (Ion)</Bullet_8x35mmSRS_Ion.label>
+</LanguageData>

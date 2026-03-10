@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla XCOM Weapons\Defs\Vanilla XCOM Weapons\BoltCasterAmmo.xml -->
+	<!-- EN: .50 BMG bullet (FMJ) -->
+	<Bullet_50BMG_FMJStun.label>.50 BMG bullet (FMJ)</Bullet_50BMG_FMJStun.label>
+	<!-- EN: .50 BMG bullet (AP) -->
+	<Bullet_50BMG_APStun.label>.50 BMG bullet (AP)</Bullet_50BMG_APStun.label>
+	<!-- EN: .50 BMG bullet (AP-I) -->
+	<Bullet_50BMG_IncendiaryStun.label>.50 BMG bullet (AP-I)</Bullet_50BMG_IncendiaryStun.label>
+	<!-- EN: .50 BMG bullet (HE) -->
+	<Bullet_50BMG_HEStun.label>.50 BMG bullet (HE)</Bullet_50BMG_HEStun.label>
+	<!-- EN: .50 BMG bullet (Sabot) -->
+	<Bullet_50BMG_SabotStun.label>.50 BMG bullet (Sabot)</Bullet_50BMG_SabotStun.label>
+</LanguageData>

@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- Defs\RulePackDefs\RulePacks_Swearing.xml -->
+	<!-- EN: 
+		<li>rule->[swear]</li>
+	 -->
+	<AttackMote.rulePack.rulesStrings>
+		<li>rule->[swear]</li>
+	</AttackMote.rulePack.rulesStrings>
+	<!-- EN: 
+		<li>rule->[suppressed]</li>
+	 -->
+	<SuppressedMote.rulePack.rulesStrings>
+		<li>rule->[suppressed]</li>
+	</SuppressedMote.rulePack.rulesStrings>
+</LanguageData>

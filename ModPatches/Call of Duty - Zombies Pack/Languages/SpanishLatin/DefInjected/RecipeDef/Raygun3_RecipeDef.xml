@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Rayguns\Raygun3.xml -->
+	<!-- EN: make Raygun Mk.3 cartridge x500 -->
+	<MakeAmmo_Raygun_three.label>make Raygun Mk.3 cartridge x500</MakeAmmo_Raygun_three.label>
+	<!-- EN: Craft 500 Raygun Mk.3 cartridges. -->
+	<MakeAmmo_Raygun_three.description>Craft 500 Raygun Mk.3 cartridges.</MakeAmmo_Raygun_three.description>
+	<!-- EN: Making Raygun Mk.3 cartridges. -->
+	<MakeAmmo_Raygun_three.jobString>Making Raygun Mk.3 cartridges.</MakeAmmo_Raygun_three.jobString>
+</LanguageData>

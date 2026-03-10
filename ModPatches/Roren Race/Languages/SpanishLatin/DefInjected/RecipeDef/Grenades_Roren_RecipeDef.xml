@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Roren Race\Defs\Roren Race\Grenades_Roren.xml -->
+	<!-- EN: make roren hand grenades x15 -->
+	<MakeRoren_Hand_Grenade.label>make roren hand grenades x15</MakeRoren_Hand_Grenade.label>
+	<!-- EN: Craft 15 roren hand grenades. -->
+	<MakeRoren_Hand_Grenade.description>Craft 15 roren hand grenades.</MakeRoren_Hand_Grenade.description>
+	<!-- EN: Making roren hand grenades. -->
+	<MakeRoren_Hand_Grenade.jobString>Making roren hand grenades.</MakeRoren_Hand_Grenade.jobString>
+</LanguageData>

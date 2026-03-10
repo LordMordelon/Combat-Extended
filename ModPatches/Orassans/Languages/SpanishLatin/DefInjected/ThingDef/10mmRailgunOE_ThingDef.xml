@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Orassans\Defs\Orassans\Ammo\10mmRailgunOE.xml -->
+	<!-- EN: 10mm Railgun cartridge (Sabot:OE) -->
+	<Ammo_10mmRailgun_SabotOE.label>10mm Railgun cartridge (Sabot:OE)</Ammo_10mmRailgun_SabotOE.label>
+	<!-- EN: Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for long-range railgun weapons. -->
+	<Ammo_10mmRailgun_SabotOE.description>Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for long-range railgun weapons.</Ammo_10mmRailgun_SabotOE.description>
+	<!-- EN: 10mm Railgun bullet (Sabot:OE) -->
+	<Bullet_10mmRailgun_SabotOE.label>10mm Railgun bullet (Sabot:OE)</Bullet_10mmRailgun_SabotOE.label>
+</LanguageData>

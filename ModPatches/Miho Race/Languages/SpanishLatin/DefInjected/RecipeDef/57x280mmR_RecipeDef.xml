@@ -1,0 +1,31 @@
+<LanguageData>
+	<!-- ModPatches\Miho Race\Defs\Miho Race\Ammo\57x280mmR.xml -->
+	
+	<!-- EN: make 57x280mmR (AP) shells x5 -->
+	<MakeAmmo_57x280mmR_AP.label>make 57x280mmR (AP) shells x5</MakeAmmo_57x280mmR_AP.label>
+	<!-- EN: Craft 5 57x280mmR (AP) shells. -->
+	<MakeAmmo_57x280mmR_AP.description>Craft 5 57x280mmR (AP) shells.</MakeAmmo_57x280mmR_AP.description>
+	<!-- EN: Making 57x280mmR (AP) shells. -->
+	<MakeAmmo_57x280mmR_AP.jobString>Making 57x280mmR (AP) shells.</MakeAmmo_57x280mmR_AP.jobString>
+	
+	<!-- EN: make 57x280mmR (HE) cartridge x5 -->
+	<MakeAmmo_57x280mmR_HE.label>make 57x280mmR (HE) cartridge x5</MakeAmmo_57x280mmR_HE.label>
+	<!-- EN: Craft 5 57x280mmR (HE) cartridges. -->
+	<MakeAmmo_57x280mmR_HE.description>Craft 5 57x280mmR (HE) cartridges.</MakeAmmo_57x280mmR_HE.description>
+	<!-- EN: Making 57x280mmR (HE) cartridges. -->
+	<MakeAmmo_57x280mmR_HE.jobString>Making 57x280mmR (HE) cartridges.</MakeAmmo_57x280mmR_HE.jobString>
+	
+	<!-- EN: make 57x280mmR (HEAT) cartridge x5 -->
+	<MakeAmmo_57x280mmR_HEAT.label>make 57x280mmR (HEAT) cartridge x5</MakeAmmo_57x280mmR_HEAT.label>
+	<!-- EN: Craft 5 57x280mmR (HEAT) cartridges. -->
+	<MakeAmmo_57x280mmR_HEAT.description>Craft 5 57x280mmR (HEAT) cartridges.</MakeAmmo_57x280mmR_HEAT.description>
+	<!-- EN: Making 57x280mmR (HEAT) cartridges. -->
+	<MakeAmmo_57x280mmR_HEAT.jobString>Making 57x280mmR (HEAT) cartridges.</MakeAmmo_57x280mmR_HEAT.jobString>
+	
+	<!-- EN: make 57x280mmR (EMP) cartridge x5 -->
+	<MakeAmmo_57x280mmR_EMP.label>make 57x280mmR (EMP) cartridge x5</MakeAmmo_57x280mmR_EMP.label>
+	<!-- EN: Craft 5 57x280mmR (EMP) cartridges. -->
+	<MakeAmmo_57x280mmR_EMP.description>Craft 5 57x280mmR (EMP) cartridges.</MakeAmmo_57x280mmR_EMP.description>
+	<!-- EN: Making 57x280mmR (EMP) cartridges. -->
+	<MakeAmmo_57x280mmR_EMP.jobString>Making 57x280mmR (EMP) cartridges.</MakeAmmo_57x280mmR_EMP.jobString>
+</LanguageData>

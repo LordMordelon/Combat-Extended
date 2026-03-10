@@ -1,0 +1,24 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Recipe\44Magnum-Punched.xml -->
+	
+	<!-- EN: make .44 Magnum (FMJ) cartridge (Punched) x500 -->
+	<MakeAmmo_44Magnum_FMJ_Punched.label>make .44 Magnum (FMJ) cartridge (Punched) x500</MakeAmmo_44Magnum_FMJ_Punched.label>
+	<!-- EN: Craft 500 .44 Magnum (FMJ) cartridges (Punched). -->
+	<MakeAmmo_44Magnum_FMJ_Punched.description>Craft 500 .44 Magnum (FMJ) cartridges (Punched).</MakeAmmo_44Magnum_FMJ_Punched.description>
+	<!-- EN: Making .44 Magnum (FMJ) cartridges. -->
+	<MakeAmmo_44Magnum_FMJ_Punched.jobString>Making .44 Magnum (FMJ) cartridges.</MakeAmmo_44Magnum_FMJ_Punched.jobString>
+	
+	<!-- EN: make .44 Magnum (AP) cartridge (Punched) x500 -->
+	<MakeAmmo_44Magnum_AP_Punched.label>make .44 Magnum (AP) cartridge (Punched) x500</MakeAmmo_44Magnum_AP_Punched.label>
+	<!-- EN: Craft 500 .44 Magnum (AP) cartridges (Punched). -->
+	<MakeAmmo_44Magnum_AP_Punched.description>Craft 500 .44 Magnum (AP) cartridges (Punched).</MakeAmmo_44Magnum_AP_Punched.description>
+	<!-- EN: Making .44 Magnum (AP) cartridges. -->
+	<MakeAmmo_44Magnum_AP_Punched.jobString>Making .44 Magnum (AP) cartridges.</MakeAmmo_44Magnum_AP_Punched.jobString>
+	
+	<!-- EN: make .44 Magnum (HP) cartridge (Punched) x500 -->
+	<MakeAmmo_44Magnum_HP_Punched.label>make .44 Magnum (HP) cartridge (Punched) x500</MakeAmmo_44Magnum_HP_Punched.label>
+	<!-- EN: Craft 500 .44 Magnum (HP) cartridges (Punched). -->
+	<MakeAmmo_44Magnum_HP_Punched.description>Craft 500 .44 Magnum (HP) cartridges (Punched).</MakeAmmo_44Magnum_HP_Punched.description>
+	<!-- EN: Making .44 Magnum (HP) cartridges. -->
+	<MakeAmmo_44Magnum_HP_Punched.jobString>Making .44 Magnum (HP) cartridges.</MakeAmmo_44Magnum_HP_Punched.jobString>
+</LanguageData>

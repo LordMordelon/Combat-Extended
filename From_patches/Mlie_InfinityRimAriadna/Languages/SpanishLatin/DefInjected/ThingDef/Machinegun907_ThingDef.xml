@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Mlie_InfinityRimAriadna\Machinegun907.xml -->
+	<!-- EN: stock -->
+	<Gun_Molotok.tools.0.label>stock</Gun_Molotok.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_Molotok.tools.1.label>barrel</Gun_Molotok.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_Molotok.tools.2.label>muzzle</Gun_Molotok.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_Hishchnik.tools.0.label>stock</Gun_Hishchnik.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_Hishchnik.tools.1.label>barrel</Gun_Hishchnik.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_Hishchnik.tools.2.label>muzzle</Gun_Hishchnik.tools.2.label>
+</LanguageData>

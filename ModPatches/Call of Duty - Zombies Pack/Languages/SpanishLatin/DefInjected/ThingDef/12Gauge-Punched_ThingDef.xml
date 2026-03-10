@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Recipe\12Gauge-Punched.xml -->
+	
+	<!-- EN: 12 gauge shell (Buck) (Punched) -->
+	<Ammo_12Gauge_Buck_Punched.label>12 gauge shell (Buck) (Punched)</Ammo_12Gauge_Buck_Punched.label>
+	<!-- EN: Extremely common shotgun caliber used in almost every application, from hunting over riot control to military firearms. -->
+	<Ammo_12Gauge_Buck_Punched.description>Extremely common shotgun caliber used in almost every application, from hunting over riot control to military firearms.</Ammo_12Gauge_Buck_Punched.description>
+	
+	<!-- EN: 12 gauge shell (Slug) (Punched) -->
+	<Ammo_12Gauge_Slug_Punched.label>12 gauge shell (Slug) (Punched)</Ammo_12Gauge_Slug_Punched.label>
+	<!-- EN: Extremely common shotgun caliber used in almost every application, from hunting over riot control to military firearms. -->
+	<Ammo_12Gauge_Slug_Punched.description>Extremely common shotgun caliber used in almost every application, from hunting over riot control to military firearms.</Ammo_12Gauge_Slug_Punched.description>
+	
+	<!-- EN: 12 gauge shell (EMP) (Punched) -->
+	<Ammo_12Gauge_ElectroSlug_Punched.label>12 gauge shell (EMP) (Punched)</Ammo_12Gauge_ElectroSlug_Punched.label>
+	<!-- EN: Extremely common shotgun caliber used in almost every application, from hunting over riot control to military firearms. -->
+	<Ammo_12Gauge_ElectroSlug_Punched.description>Extremely common shotgun caliber used in almost every application, from hunting over riot control to military firearms.</Ammo_12Gauge_ElectroSlug_Punched.description>
+	
+	<!-- EN: buckshot pellet (Punched) -->
+	<Bullet_12Gauge_Buck_Punched.label>buckshot pellet (Punched)</Bullet_12Gauge_Buck_Punched.label>
+	
+	<!-- EN: shotgun slug (Punched) -->
+	<Bullet_12Gauge_Slug_Punched.label>shotgun slug (Punched)</Bullet_12Gauge_Slug_Punched.label>
+	
+	<!-- EN: EMP slug (Punched) -->
+	<Bullet_12Gauge_ElectroSlug_Punched.label>EMP slug (Punched)</Bullet_12Gauge_ElectroSlug_Punched.label>
+</LanguageData>

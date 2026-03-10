@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Orassans\Defs\Orassans\Ammo\8mmRailgunOE.xml -->
+	<!-- EN: 8mm Railgun cartridge (Sabot:OE) -->
+	<Ammo_8mmRailgun_SabotOE.label>8mm Railgun cartridge (Sabot:OE)</Ammo_8mmRailgun_SabotOE.label>
+	<!-- EN: Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for railgun rifles. -->
+	<Ammo_8mmRailgun_SabotOE.description>Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for railgun rifles.</Ammo_8mmRailgun_SabotOE.description>
+	<!-- EN: 8mm Railgun bullet (Sabot:OE) -->
+	<Bullet_8mmRailgun_SabotOE.label>8mm Railgun bullet (Sabot:OE)</Bullet_8mmRailgun_SabotOE.label>
+</LanguageData>

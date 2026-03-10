@@ -1,0 +1,28 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VanillaAnimalsExpanded\TemperateForest_Animals1708.xml -->
+	<!-- EN: left claw -->
+	<AEXP_RedPanda.tools.0.label>left claw</AEXP_RedPanda.tools.0.label>
+	<!-- EN: right claw -->
+	<AEXP_RedPanda.tools.1.label>right claw</AEXP_RedPanda.tools.1.label>
+	<!-- EN: head -->
+	<AEXP_RedPanda.tools.3.label>head</AEXP_RedPanda.tools.3.label>
+	
+	<!-- EN: claws -->
+	<AEXP_WildGoose.tools.0.label>claws</AEXP_WildGoose.tools.0.label>
+	<!-- EN: head -->
+	<AEXP_WildGoose.tools.2.label>head</AEXP_WildGoose.tools.2.label>
+	
+	<!-- EN: left claw -->
+	<AEXP_Beaver.tools.0.label>left claw</AEXP_Beaver.tools.0.label>
+	<!-- EN: right claw -->
+	<AEXP_Beaver.tools.1.label>right claw</AEXP_Beaver.tools.1.label>
+	<!-- EN: head -->
+	<AEXP_Beaver.tools.3.label>head</AEXP_Beaver.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<AEXP_Hedgehog.tools.0.label>left claw</AEXP_Hedgehog.tools.0.label>
+	<!-- EN: right claw -->
+	<AEXP_Hedgehog.tools.1.label>right claw</AEXP_Hedgehog.tools.1.label>
+	<!-- EN: head -->
+	<AEXP_Hedgehog.tools.3.label>head</AEXP_Hedgehog.tools.3.label>
+</LanguageData>

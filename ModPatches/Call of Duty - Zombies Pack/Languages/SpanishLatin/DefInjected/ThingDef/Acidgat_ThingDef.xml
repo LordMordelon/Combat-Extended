@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Blunders\Acidgat.xml -->
+	
+	<!-- EN: Acidgat shell (Buck) -->
+	<Ammo_Acidgat_Buck.label>Acidgat shell (Buck)</Ammo_Acidgat_Buck.label>
+	<!-- EN: Wear protective goggles when using in battle. -->
+	<Ammo_Acidgat_Buck.description>Wear protective goggles when using in battle.</Ammo_Acidgat_Buck.description>
+	
+	<!-- EN: Acidgat shell (Slug) -->
+	<Ammo_Acidgat_Slug.label>Acidgat shell (Slug)</Ammo_Acidgat_Slug.label>
+	<!-- EN: Wear protective goggles when using in battle. -->
+	<Ammo_Acidgat_Slug.description>Wear protective goggles when using in battle.</Ammo_Acidgat_Slug.description>
+	
+	<!-- EN: buckshot pellet -->
+	<Bullet_Acidgat_Buck.label>buckshot pellet</Bullet_Acidgat_Buck.label>
+	
+	<!-- EN: Slug shot -->
+	<Bullet_Acidgat_Slug.label>Slug shot</Bullet_Acidgat_Slug.label>
+</LanguageData>

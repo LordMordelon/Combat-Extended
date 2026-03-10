@@ -1,0 +1,101 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Pratt_RaW_WWIIWeaponsPackVanilla\PWW2_CE_Patch_Weapons_Ranged_US1252.xml -->
+	<!-- EN: stock -->
+	<Gun_M1GarandR.tools.0.label>stock</Gun_M1GarandR.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_M1GarandR.tools.1.label>barrel</Gun_M1GarandR.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_M1GarandR.tools.2.label>muzzle</Gun_M1GarandR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_Springfield1903scopedSR.tools.0.label>stock</Gun_Springfield1903scopedSR.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_Springfield1903scopedSR.tools.1.label>barrel</Gun_Springfield1903scopedSR.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_Springfield1903scopedSR.tools.2.label>muzzle</Gun_Springfield1903scopedSR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_Springfield1903R.tools.0.label>stock</Gun_Springfield1903R.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_Springfield1903R.tools.1.label>barrel</Gun_Springfield1903R.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_Springfield1903R.tools.2.label>muzzle</Gun_Springfield1903R.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_M1897trenchgunSG.tools.0.label>stock</Gun_M1897trenchgunSG.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_M1897trenchgunSG.tools.1.label>barrel</Gun_M1897trenchgunSG.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_M1897trenchgunSG.tools.2.label>muzzle</Gun_M1897trenchgunSG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_M1919A6LMG.tools.0.label>stock</Gun_M1919A6LMG.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_M1919A6LMG.tools.1.label>barrel</Gun_M1919A6LMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_M1919A6LMG.tools.2.label>muzzle</Gun_M1919A6LMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_BarFM.tools.0.label>stock</Gun_BarFM.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_BarFM.tools.1.label>barrel</Gun_BarFM.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_BarFM.tools.2.label>muzzle</Gun_BarFM.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_USM1C.tools.0.label>stock</Gun_USM1C.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_USM1C.tools.1.label>barrel</Gun_USM1C.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_USM1C.tools.2.label>muzzle</Gun_USM1C.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_USM2C.tools.0.label>stock</Gun_USM2C.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_USM2C.tools.1.label>barrel</Gun_USM2C.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_USM2C.tools.2.label>muzzle</Gun_USM2C.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_ThompsonM1928SMG.tools.0.label>stock</Gun_ThompsonM1928SMG.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_ThompsonM1928SMG.tools.1.label>barrel</Gun_ThompsonM1928SMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_ThompsonM1928SMG.tools.2.label>muzzle</Gun_ThompsonM1928SMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_ThompsonM1928A1SMG.tools.0.label>stock</Gun_ThompsonM1928A1SMG.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_ThompsonM1928A1SMG.tools.1.label>barrel</Gun_ThompsonM1928A1SMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_ThompsonM1928A1SMG.tools.2.label>muzzle</Gun_ThompsonM1928A1SMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_ThompsonM1A1SMG.tools.0.label>stock</Gun_ThompsonM1A1SMG.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_ThompsonM1A1SMG.tools.1.label>barrel</Gun_ThompsonM1A1SMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_ThompsonM1A1SMG.tools.2.label>muzzle</Gun_ThompsonM1A1SMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_M3greasegunSMG.tools.0.label>stock</Gun_M3greasegunSMG.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_M3greasegunSMG.tools.1.label>barrel</Gun_M3greasegunSMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_M3greasegunSMG.tools.2.label>muzzle</Gun_M3greasegunSMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_M3a1greasegunSMG.tools.0.label>stock</Gun_M3a1greasegunSMG.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_M3a1greasegunSMG.tools.1.label>barrel</Gun_M3a1greasegunSMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_M3a1greasegunSMG.tools.2.label>muzzle</Gun_M3a1greasegunSMG.tools.2.label>
+	
+	<!-- EN: grip -->
+	<Gun_Colt1911P.tools.0.label>grip</Gun_Colt1911P.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_Colt1911P.tools.1.label>muzzle</Gun_Colt1911P.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<Gun_M9A1BazookaRL.tools.0.label>barrel</Gun_M9A1BazookaRL.tools.0.label>
+</LanguageData>

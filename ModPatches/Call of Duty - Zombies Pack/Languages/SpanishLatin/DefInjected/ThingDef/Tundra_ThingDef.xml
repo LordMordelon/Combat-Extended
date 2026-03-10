@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Thunders\Tundra.xml -->
+	<!-- EN: Tundragun Cannister -->
+	<Ammo_Tundra.label>Tundragun Cannister</Ammo_Tundra.label>
+	<!-- EN: A large compressed air cannister used for the Tundragun -->
+	<Ammo_Tundra.description>A large compressed air cannister used for the Tundragun</Ammo_Tundra.description>
+	<!-- EN: Chilled Air Projectile -->
+	<Bullet_Tundra.label>Chilled Air Projectile</Bullet_Tundra.label>
+</LanguageData>

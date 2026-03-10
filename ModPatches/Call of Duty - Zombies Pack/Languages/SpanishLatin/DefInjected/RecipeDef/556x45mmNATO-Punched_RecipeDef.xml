@@ -1,0 +1,45 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Recipe\556x45mmNATO-Punched.xml -->
+	
+	<!-- EN: make 5.56x45mm NATO (FMJ) cartridge (Punched) x500 -->
+	<MakeAmmo_556x45mmNATO_FMJ_Punched.label>make 5.56x45mm NATO (FMJ) cartridge (Punched) x500</MakeAmmo_556x45mmNATO_FMJ_Punched.label>
+	<!-- EN: Craft 500 5.56x45mm NATO (FMJ) cartridges (Punched). -->
+	<MakeAmmo_556x45mmNATO_FMJ_Punched.description>Craft 500 5.56x45mm NATO (FMJ) cartridges (Punched).</MakeAmmo_556x45mmNATO_FMJ_Punched.description>
+	<!-- EN: Making 5.56x45mm NATO (FMJ) cartridges. -->
+	<MakeAmmo_556x45mmNATO_FMJ_Punched.jobString>Making 5.56x45mm NATO (FMJ) cartridges.</MakeAmmo_556x45mmNATO_FMJ_Punched.jobString>
+	
+	<!-- EN: make 5.56x45mm NATO (AP) cartridge (Punched) x500 -->
+	<MakeAmmo_556x45mmNATO_AP_Punched.label>make 5.56x45mm NATO (AP) cartridge (Punched) x500</MakeAmmo_556x45mmNATO_AP_Punched.label>
+	<!-- EN: Craft 500 5.56x45mm NATO (AP) cartridges (Punched). -->
+	<MakeAmmo_556x45mmNATO_AP_Punched.description>Craft 500 5.56x45mm NATO (AP) cartridges (Punched).</MakeAmmo_556x45mmNATO_AP_Punched.description>
+	<!-- EN: Making 5.56x45mm NATO (AP) cartridges. -->
+	<MakeAmmo_556x45mmNATO_AP_Punched.jobString>Making 5.56x45mm NATO (AP) cartridges.</MakeAmmo_556x45mmNATO_AP_Punched.jobString>
+	
+	<!-- EN: make 5.56x45mm NATO (HP) cartridge (Punched) x500 -->
+	<MakeAmmo_556x45mmNATO_HP_Punched.label>make 5.56x45mm NATO (HP) cartridge (Punched) x500</MakeAmmo_556x45mmNATO_HP_Punched.label>
+	<!-- EN: Craft 500 5.56x45mm NATO (HP) cartridges (Punched). -->
+	<MakeAmmo_556x45mmNATO_HP_Punched.description>Craft 500 5.56x45mm NATO (HP) cartridges (Punched).</MakeAmmo_556x45mmNATO_HP_Punched.description>
+	<!-- EN: Making 5.56x45mm NATO (HP) cartridges. -->
+	<MakeAmmo_556x45mmNATO_HP_Punched.jobString>Making 5.56x45mm NATO (HP) cartridges.</MakeAmmo_556x45mmNATO_HP_Punched.jobString>
+	
+	<!-- EN: make 5.56x45mm NATO (AP-I) cartridge (Punched) x500 -->
+	<MakeAmmo_556x45mmNATO_Incendiary_Punched.label>make 5.56x45mm NATO (AP-I) cartridge (Punched) x500</MakeAmmo_556x45mmNATO_Incendiary_Punched.label>
+	<!-- EN: Craft 500 5.56x45mm NATO (AP-I) cartridges (Punched). -->
+	<MakeAmmo_556x45mmNATO_Incendiary_Punched.description>Craft 500 5.56x45mm NATO (AP-I) cartridges (Punched).</MakeAmmo_556x45mmNATO_Incendiary_Punched.description>
+	<!-- EN: Making 5.56x45mm NATO (AP-I) cartridges. -->
+	<MakeAmmo_556x45mmNATO_Incendiary_Punched.jobString>Making 5.56x45mm NATO (AP-I) cartridges.</MakeAmmo_556x45mmNATO_Incendiary_Punched.jobString>
+	
+	<!-- EN: make 5.56x45mm NATO (HE) cartridge (Punched) x500 -->
+	<MakeAmmo_556x45mmNATO_HE_Punched.label>make 5.56x45mm NATO (HE) cartridge (Punched) x500</MakeAmmo_556x45mmNATO_HE_Punched.label>
+	<!-- EN: Craft 500 5.56x45mm NATO (HE) cartridges (Punched). -->
+	<MakeAmmo_556x45mmNATO_HE_Punched.description>Craft 500 5.56x45mm NATO (HE) cartridges (Punched).</MakeAmmo_556x45mmNATO_HE_Punched.description>
+	<!-- EN: Making 5.56x45mm NATO (HE) cartridges. -->
+	<MakeAmmo_556x45mmNATO_HE_Punched.jobString>Making 5.56x45mm NATO (HE) cartridges.</MakeAmmo_556x45mmNATO_HE_Punched.jobString>
+	
+	<!-- EN: make 5.56x45mm NATO (Sabot) cartridge (Punched) x500 -->
+	<MakeAmmo_556x45mmNATO_Sabot_Punched.label>make 5.56x45mm NATO (Sabot) cartridge (Punched) x500</MakeAmmo_556x45mmNATO_Sabot_Punched.label>
+	<!-- EN: Craft 500 5.56x45mm NATO (Sabot) cartridges (Punched). -->
+	<MakeAmmo_556x45mmNATO_Sabot_Punched.description>Craft 500 5.56x45mm NATO (Sabot) cartridges (Punched).</MakeAmmo_556x45mmNATO_Sabot_Punched.description>
+	<!-- EN: Making 5.56x45mm NATO (Sabot) cartridges. -->
+	<MakeAmmo_556x45mmNATO_Sabot_Punched.jobString>Making 5.56x45mm NATO (Sabot) cartridges.</MakeAmmo_556x45mmNATO_Sabot_Punched.jobString>
+</LanguageData>

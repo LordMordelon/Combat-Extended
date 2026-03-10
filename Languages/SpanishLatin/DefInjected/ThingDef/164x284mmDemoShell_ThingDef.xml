@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- Defs\Ammo\Advanced\164x284mmDemoShell.xml -->
+	<!-- EN: 164x284mm demolition shell -->
+	<Ammo_164x284mmDemo.label>164x284mm demolition shell</Ammo_164x284mmDemo.label>
+	<!-- EN: A high-caliber, low-velocity mechanoid demolition shell designed to destroy fortifications and structures. -->
+	<Ammo_164x284mmDemo.description>A high-caliber, low-velocity mechanoid demolition shell designed to destroy fortifications and structures.</Ammo_164x284mmDemo.description>
+	<!-- EN: 164x284mm demolition shell -->
+	<Bullet_164x284mmDemo.label>164x284mm demolition shell</Bullet_164x284mmDemo.label>
+	<!-- EN: 164x284mm demolition shell -->
+	<Bullet_164x284mmDemo_ASA.label>164x284mm demolition shell</Bullet_164x284mmDemo_ASA.label>
+	<!-- EN: 164x284mm demolition shell -->
+	<Bullet_164x284mmDemo_ASB.label>164x284mm demolition shell</Bullet_164x284mmDemo_ASB.label>
+</LanguageData>

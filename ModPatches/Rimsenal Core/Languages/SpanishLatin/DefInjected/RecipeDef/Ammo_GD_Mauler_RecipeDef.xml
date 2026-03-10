@@ -1,0 +1,45 @@
+<LanguageData>
+	<!-- ModPatches\Rimsenal Core\Defs\Rimsenal Core\Ammo_GD_Mauler.xml -->
+	
+	<!-- EN: make 13.2x77mm GD (FMJ) cartridge x500 -->
+	<MakeAmmo_132Greydale_FMJ.label>make 13.2x77mm GD (FMJ) cartridge x500</MakeAmmo_132Greydale_FMJ.label>
+	<!-- EN: Craft 500 13.2x77mm GD (FMJ) cartridges. -->
+	<MakeAmmo_132Greydale_FMJ.description>Craft 500 13.2x77mm GD (FMJ) cartridges.</MakeAmmo_132Greydale_FMJ.description>
+	<!-- EN: Making 13.2x77mm GD (FMJ) cartridges. -->
+	<MakeAmmo_132Greydale_FMJ.jobString>Making 13.2x77mm GD (FMJ) cartridges.</MakeAmmo_132Greydale_FMJ.jobString>
+	
+	<!-- EN: make 13.2x77mm GD (AP) cartridge x500 -->
+	<MakeAmmo_132Greydale_AP.label>make 13.2x77mm GD (AP) cartridge x500</MakeAmmo_132Greydale_AP.label>
+	<!-- EN: Craft 500 13.2x77mm GD (AP) cartridges. -->
+	<MakeAmmo_132Greydale_AP.description>Craft 500 13.2x77mm GD (AP) cartridges.</MakeAmmo_132Greydale_AP.description>
+	<!-- EN: Making 13.2x77mm GD (AP) cartridges. -->
+	<MakeAmmo_132Greydale_AP.jobString>Making 13.2x77mm GD (AP) cartridges.</MakeAmmo_132Greydale_AP.jobString>
+	
+	<!-- EN: make 13.2x77mm GD (HP) cartridge x500 -->
+	<MakeAmmo_132Greydale_HP.label>make 13.2x77mm GD (HP) cartridge x500</MakeAmmo_132Greydale_HP.label>
+	<!-- EN: Craft 500 13.2x77mm GD (HP) cartridges. -->
+	<MakeAmmo_132Greydale_HP.description>Craft 500 13.2x77mm GD (HP) cartridges.</MakeAmmo_132Greydale_HP.description>
+	<!-- EN: Making 13.2x77mm GD (HP) cartridges. -->
+	<MakeAmmo_132Greydale_HP.jobString>Making 13.2x77mm GD (HP) cartridges.</MakeAmmo_132Greydale_HP.jobString>
+	
+	<!-- EN: make 13.2x77mm GD cartridge (AP-I) cartridge x500 -->
+	<MakeAmmo_132Greydale_Incendiary.label>make 13.2x77mm GD cartridge (AP-I) cartridge x500</MakeAmmo_132Greydale_Incendiary.label>
+	<!-- EN: Craft 500 13.2x77mm GD cartridge (AP-I) cartridge. -->
+	<MakeAmmo_132Greydale_Incendiary.description>Craft 500 13.2x77mm GD cartridge (AP-I) cartridge.</MakeAmmo_132Greydale_Incendiary.description>
+	<!-- EN: Making 13.2x77mm GD cartridge (AP-I) cartridges. -->
+	<MakeAmmo_132Greydale_Incendiary.jobString>Making 13.2x77mm GD cartridge (AP-I) cartridges.</MakeAmmo_132Greydale_Incendiary.jobString>
+	
+	<!-- EN: make 13.2x77mm GD cartridge (AP-HE) cartridge x200 -->
+	<MakeAmmo_132Greydale_HE.label>make 13.2x77mm GD cartridge (AP-HE) cartridge x200</MakeAmmo_132Greydale_HE.label>
+	<!-- EN: Craft 200 13.2x77mm GD cartridge (AP-HE) cartridge. -->
+	<MakeAmmo_132Greydale_HE.description>Craft 200 13.2x77mm GD cartridge (AP-HE) cartridge.</MakeAmmo_132Greydale_HE.description>
+	<!-- EN: Making 13.2x77mm GD cartridge (AP-HE) cartridges. -->
+	<MakeAmmo_132Greydale_HE.jobString>Making 13.2x77mm GD cartridge (AP-HE) cartridges.</MakeAmmo_132Greydale_HE.jobString>
+	
+	<!-- EN: make 13.2x77mm GD cartridge (Sabot) cartridge x500 -->
+	<MakeAmmo_132Greydale_Sabot.label>make 13.2x77mm GD cartridge (Sabot) cartridge x500</MakeAmmo_132Greydale_Sabot.label>
+	<!-- EN: Craft 500 13.2x77mm GD cartridge (Sabot) cartridge. -->
+	<MakeAmmo_132Greydale_Sabot.description>Craft 500 13.2x77mm GD cartridge (Sabot) cartridge.</MakeAmmo_132Greydale_Sabot.description>
+	<!-- EN: Making 13.2x77mm GD cartridge (Sabot) cartridges. -->
+	<MakeAmmo_132Greydale_Sabot.jobString>Making 13.2x77mm GD cartridge (Sabot) cartridges.</MakeAmmo_132Greydale_Sabot.jobString>
+</LanguageData>

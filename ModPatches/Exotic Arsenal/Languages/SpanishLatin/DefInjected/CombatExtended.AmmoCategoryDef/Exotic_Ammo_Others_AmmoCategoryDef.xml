@@ -1,0 +1,45 @@
+<LanguageData>
+	<!-- ModPatches\Exotic Arsenal\Defs\Exotic Arsenal\Exotic_Ammo_Others.xml -->
+	
+	<!-- EN: Monosteel -->
+	<Exotic_Monoshard.label>Monosteel</Exotic_Monoshard.label>
+	<!-- EN: Monosteel -->
+	<Exotic_Monoshard.labelShort>Monosteel</Exotic_Monoshard.labelShort>
+	<!-- EN: Wickedly sharp and resilient monomolecular bullets. -->
+	<Exotic_Monoshard.description>Wickedly sharp and resilient monomolecular bullets.</Exotic_Monoshard.description>
+	
+	<!-- EN: MonoPlasteel -->
+	<Exotic_Monoshard2.label>MonoPlasteel</Exotic_Monoshard2.label>
+	<!-- EN: MonoPlasteel -->
+	<Exotic_Monoshard2.labelShort>MonoPlasteel</Exotic_Monoshard2.labelShort>
+	<!-- EN: Wickedly sharp and resilient monomolecular bullets. This one is made out of plasteel. -->
+	<Exotic_Monoshard2.description>Wickedly sharp and resilient monomolecular bullets. This one is made out of plasteel.</Exotic_Monoshard2.description>
+	
+	<!-- EN: MonoUranium -->
+	<Exotic_Monoshard3.label>MonoUranium</Exotic_Monoshard3.label>
+	<!-- EN: MonoUranium -->
+	<Exotic_Monoshard3.labelShort>MonoUranium</Exotic_Monoshard3.labelShort>
+	<!-- EN: Wickedly sharp and resilient monomolecular bullets. This one features a heavy depleted uranium core. -->
+	<Exotic_Monoshard3.description>Wickedly sharp and resilient monomolecular bullets. This one features a heavy depleted uranium core.</Exotic_Monoshard3.description>
+	
+	<!-- EN: High Explosive Buckshot -->
+	<Exotic_Buck.label>High Explosive Buckshot</Exotic_Buck.label>
+	<!-- EN: HE buckshot -->
+	<Exotic_Buck.labelShort>HE buckshot</Exotic_Buck.labelShort>
+	<!-- EN: Large scattershot pellets tipped with a small explosive charge. -->
+	<Exotic_Buck.description>Large scattershot pellets tipped with a small explosive charge.</Exotic_Buck.description>
+	
+	<!-- EN: Cluster shot -->
+	<Exotic_Cluster.label>Cluster shot</Exotic_Cluster.label>
+	<!-- EN: Cluster -->
+	<Exotic_Cluster.labelShort>Cluster</Exotic_Cluster.labelShort>
+	<!-- EN: You should test fire it inside your base and see what it does. -->
+	<Exotic_Cluster.description>You should test fire it inside your base and see what it does.</Exotic_Cluster.description>
+	
+	<!-- EN: Mayhem shot -->
+	<Exotic_Mayhem.label>Mayhem shot</Exotic_Mayhem.label>
+	<!-- EN: Mayhem -->
+	<Exotic_Mayhem.labelShort>Mayhem</Exotic_Mayhem.labelShort>
+	<!-- EN: Fuck around and find out. -->
+	<Exotic_Mayhem.description>Fuck around and find out.</Exotic_Mayhem.description>
+</LanguageData>

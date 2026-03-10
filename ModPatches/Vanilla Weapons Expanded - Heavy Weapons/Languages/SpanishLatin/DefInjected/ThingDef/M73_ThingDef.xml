@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla Weapons Expanded - Heavy Weapons\Defs\Vanilla Weapons Expanded - Heavy Weapons\Ammo\M73.xml -->
+	<!-- EN: M73 Rocket (HE) -->
+	<Ammo_M73_HE.label>M73 Rocket (HE)</Ammo_M73_HE.label>
+	<!-- EN: 66mm high explosive rocket based upon the rocket used in the M72 LAW, used by the Swarm Missile Launcher. -->
+	<Ammo_M73_HE.description>66mm high explosive rocket based upon the rocket used in the M72 LAW, used by the Swarm Missile Launcher.</Ammo_M73_HE.description>
+	<!-- EN: M73 Rocket (HE) -->
+	<Bullet_M73_HE.label>M73 Rocket (HE)</Bullet_M73_HE.label>
+</LanguageData>

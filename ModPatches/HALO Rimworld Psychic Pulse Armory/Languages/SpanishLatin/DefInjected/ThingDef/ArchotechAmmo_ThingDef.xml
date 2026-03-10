@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- ModPatches\HALO Rimworld Psychic Pulse Armory\Defs\HALO Rimworld Psychic Pulse Armory\Ammo\ArchotechAmmo.xml -->
+	<!-- EN: PsychicPulse -->
+	<HRPPA_Bullet_PsychicPulseCannonCE.label>PsychicPulse</HRPPA_Bullet_PsychicPulseCannonCE.label>
+	<!-- EN: PsychicPulse -->
+	<HRPPA_Bullet_PsychicPulseRepeaterCE.label>PsychicPulse</HRPPA_Bullet_PsychicPulseRepeaterCE.label>
+	<!-- EN: PsychicPulse -->
+	<HRPPA_Bullet_PsychicPulseSpinnerCE.label>PsychicPulse</HRPPA_Bullet_PsychicPulseSpinnerCE.label>
+	<!-- EN: PsychicPulse -->
+	<HRPPA_Bullet_PsychicPulseShotgunCE.label>PsychicPulse</HRPPA_Bullet_PsychicPulseShotgunCE.label>
+	<!-- EN: PsychicPulse -->
+	<HRPPA_Bullet_PsychicPulseReacherCE.label>PsychicPulse</HRPPA_Bullet_PsychicPulseReacherCE.label>
+	<!-- EN: PsychicPulse -->
+	<HRPPA_Bullet_PsychicPulseLancerCE.label>PsychicPulse</HRPPA_Bullet_PsychicPulseLancerCE.label>
+	<!-- EN: projectile -->
+	<HRPPA_Proj_PsychicPulseGrenadeCE.label>projectile</HRPPA_Proj_PsychicPulseGrenadeCE.label>
+</LanguageData>

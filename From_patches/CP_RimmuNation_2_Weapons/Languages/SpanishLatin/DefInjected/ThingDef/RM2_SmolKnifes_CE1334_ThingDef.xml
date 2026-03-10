@@ -1,0 +1,58 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\CP_RimmuNation_2_Weapons\RM2_SmolKnifes_CE1334.xml -->
+	<!-- EN: handle -->
+	<RNMeleeWeapon_EickhornRecondoIV_Knife.tools.0.label>handle</RNMeleeWeapon_EickhornRecondoIV_Knife.tools.0.label>
+	<!-- EN: blade -->
+	<RNMeleeWeapon_EickhornRecondoIV_Knife.tools.1.label>blade</RNMeleeWeapon_EickhornRecondoIV_Knife.tools.1.label>
+	<!-- EN: point -->
+	<RNMeleeWeapon_EickhornRecondoIV_Knife.tools.2.label>point</RNMeleeWeapon_EickhornRecondoIV_Knife.tools.2.label>
+	
+	<!-- EN: handle -->
+	<RNMeleeWeapon_KABAR_Knife.tools.0.label>handle</RNMeleeWeapon_KABAR_Knife.tools.0.label>
+	<!-- EN: blade -->
+	<RNMeleeWeapon_KABAR_Knife.tools.1.label>blade</RNMeleeWeapon_KABAR_Knife.tools.1.label>
+	<!-- EN: point -->
+	<RNMeleeWeapon_KABAR_Knife.tools.2.label>point</RNMeleeWeapon_KABAR_Knife.tools.2.label>
+	
+	<!-- EN: handle -->
+	<RNMeleeWeapon_M3Trench_Knife.tools.0.label>handle</RNMeleeWeapon_M3Trench_Knife.tools.0.label>
+	<!-- EN: blade -->
+	<RNMeleeWeapon_M3Trench_Knife.tools.1.label>blade</RNMeleeWeapon_M3Trench_Knife.tools.1.label>
+	<!-- EN: point -->
+	<RNMeleeWeapon_M3Trench_Knife.tools.2.label>point</RNMeleeWeapon_M3Trench_Knife.tools.2.label>
+	
+	<!-- EN: handle -->
+	<RNMeleeWeapon_FirstBlood_Knife.tools.0.label>handle</RNMeleeWeapon_FirstBlood_Knife.tools.0.label>
+	<!-- EN: blade -->
+	<RNMeleeWeapon_FirstBlood_Knife.tools.1.label>blade</RNMeleeWeapon_FirstBlood_Knife.tools.1.label>
+	<!-- EN: point -->
+	<RNMeleeWeapon_FirstBlood_Knife.tools.2.label>point</RNMeleeWeapon_FirstBlood_Knife.tools.2.label>
+	
+	<!-- EN: handle -->
+	<RNMeleeWeapon_GerberSurvival_Knife.tools.0.label>handle</RNMeleeWeapon_GerberSurvival_Knife.tools.0.label>
+	<!-- EN: blade -->
+	<RNMeleeWeapon_GerberSurvival_Knife.tools.1.label>blade</RNMeleeWeapon_GerberSurvival_Knife.tools.1.label>
+	<!-- EN: point -->
+	<RNMeleeWeapon_GerberSurvival_Knife.tools.2.label>point</RNMeleeWeapon_GerberSurvival_Knife.tools.2.label>
+	
+	<!-- EN: handle -->
+	<RNMeleeWeapon_Karambit_Knife.tools.0.label>handle</RNMeleeWeapon_Karambit_Knife.tools.0.label>
+	<!-- EN: blade -->
+	<RNMeleeWeapon_Karambit_Knife.tools.1.label>blade</RNMeleeWeapon_Karambit_Knife.tools.1.label>
+	<!-- EN: point -->
+	<RNMeleeWeapon_Karambit_Knife.tools.2.label>point</RNMeleeWeapon_Karambit_Knife.tools.2.label>
+	
+	<!-- EN: handle -->
+	<RNMeleeWeapon_M9Bayonet_Knife.tools.0.label>handle</RNMeleeWeapon_M9Bayonet_Knife.tools.0.label>
+	<!-- EN: blade -->
+	<RNMeleeWeapon_M9Bayonet_Knife.tools.1.label>blade</RNMeleeWeapon_M9Bayonet_Knife.tools.1.label>
+	<!-- EN: point -->
+	<RNMeleeWeapon_M9Bayonet_Knife.tools.2.label>point</RNMeleeWeapon_M9Bayonet_Knife.tools.2.label>
+	
+	<!-- EN: handle -->
+	<RNMeleeWeapon_Tanto_Sword.tools.0.label>handle</RNMeleeWeapon_Tanto_Sword.tools.0.label>
+	<!-- EN: blade -->
+	<RNMeleeWeapon_Tanto_Sword.tools.1.label>blade</RNMeleeWeapon_Tanto_Sword.tools.1.label>
+	<!-- EN: point -->
+	<RNMeleeWeapon_Tanto_Sword.tools.2.label>point</RNMeleeWeapon_Tanto_Sword.tools.2.label>
+</LanguageData>

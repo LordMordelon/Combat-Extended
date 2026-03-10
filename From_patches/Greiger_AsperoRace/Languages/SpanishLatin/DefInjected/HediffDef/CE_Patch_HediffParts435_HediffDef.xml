@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Greiger_AsperoRace\CE_Patch_HediffParts435.xml -->
+	<!-- EN: tail -->
+	<SimpleAsperoTail.comps.0.tools.0.label>tail</SimpleAsperoTail.comps.0.tools.0.label>
+	<!-- EN: spiked tail -->
+	<CombatAsperoTail.comps.0.tools.0.label>spiked tail</CombatAsperoTail.comps.0.tools.0.label>
+	<!-- EN: transforming tail -->
+	<BionicAsperoTail.comps.0.tools.0.label>transforming tail</BionicAsperoTail.comps.0.tools.0.label>
+	<!-- EN: transforming tail -->
+	<BionicAsperoTail.comps.0.tools.1.label>transforming tail</BionicAsperoTail.comps.0.tools.1.label>
+</LanguageData>

@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- Defs\Ammo\Advanced\6x18mmCharged.xml -->
+	
+	<!-- EN: 6x18mm Charged -->
+	<Ammo_6x18mmCharged.label>6x18mm Charged</Ammo_6x18mmCharged.label>
+	<!-- EN: Charged shot ammo used by advanced SMG designs. -->
+	<Ammo_6x18mmCharged.description>Charged shot ammo used by advanced SMG designs.</Ammo_6x18mmCharged.description>
+	
+	<!-- EN: 6x18mm Charged (Conc.) -->
+	<Ammo_6x18mmCharged_AP.label>6x18mm Charged (Conc.)</Ammo_6x18mmCharged_AP.label>
+	<!-- EN: Charged shot ammo used by advanced SMG designs. -->
+	<Ammo_6x18mmCharged_AP.description>Charged shot ammo used by advanced SMG designs.</Ammo_6x18mmCharged_AP.description>
+	
+	<!-- EN: 6x18mm Charged (Ion) -->
+	<Ammo_6x18mmCharged_Ion.label>6x18mm Charged (Ion)</Ammo_6x18mmCharged_Ion.label>
+	<!-- EN: Charged shot ammo used by advanced SMG designs. -->
+	<Ammo_6x18mmCharged_Ion.description>Charged shot ammo used by advanced SMG designs.</Ammo_6x18mmCharged_Ion.description>
+	
+	<!-- EN: 6x18mm Charged bullet -->
+	<Bullet_6x18mmCharged.label>6x18mm Charged bullet</Bullet_6x18mmCharged.label>
+	
+	<!-- EN: 6x18mm Charged bullet (Conc.) -->
+	<Bullet_6x18mmCharged_AP.label>6x18mm Charged bullet (Conc.)</Bullet_6x18mmCharged_AP.label>
+	
+	<!-- EN: 6x18mm Charged bullet (Ion) -->
+	<Bullet_6x18mmCharged_Ion.label>6x18mm Charged bullet (Ion)</Bullet_6x18mmCharged_Ion.label>
+</LanguageData>

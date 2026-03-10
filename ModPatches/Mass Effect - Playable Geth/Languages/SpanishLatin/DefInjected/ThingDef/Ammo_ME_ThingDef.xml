@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- ModPatches\Mass Effect - Playable Geth\Defs\Mass Effect - Playable Geth\Ammo_ME.xml -->
+	<!-- EN: Geth Thermal clip -->
+	<Ammo_MEG.label>Geth Thermal clip</Ammo_MEG.label>
+	<!-- EN: Thermal clips designed to fit most geth weapons. They are, however, incompatible with weapons made by other races. -->
+	<Ammo_MEG.description>Thermal clips designed to fit most geth weapons. They are, however, incompatible with weapons made by other races.</Ammo_MEG.description>
+	<!-- EN: ML-77 Missile -->
+	<Ammo_ML77CE.label>ML-77 Missile</Ammo_ML77CE.label>
+	<!-- EN: Rocket-propelled missile designed for the ML-77. After being fired a rocket motor kicks in to propel the grenade further. -->
+	<Ammo_ML77CE.description>Rocket-propelled missile designed for the ML-77. After being fired a rocket motor kicks in to propel the grenade further.</Ammo_ML77CE.description>
+	<!-- EN: ML77 Missile -->
+	<Bullet_ML77CE.label>ML77 Missile</Bullet_ML77CE.label>
+	<!-- EN: phasic slugs -->
+	<Bullet_GethRifle.label>phasic slugs</Bullet_GethRifle.label>
+	<!-- EN: superconducting toroids -->
+	<Bullet_GethSMG.label>superconducting toroids</Bullet_GethSMG.label>
+	<!-- EN: superconducting projectiles -->
+	<Bullet_GethShotgun.label>superconducting projectiles</Bullet_GethShotgun.label>
+	<!-- EN: bullet -->
+	<Bullet_M98_Geth.label>bullet</Bullet_M98_Geth.label>
+	<!-- EN: ferrofluid -->
+	<Bullet_GethSniper.label>ferrofluid</Bullet_GethSniper.label>
+	<!-- EN: superconducting toroids -->
+	<Bullet_GethSpitfire.label>superconducting toroids</Bullet_GethSpitfire.label>
+	<!-- EN: Geth pulse cannon plasma -->
+	<Bullet_GethCannon.label>Geth pulse cannon plasma</Bullet_GethCannon.label>
+</LanguageData>

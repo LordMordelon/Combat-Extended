@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Hediffs_Local_AddedParts2.xml -->
+	<!-- EN: fist -->
+	<SimpleProstheticArm.comps.0.tools.0.label>fist</SimpleProstheticArm.comps.0.tools.0.label>
+	<!-- EN: fist -->
+	<BionicArm.comps.0.tools.0.label>fist</BionicArm.comps.0.tools.0.label>
+	<!-- EN: fist -->
+	<ArchotechArm.comps.0.tools.0.label>fist</ArchotechArm.comps.0.tools.0.label>
+	<!-- EN: claw -->
+	<PowerClaw.comps.0.tools.0.label>claw</PowerClaw.comps.0.tools.0.label>
+</LanguageData>

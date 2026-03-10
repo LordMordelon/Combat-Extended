@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\BloodLoss1.xml -->
+	<!-- EN: minor -->
+	<BloodLoss.stages.0.label>minor</BloodLoss.stages.0.label>
+	<!-- EN: minor -->
+	<BloodLoss.stages.1.label>minor</BloodLoss.stages.1.label>
+	<!-- EN: moderate -->
+	<BloodLoss.stages.2.label>moderate</BloodLoss.stages.2.label>
+	<!-- EN: severe -->
+	<BloodLoss.stages.3.label>severe</BloodLoss.stages.3.label>
+	<!-- EN: extreme -->
+	<BloodLoss.stages.4.label>extreme</BloodLoss.stages.4.label>
+</LanguageData>

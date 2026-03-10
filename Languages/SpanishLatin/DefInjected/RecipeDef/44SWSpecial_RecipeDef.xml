@@ -1,0 +1,21 @@
+<LanguageData>
+	<!-- Defs\Ammo\Pistols\44SWSpecial.xml -->
+	<!-- EN: make .44 Special (FMJ) cartridge x500 -->
+	<MakeAmmo_44SWSpecial_FMJ.label>make .44 Special (FMJ) cartridge x500</MakeAmmo_44SWSpecial_FMJ.label>
+	<!-- EN: Craft 500 .44 Special (FMJ) cartridges. -->
+	<MakeAmmo_44SWSpecial_FMJ.description>Craft 500 .44 Special (FMJ) cartridges.</MakeAmmo_44SWSpecial_FMJ.description>
+	<!-- EN: Making .44 Special (FMJ) cartridges. -->
+	<MakeAmmo_44SWSpecial_FMJ.jobString>Making .44 Special (FMJ) cartridges.</MakeAmmo_44SWSpecial_FMJ.jobString>
+	<!-- EN: make .44 Special (AP) cartridge x500 -->
+	<MakeAmmo_44SWSpecial_AP.label>make .44 Special (AP) cartridge x500</MakeAmmo_44SWSpecial_AP.label>
+	<!-- EN: Craft 500 .44 Special (AP) cartridges. -->
+	<MakeAmmo_44SWSpecial_AP.description>Craft 500 .44 Special (AP) cartridges.</MakeAmmo_44SWSpecial_AP.description>
+	<!-- EN: Making .44 Special (AP) cartridges. -->
+	<MakeAmmo_44SWSpecial_AP.jobString>Making .44 Special (AP) cartridges.</MakeAmmo_44SWSpecial_AP.jobString>
+	<!-- EN: make .44 Special (HP) cartridge x500 -->
+	<MakeAmmo_44SWSpecial_HP.label>make .44 Special (HP) cartridge x500</MakeAmmo_44SWSpecial_HP.label>
+	<!-- EN: Craft 500 .44 Special (HP) cartridges. -->
+	<MakeAmmo_44SWSpecial_HP.description>Craft 500 .44 Special (HP) cartridges.</MakeAmmo_44SWSpecial_HP.description>
+	<!-- EN: Making .44 Special (HP) cartridges. -->
+	<MakeAmmo_44SWSpecial_HP.jobString>Making .44 Special (HP) cartridges.</MakeAmmo_44SWSpecial_HP.jobString>
+</LanguageData>

@@ -1,0 +1,34 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\CP_DOOM_Kit\CP_DOOM_KitClassic_CE_Patch_RangedDOOM_Weapons612.xml -->
+	<!-- EN: The chaingun (also known as "gatling gun") is a rapid-firing, multi-barrelled automatic weapon that uses the same ammunition as the pistol. A high velocity heavy weapon capable of suppressing multiple targets at once. -->
+	<RHGun_DOOMClassic_Chaingun.description>The chaingun (also known as "gatling gun") is a rapid-firing, multi-barrelled automatic weapon that uses the same ammunition as the pistol. A high velocity heavy weapon capable of suppressing multiple targets at once.</RHGun_DOOMClassic_Chaingun.description>
+	
+	<!-- EN: grip -->
+	<RNGun_DOOMClassic_Pistol.tools.0.label>grip</RNGun_DOOMClassic_Pistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_DOOMClassic_Pistol.tools.1.label>muzzle</RNGun_DOOMClassic_Pistol.tools.1.label>
+	
+	<!-- EN: stock -->
+	<RHGun_DOOMClassic_Shotgun.tools.0.label>stock</RHGun_DOOMClassic_Shotgun.tools.0.label>
+	<!-- EN: barrel -->
+	<RHGun_DOOMClassic_Shotgun.tools.1.label>barrel</RHGun_DOOMClassic_Shotgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<RHGun_DOOMClassic_Shotgun.tools.2.label>muzzle</RHGun_DOOMClassic_Shotgun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RHGun_DOOMClassic_SuperShotgun.tools.0.label>stock</RHGun_DOOMClassic_SuperShotgun.tools.0.label>
+	<!-- EN: barrel -->
+	<RHGun_DOOMClassic_SuperShotgun.tools.1.label>barrel</RHGun_DOOMClassic_SuperShotgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<RHGun_DOOMClassic_SuperShotgun.tools.2.label>muzzle</RHGun_DOOMClassic_SuperShotgun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RHGun_DOOMClassic_PlasmaGun.tools.0.label>stock</RHGun_DOOMClassic_PlasmaGun.tools.0.label>
+	<!-- EN: barrel -->
+	<RHGun_DOOMClassic_PlasmaGun.tools.1.label>barrel</RHGun_DOOMClassic_PlasmaGun.tools.1.label>
+	<!-- EN: muzzle -->
+	<RHGun_DOOMClassic_PlasmaGun.tools.2.label>muzzle</RHGun_DOOMClassic_PlasmaGun.tools.2.label>
+	
+	<!-- EN: barrel -->
+	<RHGun_DOOMClassic_Chaingun.tools.0.label>barrel</RHGun_DOOMClassic_Chaingun.tools.0.label>
+</LanguageData>

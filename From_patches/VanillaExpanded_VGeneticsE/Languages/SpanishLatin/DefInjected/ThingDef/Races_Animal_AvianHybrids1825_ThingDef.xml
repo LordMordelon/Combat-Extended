@@ -1,0 +1,39 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VGeneticsE\Races_Animal_AvianHybrids1825.xml -->
+	<!-- EN: claws -->
+	<GR_Chickenbear.tools.0.label>claws</GR_Chickenbear.tools.0.label>
+	<!-- EN: head -->
+	<GR_Chickenbear.tools.2.label>head</GR_Chickenbear.tools.2.label>
+	
+	<!-- EN: claws -->
+	<GR_Chickenlope.tools.0.label>claws</GR_Chickenlope.tools.0.label>
+	<!-- EN: head -->
+	<GR_Chickenlope.tools.2.label>head</GR_Chickenlope.tools.2.label>
+	
+	<!-- EN: claws -->
+	<GR_Chickenffalo.tools.0.label>claws</GR_Chickenffalo.tools.0.label>
+	<!-- EN: head -->
+	<GR_Chickenffalo.tools.1.label>head</GR_Chickenffalo.tools.1.label>
+	
+	<!-- EN: claws -->
+	<GR_Chickenwolf.tools.0.label>claws</GR_Chickenwolf.tools.0.label>
+	<!-- EN: head -->
+	<GR_Chickenwolf.tools.2.label>head</GR_Chickenwolf.tools.2.label>
+	
+	<!-- EN: claws -->
+	<GR_Chickenrabbit.tools.0.label>claws</GR_Chickenrabbit.tools.0.label>
+	<!-- EN: head -->
+	<GR_Chickenrabbit.tools.2.label>head</GR_Chickenrabbit.tools.2.label>
+	
+	<!-- EN: claws -->
+	<GR_Chickencat.tools.0.label>claws</GR_Chickencat.tools.0.label>
+	<!-- EN: head -->
+	<GR_Chickencat.tools.2.label>head</GR_Chickencat.tools.2.label>
+	
+	<!-- EN: claws -->
+	<GR_Turkeyman.tools.0.label>claws</GR_Turkeyman.tools.0.label>
+	<!-- EN: toothed beak -->
+	<GR_Turkeyman.tools.1.label>toothed beak</GR_Turkeyman.tools.1.label>
+	<!-- EN: head -->
+	<GR_Turkeyman.tools.2.label>head</GR_Turkeyman.tools.2.label>
+</LanguageData>

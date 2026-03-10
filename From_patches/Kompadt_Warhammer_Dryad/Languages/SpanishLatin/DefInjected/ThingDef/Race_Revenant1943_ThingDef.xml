@@ -1,0 +1,22 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Kompadt_Warhammer_Dryad\Race_Revenant1943.xml -->
+	<!-- EN: left branch -->
+	<DryadDeadRevenant.tools.0.label>left branch</DryadDeadRevenant.tools.0.label>
+	<!-- EN: right branch -->
+	<DryadDeadRevenant.tools.1.label>right branch</DryadDeadRevenant.tools.1.label>
+	
+	<!-- EN: left branch -->
+	<DryadDeadRevenantFoe.tools.0.label>left branch</DryadDeadRevenantFoe.tools.0.label>
+	<!-- EN: right branch -->
+	<DryadDeadRevenantFoe.tools.1.label>right branch</DryadDeadRevenantFoe.tools.1.label>
+	
+	<!-- EN: left branch -->
+	<DryadSpiteRevenant.tools.0.label>left branch</DryadSpiteRevenant.tools.0.label>
+	<!-- EN: right branch -->
+	<DryadSpiteRevenant.tools.1.label>right branch</DryadSpiteRevenant.tools.1.label>
+	
+	<!-- EN: left branch -->
+	<DryadSpiteRevenantAnimal.tools.0.label>left branch</DryadSpiteRevenantAnimal.tools.0.label>
+	<!-- EN: right branch -->
+	<DryadSpiteRevenantAnimal.tools.1.label>right branch</DryadSpiteRevenantAnimal.tools.1.label>
+</LanguageData>

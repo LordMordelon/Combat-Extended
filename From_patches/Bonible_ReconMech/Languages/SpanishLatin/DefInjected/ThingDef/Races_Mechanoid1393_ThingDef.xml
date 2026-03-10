@@ -1,0 +1,30 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Bonible_ReconMech\Races_Mechanoid1393.xml -->
+	<!-- EN: head -->
+	<Mech_Recon.tools.0.label>head</Mech_Recon.tools.0.label>
+	<!-- EN: left fist -->
+	<Mech_Recon.tools.1.label>left fist</Mech_Recon.tools.1.label>
+	<!-- EN: right fist -->
+	<Mech_Recon.tools.2.label>right fist</Mech_Recon.tools.2.label>
+	
+	<!-- EN: head -->
+	<Mech_ReconBlaster.tools.0.label>head</Mech_ReconBlaster.tools.0.label>
+	<!-- EN: left fist -->
+	<Mech_ReconBlaster.tools.1.label>left fist</Mech_ReconBlaster.tools.1.label>
+	<!-- EN: right fist -->
+	<Mech_ReconBlaster.tools.2.label>right fist</Mech_ReconBlaster.tools.2.label>
+	
+	<!-- EN: head -->
+	<Mech_Scout.tools.0.label>head</Mech_Scout.tools.0.label>
+	<!-- EN: left fist -->
+	<Mech_Scout.tools.1.label>left fist</Mech_Scout.tools.1.label>
+	<!-- EN: right fist -->
+	<Mech_Scout.tools.2.label>right fist</Mech_Scout.tools.2.label>
+	
+	<!-- EN: head -->
+	<Mech_ScoutBlaster.tools.0.label>head</Mech_ScoutBlaster.tools.0.label>
+	<!-- EN: left fist -->
+	<Mech_ScoutBlaster.tools.1.label>left fist</Mech_ScoutBlaster.tools.1.label>
+	<!-- EN: right fist -->
+	<Mech_ScoutBlaster.tools.2.label>right fist</Mech_ScoutBlaster.tools.2.label>
+</LanguageData>

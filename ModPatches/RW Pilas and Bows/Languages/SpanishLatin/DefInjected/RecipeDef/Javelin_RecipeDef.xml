@@ -1,0 +1,45 @@
+<LanguageData>
+	<!-- ModPatches\RW Pilas and Bows\Defs\RW Pilas and Bows\Javelin.xml -->
+	
+	<!-- EN: make HEla x5 -->
+	<MakeAmmo_PilaHighExplosive.label>make HEla x5</MakeAmmo_PilaHighExplosive.label>
+	<!-- EN: Craft 5 HEla. -->
+	<MakeAmmo_PilaHighExplosive.description>Craft 5 HEla.</MakeAmmo_PilaHighExplosive.description>
+	<!-- EN: Making HEla. -->
+	<MakeAmmo_PilaHighExplosive.jobString>Making HEla.</MakeAmmo_PilaHighExplosive.jobString>
+	
+	<!-- EN: make HIla x5 -->
+	<MakeAmmo_PilaHighIncendiary.label>make HIla x5</MakeAmmo_PilaHighIncendiary.label>
+	<!-- EN: Craft 5 HIla. -->
+	<MakeAmmo_PilaHighIncendiary.description>Craft 5 HIla.</MakeAmmo_PilaHighIncendiary.description>
+	<!-- EN: Making HIla. -->
+	<MakeAmmo_PilaHighIncendiary.jobString>Making HIla.</MakeAmmo_PilaHighIncendiary.jobString>
+	
+	<!-- EN: make MPila x5 -->
+	<MakeAmmo_PilaEMP.label>make MPila x5</MakeAmmo_PilaEMP.label>
+	<!-- EN: Craft 5 MPila. -->
+	<MakeAmmo_PilaEMP.description>Craft 5 MPila.</MakeAmmo_PilaEMP.description>
+	<!-- EN: Making MPila. -->
+	<MakeAmmo_PilaEMP.jobString>Making MPila.</MakeAmmo_PilaEMP.jobString>
+	
+	<!-- EN: make Smola x5 -->
+	<MakeAmmo_PilaSmoke.label>make Smola x5</MakeAmmo_PilaSmoke.label>
+	<!-- EN: Craft 5 Smola. -->
+	<MakeAmmo_PilaSmoke.description>Craft 5 Smola.</MakeAmmo_PilaSmoke.description>
+	<!-- EN: Making Smola. -->
+	<MakeAmmo_PilaSmoke.jobString>Making Smola.</MakeAmmo_PilaSmoke.jobString>
+	
+	<!-- EN: make Fola x5 -->
+	<MakeAmmo_PilaFirefoam.label>make Fola x5</MakeAmmo_PilaFirefoam.label>
+	<!-- EN: Craft 5 Fola. -->
+	<MakeAmmo_PilaFirefoam.description>Craft 5 Fola.</MakeAmmo_PilaFirefoam.description>
+	<!-- EN: Making Fola. -->
+	<MakeAmmo_PilaFirefoam.jobString>Making Fola.</MakeAmmo_PilaFirefoam.jobString>
+	
+	<!-- EN: make Sayonala -->
+	<MakeAmmo_PilaAntigrain.label>make Sayonala</MakeAmmo_PilaAntigrain.label>
+	<!-- EN: Craft a Sayonala. -->
+	<MakeAmmo_PilaAntigrain.description>Craft a Sayonala.</MakeAmmo_PilaAntigrain.description>
+	<!-- EN: Making Sayonala. -->
+	<MakeAmmo_PilaAntigrain.jobString>Making Sayonala.</MakeAmmo_PilaAntigrain.jobString>
+</LanguageData>

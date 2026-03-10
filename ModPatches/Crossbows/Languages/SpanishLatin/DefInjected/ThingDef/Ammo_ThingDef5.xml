@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- ModPatches\Crossbows\Defs\Crossbows\Ammo.xml -->
+	<!-- EN: crossbow bolt (stone) -->
+	<Projectile_RepeatingCrossbowBolt_Stone.label>crossbow bolt (stone)</Projectile_RepeatingCrossbowBolt_Stone.label>
+	<!-- EN: crossbow bolt (steel) -->
+	<Projectile_RepeatingCrossbowBolt_Steel.label>crossbow bolt (steel)</Projectile_RepeatingCrossbowBolt_Steel.label>
+	<!-- EN: crossbow bolt (plasteel) -->
+	<Projectile_RepeatingCrossbowBolt_Plasteel.label>crossbow bolt (plasteel)</Projectile_RepeatingCrossbowBolt_Plasteel.label>
+	<!-- EN: crossbow bolt (venom) -->
+	<Projectile_RepeatingCrossbowBolt_Venom.label>crossbow bolt (venom)</Projectile_RepeatingCrossbowBolt_Venom.label>
+	<!-- EN: crossbow bolt (flame) -->
+	<Projectile_RepeatingCrossbowBolt_Flame.label>crossbow bolt (flame)</Projectile_RepeatingCrossbowBolt_Flame.label>
+</LanguageData>

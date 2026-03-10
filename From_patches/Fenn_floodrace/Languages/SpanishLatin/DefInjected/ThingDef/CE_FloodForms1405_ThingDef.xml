@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Fenn_floodrace\CE_FloodForms1405.xml -->
+	<!-- EN: FloodMouth -->
+	<InfestForm.tools.0.label>FloodMouth</InfestForm.tools.0.label>
+	<!-- EN: head -->
+	<Combatform.tools.1.label>head</Combatform.tools.1.label>
+	<!-- EN: head -->
+	<Houndform.tools.1.label>head</Houndform.tools.1.label>
+	<!-- EN: head -->
+	<Tankform.tools.1.label>head</Tankform.tools.1.label>
+	<!-- EN: head -->
+	<FloodCarrier.tools.1.label>head</FloodCarrier.tools.1.label>
+	<!-- EN: FloodMouth -->
+	<Pureform.tools.0.label>FloodMouth</Pureform.tools.0.label>
+	<!-- EN: FloodMouth -->
+	<Stalkerform.tools.0.label>FloodMouth</Stalkerform.tools.0.label>
+</LanguageData>

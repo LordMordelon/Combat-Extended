@@ -1,0 +1,10 @@
+<LanguageData>
+	<!-- ModPatches\CP DOOM\Defs\CP DOOM\CP_DOOM_CE_Patch_Ammo_EmgMkVPistol.xml -->
+	
+	<!-- EN: make UAC EMG Cells -->
+	<MakeAmmo_Doom2016EmgMkVPistol.label>make UAC EMG Cells</MakeAmmo_Doom2016EmgMkVPistol.label>
+	<!-- EN: Craft 500 shots' worth of UAC EMG Cells. -->
+	<MakeAmmo_Doom2016EmgMkVPistol.description>Craft 500 shots' worth of UAC EMG Cells.</MakeAmmo_Doom2016EmgMkVPistol.description>
+	<!-- EN: Making UAC EMG Cells. -->
+	<MakeAmmo_Doom2016EmgMkVPistol.jobString>Making UAC EMG Cells.</MakeAmmo_Doom2016EmgMkVPistol.jobString>
+</LanguageData>

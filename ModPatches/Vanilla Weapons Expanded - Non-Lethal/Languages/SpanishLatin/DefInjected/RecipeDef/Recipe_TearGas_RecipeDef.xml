@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla Weapons Expanded - Non-Lethal\Defs\Vanilla Weapons Expanded - Non-Lethal\Recipe_TearGas.xml -->
+	<!-- EN: make tear gas grenades x10 -->
+	<MakeVWENLTearGasGrenade.label>make tear gas grenades x10</MakeVWENLTearGasGrenade.label>
+	<!-- EN: Craft 10 tear gas grenades. -->
+	<MakeVWENLTearGasGrenade.description>Craft 10 tear gas grenades.</MakeVWENLTearGasGrenade.description>
+	<!-- EN: Making tear gas grenades. -->
+	<MakeVWENLTearGasGrenade.jobString>Making tear gas grenades.</MakeVWENLTearGasGrenade.jobString>
+</LanguageData>

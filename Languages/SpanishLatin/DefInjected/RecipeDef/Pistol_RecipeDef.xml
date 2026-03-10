@@ -1,0 +1,24 @@
+<LanguageData>
+	<!-- Defs\Ammo\Generic\Pistol.xml -->
+	
+	<!-- EN: make pistol (FMJ) cartridge x500 -->
+	<MakeAmmo_Pistol_FMJ.label>make pistol (FMJ) cartridge x500</MakeAmmo_Pistol_FMJ.label>
+	<!-- EN: Craft 500 pistol (FMJ) cartridges. -->
+	<MakeAmmo_Pistol_FMJ.description>Craft 500 pistol (FMJ) cartridges.</MakeAmmo_Pistol_FMJ.description>
+	<!-- EN: Making pistol (FMJ) cartridges. -->
+	<MakeAmmo_Pistol_FMJ.jobString>Making pistol (FMJ) cartridges.</MakeAmmo_Pistol_FMJ.jobString>
+	
+	<!-- EN: make pistol (AP) cartridge x500 -->
+	<MakeAmmo_Pistol_AP.label>make pistol (AP) cartridge x500</MakeAmmo_Pistol_AP.label>
+	<!-- EN: Craft 500 pistol (AP) cartridges. -->
+	<MakeAmmo_Pistol_AP.description>Craft 500 pistol (AP) cartridges.</MakeAmmo_Pistol_AP.description>
+	<!-- EN: Making pistol (AP) cartridges. -->
+	<MakeAmmo_Pistol_AP.jobString>Making pistol (AP) cartridges.</MakeAmmo_Pistol_AP.jobString>
+	
+	<!-- EN: make pistol (HP) cartridge x500 -->
+	<MakeAmmo_Pistol_HP.label>make pistol (HP) cartridge x500</MakeAmmo_Pistol_HP.label>
+	<!-- EN: Craft 500 pistol (HP) cartridges. -->
+	<MakeAmmo_Pistol_HP.description>Craft 500 pistol (HP) cartridges.</MakeAmmo_Pistol_HP.description>
+	<!-- EN: Making pistol (HP) cartridges. -->
+	<MakeAmmo_Pistol_HP.jobString>Making pistol (HP) cartridges.</MakeAmmo_Pistol_HP.jobString>
+</LanguageData>

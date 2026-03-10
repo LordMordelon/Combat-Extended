@@ -1,0 +1,45 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\CAT_PlasmaPack\Weapon_Plasma1230.xml -->
+	<!-- EN: handle -->
+	<CAT_PlasmaAxe.tools.0.label>handle</CAT_PlasmaAxe.tools.0.label>
+	<!-- EN: point -->
+	<CAT_PlasmaAxe.tools.1.label>point</CAT_PlasmaAxe.tools.1.label>
+	<!-- EN: edge -->
+	<CAT_PlasmaAxe.tools.2.label>edge</CAT_PlasmaAxe.tools.2.label>
+	
+	<!-- EN: handle -->
+	<CAT_PlasmaHalberd.tools.0.label>handle</CAT_PlasmaHalberd.tools.0.label>
+	<!-- EN: point -->
+	<CAT_PlasmaHalberd.tools.1.label>point</CAT_PlasmaHalberd.tools.1.label>
+	<!-- EN: edge -->
+	<CAT_PlasmaHalberd.tools.2.label>edge</CAT_PlasmaHalberd.tools.2.label>
+	
+	<!-- EN: handle -->
+	<CAT_PlasmaKhopesh.tools.0.label>handle</CAT_PlasmaKhopesh.tools.0.label>
+	<!-- EN: point -->
+	<CAT_PlasmaKhopesh.tools.1.label>point</CAT_PlasmaKhopesh.tools.1.label>
+	<!-- EN: edge -->
+	<CAT_PlasmaKhopesh.tools.2.label>edge</CAT_PlasmaKhopesh.tools.2.label>
+	
+	<!-- EN: handle -->
+	<CAT_PlasmaScythe.tools.0.label>handle</CAT_PlasmaScythe.tools.0.label>
+	<!-- EN: edge -->
+	<CAT_PlasmaScythe.tools.1.label>edge</CAT_PlasmaScythe.tools.1.label>
+	
+	<!-- EN: handle -->
+	<CAT_PlasmaGreatsword.tools.0.label>handle</CAT_PlasmaGreatsword.tools.0.label>
+	<!-- EN: point -->
+	<CAT_PlasmaGreatsword.tools.1.label>point</CAT_PlasmaGreatsword.tools.1.label>
+	<!-- EN: edge -->
+	<CAT_PlasmaGreatsword.tools.2.label>edge</CAT_PlasmaGreatsword.tools.2.label>
+	
+	<!-- EN: handle -->
+	<CAT_PlasmaCleaver.tools.0.label>handle</CAT_PlasmaCleaver.tools.0.label>
+	<!-- EN: point -->
+	<CAT_PlasmaCleaver.tools.1.label>point</CAT_PlasmaCleaver.tools.1.label>
+	<!-- EN: cleave -->
+	<CAT_PlasmaCleaver.tools.2.label>cleave</CAT_PlasmaCleaver.tools.2.label>
+	
+	<!-- EN: Sawblades -->
+	<CAT_PlasmaSaw.tools.0.label>Sawblades</CAT_PlasmaSaw.tools.0.label>
+</LanguageData>

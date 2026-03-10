@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\SYR Naga\Defs\SYR Naga\Patch_Ammo_44Magnum_Naga.xml -->
+	<!-- EN: .44 Magnum Charged cartridge -->
+	<Ammo_44MagnumCharged.label>.44 Magnum Charged cartridge</Ammo_44MagnumCharged.label>
+	<!-- EN: Charged shot ammo used by low velocity, high power charge weapons. -->
+	<Ammo_44MagnumCharged.description>Charged shot ammo used by low velocity, high power charge weapons.</Ammo_44MagnumCharged.description>
+	<!-- EN: .44 Magnum Charged bullet -->
+	<Bullet_44MagnumCharged.label>.44 Magnum Charged bullet</Bullet_44MagnumCharged.label>
+</LanguageData>

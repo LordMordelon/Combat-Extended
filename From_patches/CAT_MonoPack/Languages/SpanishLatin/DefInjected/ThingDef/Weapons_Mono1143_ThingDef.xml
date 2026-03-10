@@ -1,0 +1,58 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\CAT_MonoPack\Weapons_Mono1143.xml -->
+	<!-- EN: handle -->
+	<CAT_MonoChargeLance.tools.0.label>handle</CAT_MonoChargeLance.tools.0.label>
+	<!-- EN: point -->
+	<CAT_MonoChargeLance.tools.1.label>point</CAT_MonoChargeLance.tools.1.label>
+	<!-- EN: edge -->
+	<CAT_MonoChargeLance.tools.2.label>edge</CAT_MonoChargeLance.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<CAT_MonoWhipClaw.tools.0.label>shaft</CAT_MonoWhipClaw.tools.0.label>
+	<!-- EN: point -->
+	<CAT_MonoWhipClaw.tools.1.label>point</CAT_MonoWhipClaw.tools.1.label>
+	<!-- EN: edge -->
+	<CAT_MonoWhipClaw.tools.2.label>edge</CAT_MonoWhipClaw.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<CAT_MonoGlaive.tools.0.label>shaft</CAT_MonoGlaive.tools.0.label>
+	<!-- EN: point -->
+	<CAT_MonoGlaive.tools.1.label>point</CAT_MonoGlaive.tools.1.label>
+	<!-- EN: edge -->
+	<CAT_MonoGlaive.tools.2.label>edge</CAT_MonoGlaive.tools.2.label>
+	
+	<!-- EN: handle -->
+	<CAT_MonoBastardSword.tools.0.label>handle</CAT_MonoBastardSword.tools.0.label>
+	<!-- EN: point -->
+	<CAT_MonoBastardSword.tools.1.label>point</CAT_MonoBastardSword.tools.1.label>
+	<!-- EN: edge -->
+	<CAT_MonoBastardSword.tools.2.label>edge</CAT_MonoBastardSword.tools.2.label>
+	
+	<!-- EN: handle -->
+	<CAT_MonoBusterSword.tools.0.label>handle</CAT_MonoBusterSword.tools.0.label>
+	<!-- EN: point -->
+	<CAT_MonoBusterSword.tools.1.label>point</CAT_MonoBusterSword.tools.1.label>
+	<!-- EN: edge -->
+	<CAT_MonoBusterSword.tools.2.label>edge</CAT_MonoBusterSword.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<CAT_MonoWarSpear.tools.0.label>shaft</CAT_MonoWarSpear.tools.0.label>
+	<!-- EN: point -->
+	<CAT_MonoWarSpear.tools.1.label>point</CAT_MonoWarSpear.tools.1.label>
+	<!-- EN: edge -->
+	<CAT_MonoWarSpear.tools.2.label>edge</CAT_MonoWarSpear.tools.2.label>
+	
+	<!-- EN: handle -->
+	<CAT_MonoOdachi.tools.0.label>handle</CAT_MonoOdachi.tools.0.label>
+	<!-- EN: point -->
+	<CAT_MonoOdachi.tools.1.label>point</CAT_MonoOdachi.tools.1.label>
+	<!-- EN: edge -->
+	<CAT_MonoOdachi.tools.2.label>edge</CAT_MonoOdachi.tools.2.label>
+	
+	<!-- EN: handle -->
+	<CAT_MonoGreatsword.tools.0.label>handle</CAT_MonoGreatsword.tools.0.label>
+	<!-- EN: point -->
+	<CAT_MonoGreatsword.tools.1.label>point</CAT_MonoGreatsword.tools.1.label>
+	<!-- EN: edge -->
+	<CAT_MonoGreatsword.tools.2.label>edge</CAT_MonoGreatsword.tools.2.label>
+</LanguageData>

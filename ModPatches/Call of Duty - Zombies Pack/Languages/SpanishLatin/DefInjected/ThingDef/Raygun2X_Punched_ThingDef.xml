@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Rayguns\Raygun2X_Punched.xml -->
+	<!-- EN: Porter's Raygun Mk.2 X Cartridge -->
+	<Ammo_Raygun_two_x_Punched.label>Porter's Raygun Mk.2 X Cartridge</Ammo_Raygun_two_x_Punched.label>
+	<!-- EN: Pistol cartridge favoured for its above average stopping power. -->
+	<Ammo_Raygun_two_x_Punched.description>Pistol cartridge favoured for its above average stopping power.</Ammo_Raygun_two_x_Punched.description>
+	<!-- EN: Porter's Raygun Mk.2 X Plasma -->
+	<Bullet_Raygun_two_x_Punched.label>Porter's Raygun Mk.2 X Plasma</Bullet_Raygun_two_x_Punched.label>
+</LanguageData>

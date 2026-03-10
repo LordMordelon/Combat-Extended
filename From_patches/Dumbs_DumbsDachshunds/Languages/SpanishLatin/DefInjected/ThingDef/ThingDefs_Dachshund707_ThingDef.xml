@@ -1,0 +1,23 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Dumbs_DumbsDachshunds\ThingDefs_Dachshund707.xml -->
+	<!-- EN: left claw -->
+	<ERN_DachshundShorthair.tools.0.label>left claw</ERN_DachshundShorthair.tools.0.label>
+	<!-- EN: right claw -->
+	<ERN_DachshundShorthair.tools.1.label>right claw</ERN_DachshundShorthair.tools.1.label>
+	<!-- EN: head -->
+	<ERN_DachshundShorthair.tools.3.label>head</ERN_DachshundShorthair.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<ERN_DachshundLonghair.tools.0.label>left claw</ERN_DachshundLonghair.tools.0.label>
+	<!-- EN: right claw -->
+	<ERN_DachshundLonghair.tools.1.label>right claw</ERN_DachshundLonghair.tools.1.label>
+	<!-- EN: head -->
+	<ERN_DachshundLonghair.tools.3.label>head</ERN_DachshundLonghair.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<ERN_DachshundWirehair.tools.0.label>left claw</ERN_DachshundWirehair.tools.0.label>
+	<!-- EN: right claw -->
+	<ERN_DachshundWirehair.tools.1.label>right claw</ERN_DachshundWirehair.tools.1.label>
+	<!-- EN: head -->
+	<ERN_DachshundWirehair.tools.3.label>head</ERN_DachshundWirehair.tools.3.label>
+</LanguageData>

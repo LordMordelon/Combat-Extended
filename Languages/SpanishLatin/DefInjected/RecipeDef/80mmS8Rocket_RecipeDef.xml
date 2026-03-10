@@ -1,0 +1,21 @@
+<LanguageData>
+	<!-- Defs\Ammo\Rocket\80mmS8Rocket.xml -->
+	<!-- EN: make 80mm S8 (HE) rockets x5 -->
+	<MakeAmmo_80mmRocket_HE.label>make 80mm S8 (HE) rockets x5</MakeAmmo_80mmRocket_HE.label>
+	<!-- EN: Craft 5 80mm S8 (HE) rockets. -->
+	<MakeAmmo_80mmRocket_HE.description>Craft 5 80mm S8 (HE) rockets.</MakeAmmo_80mmRocket_HE.description>
+	<!-- EN: Making 80mm S8 (HE) rockets. -->
+	<MakeAmmo_80mmRocket_HE.jobString>Making 80mm S8 (HE) rockets.</MakeAmmo_80mmRocket_HE.jobString>
+	<!-- EN: make 80mm S8 (HEAT) rockets x5 -->
+	<MakeAmmo_80mmRocket_HEAT.label>make 80mm S8 (HEAT) rockets x5</MakeAmmo_80mmRocket_HEAT.label>
+	<!-- EN: Craft 5 80mm S8 (HEAT) rockets. -->
+	<MakeAmmo_80mmRocket_HEAT.description>Craft 5 80mm S8 (HEAT) rockets.</MakeAmmo_80mmRocket_HEAT.description>
+	<!-- EN: Making 80mm S8 (HEAT) rockets. -->
+	<MakeAmmo_80mmRocket_HEAT.jobString>Making 80mm S8 (HEAT) rockets.</MakeAmmo_80mmRocket_HEAT.jobString>
+	<!-- EN: make 80mm S8 (Thermobaric) rockets x5 -->
+	<MakeAmmo_80mmRocket_Thermobaric.label>make 80mm S8 (Thermobaric) rockets x5</MakeAmmo_80mmRocket_Thermobaric.label>
+	<!-- EN: Craft 5 80mm S8 (Thermobaric) rockets. -->
+	<MakeAmmo_80mmRocket_Thermobaric.description>Craft 5 80mm S8 (Thermobaric) rockets.</MakeAmmo_80mmRocket_Thermobaric.description>
+	<!-- EN: Making 80mm S8 (Thermobaric) rockets. -->
+	<MakeAmmo_80mmRocket_Thermobaric.jobString>Making 80mm S8 (Thermobaric) rockets.</MakeAmmo_80mmRocket_Thermobaric.jobString>
+</LanguageData>

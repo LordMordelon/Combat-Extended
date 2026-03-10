@@ -1,0 +1,30 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Ryflamer_Rimcraft_Weaponry\WOW_NightElves_CE1501.xml -->
+	<!-- EN: handle -->
+	<WoWM_NightElf_Tomahawk.tools.0.label>handle</WoWM_NightElf_Tomahawk.tools.0.label>
+	<!-- EN: point -->
+	<WoWM_NightElf_Tomahawk.tools.1.label>point</WoWM_NightElf_Tomahawk.tools.1.label>
+	<!-- EN: edge -->
+	<WoWM_NightElf_Tomahawk.tools.2.label>edge</WoWM_NightElf_Tomahawk.tools.2.label>
+	
+	<!-- EN: handle -->
+	<WoWM_NightElf_Mooncleaver.tools.0.label>handle</WoWM_NightElf_Mooncleaver.tools.0.label>
+	<!-- EN: edge -->
+	<WoWM_NightElf_Mooncleaver.tools.1.label>edge</WoWM_NightElf_Mooncleaver.tools.1.label>
+	<!-- EN: point -->
+	<WoWM_NightElf_Mooncleaver.tools.2.label>point</WoWM_NightElf_Mooncleaver.tools.2.label>
+	
+	<!-- EN: point -->
+	<WoWM_NightElf_Moonglaive.tools.0.label>point</WoWM_NightElf_Moonglaive.tools.0.label>
+	<!-- EN: point -->
+	<WoWM_NightElf_Moonglaive.tools.1.label>point</WoWM_NightElf_Moonglaive.tools.1.label>
+	
+	<!-- EN: shaft -->
+	<WoWM_NightElf_Halberd.tools.0.label>shaft</WoWM_NightElf_Halberd.tools.0.label>
+	<!-- EN: shaft -->
+	<WoWM_NightElf_Halberd.tools.1.label>shaft</WoWM_NightElf_Halberd.tools.1.label>
+	<!-- EN: point -->
+	<WoWM_NightElf_Halberd.tools.2.label>point</WoWM_NightElf_Halberd.tools.2.label>
+	<!-- EN: edge -->
+	<WoWM_NightElf_Halberd.tools.3.label>edge</WoWM_NightElf_Halberd.tools.3.label>
+</LanguageData>

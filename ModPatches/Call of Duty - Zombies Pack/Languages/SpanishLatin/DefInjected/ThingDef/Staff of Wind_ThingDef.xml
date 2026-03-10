@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Staffs\Staff of Wind.xml -->
+	<!-- EN: Elemental Wind Crystal -->
+	<Ammo_Elemental_Staff_Wind.label>Elemental Wind Crystal</Ammo_Elemental_Staff_Wind.label>
+	<!-- EN: A brilliant coloured Gem that radiates power -->
+	<Ammo_Elemental_Staff_Wind.description>A brilliant coloured Gem that radiates power</Ammo_Elemental_Staff_Wind.description>
+	<!-- EN: Wind Projectile -->
+	<Bullet_Elemental_Staff_Wind.label>Wind Projectile</Bullet_Elemental_Staff_Wind.label>
+</LanguageData>

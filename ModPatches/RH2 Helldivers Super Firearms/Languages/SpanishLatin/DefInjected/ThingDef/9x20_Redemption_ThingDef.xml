@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- ModPatches\RH2 Helldivers Super Firearms\Defs\RH2 Helldivers Super Firearms\Ammo\9x20_Redemption.xml -->
+	
+	<!-- EN: 9x20mm Redemption (FMJ) -->
+	<Ammo_9x20mmRed_FMJ.label>9x20mm Redemption (FMJ)</Ammo_9x20mmRed_FMJ.label>
+	<!-- EN: Common pistol cartridge used by a variety of Super Earth-manufactured handguns and SMGs. -->
+	<Ammo_9x20mmRed_FMJ.description>Common pistol cartridge used by a variety of Super Earth-manufactured handguns and SMGs.</Ammo_9x20mmRed_FMJ.description>
+	
+	<!-- EN: 9x20mm Redemption (AP) -->
+	<Ammo_9x20mmRed_AP.label>9x20mm Redemption (AP)</Ammo_9x20mmRed_AP.label>
+	<!-- EN: Common pistol cartridge used by a variety of Super Earth-manufactured handguns and SMGs. -->
+	<Ammo_9x20mmRed_AP.description>Common pistol cartridge used by a variety of Super Earth-manufactured handguns and SMGs.</Ammo_9x20mmRed_AP.description>
+	
+	<!-- EN: 9x20mm Redemption (HP) -->
+	<Ammo_9x20mmRed_HP.label>9x20mm Redemption (HP)</Ammo_9x20mmRed_HP.label>
+	<!-- EN: Common pistol cartridge used by a variety of Super Earth-manufactured handguns and SMGs. -->
+	<Ammo_9x20mmRed_HP.description>Common pistol cartridge used by a variety of Super Earth-manufactured handguns and SMGs.</Ammo_9x20mmRed_HP.description>
+	
+	<!-- EN: 9mm Redemption bullet (FMJ) -->
+	<Bullet_9x20mmRed_FMJ.label>9mm Redemption bullet (FMJ)</Bullet_9x20mmRed_FMJ.label>
+	
+	<!-- EN: 9mm Redemption bullet (AP) -->
+	<Bullet_9x20mmRed_AP.label>9mm Redemption bullet (AP)</Bullet_9x20mmRed_AP.label>
+	
+	<!-- EN: 9mm Redemption bullet (HP) -->
+	<Bullet_9x20mmRed_HP.label>9mm Redemption bullet (HP)</Bullet_9x20mmRed_HP.label>
+</LanguageData>

@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Mlie_XNDVanillaFriendlyAnimalSurgery\BionicLeg1689.xml -->
+	<!-- EN: leg -->
+	<BionicAnimalLegTinyFront.comps.0.tools.0.label>leg</BionicAnimalLegTinyFront.comps.0.tools.0.label>
+	<!-- EN: leg -->
+	<BionicAnimalLegSmallFront.comps.0.tools.0.label>leg</BionicAnimalLegSmallFront.comps.0.tools.0.label>
+	<!-- EN: leg -->
+	<BionicAnimalLegMediumFront.comps.0.tools.0.label>leg</BionicAnimalLegMediumFront.comps.0.tools.0.label>
+	<!-- EN: leg -->
+	<BionicAnimalLegLargeFront.comps.0.tools.0.label>leg</BionicAnimalLegLargeFront.comps.0.tools.0.label>
+	<!-- EN: leg -->
+	<BionicAnimalLegHugeFront.comps.0.tools.0.label>leg</BionicAnimalLegHugeFront.comps.0.tools.0.label>
+</LanguageData>

@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\PunkyRoo_SlimeRancher\SlimeyBois1618.xml -->
+	<!-- EN: body -->
+	<GreenSlime.tools.0.label>body</GreenSlime.tools.0.label>
+	<!-- EN: body -->
+	<PuddleSlime.tools.0.label>body</PuddleSlime.tools.0.label>
+	<!-- EN: body -->
+	<BoomSlime.tools.0.label>body</BoomSlime.tools.0.label>
+	<!-- EN: body -->
+	<FireSlime.tools.0.label>body</FireSlime.tools.0.label>
+	<!-- EN: body -->
+	<TarrSlime.tools.0.label>body</TarrSlime.tools.0.label>
+	<!-- EN: razorfangs -->
+	<TarrSlime.tools.1.label>razorfangs</TarrSlime.tools.1.label>
+	<!-- EN: body -->
+	<QuicksilverSlime.tools.0.label>body</QuicksilverSlime.tools.0.label>
+	<!-- EN: Slice -->
+	<QuicksilverSlime.tools.1.label>Slice</QuicksilverSlime.tools.1.label>
+</LanguageData>

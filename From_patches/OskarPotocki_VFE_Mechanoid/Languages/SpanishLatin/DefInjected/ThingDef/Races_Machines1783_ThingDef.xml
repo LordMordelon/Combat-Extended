@@ -1,0 +1,35 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\OskarPotocki_VFE_Mechanoid\Races_Machines1783.xml -->
+	<!-- EN: body -->
+	<VFE_Mechanoids_Autocleaner.tools.0.label>body</VFE_Mechanoids_Autocleaner.tools.0.label>
+	<!-- EN: body -->
+	<VFE_Mechanoids_Autohauler.tools.0.label>body</VFE_Mechanoids_Autohauler.tools.0.label>
+	<!-- EN: body -->
+	<VFE_Mechanoids_Autominer.tools.0.label>body</VFE_Mechanoids_Autominer.tools.0.label>
+	<!-- EN: body -->
+	<VFE_Mechanoids_Turret.tools.0.label>body</VFE_Mechanoids_Turret.tools.0.label>
+	<!-- EN: body -->
+	<VFE_Mechanoids_Autobroadcaster.tools.0.label>body</VFE_Mechanoids_Autobroadcaster.tools.0.label>
+	<!-- EN: head -->
+	<VFE_Mechanoids_Combat.tools.0.label>head</VFE_Mechanoids_Combat.tools.0.label>
+	<!-- EN: head -->
+	<VFE_Mechanoids_Raider.tools.0.label>head</VFE_Mechanoids_Raider.tools.0.label>
+	<!-- EN: head -->
+	<VFE_Mechanoids_Pyro.tools.0.label>head</VFE_Mechanoids_Pyro.tools.0.label>
+	<!-- EN: head -->
+	<VFE_Mechanoids_Riot.tools.0.label>head</VFE_Mechanoids_Riot.tools.0.label>
+	<!-- EN: blade -->
+	<VFE_Mechanoids_Riot.tools.1.label>blade</VFE_Mechanoids_Riot.tools.1.label>
+	<!-- EN: blade -->
+	<VFE_Mechanoids_Riot.tools.2.label>blade</VFE_Mechanoids_Riot.tools.2.label>
+	<!-- EN: shield -->
+	<VFE_Mechanoids_Riot.tools.3.label>shield</VFE_Mechanoids_Riot.tools.3.label>
+	<!-- EN: head -->
+	<VFE_Mechanoids_Autostrider.tools.0.label>head</VFE_Mechanoids_Autostrider.tools.0.label>
+	<!-- EN: left fist -->
+	<VFE_Mechanoids_AutoMedic.tools.0.label>left fist</VFE_Mechanoids_AutoMedic.tools.0.label>
+	<!-- EN: right fist -->
+	<VFE_Mechanoids_AutoMedic.tools.1.label>right fist</VFE_Mechanoids_AutoMedic.tools.1.label>
+	<!-- EN: head -->
+	<VFE_Mechanoids_AutoMedic.tools.2.label>head</VFE_Mechanoids_AutoMedic.tools.2.label>
+</LanguageData>

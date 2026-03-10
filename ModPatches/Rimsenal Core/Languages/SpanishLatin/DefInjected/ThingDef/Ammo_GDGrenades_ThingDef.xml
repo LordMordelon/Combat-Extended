@@ -1,0 +1,26 @@
+<LanguageData>
+	<!-- ModPatches\Rimsenal Core\Defs\Rimsenal Core\Ammo_GDGrenades.xml -->
+	<!-- EN: 25x40mm grenade (Buck) -->
+	<Ammo_25x40mmGrenade_Buck.label>25x40mm grenade (Buck)</Ammo_25x40mmGrenade_Buck.label>
+	<!-- EN: Specialized grenade developed for use in shoulder-fired grenade launchers. -->
+	<Ammo_25x40mmGrenade_Buck.description>Specialized grenade developed for use in shoulder-fired grenade launchers.</Ammo_25x40mmGrenade_Buck.description>
+	
+	<!-- EN: 25x40mm grenade (Incendiary) -->
+	<Ammo_25x40mmGrenade_INC.label>25x40mm grenade (Incendiary)</Ammo_25x40mmGrenade_INC.label>
+	<!-- EN: Specialized grenade developed for use in shoulder-fired grenade launchers. -->
+	<Ammo_25x40mmGrenade_INC.description>Specialized grenade developed for use in shoulder-fired grenade launchers.</Ammo_25x40mmGrenade_INC.description>
+	
+	<!-- EN: 25mm GD Micromissile (HEDP) -->
+	<Ammo_25mmGDMicromissile_HEDP.label>25mm GD Micromissile (HEDP)</Ammo_25mmGDMicromissile_HEDP.label>
+	<!-- EN: Specialized grenade developed for use in shoulder-fired grenade launchers. -->
+	<Ammo_25mmGDMicromissile_HEDP.description>Specialized grenade developed for use in shoulder-fired grenade launchers.</Ammo_25mmGDMicromissile_HEDP.description>
+	
+	<!-- EN: buckshot pellet -->
+	<Bullet_25mmGauge_Buck.label>buckshot pellet</Bullet_25mmGauge_Buck.label>
+	
+	<!-- EN: 25x40mm grenade (Incendiary) -->
+	<Bullet_25x40mmGrenade_INC.label>25x40mm grenade (Incendiary)</Bullet_25x40mmGrenade_INC.label>
+	
+	<!-- EN: 25mm micromissile -->
+	<Bullet_25mmGDMicromissile_HEDP.label>25mm micromissile</Bullet_25mmGDMicromissile_HEDP.label>
+</LanguageData>

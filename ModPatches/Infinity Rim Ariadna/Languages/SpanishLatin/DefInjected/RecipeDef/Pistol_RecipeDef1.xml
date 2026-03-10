@@ -1,0 +1,31 @@
+<LanguageData>
+	<!-- ModPatches\Infinity Rim Ariadna\Defs\Infinity Rim Ariadna\Ammo\Pistol.xml -->
+	
+	<!-- EN: make 9x19mm Parabellum (Teseum) cartridge x500 -->
+	<MakeAmmo_9x19mmPara_Teseum.label>make 9x19mm Parabellum (Teseum) cartridge x500</MakeAmmo_9x19mmPara_Teseum.label>
+	<!-- EN: Craft 500 9x19mm Parabellum (Teseum) cartridges. -->
+	<MakeAmmo_9x19mmPara_Teseum.description>Craft 500 9x19mm Parabellum (Teseum) cartridges.</MakeAmmo_9x19mmPara_Teseum.description>
+	<!-- EN: Making 9x19mm Parabellum (Teseum) cartridges. -->
+	<MakeAmmo_9x19mmPara_Teseum.jobString>Making 9x19mm Parabellum (Teseum) cartridges.</MakeAmmo_9x19mmPara_Teseum.jobString>
+	
+	<!-- EN: make pistol (Teseum) cartridge x500 -->
+	<MakeAmmo_Pistol_Teseum.label>make pistol (Teseum) cartridge x500</MakeAmmo_Pistol_Teseum.label>
+	<!-- EN: Craft 500 pistol (Teseum) cartridges. -->
+	<MakeAmmo_Pistol_Teseum.description>Craft 500 pistol (Teseum) cartridges.</MakeAmmo_Pistol_Teseum.description>
+	<!-- EN: Making pistol (Teseum) cartridges. -->
+	<MakeAmmo_Pistol_Teseum.jobString>Making pistol (Teseum) cartridges.</MakeAmmo_Pistol_Teseum.jobString>
+	
+	<!-- EN: make .44 Magnum (Teseum) cartridge x500 -->
+	<MakeAmmo_44Magnum_Teseum.label>make .44 Magnum (Teseum) cartridge x500</MakeAmmo_44Magnum_Teseum.label>
+	<!-- EN: Craft 500 .44 Magnum (Teseum) cartridges. -->
+	<MakeAmmo_44Magnum_Teseum.description>Craft 500 .44 Magnum (Teseum) cartridges.</MakeAmmo_44Magnum_Teseum.description>
+	<!-- EN: Making .44 Magnum (Teseum) cartridges. -->
+	<MakeAmmo_44Magnum_Teseum.jobString>Making .44 Magnum (Teseum) cartridges.</MakeAmmo_44Magnum_Teseum.jobString>
+	
+	<!-- EN: make magnum pistol (Teseum) cartridge x500 -->
+	<MakeAmmo_PistolMagnum_Teseum.label>make magnum pistol (Teseum) cartridge x500</MakeAmmo_PistolMagnum_Teseum.label>
+	<!-- EN: Craft 500 magnum pistol (Teseum) cartridges. -->
+	<MakeAmmo_PistolMagnum_Teseum.description>Craft 500 magnum pistol (Teseum) cartridges.</MakeAmmo_PistolMagnum_Teseum.description>
+	<!-- EN: Making magnum pistol (Teseum) cartridges. -->
+	<MakeAmmo_PistolMagnum_Teseum.jobString>Making magnum pistol (Teseum) cartridges.</MakeAmmo_PistolMagnum_Teseum.jobString>
+</LanguageData>

@@ -1,0 +1,24 @@
+<LanguageData>
+	<!-- Defs\Ammo\Advanced\12x72mmCharged.xml -->
+	
+	<!-- EN: make 12x72mm Charged cartridge x200 -->
+	<MakeAmmo_12x72mmCharged.label>make 12x72mm Charged cartridge x200</MakeAmmo_12x72mmCharged.label>
+	<!-- EN: Craft 200 12x72mm Charged cartridges. -->
+	<MakeAmmo_12x72mmCharged.description>Craft 200 12x72mm Charged cartridges.</MakeAmmo_12x72mmCharged.description>
+	<!-- EN: Making 12x72mm Charged cartridges. -->
+	<MakeAmmo_12x72mmCharged.jobString>Making 12x72mm Charged cartridges.</MakeAmmo_12x72mmCharged.jobString>
+	
+	<!-- EN: make 12x72mm Charged (Conc.) cartridge x200 -->
+	<MakeAmmo_12x72mmCharged_AP.label>make 12x72mm Charged (Conc.) cartridge x200</MakeAmmo_12x72mmCharged_AP.label>
+	<!-- EN: Craft 200 12x72mm Charged (Conc.) cartridges. -->
+	<MakeAmmo_12x72mmCharged_AP.description>Craft 200 12x72mm Charged (Conc.) cartridges.</MakeAmmo_12x72mmCharged_AP.description>
+	<!-- EN: Making 12x72mm Charged (Conc.) cartridges. -->
+	<MakeAmmo_12x72mmCharged_AP.jobString>Making 12x72mm Charged (Conc.) cartridges.</MakeAmmo_12x72mmCharged_AP.jobString>
+	
+	<!-- EN: make 12x72mm Charged (Ion) cartridge x200 -->
+	<MakeAmmo_12x72mmCharged_Ion.label>make 12x72mm Charged (Ion) cartridge x200</MakeAmmo_12x72mmCharged_Ion.label>
+	<!-- EN: Craft 200 12x72mm Charged (Ion) cartridges. -->
+	<MakeAmmo_12x72mmCharged_Ion.description>Craft 200 12x72mm Charged (Ion) cartridges.</MakeAmmo_12x72mmCharged_Ion.description>
+	<!-- EN: Making 12x72mm Charged (Ion) cartridges. -->
+	<MakeAmmo_12x72mmCharged_Ion.jobString>Making 12x72mm Charged (Ion) cartridges.</MakeAmmo_12x72mmCharged_Ion.jobString>
+</LanguageData>

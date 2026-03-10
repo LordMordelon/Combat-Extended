@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Defs\Ammo\Modded\Halo\16x65mm.xml -->
+	<!-- EN: make 16x65mm (HE) cartridge x100 -->
+	<MakeAmmo_16x65mm_HE.label>make 16x65mm (HE) cartridge x100</MakeAmmo_16x65mm_HE.label>
+	<!-- EN: Craft 100 16x65mm (HE) cartridges. -->
+	<MakeAmmo_16x65mm_HE.description>Craft 100 16x65mm (HE) cartridges.</MakeAmmo_16x65mm_HE.description>
+	<!-- EN: Making 16x65mm (HE) cartridges. -->
+	<MakeAmmo_16x65mm_HE.jobString>Making 16x65mm (HE) cartridges.</MakeAmmo_16x65mm_HE.jobString>
+</LanguageData>

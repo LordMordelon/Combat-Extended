@@ -1,0 +1,20 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\RimEffectRenegade_Drell\Weapons_Drell1441.xml -->
+	<!-- EN: grip -->
+	<RE_Gun_AllianceCompactSMG.tools.0.label>grip</RE_Gun_AllianceCompactSMG.tools.0.label>
+	<!-- EN: muzzle -->
+	<RE_Gun_AllianceCompactSMG.tools.1.label>muzzle</RE_Gun_AllianceCompactSMG.tools.1.label>
+	
+	<!-- EN: stock -->
+	<RE_Gun_AllianceRapidSniperRifle.tools.0.label>stock</RE_Gun_AllianceRapidSniperRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RE_Gun_AllianceRapidSniperRifle.tools.1.label>barrel</RE_Gun_AllianceRapidSniperRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RE_Gun_AllianceRapidSniperRifle.tools.2.label>muzzle</RE_Gun_AllianceRapidSniperRifle.tools.2.label>
+	
+	<!-- EN: M-12 Locust -->
+	<RE_Gun_AllianceCompactSMG.label>M-12 Locust</RE_Gun_AllianceCompactSMG.label>
+	
+	<!-- EN: M-97 Viper -->
+	<RE_Gun_AllianceRapidSniperRifle.label>M-97 Viper</RE_Gun_AllianceRapidSniperRifle.label>
+</LanguageData>

@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Medieval Overhaul\Defs\Medieval Overhaul\Ammo\MO_Ammo_Bolts.xml -->
+	<!-- EN: iron crossbow bolt -->
+	<IronCrossbowBolt.label>iron crossbow bolt</IronCrossbowBolt.label>
+	<!-- EN: iron -->
+	<IronCrossbowBolt.labelShort>iron</IronCrossbowBolt.labelShort>
+	<!-- EN: The bolt head is made from iron to enhance armor penetration. -->
+	<IronCrossbowBolt.description>The bolt head is made from iron to enhance armor penetration.</IronCrossbowBolt.description>
+</LanguageData>

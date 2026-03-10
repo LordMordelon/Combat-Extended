@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\spoonshortage_ADogSaidAnimalProsthetics\Bionics100.xml -->
+	<!-- EN: prosthetic animal leg -->
+	<SimpleProstheticLegAnimal.comps.0.tools.0.label>prosthetic animal leg</SimpleProstheticLegAnimal.comps.0.tools.0.label>
+	<!-- EN: prosthetic animal arm -->
+	<SimpleProstheticArmAnimal.comps.0.tools.0.label>prosthetic animal arm</SimpleProstheticArmAnimal.comps.0.tools.0.label>
+	<!-- EN: simple animal jaw -->
+	<JawAnimalSimple.comps.0.tools.0.label>simple animal jaw</JawAnimalSimple.comps.0.tools.0.label>
+	<!-- EN: bionic animal leg -->
+	<BionicLegAnimal.comps.0.tools.0.label>bionic animal leg</BionicLegAnimal.comps.0.tools.0.label>
+	<!-- EN: bionic animal arm -->
+	<BionicArmAnimal.comps.0.tools.0.label>bionic animal arm</BionicArmAnimal.comps.0.tools.0.label>
+	<!-- EN: bionic animal jaw -->
+	<JawAnimalBionic.comps.0.tools.0.label>bionic animal jaw</JawAnimalBionic.comps.0.tools.0.label>
+</LanguageData>

@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\miho_fortifiedoutremer\Race_MihoSummon1100.xml -->
+	<!-- EN: left claw -->
+	<Miho_Fox.tools.0.label>left claw</Miho_Fox.tools.0.label>
+	<!-- EN: right claw -->
+	<Miho_Fox.tools.1.label>right claw</Miho_Fox.tools.1.label>
+	<!-- EN: head -->
+	<Miho_Fox.tools.3.label>head</Miho_Fox.tools.3.label>
+	
+	<!-- EN: blades -->
+	<Miho_Butterfly.tools.0.label>blades</Miho_Butterfly.tools.0.label>
+	
+	<!-- EN: tentacles -->
+	<Miho_Abomi.tools.0.label>tentacles</Miho_Abomi.tools.0.label>
+	<!-- EN: head -->
+	<Miho_Abomi.tools.1.label>head</Miho_Abomi.tools.1.label>
+</LanguageData>

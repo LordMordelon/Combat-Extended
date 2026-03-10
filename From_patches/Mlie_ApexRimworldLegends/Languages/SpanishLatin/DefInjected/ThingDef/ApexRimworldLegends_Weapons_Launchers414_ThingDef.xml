@@ -1,0 +1,20 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Mlie_ApexRimworldLegends\ApexRimworldLegends_Weapons_Launchers414.xml -->
+	<!-- EN: Rocket Launcher -->
+	<ARL_MechanoidRocketLauncher.label>Rocket Launcher</ARL_MechanoidRocketLauncher.label>
+	<!-- EN: stock -->
+	<ARL_MechanoidRocketLauncher.tools.0.label>stock</ARL_MechanoidRocketLauncher.tools.0.label>
+	<!-- EN: barrel -->
+	<ARL_MechanoidRocketLauncher.tools.1.label>barrel</ARL_MechanoidRocketLauncher.tools.1.label>
+	<!-- EN: muzzle -->
+	<ARL_MechanoidRocketLauncher.tools.2.label>muzzle</ARL_MechanoidRocketLauncher.tools.2.label>
+	
+	<!-- EN: R-6P Softball -->
+	<ARL_GrenadeLauncher.label>R-6P Softball</ARL_GrenadeLauncher.label>
+	<!-- EN: stock -->
+	<ARL_GrenadeLauncher.tools.0.label>stock</ARL_GrenadeLauncher.tools.0.label>
+	<!-- EN: barrel -->
+	<ARL_GrenadeLauncher.tools.1.label>barrel</ARL_GrenadeLauncher.tools.1.label>
+	<!-- EN: muzzle -->
+	<ARL_GrenadeLauncher.tools.2.label>muzzle</ARL_GrenadeLauncher.tools.2.label>
+</LanguageData>

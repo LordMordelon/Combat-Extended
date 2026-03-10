@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- Defs\Ammo\Rocket\RPG32.xml -->
+	
+	<!-- EN: make RPG-32 (HEAT) rockets x5 -->
+	<MakeAmmo_RPG32Rocket_HEAT.label>make RPG-32 (HEAT) rockets x5</MakeAmmo_RPG32Rocket_HEAT.label>
+	<!-- EN: Craft 5 RPG-32 (HEAT) rockets. -->
+	<MakeAmmo_RPG32Rocket_HEAT.description>Craft 5 RPG-32 (HEAT) rockets.</MakeAmmo_RPG32Rocket_HEAT.description>
+	<!-- EN: Making RPG-32 (HEAT) rockets. -->
+	<MakeAmmo_RPG32Rocket_HEAT.jobString>Making RPG-32 (HEAT) rockets.</MakeAmmo_RPG32Rocket_HEAT.jobString>
+	
+	<!-- EN: make RPG-32 (Thermobaric) rockets x5 -->
+	<MakeAmmo_RPG32Rocket_Thermobaric.label>make RPG-32 (Thermobaric) rockets x5</MakeAmmo_RPG32Rocket_Thermobaric.label>
+	<!-- EN: Craft 5 RPG-32 (Thermobaric) rockets. -->
+	<MakeAmmo_RPG32Rocket_Thermobaric.description>Craft 5 RPG-32 (Thermobaric) rockets.</MakeAmmo_RPG32Rocket_Thermobaric.description>
+	<!-- EN: Making RPG-32 (Thermobaric) rockets. -->
+	<MakeAmmo_RPG32Rocket_Thermobaric.jobString>Making RPG-32 (Thermobaric) rockets.</MakeAmmo_RPG32Rocket_Thermobaric.jobString>
+</LanguageData>

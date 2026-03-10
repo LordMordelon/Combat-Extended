@@ -1,0 +1,101 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\onyxae_dragonsdescent\Races_Animal_Rare_Dragon705.xml -->
+	<!-- EN: DD_Knockback -->
+	<Gold_Dragon.tools.0.label>DD_Knockback</Gold_Dragon.tools.0.label>
+	
+	<!-- EN: DD_Knockback -->
+	<Silver_Dragon.tools.0.label>DD_Knockback</Silver_Dragon.tools.0.label>
+	
+	<!-- EN: DD_Knockback -->
+	<Jade_Dragon.tools.0.label>DD_Knockback</Jade_Dragon.tools.0.label>
+	
+	<!-- EN: DD_Knockback -->
+	<True_Dragon.tools.0.label>DD_Knockback</True_Dragon.tools.0.label>
+	
+	<!-- EN: left claw -->
+	<Gold_Dragon.tools.0.label>left claw</Gold_Dragon.tools.0.label>
+	<!-- EN: right claw -->
+	<Gold_Dragon.tools.1.label>right claw</Gold_Dragon.tools.1.label>
+	
+	<!-- EN: left claw -->
+	<Silver_Dragon.tools.0.label>left claw</Silver_Dragon.tools.0.label>
+	<!-- EN: right claw -->
+	<Silver_Dragon.tools.1.label>right claw</Silver_Dragon.tools.1.label>
+	
+	<!-- EN: left claw -->
+	<True_Dragon.tools.0.label>left claw</True_Dragon.tools.0.label>
+	<!-- EN: right claw -->
+	<True_Dragon.tools.1.label>right claw</True_Dragon.tools.1.label>
+	
+	<!-- EN: tail -->
+	<Gold_Dragon.tools.0.label>tail</Gold_Dragon.tools.0.label>
+	<!-- EN: horn -->
+	<Gold_Dragon.tools.1.label>horn</Gold_Dragon.tools.1.label>
+	<!-- EN: horn -->
+	<Gold_Dragon.tools.2.label>horn</Gold_Dragon.tools.2.label>
+	
+	<!-- EN: tail -->
+	<Silver_Dragon.tools.0.label>tail</Silver_Dragon.tools.0.label>
+	<!-- EN: horn -->
+	<Silver_Dragon.tools.1.label>horn</Silver_Dragon.tools.1.label>
+	<!-- EN: horn -->
+	<Silver_Dragon.tools.2.label>horn</Silver_Dragon.tools.2.label>
+	
+	<!-- EN: Fire Breath -->
+	<Gold_Dragon.verbs.0.label>Fire Breath</Gold_Dragon.verbs.0.label>
+	<!-- EN: Dragon Spit -->
+	<Gold_Dragon.verbs.1.label>Dragon Spit</Gold_Dragon.verbs.1.label>
+	<!-- EN: ㅤ -->
+	<Gold_Dragon.verbs.CombatExtended.Verb_ShootCE.label>ㅤ</Gold_Dragon.verbs.CombatExtended.Verb_ShootCE.label>
+	
+	<!-- EN: Fire Breath -->
+	<Silver_Dragon.verbs.0.label>Fire Breath</Silver_Dragon.verbs.0.label>
+	<!-- EN: Dragon Spit -->
+	<Silver_Dragon.verbs.1.label>Dragon Spit</Silver_Dragon.verbs.1.label>
+	<!-- EN: ㅤ -->
+	<Silver_Dragon.verbs.CombatExtended.Verb_ShootCE.label>ㅤ</Silver_Dragon.verbs.CombatExtended.Verb_ShootCE.label>
+	
+	<!-- EN: Fire Breath -->
+	<Jade_Dragon.verbs.0.label>Fire Breath</Jade_Dragon.verbs.0.label>
+	<!-- EN: Dragon Spit -->
+	<Jade_Dragon.verbs.1.label>Dragon Spit</Jade_Dragon.verbs.1.label>
+	<!-- EN: ㅤ -->
+	<Jade_Dragon.verbs.CombatExtended.Verb_ShootCE.label>ㅤ</Jade_Dragon.verbs.CombatExtended.Verb_ShootCE.label>
+	
+	<!-- EN: Fire Breath -->
+	<True_Dragon.verbs.0.label>Fire Breath</True_Dragon.verbs.0.label>
+	<!-- EN: Dragon Spit -->
+	<True_Dragon.verbs.1.label>Dragon Spit</True_Dragon.verbs.1.label>
+	<!-- EN: ㅤ -->
+	<True_Dragon.verbs.CombatExtended.Verb_ShootCE.label>ㅤ</True_Dragon.verbs.CombatExtended.Verb_ShootCE.label>
+	
+	<!-- EN: teeth -->
+	<Gold_Dragon.tools.0.label>teeth</Gold_Dragon.tools.0.label>
+	
+	<!-- EN: teeth -->
+	<Silver_Dragon.tools.0.label>teeth</Silver_Dragon.tools.0.label>
+	
+	<!-- EN: left claw -->
+	<Jade_Dragon.tools.0.label>left claw</Jade_Dragon.tools.0.label>
+	<!-- EN: right claw -->
+	<Jade_Dragon.tools.1.label>right claw</Jade_Dragon.tools.1.label>
+	<!-- EN: teeth -->
+	<Jade_Dragon.tools.2.label>teeth</Jade_Dragon.tools.2.label>
+	<!-- EN: horn -->
+	<Jade_Dragon.tools.3.label>horn</Jade_Dragon.tools.3.label>
+	<!-- EN: horn -->
+	<Jade_Dragon.tools.4.label>horn</Jade_Dragon.tools.4.label>
+	
+	<!-- EN: teeth -->
+	<True_Dragon.tools.0.label>teeth</True_Dragon.tools.0.label>
+	<!-- EN: teeth -->
+	<True_Dragon.tools.1.label>teeth</True_Dragon.tools.1.label>
+	<!-- EN: horn -->
+	<True_Dragon.tools.2.label>horn</True_Dragon.tools.2.label>
+	<!-- EN: horn -->
+	<True_Dragon.tools.3.label>horn</True_Dragon.tools.3.label>
+	<!-- EN: skull bash -->
+	<True_Dragon.tools.4.label>skull bash</True_Dragon.tools.4.label>
+	<!-- EN: tail -->
+	<True_Dragon.tools.5.label>tail</True_Dragon.tools.5.label>
+</LanguageData>

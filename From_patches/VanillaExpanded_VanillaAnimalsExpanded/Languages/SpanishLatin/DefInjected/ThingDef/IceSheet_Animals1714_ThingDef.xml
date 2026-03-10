@@ -1,0 +1,21 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VanillaAnimalsExpanded\IceSheet_Animals1714.xml -->
+	<!-- EN: claws -->
+	<AEXP_Penguin.tools.0.label>claws</AEXP_Penguin.tools.0.label>
+	<!-- EN: beak -->
+	<AEXP_Penguin.tools.1.label>beak</AEXP_Penguin.tools.1.label>
+	<!-- EN: head -->
+	<AEXP_Penguin.tools.2.label>head</AEXP_Penguin.tools.2.label>
+	
+	<!-- EN: left fore-flipper -->
+	<AEXP_Seal.tools.0.label>left fore-flipper</AEXP_Seal.tools.0.label>
+	<!-- EN: right fore-flipper -->
+	<AEXP_Seal.tools.1.label>right fore-flipper</AEXP_Seal.tools.1.label>
+	<!-- EN: head -->
+	<AEXP_Seal.tools.3.label>head</AEXP_Seal.tools.3.label>
+	
+	<!-- EN: tusks -->
+	<AEXP_Walrus.tools.0.label>tusks</AEXP_Walrus.tools.0.label>
+	<!-- EN: head -->
+	<AEXP_Walrus.tools.1.label>head</AEXP_Walrus.tools.1.label>
+</LanguageData>

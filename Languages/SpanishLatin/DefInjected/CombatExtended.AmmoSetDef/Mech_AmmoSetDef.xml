@@ -1,0 +1,12 @@
+<LanguageData>
+	<!-- Defs\Ammo\Generic\Mech.xml -->
+	
+	<!-- EN: mech charged ammo -->
+	<AmmoSet_MechCharged.label>mech charged ammo</AmmoSet_MechCharged.label>
+	
+	<!-- EN: mech shell (Incendiary) -->
+	<AmmoSet_MechShell_Incendiary.label>mech shell (Incendiary)</AmmoSet_MechShell_Incendiary.label>
+	
+	<!-- EN: mech shell (Demo) -->
+	<AmmoSet_MechShell_Demo.label>mech shell (Demo)</AmmoSet_MechShell_Demo.label>
+</LanguageData>

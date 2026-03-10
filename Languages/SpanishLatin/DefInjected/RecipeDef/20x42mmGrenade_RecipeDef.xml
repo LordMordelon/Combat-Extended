@@ -1,0 +1,45 @@
+<LanguageData>
+	<!-- Defs\Ammo\Grenade\20x42mmGrenade.xml -->
+	
+	<!-- EN: make 20x42mm (AP) cartridge x100 -->
+	<MakeAmmo_20x42mm_AP.label>make 20x42mm (AP) cartridge x100</MakeAmmo_20x42mm_AP.label>
+	<!-- EN: Craft 100 20x42mm (AP) cartridges. -->
+	<MakeAmmo_20x42mm_AP.description>Craft 100 20x42mm (AP) cartridges.</MakeAmmo_20x42mm_AP.description>
+	<!-- EN: Making 20x42mm (AP) cartridges. -->
+	<MakeAmmo_20x42mm_AP.jobString>Making 20x42mm (AP) cartridges.</MakeAmmo_20x42mm_AP.jobString>
+	
+	<!-- EN: make 20x42mm (AP-I) cartridge x100 -->
+	<MakeAmmo_20x42mm_Incendiary.label>make 20x42mm (AP-I) cartridge x100</MakeAmmo_20x42mm_Incendiary.label>
+	<!-- EN: Craft 100 20x42mm (AP-I) cartridges. -->
+	<MakeAmmo_20x42mm_Incendiary.description>Craft 100 20x42mm (AP-I) cartridges.</MakeAmmo_20x42mm_Incendiary.description>
+	<!-- EN: Making 20x42mm (AP-I) cartridges. -->
+	<MakeAmmo_20x42mm_Incendiary.jobString>Making 20x42mm (AP-I) cartridges.</MakeAmmo_20x42mm_Incendiary.jobString>
+	
+	<!-- EN: make 20x42mm (AP-HE) cartridge x100 -->
+	<MakeAmmo_20x42mm_APHE.label>make 20x42mm (AP-HE) cartridge x100</MakeAmmo_20x42mm_APHE.label>
+	<!-- EN: Craft 100 20x42mm (AP-HE) cartridges. -->
+	<MakeAmmo_20x42mm_APHE.description>Craft 100 20x42mm (AP-HE) cartridges.</MakeAmmo_20x42mm_APHE.description>
+	<!-- EN: Making 20x42mm (AP-HE) cartridges. -->
+	<MakeAmmo_20x42mm_APHE.jobString>Making 20x42mm (AP-HE) cartridges.</MakeAmmo_20x42mm_APHE.jobString>
+	
+	<!-- EN: make 20x42mm HE grenades x100 -->
+	<MakeAmmo_20x42mmGrenade_HE.label>make 20x42mm HE grenades x100</MakeAmmo_20x42mmGrenade_HE.label>
+	<!-- EN: Craft 100 20x42mm HE grenades. -->
+	<MakeAmmo_20x42mmGrenade_HE.description>Craft 100 20x42mm HE grenades.</MakeAmmo_20x42mmGrenade_HE.description>
+	<!-- EN: Making 20x42mm HE grenades. -->
+	<MakeAmmo_20x42mmGrenade_HE.jobString>Making 20x42mm HE grenades.</MakeAmmo_20x42mmGrenade_HE.jobString>
+	
+	<!-- EN: make 20x42mm EMP grenades x100 -->
+	<MakeAmmo_20x42mmGrenade_EMP.label>make 20x42mm EMP grenades x100</MakeAmmo_20x42mmGrenade_EMP.label>
+	<!-- EN: Craft 100 20x42mm EMP grenades. -->
+	<MakeAmmo_20x42mmGrenade_EMP.description>Craft 100 20x42mm EMP grenades.</MakeAmmo_20x42mmGrenade_EMP.description>
+	<!-- EN: Making 20x42mm EMP grenades. -->
+	<MakeAmmo_20x42mmGrenade_EMP.jobString>Making 20x42mm EMP grenades.</MakeAmmo_20x42mmGrenade_EMP.jobString>
+	
+	<!-- EN: make 20x42mm smoke grenades x100 -->
+	<MakeAmmo_20x42mmGrenade_Smoke.label>make 20x42mm smoke grenades x100</MakeAmmo_20x42mmGrenade_Smoke.label>
+	<!-- EN: Craft 100 20x42mm smoke grenades. -->
+	<MakeAmmo_20x42mmGrenade_Smoke.description>Craft 100 20x42mm smoke grenades.</MakeAmmo_20x42mmGrenade_Smoke.description>
+	<!-- EN: Making 20x42mm smoke grenades. -->
+	<MakeAmmo_20x42mmGrenade_Smoke.jobString>Making 20x42mm smoke grenades.</MakeAmmo_20x42mmGrenade_Smoke.jobString>
+</LanguageData>

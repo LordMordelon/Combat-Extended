@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla XCOM Plasma Weapons\Defs\Vanilla XCOM Plasma Weapons\Ammo.xml -->
+	
+	<!-- EN: plasma -->
+	<AmmoSet_XCOM_Gun_BeamRifle.label>plasma</AmmoSet_XCOM_Gun_BeamRifle.label>
+	
+	<!-- EN: heavy plasma -->
+	<AmmoSet_XCOM_Gun_BeamSniperRifle.label>heavy plasma</AmmoSet_XCOM_Gun_BeamSniperRifle.label>
+	
+	<!-- EN: heavy plasma -->
+	<AmmoSet_XCOM_Gun_BeamShotgun.label>heavy plasma</AmmoSet_XCOM_Gun_BeamShotgun.label>
+	
+	<!-- EN: light plasma -->
+	<AmmoSet_XCOM_Gun_BeamPistol.label>light plasma</AmmoSet_XCOM_Gun_BeamPistol.label>
+</LanguageData>

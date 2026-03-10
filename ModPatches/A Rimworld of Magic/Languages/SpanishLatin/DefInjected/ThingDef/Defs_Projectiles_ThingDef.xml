@@ -1,0 +1,21 @@
+<LanguageData>
+	<!-- ModPatches\A Rimworld of Magic\Defs\A Rimworld of Magic\Defs_Projectiles.xml -->
+	<!-- EN: ice shard -->
+	<Projectile_CE_IceWand.label>ice shard</Projectile_CE_IceWand.label>
+	<!-- EN: fire blast -->
+	<Projectile_CE_FireWand.label>fire blast</Projectile_CE_FireWand.label>
+	<!-- EN: lightning bolt -->
+	<Projectile_CE_LightningWand.label>lightning bolt</Projectile_CE_LightningWand.label>
+	<!-- EN: blazing power -->
+	<Projectile_CE_BlazingPower.label>blazing power</Projectile_CE_BlazingPower.label>
+	<!-- EN: great arrow (stone) -->
+	<Projectile_GreatArrowRoMThrumbo_Stone.label>great arrow (stone)</Projectile_GreatArrowRoMThrumbo_Stone.label>
+	<!-- EN: great arrow (steel) -->
+	<Projectile_GreatArrowRoMThrumbo_Steel.label>great arrow (steel)</Projectile_GreatArrowRoMThrumbo_Steel.label>
+	<!-- EN: great arrow (plasteel) -->
+	<Projectile_GreatArrowRoMThrumbo_Plasteel.label>great arrow (plasteel)</Projectile_GreatArrowRoMThrumbo_Plasteel.label>
+	<!-- EN: great arrow (venom) -->
+	<Projectile_GreatArrowRoMThrumbo_Venom.label>great arrow (venom)</Projectile_GreatArrowRoMThrumbo_Venom.label>
+	<!-- EN: great arrow (flame) -->
+	<Projectile_GreatArrowRoMThrumbo_Flame.label>great arrow (flame)</Projectile_GreatArrowRoMThrumbo_Flame.label>
+</LanguageData>

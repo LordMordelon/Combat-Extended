@@ -1,0 +1,66 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Roo_AntyRaceMod\Weapons409.xml -->
+	<!-- EN: Axe -->
+	<AT_Halberd.tools.0.label>Axe</AT_Halberd.tools.0.label>
+	<!-- EN: point -->
+	<AT_Halberd.tools.1.label>point</AT_Halberd.tools.1.label>
+	<!-- EN: Hook -->
+	<AT_Halberd.tools.2.label>Hook</AT_Halberd.tools.2.label>
+	
+	<!-- EN: head -->
+	<AT_Hammer.tools.0.label>head</AT_Hammer.tools.0.label>
+	
+	<!-- EN: edge -->
+	<AT_Sickle.tools.0.label>edge</AT_Sickle.tools.0.label>
+	<!-- EN: handle -->
+	<AT_Sickle.tools.1.label>handle</AT_Sickle.tools.1.label>
+	
+	<!-- EN: stock -->
+	<AT_AcidRifle.tools.0.label>stock</AT_AcidRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<AT_AcidRifle.tools.1.label>barrel</AT_AcidRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<AT_AcidRifle.tools.2.label>muzzle</AT_AcidRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<AT_AcidAssaultRifle.tools.0.label>stock</AT_AcidAssaultRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<AT_AcidAssaultRifle.tools.1.label>barrel</AT_AcidAssaultRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<AT_AcidAssaultRifle.tools.2.label>muzzle</AT_AcidAssaultRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<AT_AcidLauncher.tools.0.label>stock</AT_AcidLauncher.tools.0.label>
+	<!-- EN: barrel -->
+	<AT_AcidLauncher.tools.1.label>barrel</AT_AcidLauncher.tools.1.label>
+	<!-- EN: muzzle -->
+	<AT_AcidLauncher.tools.2.label>muzzle</AT_AcidLauncher.tools.2.label>
+	
+	<!-- EN: stock -->
+	<AT_LMG.tools.0.label>stock</AT_LMG.tools.0.label>
+	<!-- EN: barrel -->
+	<AT_LMG.tools.1.label>barrel</AT_LMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<AT_LMG.tools.2.label>muzzle</AT_LMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<AT_Combatglue.tools.0.label>stock</AT_Combatglue.tools.0.label>
+	<!-- EN: barrel -->
+	<AT_Combatglue.tools.1.label>barrel</AT_Combatglue.tools.1.label>
+	<!-- EN: muzzle -->
+	<AT_Combatglue.tools.2.label>muzzle</AT_Combatglue.tools.2.label>
+	
+	<!-- EN: stock -->
+	<AT_AcidCross.tools.0.label>stock</AT_AcidCross.tools.0.label>
+	<!-- EN: barrel -->
+	<AT_AcidCross.tools.1.label>barrel</AT_AcidCross.tools.1.label>
+	<!-- EN: muzzle -->
+	<AT_AcidCross.tools.2.label>muzzle</AT_AcidCross.tools.2.label>
+	
+	<!-- EN: stock -->
+	<AT_AcidLineRifle.tools.0.label>stock</AT_AcidLineRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<AT_AcidLineRifle.tools.1.label>barrel</AT_AcidLineRifle.tools.1.label>
+	<!-- EN: bayonet -->
+	<AT_AcidLineRifle.tools.2.label>bayonet</AT_AcidLineRifle.tools.2.label>
+</LanguageData>

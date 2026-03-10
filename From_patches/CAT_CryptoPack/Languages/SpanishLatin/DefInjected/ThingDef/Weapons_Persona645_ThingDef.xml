@@ -1,0 +1,47 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\CAT_CryptoPack\Weapons_Persona645.xml -->
+	<!-- EN: handle -->
+	<CAT_CryptoBardicheBladelink.tools.0.label>handle</CAT_CryptoBardicheBladelink.tools.0.label>
+	<!-- EN: pommel -->
+	<CAT_CryptoBardicheBladelink.tools.1.label>pommel</CAT_CryptoBardicheBladelink.tools.1.label>
+	<!-- EN: head -->
+	<CAT_CryptoBardicheBladelink.tools.2.label>head</CAT_CryptoBardicheBladelink.tools.2.label>
+	
+	<!-- EN: handle -->
+	<CAT_CryptoBattleaxeBladelink.tools.0.label>handle</CAT_CryptoBattleaxeBladelink.tools.0.label>
+	<!-- EN: head -->
+	<CAT_CryptoBattleaxeBladelink.tools.1.label>head</CAT_CryptoBattleaxeBladelink.tools.1.label>
+	
+	<!-- EN: shaft -->
+	<CAT_CryptoBidentBladelink.tools.0.label>shaft</CAT_CryptoBidentBladelink.tools.0.label>
+	<!-- EN: head -->
+	<CAT_CryptoBidentBladelink.tools.1.label>head</CAT_CryptoBidentBladelink.tools.1.label>
+	<!-- EN: point -->
+	<CAT_CryptoBidentBladelink.tools.2.label>point</CAT_CryptoBidentBladelink.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<CAT_CryptoCleaverBladelink.tools.0.label>shaft</CAT_CryptoCleaverBladelink.tools.0.label>
+	<!-- EN: head -->
+	<CAT_CryptoCleaverBladelink.tools.1.label>head</CAT_CryptoCleaverBladelink.tools.1.label>
+	<!-- EN: point -->
+	<CAT_CryptoCleaverBladelink.tools.2.label>point</CAT_CryptoCleaverBladelink.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<CAT_CryptoGreatswordBladelink.tools.0.label>shaft</CAT_CryptoGreatswordBladelink.tools.0.label>
+	<!-- EN: head -->
+	<CAT_CryptoGreatswordBladelink.tools.1.label>head</CAT_CryptoGreatswordBladelink.tools.1.label>
+	<!-- EN: point -->
+	<CAT_CryptoGreatswordBladelink.tools.2.label>point</CAT_CryptoGreatswordBladelink.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<CAT_CryptoSwordBladelink.tools.0.label>shaft</CAT_CryptoSwordBladelink.tools.0.label>
+	<!-- EN: head -->
+	<CAT_CryptoSwordBladelink.tools.1.label>head</CAT_CryptoSwordBladelink.tools.1.label>
+	<!-- EN: point -->
+	<CAT_CryptoSwordBladelink.tools.2.label>point</CAT_CryptoSwordBladelink.tools.2.label>
+	
+	<!-- EN: handle -->
+	<CAT_CryptoMaceBladelink.tools.0.label>handle</CAT_CryptoMaceBladelink.tools.0.label>
+	<!-- EN: edge -->
+	<CAT_CryptoMaceBladelink.tools.1.label>edge</CAT_CryptoMaceBladelink.tools.1.label>
+</LanguageData>

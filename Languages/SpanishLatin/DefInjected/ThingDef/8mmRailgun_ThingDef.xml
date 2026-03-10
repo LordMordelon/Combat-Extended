@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Defs\Ammo\Advanced\8mmRailgun.xml -->
+	<!-- EN: 8mm Railgun (Sabot) -->
+	<Ammo_8mmRailgun_Sabot.label>8mm Railgun (Sabot)</Ammo_8mmRailgun_Sabot.label>
+	<!-- EN: Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for railgun pistols. -->
+	<Ammo_8mmRailgun_Sabot.description>Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for railgun pistols.</Ammo_8mmRailgun_Sabot.description>
+	<!-- EN: 8mm Railgun bullet (Sabot) -->
+	<Bullet_8mmRailgun_Sabot.label>8mm Railgun bullet (Sabot)</Bullet_8mmRailgun_Sabot.label>
+</LanguageData>

@@ -1,0 +1,82 @@
+<LanguageData>
+	<!-- ModPatches\Paniel the Automata\Defs\Paniel the Automata\Ammo_Paniel.xml -->
+	
+	<!-- EN: Paniel Howitzer shell (HE) -->
+	<Ammo_PanielHowitzerShell_HE.label>Paniel Howitzer shell (HE)</Ammo_PanielHowitzerShell_HE.label>
+	<!-- EN: Large cannon shell used by howitzers. -->
+	<Ammo_PanielHowitzerShell_HE.description>Large cannon shell used by howitzers.</Ammo_PanielHowitzerShell_HE.description>
+	
+	<!-- EN: Paniel Howitzer shell (Incendiary) -->
+	<Ammo_PanielHowitzerShell_Incendiary.label>Paniel Howitzer shell (Incendiary)</Ammo_PanielHowitzerShell_Incendiary.label>
+	<!-- EN: Large cannon shell used by howitzers. -->
+	<Ammo_PanielHowitzerShell_Incendiary.description>Large cannon shell used by howitzers.</Ammo_PanielHowitzerShell_Incendiary.description>
+	
+	<!-- EN: Paniel Howitzer shell (EMP) -->
+	<Ammo_PanielHowitzerShell_EMP.label>Paniel Howitzer shell (EMP)</Ammo_PanielHowitzerShell_EMP.label>
+	<!-- EN: Large cannon shell used by howitzers. -->
+	<Ammo_PanielHowitzerShell_EMP.description>Large cannon shell used by howitzers.</Ammo_PanielHowitzerShell_EMP.description>
+	
+	<!-- EN: Paniel Howitzer shell (Smoke) -->
+	<Ammo_PanielHowitzerShell_Smoke.label>Paniel Howitzer shell (Smoke)</Ammo_PanielHowitzerShell_Smoke.label>
+	<!-- EN: Large cannon shell used by howitzers. -->
+	<Ammo_PanielHowitzerShell_Smoke.description>Large cannon shell used by howitzers.</Ammo_PanielHowitzerShell_Smoke.description>
+	
+	<!-- EN: Paniel Howitzer shell (Foam) -->
+	<Ammo_PanielHowitzerShell_Firefoam.label>Paniel Howitzer shell (Foam)</Ammo_PanielHowitzerShell_Firefoam.label>
+	<!-- EN: Large cannon shell used by howitzers. -->
+	<Ammo_PanielHowitzerShell_Firefoam.description>Large cannon shell used by howitzers.</Ammo_PanielHowitzerShell_Firefoam.description>
+	
+	<!-- EN: Paniel Howitzer shell (AP) -->
+	<Ammo_PanielHowitzerShell_AP.label>Paniel Howitzer shell (AP)</Ammo_PanielHowitzerShell_AP.label>
+	<!-- EN: Large cannon shell used by howitzers. -->
+	<Ammo_PanielHowitzerShell_AP.description>Large cannon shell used by howitzers.</Ammo_PanielHowitzerShell_AP.description>
+	
+	<!-- EN: Paniel Howitzer shell (Anti) -->
+	<Ammo_PanielHowitzerShell_Anti.label>Paniel Howitzer shell (Anti)</Ammo_PanielHowitzerShell_Anti.label>
+	<!-- EN: Large cannon shell used by howitzers. -->
+	<Ammo_PanielHowitzerShell_Anti.description>Large cannon shell used by howitzers.</Ammo_PanielHowitzerShell_Anti.description>
+	
+	<!-- EN: Paniel Railgun shell -->
+	<Ammo_PanielRailShell.label>Paniel Railgun shell</Ammo_PanielRailShell.label>
+	<!-- EN: Large cannon shell used by howitzers. -->
+	<Ammo_PanielRailShell.description>Large cannon shell used by howitzers.</Ammo_PanielRailShell.description>
+	
+	<!-- EN: Paniel Howitzer shell (HE) -->
+	<Bullet_PanielHowitzerShell_HE.label>Paniel Howitzer shell (HE)</Bullet_PanielHowitzerShell_HE.label>
+	
+	<!-- EN: Paniel Howitzer shell (Incendiary) -->
+	<Bullet_PanielHowitzerShell_Incendiary.label>Paniel Howitzer shell (Incendiary)</Bullet_PanielHowitzerShell_Incendiary.label>
+	
+	<!-- EN: Paniel Howitzer shell (EMP) -->
+	<Bullet_PanielHowitzerShell_EMP.label>Paniel Howitzer shell (EMP)</Bullet_PanielHowitzerShell_EMP.label>
+	
+	<!-- EN: Paniel Howitzer shell (Smoke) -->
+	<Bullet_PanielHowitzerShell_Smoke.label>Paniel Howitzer shell (Smoke)</Bullet_PanielHowitzerShell_Smoke.label>
+	
+	<!-- EN: Paniel Howitzer shell (Foam) -->
+	<Bullet_PanielHowitzerShell_Firefoam.label>Paniel Howitzer shell (Foam)</Bullet_PanielHowitzerShell_Firefoam.label>
+	
+	<!-- EN: Paniel Howitzer shell (AP) -->
+	<Bullet_PanielHowitzerShell_AP.label>Paniel Howitzer shell (AP)</Bullet_PanielHowitzerShell_AP.label>
+	
+	<!-- EN: Paniel Howitzer shell (AP) -->
+	<Bullet_PanielHowitzerShell_Anti.label>Paniel Howitzer shell (AP)</Bullet_PanielHowitzerShell_Anti.label>
+	
+	<!-- EN: 60mm mortar shell (HE) -->
+	<Bullet_60mmMortarPaniel_HE.label>60mm mortar shell (HE)</Bullet_60mmMortarPaniel_HE.label>
+	
+	<!-- EN: 60mm mortar shell (Incendiary) -->
+	<Bullet_60mmMortarPaniel_Incendiary.label>60mm mortar shell (Incendiary)</Bullet_60mmMortarPaniel_Incendiary.label>
+	
+	<!-- EN: 60mm mortar shell (EMP) -->
+	<Bullet_60mmMortarPaniel_EMP.label>60mm mortar shell (EMP)</Bullet_60mmMortarPaniel_EMP.label>
+	
+	<!-- EN: 60mm mortar shell (Foam) -->
+	<Bullet_60mmMortarPaniel_Firefoam.label>60mm mortar shell (Foam)</Bullet_60mmMortarPaniel_Firefoam.label>
+	
+	<!-- EN: 60mm mortar shell (Smoke) -->
+	<Bullet_60mmMortarPaniel_Smoke.label>60mm mortar shell (Smoke)</Bullet_60mmMortarPaniel_Smoke.label>
+	
+	<!-- EN: Prototype Railgun Shot -->
+	<Bullet_PanielRail.label>Prototype Railgun Shot</Bullet_PanielRail.label>
+</LanguageData>

@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- Defs\Ammo\Other\Ammo_Nail.xml -->
+	<!-- EN: nail -->
+	<Ammo_Nail.label>nail</Ammo_Nail.label>
+	<!-- EN: A pointed carpentry nail a few inches long. Not suitable for combat when used with conventional tools. -->
+	<Ammo_Nail.description>A pointed carpentry nail a few inches long. Not suitable for combat when used with conventional tools.</Ammo_Nail.description>
+	<!-- EN: bullet -->
+	<Bullet_Nail.label>bullet</Bullet_Nail.label>
+	<!-- EN: nail -->
+	<Bullet_Nail_HV.label>nail</Bullet_Nail_HV.label>
+</LanguageData>

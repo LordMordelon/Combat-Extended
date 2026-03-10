@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- ModPatches\LF Red Dawn\Defs\LF Red Dawn\Recipes_Grenades.xml -->
+	<!-- EN: make RPG29 HEAT Missile -->
+	<MakeAmmo_RPG29_HEAT.label>make RPG29 HEAT Missile</MakeAmmo_RPG29_HEAT.label>
+	<!-- EN: Craft 5 RPG29 HEAT Missiles. -->
+	<MakeAmmo_RPG29_HEAT.description>Craft 5 RPG29 HEAT Missiles.</MakeAmmo_RPG29_HEAT.description>
+	<!-- EN: Making RPG29 HEAT Missiles. -->
+	<MakeAmmo_RPG29_HEAT.jobString>Making RPG29 HEAT Missiles.</MakeAmmo_RPG29_HEAT.jobString>
+	<!-- EN: make RPG-29 thermobaric grenades x5 -->
+	<MakeAmmo_RPG29_Thermobaric.label>make RPG-29 thermobaric grenades x5</MakeAmmo_RPG29_Thermobaric.label>
+	<!-- EN: Craft 5 RPG-29 thermobaric grenades. -->
+	<MakeAmmo_RPG29_Thermobaric.description>Craft 5 RPG-29 thermobaric grenades.</MakeAmmo_RPG29_Thermobaric.description>
+	<!-- EN: Making RPG-29 thermobaric grenades. -->
+	<MakeAmmo_RPG29_Thermobaric.jobString>Making RPG-29 thermobaric grenades.</MakeAmmo_RPG29_Thermobaric.jobString>
+</LanguageData>

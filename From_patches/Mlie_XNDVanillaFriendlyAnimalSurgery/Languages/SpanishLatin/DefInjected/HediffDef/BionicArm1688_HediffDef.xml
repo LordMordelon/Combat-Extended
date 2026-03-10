@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Mlie_XNDVanillaFriendlyAnimalSurgery\BionicArm1688.xml -->
+	<!-- EN: fist -->
+	<BionicAnimalArmTiny.comps.0.tools.0.label>fist</BionicAnimalArmTiny.comps.0.tools.0.label>
+	<!-- EN: fist -->
+	<BionicAnimalArmSmall.comps.0.tools.0.label>fist</BionicAnimalArmSmall.comps.0.tools.0.label>
+	<!-- EN: fist -->
+	<BionicAnimalArmMedium.comps.0.tools.0.label>fist</BionicAnimalArmMedium.comps.0.tools.0.label>
+	<!-- EN: fist -->
+	<BionicAnimalArmLarge.comps.0.tools.0.label>fist</BionicAnimalArmLarge.comps.0.tools.0.label>
+	<!-- EN: fist -->
+	<BionicAnimalArmHuge.comps.0.tools.0.label>fist</BionicAnimalArmHuge.comps.0.tools.0.label>
+</LanguageData>

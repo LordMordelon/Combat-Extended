@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\rimofmadness_CallofCthulhuCosmicHorrors\CH_KindsDeepOne617.xml -->
+	<!-- EN: left claw -->
+	<ROM_DeepOne.tools.0.label>left claw</ROM_DeepOne.tools.0.label>
+	<!-- EN: right claw -->
+	<ROM_DeepOne.tools.1.label>right claw</ROM_DeepOne.tools.1.label>
+	<!-- EN: head -->
+	<ROM_DeepOne.tools.3.label>head</ROM_DeepOne.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<ROM_DeepOneGreat.tools.0.label>left claw</ROM_DeepOneGreat.tools.0.label>
+	<!-- EN: right claw -->
+	<ROM_DeepOneGreat.tools.1.label>right claw</ROM_DeepOneGreat.tools.1.label>
+	<!-- EN: head -->
+	<ROM_DeepOneGreat.tools.3.label>head</ROM_DeepOneGreat.tools.3.label>
+</LanguageData>

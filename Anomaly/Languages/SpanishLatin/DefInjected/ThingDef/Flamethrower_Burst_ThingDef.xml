@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Anomaly\Defs\Ammo\Flamethrower_Burst.xml -->
+	<!-- EN: jellied chemfuel stream -->
+	<Bullet_Incinerator_Burst_Napalm.label>jellied chemfuel stream</Bullet_Incinerator_Burst_Napalm.label>
+	<!-- EN: jellied prometheum stream -->
+	<Bullet_Incinerator_Burst_Prometheum.label>jellied prometheum stream</Bullet_Incinerator_Burst_Prometheum.label>
+	<!-- EN: infused chemfuel stream -->
+	<Bullet_Incinerator_Burst_Bioferrite.label>infused chemfuel stream</Bullet_Incinerator_Burst_Bioferrite.label>
+</LanguageData>

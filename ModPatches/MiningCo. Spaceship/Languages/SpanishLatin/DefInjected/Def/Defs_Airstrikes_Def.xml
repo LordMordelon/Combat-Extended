@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\MiningCo. Spaceship\Defs\MiningCo. Spaceship\Defs_Airstrikes.xml -->
+	<!-- EN: Prometheum bomb -->
+	<PrometheumBombWeapon.label>Prometheum bomb</PrometheumBombWeapon.label>
+	<!-- EN: prometheum bombing run -->
+	<PrometheumRaid.label>prometheum bombing run</PrometheumRaid.label>
+	<!-- EN: PROMETHEUM STICKS TO MECHANOIDS! -->
+	<PrometheumRaid.description>PROMETHEUM STICKS TO MECHANOIDS!</PrometheumRaid.description>
+</LanguageData>

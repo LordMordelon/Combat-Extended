@@ -1,0 +1,10 @@
+<LanguageData>
+	<!-- ModPatches\MorrowRim - Bloodmoon\Defs\MorrowRim - Bloodmoon\Hunter_Grenades.xml -->
+	
+	<!-- EN: make wolfsbane vessel x5 -->
+	<MakeGrenadeWolfBane.label>make wolfsbane vessel x5</MakeGrenadeWolfBane.label>
+	<!-- EN: Craft 10 wolfsbane vessels. -->
+	<MakeGrenadeWolfBane.description>Craft 10 wolfsbane vessels.</MakeGrenadeWolfBane.description>
+	<!-- EN: Making wolfsbane vessels. -->
+	<MakeGrenadeWolfBane.jobString>Making wolfsbane vessels.</MakeGrenadeWolfBane.jobString>
+</LanguageData>

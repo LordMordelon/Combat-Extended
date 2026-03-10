@@ -1,0 +1,63 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\CAT_ZeusPack\Weapon_Zeus_Bladelink1994.xml -->
+	<!-- EN: handle -->
+	<CAT_ZeusKanaboBladelink.tools.0.label>handle</CAT_ZeusKanaboBladelink.tools.0.label>
+	<!-- EN: head -->
+	<CAT_ZeusKanaboBladelink.tools.1.label>head</CAT_ZeusKanaboBladelink.tools.1.label>
+	
+	<!-- EN: head -->
+	<CAT_ZeusQuarterstaffBladelink.tools.0.label>head</CAT_ZeusQuarterstaffBladelink.tools.0.label>
+	<!-- EN: shaft -->
+	<CAT_ZeusQuarterstaffBladelink.tools.1.label>shaft</CAT_ZeusQuarterstaffBladelink.tools.1.label>
+	
+	<!-- EN: handle -->
+	<CAT_ZeusNunchucksBladelink.tools.0.label>handle</CAT_ZeusNunchucksBladelink.tools.0.label>
+	<!-- EN: head -->
+	<CAT_ZeusNunchucksBladelink.tools.1.label>head</CAT_ZeusNunchucksBladelink.tools.1.label>
+	
+	<!-- EN: handle -->
+	<CAT_ZeusJianBladelink.tools.0.label>handle</CAT_ZeusJianBladelink.tools.0.label>
+	<!-- EN: point -->
+	<CAT_ZeusJianBladelink.tools.1.label>point</CAT_ZeusJianBladelink.tools.1.label>
+	<!-- EN: head -->
+	<CAT_ZeusJianBladelink.tools.2.label>head</CAT_ZeusJianBladelink.tools.2.label>
+	
+	<!-- EN: handle -->
+	<CAT_ZeusGreathammerBladelink.tools.0.label>handle</CAT_ZeusGreathammerBladelink.tools.0.label>
+	<!-- EN: blade -->
+	<CAT_ZeusGreathammerBladelink.tools.1.label>blade</CAT_ZeusGreathammerBladelink.tools.1.label>
+	<!-- EN: head -->
+	<CAT_ZeusGreathammerBladelink.tools.2.label>head</CAT_ZeusGreathammerBladelink.tools.2.label>
+	
+	<!-- EN: handle -->
+	<CAT_StellicMaulBladelink.tools.0.label>handle</CAT_StellicMaulBladelink.tools.0.label>
+	<!-- EN: blade -->
+	<CAT_StellicMaulBladelink.tools.1.label>blade</CAT_StellicMaulBladelink.tools.1.label>
+	<!-- EN: head -->
+	<CAT_StellicMaulBladelink.tools.2.label>head</CAT_StellicMaulBladelink.tools.2.label>
+	
+	<!-- EN: body -->
+	<CAT_ZeusTomeBladelink.tools.0.label>body</CAT_ZeusTomeBladelink.tools.0.label>
+	<!-- EN: smite -->
+	<CAT_ZeusTomeBladelink.verbs.0.label>smite</CAT_ZeusTomeBladelink.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<CAT_ZeusTomeBladelink.verbs.CombatExtended.Verb_ShootCE.label>ㅤ</CAT_ZeusTomeBladelink.verbs.CombatExtended.Verb_ShootCE.label>
+	
+	<!-- EN: handle -->
+	<CAT_ZeusBatonBladelink.tools.0.label>handle</CAT_ZeusBatonBladelink.tools.0.label>
+	<!-- EN: head -->
+	<CAT_ZeusBatonBladelink.tools.1.label>head</CAT_ZeusBatonBladelink.tools.1.label>
+	<!-- EN: edge -->
+	<CAT_ZeusBatonBladelink.tools.2.label>edge</CAT_ZeusBatonBladelink.tools.2.label>
+	
+	<!-- EN: handle -->
+	<CAT_StellicCaneBladelink.tools.0.label>handle</CAT_StellicCaneBladelink.tools.0.label>
+	<!-- EN: shaft -->
+	<CAT_StellicCaneBladelink.tools.1.label>shaft</CAT_StellicCaneBladelink.tools.1.label>
+	<!-- EN: Poke -->
+	<CAT_StellicCaneBladelink.tools.2.label>Poke</CAT_StellicCaneBladelink.tools.2.label>
+	<!-- EN: imperial's wrath -->
+	<CAT_StellicCaneBladelink.verbs.0.label>imperial's wrath</CAT_StellicCaneBladelink.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<CAT_StellicCaneBladelink.verbs.Verb_PowerBeam.label>ㅤ</CAT_StellicCaneBladelink.verbs.Verb_PowerBeam.label>
+</LanguageData>

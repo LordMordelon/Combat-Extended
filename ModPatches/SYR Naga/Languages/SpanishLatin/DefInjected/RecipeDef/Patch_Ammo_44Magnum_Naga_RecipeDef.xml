@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\SYR Naga\Defs\SYR Naga\Patch_Ammo_44Magnum_Naga.xml -->
+	<!-- EN: make .44 Magnum Charged cartridge x500 -->
+	<MakeAmmo_44MagnumCharged.label>make .44 Magnum Charged cartridge x500</MakeAmmo_44MagnumCharged.label>
+	<!-- EN: Craft 500 .44 Magnum Charged cartridges. -->
+	<MakeAmmo_44MagnumCharged.description>Craft 500 .44 Magnum Charged cartridges.</MakeAmmo_44MagnumCharged.description>
+	<!-- EN: Making .44 Magnum Charged cartridges. -->
+	<MakeAmmo_44MagnumCharged.jobString>Making .44 Magnum Charged cartridges.</MakeAmmo_44MagnumCharged.jobString>
+</LanguageData>

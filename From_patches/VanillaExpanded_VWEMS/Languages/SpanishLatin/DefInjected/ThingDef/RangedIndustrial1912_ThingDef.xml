@@ -1,0 +1,50 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VWEMS\RangedIndustrial1912.xml -->
+	<!-- EN: grip -->
+	<VWE_Gun_MakeshiftPistol.tools.0.label>grip</VWE_Gun_MakeshiftPistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<VWE_Gun_MakeshiftPistol.tools.1.label>muzzle</VWE_Gun_MakeshiftPistol.tools.1.label>
+	
+	<!-- EN: stock -->
+	<VWE_Gun_MakeshiftSMG.tools.0.label>stock</VWE_Gun_MakeshiftSMG.tools.0.label>
+	<!-- EN: barrel -->
+	<VWE_Gun_MakeshiftSMG.tools.1.label>barrel</VWE_Gun_MakeshiftSMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<VWE_Gun_MakeshiftSMG.tools.2.label>muzzle</VWE_Gun_MakeshiftSMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<VWE_Gun_MakeshiftRifle.tools.0.label>stock</VWE_Gun_MakeshiftRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<VWE_Gun_MakeshiftRifle.tools.1.label>barrel</VWE_Gun_MakeshiftRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<VWE_Gun_MakeshiftRifle.tools.2.label>muzzle</VWE_Gun_MakeshiftRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<VWE_Gun_MakeshiftLMG.tools.0.label>stock</VWE_Gun_MakeshiftLMG.tools.0.label>
+	<!-- EN: barrel -->
+	<VWE_Gun_MakeshiftLMG.tools.1.label>barrel</VWE_Gun_MakeshiftLMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<VWE_Gun_MakeshiftLMG.tools.2.label>muzzle</VWE_Gun_MakeshiftLMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<VWE_Gun_MakeshiftShotgun.tools.0.label>stock</VWE_Gun_MakeshiftShotgun.tools.0.label>
+	<!-- EN: barrel -->
+	<VWE_Gun_MakeshiftShotgun.tools.1.label>barrel</VWE_Gun_MakeshiftShotgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<VWE_Gun_MakeshiftShotgun.tools.2.label>muzzle</VWE_Gun_MakeshiftShotgun.tools.2.label>
+	
+	<!-- EN: ㅤ -->
+	<VWE_Gun_MakeshiftPistol.verbs.0.label>ㅤ</VWE_Gun_MakeshiftPistol.verbs.0.label>
+	
+	<!-- EN: ㅤ -->
+	<VWE_Gun_MakeshiftSMG.verbs.0.label>ㅤ</VWE_Gun_MakeshiftSMG.verbs.0.label>
+	
+	<!-- EN: ㅤ -->
+	<VWE_Gun_MakeshiftRifle.verbs.0.label>ㅤ</VWE_Gun_MakeshiftRifle.verbs.0.label>
+	
+	<!-- EN: ㅤ -->
+	<VWE_Gun_MakeshiftLMG.verbs.0.label>ㅤ</VWE_Gun_MakeshiftLMG.verbs.0.label>
+	
+	<!-- EN: ㅤ -->
+	<VWE_Gun_MakeshiftShotgun.verbs.0.label>ㅤ</VWE_Gun_MakeshiftShotgun.verbs.0.label>
+</LanguageData>

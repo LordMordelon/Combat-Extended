@@ -1,0 +1,20 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\RicoFox233_PTWZZ_GFPack\MeleeGFEX858.xml -->
+	<!-- EN: handle -->
+	<MeleeWeapon_Baiying.tools.0.label>handle</MeleeWeapon_Baiying.tools.0.label>
+	<!-- EN: point -->
+	<MeleeWeapon_Baiying.tools.1.label>point</MeleeWeapon_Baiying.tools.1.label>
+	<!-- EN: edge -->
+	<MeleeWeapon_Baiying.tools.2.label>edge</MeleeWeapon_Baiying.tools.2.label>
+	<!-- EN: GF Rectrix ZZ -->
+	<MeleeWeapon_Baiying.label>GF Rectrix ZZ</MeleeWeapon_Baiying.label>
+	
+	<!-- EN: handle -->
+	<MeleeWeapon_crown_jackalope.tools.0.label>handle</MeleeWeapon_crown_jackalope.tools.0.label>
+	<!-- EN: point -->
+	<MeleeWeapon_crown_jackalope.tools.1.label>point</MeleeWeapon_crown_jackalope.tools.1.label>
+	<!-- EN: edge -->
+	<MeleeWeapon_crown_jackalope.tools.2.label>edge</MeleeWeapon_crown_jackalope.tools.2.label>
+	<!-- EN: GF Crowned Jackalope ZZ -->
+	<MeleeWeapon_crown_jackalope.label>GF Crowned Jackalope ZZ</MeleeWeapon_crown_jackalope.label>
+</LanguageData>

@@ -1,0 +1,114 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\RimEffect_Core\Weapons_MEcore1426.xml -->
+	<!-- EN: grip -->
+	<RE_Gun_AlliancePistol.tools.0.label>grip</RE_Gun_AlliancePistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<RE_Gun_AlliancePistol.tools.1.label>muzzle</RE_Gun_AlliancePistol.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RE_Gun_AllianceSMG.tools.0.label>grip</RE_Gun_AllianceSMG.tools.0.label>
+	<!-- EN: muzzle -->
+	<RE_Gun_AllianceSMG.tools.1.label>muzzle</RE_Gun_AllianceSMG.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RE_Gun_AllianceHandcannon.tools.0.label>grip</RE_Gun_AllianceHandcannon.tools.0.label>
+	<!-- EN: muzzle -->
+	<RE_Gun_AllianceHandcannon.tools.1.label>muzzle</RE_Gun_AllianceHandcannon.tools.1.label>
+	
+	<!-- EN: stock -->
+	<RE_Gun_AllianceAssaultRifle.tools.0.label>stock</RE_Gun_AllianceAssaultRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RE_Gun_AllianceAssaultRifle.tools.1.label>barrel</RE_Gun_AllianceAssaultRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RE_Gun_AllianceAssaultRifle.tools.2.label>muzzle</RE_Gun_AllianceAssaultRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RE_Gun_AllianceBattleRifle.tools.0.label>stock</RE_Gun_AllianceBattleRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RE_Gun_AllianceBattleRifle.tools.1.label>barrel</RE_Gun_AllianceBattleRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RE_Gun_AllianceBattleRifle.tools.2.label>muzzle</RE_Gun_AllianceBattleRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RE_Gun_AllianceShotgun.tools.0.label>stock</RE_Gun_AllianceShotgun.tools.0.label>
+	<!-- EN: barrel -->
+	<RE_Gun_AllianceShotgun.tools.1.label>barrel</RE_Gun_AllianceShotgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<RE_Gun_AllianceShotgun.tools.2.label>muzzle</RE_Gun_AllianceShotgun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RE_Gun_AllianceSniperRifle.tools.0.label>stock</RE_Gun_AllianceSniperRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RE_Gun_AllianceSniperRifle.tools.1.label>barrel</RE_Gun_AllianceSniperRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RE_Gun_AllianceSniperRifle.tools.2.label>muzzle</RE_Gun_AllianceSniperRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RE_Gun_AllianceAntimaterielRifle.tools.0.label>stock</RE_Gun_AllianceAntimaterielRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RE_Gun_AllianceAntimaterielRifle.tools.1.label>barrel</RE_Gun_AllianceAntimaterielRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RE_Gun_AllianceAntimaterielRifle.tools.2.label>muzzle</RE_Gun_AllianceAntimaterielRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RE_Gun_AllianceRocketLauncher.tools.0.label>stock</RE_Gun_AllianceRocketLauncher.tools.0.label>
+	<!-- EN: barrel -->
+	<RE_Gun_AllianceRocketLauncher.tools.1.label>barrel</RE_Gun_AllianceRocketLauncher.tools.1.label>
+	<!-- EN: muzzle -->
+	<RE_Gun_AllianceRocketLauncher.tools.2.label>muzzle</RE_Gun_AllianceRocketLauncher.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RE_Gun_AllianceChainShotgun.tools.0.label>stock</RE_Gun_AllianceChainShotgun.tools.0.label>
+	<!-- EN: barrel -->
+	<RE_Gun_AllianceChainShotgun.tools.1.label>barrel</RE_Gun_AllianceChainShotgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<RE_Gun_AllianceChainShotgun.tools.2.label>muzzle</RE_Gun_AllianceChainShotgun.tools.2.label>
+	
+	<!-- EN: M-8 Avenger -->
+	<RE_Gun_AllianceAssaultRifle.label>M-8 Avenger</RE_Gun_AllianceAssaultRifle.label>
+	<!-- EN: The Avenger is a common, versatile, military-grade assault rifle manufactured by the Elkoss Combine. It's accurate when fired in short bursts, and deadly when fired on full auto. The modular design and inexpensive components of the Avenger make it a favorite of military groups and mercenaries alike. The rifle has a reputation for being tough, reliable, easy to use, and easy to upgrade. This might be the most generic assualt rifle to have ever existed in this corner of the milky way. -->
+	<RE_Gun_AllianceAssaultRifle.description>The Avenger is a common, versatile, military-grade assault rifle manufactured by the Elkoss Combine. It's accurate when fired in short bursts, and deadly when fired on full auto. The modular design and inexpensive components of the Avenger make it a favorite of military groups and mercenaries alike. The rifle has a reputation for being tough, reliable, easy to use, and easy to upgrade. This might be the most generic assualt rifle to have ever existed in this corner of the milky way.</RE_Gun_AllianceAssaultRifle.description>
+	
+	<!-- EN: M-15 Vindicator -->
+	<RE_Gun_AllianceBattleRifle.label>M-15 Vindicator</RE_Gun_AllianceBattleRifle.label>
+	<!-- EN: A low recoil battle rifle that fires in three-round bursts. The Vindicator is favored by assassins and elite mercenaries, and deadly at medium to long ranges. Its effectiveness might be outclassed by faster firing weapons at short ranges. -->
+	<RE_Gun_AllianceBattleRifle.description>A low recoil battle rifle that fires in three-round bursts. The Vindicator is favored by assassins and elite mercenaries, and deadly at medium to long ranges. Its effectiveness might be outclassed by faster firing weapons at short ranges.</RE_Gun_AllianceBattleRifle.description>
+	
+	<!-- EN: M-9 Tempest -->
+	<RE_Gun_AllianceSMG.label>M-9 Tempest</RE_Gun_AllianceSMG.label>
+	<!-- EN: The Tempest is an expensive but deadly addition to anyone's personal arsenal. This fully automatic submachine gun is punishing up close, but becomes less accurate at long range. -->
+	<RE_Gun_AllianceSMG.description>The Tempest is an expensive but deadly addition to anyone's personal arsenal. This fully automatic submachine gun is punishing up close, but becomes less accurate at long range.</RE_Gun_AllianceSMG.description>
+	
+	<!-- EN: M-92 Mantis -->
+	<RE_Gun_AllianceSniperRifle.label>M-92 Mantis</RE_Gun_AllianceSniperRifle.label>
+	<!-- EN: The Mantis is a powerful sniper rifle able to take out most targets in a single shot. It's incredibly accurate at long range, but rate of fire is slow due to the need to load a new thermal clip after every shot. -->
+	<RE_Gun_AllianceSniperRifle.description>The Mantis is a powerful sniper rifle able to take out most targets in a single shot. It's incredibly accurate at long range, but rate of fire is slow due to the need to load a new thermal clip after every shot.</RE_Gun_AllianceSniperRifle.description>
+	
+	<!-- EN: M-98 Widow -->
+	<RE_Gun_AllianceAntimaterielRifle.label>M-98 Widow</RE_Gun_AllianceAntimaterielRifle.label>
+	<!-- EN: A very heavy anti-material rifle, the Widow is primarily used by sniper teams in assault missions against armored vehicles, mechanoids or krogan. It is very slow to fire but packs a massive punch, any humanoid target is likely to be instantly turned into a bloody pulp upon hit. -->
+	<RE_Gun_AllianceAntimaterielRifle.description>A very heavy anti-material rifle, the Widow is primarily used by sniper teams in assault missions against armored vehicles, mechanoids or krogan. It is very slow to fire but packs a massive punch, any humanoid target is likely to be instantly turned into a bloody pulp upon hit.</RE_Gun_AllianceAntimaterielRifle.description>
+	
+	<!-- EN: M-23 Katana -->
+	<RE_Gun_AllianceShotgun.label>M-23 Katana</RE_Gun_AllianceShotgun.label>
+	<!-- EN: The Katana is a common mercenary weapon, and is also popular on colonies with varren infestations. It's deadly at short range, but ineffective at long range. Being a shotgun, it sacrifices its long range and armour piercing capabilities for short range firepower. -->
+	<RE_Gun_AllianceShotgun.description>The Katana is a common mercenary weapon, and is also popular on colonies with varren infestations. It's deadly at short range, but ineffective at long range. Being a shotgun, it sacrifices its long range and armour piercing capabilities for short range firepower.</RE_Gun_AllianceShotgun.description>
+	
+	<!-- EN: Hydra Shotgun -->
+	<RE_Gun_AllianceChainShotgun.label>Hydra Shotgun</RE_Gun_AllianceChainShotgun.label>
+	<!-- EN: A curious weapon not given any given any formal alliance designation, the Hydra is an automatic shotgun that is nearly doubles the firepower of a regular semi-automatic shotgun. -->
+	<RE_Gun_AllianceChainShotgun.description>A curious weapon not given any given any formal alliance designation, the Hydra is an automatic shotgun that is nearly doubles the firepower of a regular semi-automatic shotgun.</RE_Gun_AllianceChainShotgun.description>
+	
+	<!-- EN: M-3 Predator -->
+	<RE_Gun_AlliancePistol.label>M-3 Predator</RE_Gun_AlliancePistol.label>
+	<!-- EN: A reliable, accurate sidearm. Manufactured by Elanus Risk Control, the Predator is valued as a powerful, deadly, and relatively inexpensive weapon. -->
+	<RE_Gun_AlliancePistol.description>A reliable, accurate sidearm. Manufactured by Elanus Risk Control, the Predator is valued as a powerful, deadly, and relatively inexpensive weapon.</RE_Gun_AlliancePistol.description>
+	
+	<!-- EN: M-5 Phalanx -->
+	<RE_Gun_AllianceHandcannon.label>M-5 Phalanx</RE_Gun_AllianceHandcannon.label>
+	<!-- EN: The M-5 Phalanx is the product of the Alliance's Offensive Handgun Project, a close-in weapon to be used with no loss of stopping power in comparison with a soldier's assault rifle. The Phalanx enjoys a ballistics advantage over most heavy pistols. Civilian variants are often purchased by colonists on planets that have particularly dangerous big-game animals. -->
+	<RE_Gun_AllianceHandcannon.description>The M-5 Phalanx is the product of the Alliance's Offensive Handgun Project, a close-in weapon to be used with no loss of stopping power in comparison with a soldier's assault rifle. The Phalanx enjoys a ballistics advantage over most heavy pistols. Civilian variants are often purchased by colonists on planets that have particularly dangerous big-game animals.</RE_Gun_AllianceHandcannon.description>
+	
+	<!-- EN: ML-77 (single use) -->
+	<RE_Gun_AllianceRocketLauncher.label>ML-77 (single use)</RE_Gun_AllianceRocketLauncher.label>
+</LanguageData>

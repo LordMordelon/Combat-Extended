@@ -1,0 +1,51 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\RaZim_ZGFMartens\Marty_Extended1011.xml -->
+	<!-- EN: left claw -->
+	<ZGF_BeechMart.tools.0.label>left claw</ZGF_BeechMart.tools.0.label>
+	<!-- EN: right claw -->
+	<ZGF_BeechMart.tools.1.label>right claw</ZGF_BeechMart.tools.1.label>
+	<!-- EN: head -->
+	<ZGF_BeechMart.tools.3.label>head</ZGF_BeechMart.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<ZGF_JapaneseMart.tools.0.label>left claw</ZGF_JapaneseMart.tools.0.label>
+	<!-- EN: right claw -->
+	<ZGF_JapaneseMart.tools.1.label>right claw</ZGF_JapaneseMart.tools.1.label>
+	<!-- EN: head -->
+	<ZGF_JapaneseMart.tools.3.label>head</ZGF_JapaneseMart.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<ZGF_PineMart.tools.0.label>left claw</ZGF_PineMart.tools.0.label>
+	<!-- EN: right claw -->
+	<ZGF_PineMart.tools.1.label>right claw</ZGF_PineMart.tools.1.label>
+	<!-- EN: head -->
+	<ZGF_PineMart.tools.3.label>head</ZGF_PineMart.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<ZGF_Sable.tools.0.label>left claw</ZGF_Sable.tools.0.label>
+	<!-- EN: right claw -->
+	<ZGF_Sable.tools.1.label>right claw</ZGF_Sable.tools.1.label>
+	<!-- EN: head -->
+	<ZGF_Sable.tools.3.label>head</ZGF_Sable.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<ZGF_RimMart.tools.0.label>left claw</ZGF_RimMart.tools.0.label>
+	<!-- EN: right claw -->
+	<ZGF_RimMart.tools.1.label>right claw</ZGF_RimMart.tools.1.label>
+	<!-- EN: head -->
+	<ZGF_RimMart.tools.3.label>head</ZGF_RimMart.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<ZGF_Boommarten.tools.0.label>left claw</ZGF_Boommarten.tools.0.label>
+	<!-- EN: right claw -->
+	<ZGF_Boommarten.tools.1.label>right claw</ZGF_Boommarten.tools.1.label>
+	<!-- EN: head -->
+	<ZGF_Boommarten.tools.3.label>head</ZGF_Boommarten.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<ZGF_MegaMart.tools.0.label>left claw</ZGF_MegaMart.tools.0.label>
+	<!-- EN: right claw -->
+	<ZGF_MegaMart.tools.1.label>right claw</ZGF_MegaMart.tools.1.label>
+	<!-- EN: head -->
+	<ZGF_MegaMart.tools.3.label>head</ZGF_MegaMart.tools.3.label>
+</LanguageData>

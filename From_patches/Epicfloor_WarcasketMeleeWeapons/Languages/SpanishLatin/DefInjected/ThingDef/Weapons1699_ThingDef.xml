@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Epicfloor_WarcasketMeleeWeapons\Weapons1699.xml -->
+	<!-- EN: handle -->
+	<VFEPUA_WarcasketMeleeWeapon_MechaHammer.tools.0.label>handle</VFEPUA_WarcasketMeleeWeapon_MechaHammer.tools.0.label>
+	<!-- EN: head -->
+	<VFEPUA_WarcasketMeleeWeapon_MechaHammer.tools.1.label>head</VFEPUA_WarcasketMeleeWeapon_MechaHammer.tools.1.label>
+	
+	<!-- EN: fist -->
+	<VFEPUA_WarcasketMeleeWeapon_MechaGauntlet.tools.0.label>fist</VFEPUA_WarcasketMeleeWeapon_MechaGauntlet.tools.0.label>
+	
+	<!-- EN: handle -->
+	<VFEPUA_WarcasketMeleeWeapon_MechaBaton.tools.0.label>handle</VFEPUA_WarcasketMeleeWeapon_MechaBaton.tools.0.label>
+	<!-- EN: head -->
+	<VFEPUA_WarcasketMeleeWeapon_MechaBaton.tools.1.label>head</VFEPUA_WarcasketMeleeWeapon_MechaBaton.tools.1.label>
+</LanguageData>

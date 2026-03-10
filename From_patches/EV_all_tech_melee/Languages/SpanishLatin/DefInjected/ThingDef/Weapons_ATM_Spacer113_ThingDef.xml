@@ -1,0 +1,33 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\EV_all_tech_melee\Weapons_ATM_Spacer113.xml -->
+	<!-- EN: handle -->
+	<ATM_MeleeWeapon_SpacerGladius.tools.0.label>handle</ATM_MeleeWeapon_SpacerGladius.tools.0.label>
+	<!-- EN: point -->
+	<ATM_MeleeWeapon_SpacerGladius.tools.1.label>point</ATM_MeleeWeapon_SpacerGladius.tools.1.label>
+	<!-- EN: edge -->
+	<ATM_MeleeWeapon_SpacerGladius.tools.2.label>edge</ATM_MeleeWeapon_SpacerGladius.tools.2.label>
+	
+	<!-- EN: handle -->
+	<ATM_MeleeWeapon_SpacerHammer.tools.0.label>handle</ATM_MeleeWeapon_SpacerHammer.tools.0.label>
+	<!-- EN: head -->
+	<ATM_MeleeWeapon_SpacerHammer.tools.1.label>head</ATM_MeleeWeapon_SpacerHammer.tools.1.label>
+	
+	<!-- EN: handle -->
+	<ATM_MeleeWeapon_SpacerSledgehammer.tools.0.label>handle</ATM_MeleeWeapon_SpacerSledgehammer.tools.0.label>
+	<!-- EN: head -->
+	<ATM_MeleeWeapon_SpacerSledgehammer.tools.1.label>head</ATM_MeleeWeapon_SpacerSledgehammer.tools.1.label>
+	
+	<!-- EN: shaft -->
+	<ATM_MeleeWeapon_SpacerSpear.tools.0.label>shaft</ATM_MeleeWeapon_SpacerSpear.tools.0.label>
+	<!-- EN: shaft -->
+	<ATM_MeleeWeapon_SpacerSpear.tools.1.label>shaft</ATM_MeleeWeapon_SpacerSpear.tools.1.label>
+	<!-- EN: head -->
+	<ATM_MeleeWeapon_SpacerSpear.tools.2.label>head</ATM_MeleeWeapon_SpacerSpear.tools.2.label>
+	
+	<!-- EN: handle -->
+	<ATM_MeleeWeapon_SpacerLongsword.tools.0.label>handle</ATM_MeleeWeapon_SpacerLongsword.tools.0.label>
+	<!-- EN: point -->
+	<ATM_MeleeWeapon_SpacerLongsword.tools.1.label>point</ATM_MeleeWeapon_SpacerLongsword.tools.1.label>
+	<!-- EN: edge -->
+	<ATM_MeleeWeapon_SpacerLongsword.tools.2.label>edge</ATM_MeleeWeapon_SpacerLongsword.tools.2.label>
+</LanguageData>

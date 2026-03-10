@@ -1,0 +1,63 @@
+<LanguageData>
+	<!-- Defs\Ammo\Generic\Charged.xml -->
+	
+	<!-- EN: Charged pistol cartridge -->
+	<Ammo_PistolCharged.label>Charged pistol cartridge</Ammo_PistolCharged.label>
+	<!-- EN: Charged shot ammo used by advanced light weapon designs. -->
+	<Ammo_PistolCharged.description>Charged shot ammo used by advanced light weapon designs.</Ammo_PistolCharged.description>
+	
+	<!-- EN: Charged pistol (Conc.) -->
+	<Ammo_PistolCharged_AP.label>Charged pistol (Conc.)</Ammo_PistolCharged_AP.label>
+	<!-- EN: Charged shot ammo used by advanced light weapon designs. -->
+	<Ammo_PistolCharged_AP.description>Charged shot ammo used by advanced light weapon designs.</Ammo_PistolCharged_AP.description>
+	
+	<!-- EN: Charged pistol cartridge (Ion) -->
+	<Ammo_PistolCharged_Ion.label>Charged pistol cartridge (Ion)</Ammo_PistolCharged_Ion.label>
+	<!-- EN: Charged shot ammo used by advanced light weapon designs. -->
+	<Ammo_PistolCharged_Ion.description>Charged shot ammo used by advanced light weapon designs.</Ammo_PistolCharged_Ion.description>
+	
+	<!-- EN: Charged rifle cartridge -->
+	<Ammo_RifleCharged.label>Charged rifle cartridge</Ammo_RifleCharged.label>
+	<!-- EN: Charged shot ammo used by advanced rifle designs. -->
+	<Ammo_RifleCharged.description>Charged shot ammo used by advanced rifle designs.</Ammo_RifleCharged.description>
+	
+	<!-- EN: Charged rifle cartridge (Conc.) -->
+	<Ammo_RifleCharged_AP.label>Charged rifle cartridge (Conc.)</Ammo_RifleCharged_AP.label>
+	<!-- EN: Charged shot ammo used by advanced rifle designs. -->
+	<Ammo_RifleCharged_AP.description>Charged shot ammo used by advanced rifle designs.</Ammo_RifleCharged_AP.description>
+	
+	<!-- EN: Charged rifle cartridge (Ion) -->
+	<Ammo_RifleCharged_Ion.label>Charged rifle cartridge (Ion)</Ammo_RifleCharged_Ion.label>
+	<!-- EN: Charged shot ammo used by advanced rifle designs. -->
+	<Ammo_RifleCharged_Ion.description>Charged shot ammo used by advanced rifle designs.</Ammo_RifleCharged_Ion.description>
+	
+	<!-- EN: Heavy charged cartridge -->
+	<Ammo_HeavyCharged.label>Heavy charged cartridge</Ammo_HeavyCharged.label>
+	<!-- EN: High-caliber charged shot ammo used by advanced heavy machine guns and anti-materiel rifles. -->
+	<Ammo_HeavyCharged.description>High-caliber charged shot ammo used by advanced heavy machine guns and anti-materiel rifles.</Ammo_HeavyCharged.description>
+	
+	<!-- EN: Heavy charged cartridge (Conc.) -->
+	<Ammo_HeavyCharged_AP.label>Heavy charged cartridge (Conc.)</Ammo_HeavyCharged_AP.label>
+	<!-- EN: High-caliber charged shot ammo used by advanced heavy machine guns and anti-materiel rifles. -->
+	<Ammo_HeavyCharged_AP.description>High-caliber charged shot ammo used by advanced heavy machine guns and anti-materiel rifles.</Ammo_HeavyCharged_AP.description>
+	
+	<!-- EN: Heavy charged cartridge (Ion) -->
+	<Ammo_HeavyCharged_Ion.label>Heavy charged cartridge (Ion)</Ammo_HeavyCharged_Ion.label>
+	<!-- EN: High-caliber charged shot ammo used by advanced heavy machine guns and anti-materiel rifles. -->
+	<Ammo_HeavyCharged_Ion.description>High-caliber charged shot ammo used by advanced heavy machine guns and anti-materiel rifles.</Ammo_HeavyCharged_Ion.description>
+	
+	<!-- EN: Charged shotgun shell -->
+	<Ammo_ShotgunCharged.label>Charged shotgun shell</Ammo_ShotgunCharged.label>
+	<!-- EN: Multi-pellet charge shot cartridge designed for shotgun-type weapons. -->
+	<Ammo_ShotgunCharged.description>Multi-pellet charge shot cartridge designed for shotgun-type weapons.</Ammo_ShotgunCharged.description>
+	
+	<!-- EN: Charged shotgun shell (Slug) -->
+	<Ammo_ShotgunCharged_Slug.label>Charged shotgun shell (Slug)</Ammo_ShotgunCharged_Slug.label>
+	<!-- EN: Multi-pellet charge shot cartridge designed for shotgun-type weapons. -->
+	<Ammo_ShotgunCharged_Slug.description>Multi-pellet charge shot cartridge designed for shotgun-type weapons.</Ammo_ShotgunCharged_Slug.description>
+	
+	<!-- EN: Charged shotgun shell (Ion Shot) -->
+	<Ammo_ShotgunCharged_Ion.label>Charged shotgun shell (Ion Shot)</Ammo_ShotgunCharged_Ion.label>
+	<!-- EN: Multi-pellet charge shot cartridge designed for shotgun-type weapons. -->
+	<Ammo_ShotgunCharged_Ion.description>Multi-pellet charge shot cartridge designed for shotgun-type weapons.</Ammo_ShotgunCharged_Ion.description>
+</LanguageData>

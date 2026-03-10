@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- ModPatches\VFE Insectoids Equipment\Defs\VFE Insectoids Equipment\Ammo\AmmoCategories.xml -->
+	<!-- EN: madness -->
+	<GrenadePsyMadness.label>madness</GrenadePsyMadness.label>
+	<!-- EN: Uses psychic technology to induce a berserk range against targets in range. -->
+	<GrenadePsyMadness.description>Uses psychic technology to induce a berserk range against targets in range.</GrenadePsyMadness.description>
+</LanguageData>

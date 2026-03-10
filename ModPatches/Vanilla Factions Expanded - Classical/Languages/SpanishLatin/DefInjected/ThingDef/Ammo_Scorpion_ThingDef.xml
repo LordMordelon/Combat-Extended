@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla Factions Expanded - Classical\Defs\Vanilla Factions Expanded - Classical\Ammo_Scorpion.xml -->
+	<!-- EN: scorpion bolt (stone) -->
+	<Projectile_ScorpionBolt_Stone.label>scorpion bolt (stone)</Projectile_ScorpionBolt_Stone.label>
+	<!-- EN: scorpion bolt (steel) -->
+	<Projectile_ScorpionBolt_Steel.label>scorpion bolt (steel)</Projectile_ScorpionBolt_Steel.label>
+	<!-- EN: scorpion bolt (plasteel) -->
+	<Projectile_ScorpionBolt_Plasteel.label>scorpion bolt (plasteel)</Projectile_ScorpionBolt_Plasteel.label>
+	<!-- EN: scorpion bolt (venom) -->
+	<Projectile_ScorpionBolt_Venom.label>scorpion bolt (venom)</Projectile_ScorpionBolt_Venom.label>
+	<!-- EN: scorpion bolt (flame) -->
+	<Projectile_ScorpionBolt_Flame.label>scorpion bolt (flame)</Projectile_ScorpionBolt_Flame.label>
+</LanguageData>

@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\Rimsenal Feral\Defs\Rimsenal Feral\ThingDefs_Misc\Ammo_Feral.xml -->
+	<!-- EN: scrap -->
+	<AmmoSet_Feral_Scrap.label>scrap</AmmoSet_Feral_Scrap.label>
+	<!-- EN: nail -->
+	<AmmoSet_Feral_Rivet.label>nail</AmmoSet_Feral_Rivet.label>
+	<!-- EN: nail -->
+	<AmmoSet_Feral_Nail.label>nail</AmmoSet_Feral_Nail.label>
+	<!-- EN: Twin 9x19mm Para -->
+	<AmmoSet_9x19mmParaTwin_Feral.label>Twin 9x19mm Para</AmmoSet_9x19mmParaTwin_Feral.label>
+</LanguageData>

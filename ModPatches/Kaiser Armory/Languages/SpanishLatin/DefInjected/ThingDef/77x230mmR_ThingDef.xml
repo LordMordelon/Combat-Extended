@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- ModPatches\Kaiser Armory\Defs\Kaiser Armory\77x230mmR.xml -->
+	
+	<!-- EN: 77x230mmR Cannon shell (HE) -->
+	<Ammo_77x230mmRCannonShell_HE.label>77x230mmR Cannon shell (HE)</Ammo_77x230mmRCannonShell_HE.label>
+	<!-- EN: Light shell used in field guns. -->
+	<Ammo_77x230mmRCannonShell_HE.description>Light shell used in field guns.</Ammo_77x230mmRCannonShell_HE.description>
+	
+	<!-- EN: 77x230mmR Cannon shell (EMP) -->
+	<Ammo_77x230mmRCannonShell_EMP.label>77x230mmR Cannon shell (EMP)</Ammo_77x230mmRCannonShell_EMP.label>
+	<!-- EN: Light shell used in field guns. -->
+	<Ammo_77x230mmRCannonShell_EMP.description>Light shell used in field guns.</Ammo_77x230mmRCannonShell_EMP.description>
+	
+	<!-- EN: 77x230mmR Cannon shell (HE) -->
+	<Bullet_77x230mmRCannonShell_HE.label>77x230mmR Cannon shell (HE)</Bullet_77x230mmRCannonShell_HE.label>
+	
+	<!-- EN: 77x230mmR Cannon shell (EMP) -->
+	<Bullet_77x230mmRCannonShell_EMP.label>77x230mmR Cannon shell (EMP)</Bullet_77x230mmRCannonShell_EMP.label>
+</LanguageData>

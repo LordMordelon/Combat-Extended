@@ -1,0 +1,23 @@
+<LanguageData>
+	<!-- ModPatches\Rimsenal Core\Defs\Rimsenal Core\Ammo_YP.xml -->
+	<!-- EN: Carbon crystal -->
+	<Bullet_PistolYP.label>Carbon crystal</Bullet_PistolYP.label>
+	<!-- EN: Light YP cartridge -->
+	<Ammo_RifleYP.label>Light YP cartridge</Ammo_RifleYP.label>
+	<!-- EN: Small, high-velocity crystal bullet used in Yunhwa Precision arms. -->
+	<Ammo_RifleYP.description>Small, high-velocity crystal bullet used in Yunhwa Precision arms.</Ammo_RifleYP.description>
+	<!-- EN: Carbon crystal -->
+	<Bullet_RifleYP.label>Carbon crystal</Bullet_RifleYP.label>
+	<!-- EN: sagpung swarm -->
+	<Bullet_SwarmerYP.label>sagpung swarm</Bullet_SwarmerYP.label>
+	<!-- EN: Heavy YP cartridge -->
+	<Ammo_SpikeYP.label>Heavy YP cartridge</Ammo_SpikeYP.label>
+	<!-- EN: High-velocity spike made of synthesized crystals, fired by Yunhwa Precision equipment. While more effective against armor, the spikes' tendency to remain intact after striking a target decreases thier stopping power. -->
+	<Ammo_SpikeYP.description>High-velocity spike made of synthesized crystals, fired by Yunhwa Precision equipment. While more effective against armor, the spikes' tendency to remain intact after striking a target decreases thier stopping power.</Ammo_SpikeYP.description>
+	<!-- EN: Heavy carbon crystal -->
+	<Bullet_SpikeYP.label>Heavy carbon crystal</Bullet_SpikeYP.label>
+	<!-- EN: Vector shot -->
+	<Bullet_VectorYP.label>Vector shot</Bullet_VectorYP.label>
+	<!-- EN: microwave pulse -->
+	<Bullet_GeugGwang_CE.label>microwave pulse</Bullet_GeugGwang_CE.label>
+</LanguageData>

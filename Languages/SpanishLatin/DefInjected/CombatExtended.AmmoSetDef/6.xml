@@ -1,0 +1,10 @@
+<LanguageData>
+	<!-- Defs\Ammo\Rifle\6.5Creedmoor.xml -->
+	
+	<!-- EN: 6.5mm Creedmoor -->
+	<AmmoSet_65x48mmCreedmoor.label>6.5mm Creedmoor</AmmoSet_65x48mmCreedmoor.label>
+	<!-- Defs\Ammo\Rifle\6.5x52mm Carcano.xml -->
+	
+	<!-- EN: 6.5x52mm Carcano -->
+	<AmmoSet_65x52mmCarcano.label>6.5x52mm Carcano</AmmoSet_65x52mmCarcano.label>
+</LanguageData>

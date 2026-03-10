@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\det_voltweaponry\Volt_Damages1927.xml -->
+	<!-- EN: electric thermal laser -->
+	<DV_WattDamage.label>electric thermal laser</DV_WattDamage.label>
+	<!-- EN: {0} has been killed. -->
+	<DV_WattDamage.deathMessage>{0} has been killed.</DV_WattDamage.deathMessage>
+</LanguageData>

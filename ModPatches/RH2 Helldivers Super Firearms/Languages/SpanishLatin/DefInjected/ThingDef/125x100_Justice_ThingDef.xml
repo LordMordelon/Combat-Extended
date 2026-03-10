@@ -1,0 +1,43 @@
+<LanguageData>
+	<!-- ModPatches\RH2 Helldivers Super Firearms\Defs\RH2 Helldivers Super Firearms\Ammo\125x100_Justice.xml -->
+	
+	<!-- EN: 12.5x100 Justice (FMJ) -->
+	<Ammo_125x100_FMJ.label>12.5x100 Justice (FMJ)</Ammo_125x100_FMJ.label>
+	<!-- EN: Large caliber bullet used by heavy machine guns and anti-materiel rifles, primarily the MG206 and APW1. -->
+	<Ammo_125x100_FMJ.description>Large caliber bullet used by heavy machine guns and anti-materiel rifles, primarily the MG206 and APW1.</Ammo_125x100_FMJ.description>
+	
+	<!-- EN: 12.5x100 Justice (AP) -->
+	<Ammo_125x100_AP.label>12.5x100 Justice (AP)</Ammo_125x100_AP.label>
+	<!-- EN: Large caliber bullet used by heavy machine guns and anti-materiel rifles, primarily the MG206 and APW1. -->
+	<Ammo_125x100_AP.description>Large caliber bullet used by heavy machine guns and anti-materiel rifles, primarily the MG206 and APW1.</Ammo_125x100_AP.description>
+	
+	<!-- EN: 12.5x100 Justice (AP-I) -->
+	<Ammo_125x100_Incendiary.label>12.5x100 Justice (AP-I)</Ammo_125x100_Incendiary.label>
+	<!-- EN: Large caliber bullet used by heavy machine guns and anti-materiel rifles, primarily the MG206 and APW1. -->
+	<Ammo_125x100_Incendiary.description>Large caliber bullet used by heavy machine guns and anti-materiel rifles, primarily the MG206 and APW1.</Ammo_125x100_Incendiary.description>
+	
+	<!-- EN: 12.5x100 Justice (AP-HE) -->
+	<Ammo_125x100_HE.label>12.5x100 Justice (AP-HE)</Ammo_125x100_HE.label>
+	<!-- EN: Large caliber bullet used by heavy machine guns and anti-materiel rifles, primarily the MG206 and APW1. -->
+	<Ammo_125x100_HE.description>Large caliber bullet used by heavy machine guns and anti-materiel rifles, primarily the MG206 and APW1.</Ammo_125x100_HE.description>
+	
+	<!-- EN: 12.5x100 Justice (Sabot) -->
+	<Ammo_125x100_Sabot.label>12.5x100 Justice (Sabot)</Ammo_125x100_Sabot.label>
+	<!-- EN: Large caliber bullet used by heavy machine guns and anti-materiel rifles, primarily the MG206 and APW1. -->
+	<Ammo_125x100_Sabot.description>Large caliber bullet used by heavy machine guns and anti-materiel rifles, primarily the MG206 and APW1.</Ammo_125x100_Sabot.description>
+	
+	<!-- EN: 12.5x100 Justice bullet (FMJ) -->
+	<Bullet_125x100_FMJ.label>12.5x100 Justice bullet (FMJ)</Bullet_125x100_FMJ.label>
+	
+	<!-- EN: 12.5x100 Justice bullet (AP) -->
+	<Bullet_125x100_AP.label>12.5x100 Justice bullet (AP)</Bullet_125x100_AP.label>
+	
+	<!-- EN: 12.5x100 Justice bullet (AP-I) -->
+	<Bullet_125x100_Incendiary.label>12.5x100 Justice bullet (AP-I)</Bullet_125x100_Incendiary.label>
+	
+	<!-- EN: 12.5x100 Justice bullet (AP-HE) -->
+	<Bullet_125x100_HE.label>12.5x100 Justice bullet (AP-HE)</Bullet_125x100_HE.label>
+	
+	<!-- EN: 12.5x100 Justice bullet (Sabot) -->
+	<Bullet_125x100_Sabot.label>12.5x100 Justice bullet (Sabot)</Bullet_125x100_Sabot.label>
+</LanguageData>

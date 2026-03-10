@@ -1,0 +1,10 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla Weapons Expanded - Non-Lethal\Defs\Vanilla Weapons Expanded - Non-Lethal\TranquilizerDart.xml -->
+	
+	<!-- EN: make dart rifle cartridge x200 -->
+	<MakeAmmo_DartRifle_NL.label>make dart rifle cartridge x200</MakeAmmo_DartRifle_NL.label>
+	<!-- EN: Craft 200 dart rifle cartridges. -->
+	<MakeAmmo_DartRifle_NL.description>Craft 200 dart rifle cartridges.</MakeAmmo_DartRifle_NL.description>
+	<!-- EN: Making dart rifle cartridges. -->
+	<MakeAmmo_DartRifle_NL.jobString>Making dart rifle cartridges.</MakeAmmo_DartRifle_NL.jobString>
+</LanguageData>

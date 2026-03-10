@@ -1,0 +1,26 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\sarg_alphagenes\WeaponsRanged_Forsaken265.xml -->
+	<!-- EN: stock -->
+	<AG_ForsakenSniper.tools.0.label>stock</AG_ForsakenSniper.tools.0.label>
+	<!-- EN: barrel -->
+	<AG_ForsakenSniper.tools.1.label>barrel</AG_ForsakenSniper.tools.1.label>
+	<!-- EN: muzzle -->
+	<AG_ForsakenSniper.tools.2.label>muzzle</AG_ForsakenSniper.tools.2.label>
+	
+	<!-- EN: stock -->
+	<AG_ForsakenShotgun.tools.0.label>stock</AG_ForsakenShotgun.tools.0.label>
+	<!-- EN: barrel -->
+	<AG_ForsakenShotgun.tools.1.label>barrel</AG_ForsakenShotgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<AG_ForsakenShotgun.tools.2.label>muzzle</AG_ForsakenShotgun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<AG_ForsakenAssaultRifle.tools.0.label>stock</AG_ForsakenAssaultRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<AG_ForsakenAssaultRifle.tools.1.label>barrel</AG_ForsakenAssaultRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<AG_ForsakenAssaultRifle.tools.2.label>muzzle</AG_ForsakenAssaultRifle.tools.2.label>
+	
+	<!-- EN: barrel -->
+	<AG_ForsakenHydra.tools.0.label>barrel</AG_ForsakenHydra.tools.0.label>
+</LanguageData>

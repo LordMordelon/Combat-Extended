@@ -1,0 +1,86 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Torann_ARimworldOfMagic\Patch_Elemental83.xml -->
+	<!-- EN: left arm -->
+	<TM_LesserEarth_ElementalR.tools.0.label>left arm</TM_LesserEarth_ElementalR.tools.0.label>
+	<!-- EN: right arm -->
+	<TM_LesserEarth_ElementalR.tools.1.label>right arm</TM_LesserEarth_ElementalR.tools.1.label>
+	<!-- EN: horn -->
+	<TM_LesserEarth_ElementalR.tools.2.label>horn</TM_LesserEarth_ElementalR.tools.2.label>
+	
+	<!-- EN: left arm -->
+	<TM_Earth_ElementalR.tools.0.label>left arm</TM_Earth_ElementalR.tools.0.label>
+	<!-- EN: right arm -->
+	<TM_Earth_ElementalR.tools.1.label>right arm</TM_Earth_ElementalR.tools.1.label>
+	<!-- EN: horn -->
+	<TM_Earth_ElementalR.tools.2.label>horn</TM_Earth_ElementalR.tools.2.label>
+	
+	<!-- EN: left arm -->
+	<TM_GreaterEarth_ElementalR.tools.0.label>left arm</TM_GreaterEarth_ElementalR.tools.0.label>
+	<!-- EN: right arm -->
+	<TM_GreaterEarth_ElementalR.tools.1.label>right arm</TM_GreaterEarth_ElementalR.tools.1.label>
+	<!-- EN: horn -->
+	<TM_GreaterEarth_ElementalR.tools.2.label>horn</TM_GreaterEarth_ElementalR.tools.2.label>
+	
+	<!-- EN: left arm -->
+	<TM_LesserFire_ElementalR.tools.0.label>left arm</TM_LesserFire_ElementalR.tools.0.label>
+	<!-- EN: right arm -->
+	<TM_LesserFire_ElementalR.tools.1.label>right arm</TM_LesserFire_ElementalR.tools.1.label>
+	<!-- EN: horn -->
+	<TM_LesserFire_ElementalR.tools.2.label>horn</TM_LesserFire_ElementalR.tools.2.label>
+	
+	<!-- EN: left arm -->
+	<TM_LesserWater_ElementalR.tools.0.label>left arm</TM_LesserWater_ElementalR.tools.0.label>
+	<!-- EN: right arm -->
+	<TM_LesserWater_ElementalR.tools.1.label>right arm</TM_LesserWater_ElementalR.tools.1.label>
+	<!-- EN: horn -->
+	<TM_LesserWater_ElementalR.tools.2.label>horn</TM_LesserWater_ElementalR.tools.2.label>
+	
+	<!-- EN: left arm -->
+	<TM_LesserWind_ElementalR.tools.0.label>left arm</TM_LesserWind_ElementalR.tools.0.label>
+	<!-- EN: right arm -->
+	<TM_LesserWind_ElementalR.tools.1.label>right arm</TM_LesserWind_ElementalR.tools.1.label>
+	<!-- EN: horn -->
+	<TM_LesserWind_ElementalR.tools.2.label>horn</TM_LesserWind_ElementalR.tools.2.label>
+	
+	<!-- EN: left arm -->
+	<TM_Fire_ElementalR.tools.0.label>left arm</TM_Fire_ElementalR.tools.0.label>
+	<!-- EN: right arm -->
+	<TM_Fire_ElementalR.tools.1.label>right arm</TM_Fire_ElementalR.tools.1.label>
+	<!-- EN: horn -->
+	<TM_Fire_ElementalR.tools.2.label>horn</TM_Fire_ElementalR.tools.2.label>
+	
+	<!-- EN: left arm -->
+	<TM_Water_ElementalR.tools.0.label>left arm</TM_Water_ElementalR.tools.0.label>
+	<!-- EN: right arm -->
+	<TM_Water_ElementalR.tools.1.label>right arm</TM_Water_ElementalR.tools.1.label>
+	<!-- EN: horn -->
+	<TM_Water_ElementalR.tools.2.label>horn</TM_Water_ElementalR.tools.2.label>
+	
+	<!-- EN: left arm -->
+	<TM_Wind_ElementalR.tools.0.label>left arm</TM_Wind_ElementalR.tools.0.label>
+	<!-- EN: right arm -->
+	<TM_Wind_ElementalR.tools.1.label>right arm</TM_Wind_ElementalR.tools.1.label>
+	<!-- EN: horn -->
+	<TM_Wind_ElementalR.tools.2.label>horn</TM_Wind_ElementalR.tools.2.label>
+	
+	<!-- EN: left arm -->
+	<TM_GreaterFire_ElementalR.tools.0.label>left arm</TM_GreaterFire_ElementalR.tools.0.label>
+	<!-- EN: right arm -->
+	<TM_GreaterFire_ElementalR.tools.1.label>right arm</TM_GreaterFire_ElementalR.tools.1.label>
+	<!-- EN: horn -->
+	<TM_GreaterFire_ElementalR.tools.2.label>horn</TM_GreaterFire_ElementalR.tools.2.label>
+	
+	<!-- EN: left arm -->
+	<TM_GreaterWater_ElementalR.tools.0.label>left arm</TM_GreaterWater_ElementalR.tools.0.label>
+	<!-- EN: right arm -->
+	<TM_GreaterWater_ElementalR.tools.1.label>right arm</TM_GreaterWater_ElementalR.tools.1.label>
+	<!-- EN: horn -->
+	<TM_GreaterWater_ElementalR.tools.2.label>horn</TM_GreaterWater_ElementalR.tools.2.label>
+	
+	<!-- EN: left arm -->
+	<TM_GreaterWind_ElementalR.tools.0.label>left arm</TM_GreaterWind_ElementalR.tools.0.label>
+	<!-- EN: right arm -->
+	<TM_GreaterWind_ElementalR.tools.1.label>right arm</TM_GreaterWind_ElementalR.tools.1.label>
+	<!-- EN: horn -->
+	<TM_GreaterWind_ElementalR.tools.2.label>horn</TM_GreaterWind_ElementalR.tools.2.label>
+</LanguageData>

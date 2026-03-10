@@ -1,0 +1,24 @@
+<LanguageData>
+	<!-- ModPatches\AOC The Cleanup Devil\Defs\AOC The Cleanup Devil\Ammo_PowerCell.xml -->
+	
+	<!-- EN: make AOC PowerCell (HEAT) x5 -->
+	<MakeAmmo_AOCPowerCell_HEAT.label>make AOC PowerCell (HEAT) x5</MakeAmmo_AOCPowerCell_HEAT.label>
+	<!-- EN: Craft 5 AOC PowerCell (HEAT). -->
+	<MakeAmmo_AOCPowerCell_HEAT.description>Craft 5 AOC PowerCell (HEAT).</MakeAmmo_AOCPowerCell_HEAT.description>
+	<!-- EN: Making AOC PowerCell (HEAT). -->
+	<MakeAmmo_AOCPowerCell_HEAT.jobString>Making AOC PowerCell (HEAT).</MakeAmmo_AOCPowerCell_HEAT.jobString>
+	
+	<!-- EN: make AOC PowerCell (Thermobaric) x5 -->
+	<MakeAmmo_AOCPowerCell_Thermobaric.label>make AOC PowerCell (Thermobaric) x5</MakeAmmo_AOCPowerCell_Thermobaric.label>
+	<!-- EN: Craft 5 AOC PowerCell (Thermobaric). -->
+	<MakeAmmo_AOCPowerCell_Thermobaric.description>Craft 5 AOC PowerCell (Thermobaric).</MakeAmmo_AOCPowerCell_Thermobaric.description>
+	<!-- EN: Making AOC PowerCell (Thermobaric). -->
+	<MakeAmmo_AOCPowerCell_Thermobaric.jobString>Making AOC PowerCell (Thermobaric).</MakeAmmo_AOCPowerCell_Thermobaric.jobString>
+	
+	<!-- EN: make AOC PowerCell (EMP) x5 -->
+	<MakeAmmo_AOCPowerCell_EMP.label>make AOC PowerCell (EMP) x5</MakeAmmo_AOCPowerCell_EMP.label>
+	<!-- EN: Craft 5 AOC PowerCell (EMP). -->
+	<MakeAmmo_AOCPowerCell_EMP.description>Craft 5 AOC PowerCell (EMP).</MakeAmmo_AOCPowerCell_EMP.description>
+	<!-- EN: Making AOC PowerCell (EMP). -->
+	<MakeAmmo_AOCPowerCell_EMP.jobString>Making AOC PowerCell (EMP).</MakeAmmo_AOCPowerCell_EMP.jobString>
+</LanguageData>

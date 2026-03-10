@@ -1,0 +1,93 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\zawodroshen_pandora_frontier_remake\PFR_Human_Ranged1223.xml -->
+	<!-- EN: barrel -->
+	<FOP_RDA_Handgun.tools.0.label>barrel</FOP_RDA_Handgun.tools.0.label>
+	<!-- EN: grip -->
+	<FOP_RDA_Handgun.tools.1.label>grip</FOP_RDA_Handgun.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<PF_WASP.tools.0.label>barrel</PF_WASP.tools.0.label>
+	<!-- EN: grip -->
+	<PF_WASP.tools.1.label>grip</PF_WASP.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<FOP_CARB_SMG.tools.0.label>barrel</FOP_CARB_SMG.tools.0.label>
+	<!-- EN: stock -->
+	<FOP_CARB_SMG.tools.1.label>stock</FOP_CARB_SMG.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<FOP_CARB_DMR.tools.0.label>barrel</FOP_CARB_DMR.tools.0.label>
+	<!-- EN: stock -->
+	<FOP_CARB_DMR.tools.1.label>stock</FOP_CARB_DMR.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<FOP_CARB_Shotgun.tools.0.label>barrel</FOP_CARB_Shotgun.tools.0.label>
+	<!-- EN: stock -->
+	<FOP_CARB_Shotgun.tools.1.label>stock</FOP_CARB_Shotgun.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<FOP_FNG_Hammer.tools.0.label>barrel</FOP_FNG_Hammer.tools.0.label>
+	<!-- EN: stock -->
+	<FOP_FNG_Hammer.tools.1.label>stock</FOP_FNG_Hammer.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<FOP_CGL.tools.0.label>barrel</FOP_CGL.tools.0.label>
+	<!-- EN: stock -->
+	<FOP_CGL.tools.1.label>stock</FOP_CGL.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<PF_CARB_AR_MUB.tools.0.label>barrel</PF_CARB_AR_MUB.tools.0.label>
+	<!-- EN: stock -->
+	<PF_CARB_AR_MUB.tools.1.label>stock</PF_CARB_AR_MUB.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<PF_CARB_HardAR_MSG.tools.0.label>barrel</PF_CARB_HardAR_MSG.tools.0.label>
+	<!-- EN: stock -->
+	<PF_CARB_HardAR_MSG.tools.1.label>stock</PF_CARB_HardAR_MSG.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<PF_CARB_SR.tools.0.label>barrel</PF_CARB_SR.tools.0.label>
+	<!-- EN: stock -->
+	<PF_CARB_SR.tools.1.label>stock</PF_CARB_SR.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<FOP_AVR_A.tools.0.label>barrel</FOP_AVR_A.tools.0.label>
+	<!-- EN: stock -->
+	<FOP_AVR_A.tools.1.label>stock</FOP_AVR_A.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<FOP_AVR_MB.tools.0.label>barrel</FOP_AVR_MB.tools.0.label>
+	<!-- EN: stock -->
+	<FOP_AVR_MB.tools.1.label>stock</FOP_AVR_MB.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<PF_AVR_AR.tools.0.label>barrel</PF_AVR_AR.tools.0.label>
+	<!-- EN: stock -->
+	<PF_AVR_AR.tools.1.label>stock</PF_AVR_AR.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<PF_RecomHydra_MG.tools.0.label>barrel</PF_RecomHydra_MG.tools.0.label>
+	<!-- EN: stock -->
+	<PF_RecomHydra_MG.tools.1.label>stock</PF_RecomHydra_MG.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<PF_EMXRAD_AMR.tools.0.label>barrel</PF_EMXRAD_AMR.tools.0.label>
+	<!-- EN: stock -->
+	<PF_EMXRAD_AMR.tools.1.label>stock</PF_EMXRAD_AMR.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<FOP_RML_Rocket_Launcher.tools.0.label>barrel</FOP_RML_Rocket_Launcher.tools.0.label>
+	
+	<!-- EN: barrel -->
+	<PF_CARB_RL.tools.0.label>barrel</PF_CARB_RL.tools.0.label>
+	
+	<!-- EN: switch to rifle -->
+	<PF_CARB_AR_MUB.comps.0.standardLabel>switch to rifle</PF_CARB_AR_MUB.comps.0.standardLabel>
+	<!-- EN: switch to underbarrel launcher -->
+	<PF_CARB_AR_MUB.comps.0.underBarrelLabel>switch to underbarrel launcher</PF_CARB_AR_MUB.comps.0.underBarrelLabel>
+	
+	<!-- EN: switch to rifle -->
+	<PF_CARB_HardAR_MSG.comps.0.standardLabel>switch to rifle</PF_CARB_HardAR_MSG.comps.0.standardLabel>
+	<!-- EN: switch to underbarrel shotgun -->
+	<PF_CARB_HardAR_MSG.comps.0.underBarrelLabel>switch to underbarrel shotgun</PF_CARB_HardAR_MSG.comps.0.underBarrelLabel>
+</LanguageData>

@@ -1,0 +1,30 @@
+<LanguageData>
+	<!-- ModPatches\Medieval Overhaul\Defs\Medieval Overhaul\Ammo\MO_Recipes_Grenades.xml -->
+	<!-- EN: make fire pots x10 -->
+	<DankPyon_MakeFireBomb.label>make fire pots x10</DankPyon_MakeFireBomb.label>
+	<!-- EN: Craft 10 fire pots. -->
+	<DankPyon_MakeFireBomb.description>Craft 10 fire pots.</DankPyon_MakeFireBomb.description>
+	<!-- EN: Making fire pots. -->
+	<DankPyon_MakeFireBomb.jobString>Making fire pots.</DankPyon_MakeFireBomb.jobString>
+	
+	<!-- EN: make flash pots x10 -->
+	<DankPyon_MakeFlashBomb.label>make flash pots x10</DankPyon_MakeFlashBomb.label>
+	<!-- EN: Craft 10 flash pots. -->
+	<DankPyon_MakeFlashBomb.description>Craft 10 flash pots.</DankPyon_MakeFlashBomb.description>
+	<!-- EN: Making flash pots. -->
+	<DankPyon_MakeFlashBomb.jobString>Making flash pots.</DankPyon_MakeFlashBomb.jobString>
+	
+	<!-- EN: make smoke pots x10 -->
+	<DankPyon_MakeSmokeFlashBomb.label>make smoke pots x10</DankPyon_MakeSmokeFlashBomb.label>
+	<!-- EN: Craft 10 smoke pots. -->
+	<DankPyon_MakeSmokeFlashBomb.description>Craft 10 smoke pots.</DankPyon_MakeSmokeFlashBomb.description>
+	<!-- EN: Making smoke pots. -->
+	<DankPyon_MakeSmokeFlashBomb.jobString>Making smoke pots.</DankPyon_MakeSmokeFlashBomb.jobString>
+	
+	<!-- EN: make acid flask x10 -->
+	<DankPyon_MakeAcidFlask.label>make acid flask x10</DankPyon_MakeAcidFlask.label>
+	<!-- EN: Craft 10 acid flasks. -->
+	<DankPyon_MakeAcidFlask.description>Craft 10 acid flasks.</DankPyon_MakeAcidFlask.description>
+	<!-- EN: Making acid flasks. -->
+	<DankPyon_MakeAcidFlask.jobString>Making acid flasks.</DankPyon_MakeAcidFlask.jobString>
+</LanguageData>

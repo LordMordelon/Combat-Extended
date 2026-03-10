@@ -1,0 +1,31 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\arquebus_psyblasters\Weapons_Guns1273.xml -->
+	<!-- EN: grip -->
+	<PB_Pistol.tools.0.label>grip</PB_Pistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<PB_Pistol.tools.1.label>muzzle</PB_Pistol.tools.1.label>
+	
+	<!-- EN: stock -->
+	<PB_Rifle.tools.0.label>stock</PB_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<PB_Rifle.tools.1.label>barrel</PB_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<PB_Rifle.tools.2.label>muzzle</PB_Rifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<PB_Shotgun.tools.0.label>stock</PB_Shotgun.tools.0.label>
+	<!-- EN: barrel -->
+	<PB_Shotgun.tools.1.label>barrel</PB_Shotgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<PB_Shotgun.tools.2.label>muzzle</PB_Shotgun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<PB_Sniper.tools.0.label>stock</PB_Sniper.tools.0.label>
+	<!-- EN: barrel -->
+	<PB_Sniper.tools.1.label>barrel</PB_Sniper.tools.1.label>
+	<!-- EN: muzzle -->
+	<PB_Sniper.tools.2.label>muzzle</PB_Sniper.tools.2.label>
+	
+	<!-- EN: barrel -->
+	<PB_Braindump_RocketLauncher.tools.0.label>barrel</PB_Braindump_RocketLauncher.tools.0.label>
+</LanguageData>

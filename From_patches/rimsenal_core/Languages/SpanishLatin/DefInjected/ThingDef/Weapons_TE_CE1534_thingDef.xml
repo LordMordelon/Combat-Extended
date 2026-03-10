@@ -1,0 +1,38 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\rimsenal_core\Weapons_TE_CE1534.xml -->
+	<!-- EN: grip -->
+	<TE_KineticPistol.tools.0.label>grip</TE_KineticPistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<TE_KineticPistol.tools.1.label>muzzle</TE_KineticPistol.tools.1.label>
+	
+	<!-- EN: stock -->
+	<TE_KineticRifle.tools.0.label>stock</TE_KineticRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<TE_KineticRifle.tools.1.label>barrel</TE_KineticRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<TE_KineticRifle.tools.2.label>muzzle</TE_KineticRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<TE_ThuddGun.tools.0.label>stock</TE_ThuddGun.tools.0.label>
+	<!-- EN: barrel -->
+	<TE_ThuddGun.tools.1.label>barrel</TE_ThuddGun.tools.1.label>
+	<!-- EN: muzzle -->
+	<TE_ThuddGun.tools.2.label>muzzle</TE_ThuddGun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<TE_KineticLongRifle.tools.0.label>stock</TE_KineticLongRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<TE_KineticLongRifle.tools.1.label>barrel</TE_KineticLongRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<TE_KineticLongRifle.tools.2.label>muzzle</TE_KineticLongRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<TE_StormCannon.tools.0.label>stock</TE_StormCannon.tools.0.label>
+	<!-- EN: barrel -->
+	<TE_StormCannon.tools.1.label>barrel</TE_StormCannon.tools.1.label>
+	<!-- EN: muzzle -->
+	<TE_StormCannon.tools.2.label>muzzle</TE_StormCannon.tools.2.label>
+	
+	<!-- EN: barrel -->
+	<TE_KineticLance.tools.0.label>barrel</TE_KineticLance.tools.0.label>
+</LanguageData>

@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\JangoDsoul_Bot_Soldier\Ranged_Industrial956.xml -->
+	<!-- EN: stock -->
+	<StA25_SMG.tools.0.label>stock</StA25_SMG.tools.0.label>
+	<!-- EN: barrel -->
+	<StA25_SMG.tools.1.label>barrel</StA25_SMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<StA25_SMG.tools.2.label>muzzle</StA25_SMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<StA-3_HMG.tools.0.label>stock</StA-3_HMG.tools.0.label>
+	<!-- EN: barrel -->
+	<StA-3_HMG.tools.1.label>barrel</StA-3_HMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<StA-3_HMG.tools.2.label>muzzle</StA-3_HMG.tools.2.label>
+</LanguageData>

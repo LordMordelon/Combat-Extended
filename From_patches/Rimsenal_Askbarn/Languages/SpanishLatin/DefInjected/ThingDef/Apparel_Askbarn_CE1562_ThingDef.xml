@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Rimsenal_Askbarn\Apparel_Askbarn_CE1562.xml -->
+	<!-- EN: release EMP surge -->
+	<Apparel_SurgePack.verbs.0.label>release EMP surge</Apparel_SurgePack.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<Apparel_SurgePack.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>ㅤ</Apparel_SurgePack.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>
+</LanguageData>

@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- Defs\ThingDefs_Misc\Weapons_RangedNeolithic.xml -->
+	<!-- EN: javelins -->
+	<Pila.label>javelins</Pila.label>
+	<!-- EN: A throwing spear which may be thrown on its own or using an atlatl. -->
+	<Pila.description>A throwing spear which may be thrown on its own or using an atlatl.</Pila.description>
+	<!-- EN: ㅤ -->
+	<Pila.verbs.0.label>ㅤ</Pila.verbs.0.label>
+	<!-- EN: shaft -->
+	<Pila.tools.0.label>shaft</Pila.tools.0.label>
+	<!-- EN: point -->
+	<Pila.tools.1.label>point</Pila.tools.1.label>
+</LanguageData>

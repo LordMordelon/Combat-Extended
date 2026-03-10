@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Defs\Ammo\Shell\15cmNebelwerfer.xml -->
+	<!-- EN: make 15cm Nebelwerfer (HE) rockets x6 -->
+	<MakeAmmo_15cmNebelwerfer_HE.label>make 15cm Nebelwerfer (HE) rockets x6</MakeAmmo_15cmNebelwerfer_HE.label>
+	<!-- EN: Craft 6 15cm Nebelwerfer (HE) rockets. -->
+	<MakeAmmo_15cmNebelwerfer_HE.description>Craft 6 15cm Nebelwerfer (HE) rockets.</MakeAmmo_15cmNebelwerfer_HE.description>
+	<!-- EN: Making 15cm Nebelwerfer (HE) rockets. -->
+	<MakeAmmo_15cmNebelwerfer_HE.jobString>Making 15cm Nebelwerfer (HE) rockets.</MakeAmmo_15cmNebelwerfer_HE.jobString>
+</LanguageData>

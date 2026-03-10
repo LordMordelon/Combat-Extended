@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\Volt Weaponry\Defs\Volt Weaponry\Ammo_volt.xml -->
+	<!-- EN: volt laser cell (low) -->
+	<AmmoSet_VoltLaserCellLight.label>volt laser cell (low)</AmmoSet_VoltLaserCellLight.label>
+	<!-- EN: volt laser cell -->
+	<AmmoSet_VoltLaserCellMedium.label>volt laser cell</AmmoSet_VoltLaserCellMedium.label>
+	<!-- EN: volt laser cell (high) -->
+	<AmmoSet_VoltLaserCellHeavy.label>volt laser cell (high)</AmmoSet_VoltLaserCellHeavy.label>
+	<!-- EN: volt laser cell (scatter) -->
+	<AmmoSet_VoltLaserCellShotgun.label>volt laser cell (scatter)</AmmoSet_VoltLaserCellShotgun.label>
+</LanguageData>

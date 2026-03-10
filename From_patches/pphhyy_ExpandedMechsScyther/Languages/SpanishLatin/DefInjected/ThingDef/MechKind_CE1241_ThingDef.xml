@@ -1,0 +1,47 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\pphhyy_ExpandedMechsScyther\MechKind_CE1241.xml -->
+	<!-- EN: left Mace -->
+	<pphhyy_ScytherExpandedArch.tools.0.label>left Mace</pphhyy_ScytherExpandedArch.tools.0.label>
+	<!-- EN: right Mace -->
+	<pphhyy_ScytherExpandedArch.tools.1.label>right Mace</pphhyy_ScytherExpandedArch.tools.1.label>
+	<!-- EN: head -->
+	<pphhyy_ScytherExpandedArch.tools.2.label>head</pphhyy_ScytherExpandedArch.tools.2.label>
+	
+	<!-- EN: right Mace -->
+	<pphhyy_ScytherExpandedTank.tools.0.label>right Mace</pphhyy_ScytherExpandedTank.tools.0.label>
+	<!-- EN: head -->
+	<pphhyy_ScytherExpandedTank.tools.1.label>head</pphhyy_ScytherExpandedTank.tools.1.label>
+	
+	<!-- EN: left blade -->
+	<pphhyy_ScytherExpandedMono.tools.0.label>left blade</pphhyy_ScytherExpandedMono.tools.0.label>
+	<!-- EN: left blade -->
+	<pphhyy_ScytherExpandedMono.tools.1.label>left blade</pphhyy_ScytherExpandedMono.tools.1.label>
+	<!-- EN: right blade -->
+	<pphhyy_ScytherExpandedMono.tools.2.label>right blade</pphhyy_ScytherExpandedMono.tools.2.label>
+	<!-- EN: right blade -->
+	<pphhyy_ScytherExpandedMono.tools.3.label>right blade</pphhyy_ScytherExpandedMono.tools.3.label>
+	<!-- EN: head -->
+	<pphhyy_ScytherExpandedMono.tools.4.label>head</pphhyy_ScytherExpandedMono.tools.4.label>
+	
+	<!-- EN: left blade -->
+	<pphhyy_ScytherExpandedSearing.tools.0.label>left blade</pphhyy_ScytherExpandedSearing.tools.0.label>
+	<!-- EN: left blade -->
+	<pphhyy_ScytherExpandedSearing.tools.1.label>left blade</pphhyy_ScytherExpandedSearing.tools.1.label>
+	<!-- EN: right blade -->
+	<pphhyy_ScytherExpandedSearing.tools.2.label>right blade</pphhyy_ScytherExpandedSearing.tools.2.label>
+	<!-- EN: right blade -->
+	<pphhyy_ScytherExpandedSearing.tools.3.label>right blade</pphhyy_ScytherExpandedSearing.tools.3.label>
+	<!-- EN: head -->
+	<pphhyy_ScytherExpandedSearing.tools.4.label>head</pphhyy_ScytherExpandedSearing.tools.4.label>
+	
+	<!-- EN: left blade -->
+	<pphhyy_ScytherExpandedPrestige.tools.0.label>left blade</pphhyy_ScytherExpandedPrestige.tools.0.label>
+	<!-- EN: left blade -->
+	<pphhyy_ScytherExpandedPrestige.tools.1.label>left blade</pphhyy_ScytherExpandedPrestige.tools.1.label>
+	<!-- EN: right blade -->
+	<pphhyy_ScytherExpandedPrestige.tools.2.label>right blade</pphhyy_ScytherExpandedPrestige.tools.2.label>
+	<!-- EN: right blade -->
+	<pphhyy_ScytherExpandedPrestige.tools.3.label>right blade</pphhyy_ScytherExpandedPrestige.tools.3.label>
+	<!-- EN: head -->
+	<pphhyy_ScytherExpandedPrestige.tools.4.label>head</pphhyy_ScytherExpandedPrestige.tools.4.label>
+</LanguageData>

@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- Defs\Ammo\Pistols\45Colt.xml -->
+	<!-- EN: .45 Colt (FMJ) -->
+	<Ammo_45Colt_FMJ.label>.45 Colt (FMJ)</Ammo_45Colt_FMJ.label>
+	<!-- EN: Ancient pistol cartridge originally designed for revolvers. -->
+	<Ammo_45Colt_FMJ.description>Ancient pistol cartridge originally designed for revolvers.</Ammo_45Colt_FMJ.description>
+	<!-- EN: .45 Colt (AP) -->
+	<Ammo_45Colt_AP.label>.45 Colt (AP)</Ammo_45Colt_AP.label>
+	<!-- EN: Ancient pistol cartridge originally designed for revolvers. -->
+	<Ammo_45Colt_AP.description>Ancient pistol cartridge originally designed for revolvers.</Ammo_45Colt_AP.description>
+	<!-- EN: .45 Colt (HP) -->
+	<Ammo_45Colt_HP.label>.45 Colt (HP)</Ammo_45Colt_HP.label>
+	<!-- EN: Ancient pistol cartridge originally designed for revolvers. -->
+	<Ammo_45Colt_HP.description>Ancient pistol cartridge originally designed for revolvers.</Ammo_45Colt_HP.description>
+	<!-- EN: .45 Colt bullet (FMJ) -->
+	<Bullet_45Colt_FMJ.label>.45 Colt bullet (FMJ)</Bullet_45Colt_FMJ.label>
+	<!-- EN: .45 Colt bullet (AP) -->
+	<Bullet_45Colt_AP.label>.45 Colt bullet (AP)</Bullet_45Colt_AP.label>
+	<!-- EN: .45 Colt bullet (HP) -->
+	<Bullet_45Colt_HP.label>.45 Colt bullet (HP)</Bullet_45Colt_HP.label>
+	<!-- EN: .45 Colt bullet (FMJ) -->
+	<Bullet_45Colt_HV_FMJ.label>.45 Colt bullet (FMJ)</Bullet_45Colt_HV_FMJ.label>
+	<!-- EN: .45 Colt bullet (AP) -->
+	<Bullet_45Colt_HV_AP.label>.45 Colt bullet (AP)</Bullet_45Colt_HV_AP.label>
+	<!-- EN: .45 Colt bullet (HP) -->
+	<Bullet_45Colt_HV_HP.label>.45 Colt bullet (HP)</Bullet_45Colt_HV_HP.label>
+</LanguageData>

@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- Defs\ThingDefs_Items\Items_Turrets.xml -->
+	<!-- EN: minified thing -->
+	<MinifiedThing.label>minified thing</MinifiedThing.label>
+	<!-- EN: charge blaster turret -->
+	<MinifiedTurret_Blaster.label>charge blaster turret</MinifiedTurret_Blaster.label>
+	<!-- EN: heavy turret -->
+	<MinifiedTurret_Heavy.label>heavy turret</MinifiedTurret_Heavy.label>
+	<!-- EN: M240B -->
+	<MinifiedTurret_M240B.label>M240B</MinifiedTurret_M240B.label>
+	<!-- EN: KPV -->
+	<MinifiedTurret_KPV.label>KPV</MinifiedTurret_KPV.label>
+	<!-- EN: 90mm flak turret -->
+	<MinifiedTurret_Flak.label>90mm flak turret</MinifiedTurret_Flak.label>
+	<!-- EN: AGS-30 -->
+	<MinifiedTurret_AGSThirty.label>AGS-30</MinifiedTurret_AGSThirty.label>
+</LanguageData>

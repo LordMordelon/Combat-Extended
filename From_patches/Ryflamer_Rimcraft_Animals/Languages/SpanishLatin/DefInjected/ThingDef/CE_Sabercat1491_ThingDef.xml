@@ -1,0 +1,23 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Ryflamer_Rimcraft_Animals\CE_Sabercat1491.xml -->
+	<!-- EN: left claw -->
+	<WoW_Animal_Frostsaber.tools.0.label>left claw</WoW_Animal_Frostsaber.tools.0.label>
+	<!-- EN: right claw -->
+	<WoW_Animal_Frostsaber.tools.1.label>right claw</WoW_Animal_Frostsaber.tools.1.label>
+	<!-- EN: head -->
+	<WoW_Animal_Frostsaber.tools.3.label>head</WoW_Animal_Frostsaber.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<WoW_Animal_Nightsaber.tools.0.label>left claw</WoW_Animal_Nightsaber.tools.0.label>
+	<!-- EN: right claw -->
+	<WoW_Animal_Nightsaber.tools.1.label>right claw</WoW_Animal_Nightsaber.tools.1.label>
+	<!-- EN: head -->
+	<WoW_Animal_Nightsaber.tools.3.label>head</WoW_Animal_Nightsaber.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<WoW_Animal_Manasaber.tools.0.label>left claw</WoW_Animal_Manasaber.tools.0.label>
+	<!-- EN: right claw -->
+	<WoW_Animal_Manasaber.tools.1.label>right claw</WoW_Animal_Manasaber.tools.1.label>
+	<!-- EN: head -->
+	<WoW_Animal_Manasaber.tools.3.label>head</WoW_Animal_Manasaber.tools.3.label>
+</LanguageData>

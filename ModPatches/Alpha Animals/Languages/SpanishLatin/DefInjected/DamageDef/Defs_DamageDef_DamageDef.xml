@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- ModPatches\Alpha Animals\Defs\Alpha Animals\Defs_DamageDef.xml -->
+	<!-- EN: vile spit -->
+	<AA_BlackHiveExplosion.label>vile spit</AA_BlackHiveExplosion.label>
+	<!-- EN: {0} has been poisoned to death. -->
+	<AA_BlackHiveExplosion.deathMessage>{0} has been poisoned to death.</AA_BlackHiveExplosion.deathMessage>
+</LanguageData>

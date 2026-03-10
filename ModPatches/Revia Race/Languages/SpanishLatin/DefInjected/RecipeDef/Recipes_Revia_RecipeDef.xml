@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Revia Race\Defs\Revia Race\Recipes_Revia.xml -->
+	<!-- EN: make throwing knives x10 -->
+	<MakeReviaThrowingKnife.label>make throwing knives x10</MakeReviaThrowingKnife.label>
+	<!-- EN: Craft 10 throwing knives. -->
+	<MakeReviaThrowingKnife.description>Craft 10 throwing knives.</MakeReviaThrowingKnife.description>
+	<!-- EN: Making throwing knives. -->
+	<MakeReviaThrowingKnife.jobString>Making throwing knives.</MakeReviaThrowingKnife.jobString>
+</LanguageData>

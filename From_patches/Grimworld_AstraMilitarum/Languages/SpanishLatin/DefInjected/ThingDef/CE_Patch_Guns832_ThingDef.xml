@@ -1,0 +1,52 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Grimworld_AstraMilitarum\CE_Patch_Guns832.xml -->
+	<!-- EN: barrel -->
+	<GW_HOI_Gun_PlasmaGun.tools.0.label>barrel</GW_HOI_Gun_PlasmaGun.tools.0.label>
+	<!-- EN: stock -->
+	<GW_HOI_Gun_PlasmaGun.tools.1.label>stock</GW_HOI_Gun_PlasmaGun.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<GW_HOI_Gun_MeltaGun.tools.0.label>barrel</GW_HOI_Gun_MeltaGun.tools.0.label>
+	<!-- EN: stock -->
+	<GW_HOI_Gun_MeltaGun.tools.1.label>stock</GW_HOI_Gun_MeltaGun.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<GW_HOI_Gun_Kantrael.tools.0.label>barrel</GW_HOI_Gun_Kantrael.tools.0.label>
+	<!-- EN: stock -->
+	<GW_HOI_Gun_Kantrael.tools.1.label>stock</GW_HOI_Gun_Kantrael.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<GW_HOI_Gun_Hellgun.tools.0.label>barrel</GW_HOI_Gun_Hellgun.tools.0.label>
+	<!-- EN: stock -->
+	<GW_HOI_Gun_Hellgun.tools.1.label>stock</GW_HOI_Gun_Hellgun.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<GW_HOI_Gun_Longlas.tools.0.label>barrel</GW_HOI_Gun_Longlas.tools.0.label>
+	<!-- EN: stock -->
+	<GW_HOI_Gun_Longlas.tools.1.label>stock</GW_HOI_Gun_Longlas.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<GW_HOI_Gun_Agripinaamkii.tools.0.label>barrel</GW_HOI_Gun_Agripinaamkii.tools.0.label>
+	<!-- EN: stock -->
+	<GW_HOI_Gun_Agripinaamkii.tools.1.label>stock</GW_HOI_Gun_Agripinaamkii.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<GW_HOI_Gun_Agripinaamkiitanker.tools.0.label>barrel</GW_HOI_Gun_Agripinaamkiitanker.tools.0.label>
+	<!-- EN: stock -->
+	<GW_HOI_Gun_Agripinaamkiitanker.tools.1.label>stock</GW_HOI_Gun_Agripinaamkiitanker.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<GW_HOI_Shotgun.tools.0.label>barrel</GW_HOI_Shotgun.tools.0.label>
+	<!-- EN: stock -->
+	<GW_HOI_Shotgun.tools.1.label>stock</GW_HOI_Shotgun.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<GW_HOI_Gun_Bolter.tools.0.label>barrel</GW_HOI_Gun_Bolter.tools.0.label>
+	<!-- EN: stock -->
+	<GW_HOI_Gun_Bolter.tools.1.label>stock</GW_HOI_Gun_Bolter.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<GW_HOI_Gun_Flamer.tools.0.label>barrel</GW_HOI_Gun_Flamer.tools.0.label>
+	<!-- EN: stock -->
+	<GW_HOI_Gun_Flamer.tools.1.label>stock</GW_HOI_Gun_Flamer.tools.1.label>
+</LanguageData>

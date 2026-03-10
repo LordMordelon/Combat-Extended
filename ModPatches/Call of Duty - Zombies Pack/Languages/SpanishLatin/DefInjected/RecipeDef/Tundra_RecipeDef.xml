@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Thunders\Tundra.xml -->
+	<!-- EN: make Tundragun Cannister x5 -->
+	<MakeAmmo_Tundra.label>make Tundragun Cannister x5</MakeAmmo_Tundra.label>
+	<!-- EN: Craft 5 Tundragun Cannister. -->
+	<MakeAmmo_Tundra.description>Craft 5 Tundragun Cannister.</MakeAmmo_Tundra.description>
+	<!-- EN: Making Tundragun Cannister. -->
+	<MakeAmmo_Tundra.jobString>Making Tundragun Cannister.</MakeAmmo_Tundra.jobString>
+</LanguageData>

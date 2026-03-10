@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Royal Arsenal - Speciality Weapons\Defs\Royal Arsenal - Speciality Weapons\Ammo_6x28Spark.xml -->
+	<!-- EN: make 6x28mm Royal spark cartridge x500 -->
+	<MakeAmmo_6x28mmSpark.label>make 6x28mm Royal spark cartridge x500</MakeAmmo_6x28mmSpark.label>
+	<!-- EN: Craft 500 6x28mm Royal spark cartridges. -->
+	<MakeAmmo_6x28mmSpark.description>Craft 500 6x28mm Royal spark cartridges.</MakeAmmo_6x28mmSpark.description>
+	<!-- EN: Making 6x28mm Royal spark cartridges. -->
+	<MakeAmmo_6x28mmSpark.jobString>Making 6x28mm Royal spark cartridges.</MakeAmmo_6x28mmSpark.jobString>
+</LanguageData>

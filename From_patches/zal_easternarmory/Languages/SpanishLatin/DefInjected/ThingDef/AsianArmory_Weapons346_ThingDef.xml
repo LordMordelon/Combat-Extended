@@ -1,0 +1,23 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\zal_easternarmory\AsianArmory_Weapons346.xml -->
+	<!-- EN: shaft -->
+	<Ancient_TwoHandedFlail.tools.0.label>shaft</Ancient_TwoHandedFlail.tools.0.label>
+	<!-- EN: head -->
+	<Ancient_TwoHandedFlail.tools.1.label>head</Ancient_TwoHandedFlail.tools.1.label>
+	
+	<!-- EN: shaft -->
+	<Ancient_SamuraiYari.tools.0.label>shaft</Ancient_SamuraiYari.tools.0.label>
+	<!-- EN: shaft -->
+	<Ancient_SamuraiYari.tools.1.label>shaft</Ancient_SamuraiYari.tools.1.label>
+	<!-- EN: head -->
+	<Ancient_SamuraiYari.tools.2.label>head</Ancient_SamuraiYari.tools.2.label>
+	<!-- EN: head -->
+	<Ancient_SamuraiYari.tools.3.label>head</Ancient_SamuraiYari.tools.3.label>
+	
+	<!-- EN: shaft -->
+	<Ancient_GuanDao.tools.0.label>shaft</Ancient_GuanDao.tools.0.label>
+	<!-- EN: shaft -->
+	<Ancient_GuanDao.tools.1.label>shaft</Ancient_GuanDao.tools.1.label>
+	<!-- EN: head -->
+	<Ancient_GuanDao.tools.2.label>head</Ancient_GuanDao.tools.2.label>
+</LanguageData>

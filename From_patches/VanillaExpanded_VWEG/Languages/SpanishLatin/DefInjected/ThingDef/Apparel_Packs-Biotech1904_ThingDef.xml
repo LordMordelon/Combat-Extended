@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VWEG\Apparel_Packs-Biotech1904.xml -->
+	<!-- EN: throw toxic grenade -->
+	<VWE_Apparel_GrenadeToxicBelt.verbs.0.label>throw toxic grenade</VWE_Apparel_GrenadeToxicBelt.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<VWE_Apparel_GrenadeToxicBelt.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>ㅤ</VWE_Apparel_GrenadeToxicBelt.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>
+</LanguageData>

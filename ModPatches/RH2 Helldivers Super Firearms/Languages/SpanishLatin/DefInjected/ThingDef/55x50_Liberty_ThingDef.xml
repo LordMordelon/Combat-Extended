@@ -1,0 +1,51 @@
+<LanguageData>
+	<!-- ModPatches\RH2 Helldivers Super Firearms\Defs\RH2 Helldivers Super Firearms\Ammo\55x50_Liberty.xml -->
+	
+	<!-- EN: 5.5x50mm Liberty (FMJ) -->
+	<Ammo_55x50mmLiberty_FMJ.label>5.5x50mm Liberty (FMJ)</Ammo_55x50mmLiberty_FMJ.label>
+	<!-- EN: Small, high-velocity rifle bullet used in a variety of Super Earth-made assault weapons, primarily the AR-23 family of bullpup assault weapons. -->
+	<Ammo_55x50mmLiberty_FMJ.description>Small, high-velocity rifle bullet used in a variety of Super Earth-made assault weapons, primarily the AR-23 family of bullpup assault weapons.</Ammo_55x50mmLiberty_FMJ.description>
+	
+	<!-- EN: 5.5x50mm Liberty (AP) -->
+	<Ammo_55x50mmLiberty_AP.label>5.5x50mm Liberty (AP)</Ammo_55x50mmLiberty_AP.label>
+	<!-- EN: Small, high-velocity rifle bullet used in a variety of Super Earth-made assault weapons, primarily the AR-23 family of bullpup assault weapons. -->
+	<Ammo_55x50mmLiberty_AP.description>Small, high-velocity rifle bullet used in a variety of Super Earth-made assault weapons, primarily the AR-23 family of bullpup assault weapons.</Ammo_55x50mmLiberty_AP.description>
+	
+	<!-- EN: 5.5x50mm Liberty (HP) -->
+	<Ammo_55x50mmLiberty_HP.label>5.5x50mm Liberty (HP)</Ammo_55x50mmLiberty_HP.label>
+	<!-- EN: Small, high-velocity rifle bullet used in a variety of Super Earth-made assault weapons, primarily the AR-23 family of bullpup assault weapons. -->
+	<Ammo_55x50mmLiberty_HP.description>Small, high-velocity rifle bullet used in a variety of Super Earth-made assault weapons, primarily the AR-23 family of bullpup assault weapons.</Ammo_55x50mmLiberty_HP.description>
+	
+	<!-- EN: 5.5x50mm Liberty (AP-I) -->
+	<Ammo_55x50mmLiberty_Incendiary.label>5.5x50mm Liberty (AP-I)</Ammo_55x50mmLiberty_Incendiary.label>
+	<!-- EN: Small, high-velocity rifle bullet used in a variety of Super Earth-made assault weapons, primarily the AR-23 family of bullpup assault weapons. -->
+	<Ammo_55x50mmLiberty_Incendiary.description>Small, high-velocity rifle bullet used in a variety of Super Earth-made assault weapons, primarily the AR-23 family of bullpup assault weapons.</Ammo_55x50mmLiberty_Incendiary.description>
+	
+	<!-- EN: 5.5x50mm Liberty (AP-HE) -->
+	<Ammo_55x50mmLiberty_HE.label>5.5x50mm Liberty (AP-HE)</Ammo_55x50mmLiberty_HE.label>
+	<!-- EN: Small, high-velocity rifle bullet used in a variety of Super Earth-made assault weapons, primarily the AR-23 family of bullpup assault weapons. -->
+	<Ammo_55x50mmLiberty_HE.description>Small, high-velocity rifle bullet used in a variety of Super Earth-made assault weapons, primarily the AR-23 family of bullpup assault weapons.</Ammo_55x50mmLiberty_HE.description>
+	
+	<!-- EN: 5.5x50mm Liberty (Sabot) -->
+	<Ammo_55x50mmLiberty_Sabot.label>5.5x50mm Liberty (Sabot)</Ammo_55x50mmLiberty_Sabot.label>
+	<!-- EN: Small, high-velocity rifle bullet used in a variety of Super Earth-made assault weapons, primarily the AR-23 family of bullpup assault weapons. -->
+	<Ammo_55x50mmLiberty_Sabot.description>Small, high-velocity rifle bullet used in a variety of Super Earth-made assault weapons, primarily the AR-23 family of bullpup assault weapons.</Ammo_55x50mmLiberty_Sabot.description>
+	
+	<!-- EN: 5.56mm Liberty bullet (FMJ) -->
+	<Bullet_55x50mmLiberty_FMJ.label>5.56mm Liberty bullet (FMJ)</Bullet_55x50mmLiberty_FMJ.label>
+	
+	<!-- EN: 5.56mm Liberty bullet (AP) -->
+	<Bullet_55x50mmLiberty_AP.label>5.56mm Liberty bullet (AP)</Bullet_55x50mmLiberty_AP.label>
+	
+	<!-- EN: 5.56mm Liberty bullet (HP) -->
+	<Bullet_55x50mmLiberty_HP.label>5.56mm Liberty bullet (HP)</Bullet_55x50mmLiberty_HP.label>
+	
+	<!-- EN: 5.56mm Liberty bullet (AP-I) -->
+	<Bullet_55x50mmLiberty_Incendiary.label>5.56mm Liberty bullet (AP-I)</Bullet_55x50mmLiberty_Incendiary.label>
+	
+	<!-- EN: 5.56mm Liberty bullet (AP-HE) -->
+	<Bullet_55x50mmLiberty_HE.label>5.56mm Liberty bullet (AP-HE)</Bullet_55x50mmLiberty_HE.label>
+	
+	<!-- EN: 5.56mm Liberty bullet (Sabot) -->
+	<Bullet_55x50mmLiberty_Sabot.label>5.56mm Liberty bullet (Sabot)</Bullet_55x50mmLiberty_Sabot.label>
+</LanguageData>

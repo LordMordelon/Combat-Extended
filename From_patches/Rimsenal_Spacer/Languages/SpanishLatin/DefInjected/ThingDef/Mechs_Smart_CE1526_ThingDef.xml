@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Rimsenal_Spacer\Mechs_Smart_CE1526.xml -->
+	<!-- EN: left fist -->
+	<Mech_Tagmaton.tools.0.label>left fist</Mech_Tagmaton.tools.0.label>
+	<!-- EN: right fist -->
+	<Mech_Tagmaton.tools.1.label>right fist</Mech_Tagmaton.tools.1.label>
+	<!-- EN: head -->
+	<Mech_Tagmaton.tools.2.label>head</Mech_Tagmaton.tools.2.label>
+	
+	<!-- EN: left hammer fist -->
+	<Mech_Skutaton.tools.0.label>left hammer fist</Mech_Skutaton.tools.0.label>
+	<!-- EN: right hammer fist -->
+	<Mech_Skutaton.tools.1.label>right hammer fist</Mech_Skutaton.tools.1.label>
+	<!-- EN: head -->
+	<Mech_Skutaton.tools.2.label>head</Mech_Skutaton.tools.2.label>
+	
+	<!-- EN: drill -->
+	<Mech_Borer.tools.0.label>drill</Mech_Borer.tools.0.label>
+</LanguageData>

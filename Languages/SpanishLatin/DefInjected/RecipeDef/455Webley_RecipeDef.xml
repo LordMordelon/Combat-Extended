@@ -1,0 +1,24 @@
+<LanguageData>
+	<!-- Defs\Ammo\Pistols\455Webley.xml -->
+	
+	<!-- EN: make .455 Webley (FMJ) cartridge x500 -->
+	<MakeAmmo_455Webley_FMJ.label>make .455 Webley (FMJ) cartridge x500</MakeAmmo_455Webley_FMJ.label>
+	<!-- EN: Craft 500 .455 Webley (FMJ) cartridges. -->
+	<MakeAmmo_455Webley_FMJ.description>Craft 500 .455 Webley (FMJ) cartridges.</MakeAmmo_455Webley_FMJ.description>
+	<!-- EN: Making .455 Webley (FMJ) cartridges. -->
+	<MakeAmmo_455Webley_FMJ.jobString>Making .455 Webley (FMJ) cartridges.</MakeAmmo_455Webley_FMJ.jobString>
+	
+	<!-- EN: make .455 Webley (AP) cartridge x500 -->
+	<MakeAmmo_455Webley_AP.label>make .455 Webley (AP) cartridge x500</MakeAmmo_455Webley_AP.label>
+	<!-- EN: Craft 500 .455 Webley (AP) cartridges. -->
+	<MakeAmmo_455Webley_AP.description>Craft 500 .455 Webley (AP) cartridges.</MakeAmmo_455Webley_AP.description>
+	<!-- EN: Making .455 Webley (AP) cartridges. -->
+	<MakeAmmo_455Webley_AP.jobString>Making .455 Webley (AP) cartridges.</MakeAmmo_455Webley_AP.jobString>
+	
+	<!-- EN: make .455 Webley (HP) cartridge x500 -->
+	<MakeAmmo_455Webley_HP.label>make .455 Webley (HP) cartridge x500</MakeAmmo_455Webley_HP.label>
+	<!-- EN: Craft 500 .455 Webley (HP) cartridges. -->
+	<MakeAmmo_455Webley_HP.description>Craft 500 .455 Webley (HP) cartridges.</MakeAmmo_455Webley_HP.description>
+	<!-- EN: Making .455 Webley (HP) cartridges. -->
+	<MakeAmmo_455Webley_HP.jobString>Making .455 Webley (HP) cartridges.</MakeAmmo_455Webley_HP.jobString>
+</LanguageData>

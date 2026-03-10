@@ -1,0 +1,24 @@
+<LanguageData>
+	<!-- ModPatches\RH2 Helldivers Super Firearms\Defs\RH2 Helldivers Super Firearms\Ammo\9x20_Redemption.xml -->
+	
+	<!-- EN: make 9x20mm Redemption (FMJ) cartridge x500 -->
+	<MakeAmmo_9x20mmRed_FMJ.label>make 9x20mm Redemption (FMJ) cartridge x500</MakeAmmo_9x20mmRed_FMJ.label>
+	<!-- EN: Craft 500 9x20mm Redemption (FMJ) cartridges. -->
+	<MakeAmmo_9x20mmRed_FMJ.description>Craft 500 9x20mm Redemption (FMJ) cartridges.</MakeAmmo_9x20mmRed_FMJ.description>
+	<!-- EN: Making 9x20mm Redemption (FMJ) cartridges. -->
+	<MakeAmmo_9x20mmRed_FMJ.jobString>Making 9x20mm Redemption (FMJ) cartridges.</MakeAmmo_9x20mmRed_FMJ.jobString>
+	
+	<!-- EN: make 9x20mm Redemption (AP) cartridge x500 -->
+	<MakeAmmo_9x20mmRed_AP.label>make 9x20mm Redemption (AP) cartridge x500</MakeAmmo_9x20mmRed_AP.label>
+	<!-- EN: Craft 500 9x20mm Redemption (AP) cartridges. -->
+	<MakeAmmo_9x20mmRed_AP.description>Craft 500 9x20mm Redemption (AP) cartridges.</MakeAmmo_9x20mmRed_AP.description>
+	<!-- EN: Making 9x20mm Redemption (AP) cartridges. -->
+	<MakeAmmo_9x20mmRed_AP.jobString>Making 9x20mm Redemption (AP) cartridges.</MakeAmmo_9x20mmRed_AP.jobString>
+	
+	<!-- EN: make 9x20mm Redemption (HP) cartridge x500 -->
+	<MakeAmmo_9x20mmRed_HP.label>make 9x20mm Redemption (HP) cartridge x500</MakeAmmo_9x20mmRed_HP.label>
+	<!-- EN: Craft 500 9x20mm Redemption (HP) cartridges. -->
+	<MakeAmmo_9x20mmRed_HP.description>Craft 500 9x20mm Redemption (HP) cartridges.</MakeAmmo_9x20mmRed_HP.description>
+	<!-- EN: Making 9x20mm Redemption (HP) cartridges. -->
+	<MakeAmmo_9x20mmRed_HP.jobString>Making 9x20mm Redemption (HP) cartridges.</MakeAmmo_9x20mmRed_HP.jobString>
+</LanguageData>

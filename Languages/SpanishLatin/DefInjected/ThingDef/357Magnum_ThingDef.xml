@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- Defs\Ammo\Pistols\357Magnum.xml -->
+	<!-- EN: .357 Magnum (FMJ) -->
+	<Ammo_357Magnum_FMJ.label>.357 Magnum (FMJ)</Ammo_357Magnum_FMJ.label>
+	<!-- EN: Ancient pistol cartridge originally designed for revolvers. -->
+	<Ammo_357Magnum_FMJ.description>Ancient pistol cartridge originally designed for revolvers.</Ammo_357Magnum_FMJ.description>
+	<!-- EN: .357 Magnum (AP) -->
+	<Ammo_357Magnum_AP.label>.357 Magnum (AP)</Ammo_357Magnum_AP.label>
+	<!-- EN: Ancient pistol cartridge originally designed for revolvers. -->
+	<Ammo_357Magnum_AP.description>Ancient pistol cartridge originally designed for revolvers.</Ammo_357Magnum_AP.description>
+	<!-- EN: .357 Magnum (HP) -->
+	<Ammo_357Magnum_HP.label>.357 Magnum (HP)</Ammo_357Magnum_HP.label>
+	<!-- EN: Ancient pistol cartridge originally designed for revolvers. -->
+	<Ammo_357Magnum_HP.description>Ancient pistol cartridge originally designed for revolvers.</Ammo_357Magnum_HP.description>
+	<!-- EN: .357 Magnum bullet (FMJ) -->
+	<Bullet_357Magnum_FMJ.label>.357 Magnum bullet (FMJ)</Bullet_357Magnum_FMJ.label>
+	<!-- EN: .357 Magnum bullet (AP) -->
+	<Bullet_357Magnum_AP.label>.357 Magnum bullet (AP)</Bullet_357Magnum_AP.label>
+	<!-- EN: .357 Magnum bullet (HP) -->
+	<Bullet_357Magnum_HP.label>.357 Magnum bullet (HP)</Bullet_357Magnum_HP.label>
+	<!-- EN: .357 Magnum bullet (FMJ) -->
+	<Bullet_357Magnum_HV_FMJ.label>.357 Magnum bullet (FMJ)</Bullet_357Magnum_HV_FMJ.label>
+	<!-- EN: .357 Magnum bullet (AP) -->
+	<Bullet_357Magnum_HV_AP.label>.357 Magnum bullet (AP)</Bullet_357Magnum_HV_AP.label>
+	<!-- EN: .357 Magnum bullet (HP) -->
+	<Bullet_357Magnum_HV_HP.label>.357 Magnum bullet (HP)</Bullet_357Magnum_HV_HP.label>
+</LanguageData>

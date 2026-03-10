@@ -1,0 +1,21 @@
+<LanguageData>
+	<!-- ModPatches\Rimsenal Core\Defs\Rimsenal Core\Ammo_JI.xml -->
+	<!-- EN: molten splatter -->
+	<Fragment_Molten.label>molten splatter</Fragment_Molten.label>
+	<!-- EN: grendel shell -->
+	<Bullet_JISiegeRound.label>grendel shell</Bullet_JISiegeRound.label>
+	<!-- EN: crow feeder -->
+	<Bullet_JICrowFeeder.label>crow feeder</Bullet_JICrowFeeder.label>
+	<!-- EN: Ultra-density alloy -->
+	<Ammo_JI_Alloy.label>Ultra-density alloy</Ammo_JI_Alloy.label>
+	<!-- EN: A ultra dense, strong alloy with extremely high thermal conductivity, specially manufactured for use by Jotun Interstellar weaponry. -->
+	<Ammo_JI_Alloy.description>A ultra dense, strong alloy with extremely high thermal conductivity, specially manufactured for use by Jotun Interstellar weaponry.</Ammo_JI_Alloy.description>
+	<!-- EN: Semi-molten alloy -->
+	<Bullet_JI_Slag.label>Semi-molten alloy</Bullet_JI_Slag.label>
+	<!-- EN: Semi-molten alloy -->
+	<Bullet_JI_Molten.label>Semi-molten alloy</Bullet_JI_Molten.label>
+	<!-- EN: Semi-molten alloy -->
+	<Bullet_JI_AMR.label>Semi-molten alloy</Bullet_JI_AMR.label>
+	<!-- EN: Semi-molten alloy -->
+	<Bullet_JI_Suppressor.label>Semi-molten alloy</Bullet_JI_Suppressor.label>
+</LanguageData>

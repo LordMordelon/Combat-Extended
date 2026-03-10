@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- Defs\Ammo\Pistols\13mmGyrojet.xml -->
+	
+	<!-- EN: 13mm Gyrojet (FMJ) -->
+	<Ammo_13mmGyrojet_FMJ.label>13mm Gyrojet (FMJ)</Ammo_13mmGyrojet_FMJ.label>
+	<!-- EN: Rare pistol rocket that utilizes miniature rockets for propulsion instead of gunpowder. -->
+	<Ammo_13mmGyrojet_FMJ.description>Rare pistol rocket that utilizes miniature rockets for propulsion instead of gunpowder.</Ammo_13mmGyrojet_FMJ.description>
+	
+	<!-- EN: 13mm Gyrojet (AP) -->
+	<Ammo_13mmGyrojet_AP.label>13mm Gyrojet (AP)</Ammo_13mmGyrojet_AP.label>
+	<!-- EN: Rare pistol rocket that utilizes miniature rockets for propulsion instead of gunpowder. -->
+	<Ammo_13mmGyrojet_AP.description>Rare pistol rocket that utilizes miniature rockets for propulsion instead of gunpowder.</Ammo_13mmGyrojet_AP.description>
+	
+	<!-- EN: 13mm Gyrojet (HP) -->
+	<Ammo_13mmGyrojet_HP.label>13mm Gyrojet (HP)</Ammo_13mmGyrojet_HP.label>
+	<!-- EN: Rare pistol rocket that utilizes miniature rockets for propulsion instead of gunpowder. -->
+	<Ammo_13mmGyrojet_HP.description>Rare pistol rocket that utilizes miniature rockets for propulsion instead of gunpowder.</Ammo_13mmGyrojet_HP.description>
+	
+	<!-- EN: 13mm Gyrojet bullet (FMJ) -->
+	<Bullet_13mmGyrojet_FMJ.label>13mm Gyrojet bullet (FMJ)</Bullet_13mmGyrojet_FMJ.label>
+	
+	<!-- EN: 13mm Gyrojet bullet (AP) -->
+	<Bullet_13mmGyrojet_AP.label>13mm Gyrojet bullet (AP)</Bullet_13mmGyrojet_AP.label>
+	
+	<!-- EN: 13mm Gyrojet bullet (HP) -->
+	<Bullet_13mmGyrojet_HP.label>13mm Gyrojet bullet (HP)</Bullet_13mmGyrojet_HP.label>
+</LanguageData>

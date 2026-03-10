@@ -1,0 +1,42 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\KIT_RomanWeapons\Roman_Weapons963.xml -->
+	<!-- EN: handle -->
+	<KIT_MeleeWeapon_Dolabra.tools.0.label>handle</KIT_MeleeWeapon_Dolabra.tools.0.label>
+	<!-- EN: edge -->
+	<KIT_MeleeWeapon_Dolabra.tools.1.label>edge</KIT_MeleeWeapon_Dolabra.tools.1.label>
+	<!-- EN: spike -->
+	<KIT_MeleeWeapon_Dolabra.tools.2.label>spike</KIT_MeleeWeapon_Dolabra.tools.2.label>
+	
+	<!-- EN: handle -->
+	<KIT_MeleeWeapon_Pugio.tools.0.label>handle</KIT_MeleeWeapon_Pugio.tools.0.label>
+	<!-- EN: blade -->
+	<KIT_MeleeWeapon_Pugio.tools.1.label>blade</KIT_MeleeWeapon_Pugio.tools.1.label>
+	<!-- EN: point -->
+	<KIT_MeleeWeapon_Pugio.tools.2.label>point</KIT_MeleeWeapon_Pugio.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<KIT_MeleeWeapon_Hasta.tools.0.label>shaft</KIT_MeleeWeapon_Hasta.tools.0.label>
+	<!-- EN: shaft -->
+	<KIT_MeleeWeapon_Hasta.tools.1.label>shaft</KIT_MeleeWeapon_Hasta.tools.1.label>
+	<!-- EN: head -->
+	<KIT_MeleeWeapon_Hasta.tools.2.label>head</KIT_MeleeWeapon_Hasta.tools.2.label>
+	
+	<!-- EN: handle -->
+	<KIT_MeleeWeapon_Falx.tools.0.label>handle</KIT_MeleeWeapon_Falx.tools.0.label>
+	<!-- EN: edge -->
+	<KIT_MeleeWeapon_Falx.tools.1.label>edge</KIT_MeleeWeapon_Falx.tools.1.label>
+	
+	<!-- EN: plumbata -->
+	<KIT_WeaponRanged_Plumbatae.label>plumbata</KIT_WeaponRanged_Plumbatae.label>
+	<!-- EN: A handful of darts. Can inflict injuries in close range. Simple but effective. -->
+	<KIT_WeaponRanged_Plumbatae.description>A handful of darts. Can inflict injuries in close range. Simple but effective.</KIT_WeaponRanged_Plumbatae.description>
+	<!-- EN: ㅤ -->
+	<KIT_WeaponRanged_Plumbatae.verbs.0.label>ㅤ</KIT_WeaponRanged_Plumbatae.verbs.0.label>
+	<!-- EN: handle -->
+	<KIT_WeaponRanged_Plumbatae.tools.0.label>handle</KIT_WeaponRanged_Plumbatae.tools.0.label>
+	<!-- EN: point -->
+	<KIT_WeaponRanged_Plumbatae.tools.1.label>point</KIT_WeaponRanged_Plumbatae.tools.1.label>
+	
+	<!-- EN: plumbata -->
+	<KitPlumbata_Thrown.label>plumbata</KitPlumbata_Thrown.label>
+</LanguageData>

@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla Factions Expanded - Settlers\Defs\Vanilla Factions Expanded - Settlers\Recipes_Settlers.xml -->
+	<!-- EN: make tomahawk x10 -->
+	<Make_VFES_Tomahawk.label>make tomahawk x10</Make_VFES_Tomahawk.label>
+	<!-- EN: Craft 10 tomahawks. -->
+	<Make_VFES_Tomahawk.description>Craft 10 tomahawks.</Make_VFES_Tomahawk.description>
+	<!-- EN: Making tomahawk. -->
+	<Make_VFES_Tomahawk.jobString>Making tomahawk.</Make_VFES_Tomahawk.jobString>
+	
+	<!-- EN: make dynamite sticks x10 -->
+	<Make_VFES_Weapon_GrenadeDynamite.label>make dynamite sticks x10</Make_VFES_Weapon_GrenadeDynamite.label>
+	<!-- EN: Craft 10 dynamite sticks. -->
+	<Make_VFES_Weapon_GrenadeDynamite.description>Craft 10 dynamite sticks.</Make_VFES_Weapon_GrenadeDynamite.description>
+	<!-- EN: Making dynamite sticks. -->
+	<Make_VFES_Weapon_GrenadeDynamite.jobString>Making dynamite sticks.</Make_VFES_Weapon_GrenadeDynamite.jobString>
+</LanguageData>

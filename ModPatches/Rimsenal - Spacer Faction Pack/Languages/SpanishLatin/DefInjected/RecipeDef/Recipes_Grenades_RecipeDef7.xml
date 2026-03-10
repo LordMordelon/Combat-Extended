@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Rimsenal - Spacer Faction Pack\Defs\Rimsenal - Spacer Faction Pack\Recipes_Grenades.xml -->
+	<!-- EN: Craft 10 smart grenades -->
+	<Craft_10_Smartgrenade.label>Craft 10 smart grenades</Craft_10_Smartgrenade.label>
+	<!-- EN: Craft 10 smart grenades. -->
+	<Craft_10_Smartgrenade.description>Craft 10 smart grenades.</Craft_10_Smartgrenade.description>
+	<!-- EN: Crafting smart grenades -->
+	<Craft_10_Smartgrenade.jobString>Crafting smart grenades</Craft_10_Smartgrenade.jobString>
+</LanguageData>

@@ -1,0 +1,24 @@
+<LanguageData>
+	<!-- Defs\Ammo\Shell\762x539mmR.xml -->
+	
+	<!-- EN: make 76.2x539mmR (AP) cannon shells x5 -->
+	<MakeAmmo_762x539mmR_AP.label>make 76.2x539mmR (AP) cannon shells x5</MakeAmmo_762x539mmR_AP.label>
+	<!-- EN: Craft 5 76.2x539mmR (AP) cannon shells. -->
+	<MakeAmmo_762x539mmR_AP.description>Craft 5 76.2x539mmR (AP) cannon shells.</MakeAmmo_762x539mmR_AP.description>
+	<!-- EN: Making 76.2x539mmR (AP) cannon shells. -->
+	<MakeAmmo_762x539mmR_AP.jobString>Making 76.2x539mmR (AP) cannon shells.</MakeAmmo_762x539mmR_AP.jobString>
+	
+	<!-- EN: make 76.2x539mmR (HE) cannon shells x5 -->
+	<MakeAmmo_762x539mmR_HE.label>make 76.2x539mmR (HE) cannon shells x5</MakeAmmo_762x539mmR_HE.label>
+	<!-- EN: Craft 5 76.2x539mmR (HE) cannon shells. -->
+	<MakeAmmo_762x539mmR_HE.description>Craft 5 76.2x539mmR (HE) cannon shells.</MakeAmmo_762x539mmR_HE.description>
+	<!-- EN: Making 76.2x539mmR (HE) cannon shells. -->
+	<MakeAmmo_762x539mmR_HE.jobString>Making 76.2x539mmR (HE) cannon shells.</MakeAmmo_762x539mmR_HE.jobString>
+	
+	<!-- EN: make 76.2x539mmR (APCR) cannon shells x5 -->
+	<MakeAmmo_762x539mmR_APCR.label>make 76.2x539mmR (APCR) cannon shells x5</MakeAmmo_762x539mmR_APCR.label>
+	<!-- EN: Craft 5 76.2x539mmR (APCR) cannon shells. -->
+	<MakeAmmo_762x539mmR_APCR.description>Craft 5 76.2x539mmR (APCR) cannon shells.</MakeAmmo_762x539mmR_APCR.description>
+	<!-- EN: Making 76.2x539mmR (APCR) cannon shells. -->
+	<MakeAmmo_762x539mmR_APCR.jobString>Making 76.2x539mmR (APCR) cannon shells.</MakeAmmo_762x539mmR_APCR.jobString>
+</LanguageData>

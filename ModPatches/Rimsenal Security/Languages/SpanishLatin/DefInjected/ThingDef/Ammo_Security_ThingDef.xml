@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- ModPatches\Rimsenal Security\Defs\Rimsenal Security\Ammo_Security.xml -->
+	<!-- EN: dummy round -->
+	<Bullet_FakeBullet_CE.label>dummy round</Bullet_FakeBullet_CE.label>
+	<!-- EN: 81mm mortar shell (HE) -->
+	<Bullet_81mmMortarShellRimsenal_HE.label>81mm mortar shell (HE)</Bullet_81mmMortarShellRimsenal_HE.label>
+	<!-- EN: 81mm mortar shell (Incendiary) -->
+	<Bullet_81mmMortarShellRimsenal_Incendiary.label>81mm mortar shell (Incendiary)</Bullet_81mmMortarShellRimsenal_Incendiary.label>
+	<!-- EN: 81mm mortar shell (EMP) -->
+	<Bullet_81mmMortarShellRimsenal_EMP.label>81mm mortar shell (EMP)</Bullet_81mmMortarShellRimsenal_EMP.label>
+	<!-- EN: 81mm mortar shell (Foam) -->
+	<Bullet_81mmMortarShellRimsenal_Firefoam.label>81mm mortar shell (Foam)</Bullet_81mmMortarShellRimsenal_Firefoam.label>
+	<!-- EN: 81mm mortar shell (Smoke) -->
+	<Bullet_81mmMortarShellRimsenal_Smoke.label>81mm mortar shell (Smoke)</Bullet_81mmMortarShellRimsenal_Smoke.label>
+	<!-- EN: 81mm mortar shell (Anti) -->
+	<Bullet_81mmMortarShellRimsenal_Antigrain.label>81mm mortar shell (Anti)</Bullet_81mmMortarShellRimsenal_Antigrain.label>
+</LanguageData>

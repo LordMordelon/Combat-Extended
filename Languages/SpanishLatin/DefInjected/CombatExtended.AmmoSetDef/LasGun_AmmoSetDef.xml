@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- Defs\Ammo\Modded\Warhammer 40k\LasGun.xml -->
+	<!-- EN: lasgun power pack -->
+	<AmmoSet_Lasgun_Pistol.label>lasgun power pack</AmmoSet_Lasgun_Pistol.label>
+	<!-- EN: lasgun power pack -->
+	<AmmoSet_Lasgun_Rifle.label>lasgun power pack</AmmoSet_Lasgun_Rifle.label>
+	<!-- EN: lasgun power pack -->
+	<AmmoSet_Lasgun_HellGun.label>lasgun power pack</AmmoSet_Lasgun_HellGun.label>
+	<!-- EN: lasgun power pack -->
+	<AmmoSet_Lasgun_Cannon.label>lasgun power pack</AmmoSet_Lasgun_Cannon.label>
+</LanguageData>

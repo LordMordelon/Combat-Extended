@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\mlie_reinforcedmechanoid2\RM_Royalty1392.xml -->
+	<!-- EN: points -->
+	<RM_MeleeWeapon_PlasmaBane.tools.0.label>points</RM_MeleeWeapon_PlasmaBane.tools.0.label>
+	<!-- EN: left edge -->
+	<RM_MeleeWeapon_PlasmaBane.tools.1.label>left edge</RM_MeleeWeapon_PlasmaBane.tools.1.label>
+	<!-- EN: right edge -->
+	<RM_MeleeWeapon_PlasmaBane.tools.2.label>right edge</RM_MeleeWeapon_PlasmaBane.tools.2.label>
+	
+	<!-- EN: point -->
+	<RM_MeleeWeapon_PlasmaSword.tools.0.label>point</RM_MeleeWeapon_PlasmaSword.tools.0.label>
+	<!-- EN: left edge -->
+	<RM_MeleeWeapon_PlasmaSword.tools.1.label>left edge</RM_MeleeWeapon_PlasmaSword.tools.1.label>
+	<!-- EN: right edge -->
+	<RM_MeleeWeapon_PlasmaSword.tools.2.label>right edge</RM_MeleeWeapon_PlasmaSword.tools.2.label>
+</LanguageData>

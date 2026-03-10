@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Maru Race\Defs\Maru Race\Ammo_Arrow_BT.xml -->
+	<!-- EN: make maru rocket arrows x10 -->
+	<MakeAmmo_CPB_BT.label>make maru rocket arrows x10</MakeAmmo_CPB_BT.label>
+	<!-- EN: Craft 10 maru rocket arrows. -->
+	<MakeAmmo_CPB_BT.description>Craft 10 maru rocket arrows.</MakeAmmo_CPB_BT.description>
+	<!-- EN: Making maru rocket arrows. -->
+	<MakeAmmo_CPB_BT.jobString>Making maru rocket arrows.</MakeAmmo_CPB_BT.jobString>
+</LanguageData>

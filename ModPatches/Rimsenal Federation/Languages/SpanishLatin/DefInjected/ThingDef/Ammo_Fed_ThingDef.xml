@@ -1,0 +1,47 @@
+<LanguageData>
+	<!-- ModPatches\Rimsenal Federation\Defs\Rimsenal Federation\ThingDefs_Misc\Ammo_Fed.xml -->
+	<!-- EN: bullet -->
+	<Bullet_HarvesterCannon.label>bullet</Bullet_HarvesterCannon.label>
+	<!-- EN: bullet -->
+	<Bullet_PlasmaTurretBombard.label>bullet</Bullet_PlasmaTurretBombard.label>
+	<!-- EN: bullet -->
+	<Bullet_Federation_PlasmaBlast.label>bullet</Bullet_Federation_PlasmaBlast.label>
+	<!-- EN: bullet -->
+	<Bullet_Federation_PlasmaCluster.label>bullet</Bullet_Federation_PlasmaCluster.label>
+	<!-- EN: bullet -->
+	<Bullet_Federation_PlasmaSub.label>bullet</Bullet_Federation_PlasmaSub.label>
+	<!-- EN: bullet -->
+	<Bullet_CrucibleCannon_CE.label>bullet</Bullet_CrucibleCannon_CE.label>
+	<!-- EN: bullet -->
+	<Bullet_PlasmaMechBombard.label>bullet</Bullet_PlasmaMechBombard.label>
+	<!-- EN: bullet -->
+	<Bullet_PlasmaRifle_Fed.label>bullet</Bullet_PlasmaRifle_Fed.label>
+	<!-- EN: EMP -->
+	<Bullet_EMPBomb.label>EMP</Bullet_EMPBomb.label>
+	<!-- EN: bullet -->
+	<Bullet_AuxiliaryPistol.label>bullet</Bullet_AuxiliaryPistol.label>
+	<!-- EN: bullet -->
+	<Bullet_MakeshiftCrucibleRifle.label>bullet</Bullet_MakeshiftCrucibleRifle.label>
+	<!-- EN: bullet -->
+	<Bullet_CrucibleRifle.label>bullet</Bullet_CrucibleRifle.label>
+	<!-- EN: bullet -->
+	<Bullet_CrucibleRifleAD.label>bullet</Bullet_CrucibleRifleAD.label>
+	<!-- EN: bullet -->
+	<Bullet_CruciblePistol.label>bullet</Bullet_CruciblePistol.label>
+	<!-- EN: bullet -->
+	<Bullet_CruciblePistolAD.label>bullet</Bullet_CruciblePistolAD.label>
+	<!-- EN: heat bolt -->
+	<Bullet_HeatCannon.label>heat bolt</Bullet_HeatCannon.label>
+	<!-- EN: bullet -->
+	<Bullet_CruciblePrecisionRifle.label>bullet</Bullet_CruciblePrecisionRifle.label>
+	<!-- EN: bullet -->
+	<Bullet_CruciblePrecisionRifleAD.label>bullet</Bullet_CruciblePrecisionRifleAD.label>
+	<!-- EN: bullet -->
+	<Bullet_PlasmaCaster.label>bullet</Bullet_PlasmaCaster.label>
+	<!-- EN: bullet -->
+	<Bullet_PlasmaCaster_Fed.label>bullet</Bullet_PlasmaCaster_Fed.label>
+	<!-- EN: plasma bomb -->
+	<Bullet_PlasmaBomb.label>plasma bomb</Bullet_PlasmaBomb.label>
+	<!-- EN: bullet -->
+	<Bullet_CrucibleCarbine_CE.label>bullet</Bullet_CrucibleCarbine_CE.label>
+</LanguageData>

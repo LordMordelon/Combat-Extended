@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- ModPatches\Grimworld Core Imperialis\Defs\Grimworld Core Imperialis\CE_Patch_Ammo_Production.xml -->
+	<!-- EN: imperium loading bench -->
+	<GWAmmoBench.label>imperium loading bench</GWAmmoBench.label>
+	<!-- EN: A workstation for creating ammunition for imperium weapons. -->
+	<GWAmmoBench.description>A workstation for creating ammunition for imperium weapons.</GWAmmoBench.description>
+</LanguageData>

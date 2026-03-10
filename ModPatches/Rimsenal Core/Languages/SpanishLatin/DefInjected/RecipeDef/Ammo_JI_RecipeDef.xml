@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Rimsenal Core\Defs\Rimsenal Core\Ammo_JI.xml -->
+	<!-- EN: make alloy x250 -->
+	<MakeAmmo_JI_Alloy.label>make alloy x250</MakeAmmo_JI_Alloy.label>
+	<!-- EN: Craft 250 ultra dense alloy. -->
+	<MakeAmmo_JI_Alloy.description>Craft 250 ultra dense alloy.</MakeAmmo_JI_Alloy.description>
+	<!-- EN: Making ultra dense alloy. -->
+	<MakeAmmo_JI_Alloy.jobString>Making ultra dense alloy.</MakeAmmo_JI_Alloy.jobString>
+</LanguageData>

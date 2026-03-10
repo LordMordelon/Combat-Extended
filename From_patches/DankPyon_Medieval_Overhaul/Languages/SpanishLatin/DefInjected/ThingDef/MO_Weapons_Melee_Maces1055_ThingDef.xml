@@ -1,0 +1,39 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\DankPyon_Medieval_Overhaul\MO_Weapons_Melee_Maces1055.xml -->
+	<!-- EN: handle -->
+	<DankPyon_MeleeWeapon_Bludgeon.tools.0.label>handle</DankPyon_MeleeWeapon_Bludgeon.tools.0.label>
+	<!-- EN: head -->
+	<DankPyon_MeleeWeapon_Bludgeon.tools.1.label>head</DankPyon_MeleeWeapon_Bludgeon.tools.1.label>
+	
+	<!-- EN: handle -->
+	<DankPyon_MeleeWeapon_NomadMace.tools.0.label>handle</DankPyon_MeleeWeapon_NomadMace.tools.0.label>
+	<!-- EN: head -->
+	<DankPyon_MeleeWeapon_NomadMace.tools.1.label>head</DankPyon_MeleeWeapon_NomadMace.tools.1.label>
+	
+	<!-- EN: handle -->
+	<DankPyon_MeleeWeapon_MorningStar.tools.0.label>handle</DankPyon_MeleeWeapon_MorningStar.tools.0.label>
+	<!-- EN: head -->
+	<DankPyon_MeleeWeapon_MorningStar.tools.1.label>head</DankPyon_MeleeWeapon_MorningStar.tools.1.label>
+	
+	<!-- EN: handle -->
+	<DankPyon_MeleeWeapon_WingedMace.tools.0.label>handle</DankPyon_MeleeWeapon_WingedMace.tools.0.label>
+	<!-- EN: head -->
+	<DankPyon_MeleeWeapon_WingedMace.tools.1.label>head</DankPyon_MeleeWeapon_WingedMace.tools.1.label>
+	
+	<!-- EN: shaft -->
+	<DankPyon_MeleeWeapon_Goedendag.tools.0.label>shaft</DankPyon_MeleeWeapon_Goedendag.tools.0.label>
+	<!-- EN: head -->
+	<DankPyon_MeleeWeapon_Goedendag.tools.1.label>head</DankPyon_MeleeWeapon_Goedendag.tools.1.label>
+	<!-- EN: head -->
+	<DankPyon_MeleeWeapon_Goedendag.tools.2.label>head</DankPyon_MeleeWeapon_Goedendag.tools.2.label>
+	
+	<!-- EN: handle -->
+	<DankPyon_MeleeWeapon_TwoHandedMace.tools.0.label>handle</DankPyon_MeleeWeapon_TwoHandedMace.tools.0.label>
+	<!-- EN: head -->
+	<DankPyon_MeleeWeapon_TwoHandedMace.tools.1.label>head</DankPyon_MeleeWeapon_TwoHandedMace.tools.1.label>
+	
+	<!-- EN: handle -->
+	<DankPyon_MeleeWeapon_TwoHandedFlangedMace.tools.0.label>handle</DankPyon_MeleeWeapon_TwoHandedFlangedMace.tools.0.label>
+	<!-- EN: head -->
+	<DankPyon_MeleeWeapon_TwoHandedFlangedMace.tools.1.label>head</DankPyon_MeleeWeapon_TwoHandedFlangedMace.tools.1.label>
+</LanguageData>

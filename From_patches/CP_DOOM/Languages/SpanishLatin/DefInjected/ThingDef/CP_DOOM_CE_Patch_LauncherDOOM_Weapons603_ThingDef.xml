@@ -1,0 +1,22 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\CP_DOOM\CP_DOOM_CE_Patch_LauncherDOOM_Weapons603.xml -->
+	<!-- EN: stock -->
+	<RHEx_DOOM_GAUSSCannon.tools.0.label>stock</RHEx_DOOM_GAUSSCannon.tools.0.label>
+	<!-- EN: barrel -->
+	<RHEx_DOOM_GAUSSCannon.tools.1.label>barrel</RHEx_DOOM_GAUSSCannon.tools.1.label>
+	<!-- EN: muzzle -->
+	<RHEx_DOOM_GAUSSCannon.tools.2.label>muzzle</RHEx_DOOM_GAUSSCannon.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RHEx_UACGrenadeLauncher.tools.0.label>stock</RHEx_UACGrenadeLauncher.tools.0.label>
+	<!-- EN: barrel -->
+	<RHEx_UACGrenadeLauncher.tools.1.label>barrel</RHEx_UACGrenadeLauncher.tools.1.label>
+	<!-- EN: muzzle -->
+	<RHEx_UACGrenadeLauncher.tools.2.label>muzzle</RHEx_UACGrenadeLauncher.tools.2.label>
+	
+	<!-- EN: barrel -->
+	<RHEx_DOOM_BFG9000Gun.tools.0.label>barrel</RHEx_DOOM_BFG9000Gun.tools.0.label>
+	
+	<!-- EN: barrel -->
+	<RHEx_DOOM_RocketLauncher.tools.0.label>barrel</RHEx_DOOM_RocketLauncher.tools.0.label>
+</LanguageData>

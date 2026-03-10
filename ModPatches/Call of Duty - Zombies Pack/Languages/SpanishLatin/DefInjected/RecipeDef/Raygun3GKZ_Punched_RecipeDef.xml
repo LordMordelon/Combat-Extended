@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Rayguns\Raygun3GKZ_Punched.xml -->
+	<!-- EN: make Maelstorm cartridge x500 -->
+	<MakeAmmo_Raygun_three_GKZ_Punched.label>make Maelstorm cartridge x500</MakeAmmo_Raygun_three_GKZ_Punched.label>
+	<!-- EN: Craft 500 Maelstorm cartridges. -->
+	<MakeAmmo_Raygun_three_GKZ_Punched.description>Craft 500 Maelstorm cartridges.</MakeAmmo_Raygun_three_GKZ_Punched.description>
+	<!-- EN: Making Maelstorm cartridges. -->
+	<MakeAmmo_Raygun_three_GKZ_Punched.jobString>Making Maelstorm cartridges.</MakeAmmo_Raygun_three_GKZ_Punched.jobString>
+</LanguageData>

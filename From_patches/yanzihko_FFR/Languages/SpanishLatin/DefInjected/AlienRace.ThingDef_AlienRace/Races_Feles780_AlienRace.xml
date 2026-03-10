@@ -1,0 +1,37 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\yanzihko_FFR\Races_Feles780.xml -->
+	<!-- EN: left claw -->
+	<YanzihkoJaguar.tools.0.label>left claw</YanzihkoJaguar.tools.0.label>
+	<!-- EN: right claw -->
+	<YanzihkoJaguar.tools.1.label>right claw</YanzihkoJaguar.tools.1.label>
+	<!-- EN: head -->
+	<YanzihkoJaguar.tools.3.label>head</YanzihkoJaguar.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<YanzihkoLeo.tools.0.label>left claw</YanzihkoLeo.tools.0.label>
+	<!-- EN: right claw -->
+	<YanzihkoLeo.tools.1.label>right claw</YanzihkoLeo.tools.1.label>
+	<!-- EN: head -->
+	<YanzihkoLeo.tools.3.label>head</YanzihkoLeo.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<YanzihkoPanther.tools.0.label>left claw</YanzihkoPanther.tools.0.label>
+	<!-- EN: right claw -->
+	<YanzihkoPanther.tools.1.label>right claw</YanzihkoPanther.tools.1.label>
+	<!-- EN: head -->
+	<YanzihkoPanther.tools.3.label>head</YanzihkoPanther.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<YanzihkoTigris.tools.0.label>left claw</YanzihkoTigris.tools.0.label>
+	<!-- EN: right claw -->
+	<YanzihkoTigris.tools.1.label>right claw</YanzihkoTigris.tools.1.label>
+	<!-- EN: head -->
+	<YanzihkoTigris.tools.3.label>head</YanzihkoTigris.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<YanzihkoCheetah.tools.0.label>left claw</YanzihkoCheetah.tools.0.label>
+	<!-- EN: right claw -->
+	<YanzihkoCheetah.tools.1.label>right claw</YanzihkoCheetah.tools.1.label>
+	<!-- EN: head -->
+	<YanzihkoCheetah.tools.3.label>head</YanzihkoCheetah.tools.3.label>
+</LanguageData>

@@ -1,0 +1,37 @@
+<LanguageData>
+	<!-- Defs\ThingDefs_Buildings\Buildings_Turrets.xml -->
+	<!-- EN: charge blaster auto-turret -->
+	<Turret_Blaster.label>charge blaster auto-turret</Turret_Blaster.label>
+	<!-- EN: Automatic turret equipped with a charge blaster. -->
+	<Turret_Blaster.description>Automatic turret equipped with a charge blaster.</Turret_Blaster.description>
+	
+	<!-- EN: heavy auto-turret -->
+	<Turret_Heavy.label>heavy auto-turret</Turret_Heavy.label>
+	<!-- EN: Plated automatic turret equiped with a high caliber machine gun. Very resistant to damage. -->
+	<Turret_Heavy.description>Plated automatic turret equiped with a high caliber machine gun. Very resistant to damage.</Turret_Heavy.description>
+	
+	<!-- EN: medium auto-turret -->
+	<Turret_Medium.label>medium auto-turret</Turret_Medium.label>
+	<!-- EN: Automatic turret equiped with a full powered cartridge machine gun. Fairly resistant to damage. -->
+	<Turret_Medium.description>Automatic turret equiped with a full powered cartridge machine gun. Fairly resistant to damage.</Turret_Medium.description>
+	
+	<!-- EN: KPV machine gun -->
+	<Turret_KPV.label>KPV machine gun</Turret_KPV.label>
+	<!-- EN: KPV heavy machine gun mounted on a tripod. -->
+	<Turret_KPV.description>KPV heavy machine gun mounted on a tripod.</Turret_KPV.description>
+	
+	<!-- EN: M240B -->
+	<Turret_M240B.label>M240B</Turret_M240B.label>
+	<!-- EN: M240B medium machine gun mounted on a tripod. -->
+	<Turret_M240B.description>M240B medium machine gun mounted on a tripod.</Turret_M240B.description>
+	
+	<!-- EN: AGS-30 -->
+	<Turret_AGSThirty.label>AGS-30</Turret_AGSThirty.label>
+	<!-- EN: Lightweight automatic grenade launcher mounted on a tripod. -->
+	<Turret_AGSThirty.description>Lightweight automatic grenade launcher mounted on a tripod.</Turret_AGSThirty.description>
+	
+	<!-- EN: 90mm flak turret -->
+	<Turret_Flak.label>90mm flak turret</Turret_Flak.label>
+	<!-- EN: Old school anti-aircraft cannon. Ineffective against modern aviation but still popular on rimworlds for use against entrenched enemies and vehicles. -->
+	<Turret_Flak.description>Old school anti-aircraft cannon. Ineffective against modern aviation but still popular on rimworlds for use against entrenched enemies and vehicles.</Turret_Flak.description>
+</LanguageData>

@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\RH2_Faction_Gruppa_Krovi\Mechs_Gruppa_Krovi1282.xml -->
+	<!-- EN: bi-pedal foot -->
+	<RH2Mech_KV2Walker.tools.0.label>bi-pedal foot</RH2Mech_KV2Walker.tools.0.label>
+	<!-- EN: bi-pedal foot -->
+	<RH2Mech_KV2Walker.tools.1.label>bi-pedal foot</RH2Mech_KV2Walker.tools.1.label>
+	
+	<!-- EN: left power fist -->
+	<RH2Mech_TeslaDrone.tools.0.label>left power fist</RH2Mech_TeslaDrone.tools.0.label>
+	<!-- EN: right power fist -->
+	<RH2Mech_TeslaDrone.tools.1.label>right power fist</RH2Mech_TeslaDrone.tools.1.label>
+	
+	<!-- EN: left power fist -->
+	<RH2Mech_PlasmaDrone.tools.0.label>left power fist</RH2Mech_PlasmaDrone.tools.0.label>
+	<!-- EN: right power fist -->
+	<RH2Mech_PlasmaDrone.tools.1.label>right power fist</RH2Mech_PlasmaDrone.tools.1.label>
+</LanguageData>

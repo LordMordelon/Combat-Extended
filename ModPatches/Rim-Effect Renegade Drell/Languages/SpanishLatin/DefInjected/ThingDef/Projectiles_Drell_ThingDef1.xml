@@ -1,0 +1,31 @@
+<LanguageData>
+	<!-- ModPatches\Rim-Effect Renegade Drell\Defs\Rim-Effect Renegade Drell\Projectiles_Drell.xml -->
+	<!-- EN: accelerated shot -->
+	<Bullet_Viper.label>accelerated shot</Bullet_Viper.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Viper_AP.label>accelerated shot</Bullet_Viper_AP.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Viper_Cryo.label>accelerated shot</Bullet_Viper_Cryo.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Viper_HE.label>accelerated shot</Bullet_Viper_HE.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Viper_Toxic.label>accelerated shot</Bullet_Viper_Toxic.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Viper_FI.label>accelerated shot</Bullet_Viper_FI.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Viper_Ion.label>accelerated shot</Bullet_Viper_Ion.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Locust.label>accelerated shot</Bullet_Locust.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Locust_AP.label>accelerated shot</Bullet_Locust_AP.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Locust_HE.label>accelerated shot</Bullet_Locust_HE.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Locust_Cryo.label>accelerated shot</Bullet_Locust_Cryo.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Locust_Toxic.label>accelerated shot</Bullet_Locust_Toxic.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Locust_FI.label>accelerated shot</Bullet_Locust_FI.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Locust_Ion.label>accelerated shot</Bullet_Locust_Ion.label>
+</LanguageData>

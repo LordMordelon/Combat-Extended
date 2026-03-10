@@ -1,0 +1,12 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\RH2_Metal_Gear_Solid\RH2_MGS_CE_Patch_RangedIndustrial_Pistols1314.xml -->
+	<!-- EN: grip -->
+	<RNGun_M9A1STranq_Pistol.tools.0.label>grip</RNGun_M9A1STranq_Pistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_M9A1STranq_Pistol.tools.1.label>muzzle</RNGun_M9A1STranq_Pistol.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_MK23SOCOM_Pistol.tools.0.label>grip</RNGun_MK23SOCOM_Pistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_MK23SOCOM_Pistol.tools.1.label>muzzle</RNGun_MK23SOCOM_Pistol.tools.1.label>
+</LanguageData>

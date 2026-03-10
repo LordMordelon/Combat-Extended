@@ -1,0 +1,30 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Bonible_ReconMech\RangedRecon1394.xml -->
+	<!-- EN: stock -->
+	<Gun_ReconSMG.tools.0.label>stock</Gun_ReconSMG.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_ReconSMG.tools.1.label>barrel</Gun_ReconSMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_ReconSMG.tools.2.label>muzzle</Gun_ReconSMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_MechScoutGun.tools.0.label>stock</Gun_MechScoutGun.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_MechScoutGun.tools.1.label>barrel</Gun_MechScoutGun.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_MechScoutGun.tools.2.label>muzzle</Gun_MechScoutGun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_ReconBlaster.tools.0.label>stock</Gun_ReconBlaster.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_ReconBlaster.tools.1.label>barrel</Gun_ReconBlaster.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_ReconBlaster.tools.2.label>muzzle</Gun_ReconBlaster.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_ScoutLancer.tools.0.label>stock</Gun_ScoutLancer.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_ScoutLancer.tools.1.label>barrel</Gun_ScoutLancer.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_ScoutLancer.tools.2.label>muzzle</Gun_ScoutLancer.tools.2.label>
+</LanguageData>

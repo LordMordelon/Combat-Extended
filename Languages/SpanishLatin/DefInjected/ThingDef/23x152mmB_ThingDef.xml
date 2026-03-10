@@ -1,0 +1,35 @@
+<LanguageData>
+	<!-- Defs\Ammo\HighCaliber\23x152mmB.xml -->
+	
+	<!-- EN: 23x152mmB (AP) -->
+	<Ammo_23x152mmB_AP.label>23x152mmB (AP)</Ammo_23x152mmB_AP.label>
+	<!-- EN: Large caliber cartridge used by autocannons. -->
+	<Ammo_23x152mmB_AP.description>Large caliber cartridge used by autocannons.</Ammo_23x152mmB_AP.description>
+	
+	<!-- EN: 23x152mmB (AP-I) -->
+	<Ammo_23x152mmB_Incendiary.label>23x152mmB (AP-I)</Ammo_23x152mmB_Incendiary.label>
+	<!-- EN: Large caliber cartridge used by autocannons. -->
+	<Ammo_23x152mmB_Incendiary.description>Large caliber cartridge used by autocannons.</Ammo_23x152mmB_Incendiary.description>
+	
+	<!-- EN: 23x152mmB (AP-HE) -->
+	<Ammo_23x152mmB_APHE.label>23x152mmB (AP-HE)</Ammo_23x152mmB_APHE.label>
+	<!-- EN: Large caliber cartridge used by autocannons. -->
+	<Ammo_23x152mmB_APHE.description>Large caliber cartridge used by autocannons.</Ammo_23x152mmB_APHE.description>
+	
+	<!-- EN: 23x152mmB (Sabot) -->
+	<Ammo_23x152mmB_Sabot.label>23x152mmB (Sabot)</Ammo_23x152mmB_Sabot.label>
+	<!-- EN: Large caliber cartridge used by autocannons. -->
+	<Ammo_23x152mmB_Sabot.description>Large caliber cartridge used by autocannons.</Ammo_23x152mmB_Sabot.description>
+	
+	<!-- EN: 23x152mmB bullet (AP) -->
+	<Bullet_23x152mmB_AP.label>23x152mmB bullet (AP)</Bullet_23x152mmB_AP.label>
+	
+	<!-- EN: 23x152mmB bullet (AP-I) -->
+	<Bullet_23x152mmB_Incendiary.label>23x152mmB bullet (AP-I)</Bullet_23x152mmB_Incendiary.label>
+	
+	<!-- EN: 23x152mmB bullet (AP-HE) -->
+	<Bullet_23x152mmB_APHE.label>23x152mmB bullet (AP-HE)</Bullet_23x152mmB_APHE.label>
+	
+	<!-- EN: 23x152mmB bullet (Sabot) -->
+	<Bullet_23x152mmB_Sabot.label>23x152mmB bullet (Sabot)</Bullet_23x152mmB_Sabot.label>
+</LanguageData>

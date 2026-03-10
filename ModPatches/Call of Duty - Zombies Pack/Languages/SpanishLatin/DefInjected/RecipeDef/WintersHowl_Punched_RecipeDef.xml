@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Winters\WintersHowl_Punched.xml -->
+	<!-- EN: make Winter's Fury cartridge x75 -->
+	<MakeAmmo_Winters_Cryo_Punched.label>make Winter's Fury cartridge x75</MakeAmmo_Winters_Cryo_Punched.label>
+	<!-- EN: Craft 75 Winter's Fury cartridges. -->
+	<MakeAmmo_Winters_Cryo_Punched.description>Craft 75 Winter's Fury cartridges.</MakeAmmo_Winters_Cryo_Punched.description>
+	<!-- EN: Making Winter's Fury cartridges. -->
+	<MakeAmmo_Winters_Cryo_Punched.jobString>Making Winter's Fury cartridges.</MakeAmmo_Winters_Cryo_Punched.jobString>
+</LanguageData>

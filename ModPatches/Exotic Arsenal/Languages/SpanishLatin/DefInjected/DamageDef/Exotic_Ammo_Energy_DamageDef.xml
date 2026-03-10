@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- ModPatches\Exotic Arsenal\Defs\Exotic Arsenal\Exotic_Ammo_Energy.xml -->
+	<!-- EN: prometheum flame -->
+	<ExoticFlame.label>prometheum flame</ExoticFlame.label>
+	<!-- EN: {0} has burned to death. -->
+	<ExoticFlame.deathMessage>{0} has burned to death.</ExoticFlame.deathMessage>
+</LanguageData>

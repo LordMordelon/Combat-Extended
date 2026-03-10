@@ -1,0 +1,128 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\neronix17_fr_content_dni\Melee_Dragon1166.xml -->
+	<!-- EN: handle -->
+	<O21_DNI_BasketHiltedSword.tools.0.label>handle</O21_DNI_BasketHiltedSword.tools.0.label>
+	<!-- EN: point -->
+	<O21_DNI_BasketHiltedSword.tools.1.label>point</O21_DNI_BasketHiltedSword.tools.1.label>
+	<!-- EN: edge -->
+	<O21_DNI_BasketHiltedSword.tools.2.label>edge</O21_DNI_BasketHiltedSword.tools.2.label>
+	
+	<!-- EN: handle -->
+	<O21_DNI_HalflangBroadsword.tools.0.label>handle</O21_DNI_HalflangBroadsword.tools.0.label>
+	<!-- EN: point -->
+	<O21_DNI_HalflangBroadsword.tools.1.label>point</O21_DNI_HalflangBroadsword.tools.1.label>
+	<!-- EN: edge -->
+	<O21_DNI_HalflangBroadsword.tools.2.label>edge</O21_DNI_HalflangBroadsword.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<O21_DNI_LochaberAxe.tools.0.label>shaft</O21_DNI_LochaberAxe.tools.0.label>
+	<!-- EN: edge -->
+	<O21_DNI_LochaberAxe.tools.1.label>edge</O21_DNI_LochaberAxe.tools.1.label>
+	<!-- EN: point -->
+	<O21_DNI_LochaberAxe.tools.2.label>point</O21_DNI_LochaberAxe.tools.2.label>
+	
+	<!-- EN: handle -->
+	<O21_DNI_SpikedMachete.tools.0.label>handle</O21_DNI_SpikedMachete.tools.0.label>
+	<!-- EN: edge -->
+	<O21_DNI_SpikedMachete.tools.1.label>edge</O21_DNI_SpikedMachete.tools.1.label>
+	
+	<!-- EN: handle -->
+	<O21_DNI_BallClubA.tools.0.label>handle</O21_DNI_BallClubA.tools.0.label>
+	<!-- EN: head -->
+	<O21_DNI_BallClubA.tools.1.label>head</O21_DNI_BallClubA.tools.1.label>
+	
+	<!-- EN: handle -->
+	<O21_DNI_SpadeTippedSword.tools.0.label>handle</O21_DNI_SpadeTippedSword.tools.0.label>
+	<!-- EN: point -->
+	<O21_DNI_SpadeTippedSword.tools.1.label>point</O21_DNI_SpadeTippedSword.tools.1.label>
+	<!-- EN: edge -->
+	<O21_DNI_SpadeTippedSword.tools.2.label>edge</O21_DNI_SpadeTippedSword.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<O21_DNI_JumonjiYari.tools.0.label>shaft</O21_DNI_JumonjiYari.tools.0.label>
+	<!-- EN: shaft -->
+	<O21_DNI_JumonjiYari.tools.1.label>shaft</O21_DNI_JumonjiYari.tools.1.label>
+	<!-- EN: head -->
+	<O21_DNI_JumonjiYari.tools.2.label>head</O21_DNI_JumonjiYari.tools.2.label>
+	<!-- EN: head -->
+	<O21_DNI_JumonjiYari.tools.3.label>head</O21_DNI_JumonjiYari.tools.3.label>
+	
+	<!-- EN: shaft -->
+	<O21_DNI_SuYari.tools.0.label>shaft</O21_DNI_SuYari.tools.0.label>
+	<!-- EN: shaft -->
+	<O21_DNI_SuYari.tools.1.label>shaft</O21_DNI_SuYari.tools.1.label>
+	<!-- EN: head -->
+	<O21_DNI_SuYari.tools.2.label>head</O21_DNI_SuYari.tools.2.label>
+	<!-- EN: head -->
+	<O21_DNI_SuYari.tools.3.label>head</O21_DNI_SuYari.tools.3.label>
+	
+	<!-- EN: handle -->
+	<O21_DNI_Tanto.tools.0.label>handle</O21_DNI_Tanto.tools.0.label>
+	<!-- EN: point -->
+	<O21_DNI_Tanto.tools.1.label>point</O21_DNI_Tanto.tools.1.label>
+	<!-- EN: edge -->
+	<O21_DNI_Tanto.tools.2.label>edge</O21_DNI_Tanto.tools.2.label>
+	
+	<!-- EN: handle -->
+	<O21_DNI_Ono.tools.0.label>handle</O21_DNI_Ono.tools.0.label>
+	<!-- EN: edge -->
+	<O21_DNI_Ono.tools.1.label>edge</O21_DNI_Ono.tools.1.label>
+	
+	<!-- EN: shaft -->
+	<O21_DNI_Naginata.tools.0.label>shaft</O21_DNI_Naginata.tools.0.label>
+	<!-- EN: point -->
+	<O21_DNI_Naginata.tools.1.label>point</O21_DNI_Naginata.tools.1.label>
+	<!-- EN: edge -->
+	<O21_DNI_Naginata.tools.2.label>edge</O21_DNI_Naginata.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<O21_DNI_Jitte.tools.0.label>shaft</O21_DNI_Jitte.tools.0.label>
+	<!-- EN: head -->
+	<O21_DNI_Jitte.tools.1.label>head</O21_DNI_Jitte.tools.1.label>
+	
+	<!-- EN: shaft -->
+	<O21_DNI_Ararebo.tools.0.label>shaft</O21_DNI_Ararebo.tools.0.label>
+	<!-- EN: head -->
+	<O21_DNI_Ararebo.tools.1.label>head</O21_DNI_Ararebo.tools.1.label>
+	
+	<!-- EN: handle -->
+	<O21_DNI_Kabutowari.tools.0.label>handle</O21_DNI_Kabutowari.tools.0.label>
+	<!-- EN: point -->
+	<O21_DNI_Kabutowari.tools.1.label>point</O21_DNI_Kabutowari.tools.1.label>
+	
+	<!-- EN: handle -->
+	<O21_DNI_Sai.tools.0.label>handle</O21_DNI_Sai.tools.0.label>
+	<!-- EN: point -->
+	<O21_DNI_Sai.tools.1.label>point</O21_DNI_Sai.tools.1.label>
+	
+	<!-- EN: edge -->
+	<O21_DNI_Masakari.tools.0.label>edge</O21_DNI_Masakari.tools.0.label>
+	<!-- EN: handle -->
+	<O21_DNI_Masakari.tools.1.label>handle</O21_DNI_Masakari.tools.1.label>
+	
+	<!-- EN: handle -->
+	<O21_DNI_Sasumata.tools.0.label>handle</O21_DNI_Sasumata.tools.0.label>
+	<!-- EN: head -->
+	<O21_DNI_Sasumata.tools.1.label>head</O21_DNI_Sasumata.tools.1.label>
+	
+	<!-- EN: handle -->
+	<O21_DNI_Katana.tools.0.label>handle</O21_DNI_Katana.tools.0.label>
+	<!-- EN: point -->
+	<O21_DNI_Katana.tools.1.label>point</O21_DNI_Katana.tools.1.label>
+	<!-- EN: edge -->
+	<O21_DNI_Katana.tools.2.label>edge</O21_DNI_Katana.tools.2.label>
+	
+	<!-- EN: handle -->
+	<O21_DNI_Nagamaki.tools.0.label>handle</O21_DNI_Nagamaki.tools.0.label>
+	<!-- EN: point -->
+	<O21_DNI_Nagamaki.tools.1.label>point</O21_DNI_Nagamaki.tools.1.label>
+	<!-- EN: edge -->
+	<O21_DNI_Nagamaki.tools.2.label>edge</O21_DNI_Nagamaki.tools.2.label>
+	
+	<!-- EN: handle -->
+	<O21_DNI_Odachi.tools.0.label>handle</O21_DNI_Odachi.tools.0.label>
+	<!-- EN: point -->
+	<O21_DNI_Odachi.tools.1.label>point</O21_DNI_Odachi.tools.1.label>
+	<!-- EN: edge -->
+	<O21_DNI_Odachi.tools.2.label>edge</O21_DNI_Odachi.tools.2.label>
+</LanguageData>

@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\Rimsenal Core\Defs\Rimsenal Core\Ammo_TE.xml -->
+	<!-- EN: TE Power Core -->
+	<AmmoSet_TEPowerCore.label>TE Power Core</AmmoSet_TEPowerCore.label>
+	<!-- EN: TE Power Charge -->
+	<AmmoSet_TEPowerCharge.label>TE Power Charge</AmmoSet_TEPowerCharge.label>
+	<!-- EN: TE Energy Canister -->
+	<AmmoSet_TEEnergyCanister.label>TE Energy Canister</AmmoSet_TEEnergyCanister.label>
+	<!-- EN: TE Concentrated Power Charge -->
+	<AmmoSet_TEConcentratedPowerCharge.label>TE Concentrated Power Charge</AmmoSet_TEConcentratedPowerCharge.label>
+</LanguageData>

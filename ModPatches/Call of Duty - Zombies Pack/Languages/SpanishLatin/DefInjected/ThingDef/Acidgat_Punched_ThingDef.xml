@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Blunders\Acidgat_Punched.xml -->
+	
+	<!-- EN: Vitriolic Withering shell (Buck) -->
+	<Ammo_Acidgat_Buck_Punched.label>Vitriolic Withering shell (Buck)</Ammo_Acidgat_Buck_Punched.label>
+	<!-- EN: A highly acidic chemical reaction. -->
+	<Ammo_Acidgat_Buck_Punched.description>A highly acidic chemical reaction.</Ammo_Acidgat_Buck_Punched.description>
+	
+	<!-- EN: Vitriolic Withering shell (Slug) -->
+	<Ammo_Acidgat_Slug_Punched.label>Vitriolic Withering shell (Slug)</Ammo_Acidgat_Slug_Punched.label>
+	<!-- EN: A highly acidic chemical reaction. -->
+	<Ammo_Acidgat_Slug_Punched.description>A highly acidic chemical reaction.</Ammo_Acidgat_Slug_Punched.description>
+	
+	<!-- EN: buckshot pellet -->
+	<Bullet_Acidgat_Buck_Punched.label>buckshot pellet</Bullet_Acidgat_Buck_Punched.label>
+	
+	<!-- EN: Slug shot -->
+	<Bullet_Acidgat_Slug_Punched.label>Slug shot</Bullet_Acidgat_Slug_Punched.label>
+</LanguageData>

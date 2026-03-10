@@ -1,0 +1,35 @@
+<LanguageData>
+	<!-- Defs\Ammo\Modded\Halo\8 Gauge.xml -->
+	
+	<!-- EN: Soellkraft 8 gauge shell (Buck) -->
+	<Ammo_8Gauge_Buck.label>Soellkraft 8 gauge shell (Buck)</Ammo_8Gauge_Buck.label>
+	<!-- EN: An uncommon, oversized shotgun shell used primarily in military application. -->
+	<Ammo_8Gauge_Buck.description>An uncommon, oversized shotgun shell used primarily in military application.</Ammo_8Gauge_Buck.description>
+	
+	<!-- EN: Soellkraft 8 gauge shell (Flechette) -->
+	<Ammo_8Gauge_Flechette.label>Soellkraft 8 gauge shell (Flechette)</Ammo_8Gauge_Flechette.label>
+	<!-- EN: An uncommon, oversized shotgun shell used primarily in military application. -->
+	<Ammo_8Gauge_Flechette.description>An uncommon, oversized shotgun shell used primarily in military application.</Ammo_8Gauge_Flechette.description>
+	
+	<!-- EN: Soellkraft 8 gauge shell (Slug) -->
+	<Ammo_8Gauge_Slug.label>Soellkraft 8 gauge shell (Slug)</Ammo_8Gauge_Slug.label>
+	<!-- EN: An uncommon, oversized shotgun shell used primarily in military application. -->
+	<Ammo_8Gauge_Slug.description>An uncommon, oversized shotgun shell used primarily in military application.</Ammo_8Gauge_Slug.description>
+	
+	<!-- EN: Soellkraft 8 gauge shell (EMP) -->
+	<Ammo_8Gauge_ElectroSlug.label>Soellkraft 8 gauge shell (EMP)</Ammo_8Gauge_ElectroSlug.label>
+	<!-- EN: An uncommon, oversized shotgun shell used primarily in military application. -->
+	<Ammo_8Gauge_ElectroSlug.description>An uncommon, oversized shotgun shell used primarily in military application.</Ammo_8Gauge_ElectroSlug.description>
+	
+	<!-- EN: buckshot pellet -->
+	<Bullet_8Gauge_Buck.label>buckshot pellet</Bullet_8Gauge_Buck.label>
+	
+	<!-- EN: Flechette -->
+	<Bullet_8Gauge_Flechette.label>Flechette</Bullet_8Gauge_Flechette.label>
+	
+	<!-- EN: shotgun slug -->
+	<Bullet_8Gauge_Slug.label>shotgun slug</Bullet_8Gauge_Slug.label>
+	
+	<!-- EN: EMP slug -->
+	<Bullet_8Gauge_ElectroSlug.label>EMP slug</Bullet_8Gauge_ElectroSlug.label>
+</LanguageData>

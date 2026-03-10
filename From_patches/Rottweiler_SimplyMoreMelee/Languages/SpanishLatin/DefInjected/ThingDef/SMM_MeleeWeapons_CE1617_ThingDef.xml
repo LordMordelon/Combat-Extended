@@ -1,0 +1,214 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Rottweiler_SimplyMoreMelee\SMM_MeleeWeapons_CE1617.xml -->
+	<!-- EN: handle -->
+	<SMM_Bardiche.tools.0.label>handle</SMM_Bardiche.tools.0.label>
+	<!-- EN: point -->
+	<SMM_Bardiche.tools.1.label>point</SMM_Bardiche.tools.1.label>
+	<!-- EN: edge -->
+	<SMM_Bardiche.tools.2.label>edge</SMM_Bardiche.tools.2.label>
+	
+	<!-- EN: handle -->
+	<SMM_Bat.tools.0.label>handle</SMM_Bat.tools.0.label>
+	<!-- EN: barrel -->
+	<SMM_Bat.tools.1.label>barrel</SMM_Bat.tools.1.label>
+	
+	<!-- EN: handle -->
+	<SMM_BatChained.tools.0.label>handle</SMM_BatChained.tools.0.label>
+	<!-- EN: barrel -->
+	<SMM_BatChained.tools.1.label>barrel</SMM_BatChained.tools.1.label>
+	
+	<!-- EN: handle -->
+	<SMM_BatSpiked.tools.0.label>handle</SMM_BatSpiked.tools.0.label>
+	<!-- EN: barrel -->
+	<SMM_BatSpiked.tools.1.label>barrel</SMM_BatSpiked.tools.1.label>
+	
+	<!-- EN: handle -->
+	<SMM_Baton.tools.0.label>handle</SMM_Baton.tools.0.label>
+	<!-- EN: head -->
+	<SMM_Baton.tools.1.label>head</SMM_Baton.tools.1.label>
+	
+	<!-- EN: handle -->
+	<SMM_Billhook.tools.0.label>handle</SMM_Billhook.tools.0.label>
+	<!-- EN: point -->
+	<SMM_Billhook.tools.1.label>point</SMM_Billhook.tools.1.label>
+	<!-- EN: edge -->
+	<SMM_Billhook.tools.2.label>edge</SMM_Billhook.tools.2.label>
+	
+	<!-- EN: handle -->
+	<SMM_Cleaver.tools.0.label>handle</SMM_Cleaver.tools.0.label>
+	<!-- EN: edge -->
+	<SMM_Cleaver.tools.1.label>edge</SMM_Cleaver.tools.1.label>
+	
+	<!-- EN: handle -->
+	<SMM_Crowbar.tools.0.label>handle</SMM_Crowbar.tools.0.label>
+	<!-- EN: head -->
+	<SMM_Crowbar.tools.1.label>head</SMM_Crowbar.tools.1.label>
+	
+	<!-- EN: handle -->
+	<SMM_Fireaxe.tools.0.label>handle</SMM_Fireaxe.tools.0.label>
+	<!-- EN: pick -->
+	<SMM_Fireaxe.tools.1.label>pick</SMM_Fireaxe.tools.1.label>
+	<!-- EN: edge -->
+	<SMM_Fireaxe.tools.2.label>edge</SMM_Fireaxe.tools.2.label>
+	
+	<!-- EN: handle -->
+	<SMM_Glaive.tools.0.label>handle</SMM_Glaive.tools.0.label>
+	<!-- EN: point -->
+	<SMM_Glaive.tools.1.label>point</SMM_Glaive.tools.1.label>
+	<!-- EN: edge -->
+	<SMM_Glaive.tools.2.label>edge</SMM_Glaive.tools.2.label>
+	
+	<!-- EN: handle -->
+	<SMM_Halberd.tools.0.label>handle</SMM_Halberd.tools.0.label>
+	<!-- EN: point -->
+	<SMM_Halberd.tools.1.label>point</SMM_Halberd.tools.1.label>
+	<!-- EN: edge -->
+	<SMM_Halberd.tools.2.label>edge</SMM_Halberd.tools.2.label>
+	
+	<!-- EN: handle -->
+	<SMM_Hatchet.tools.0.label>handle</SMM_Hatchet.tools.0.label>
+	<!-- EN: hammerhead -->
+	<SMM_Hatchet.tools.1.label>hammerhead</SMM_Hatchet.tools.1.label>
+	<!-- EN: edge -->
+	<SMM_Hatchet.tools.2.label>edge</SMM_Hatchet.tools.2.label>
+	
+	<!-- EN: handle -->
+	<SMM_Hooksword.tools.0.label>handle</SMM_Hooksword.tools.0.label>
+	<!-- EN: point -->
+	<SMM_Hooksword.tools.1.label>point</SMM_Hooksword.tools.1.label>
+	<!-- EN: edge -->
+	<SMM_Hooksword.tools.2.label>edge</SMM_Hooksword.tools.2.label>
+	
+	<!-- EN: knuckle -->
+	<SMM_Karambit.tools.0.label>knuckle</SMM_Karambit.tools.0.label>
+	<!-- EN: blade -->
+	<SMM_Karambit.tools.1.label>blade</SMM_Karambit.tools.1.label>
+	<!-- EN: point -->
+	<SMM_Karambit.tools.2.label>point</SMM_Karambit.tools.2.label>
+	
+	<!-- EN: handle -->
+	<SMM_Kukri.tools.0.label>handle</SMM_Kukri.tools.0.label>
+	<!-- EN: blade -->
+	<SMM_Kukri.tools.1.label>blade</SMM_Kukri.tools.1.label>
+	<!-- EN: point -->
+	<SMM_Kukri.tools.2.label>point</SMM_Kukri.tools.2.label>
+	
+	<!-- EN: handle -->
+	<SMM_Machete.tools.0.label>handle</SMM_Machete.tools.0.label>
+	<!-- EN: blade -->
+	<SMM_Machete.tools.1.label>blade</SMM_Machete.tools.1.label>
+	<!-- EN: point -->
+	<SMM_Machete.tools.2.label>point</SMM_Machete.tools.2.label>
+	
+	<!-- EN: handle -->
+	<SMM_Mallet.tools.0.label>handle</SMM_Mallet.tools.0.label>
+	<!-- EN: head -->
+	<SMM_Mallet.tools.1.label>head</SMM_Mallet.tools.1.label>
+	
+	<!-- EN: handle -->
+	<SMM_Maul.tools.0.label>handle</SMM_Maul.tools.0.label>
+	<!-- EN: sledge -->
+	<SMM_Maul.tools.1.label>sledge</SMM_Maul.tools.1.label>
+	<!-- EN: axe -->
+	<SMM_Maul.tools.2.label>axe</SMM_Maul.tools.2.label>
+	
+	<!-- EN: handle -->
+	<SMM_Pickaxe.tools.0.label>handle</SMM_Pickaxe.tools.0.label>
+	<!-- EN: head -->
+	<SMM_Pickaxe.tools.1.label>head</SMM_Pickaxe.tools.1.label>
+	
+	<!-- EN: handle -->
+	<SMM_Pitchfork.tools.0.label>handle</SMM_Pitchfork.tools.0.label>
+	<!-- EN: head -->
+	<SMM_Pitchfork.tools.1.label>head</SMM_Pitchfork.tools.1.label>
+	
+	<!-- EN: handle -->
+	<SMM_Pollaxe.tools.0.label>handle</SMM_Pollaxe.tools.0.label>
+	<!-- EN: point -->
+	<SMM_Pollaxe.tools.1.label>point</SMM_Pollaxe.tools.1.label>
+	<!-- EN: edge -->
+	<SMM_Pollaxe.tools.2.label>edge</SMM_Pollaxe.tools.2.label>
+	<!-- EN: hammer -->
+	<SMM_Pollaxe.tools.3.label>hammer</SMM_Pollaxe.tools.3.label>
+	
+	<!-- EN: handle -->
+	<SMM_Sickle.tools.0.label>handle</SMM_Sickle.tools.0.label>
+	<!-- EN: point -->
+	<SMM_Sickle.tools.1.label>point</SMM_Sickle.tools.1.label>
+	<!-- EN: edge -->
+	<SMM_Sickle.tools.2.label>edge</SMM_Sickle.tools.2.label>
+	
+	<!-- EN: handle -->
+	<SMM_Sledgehammer.tools.0.label>handle</SMM_Sledgehammer.tools.0.label>
+	<!-- EN: head -->
+	<SMM_Sledgehammer.tools.1.label>head</SMM_Sledgehammer.tools.1.label>
+	
+	<!-- EN: knuckle -->
+	<SMM_TrenchKnife.tools.0.label>knuckle</SMM_TrenchKnife.tools.0.label>
+	<!-- EN: blade -->
+	<SMM_TrenchKnife.tools.1.label>blade</SMM_TrenchKnife.tools.1.label>
+	<!-- EN: point -->
+	<SMM_TrenchKnife.tools.2.label>point</SMM_TrenchKnife.tools.2.label>
+	
+	<!-- EN: handle -->
+	<SMM_TrenchClub.tools.0.label>handle</SMM_TrenchClub.tools.0.label>
+	<!-- EN: head -->
+	<SMM_TrenchClub.tools.1.label>head</SMM_TrenchClub.tools.1.label>
+	
+	<!-- EN: handle -->
+	<SMM_Zweihander.tools.0.label>handle</SMM_Zweihander.tools.0.label>
+	<!-- EN: point -->
+	<SMM_Zweihander.tools.1.label>point</SMM_Zweihander.tools.1.label>
+	<!-- EN: edge -->
+	<SMM_Zweihander.tools.2.label>edge</SMM_Zweihander.tools.2.label>
+	
+	<!-- EN: handle -->
+	<SMM_Claymore.tools.0.label>handle</SMM_Claymore.tools.0.label>
+	<!-- EN: point -->
+	<SMM_Claymore.tools.1.label>point</SMM_Claymore.tools.1.label>
+	<!-- EN: edge -->
+	<SMM_Claymore.tools.2.label>edge</SMM_Claymore.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<SMM_Pike.tools.0.label>shaft</SMM_Pike.tools.0.label>
+	<!-- EN: point -->
+	<SMM_Pike.tools.1.label>point</SMM_Pike.tools.1.label>
+	
+	<!-- EN: handle -->
+	<SMM_Scythe.tools.0.label>handle</SMM_Scythe.tools.0.label>
+	<!-- EN: point -->
+	<SMM_Scythe.tools.1.label>point</SMM_Scythe.tools.1.label>
+	<!-- EN: edge -->
+	<SMM_Scythe.tools.2.label>edge</SMM_Scythe.tools.2.label>
+	
+	<!-- EN: handle -->
+	<SMM_Warclub.tools.0.label>handle</SMM_Warclub.tools.0.label>
+	<!-- EN: head -->
+	<SMM_Warclub.tools.1.label>head</SMM_Warclub.tools.1.label>
+	
+	<!-- EN: handle -->
+	<SMM_Dagger.tools.0.label>handle</SMM_Dagger.tools.0.label>
+	<!-- EN: blade -->
+	<SMM_Dagger.tools.1.label>blade</SMM_Dagger.tools.1.label>
+	<!-- EN: point -->
+	<SMM_Dagger.tools.2.label>point</SMM_Dagger.tools.2.label>
+	
+	<!-- EN: handle -->
+	<SMM_Quarterstaff.tools.0.label>handle</SMM_Quarterstaff.tools.0.label>
+	<!-- EN: head -->
+	<SMM_Quarterstaff.tools.1.label>head</SMM_Quarterstaff.tools.1.label>
+	
+	<!-- EN: handle -->
+	<SMM_Khopesh.tools.0.label>handle</SMM_Khopesh.tools.0.label>
+	<!-- EN: point -->
+	<SMM_Khopesh.tools.1.label>point</SMM_Khopesh.tools.1.label>
+	<!-- EN: edge -->
+	<SMM_Khopesh.tools.2.label>edge</SMM_Khopesh.tools.2.label>
+	
+	<!-- EN: handle -->
+	<SMM_Scimitar.tools.0.label>handle</SMM_Scimitar.tools.0.label>
+	<!-- EN: point -->
+	<SMM_Scimitar.tools.1.label>point</SMM_Scimitar.tools.1.label>
+	<!-- EN: edge -->
+	<SMM_Scimitar.tools.2.label>edge</SMM_Scimitar.tools.2.label>
+</LanguageData>

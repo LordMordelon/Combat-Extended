@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla Weapons Expanded - Coilguns\Defs\Vanilla Weapons Expanded - Coilguns\Ammo.xml -->
+	<!-- EN: gauss magnum shot -->
+	<Bullet_CoilGun_Magnum.label>gauss magnum shot</Bullet_CoilGun_Magnum.label>
+	<!-- EN: gauss rifle shot -->
+	<Bullet_CoilGun_Rifle.label>gauss rifle shot</Bullet_CoilGun_Rifle.label>
+	<!-- EN: gauss lance shot -->
+	<Bullet_CoilGun_Lance.label>gauss lance shot</Bullet_CoilGun_Lance.label>
+</LanguageData>

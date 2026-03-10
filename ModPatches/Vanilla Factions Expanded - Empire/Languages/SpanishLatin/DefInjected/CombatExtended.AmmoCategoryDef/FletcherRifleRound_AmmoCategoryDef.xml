@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla Factions Expanded - Empire\Defs\Vanilla Factions Expanded - Empire\Ammo\FletcherRifleRound.xml -->
+	<!-- EN: fletcher -->
+	<Fletcher.label>fletcher</Fletcher.label>
+	<!-- EN: Dissolves the target from the inside. Lethal to organics and almost useless against non-organics, such as mechanoids. -->
+	<Fletcher.description>Dissolves the target from the inside. Lethal to organics and almost useless against non-organics, such as mechanoids.</Fletcher.description>
+</LanguageData>

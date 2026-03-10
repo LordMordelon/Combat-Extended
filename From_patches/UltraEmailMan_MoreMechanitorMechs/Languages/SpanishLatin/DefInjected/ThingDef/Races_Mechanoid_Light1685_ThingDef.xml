@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\UltraEmailMan_MoreMechanitorMechs\Races_Mechanoid_Light1685.xml -->
+	<!-- EN: chef knife -->
+	<Mech_Gastromech.tools.0.label>chef knife</Mech_Gastromech.tools.0.label>
+	<!-- EN: chef knife -->
+	<Mech_Gastromech.tools.1.label>chef knife</Mech_Gastromech.tools.1.label>
+	<!-- EN: spatula -->
+	<Mech_Gastromech.tools.2.label>spatula</Mech_Gastromech.tools.2.label>
+	
+	<!-- EN: Left Pick -->
+	<Mech_Decorator.tools.0.label>Left Pick</Mech_Decorator.tools.0.label>
+	<!-- EN: Right Pick -->
+	<Mech_Decorator.tools.1.label>Right Pick</Mech_Decorator.tools.1.label>
+	
+	<!-- EN: Leg Spikes -->
+	<Mech_Scavoid.tools.0.label>Leg Spikes</Mech_Scavoid.tools.0.label>
+	<!-- EN: Leg Spikes -->
+	<Mech_Scavoid.tools.1.label>Leg Spikes</Mech_Scavoid.tools.1.label>
+</LanguageData>

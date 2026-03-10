@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Blunders\Blundergat_Punched.xml -->
+	
+	<!-- EN: Sweeper shell (Buck) -->
+	<Ammo_Blundergat_Buck_Punched.label>Sweeper shell (Buck)</Ammo_Blundergat_Buck_Punched.label>
+	<!-- EN: A tale from an bygone age. -->
+	<Ammo_Blundergat_Buck_Punched.description>A tale from an bygone age.</Ammo_Blundergat_Buck_Punched.description>
+	
+	<!-- EN: Sweeper shell (Slug) -->
+	<Ammo_Blundergat_Slug_Punched.label>Sweeper shell (Slug)</Ammo_Blundergat_Slug_Punched.label>
+	<!-- EN: A tale from an bygone age. -->
+	<Ammo_Blundergat_Slug_Punched.description>A tale from an bygone age.</Ammo_Blundergat_Slug_Punched.description>
+	
+	<!-- EN: buckshot pellet -->
+	<Bullet_Blundergat_Buck_Punched.label>buckshot pellet</Bullet_Blundergat_Buck_Punched.label>
+	
+	<!-- EN: Slug shot -->
+	<Bullet_Blundergat_Slug_Punched.label>Slug shot</Bullet_Blundergat_Slug_Punched.label>
+</LanguageData>

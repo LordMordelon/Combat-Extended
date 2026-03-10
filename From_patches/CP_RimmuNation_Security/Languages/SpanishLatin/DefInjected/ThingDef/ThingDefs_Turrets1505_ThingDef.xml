@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\CP_RimmuNation_Security\ThingDefs_Turrets1505.xml -->
+	<!-- EN: sentry shotgun turret -->
+	<RNTurret_SentryNLAR.label>sentry shotgun turret</RNTurret_SentryNLAR.label>
+	<!-- EN: A versatile turret capable of firing a variety of different munitions, including buckshot, EMP slugs, and non-lethal beanbag projectiles, though the bulky shells mean the ammo capacity is somewhat limited. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+	<RNTurret_SentryNLAR.description>A versatile turret capable of firing a variety of different munitions, including buckshot, EMP slugs, and non-lethal beanbag projectiles, though the bulky shells mean the ammo capacity is somewhat limited. Its dumb AI brain can't be directly controlled, so beware of friendly fire.</RNTurret_SentryNLAR.description>
+	<!-- EN: sentry shotgun -->
+	<RNGun_SentryNLAR.label>sentry shotgun</RNGun_SentryNLAR.label>
+	<!-- EN: ㅤ -->
+	<RNArtillery_SSMTurret.verbs.0.label>ㅤ</RNArtillery_SSMTurret.verbs.0.label>
+</LanguageData>

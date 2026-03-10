@@ -1,0 +1,26 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\DetVisor_EnergyWeapons\Guns_Defs680.XML -->
+	<!-- EN: stock -->
+	<Energy_Rifle.tools.0.label>stock</Energy_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Energy_Rifle.tools.1.label>barrel</Energy_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Energy_Rifle.tools.2.label>muzzle</Energy_Rifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Energy_PrecisionRifle.tools.0.label>stock</Energy_PrecisionRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Energy_PrecisionRifle.tools.1.label>barrel</Energy_PrecisionRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Energy_PrecisionRifle.tools.2.label>muzzle</Energy_PrecisionRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Energy_Gattler.tools.0.label>stock</Energy_Gattler.tools.0.label>
+	<!-- EN: barrel -->
+	<Energy_Gattler.tools.1.label>barrel</Energy_Gattler.tools.1.label>
+	<!-- EN: muzzle -->
+	<Energy_Gattler.tools.2.label>muzzle</Energy_Gattler.tools.2.label>
+	
+	<!-- EN: grip -->
+	<Energy_Revolver.tools.0.label>grip</Energy_Revolver.tools.0.label>
+</LanguageData>

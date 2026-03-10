@@ -1,0 +1,48 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\TheSimpleDude42_ToolsOPlenty\ToolsOPLentyPrimitveCE1675.xml -->
+	<!-- EN: handle -->
+	<Primitive_Knife.tools.0.label>handle</Primitive_Knife.tools.0.label>
+	<!-- EN: blade -->
+	<Primitive_Knife.tools.1.label>blade</Primitive_Knife.tools.1.label>
+	<!-- EN: point -->
+	<Primitive_Knife.tools.2.label>point</Primitive_Knife.tools.2.label>
+	
+	<!-- EN: handle -->
+	<Mortar_And_Pestle.tools.0.label>handle</Mortar_And_Pestle.tools.0.label>
+	<!-- EN: head -->
+	<Mortar_And_Pestle.tools.1.label>head</Mortar_And_Pestle.tools.1.label>
+	
+	<!-- EN: handle -->
+	<Mallet.tools.0.label>handle</Mallet.tools.0.label>
+	<!-- EN: head -->
+	<Mallet.tools.1.label>head</Mallet.tools.1.label>
+	
+	<!-- EN: handle -->
+	<Primitive_Pick.tools.0.label>handle</Primitive_Pick.tools.0.label>
+	<!-- EN: point -->
+	<Primitive_Pick.tools.1.label>point</Primitive_Pick.tools.1.label>
+	
+	<!-- EN: handle -->
+	<Primitive_Axe.tools.0.label>handle</Primitive_Axe.tools.0.label>
+	<!-- EN: edge -->
+	<Primitive_Axe.tools.1.label>edge</Primitive_Axe.tools.1.label>
+	
+	<!-- EN: handle -->
+	<Primitive_Tools_Set.tools.0.label>handle</Primitive_Tools_Set.tools.0.label>
+	<!-- EN: point -->
+	<Primitive_Tools_Set.tools.1.label>point</Primitive_Tools_Set.tools.1.label>
+	
+	<!-- EN: handle -->
+	<Parchment.tools.0.label>handle</Parchment.tools.0.label>
+	
+	<!-- EN: handle -->
+	<Sraw_Broom.tools.0.label>handle</Sraw_Broom.tools.0.label>
+	
+	<!-- EN: handle -->
+	<Primitive_Comb.tools.0.label>handle</Primitive_Comb.tools.0.label>
+	<!-- EN: point -->
+	<Primitive_Comb.tools.1.label>point</Primitive_Comb.tools.1.label>
+	
+	<!-- EN: handle -->
+	<Primitive_Bandage.tools.0.label>handle</Primitive_Bandage.tools.0.label>
+</LanguageData>

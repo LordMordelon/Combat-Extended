@@ -1,0 +1,32 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Mlie_CyberneticWarfare\CyberneticWarfare_Melee653.xml -->
+	<!-- EN: Pummel -->
+	<CW_PowerFist.tools.0.label>Pummel</CW_PowerFist.tools.0.label>
+	<!-- EN: Crush -->
+	<CW_PowerFist.tools.1.label>Crush</CW_PowerFist.tools.1.label>
+	<!-- EN: Knockback -->
+	<CW_PowerFist.tools.2.label>Knockback</CW_PowerFist.tools.2.label>
+	
+	<!-- EN: energy burst -->
+	<CW_EnergyClaw.tools.0.label>energy burst</CW_EnergyClaw.tools.0.label>
+	<!-- EN: blade -->
+	<CW_EnergyClaw.tools.1.label>blade</CW_EnergyClaw.tools.1.label>
+	<!-- EN: claw -->
+	<CW_EnergyClaw.tools.2.label>claw</CW_EnergyClaw.tools.2.label>
+	<!-- EN: sidestep stab -->
+	<CW_EnergyClaw.tools.3.label>sidestep stab</CW_EnergyClaw.tools.3.label>
+	
+	<!-- EN: handle -->
+	<CW_EnergySword.tools.0.label>handle</CW_EnergySword.tools.0.label>
+	<!-- EN: point -->
+	<CW_EnergySword.tools.1.label>point</CW_EnergySword.tools.1.label>
+	<!-- EN: edge -->
+	<CW_EnergySword.tools.2.label>edge</CW_EnergySword.tools.2.label>
+	
+	<!-- EN: Uppercut -->
+	<CW_ChainSword.tools.0.label>Uppercut</CW_ChainSword.tools.0.label>
+	<!-- EN: Shocker -->
+	<CW_ChainSword.tools.1.label>Shocker</CW_ChainSword.tools.1.label>
+	<!-- EN: Punch -->
+	<CW_ChainSword.tools.2.label>Punch</CW_ChainSword.tools.2.label>
+</LanguageData>

@@ -1,0 +1,51 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\CP_RimmuNation_Weapons\RNW_CE_Patch_RangedIndustrial_R_Bullpup_Style1516.xml -->
+	<!-- EN: stock -->
+	<RNGun_AUGA2AR.tools.0.label>stock</RNGun_AUGA2AR.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_AUGA2AR.tools.1.label>barrel</RNGun_AUGA2AR.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_AUGA2AR.tools.2.label>muzzle</RNGun_AUGA2AR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_AUGA3SDAR.tools.0.label>stock</RNGun_AUGA3SDAR.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_AUGA3SDAR.tools.1.label>barrel</RNGun_AUGA3SDAR.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_AUGA3SDAR.tools.2.label>muzzle</RNGun_AUGA3SDAR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_F2000AR.tools.0.label>stock</RNGun_F2000AR.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_F2000AR.tools.1.label>barrel</RNGun_F2000AR.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_F2000AR.tools.2.label>muzzle</RNGun_F2000AR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_FAMASAR.tools.0.label>stock</RNGun_FAMASAR.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_FAMASAR.tools.1.label>barrel</RNGun_FAMASAR.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_FAMASAR.tools.2.label>muzzle</RNGun_FAMASAR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_Groza4AR.tools.0.label>stock</RNGun_Groza4AR.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_Groza4AR.tools.1.label>barrel</RNGun_Groza4AR.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_Groza4AR.tools.2.label>muzzle</RNGun_Groza4AR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_L85A2MILSPEC.tools.0.label>stock</RNGun_L85A2MILSPEC.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_L85A2MILSPEC.tools.1.label>barrel</RNGun_L85A2MILSPEC.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_L85A2MILSPEC.tools.2.label>muzzle</RNGun_L85A2MILSPEC.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_Type97AR.tools.0.label>stock</RNGun_Type97AR.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_Type97AR.tools.1.label>barrel</RNGun_Type97AR.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_Type97AR.tools.2.label>muzzle</RNGun_Type97AR.tools.2.label>
+</LanguageData>

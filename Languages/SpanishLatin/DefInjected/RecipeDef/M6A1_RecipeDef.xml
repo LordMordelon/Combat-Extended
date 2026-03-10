@@ -1,0 +1,10 @@
+<LanguageData>
+	<!-- Defs\Ammo\Rocket\M6A1.xml -->
+	
+	<!-- EN: make M6A1 (HEAT) rockets x5 -->
+	<MakeAmmo_M6A1_HEAT.label>make M6A1 (HEAT) rockets x5</MakeAmmo_M6A1_HEAT.label>
+	<!-- EN: Craft 5 M6A1 (HEAT) rockets. -->
+	<MakeAmmo_M6A1_HEAT.description>Craft 5 M6A1 (HEAT) rockets.</MakeAmmo_M6A1_HEAT.description>
+	<!-- EN: Making M6A1 (HEAT) rockets. -->
+	<MakeAmmo_M6A1_HEAT.jobString>Making M6A1 (HEAT) rockets.</MakeAmmo_M6A1_HEAT.jobString>
+</LanguageData>

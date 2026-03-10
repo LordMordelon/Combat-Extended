@@ -1,0 +1,64 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\RH2_Faction_Gruppa_Krovi\Weapons_Gruppa_Krovi1284.xml -->
+	<!-- EN: stock -->
+	<RNGun_PKP_GPMG.tools.0.label>stock</RNGun_PKP_GPMG.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_PKP_GPMG.tools.1.label>barrel</RNGun_PKP_GPMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_PKP_GPMG.tools.2.label>muzzle</RNGun_PKP_GPMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_GSHG762_RotaryCannon.tools.0.label>stock</RNGun_GSHG762_RotaryCannon.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_GSHG762_RotaryCannon.tools.1.label>barrel</RNGun_GSHG762_RotaryCannon.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_GSHG762_RotaryCannon.tools.2.label>muzzle</RNGun_GSHG762_RotaryCannon.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_AK12_Rifle.tools.0.label>stock</RNGun_AK12_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_AK12_Rifle.tools.1.label>barrel</RNGun_AK12_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_AK12_Rifle.tools.2.label>muzzle</RNGun_AK12_Rifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_AK105_Rifle.tools.0.label>stock</RNGun_AK105_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_AK105_Rifle.tools.1.label>barrel</RNGun_AK105_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_AK105_Rifle.tools.2.label>muzzle</RNGun_AK105_Rifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_AK74Contractor_Rifle.tools.0.label>stock</RNGun_AK74Contractor_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_AK74Contractor_Rifle.tools.1.label>barrel</RNGun_AK74Contractor_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_AK74Contractor_Rifle.tools.2.label>muzzle</RNGun_AK74Contractor_Rifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_ASVALContractor_Rifle.tools.0.label>stock</RNGun_ASVALContractor_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_ASVALContractor_Rifle.tools.1.label>barrel</RNGun_ASVALContractor_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_ASVALContractor_Rifle.tools.2.label>muzzle</RNGun_ASVALContractor_Rifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_DragunovSVDS_DMR.tools.0.label>stock</RNGun_DragunovSVDS_DMR.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_DragunovSVDS_DMR.tools.1.label>barrel</RNGun_DragunovSVDS_DMR.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_DragunovSVDS_DMR.tools.2.label>muzzle</RNGun_DragunovSVDS_DMR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_KSVK_AMR.tools.0.label>stock</RNGun_KSVK_AMR.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_KSVK_AMR.tools.1.label>barrel</RNGun_KSVK_AMR.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_KSVK_AMR.tools.2.label>muzzle</RNGun_KSVK_AMR.tools.2.label>
+	
+	<!-- EN: barrel -->
+	<RNGun_RPG7V2_RocketLauncher.tools.0.label>barrel</RNGun_RPG7V2_RocketLauncher.tools.0.label>
+	
+	<!-- EN: neck -->
+	<RH2_DragonVodka.tools.1.label>neck</RH2_DragonVodka.tools.1.label>
+</LanguageData>

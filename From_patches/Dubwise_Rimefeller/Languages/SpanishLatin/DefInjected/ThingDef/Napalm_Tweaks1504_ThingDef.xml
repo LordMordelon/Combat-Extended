@@ -1,0 +1,18 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Dubwise_Rimefeller\Napalm_Tweaks1504.xml -->
+	
+	<!-- EN: Prometheum Refiner -->
+	<NapalmRefiner.label>Prometheum Refiner</NapalmRefiner.label>
+	<!-- EN: Processes chemfuel into prometheum, a military-grade incendiary agent which ignites on contact with oxygen. The raw resource is used to craft incendiary ammo of all kinds. -->
+	<NapalmRefiner.description>Processes chemfuel into prometheum, a military-grade incendiary agent which ignites on contact with oxygen. The raw resource is used to craft incendiary ammo of all kinds.</NapalmRefiner.description>
+	
+	<!-- EN: Chemfuel trail -->
+	<Filth_NapalmTrail.label>Chemfuel trail</Filth_NapalmTrail.label>
+	<!-- EN: Chemfuel trail -->
+	<Filth_NapalmTrail.description>Chemfuel trail</Filth_NapalmTrail.description>
+	
+	<!-- EN: Prometheum bomb -->
+	<NapalmBomb.label>Prometheum bomb</NapalmBomb.label>
+	<!-- EN: Prometheum bomb -->
+	<NapalmBomb.description>Prometheum bomb</NapalmBomb.description>
+</LanguageData>

@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\rooboid_satyrfaun_expanded_tug_SatyrFaun_Expanded\SatyrFaun_Weapons_Ranged1576.xml -->
+	<!-- EN: shaft -->
+	<RBSFE_AnimaRod.tools.0.label>shaft</RBSFE_AnimaRod.tools.0.label>
+	<!-- EN: anima blast -->
+	<RBSFE_AnimaRod.verbs.0.label>anima blast</RBSFE_AnimaRod.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<RBSFE_AnimaRod.verbs.Verb_LaunchProjectile.label>ㅤ</RBSFE_AnimaRod.verbs.Verb_LaunchProjectile.label>
+</LanguageData>

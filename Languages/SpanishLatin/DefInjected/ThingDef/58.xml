@@ -1,0 +1,174 @@
+<LanguageData>
+	<!-- Defs\Ammo\HighCaliber\7.92x94mm Patronen.xml -->
+	
+	<!-- EN: 7.92x94mm Patronen (FMJ) -->
+	<Ammo_792x94mmPatronen_FMJ.label>7.92x94mm Patronen (FMJ)</Ammo_792x94mmPatronen_FMJ.label>
+	<!-- EN: Old-school anti-tank cartridge originally designed for AT rifles. -->
+	<Ammo_792x94mmPatronen_FMJ.description>Old-school anti-tank cartridge originally designed for AT rifles.</Ammo_792x94mmPatronen_FMJ.description>
+	
+	<!-- EN: 7.92x94mm Patronen (AP) -->
+	<Ammo_792x94mmPatronen_AP.label>7.92x94mm Patronen (AP)</Ammo_792x94mmPatronen_AP.label>
+	<!-- EN: Old-school anti-tank cartridge originally designed for AT rifles. -->
+	<Ammo_792x94mmPatronen_AP.description>Old-school anti-tank cartridge originally designed for AT rifles.</Ammo_792x94mmPatronen_AP.description>
+	
+	<!-- EN: 7.92x94mm Patronen (AP-I) -->
+	<Ammo_792x94mmPatronen_Incendiary.label>7.92x94mm Patronen (AP-I)</Ammo_792x94mmPatronen_Incendiary.label>
+	<!-- EN: Old-school anti-tank cartridge originally designed for AT rifles. -->
+	<Ammo_792x94mmPatronen_Incendiary.description>Old-school anti-tank cartridge originally designed for AT rifles.</Ammo_792x94mmPatronen_Incendiary.description>
+	
+	<!-- EN: 7.92x94mm Patronen (AP-HE) -->
+	<Ammo_792x94mmPatronen_HE.label>7.92x94mm Patronen (AP-HE)</Ammo_792x94mmPatronen_HE.label>
+	<!-- EN: Old-school anti-tank cartridge originally designed for AT rifles. -->
+	<Ammo_792x94mmPatronen_HE.description>Old-school anti-tank cartridge originally designed for AT rifles.</Ammo_792x94mmPatronen_HE.description>
+	
+	<!-- EN: 7.92x94mm Patronen (Sabot) -->
+	<Ammo_792x94mmPatronen_Sabot.label>7.92x94mm Patronen (Sabot)</Ammo_792x94mmPatronen_Sabot.label>
+	<!-- EN: Old-school anti-tank cartridge originally designed for AT rifles. -->
+	<Ammo_792x94mmPatronen_Sabot.description>Old-school anti-tank cartridge originally designed for AT rifles.</Ammo_792x94mmPatronen_Sabot.description>
+	
+	<!-- EN: 7.92x94mm Patronen bullet (FMJ) -->
+	<Bullet_792x94mmPatronen_FMJ.label>7.92x94mm Patronen bullet (FMJ)</Bullet_792x94mmPatronen_FMJ.label>
+	
+	<!-- EN: 7.92x94mm Patronen bullet (AP) -->
+	<Bullet_792x94mmPatronen_AP.label>7.92x94mm Patronen bullet (AP)</Bullet_792x94mmPatronen_AP.label>
+	
+	<!-- EN: 7.92x94mm Patronen bullet (AP-I) -->
+	<Bullet_792x94mmPatronen_Incendiary.label>7.92x94mm Patronen bullet (AP-I)</Bullet_792x94mmPatronen_Incendiary.label>
+	
+	<!-- EN: 7.92x94mm Patronen bullet (AP-HE) -->
+	<Bullet_792x94mmPatronen_HE.label>7.92x94mm Patronen bullet (AP-HE)</Bullet_792x94mmPatronen_HE.label>
+	
+	<!-- EN: 7.92x94mm Patronen bullet (Sabot) -->
+	<Bullet_792x94mmPatronen_Sabot.label>7.92x94mm Patronen bullet (Sabot)</Bullet_792x94mmPatronen_Sabot.label>
+	<!-- Defs\Ammo\Modded\Halo\7.62x51mmUNSC.xml -->
+	<!-- EN: 7.62x51mm UNSC cartridge (FMJ) -->
+	<Ammo_762x51mmUNSC_FMJ.label>7.62x51mm UNSC cartridge (FMJ)</Ammo_762x51mmUNSC_FMJ.label>
+	<!-- EN: An improved version of the ancient 7.62x51mm cartridge, featuring a hardened penetrator and better propellent to counter advancements in body armour. A tiny amount of stopping power is sacrificed to achieve this superior penetrative capability. It is used by a large number of UNSC weaponry. -->
+	<Ammo_762x51mmUNSC_FMJ.description>An improved version of the ancient 7.62x51mm cartridge, featuring a hardened penetrator and better propellent to counter advancements in body armour. A tiny amount of stopping power is sacrificed to achieve this superior penetrative capability. It is used by a large number of UNSC weaponry.</Ammo_762x51mmUNSC_FMJ.description>
+	<!-- EN: 7.62x51mm UNSC cartridge (AP) -->
+	<Ammo_762x51mmUNSC_AP.label>7.62x51mm UNSC cartridge (AP)</Ammo_762x51mmUNSC_AP.label>
+	<!-- EN: An improved version of the ancient 7.62x51mm cartridge, featuring a hardened penetrator and better propellent to counter advancements in body armour. A tiny amount of stopping power is sacrificed to achieve this superior penetrative capability. It is used by a large number of UNSC weaponry. -->
+	<Ammo_762x51mmUNSC_AP.description>An improved version of the ancient 7.62x51mm cartridge, featuring a hardened penetrator and better propellent to counter advancements in body armour. A tiny amount of stopping power is sacrificed to achieve this superior penetrative capability. It is used by a large number of UNSC weaponry.</Ammo_762x51mmUNSC_AP.description>
+	<!-- EN: 7.62x51mm UNSC cartridge (HP) -->
+	<Ammo_762x51mmUNSC_HP.label>7.62x51mm UNSC cartridge (HP)</Ammo_762x51mmUNSC_HP.label>
+	<!-- EN: An improved version of the ancient 7.62x51mm cartridge, featuring a hardened penetrator and better propellent to counter advancements in body armour. A tiny amount of stopping power is sacrificed to achieve this superior penetrative capability. It is used by a large number of UNSC weaponry. -->
+	<Ammo_762x51mmUNSC_HP.description>An improved version of the ancient 7.62x51mm cartridge, featuring a hardened penetrator and better propellent to counter advancements in body armour. A tiny amount of stopping power is sacrificed to achieve this superior penetrative capability. It is used by a large number of UNSC weaponry.</Ammo_762x51mmUNSC_HP.description>
+	<!-- EN: 7.62x51mm UNSC cartridge (Shredder) -->
+	<Ammo_762x51mmUNSC_Shredder.label>7.62x51mm UNSC cartridge (Shredder)</Ammo_762x51mmUNSC_Shredder.label>
+	<!-- EN: An improved version of the ancient 7.62x51mm cartridge, featuring a hardened penetrator and better propellent to counter advancements in body armour. A tiny amount of stopping power is sacrificed to achieve this superior penetrative capability. It is used by a large number of UNSC weaponry. -->
+	<Ammo_762x51mmUNSC_Shredder.description>An improved version of the ancient 7.62x51mm cartridge, featuring a hardened penetrator and better propellent to counter advancements in body armour. A tiny amount of stopping power is sacrificed to achieve this superior penetrative capability. It is used by a large number of UNSC weaponry.</Ammo_762x51mmUNSC_Shredder.description>
+	<!-- EN: 7.62x51mm UNSC cartridge (AP-I) -->
+	<Ammo_762x51mmUNSC_Incendiary.label>7.62x51mm UNSC cartridge (AP-I)</Ammo_762x51mmUNSC_Incendiary.label>
+	<!-- EN: An improved version of the ancient 7.62x51mm cartridge, featuring a hardened penetrator and better propellent to counter advancements in body armour. A tiny amount of stopping power is sacrificed to achieve this superior penetrative capability. It is used by a large number of UNSC weaponry. -->
+	<Ammo_762x51mmUNSC_Incendiary.description>An improved version of the ancient 7.62x51mm cartridge, featuring a hardened penetrator and better propellent to counter advancements in body armour. A tiny amount of stopping power is sacrificed to achieve this superior penetrative capability. It is used by a large number of UNSC weaponry.</Ammo_762x51mmUNSC_Incendiary.description>
+	<!-- EN: 7.62x51mm UNSC cartridge (HEDP) -->
+	<Ammo_762x51mmUNSC_HE.label>7.62x51mm UNSC cartridge (HEDP)</Ammo_762x51mmUNSC_HE.label>
+	<!-- EN: An improved version of the ancient 7.62x51mm cartridge, featuring a hardened penetrator and better propellent to counter advancements in body armour. A tiny amount of stopping power is sacrificed to achieve this superior penetrative capability. It is used by a large number of UNSC weaponry. -->
+	<Ammo_762x51mmUNSC_HE.description>An improved version of the ancient 7.62x51mm cartridge, featuring a hardened penetrator and better propellent to counter advancements in body armour. A tiny amount of stopping power is sacrificed to achieve this superior penetrative capability. It is used by a large number of UNSC weaponry.</Ammo_762x51mmUNSC_HE.description>
+	<!-- EN: 7.62x51mm UNSC cartridge (Sabot) -->
+	<Ammo_762x51mmUNSC_Sabot.label>7.62x51mm UNSC cartridge (Sabot)</Ammo_762x51mmUNSC_Sabot.label>
+	<!-- EN: An improved version of the ancient 7.62x51mm cartridge, featuring a hardened penetrator and better propellent to counter advancements in body armour. A tiny amount of stopping power is sacrificed to achieve this superior penetrative capability. It is used by a large number of UNSC weaponry. -->
+	<Ammo_762x51mmUNSC_Sabot.description>An improved version of the ancient 7.62x51mm cartridge, featuring a hardened penetrator and better propellent to counter advancements in body armour. A tiny amount of stopping power is sacrificed to achieve this superior penetrative capability. It is used by a large number of UNSC weaponry.</Ammo_762x51mmUNSC_Sabot.description>
+	<!-- EN: 7.62mm UNSC bullet (FMJ) -->
+	<Bullet_762x51mmUNSC_FMJ.label>7.62mm UNSC bullet (FMJ)</Bullet_762x51mmUNSC_FMJ.label>
+	<!-- EN: 7.62mm UNSC bullet (AP) -->
+	<Bullet_762x51mmUNSC_AP.label>7.62mm UNSC bullet (AP)</Bullet_762x51mmUNSC_AP.label>
+	<!-- EN: 7.62mm UNSC bullet (HP) -->
+	<Bullet_762x51mmUNSC_HP.label>7.62mm UNSC bullet (HP)</Bullet_762x51mmUNSC_HP.label>
+	<!-- EN: 7.62mm UNSC bullet (Shredder) -->
+	<Bullet_762x51mmUNSC_Shredder.label>7.62mm UNSC bullet (Shredder)</Bullet_762x51mmUNSC_Shredder.label>
+	<!-- EN: 7.62mm UNSC bullet (AP-I) -->
+	<Bullet_762x51mmUNSC_Incendiary.label>7.62mm UNSC bullet (AP-I)</Bullet_762x51mmUNSC_Incendiary.label>
+	<!-- EN: 7.62mm UNSC bullet (HEDP) -->
+	<Bullet_762x51mmUNSC_HE.label>7.62mm UNSC bullet (HEDP)</Bullet_762x51mmUNSC_HE.label>
+	<!-- EN: 7.62mm UNSC bullet (Sabot) -->
+	<Bullet_762x51mmUNSC_Sabot.label>7.62mm UNSC bullet (Sabot)</Bullet_762x51mmUNSC_Sabot.label>
+	<!-- EN: 7.62mm UNSC bullet (FMJ) -->
+	<Bullet_762x51mmUNSC_FMJ_DMR.label>7.62mm UNSC bullet (FMJ)</Bullet_762x51mmUNSC_FMJ_DMR.label>
+	<!-- EN: 7.62mm UNSC bullet (AP) -->
+	<Bullet_762x51mmUNSC_AP_DMR.label>7.62mm UNSC bullet (AP)</Bullet_762x51mmUNSC_AP_DMR.label>
+	<!-- EN: 7.62mm UNSC bullet (HP) -->
+	<Bullet_762x51mmUNSC_HP_DMR.label>7.62mm UNSC bullet (HP)</Bullet_762x51mmUNSC_HP_DMR.label>
+	<!-- EN: 7.62mm UNSC bullet (Shredder) -->
+	<Bullet_762x51mmUNSC_Shredder_DMR.label>7.62mm UNSC bullet (Shredder)</Bullet_762x51mmUNSC_Shredder_DMR.label>
+	<!-- EN: 7.62mm UNSC bullet (AP-I) -->
+	<Bullet_762x51mmUNSC_Incendiary_DMR.label>7.62mm UNSC bullet (AP-I)</Bullet_762x51mmUNSC_Incendiary_DMR.label>
+	<!-- EN: 7.62mm UNSC bullet (HEDP) -->
+	<Bullet_762x51mmUNSC_HE_DMR.label>7.62mm UNSC bullet (HEDP)</Bullet_762x51mmUNSC_HE_DMR.label>
+	<!-- EN: 7.62mm UNSC bullet (Sabot) -->
+	<Bullet_762x51mmUNSC_Sabot_DMR.label>7.62mm UNSC bullet (Sabot)</Bullet_762x51mmUNSC_Sabot_DMR.label>
+	<!-- Defs\Ammo\Pistols\7.5FK.xml -->
+	
+	<!-- EN: 7.5 FK (FMJ) -->
+	<Ammo_75FK_FMJ.label>7.5 FK (FMJ)</Ammo_75FK_FMJ.label>
+	<!-- EN: A high-velocity bottlenecked handgun cartridge capable of penetrating lightly armored targets. -->
+	<Ammo_75FK_FMJ.description>A high-velocity bottlenecked handgun cartridge capable of penetrating lightly armored targets.</Ammo_75FK_FMJ.description>
+	
+	<!-- EN: 7.5 FK (AP) -->
+	<Ammo_75FK_AP.label>7.5 FK (AP)</Ammo_75FK_AP.label>
+	<!-- EN: A high-velocity bottlenecked handgun cartridge capable of penetrating lightly armored targets. -->
+	<Ammo_75FK_AP.description>A high-velocity bottlenecked handgun cartridge capable of penetrating lightly armored targets.</Ammo_75FK_AP.description>
+	
+	<!-- EN: 7.5 FK (HP) -->
+	<Ammo_75FK_HP.label>7.5 FK (HP)</Ammo_75FK_HP.label>
+	<!-- EN: A high-velocity bottlenecked handgun cartridge capable of penetrating lightly armored targets. -->
+	<Ammo_75FK_HP.description>A high-velocity bottlenecked handgun cartridge capable of penetrating lightly armored targets.</Ammo_75FK_HP.description>
+	
+	<!-- EN: 7.5 FK bullet (FMJ) -->
+	<Bullet_75FK_FMJ.label>7.5 FK bullet (FMJ)</Bullet_75FK_FMJ.label>
+	
+	<!-- EN: 7.5 FK bullet (AP) -->
+	<Bullet_75FK_AP.label>7.5 FK bullet (AP)</Bullet_75FK_AP.label>
+	
+	<!-- EN: 7.5 FK bullet (HP) -->
+	<Bullet_75FK_HP.label>7.5 FK bullet (HP)</Bullet_75FK_HP.label>
+	<!-- Defs\Ammo\Rifle\7.92x57mmMauser.xml -->
+	
+	<!-- EN: 7.92x57mm Mauser (FMJ) -->
+	<Ammo_792x57mmMauser_FMJ.label>7.92x57mm Mauser (FMJ)</Ammo_792x57mmMauser_FMJ.label>
+	<!-- EN: Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle. -->
+	<Ammo_792x57mmMauser_FMJ.description>Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle.</Ammo_792x57mmMauser_FMJ.description>
+	
+	<!-- EN: 7.92x57mm Mauser (AP) -->
+	<Ammo_792x57mmMauser_AP.label>7.92x57mm Mauser (AP)</Ammo_792x57mmMauser_AP.label>
+	<!-- EN: Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle. -->
+	<Ammo_792x57mmMauser_AP.description>Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle.</Ammo_792x57mmMauser_AP.description>
+	
+	<!-- EN: 7.92x57mm Mauser (HP) -->
+	<Ammo_792x57mmMauser_HP.label>7.92x57mm Mauser (HP)</Ammo_792x57mmMauser_HP.label>
+	<!-- EN: Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle. -->
+	<Ammo_792x57mmMauser_HP.description>Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle.</Ammo_792x57mmMauser_HP.description>
+	
+	<!-- EN: 7.92x57mm Mauser (AP-I) -->
+	<Ammo_792x57mmMauser_Incendiary.label>7.92x57mm Mauser (AP-I)</Ammo_792x57mmMauser_Incendiary.label>
+	<!-- EN: Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle. -->
+	<Ammo_792x57mmMauser_Incendiary.description>Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle.</Ammo_792x57mmMauser_Incendiary.description>
+	
+	<!-- EN: 7.92x57mm Mauser (AP-HE) -->
+	<Ammo_792x57mmMauser_HE.label>7.92x57mm Mauser (AP-HE)</Ammo_792x57mmMauser_HE.label>
+	<!-- EN: Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle. -->
+	<Ammo_792x57mmMauser_HE.description>Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle.</Ammo_792x57mmMauser_HE.description>
+	
+	<!-- EN: 7.92x57mm Mauser (Sabot) -->
+	<Ammo_792x57mmMauser_Sabot.label>7.92x57mm Mauser (Sabot)</Ammo_792x57mmMauser_Sabot.label>
+	<!-- EN: Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle. -->
+	<Ammo_792x57mmMauser_Sabot.description>Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle.</Ammo_792x57mmMauser_Sabot.description>
+	
+	<!-- EN: 7.92mm Mauser bullet (FMJ) -->
+	<Bullet_792x57mmMauser_FMJ.label>7.92mm Mauser bullet (FMJ)</Bullet_792x57mmMauser_FMJ.label>
+	
+	<!-- EN: 7.92mm Mauser bullet (AP) -->
+	<Bullet_792x57mmMauser_AP.label>7.92mm Mauser bullet (AP)</Bullet_792x57mmMauser_AP.label>
+	
+	<!-- EN: 7.92mm Mauser bullet (HP) -->
+	<Bullet_792x57mmMauser_HP.label>7.92mm Mauser bullet (HP)</Bullet_792x57mmMauser_HP.label>
+	
+	<!-- EN: 7.92x57mm Mauser bullet (AP-I) -->
+	<Bullet_792x57mmMauser_Incendiary.label>7.92x57mm Mauser bullet (AP-I)</Bullet_792x57mmMauser_Incendiary.label>
+	
+	<!-- EN: 7.92x57mm Mauser bullet (AP-HE) -->
+	<Bullet_792x57mmMauser_HE.label>7.92x57mm Mauser bullet (AP-HE)</Bullet_792x57mmMauser_HE.label>
+	
+	<!-- EN: 7.92x57mm Mauser bullet (Sabot) -->
+	<Bullet_792x57mmMauser_Sabot.label>7.92x57mm Mauser bullet (Sabot)</Bullet_792x57mmMauser_Sabot.label>
+</LanguageData>

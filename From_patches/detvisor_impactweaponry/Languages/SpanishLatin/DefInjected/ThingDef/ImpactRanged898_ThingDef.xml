@@ -1,0 +1,35 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\detvisor_impactweaponry\ImpactRanged898.xml -->
+	<!-- EN: grip -->
+	<DV_ImpactStubber.tools.0.label>grip</DV_ImpactStubber.tools.0.label>
+	<!-- EN: muzzle -->
+	<DV_ImpactStubber.tools.1.label>muzzle</DV_ImpactStubber.tools.1.label>
+	
+	<!-- EN: stock -->
+	<DV_ImpactRifle.tools.0.label>stock</DV_ImpactRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<DV_ImpactRifle.tools.1.label>barrel</DV_ImpactRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<DV_ImpactRifle.tools.2.label>muzzle</DV_ImpactRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<DV_ImpactCannon.tools.0.label>stock</DV_ImpactCannon.tools.0.label>
+	<!-- EN: barrel -->
+	<DV_ImpactCannon.tools.1.label>barrel</DV_ImpactCannon.tools.1.label>
+	<!-- EN: muzzle -->
+	<DV_ImpactCannon.tools.2.label>muzzle</DV_ImpactCannon.tools.2.label>
+	
+	<!-- EN: stock -->
+	<DV_ImpactSlinger.tools.0.label>stock</DV_ImpactSlinger.tools.0.label>
+	<!-- EN: barrel -->
+	<DV_ImpactSlinger.tools.1.label>barrel</DV_ImpactSlinger.tools.1.label>
+	<!-- EN: muzzle -->
+	<DV_ImpactSlinger.tools.2.label>muzzle</DV_ImpactSlinger.tools.2.label>
+	
+	<!-- EN: stock -->
+	<DV_ImpactSniper.tools.0.label>stock</DV_ImpactSniper.tools.0.label>
+	<!-- EN: barrel -->
+	<DV_ImpactSniper.tools.1.label>barrel</DV_ImpactSniper.tools.1.label>
+	<!-- EN: muzzle -->
+	<DV_ImpactSniper.tools.2.label>muzzle</DV_ImpactSniper.tools.2.label>
+</LanguageData>

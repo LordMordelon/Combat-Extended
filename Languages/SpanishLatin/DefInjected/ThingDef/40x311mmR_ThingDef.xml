@@ -1,0 +1,35 @@
+<LanguageData>
+	<!-- Defs\Ammo\HighCaliber\40x311mmR.xml -->
+	
+	<!-- EN: 40x311mmR (AP) -->
+	<Ammo_40x311mmR_AP.label>40x311mmR (AP)</Ammo_40x311mmR_AP.label>
+	<!-- EN: Large caliber cartridge used by autocannons. -->
+	<Ammo_40x311mmR_AP.description>Large caliber cartridge used by autocannons.</Ammo_40x311mmR_AP.description>
+	
+	<!-- EN: 40x311mmR (AP-I) -->
+	<Ammo_40x311mmR_Incendiary.label>40x311mmR (AP-I)</Ammo_40x311mmR_Incendiary.label>
+	<!-- EN: Large caliber cartridge used by autocannons. -->
+	<Ammo_40x311mmR_Incendiary.description>Large caliber cartridge used by autocannons.</Ammo_40x311mmR_Incendiary.description>
+	
+	<!-- EN: 40x311mmR (AP-HE) -->
+	<Ammo_40x311mmR_HE.label>40x311mmR (AP-HE)</Ammo_40x311mmR_HE.label>
+	<!-- EN: Large caliber cartridge used by autocannons. -->
+	<Ammo_40x311mmR_HE.description>Large caliber cartridge used by autocannons.</Ammo_40x311mmR_HE.description>
+	
+	<!-- EN: 40x311mmR (Sabot) -->
+	<Ammo_40x311mmR_Sabot.label>40x311mmR (Sabot)</Ammo_40x311mmR_Sabot.label>
+	<!-- EN: Large caliber cartridge used by autocannons. -->
+	<Ammo_40x311mmR_Sabot.description>Large caliber cartridge used by autocannons.</Ammo_40x311mmR_Sabot.description>
+	
+	<!-- EN: 40x311mmR bullet (AP) -->
+	<Bullet_40x311mmR_AP.label>40x311mmR bullet (AP)</Bullet_40x311mmR_AP.label>
+	
+	<!-- EN: 40x311mmR bullet (AP-I) -->
+	<Bullet_40x311mmR_Incendiary.label>40x311mmR bullet (AP-I)</Bullet_40x311mmR_Incendiary.label>
+	
+	<!-- EN: 40x311mmR bullet (AP-HE) -->
+	<Bullet_40x311mmR_HE.label>40x311mmR bullet (AP-HE)</Bullet_40x311mmR_HE.label>
+	
+	<!-- EN: 40x311mmR bullet (Sabot) -->
+	<Bullet_40x311mmR_Sabot.label>40x311mmR bullet (Sabot)</Bullet_40x311mmR_Sabot.label>
+</LanguageData>

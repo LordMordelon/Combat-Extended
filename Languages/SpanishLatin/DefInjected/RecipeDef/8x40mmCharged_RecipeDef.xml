@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Defs\Ammo\Advanced\8x40mmCharged.xml -->
+	<!-- EN: make 8x40mm Charged cartridge x500 -->
+	<MakeAmmo_8x40mmCharged.label>make 8x40mm Charged cartridge x500</MakeAmmo_8x40mmCharged.label>
+	<!-- EN: Craft 500 8x40mm Charged cartridges. -->
+	<MakeAmmo_8x40mmCharged.description>Craft 500 8x40mm Charged cartridges.</MakeAmmo_8x40mmCharged.description>
+	<!-- EN: Making 8x40mm Charged cartridges. -->
+	<MakeAmmo_8x40mmCharged.jobString>Making 8x40mm Charged cartridges.</MakeAmmo_8x40mmCharged.jobString>
+</LanguageData>

@@ -1,0 +1,24 @@
+<LanguageData>
+	<!-- ModPatches\RH2 Helldivers Super Firearms\Defs\RH2 Helldivers Super Firearms\Ammo\12x25_Judgement.xml -->
+	
+	<!-- EN: make 12x25mm Judgement (FMJ) cartridge x500 -->
+	<MakeAmmo_12x25Judgement_FMJ.label>make 12x25mm Judgement (FMJ) cartridge x500</MakeAmmo_12x25Judgement_FMJ.label>
+	<!-- EN: Craft 500 12x25mm Judgement (FMJ) cartridges. -->
+	<MakeAmmo_12x25Judgement_FMJ.description>Craft 500 12x25mm Judgement (FMJ) cartridges.</MakeAmmo_12x25Judgement_FMJ.description>
+	<!-- EN: Making 12x25mm Judgement (FMJ) cartridges. -->
+	<MakeAmmo_12x25Judgement_FMJ.jobString>Making 12x25mm Judgement (FMJ) cartridges.</MakeAmmo_12x25Judgement_FMJ.jobString>
+	
+	<!-- EN: make 12x25mm Judgement (AP) cartridge x500 -->
+	<MakeAmmo_12x25Judgement_AP.label>make 12x25mm Judgement (AP) cartridge x500</MakeAmmo_12x25Judgement_AP.label>
+	<!-- EN: Craft 500 12x25mm Judgement (AP) cartridges. -->
+	<MakeAmmo_12x25Judgement_AP.description>Craft 500 12x25mm Judgement (AP) cartridges.</MakeAmmo_12x25Judgement_AP.description>
+	<!-- EN: Making 12x25mm Judgement (AP) cartridges. -->
+	<MakeAmmo_12x25Judgement_AP.jobString>Making 12x25mm Judgement (AP) cartridges.</MakeAmmo_12x25Judgement_AP.jobString>
+	
+	<!-- EN: make 12x25mm Judgement (HP) cartridge x500 -->
+	<MakeAmmo_12x25Judgement_HP.label>make 12x25mm Judgement (HP) cartridge x500</MakeAmmo_12x25Judgement_HP.label>
+	<!-- EN: Craft 500 12x25mm Judgement (HP) cartridges. -->
+	<MakeAmmo_12x25Judgement_HP.description>Craft 500 12x25mm Judgement (HP) cartridges.</MakeAmmo_12x25Judgement_HP.description>
+	<!-- EN: Making 12x25mm Judgement (HP) cartridges. -->
+	<MakeAmmo_12x25Judgement_HP.jobString>Making 12x25mm Judgement (HP) cartridges.</MakeAmmo_12x25Judgement_HP.jobString>
+</LanguageData>

@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Buffsboy474_SMWarcaskets_Ideology_Testing\Ranged_Astartes1941.xml -->
+	<!-- EN: barrel -->
+	<HP_WarcasketGun_Bolter.tools.0.label>barrel</HP_WarcasketGun_Bolter.tools.0.label>
+	<!-- EN: barrel -->
+	<HP_WarcasketGun_BolterRifle.tools.0.label>barrel</HP_WarcasketGun_BolterRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<VFEP_WarcasketGun_HeavyBolter.tools.0.label>barrel</VFEP_WarcasketGun_HeavyBolter.tools.0.label>
+	<!-- EN: barrel -->
+	<HP_WarcasketGun_StormBolter.tools.0.label>barrel</HP_WarcasketGun_StormBolter.tools.0.label>
+	<!-- EN: barrel -->
+	<VFEP_WarcasketGun_MeltaGun.tools.0.label>barrel</VFEP_WarcasketGun_MeltaGun.tools.0.label>
+	<!-- EN: barrel -->
+	<VFEP_WarcasketGun_PlasmaCannon.tools.0.label>barrel</VFEP_WarcasketGun_PlasmaCannon.tools.0.label>
+</LanguageData>

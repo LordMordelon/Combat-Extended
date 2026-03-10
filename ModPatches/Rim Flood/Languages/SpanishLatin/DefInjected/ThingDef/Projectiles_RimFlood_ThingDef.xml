@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\Rim Flood\Defs\Rim Flood\Projectiles_RimFlood.xml -->
+	<!-- EN: laser beam -->
+	<Bullet_Laser_Sentinel.label>laser beam</Bullet_Laser_Sentinel.label>
+	<!-- EN: laser beam -->
+	<Bullet_Laser_SentinelChungus.label>laser beam</Bullet_Laser_SentinelChungus.label>
+	<!-- EN: flood spore -->
+	<FloodSpitfire_CE.label>flood spore</FloodSpitfire_CE.label>
+	<!-- EN: flood spore -->
+	<FloodRangedfire_CE.label>flood spore</FloodRangedfire_CE.label>
+</LanguageData>

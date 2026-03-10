@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- ModPatches\Censored Armory\Defs\Censored Armory\30mm Rifle Grenade.xml -->
+	
+	<!-- EN: 30mm rifle grenade (HE) -->
+	<Ammo_30mmRifleGrenade_HE.label>30mm rifle grenade (HE)</Ammo_30mmRifleGrenade_HE.label>
+	<!-- EN: A small, low velocity rifle grenade propelled with a blank cartridge. -->
+	<Ammo_30mmRifleGrenade_HE.description>A small, low velocity rifle grenade propelled with a blank cartridge.</Ammo_30mmRifleGrenade_HE.description>
+	
+	<!-- EN: 30mm rifle grenade (EMP) -->
+	<Ammo_30mmRifleGrenade_EMP.label>30mm rifle grenade (EMP)</Ammo_30mmRifleGrenade_EMP.label>
+	<!-- EN: A small, low velocity rifle grenade propelled with a blank cartridge. -->
+	<Ammo_30mmRifleGrenade_EMP.description>A small, low velocity rifle grenade propelled with a blank cartridge.</Ammo_30mmRifleGrenade_EMP.description>
+	
+	<!-- EN: 30mm riflegrenade (Smoke) -->
+	<Ammo_30mmRifleGrenade_Smoke.label>30mm riflegrenade (Smoke)</Ammo_30mmRifleGrenade_Smoke.label>
+	<!-- EN: A small, low velocity rifle grenade propelled with a blank cartridge. -->
+	<Ammo_30mmRifleGrenade_Smoke.description>A small, low velocity rifle grenade propelled with a blank cartridge.</Ammo_30mmRifleGrenade_Smoke.description>
+	
+	<!-- EN: 30mm riflegrenade (HE) -->
+	<Bullet_30mmRifleGrenade_HE.label>30mm riflegrenade (HE)</Bullet_30mmRifleGrenade_HE.label>
+	
+	<!-- EN: 30mm riflegrenade (EMP) -->
+	<Bullet_30mmRifleGrenade_EMP.label>30mm riflegrenade (EMP)</Bullet_30mmRifleGrenade_EMP.label>
+	
+	<!-- EN: 30mm riflegrenade (Smoke) -->
+	<Bullet_30mmRifleGrenade_Smoke.label>30mm riflegrenade (Smoke)</Bullet_30mmRifleGrenade_Smoke.label>
+</LanguageData>

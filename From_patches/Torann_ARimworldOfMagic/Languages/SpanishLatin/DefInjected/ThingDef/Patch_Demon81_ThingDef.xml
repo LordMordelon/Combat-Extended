@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Torann_ARimworldOfMagic\Patch_Demon81.xml -->
+	<!-- EN: left arm -->
+	<TM_LesserDemonR.tools.0.label>left arm</TM_LesserDemonR.tools.0.label>
+	<!-- EN: right arm -->
+	<TM_LesserDemonR.tools.1.label>right arm</TM_LesserDemonR.tools.1.label>
+	<!-- EN: hoof -->
+	<TM_LesserDemonR.tools.2.label>hoof</TM_LesserDemonR.tools.2.label>
+	
+	<!-- EN: left arm -->
+	<TM_DemonR.tools.0.label>left arm</TM_DemonR.tools.0.label>
+	<!-- EN: right arm -->
+	<TM_DemonR.tools.1.label>right arm</TM_DemonR.tools.1.label>
+	<!-- EN: hoof -->
+	<TM_DemonR.tools.2.label>hoof</TM_DemonR.tools.2.label>
+</LanguageData>

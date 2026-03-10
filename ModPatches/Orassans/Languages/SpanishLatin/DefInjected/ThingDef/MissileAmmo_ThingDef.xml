@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- ModPatches\Orassans\Defs\Orassans\Ammo\MissileAmmo.xml -->
+	
+	<!-- EN: Orassan Missile shell (HEAT) -->
+	<Ammo_OrassanMissileShell_HEAT.label>Orassan Missile shell (HEAT)</Ammo_OrassanMissileShell_HEAT.label>
+	<!-- EN: Large projectiles for the orassan recoilless railgun rifle system The lack of propellent allows for larger payloads for their size, effectively allowing infantry to use armaments typically associated with armor. -->
+	<Ammo_OrassanMissileShell_HEAT.description>Large projectiles for the orassan recoilless railgun rifle system The lack of propellent allows for larger payloads for their size, effectively allowing infantry to use armaments typically associated with armor.</Ammo_OrassanMissileShell_HEAT.description>
+	
+	<!-- EN: Orassan Missile shell (HE) -->
+	<Ammo_OrassanMissileShell_HE.label>Orassan Missile shell (HE)</Ammo_OrassanMissileShell_HE.label>
+	<!-- EN: Large projectiles for the orassan recoilless railgun rifle system The lack of propellent allows for larger payloads for their size, effectively allowing infantry to use armaments typically associated with armor. -->
+	<Ammo_OrassanMissileShell_HE.description>Large projectiles for the orassan recoilless railgun rifle system The lack of propellent allows for larger payloads for their size, effectively allowing infantry to use armaments typically associated with armor.</Ammo_OrassanMissileShell_HE.description>
+	
+	<!-- EN: Orassan Missile shell (AP Sabot) -->
+	<Ammo_OrassanMissileShell_APSabot.label>Orassan Missile shell (AP Sabot)</Ammo_OrassanMissileShell_APSabot.label>
+	<!-- EN: Large projectiles for the orassan recoilless railgun rifle system The lack of propellent allows for larger payloads for their size, effectively allowing infantry to use armaments typically associated with armor. -->
+	<Ammo_OrassanMissileShell_APSabot.description>Large projectiles for the orassan recoilless railgun rifle system The lack of propellent allows for larger payloads for their size, effectively allowing infantry to use armaments typically associated with armor.</Ammo_OrassanMissileShell_APSabot.description>
+	
+	<!-- EN: Orassan Missile shell (HEAT) -->
+	<Bullet_OrassanMissileShell_HEAT.label>Orassan Missile shell (HEAT)</Bullet_OrassanMissileShell_HEAT.label>
+	
+	<!-- EN: Orassan Missile shell (AP Sabot) -->
+	<Bullet_OrassanMissileShell_APSabot.label>Orassan Missile shell (AP Sabot)</Bullet_OrassanMissileShell_APSabot.label>
+	
+	<!-- EN: Orassan Missile shell (HE) -->
+	<Bullet_OrassanMissileShell_HE.label>Orassan Missile shell (HE)</Bullet_OrassanMissileShell_HE.label>
+</LanguageData>

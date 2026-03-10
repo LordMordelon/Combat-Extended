@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Medieval Overhaul\Defs\Medieval Overhaul\Ammo\MO_Ammo_Arrows.xml -->
+	<!-- EN: iron arrow -->
+	<IronArrow.label>iron arrow</IronArrow.label>
+	<!-- EN: iron -->
+	<IronArrow.labelShort>iron</IronArrow.labelShort>
+	<!-- EN: The arrow head is made from iron to enhance armor penetration. -->
+	<IronArrow.description>The arrow head is made from iron to enhance armor penetration.</IronArrow.description>
+</LanguageData>

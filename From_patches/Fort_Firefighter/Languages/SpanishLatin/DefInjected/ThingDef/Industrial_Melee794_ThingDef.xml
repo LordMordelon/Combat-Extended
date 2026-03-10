@@ -1,0 +1,40 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Fort_Firefighter\Industrial_Melee794.xml -->
+	<!-- EN: blade -->
+	<MeleeWeapon_Boltcutter.tools.0.label>blade</MeleeWeapon_Boltcutter.tools.0.label>
+	<!-- EN: head -->
+	<MeleeWeapon_Boltcutter.tools.1.label>head</MeleeWeapon_Boltcutter.tools.1.label>
+	
+	<!-- EN: point -->
+	<MeleeWeapon_Crowbar.tools.0.label>point</MeleeWeapon_Crowbar.tools.0.label>
+	<!-- EN: head -->
+	<MeleeWeapon_Crowbar.tools.1.label>head</MeleeWeapon_Crowbar.tools.1.label>
+	<!-- EN: prying -->
+	<MeleeWeapon_Crowbar.tools.2.label>prying</MeleeWeapon_Crowbar.tools.2.label>
+	
+	<!-- EN: pick -->
+	<MeleeWeapon_Halligan_Bar.tools.0.label>pick</MeleeWeapon_Halligan_Bar.tools.0.label>
+	<!-- EN: handle -->
+	<MeleeWeapon_Halligan_Bar.tools.1.label>handle</MeleeWeapon_Halligan_Bar.tools.1.label>
+	<!-- EN: prying -->
+	<MeleeWeapon_Halligan_Bar.tools.2.label>prying</MeleeWeapon_Halligan_Bar.tools.2.label>
+	
+	<!-- EN: handle -->
+	<MeleeWeapon_FireAxe.tools.0.label>handle</MeleeWeapon_FireAxe.tools.0.label>
+	<!-- EN: pick -->
+	<MeleeWeapon_FireAxe.tools.1.label>pick</MeleeWeapon_FireAxe.tools.1.label>
+	<!-- EN: edge -->
+	<MeleeWeapon_FireAxe.tools.2.label>edge</MeleeWeapon_FireAxe.tools.2.label>
+	
+	<!-- EN: handle -->
+	<MeleeWeapon_Sledgehammer.tools.0.label>handle</MeleeWeapon_Sledgehammer.tools.0.label>
+	<!-- EN: head -->
+	<MeleeWeapon_Sledgehammer.tools.1.label>head</MeleeWeapon_Sledgehammer.tools.1.label>
+	
+	<!-- EN: body -->
+	<MeleeWeapon_HydraulicRescueTool.tools.0.label>body</MeleeWeapon_HydraulicRescueTool.tools.0.label>
+	<!-- EN: head -->
+	<MeleeWeapon_HydraulicRescueTool.tools.1.label>head</MeleeWeapon_HydraulicRescueTool.tools.1.label>
+	<!-- EN: cut and spread -->
+	<MeleeWeapon_HydraulicRescueTool.tools.2.label>cut and spread</MeleeWeapon_HydraulicRescueTool.tools.2.label>
+</LanguageData>

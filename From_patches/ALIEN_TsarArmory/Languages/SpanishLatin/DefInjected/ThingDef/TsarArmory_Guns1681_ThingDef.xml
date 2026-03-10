@@ -1,0 +1,33 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\ALIEN_TsarArmory\TsarArmory_Guns1681.xml -->
+	<!-- EN: grip -->
+	<Gun_Nagant_TA.tools.0.label>grip</Gun_Nagant_TA.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_Nagant_TA.tools.1.label>muzzle</Gun_Nagant_TA.tools.1.label>
+	
+	<!-- EN: stock -->
+	<Gun_Fedorov_TA.tools.0.label>stock</Gun_Fedorov_TA.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_Fedorov_TA.tools.1.label>barrel</Gun_Fedorov_TA.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_Fedorov_TA.tools.2.label>muzzle</Gun_Fedorov_TA.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_Mosin_TA.tools.0.label>stock</Gun_Mosin_TA.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_Mosin_TA.tools.1.label>barrel</Gun_Mosin_TA.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_Mosin_TA.tools.2.label>muzzle</Gun_Mosin_TA.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_M1895_TA.tools.0.label>stock</Gun_M1895_TA.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_M1895_TA.tools.1.label>barrel</Gun_M1895_TA.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_M1895_TA.tools.2.label>muzzle</Gun_M1895_TA.tools.2.label>
+	
+	<!-- EN: Model 1914 grenade -->
+	<Weapon_M1914_TA.label>Model 1914 grenade</Weapon_M1914_TA.label>
+	<!-- EN: throw concussion grenade -->
+	<Weapon_M1914_TA.Properties.label>throw concussion grenade</Weapon_M1914_TA.Properties.label>
+</LanguageData>

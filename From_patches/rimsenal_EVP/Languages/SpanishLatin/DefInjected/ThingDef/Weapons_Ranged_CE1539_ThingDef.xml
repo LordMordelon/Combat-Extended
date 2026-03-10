@@ -1,0 +1,20 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\rimsenal_EVP\Weapons_Ranged_CE1539.xml -->
+	<!-- EN: Throwing axe -->
+	<Gun_ThrowingAxes.label>Throwing axe</Gun_ThrowingAxes.label>
+	<!-- EN: ㅤ -->
+	<Gun_ThrowingAxes.verbs.0.label>ㅤ</Gun_ThrowingAxes.verbs.0.label>
+	<!-- EN: handle -->
+	<Gun_ThrowingAxes.tools.0.label>handle</Gun_ThrowingAxes.tools.0.label>
+	<!-- EN: edge -->
+	<Gun_ThrowingAxes.tools.1.label>edge</Gun_ThrowingAxes.tools.1.label>
+	
+	<!-- EN: Throwing club -->
+	<Gun_ThrowingClubs.label>Throwing club</Gun_ThrowingClubs.label>
+	<!-- EN: ㅤ -->
+	<Gun_ThrowingClubs.verbs.0.label>ㅤ</Gun_ThrowingClubs.verbs.0.label>
+	<!-- EN: handle -->
+	<Gun_ThrowingClubs.tools.0.label>handle</Gun_ThrowingClubs.tools.0.label>
+	<!-- EN: head -->
+	<Gun_ThrowingClubs.tools.1.label>head</Gun_ThrowingClubs.tools.1.label>
+</LanguageData>

@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Blunders\Blundergat.xml -->
+	
+	<!-- EN: Blundergat shell (Buck) -->
+	<Ammo_Blundergat_Buck.label>Blundergat shell (Buck)</Ammo_Blundergat_Buck.label>
+	<!-- EN: Not heavily different from a 12-Guage. -->
+	<Ammo_Blundergat_Buck.description>Not heavily different from a 12-Guage.</Ammo_Blundergat_Buck.description>
+	
+	<!-- EN: Blundergat shell (Slug) -->
+	<Ammo_Blundergat_Slug.label>Blundergat shell (Slug)</Ammo_Blundergat_Slug.label>
+	<!-- EN: Not heavily different from a 12-Guage. -->
+	<Ammo_Blundergat_Slug.description>Not heavily different from a 12-Guage.</Ammo_Blundergat_Slug.description>
+	
+	<!-- EN: buckshot pellet -->
+	<Bullet_Blundergat_Buck.label>buckshot pellet</Bullet_Blundergat_Buck.label>
+	
+	<!-- EN: Slug shot -->
+	<Bullet_Blundergat_Slug.label>Slug shot</Bullet_Blundergat_Slug.label>
+</LanguageData>

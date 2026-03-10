@@ -1,0 +1,90 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Neronix17_Outland_EastbornEmpire\Eastborn_WeaponsMelee1214.xml -->
+	<!-- EN: handle -->
+	<Outland_Tanto.tools.0.label>handle</Outland_Tanto.tools.0.label>
+	<!-- EN: point -->
+	<Outland_Tanto.tools.1.label>point</Outland_Tanto.tools.1.label>
+	<!-- EN: edge -->
+	<Outland_Tanto.tools.2.label>edge</Outland_Tanto.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<Outland_Jitte.tools.0.label>shaft</Outland_Jitte.tools.0.label>
+	<!-- EN: head -->
+	<Outland_Jitte.tools.1.label>head</Outland_Jitte.tools.1.label>
+	
+	<!-- EN: shaft -->
+	<Outland_Ararebo.tools.0.label>shaft</Outland_Ararebo.tools.0.label>
+	<!-- EN: head -->
+	<Outland_Ararebo.tools.1.label>head</Outland_Ararebo.tools.1.label>
+	
+	<!-- EN: shaft -->
+	<Outland_JumonjiYari.tools.0.label>shaft</Outland_JumonjiYari.tools.0.label>
+	<!-- EN: shaft -->
+	<Outland_JumonjiYari.tools.1.label>shaft</Outland_JumonjiYari.tools.1.label>
+	<!-- EN: head -->
+	<Outland_JumonjiYari.tools.2.label>head</Outland_JumonjiYari.tools.2.label>
+	<!-- EN: head -->
+	<Outland_JumonjiYari.tools.3.label>head</Outland_JumonjiYari.tools.3.label>
+	
+	<!-- EN: shaft -->
+	<Outland_SuYari.tools.0.label>shaft</Outland_SuYari.tools.0.label>
+	<!-- EN: shaft -->
+	<Outland_SuYari.tools.1.label>shaft</Outland_SuYari.tools.1.label>
+	<!-- EN: head -->
+	<Outland_SuYari.tools.2.label>head</Outland_SuYari.tools.2.label>
+	<!-- EN: head -->
+	<Outland_SuYari.tools.3.label>head</Outland_SuYari.tools.3.label>
+	
+	<!-- EN: handle -->
+	<Outland_Nagamaki.tools.0.label>handle</Outland_Nagamaki.tools.0.label>
+	<!-- EN: point -->
+	<Outland_Nagamaki.tools.1.label>point</Outland_Nagamaki.tools.1.label>
+	<!-- EN: edge -->
+	<Outland_Nagamaki.tools.2.label>edge</Outland_Nagamaki.tools.2.label>
+	
+	<!-- EN: handle -->
+	<Outland_Odachi.tools.0.label>handle</Outland_Odachi.tools.0.label>
+	<!-- EN: point -->
+	<Outland_Odachi.tools.1.label>point</Outland_Odachi.tools.1.label>
+	<!-- EN: edge -->
+	<Outland_Odachi.tools.2.label>edge</Outland_Odachi.tools.2.label>
+	
+	<!-- EN: handle -->
+	<Outland_Ono.tools.0.label>handle</Outland_Ono.tools.0.label>
+	<!-- EN: edge -->
+	<Outland_Ono.tools.1.label>edge</Outland_Ono.tools.1.label>
+	
+	<!-- EN: handle -->
+	<Outland_Kabutowari.tools.0.label>handle</Outland_Kabutowari.tools.0.label>
+	<!-- EN: point -->
+	<Outland_Kabutowari.tools.1.label>point</Outland_Kabutowari.tools.1.label>
+	
+	<!-- EN: handle -->
+	<Outland_Sai.tools.0.label>handle</Outland_Sai.tools.0.label>
+	<!-- EN: point -->
+	<Outland_Sai.tools.1.label>point</Outland_Sai.tools.1.label>
+	
+	<!-- EN: handle -->
+	<Outland_Sasumata.tools.0.label>handle</Outland_Sasumata.tools.0.label>
+	<!-- EN: head -->
+	<Outland_Sasumata.tools.1.label>head</Outland_Sasumata.tools.1.label>
+	
+	<!-- EN: handle -->
+	<Outland_Katana.tools.0.label>handle</Outland_Katana.tools.0.label>
+	<!-- EN: point -->
+	<Outland_Katana.tools.1.label>point</Outland_Katana.tools.1.label>
+	<!-- EN: edge -->
+	<Outland_Katana.tools.2.label>edge</Outland_Katana.tools.2.label>
+	
+	<!-- EN: edge -->
+	<Outland_Masakari.tools.0.label>edge</Outland_Masakari.tools.0.label>
+	<!-- EN: handle -->
+	<Outland_Masakari.tools.1.label>handle</Outland_Masakari.tools.1.label>
+	
+	<!-- EN: shaft -->
+	<Outland_Naginata.tools.0.label>shaft</Outland_Naginata.tools.0.label>
+	<!-- EN: point -->
+	<Outland_Naginata.tools.1.label>point</Outland_Naginata.tools.1.label>
+	<!-- EN: edge -->
+	<Outland_Naginata.tools.2.label>edge</Outland_Naginata.tools.2.label>
+</LanguageData>

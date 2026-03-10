@@ -1,0 +1,22 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\DankPyon_Medieval_Overhaul\MO_CE_Patch_Golem1067.xml -->
+	<!-- EN: left fist -->
+	<DankPyon_Golem_Iron.tools.0.label>left fist</DankPyon_Golem_Iron.tools.0.label>
+	<!-- EN: right fist -->
+	<DankPyon_Golem_Iron.tools.1.label>right fist</DankPyon_Golem_Iron.tools.1.label>
+	
+	<!-- EN: left fist -->
+	<DankPyon_Golem_Gold.tools.0.label>left fist</DankPyon_Golem_Gold.tools.0.label>
+	<!-- EN: right fist -->
+	<DankPyon_Golem_Gold.tools.1.label>right fist</DankPyon_Golem_Gold.tools.1.label>
+	
+	<!-- EN: left fist -->
+	<DankPyon_Golem_Steel.tools.0.label>left fist</DankPyon_Golem_Steel.tools.0.label>
+	<!-- EN: right fist -->
+	<DankPyon_Golem_Steel.tools.1.label>right fist</DankPyon_Golem_Steel.tools.1.label>
+	
+	<!-- EN: left fist -->
+	<DankPyon_Golem_Silver.tools.0.label>left fist</DankPyon_Golem_Silver.tools.0.label>
+	<!-- EN: right fist -->
+	<DankPyon_Golem_Silver.tools.1.label>right fist</DankPyon_Golem_Silver.tools.1.label>
+</LanguageData>

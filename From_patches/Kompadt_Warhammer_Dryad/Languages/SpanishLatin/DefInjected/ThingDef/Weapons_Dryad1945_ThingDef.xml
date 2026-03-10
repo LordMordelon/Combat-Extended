@@ -1,0 +1,12 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Kompadt_Warhammer_Dryad\Weapons_Dryad1945.xml -->
+	<!-- EN: hand guard -->
+	<MeleeWeapon_SylScythe.tools.0.label>hand guard</MeleeWeapon_SylScythe.tools.0.label>
+	<!-- EN: hook -->
+	<MeleeWeapon_SylScythe.tools.1.label>hook</MeleeWeapon_SylScythe.tools.1.label>
+	<!-- EN: edge -->
+	<MeleeWeapon_SylScythe.tools.2.label>edge</MeleeWeapon_SylScythe.tools.2.label>
+	
+	<!-- EN: branch -->
+	<Gun_WillowWhip.tools.0.label>branch</Gun_WillowWhip.tools.0.label>
+</LanguageData>

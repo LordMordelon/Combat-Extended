@@ -1,0 +1,45 @@
+<LanguageData>
+	<!-- ModPatches\RH2 Helldivers Super Firearms\Defs\RH2 Helldivers Super Firearms\Ammo\55x50_Liberty.xml -->
+	
+	<!-- EN: make 5.5x50mm Liberty (FMJ) cartridge x500 -->
+	<MakeAmmo_55x50mmLiberty_FMJ.label>make 5.5x50mm Liberty (FMJ) cartridge x500</MakeAmmo_55x50mmLiberty_FMJ.label>
+	<!-- EN: Craft 500 5.5x50mm Liberty (FMJ) cartridges. -->
+	<MakeAmmo_55x50mmLiberty_FMJ.description>Craft 500 5.5x50mm Liberty (FMJ) cartridges.</MakeAmmo_55x50mmLiberty_FMJ.description>
+	<!-- EN: Making 5.5x50mm Liberty (FMJ) cartridges. -->
+	<MakeAmmo_55x50mmLiberty_FMJ.jobString>Making 5.5x50mm Liberty (FMJ) cartridges.</MakeAmmo_55x50mmLiberty_FMJ.jobString>
+	
+	<!-- EN: make 5.5x50mm Liberty (AP) cartridge x500 -->
+	<MakeAmmo_55x50mmLiberty_AP.label>make 5.5x50mm Liberty (AP) cartridge x500</MakeAmmo_55x50mmLiberty_AP.label>
+	<!-- EN: Craft 500 5.5x50mm Liberty (AP) cartridges. -->
+	<MakeAmmo_55x50mmLiberty_AP.description>Craft 500 5.5x50mm Liberty (AP) cartridges.</MakeAmmo_55x50mmLiberty_AP.description>
+	<!-- EN: Making 5.5x50mm Liberty (AP) cartridges. -->
+	<MakeAmmo_55x50mmLiberty_AP.jobString>Making 5.5x50mm Liberty (AP) cartridges.</MakeAmmo_55x50mmLiberty_AP.jobString>
+	
+	<!-- EN: make 5.5x50mm Liberty (HP) cartridge x500 -->
+	<MakeAmmo_55x50mmLiberty_HP.label>make 5.5x50mm Liberty (HP) cartridge x500</MakeAmmo_55x50mmLiberty_HP.label>
+	<!-- EN: Craft 500 5.5x50mm Liberty (HP) cartridges. -->
+	<MakeAmmo_55x50mmLiberty_HP.description>Craft 500 5.5x50mm Liberty (HP) cartridges.</MakeAmmo_55x50mmLiberty_HP.description>
+	<!-- EN: Making 5.5x50mm Liberty (HP) cartridges. -->
+	<MakeAmmo_55x50mmLiberty_HP.jobString>Making 5.5x50mm Liberty (HP) cartridges.</MakeAmmo_55x50mmLiberty_HP.jobString>
+	
+	<!-- EN: make 5.5x50mm Liberty (AP-I) cartridge x500 -->
+	<MakeAmmo_55x50mmLiberty_Incendiary.label>make 5.5x50mm Liberty (AP-I) cartridge x500</MakeAmmo_55x50mmLiberty_Incendiary.label>
+	<!-- EN: Craft 500 5.5x50mm Liberty (AP-I) cartridges. -->
+	<MakeAmmo_55x50mmLiberty_Incendiary.description>Craft 500 5.5x50mm Liberty (AP-I) cartridges.</MakeAmmo_55x50mmLiberty_Incendiary.description>
+	<!-- EN: Making 5.5x50mm Liberty (AP-I) cartridges. -->
+	<MakeAmmo_55x50mmLiberty_Incendiary.jobString>Making 5.5x50mm Liberty (AP-I) cartridges.</MakeAmmo_55x50mmLiberty_Incendiary.jobString>
+	
+	<!-- EN: make 5.5x50mm Liberty (AP-HE) cartridge x500 -->
+	<MakeAmmo_55x50mmLiberty_HE.label>make 5.5x50mm Liberty (AP-HE) cartridge x500</MakeAmmo_55x50mmLiberty_HE.label>
+	<!-- EN: Craft 500 5.5x50mm Liberty (AP-HE) cartridges. -->
+	<MakeAmmo_55x50mmLiberty_HE.description>Craft 500 5.5x50mm Liberty (AP-HE) cartridges.</MakeAmmo_55x50mmLiberty_HE.description>
+	<!-- EN: Making 5.5x50mm Liberty (AP-HE) cartridges. -->
+	<MakeAmmo_55x50mmLiberty_HE.jobString>Making 5.5x50mm Liberty (AP-HE) cartridges.</MakeAmmo_55x50mmLiberty_HE.jobString>
+	
+	<!-- EN: make 5.5x50mm Liberty (Sabot) cartridge x500 -->
+	<MakeAmmo_55x50mmLiberty_Sabot.label>make 5.5x50mm Liberty (Sabot) cartridge x500</MakeAmmo_55x50mmLiberty_Sabot.label>
+	<!-- EN: Craft 500 5.5x50mm Liberty (Sabot) cartridges. -->
+	<MakeAmmo_55x50mmLiberty_Sabot.description>Craft 500 5.5x50mm Liberty (Sabot) cartridges.</MakeAmmo_55x50mmLiberty_Sabot.description>
+	<!-- EN: Making 5.5x50mm Liberty (Sabot) cartridges. -->
+	<MakeAmmo_55x50mmLiberty_Sabot.jobString>Making 5.5x50mm Liberty (Sabot) cartridges.</MakeAmmo_55x50mmLiberty_Sabot.jobString>
+</LanguageData>

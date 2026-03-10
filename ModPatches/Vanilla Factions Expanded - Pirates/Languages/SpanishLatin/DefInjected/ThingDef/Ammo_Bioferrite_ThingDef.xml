@@ -1,0 +1,35 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla Factions Expanded - Pirates\Defs\Vanilla Factions Expanded - Pirates\Ammo\Ammo_Bioferrite.xml -->
+	
+	<!-- EN: WarBolter Rockets (HE) -->
+	<Ammo_WarBolter_HE.label>WarBolter Rockets (HE)</Ammo_WarBolter_HE.label>
+	<!-- EN: Small, self-propelled rockets used by the warbolter. -->
+	<Ammo_WarBolter_HE.description>Small, self-propelled rockets used by the warbolter.</Ammo_WarBolter_HE.description>
+	
+	<!-- EN: WarBolter Rockets (Incendiary) -->
+	<Ammo_WarBolter_Incendiary.label>WarBolter Rockets (Incendiary)</Ammo_WarBolter_Incendiary.label>
+	<!-- EN: Small, self-propelled rockets used by the warbolter. -->
+	<Ammo_WarBolter_Incendiary.description>Small, self-propelled rockets used by the warbolter.</Ammo_WarBolter_Incendiary.description>
+	
+	<!-- EN: WarBolter Rockets (Frag) -->
+	<Ammo_WarBolter_Frag.label>WarBolter Rockets (Frag)</Ammo_WarBolter_Frag.label>
+	<!-- EN: Small, self-propelled rockets used by the warbolter. -->
+	<Ammo_WarBolter_Frag.description>Small, self-propelled rockets used by the warbolter.</Ammo_WarBolter_Frag.description>
+	
+	<!-- EN: WarBolter Rockets (HEAT) -->
+	<Ammo_WarBolter_HEAT.label>WarBolter Rockets (HEAT)</Ammo_WarBolter_HEAT.label>
+	<!-- EN: Small, self-propelled rockets used by the warbolter. -->
+	<Ammo_WarBolter_HEAT.description>Small, self-propelled rockets used by the warbolter.</Ammo_WarBolter_HEAT.description>
+	
+	<!-- EN: warBolter rocket (HE) -->
+	<Bullet_WarBolter_HE.label>warBolter rocket (HE)</Bullet_WarBolter_HE.label>
+	
+	<!-- EN: warBolter rocket (Incendiary) -->
+	<Bullet_WarBolter_Incendiary.label>warBolter rocket (Incendiary)</Bullet_WarBolter_Incendiary.label>
+	
+	<!-- EN: warBolter rocket (Frag) -->
+	<Bullet_WarBolter_Frag.label>warBolter rocket (Frag)</Bullet_WarBolter_Frag.label>
+	
+	<!-- EN: warBolter rocket (HEAT) -->
+	<Bullet_WarBolter_HEAT.label>warBolter rocket (HEAT)</Bullet_WarBolter_HEAT.label>
+</LanguageData>

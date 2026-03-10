@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Defs\Ammo\Generic\Shell_Cannon.xml -->
+	
+	<!-- EN: light cannon shell -->
+	<AmmoSet_LightCannon.label>light cannon shell</AmmoSet_LightCannon.label>
+	
+	<!-- EN: heavy cannon shell -->
+	<AmmoSet_HeavyCannon.label>heavy cannon shell</AmmoSet_HeavyCannon.label>
+</LanguageData>

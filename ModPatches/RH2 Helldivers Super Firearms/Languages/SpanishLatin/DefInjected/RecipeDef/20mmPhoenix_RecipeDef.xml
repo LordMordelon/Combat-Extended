@@ -1,0 +1,31 @@
+<LanguageData>
+	<!-- ModPatches\RH2 Helldivers Super Firearms\Defs\RH2 Helldivers Super Firearms\Ammo\20mmPhoenix.xml -->
+	
+	<!-- EN: make 20mm Phoenix APHEF x50 -->
+	<MakeAmmo_20mmPhoenix_APHEF.label>make 20mm Phoenix APHEF x50</MakeAmmo_20mmPhoenix_APHEF.label>
+	<!-- EN: Craft 50 20mm Phoenix APHEF rounds. -->
+	<MakeAmmo_20mmPhoenix_APHEF.description>Craft 50 20mm Phoenix APHEF rounds.</MakeAmmo_20mmPhoenix_APHEF.description>
+	<!-- EN: Making 20mm Phoenix APHEF rounds. -->
+	<MakeAmmo_20mmPhoenix_APHEF.jobString>Making 20mm Phoenix APHEF rounds.</MakeAmmo_20mmPhoenix_APHEF.jobString>
+	
+	<!-- EN: make 20mm Phoenix APEM x50 -->
+	<MakeAmmo_20mmPhoenix_APEM.label>make 20mm Phoenix APEM x50</MakeAmmo_20mmPhoenix_APEM.label>
+	<!-- EN: Craft 50 20mm Phoenix APEM rounds. -->
+	<MakeAmmo_20mmPhoenix_APEM.description>Craft 50 20mm Phoenix APEM rounds.</MakeAmmo_20mmPhoenix_APEM.description>
+	<!-- EN: Making 20mm Phoenix APEM rounds. -->
+	<MakeAmmo_20mmPhoenix_APEM.jobString>Making 20mm Phoenix APEM rounds.</MakeAmmo_20mmPhoenix_APEM.jobString>
+	
+	<!-- EN: make 20mm Phoenix APHEI x50 -->
+	<MakeAmmo_20mmPhoenix_APHEI.label>make 20mm Phoenix APHEI x50</MakeAmmo_20mmPhoenix_APHEI.label>
+	<!-- EN: Craft 50 20mm Phoenix APHEI rounds. -->
+	<MakeAmmo_20mmPhoenix_APHEI.description>Craft 50 20mm Phoenix APHEI rounds.</MakeAmmo_20mmPhoenix_APHEI.description>
+	<!-- EN: Making 20mm Phoenix APHEI rounds. -->
+	<MakeAmmo_20mmPhoenix_APHEI.jobString>Making 20mm Phoenix APHEI rounds.</MakeAmmo_20mmPhoenix_APHEI.jobString>
+	
+	<!-- EN: make 20mm Phoenix HvAP x50 -->
+	<MakeAmmo_20mmPhoenix_HvAP.label>make 20mm Phoenix HvAP x50</MakeAmmo_20mmPhoenix_HvAP.label>
+	<!-- EN: Craft 50 20mm Phoenix HvAP rounds. -->
+	<MakeAmmo_20mmPhoenix_HvAP.description>Craft 50 20mm Phoenix HvAP rounds.</MakeAmmo_20mmPhoenix_HvAP.description>
+	<!-- EN: Making 20mm Phoenix HvAP rounds. -->
+	<MakeAmmo_20mmPhoenix_HvAP.jobString>Making 20mm Phoenix HvAP rounds.</MakeAmmo_20mmPhoenix_HvAP.jobString>
+</LanguageData>

@@ -1,0 +1,107 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\CP_RimmuNation_Weapons\RNW_CE_Patch_RangedIndustrial_LMG1509.xml -->
+	<!-- EN: stock -->
+	<RNGun_DP27LMG.tools.0.label>stock</RNGun_DP27LMG.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_DP27LMG.tools.1.label>barrel</RNGun_DP27LMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_DP27LMG.tools.2.label>muzzle</RNGun_DP27LMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_FNMinimi.tools.0.label>stock</RNGun_FNMinimi.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_FNMinimi.tools.1.label>barrel</RNGun_FNMinimi.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_FNMinimi.tools.2.label>muzzle</RNGun_FNMinimi.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_C9A1Minimi.tools.0.label>stock</RNGun_C9A1Minimi.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_C9A1Minimi.tools.1.label>barrel</RNGun_C9A1Minimi.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_C9A1Minimi.tools.2.label>muzzle</RNGun_C9A1Minimi.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_FNMAG.tools.0.label>stock</RNGun_FNMAG.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_FNMAG.tools.1.label>barrel</RNGun_FNMAG.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_FNMAG.tools.2.label>muzzle</RNGun_FNMAG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_HKMG4LMG.tools.0.label>stock</RNGun_HKMG4LMG.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_HKMG4LMG.tools.1.label>barrel</RNGun_HKMG4LMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_HKMG4LMG.tools.2.label>muzzle</RNGun_HKMG4LMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_HKMG5LMG.tools.0.label>stock</RNGun_HKMG5LMG.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_HKMG5LMG.tools.1.label>barrel</RNGun_HKMG5LMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_HKMG5LMG.tools.2.label>muzzle</RNGun_HKMG5LMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_NegevLMG.tools.0.label>stock</RNGun_NegevLMG.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_NegevLMG.tools.1.label>barrel</RNGun_NegevLMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_NegevLMG.tools.2.label>muzzle</RNGun_NegevLMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_M60LMG.tools.0.label>stock</RNGun_M60LMG.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_M60LMG.tools.1.label>barrel</RNGun_M60LMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_M60LMG.tools.2.label>muzzle</RNGun_M60LMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_M240B.tools.0.label>stock</RNGun_M240B.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_M240B.tools.1.label>barrel</RNGun_M240B.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_M240B.tools.2.label>muzzle</RNGun_M240B.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_M249LMG.tools.0.label>stock</RNGun_M249LMG.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_M249LMG.tools.1.label>barrel</RNGun_M249LMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_M249LMG.tools.2.label>muzzle</RNGun_M249LMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_MK48LMG.tools.0.label>stock</RNGun_MK48LMG.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_MK48LMG.tools.1.label>barrel</RNGun_MK48LMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_MK48LMG.tools.2.label>muzzle</RNGun_MK48LMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_PKMLMG.tools.0.label>stock</RNGun_PKMLMG.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_PKMLMG.tools.1.label>barrel</RNGun_PKMLMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_PKMLMG.tools.2.label>muzzle</RNGun_PKMLMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_RPD.tools.0.label>stock</RNGun_RPD.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_RPD.tools.1.label>barrel</RNGun_RPD.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_RPD.tools.2.label>muzzle</RNGun_RPD.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_RPK74LMG.tools.0.label>stock</RNGun_RPK74LMG.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_RPK74LMG.tools.1.label>barrel</RNGun_RPK74LMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_RPK74LMG.tools.2.label>muzzle</RNGun_RPK74LMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_ZastavaM84LMG.tools.0.label>stock</RNGun_ZastavaM84LMG.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_ZastavaM84LMG.tools.1.label>barrel</RNGun_ZastavaM84LMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_ZastavaM84LMG.tools.2.label>muzzle</RNGun_ZastavaM84LMG.tools.2.label>
+</LanguageData>

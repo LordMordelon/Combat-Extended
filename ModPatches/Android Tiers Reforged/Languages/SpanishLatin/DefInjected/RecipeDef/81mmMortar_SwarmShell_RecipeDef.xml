@@ -1,0 +1,10 @@
+<LanguageData>
+	<!-- ModPatches\Android Tiers Reforged\Defs\Android Tiers Reforged\81mmMortar_SwarmShell.xml -->
+	
+	<!-- EN: make 81mm Swarm mortar shell x1 -->
+	<MakeSwarm_shell_81mm.label>make 81mm Swarm mortar shell x1</MakeSwarm_shell_81mm.label>
+	<!-- EN: Craft 1 81mm Swarm shell. -->
+	<MakeSwarm_shell_81mm.description>Craft 1 81mm Swarm shell.</MakeSwarm_shell_81mm.description>
+	<!-- EN: Making 81mm Swarm shells. -->
+	<MakeSwarm_shell_81mm.jobString>Making 81mm Swarm shells.</MakeSwarm_shell_81mm.jobString>
+</LanguageData>

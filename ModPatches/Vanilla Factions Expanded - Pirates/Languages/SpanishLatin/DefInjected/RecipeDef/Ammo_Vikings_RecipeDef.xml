@@ -1,0 +1,10 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla Factions Expanded - Pirates\Defs\Vanilla Factions Expanded - Pirates\Ammo\Ammo_Vikings.xml -->
+	
+	<!-- EN: make crypto cannon fuel x200 -->
+	<MakeAmmo_CryptoCannon.label>make crypto cannon fuel x200</MakeAmmo_CryptoCannon.label>
+	<!-- EN: Craft 200 crypto cannon fuel. -->
+	<MakeAmmo_CryptoCannon.description>Craft 200 crypto cannon fuel.</MakeAmmo_CryptoCannon.description>
+	<!-- EN: Making crypto cannon fuel. -->
+	<MakeAmmo_CryptoCannon.jobString>Making crypto cannon fuel.</MakeAmmo_CryptoCannon.jobString>
+</LanguageData>

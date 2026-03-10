@@ -1,0 +1,51 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Mlie_CyberneticWarfare\CyberneticWarfare_Ranged_Spacer655.xml -->
+	<!-- EN: handle -->
+	<CW_GunBlade.tools.0.label>handle</CW_GunBlade.tools.0.label>
+	<!-- EN: point -->
+	<CW_GunBlade.tools.1.label>point</CW_GunBlade.tools.1.label>
+	<!-- EN: blade -->
+	<CW_GunBlade.tools.2.label>blade</CW_GunBlade.tools.2.label>
+	
+	<!-- EN: grip -->
+	<CW_Disruptor.tools.0.label>grip</CW_Disruptor.tools.0.label>
+	<!-- EN: barrel -->
+	<CW_Disruptor.tools.1.label>barrel</CW_Disruptor.tools.1.label>
+	<!-- EN: Blade -->
+	<CW_Disruptor.tools.2.label>Blade</CW_Disruptor.tools.2.label>
+	
+	<!-- EN: grip -->
+	<CW_NapalmBlaster.tools.0.label>grip</CW_NapalmBlaster.tools.0.label>
+	<!-- EN: barrel -->
+	<CW_NapalmBlaster.tools.1.label>barrel</CW_NapalmBlaster.tools.1.label>
+	<!-- EN: muzzle -->
+	<CW_NapalmBlaster.tools.2.label>muzzle</CW_NapalmBlaster.tools.2.label>
+	
+	<!-- EN: grip -->
+	<CW_DualEraser.tools.0.label>grip</CW_DualEraser.tools.0.label>
+	<!-- EN: barrel -->
+	<CW_DualEraser.tools.1.label>barrel</CW_DualEraser.tools.1.label>
+	<!-- EN: muzzle -->
+	<CW_DualEraser.tools.2.label>muzzle</CW_DualEraser.tools.2.label>
+	
+	<!-- EN: grip -->
+	<CW_Accelerator.tools.0.label>grip</CW_Accelerator.tools.0.label>
+	<!-- EN: barrel -->
+	<CW_Accelerator.tools.1.label>barrel</CW_Accelerator.tools.1.label>
+	<!-- EN: muzzle -->
+	<CW_Accelerator.tools.2.label>muzzle</CW_Accelerator.tools.2.label>
+	
+	<!-- EN: grip -->
+	<CW_PlasmaGun.tools.0.label>grip</CW_PlasmaGun.tools.0.label>
+	<!-- EN: barrel -->
+	<CW_PlasmaGun.tools.1.label>barrel</CW_PlasmaGun.tools.1.label>
+	<!-- EN: blade -->
+	<CW_PlasmaGun.tools.2.label>blade</CW_PlasmaGun.tools.2.label>
+	
+	<!-- EN: grip -->
+	<CW_CoilGun.tools.0.label>grip</CW_CoilGun.tools.0.label>
+	<!-- EN: barrel -->
+	<CW_CoilGun.tools.1.label>barrel</CW_CoilGun.tools.1.label>
+	<!-- EN: muzzle -->
+	<CW_CoilGun.tools.2.label>muzzle</CW_CoilGun.tools.2.label>
+</LanguageData>

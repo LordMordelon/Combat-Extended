@@ -1,0 +1,35 @@
+<LanguageData>
+	<!-- Defs\Ammo\Shotgun\10Gauge.xml -->
+	
+	<!-- EN: 10 gauge shell (Buck) -->
+	<Ammo_10Gauge_Buck.label>10 gauge shell (Buck)</Ammo_10Gauge_Buck.label>
+	<!-- EN: Very common shotgun caliber used mostly for big game hunting. -->
+	<Ammo_10Gauge_Buck.description>Very common shotgun caliber used mostly for big game hunting.</Ammo_10Gauge_Buck.description>
+	
+	<!-- EN: 10 gauge shell (Slug) -->
+	<Ammo_10Gauge_Slug.label>10 gauge shell (Slug)</Ammo_10Gauge_Slug.label>
+	<!-- EN: Very common shotgun caliber used mostly for big game hunting. -->
+	<Ammo_10Gauge_Slug.description>Very common shotgun caliber used mostly for big game hunting.</Ammo_10Gauge_Slug.description>
+	
+	<!-- EN: 10 gauge shell (Bean) -->
+	<Ammo_10Gauge_Beanbag.label>10 gauge shell (Bean)</Ammo_10Gauge_Beanbag.label>
+	<!-- EN: Very common shotgun caliber used mostly for big game hunting. -->
+	<Ammo_10Gauge_Beanbag.description>Very common shotgun caliber used mostly for big game hunting.</Ammo_10Gauge_Beanbag.description>
+	
+	<!-- EN: 10 gauge shell (EMP) -->
+	<Ammo_10Gauge_ElectroSlug.label>10 gauge shell (EMP)</Ammo_10Gauge_ElectroSlug.label>
+	<!-- EN: Very common shotgun caliber used mostly for big game hunting. -->
+	<Ammo_10Gauge_ElectroSlug.description>Very common shotgun caliber used mostly for big game hunting.</Ammo_10Gauge_ElectroSlug.description>
+	
+	<!-- EN: buckshot pellet -->
+	<Bullet_10Gauge_Buck.label>buckshot pellet</Bullet_10Gauge_Buck.label>
+	
+	<!-- EN: shotgun slug -->
+	<Bullet_10Gauge_Slug.label>shotgun slug</Bullet_10Gauge_Slug.label>
+	
+	<!-- EN: beanbag -->
+	<Bullet_10Gauge_Beanbag.label>beanbag</Bullet_10Gauge_Beanbag.label>
+	
+	<!-- EN: EMP slug -->
+	<Bullet_10Gauge_ElectroSlug.label>EMP slug</Bullet_10Gauge_ElectroSlug.label>
+</LanguageData>

@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Roo_AntyRaceMod\Ammo_Anty407.xml -->
+	<!-- EN: Refleum gas Grenade -->
+	<BulletCombatSmokeLauncher.label>Refleum gas Grenade</BulletCombatSmokeLauncher.label>
+	<!-- EN: launch Refleum gas Grenade -->
+	<AT_Apparel_CombatSmoke.verbs.0.label>launch Refleum gas Grenade</AT_Apparel_CombatSmoke.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<AT_Apparel_CombatSmoke.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>ㅤ</AT_Apparel_CombatSmoke.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>
+</LanguageData>

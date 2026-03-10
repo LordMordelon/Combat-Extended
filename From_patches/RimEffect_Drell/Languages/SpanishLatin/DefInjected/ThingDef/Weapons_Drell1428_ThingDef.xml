@@ -1,0 +1,24 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\RimEffect_Drell\Weapons_Drell1428.xml -->
+	<!-- EN: grip -->
+	<RE_Gun_AllianceCompactSMG.tools.0.label>grip</RE_Gun_AllianceCompactSMG.tools.0.label>
+	<!-- EN: muzzle -->
+	<RE_Gun_AllianceCompactSMG.tools.1.label>muzzle</RE_Gun_AllianceCompactSMG.tools.1.label>
+	
+	<!-- EN: stock -->
+	<RE_Gun_AllianceRapidSniperRifle.tools.0.label>stock</RE_Gun_AllianceRapidSniperRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RE_Gun_AllianceRapidSniperRifle.tools.1.label>barrel</RE_Gun_AllianceRapidSniperRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RE_Gun_AllianceRapidSniperRifle.tools.2.label>muzzle</RE_Gun_AllianceRapidSniperRifle.tools.2.label>
+	
+	<!-- EN: M-12 Locust -->
+	<RE_Gun_AllianceCompactSMG.label>M-12 Locust</RE_Gun_AllianceCompactSMG.label>
+	<!-- EN: The Locust is an expensive but deadly addition to anyone's personal arsenal. This fully automatic submachine gun is punishing up close, while still capable of precise fire at long range. -->
+	<RE_Gun_AllianceCompactSMG.description>The Locust is an expensive but deadly addition to anyone's personal arsenal. This fully automatic submachine gun is punishing up close, while still capable of precise fire at long range.</RE_Gun_AllianceCompactSMG.description>
+	
+	<!-- EN: M-97 Viper -->
+	<RE_Gun_AllianceRapidSniperRifle.label>M-97 Viper</RE_Gun_AllianceRapidSniperRifle.label>
+	<!-- EN: The Viper is a semi-automatic, rapid-fire sniper rifle capable of quickly engaging targets with follow-up shots. -->
+	<RE_Gun_AllianceRapidSniperRifle.description>The Viper is a semi-automatic, rapid-fire sniper rifle capable of quickly engaging targets with follow-up shots.</RE_Gun_AllianceRapidSniperRifle.description>
+</LanguageData>

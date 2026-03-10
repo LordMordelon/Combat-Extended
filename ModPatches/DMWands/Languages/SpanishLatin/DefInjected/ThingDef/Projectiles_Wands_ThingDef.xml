@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\DMWands\Defs\DMWands\Projectiles_Wands.xml -->
+	<!-- EN: magic bolt -->
+	<DM_MagicBolt.label>magic bolt</DM_MagicBolt.label>
+	<!-- EN: fire bolt -->
+	<DM_FireBolt.label>fire bolt</DM_FireBolt.label>
+	<!-- EN: poison bolt -->
+	<DM_PoisonBolt.label>poison bolt</DM_PoisonBolt.label>
+</LanguageData>

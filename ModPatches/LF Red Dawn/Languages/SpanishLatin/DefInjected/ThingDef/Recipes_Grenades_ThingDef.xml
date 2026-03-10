@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- ModPatches\LF Red Dawn\Defs\LF Red Dawn\Recipes_Grenades.xml -->
+	<!-- EN: RG5 grenade (HE) -->
+	<RD_Proj_RGD5Grenade.label>RG5 grenade (HE)</RD_Proj_RGD5Grenade.label>
+	<!-- EN: RGN grenade -->
+	<RD_Proj_RGNGrenade.label>RGN grenade</RD_Proj_RGNGrenade.label>
+	<!-- EN: RGO grenade -->
+	<RD_Proj_RGOGrenade.label>RGO grenade</RD_Proj_RGOGrenade.label>
+	<!-- EN: F1 grenade -->
+	<RD_Proj_F1Grenade.label>F1 grenade</RD_Proj_F1Grenade.label>
+	<!-- EN: RKG-3 grenade -->
+	<RD_Proj_RKGATGrenade.label>RKG-3 grenade</RD_Proj_RKGATGrenade.label>
+</LanguageData>

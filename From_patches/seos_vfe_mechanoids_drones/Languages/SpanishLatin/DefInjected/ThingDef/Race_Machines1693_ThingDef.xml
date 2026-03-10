@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\seos_vfe_mechanoids_drones\Race_Machines1693.xml -->
+	<!-- EN: left fist -->
+	<VFEMA_Mechanoids_Farmer.tools.0.label>left fist</VFEMA_Mechanoids_Farmer.tools.0.label>
+	<!-- EN: right fist -->
+	<VFEMA_Mechanoids_Farmer.tools.1.label>right fist</VFEMA_Mechanoids_Farmer.tools.1.label>
+	<!-- EN: head -->
+	<VFEMA_Mechanoids_Farmer.tools.2.label>head</VFEMA_Mechanoids_Farmer.tools.2.label>
+	
+	<!-- EN: left fist -->
+	<VFEMA_Mechanoids_Kitchen.tools.0.label>left fist</VFEMA_Mechanoids_Kitchen.tools.0.label>
+	<!-- EN: right fist -->
+	<VFEMA_Mechanoids_Kitchen.tools.1.label>right fist</VFEMA_Mechanoids_Kitchen.tools.1.label>
+	<!-- EN: head -->
+	<VFEMA_Mechanoids_Kitchen.tools.2.label>head</VFEMA_Mechanoids_Kitchen.tools.2.label>
+</LanguageData>

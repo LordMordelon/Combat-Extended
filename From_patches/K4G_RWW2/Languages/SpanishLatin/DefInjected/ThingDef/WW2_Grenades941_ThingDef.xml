@@ -1,0 +1,222 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\K4G_RWW2\WW2_Grenades941.xml -->
+	<!-- EN: British No. 36M Mk I Mills Bomb Grenades -->
+	<K4G_Weapon_WW2BritishServiceGrenades.label>British No. 36M Mk I Mills Bomb Grenades</K4G_Weapon_WW2BritishServiceGrenades.label>
+	<!-- EN: Old-school fragmentation grenades used during WW2. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby. -->
+	<K4G_Weapon_WW2BritishServiceGrenades.description>Old-school fragmentation grenades used during WW2. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby.</K4G_Weapon_WW2BritishServiceGrenades.description>
+	<!-- EN: Body -->
+	<K4G_Weapon_WW2BritishServiceGrenades.tools.0.label>Body</K4G_Weapon_WW2BritishServiceGrenades.tools.0.label>
+	<!-- EN: throw frag grenade -->
+	<K4G_Weapon_WW2BritishServiceGrenades.verbs.0.label>throw frag grenade</K4G_Weapon_WW2BritishServiceGrenades.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<K4G_Weapon_WW2BritishServiceGrenades.verbs.CombatExtended.Verb_ShootCEOneUse.label>ㅤ</K4G_Weapon_WW2BritishServiceGrenades.verbs.CombatExtended.Verb_ShootCEOneUse.label>
+	
+	<!-- EN: British No. 73 Anti-Tank Grenade -->
+	<K4G_Weapon_WW2BritishServiceAntiTankGrenades.label>British No. 73 Anti-Tank Grenade</K4G_Weapon_WW2BritishServiceAntiTankGrenades.label>
+	<!-- EN: Heavy explosive grenades used during WW2. They can be thrown a short distance and are designed to damage or destroy armored targets. -->
+	<K4G_Weapon_WW2BritishServiceAntiTankGrenades.description>Heavy explosive grenades used during WW2. They can be thrown a short distance and are designed to damage or destroy armored targets.</K4G_Weapon_WW2BritishServiceAntiTankGrenades.description>
+	<!-- EN: Body -->
+	<K4G_Weapon_WW2BritishServiceAntiTankGrenades.tools.0.label>Body</K4G_Weapon_WW2BritishServiceAntiTankGrenades.tools.0.label>
+	<!-- EN: throw anti-tank grenade -->
+	<K4G_Weapon_WW2BritishServiceAntiTankGrenades.verbs.0.label>throw anti-tank grenade</K4G_Weapon_WW2BritishServiceAntiTankGrenades.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<K4G_Weapon_WW2BritishServiceAntiTankGrenades.verbs.CombatExtended.Verb_ShootCEOneUse.label>ㅤ</K4G_Weapon_WW2BritishServiceAntiTankGrenades.verbs.CombatExtended.Verb_ShootCEOneUse.label>
+	
+	<!-- EN: British No. 74 Sticky Bomb Anti-Tank Grenades -->
+	<K4G_Weapon_WW2BritishServiceAntiTankGrenadesB.label>British No. 74 Sticky Bomb Anti-Tank Grenades</K4G_Weapon_WW2BritishServiceAntiTankGrenadesB.label>
+	<!-- EN: Heavy explosive grenades used during WW2. They can be thrown a short distance and are designed to damage or destroy armored targets. -->
+	<K4G_Weapon_WW2BritishServiceAntiTankGrenadesB.description>Heavy explosive grenades used during WW2. They can be thrown a short distance and are designed to damage or destroy armored targets.</K4G_Weapon_WW2BritishServiceAntiTankGrenadesB.description>
+	<!-- EN: Body -->
+	<K4G_Weapon_WW2BritishServiceAntiTankGrenadesB.tools.0.label>Body</K4G_Weapon_WW2BritishServiceAntiTankGrenadesB.tools.0.label>
+	<!-- EN: throw anti-tank grenade -->
+	<K4G_Weapon_WW2BritishServiceAntiTankGrenadesB.verbs.0.label>throw anti-tank grenade</K4G_Weapon_WW2BritishServiceAntiTankGrenadesB.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<K4G_Weapon_WW2BritishServiceAntiTankGrenadesB.verbs.CombatExtended.Verb_ShootCEOneUse.label>ㅤ</K4G_Weapon_WW2BritishServiceAntiTankGrenadesB.verbs.CombatExtended.Verb_ShootCEOneUse.label>
+	
+	<!-- EN: Finnish M32 Mortar Shell Grenades -->
+	<K4G_Weapon_WW2FinnishServiceGrenades.label>Finnish M32 Mortar Shell Grenades</K4G_Weapon_WW2FinnishServiceGrenades.label>
+	<!-- EN: Old-school fragmentation grenades used during WW2. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby. -->
+	<K4G_Weapon_WW2FinnishServiceGrenades.description>Old-school fragmentation grenades used during WW2. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby.</K4G_Weapon_WW2FinnishServiceGrenades.description>
+	<!-- EN: Body -->
+	<K4G_Weapon_WW2FinnishServiceGrenades.tools.0.label>Body</K4G_Weapon_WW2FinnishServiceGrenades.tools.0.label>
+	<!-- EN: throw frag grenade -->
+	<K4G_Weapon_WW2FinnishServiceGrenades.verbs.0.label>throw frag grenade</K4G_Weapon_WW2FinnishServiceGrenades.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<K4G_Weapon_WW2FinnishServiceGrenades.verbs.CombatExtended.Verb_ShootCEOneUse.label>ㅤ</K4G_Weapon_WW2FinnishServiceGrenades.verbs.CombatExtended.Verb_ShootCEOneUse.label>
+	
+	<!-- EN: French F1 Grenades -->
+	<K4G_Weapon_WW2FrenchServiceGrenades.label>French F1 Grenades</K4G_Weapon_WW2FrenchServiceGrenades.label>
+	<!-- EN: Old-school fragmentation grenades used during WW2. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby. -->
+	<K4G_Weapon_WW2FrenchServiceGrenades.description>Old-school fragmentation grenades used during WW2. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby.</K4G_Weapon_WW2FrenchServiceGrenades.description>
+	<!-- EN: Body -->
+	<K4G_Weapon_WW2FrenchServiceGrenades.tools.0.label>Body</K4G_Weapon_WW2FrenchServiceGrenades.tools.0.label>
+	<!-- EN: throw frag grenade -->
+	<K4G_Weapon_WW2FrenchServiceGrenades.verbs.0.label>throw frag grenade</K4G_Weapon_WW2FrenchServiceGrenades.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<K4G_Weapon_WW2FrenchServiceGrenades.verbs.CombatExtended.Verb_ShootCEOneUse.label>ㅤ</K4G_Weapon_WW2FrenchServiceGrenades.verbs.CombatExtended.Verb_ShootCEOneUse.label>
+	
+	<!-- EN: German M24 Stielhandgranate Grenades -->
+	<K4G_Weapon_WW2GermanServiceGrenades.label>German M24 Stielhandgranate Grenades</K4G_Weapon_WW2GermanServiceGrenades.label>
+	<!-- EN: Old-school fragmentation grenades used during WW2. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby. -->
+	<K4G_Weapon_WW2GermanServiceGrenades.description>Old-school fragmentation grenades used during WW2. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby.</K4G_Weapon_WW2GermanServiceGrenades.description>
+	<!-- EN: Body -->
+	<K4G_Weapon_WW2GermanServiceGrenades.tools.0.label>Body</K4G_Weapon_WW2GermanServiceGrenades.tools.0.label>
+	<!-- EN: throw frag grenade -->
+	<K4G_Weapon_WW2GermanServiceGrenades.verbs.0.label>throw frag grenade</K4G_Weapon_WW2GermanServiceGrenades.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<K4G_Weapon_WW2GermanServiceGrenades.verbs.CombatExtended.Verb_ShootCEOneUse.label>ㅤ</K4G_Weapon_WW2GermanServiceGrenades.verbs.CombatExtended.Verb_ShootCEOneUse.label>
+	
+	<!-- EN: German M39 Grenades -->
+	<K4G_Weapon_WW2GermanServiceGrenadesB.label>German M39 Grenades</K4G_Weapon_WW2GermanServiceGrenadesB.label>
+	<!-- EN: Old-school fragmentation grenades used during WW2. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby. -->
+	<K4G_Weapon_WW2GermanServiceGrenadesB.description>Old-school fragmentation grenades used during WW2. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby.</K4G_Weapon_WW2GermanServiceGrenadesB.description>
+	<!-- EN: Body -->
+	<K4G_Weapon_WW2GermanServiceGrenadesB.tools.0.label>Body</K4G_Weapon_WW2GermanServiceGrenadesB.tools.0.label>
+	<!-- EN: throw frag grenade -->
+	<K4G_Weapon_WW2GermanServiceGrenadesB.verbs.0.label>throw frag grenade</K4G_Weapon_WW2GermanServiceGrenadesB.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<K4G_Weapon_WW2GermanServiceGrenadesB.verbs.CombatExtended.Verb_ShootCEOneUse.label>ㅤ</K4G_Weapon_WW2GermanServiceGrenadesB.verbs.CombatExtended.Verb_ShootCEOneUse.label>
+	
+	<!-- EN: German M24 Stielhandgranate Bundle Anti-Tank Grenades -->
+	<K4G_Weapon_WW2GermanServiceAntiTankGrenades.label>German M24 Stielhandgranate Bundle Anti-Tank Grenades</K4G_Weapon_WW2GermanServiceAntiTankGrenades.label>
+	<!-- EN: Heavy explosive grenades used during WW2. They can be thrown a short distance and are designed to damage or destroy armored targets. -->
+	<K4G_Weapon_WW2GermanServiceAntiTankGrenades.description>Heavy explosive grenades used during WW2. They can be thrown a short distance and are designed to damage or destroy armored targets.</K4G_Weapon_WW2GermanServiceAntiTankGrenades.description>
+	<!-- EN: Body -->
+	<K4G_Weapon_WW2GermanServiceAntiTankGrenades.tools.0.label>Body</K4G_Weapon_WW2GermanServiceAntiTankGrenades.tools.0.label>
+	<!-- EN: throw anti-tank grenade -->
+	<K4G_Weapon_WW2GermanServiceAntiTankGrenades.verbs.0.label>throw anti-tank grenade</K4G_Weapon_WW2GermanServiceAntiTankGrenades.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<K4G_Weapon_WW2GermanServiceAntiTankGrenades.verbs.CombatExtended.Verb_ShootCEOneUse.label>ㅤ</K4G_Weapon_WW2GermanServiceAntiTankGrenades.verbs.CombatExtended.Verb_ShootCEOneUse.label>
+	
+	<!-- EN: Italian SRCM Mod.35 Grenades -->
+	<K4G_Weapon_WW2ItalianServiceGrenades.label>Italian SRCM Mod.35 Grenades</K4G_Weapon_WW2ItalianServiceGrenades.label>
+	<!-- EN: Old-school fragmentation grenades used during WW2. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby. -->
+	<K4G_Weapon_WW2ItalianServiceGrenades.description>Old-school fragmentation grenades used during WW2. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby.</K4G_Weapon_WW2ItalianServiceGrenades.description>
+	<!-- EN: Body -->
+	<K4G_Weapon_WW2ItalianServiceGrenades.tools.0.label>Body</K4G_Weapon_WW2ItalianServiceGrenades.tools.0.label>
+	<!-- EN: throw frag grenade -->
+	<K4G_Weapon_WW2ItalianServiceGrenades.verbs.0.label>throw frag grenade</K4G_Weapon_WW2ItalianServiceGrenades.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<K4G_Weapon_WW2ItalianServiceGrenades.verbs.CombatExtended.Verb_ShootCEOneUse.label>ㅤ</K4G_Weapon_WW2ItalianServiceGrenades.verbs.CombatExtended.Verb_ShootCEOneUse.label>
+	
+	<!-- EN: Italian OTO Mod.35 Grenades -->
+	<K4G_Weapon_WW2ItalianServiceGrenadesB.label>Italian OTO Mod.35 Grenades</K4G_Weapon_WW2ItalianServiceGrenadesB.label>
+	<!-- EN: Old-school fragmentation grenades used during WW2. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby. -->
+	<K4G_Weapon_WW2ItalianServiceGrenadesB.description>Old-school fragmentation grenades used during WW2. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby.</K4G_Weapon_WW2ItalianServiceGrenadesB.description>
+	<!-- EN: Body -->
+	<K4G_Weapon_WW2ItalianServiceGrenadesB.tools.0.label>Body</K4G_Weapon_WW2ItalianServiceGrenadesB.tools.0.label>
+	<!-- EN: throw frag grenade -->
+	<K4G_Weapon_WW2ItalianServiceGrenadesB.verbs.0.label>throw frag grenade</K4G_Weapon_WW2ItalianServiceGrenadesB.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<K4G_Weapon_WW2ItalianServiceGrenadesB.verbs.CombatExtended.Verb_ShootCEOneUse.label>ㅤ</K4G_Weapon_WW2ItalianServiceGrenadesB.verbs.CombatExtended.Verb_ShootCEOneUse.label>
+	
+	<!-- EN: Italian Breda Mod.35 Grenades -->
+	<K4G_Weapon_WW2ItalianServiceGrenadesC.label>Italian Breda Mod.35 Grenades</K4G_Weapon_WW2ItalianServiceGrenadesC.label>
+	<!-- EN: Old-school fragmentation grenades used during WW2. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby. -->
+	<K4G_Weapon_WW2ItalianServiceGrenadesC.description>Old-school fragmentation grenades used during WW2. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby.</K4G_Weapon_WW2ItalianServiceGrenadesC.description>
+	<!-- EN: Body -->
+	<K4G_Weapon_WW2ItalianServiceGrenadesC.tools.0.label>Body</K4G_Weapon_WW2ItalianServiceGrenadesC.tools.0.label>
+	<!-- EN: throw frag grenade -->
+	<K4G_Weapon_WW2ItalianServiceGrenadesC.verbs.0.label>throw frag grenade</K4G_Weapon_WW2ItalianServiceGrenadesC.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<K4G_Weapon_WW2ItalianServiceGrenadesC.verbs.CombatExtended.Verb_ShootCEOneUse.label>ㅤ</K4G_Weapon_WW2ItalianServiceGrenadesC.verbs.CombatExtended.Verb_ShootCEOneUse.label>
+	
+	<!-- EN: Italian Type L Anti-Tank Grenades -->
+	<K4G_Weapon_WW2ItalianServiceAntiTankGrenades.label>Italian Type L Anti-Tank Grenades</K4G_Weapon_WW2ItalianServiceAntiTankGrenades.label>
+	<!-- EN: Heavy explosive grenades used during WW2. They can be thrown a short distance and are designed to damage or destroy armored targets. -->
+	<K4G_Weapon_WW2ItalianServiceAntiTankGrenades.description>Heavy explosive grenades used during WW2. They can be thrown a short distance and are designed to damage or destroy armored targets.</K4G_Weapon_WW2ItalianServiceAntiTankGrenades.description>
+	<!-- EN: Body -->
+	<K4G_Weapon_WW2ItalianServiceAntiTankGrenades.tools.0.label>Body</K4G_Weapon_WW2ItalianServiceAntiTankGrenades.tools.0.label>
+	<!-- EN: throw anti-tank grenade -->
+	<K4G_Weapon_WW2ItalianServiceAntiTankGrenades.verbs.0.label>throw anti-tank grenade</K4G_Weapon_WW2ItalianServiceAntiTankGrenades.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<K4G_Weapon_WW2ItalianServiceAntiTankGrenades.verbs.CombatExtended.Verb_ShootCEOneUse.label>ㅤ</K4G_Weapon_WW2ItalianServiceAntiTankGrenades.verbs.CombatExtended.Verb_ShootCEOneUse.label>
+	
+	<!-- EN: Japanese Type 97 Grenades -->
+	<K4G_Weapon_WW2JapaneseServiceGrenades.label>Japanese Type 97 Grenades</K4G_Weapon_WW2JapaneseServiceGrenades.label>
+	<!-- EN: Old-school fragmentation grenades used during WW2. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby. -->
+	<K4G_Weapon_WW2JapaneseServiceGrenades.description>Old-school fragmentation grenades used during WW2. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby.</K4G_Weapon_WW2JapaneseServiceGrenades.description>
+	<!-- EN: Body -->
+	<K4G_Weapon_WW2JapaneseServiceGrenades.tools.0.label>Body</K4G_Weapon_WW2JapaneseServiceGrenades.tools.0.label>
+	<!-- EN: throw frag grenade -->
+	<K4G_Weapon_WW2JapaneseServiceGrenades.verbs.0.label>throw frag grenade</K4G_Weapon_WW2JapaneseServiceGrenades.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<K4G_Weapon_WW2JapaneseServiceGrenades.verbs.CombatExtended.Verb_ShootCEOneUse.label>ㅤ</K4G_Weapon_WW2JapaneseServiceGrenades.verbs.CombatExtended.Verb_ShootCEOneUse.label>
+	
+	<!-- EN: Russian F1 Grenades -->
+	<K4G_Weapon_WW2RussianServiceGrenades.label>Russian F1 Grenades</K4G_Weapon_WW2RussianServiceGrenades.label>
+	<!-- EN: Old-school fragmentation grenades used during WW2. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby. -->
+	<K4G_Weapon_WW2RussianServiceGrenades.description>Old-school fragmentation grenades used during WW2. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby.</K4G_Weapon_WW2RussianServiceGrenades.description>
+	<!-- EN: Body -->
+	<K4G_Weapon_WW2RussianServiceGrenades.tools.0.label>Body</K4G_Weapon_WW2RussianServiceGrenades.tools.0.label>
+	<!-- EN: throw frag grenade -->
+	<K4G_Weapon_WW2RussianServiceGrenades.verbs.0.label>throw frag grenade</K4G_Weapon_WW2RussianServiceGrenades.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<K4G_Weapon_WW2RussianServiceGrenades.verbs.CombatExtended.Verb_ShootCEOneUse.label>ㅤ</K4G_Weapon_WW2RussianServiceGrenades.verbs.CombatExtended.Verb_ShootCEOneUse.label>
+	
+	<!-- EN: Russian RG-42 Grenades -->
+	<K4G_Weapon_WW2RussianServiceGrenadesB.label>Russian RG-42 Grenades</K4G_Weapon_WW2RussianServiceGrenadesB.label>
+	<!-- EN: Old-school fragmentation grenades used during WW2. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby. -->
+	<K4G_Weapon_WW2RussianServiceGrenadesB.description>Old-school fragmentation grenades used during WW2. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby.</K4G_Weapon_WW2RussianServiceGrenadesB.description>
+	<!-- EN: Body -->
+	<K4G_Weapon_WW2RussianServiceGrenadesB.tools.0.label>Body</K4G_Weapon_WW2RussianServiceGrenadesB.tools.0.label>
+	<!-- EN: throw frag grenade -->
+	<K4G_Weapon_WW2RussianServiceGrenadesB.verbs.0.label>throw frag grenade</K4G_Weapon_WW2RussianServiceGrenadesB.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<K4G_Weapon_WW2RussianServiceGrenadesB.verbs.CombatExtended.Verb_ShootCEOneUse.label>ㅤ</K4G_Weapon_WW2RussianServiceGrenadesB.verbs.CombatExtended.Verb_ShootCEOneUse.label>
+	
+	<!-- EN: Russian RGD-33 Grenades -->
+	<K4G_Weapon_WW2RussianServiceGrenadesC.label>Russian RGD-33 Grenades</K4G_Weapon_WW2RussianServiceGrenadesC.label>
+	<!-- EN: Old-school fragmentation grenades used during WW2. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby. -->
+	<K4G_Weapon_WW2RussianServiceGrenadesC.description>Old-school fragmentation grenades used during WW2. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby.</K4G_Weapon_WW2RussianServiceGrenadesC.description>
+	<!-- EN: Body -->
+	<K4G_Weapon_WW2RussianServiceGrenadesC.tools.0.label>Body</K4G_Weapon_WW2RussianServiceGrenadesC.tools.0.label>
+	<!-- EN: throw frag grenade -->
+	<K4G_Weapon_WW2RussianServiceGrenadesC.verbs.0.label>throw frag grenade</K4G_Weapon_WW2RussianServiceGrenadesC.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<K4G_Weapon_WW2RussianServiceGrenadesC.verbs.CombatExtended.Verb_ShootCEOneUse.label>ㅤ</K4G_Weapon_WW2RussianServiceGrenadesC.verbs.CombatExtended.Verb_ShootCEOneUse.label>
+	
+	<!-- EN: Russian RPG-40 Anti-Tank Grenades -->
+	<K4G_Weapon_WW2RussianServiceAntiTankGrenades.label>Russian RPG-40 Anti-Tank Grenades</K4G_Weapon_WW2RussianServiceAntiTankGrenades.label>
+	<!-- EN: Heavy explosive grenades used during WW2. They can be thrown a short distance and are designed to damage or destroy armored targets. -->
+	<K4G_Weapon_WW2RussianServiceAntiTankGrenades.description>Heavy explosive grenades used during WW2. They can be thrown a short distance and are designed to damage or destroy armored targets.</K4G_Weapon_WW2RussianServiceAntiTankGrenades.description>
+	<!-- EN: Body -->
+	<K4G_Weapon_WW2RussianServiceAntiTankGrenades.tools.0.label>Body</K4G_Weapon_WW2RussianServiceAntiTankGrenades.tools.0.label>
+	<!-- EN: throw anti-tank grenade -->
+	<K4G_Weapon_WW2RussianServiceAntiTankGrenades.verbs.0.label>throw anti-tank grenade</K4G_Weapon_WW2RussianServiceAntiTankGrenades.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<K4G_Weapon_WW2RussianServiceAntiTankGrenades.verbs.CombatExtended.Verb_ShootCEOneUse.label>ㅤ</K4G_Weapon_WW2RussianServiceAntiTankGrenades.verbs.CombatExtended.Verb_ShootCEOneUse.label>
+	
+	<!-- EN: Russian RPG-43 Anti-Tank Grenades -->
+	<K4G_Weapon_WW2RussianServiceAntiTankGrenadesB.label>Russian RPG-43 Anti-Tank Grenades</K4G_Weapon_WW2RussianServiceAntiTankGrenadesB.label>
+	<!-- EN: Heavy explosive grenades used during WW2. They can be thrown a short distance and are designed to damage or destroy armored targets. -->
+	<K4G_Weapon_WW2RussianServiceAntiTankGrenadesB.description>Heavy explosive grenades used during WW2. They can be thrown a short distance and are designed to damage or destroy armored targets.</K4G_Weapon_WW2RussianServiceAntiTankGrenadesB.description>
+	<!-- EN: Body -->
+	<K4G_Weapon_WW2RussianServiceAntiTankGrenadesB.tools.0.label>Body</K4G_Weapon_WW2RussianServiceAntiTankGrenadesB.tools.0.label>
+	<!-- EN: throw anti-tank grenade -->
+	<K4G_Weapon_WW2RussianServiceAntiTankGrenadesB.verbs.0.label>throw anti-tank grenade</K4G_Weapon_WW2RussianServiceAntiTankGrenadesB.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<K4G_Weapon_WW2RussianServiceAntiTankGrenadesB.verbs.CombatExtended.Verb_ShootCEOneUse.label>ㅤ</K4G_Weapon_WW2RussianServiceAntiTankGrenadesB.verbs.CombatExtended.Verb_ShootCEOneUse.label>
+	
+	<!-- EN: Russian RPG-6 Anti-Tank Grenades -->
+	<K4G_Weapon_WW2RussianServiceAntiTankGrenadesC.label>Russian RPG-6 Anti-Tank Grenades</K4G_Weapon_WW2RussianServiceAntiTankGrenadesC.label>
+	<!-- EN: Heavy explosive grenades used during WW2. They can be thrown a short distance and are designed to damage or destroy armored targets. -->
+	<K4G_Weapon_WW2RussianServiceAntiTankGrenadesC.description>Heavy explosive grenades used during WW2. They can be thrown a short distance and are designed to damage or destroy armored targets.</K4G_Weapon_WW2RussianServiceAntiTankGrenadesC.description>
+	<!-- EN: Body -->
+	<K4G_Weapon_WW2RussianServiceAntiTankGrenadesC.tools.0.label>Body</K4G_Weapon_WW2RussianServiceAntiTankGrenadesC.tools.0.label>
+	<!-- EN: throw anti-tank grenade -->
+	<K4G_Weapon_WW2RussianServiceAntiTankGrenadesC.verbs.0.label>throw anti-tank grenade</K4G_Weapon_WW2RussianServiceAntiTankGrenadesC.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<K4G_Weapon_WW2RussianServiceAntiTankGrenadesC.verbs.CombatExtended.Verb_ShootCEOneUse.label>ㅤ</K4G_Weapon_WW2RussianServiceAntiTankGrenadesC.verbs.CombatExtended.Verb_ShootCEOneUse.label>
+	
+	<!-- EN: American Mk II Grenades -->
+	<K4G_Weapon_WW2AmericanServiceGrenades.label>American Mk II Grenades</K4G_Weapon_WW2AmericanServiceGrenades.label>
+	<!-- EN: Old-school fragmentation grenades used during WW2. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby. -->
+	<K4G_Weapon_WW2AmericanServiceGrenades.description>Old-school fragmentation grenades used during WW2. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby.</K4G_Weapon_WW2AmericanServiceGrenades.description>
+	<!-- EN: Body -->
+	<K4G_Weapon_WW2AmericanServiceGrenades.tools.0.label>Body</K4G_Weapon_WW2AmericanServiceGrenades.tools.0.label>
+	<!-- EN: throw frag grenade -->
+	<K4G_Weapon_WW2AmericanServiceGrenades.verbs.0.label>throw frag grenade</K4G_Weapon_WW2AmericanServiceGrenades.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<K4G_Weapon_WW2AmericanServiceGrenades.verbs.CombatExtended.Verb_ShootCEOneUse.label>ㅤ</K4G_Weapon_WW2AmericanServiceGrenades.verbs.CombatExtended.Verb_ShootCEOneUse.label>
+</LanguageData>

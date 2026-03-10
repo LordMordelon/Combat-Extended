@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Ludeon_Rimworld_Odyssey\Races_Animals_Insects76.xml -->
+	<!-- EN: mandibles -->
+	<Larva.tools.0.label>mandibles</Larva.tools.0.label>
+	<!-- EN: head -->
+	<Larva.tools.1.label>head</Larva.tools.1.label>
+	
+	<!-- EN: head claw -->
+	<HiveQueen.tools.0.label>head claw</HiveQueen.tools.0.label>
+	<!-- EN: head -->
+	<HiveQueen.tools.1.label>head</HiveQueen.tools.1.label>
+	
+	<!-- EN: mandibles -->
+	<Locust.tools.0.label>mandibles</Locust.tools.0.label>
+	<!-- EN: head -->
+	<Locust.tools.1.label>head</Locust.tools.1.label>
+</LanguageData>

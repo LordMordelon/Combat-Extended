@@ -1,0 +1,8 @@
+<LanguageData>
+	<!-- Defs\Ammo\Shell\81mmMortar.xml -->
+	
+	<!-- EN: 81mm mortar shells -->
+	<AmmoSet_81mmMortarShell.label>81mm mortar shells</AmmoSet_81mmMortarShell.label>
+	<!-- EN: mortar shells -->
+	<AmmoSet_81mmMortarShell.modExtensions.0.genericLabel>mortar shells</AmmoSet_81mmMortarShell.modExtensions.0.genericLabel>
+</LanguageData>

@@ -1,0 +1,56 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\rimsenal_core\Weapons_YP_CE1535.xml -->
+	<!-- EN: grip -->
+	<YP_SeolHwa.tools.0.label>grip</YP_SeolHwa.tools.0.label>
+	<!-- EN: muzzle -->
+	<YP_SeolHwa.tools.1.label>muzzle</YP_SeolHwa.tools.1.label>
+	
+	<!-- EN: stock -->
+	<YP_SeoLi.tools.0.label>stock</YP_SeoLi.tools.0.label>
+	<!-- EN: barrel -->
+	<YP_SeoLi.tools.1.label>barrel</YP_SeoLi.tools.1.label>
+	<!-- EN: muzzle -->
+	<YP_SeoLi.tools.2.label>muzzle</YP_SeoLi.tools.2.label>
+	
+	<!-- EN: stock -->
+	<YP_SagPung.tools.0.label>stock</YP_SagPung.tools.0.label>
+	<!-- EN: barrel -->
+	<YP_SagPung.tools.1.label>barrel</YP_SagPung.tools.1.label>
+	<!-- EN: muzzle -->
+	<YP_SagPung.tools.2.label>muzzle</YP_SagPung.tools.2.label>
+	
+	<!-- EN: stock -->
+	<YP_SangAe.tools.0.label>stock</YP_SangAe.tools.0.label>
+	<!-- EN: barrel -->
+	<YP_SangAe.tools.1.label>barrel</YP_SangAe.tools.1.label>
+	<!-- EN: muzzle -->
+	<YP_SangAe.tools.2.label>muzzle</YP_SangAe.tools.2.label>
+	
+	<!-- EN: stock -->
+	<YP_VectorShot.tools.0.label>stock</YP_VectorShot.tools.0.label>
+	<!-- EN: barrel -->
+	<YP_VectorShot.tools.1.label>barrel</YP_VectorShot.tools.1.label>
+	<!-- EN: muzzle -->
+	<YP_VectorShot.tools.2.label>muzzle</YP_VectorShot.tools.2.label>
+	
+	<!-- EN: barrel -->
+	<YP_GeugGwang.tools.0.label>barrel</YP_GeugGwang.tools.0.label>
+	
+	<!-- EN: ㅤ -->
+	<YP_SeoLi.verbs.0.label>ㅤ</YP_SeoLi.verbs.0.label>
+	
+	<!-- EN: ㅤ -->
+	<YP_SagPung.verbs.0.label>ㅤ</YP_SagPung.verbs.0.label>
+	
+	<!-- EN: ㅤ -->
+	<YP_SangAe.verbs.0.label>ㅤ</YP_SangAe.verbs.0.label>
+	
+	<!-- EN: ㅤ -->
+	<YP_SeolHwa.verbs.0.label>ㅤ</YP_SeolHwa.verbs.0.label>
+	
+	<!-- EN: ㅤ -->
+	<YP_GeugGwang.verbs.0.label>ㅤ</YP_GeugGwang.verbs.0.label>
+	
+	<!-- EN: ㅤ -->
+	<YP_VectorShot.verbs.0.label>ㅤ</YP_VectorShot.verbs.0.label>
+</LanguageData>

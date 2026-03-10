@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Roren Race\Defs\Roren Race\203_Roren.xml -->
+	<!-- EN: make 20.3cm SK (HE) cannon shell -->
+	<MakeAmmo_203cmskCannonShell_HE.label>make 20.3cm SK (HE) cannon shell</MakeAmmo_203cmskCannonShell_HE.label>
+	<!-- EN: Craft 20.3cm SK (HE) cannon shell. -->
+	<MakeAmmo_203cmskCannonShell_HE.description>Craft 20.3cm SK (HE) cannon shell.</MakeAmmo_203cmskCannonShell_HE.description>
+	<!-- EN: Making 20.3cm SK (HE) cannon shell. -->
+	<MakeAmmo_203cmskCannonShell_HE.jobString>Making 20.3cm SK (HE) cannon shell.</MakeAmmo_203cmskCannonShell_HE.jobString>
+</LanguageData>

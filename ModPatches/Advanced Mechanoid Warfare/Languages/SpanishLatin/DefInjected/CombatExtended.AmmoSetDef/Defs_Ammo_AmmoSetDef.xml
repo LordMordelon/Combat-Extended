@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- ModPatches\Advanced Mechanoid Warfare\Defs\Advanced Mechanoid Warfare\Defs_Ammo.xml -->
+	<!-- EN: Universal Weapon Module -->
+	<AmmoSet_UMW.label>Universal Weapon Module</AmmoSet_UMW.label>
+	<!-- EN: Unstable Shot -->
+	<AmmoSet_Nomad.label>Unstable Shot</AmmoSet_Nomad.label>
+	<!-- EN: Unstable Shot -->
+	<AmmoSet_Stalker.label>Unstable Shot</AmmoSet_Stalker.label>
+	<!-- EN: Unstable Shot -->
+	<AmmoSet_Lens.label>Unstable Shot</AmmoSet_Lens.label>
+	<!-- EN: Unstable Shot -->
+	<AmmoSet_Vapor.label>Unstable Shot</AmmoSet_Vapor.label>
+	<!-- EN: Unstable Shot -->
+	<AmmoSet_Headhunter.label>Unstable Shot</AmmoSet_Headhunter.label>
+</LanguageData>

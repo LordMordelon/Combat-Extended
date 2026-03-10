@@ -1,0 +1,150 @@
+<LanguageData>
+	<!-- ModPatches\BiologicalWarfare\Defs\Ammo.xml -->
+	
+	<!-- EN: make 40x46mm flesh-breaker grenades x100 -->
+	<MakeAmmo_40x46mmGrenade_FleshBreaker.label>make 40x46mm flesh-breaker grenades x100</MakeAmmo_40x46mmGrenade_FleshBreaker.label>
+	<!-- EN: Craft 100 40x46mm flesh-breaker grenades. -->
+	<MakeAmmo_40x46mmGrenade_FleshBreaker.description>Craft 100 40x46mm flesh-breaker grenades.</MakeAmmo_40x46mmGrenade_FleshBreaker.description>
+	<!-- EN: Making 40x46mm flesh-breaker grenades. -->
+	<MakeAmmo_40x46mmGrenade_FleshBreaker.jobString>Making 40x46mm flesh-breaker grenades.</MakeAmmo_40x46mmGrenade_FleshBreaker.jobString>
+	
+	<!-- EN: make 81mm flesh-breaker mortar shells x5 -->
+	<MakeAmmo_81mmMortarShell_FleshBreaker.label>make 81mm flesh-breaker mortar shells x5</MakeAmmo_81mmMortarShell_FleshBreaker.label>
+	<!-- EN: Craft 5 81mm flesh-breaker mortar shells. -->
+	<MakeAmmo_81mmMortarShell_FleshBreaker.description>Craft 5 81mm flesh-breaker mortar shells.</MakeAmmo_81mmMortarShell_FleshBreaker.description>
+	<!-- EN: Making 81mm flesh-breaker mortar shells. -->
+	<MakeAmmo_81mmMortarShell_FleshBreaker.jobString>Making 81mm flesh-breaker mortar shells.</MakeAmmo_81mmMortarShell_FleshBreaker.jobString>
+	
+	<!-- EN: make 50mm flesh-breaker rockets x10 -->
+	<MakeAmmo_50mmRocket_FleshBreaker.label>make 50mm flesh-breaker rockets x10</MakeAmmo_50mmRocket_FleshBreaker.label>
+	<!-- EN: Craft 10 50mm flesh-breaker rockets. -->
+	<MakeAmmo_50mmRocket_FleshBreaker.description>Craft 10 50mm flesh-breaker rockets.</MakeAmmo_50mmRocket_FleshBreaker.description>
+	<!-- EN: Making 50mm flesh-breaker rockets. -->
+	<MakeAmmo_50mmRocket_FleshBreaker.jobString>Making 50mm flesh-breaker rockets.</MakeAmmo_50mmRocket_FleshBreaker.jobString>
+	
+	<!-- EN: make 40x46mm flu grenades x100 -->
+	<MakeAmmo_40x46mmGrenade_Flu.label>make 40x46mm flu grenades x100</MakeAmmo_40x46mmGrenade_Flu.label>
+	<!-- EN: Craft 100 40x46mm flu grenades. -->
+	<MakeAmmo_40x46mmGrenade_Flu.description>Craft 100 40x46mm flu grenades.</MakeAmmo_40x46mmGrenade_Flu.description>
+	<!-- EN: Making 40x46mm flu grenades. -->
+	<MakeAmmo_40x46mmGrenade_Flu.jobString>Making 40x46mm flu grenades.</MakeAmmo_40x46mmGrenade_Flu.jobString>
+	
+	<!-- EN: make 81mm flu mortar shells x5 -->
+	<MakeAmmo_81mmMortarShell_Flu.label>make 81mm flu mortar shells x5</MakeAmmo_81mmMortarShell_Flu.label>
+	<!-- EN: Craft 5 81mm flu mortar shells. -->
+	<MakeAmmo_81mmMortarShell_Flu.description>Craft 5 81mm flu mortar shells.</MakeAmmo_81mmMortarShell_Flu.description>
+	<!-- EN: Making 81mm flu mortar shells. -->
+	<MakeAmmo_81mmMortarShell_Flu.jobString>Making 81mm flu mortar shells.</MakeAmmo_81mmMortarShell_Flu.jobString>
+	
+	<!-- EN: make 50mm flu rockets x10 -->
+	<MakeAmmo_50mmRocket_Flu.label>make 50mm flu rockets x10</MakeAmmo_50mmRocket_Flu.label>
+	<!-- EN: Craft 10 50mm flu rockets. -->
+	<MakeAmmo_50mmRocket_Flu.description>Craft 10 50mm flu rockets.</MakeAmmo_50mmRocket_Flu.description>
+	<!-- EN: Making 50mm flu rockets. -->
+	<MakeAmmo_50mmRocket_Flu.jobString>Making 50mm flu rockets.</MakeAmmo_50mmRocket_Flu.jobString>
+	
+	<!-- EN: make 40x46mm malaria grenades x100 -->
+	<MakeAmmo_40x46mmGrenade_Malaria.label>make 40x46mm malaria grenades x100</MakeAmmo_40x46mmGrenade_Malaria.label>
+	<!-- EN: Craft 100 40x46mm malaria grenades. -->
+	<MakeAmmo_40x46mmGrenade_Malaria.description>Craft 100 40x46mm malaria grenades.</MakeAmmo_40x46mmGrenade_Malaria.description>
+	<!-- EN: Making 40x46mm malaria grenades. -->
+	<MakeAmmo_40x46mmGrenade_Malaria.jobString>Making 40x46mm malaria grenades.</MakeAmmo_40x46mmGrenade_Malaria.jobString>
+	
+	<!-- EN: make 81mm malaria mortar shells x5 -->
+	<MakeAmmo_81mmMortarShell_Malaria.label>make 81mm malaria mortar shells x5</MakeAmmo_81mmMortarShell_Malaria.label>
+	<!-- EN: Craft 5 81mm malaria mortar shells. -->
+	<MakeAmmo_81mmMortarShell_Malaria.description>Craft 5 81mm malaria mortar shells.</MakeAmmo_81mmMortarShell_Malaria.description>
+	<!-- EN: Making 81mm malaria mortar shells. -->
+	<MakeAmmo_81mmMortarShell_Malaria.jobString>Making 81mm malaria mortar shells.</MakeAmmo_81mmMortarShell_Malaria.jobString>
+	
+	<!-- EN: make 50mm malaria rockets x10 -->
+	<MakeAmmo_50mmRocket_Malaria.label>make 50mm malaria rockets x10</MakeAmmo_50mmRocket_Malaria.label>
+	<!-- EN: Craft 10 50mm malaria rockets. -->
+	<MakeAmmo_50mmRocket_Malaria.description>Craft 10 50mm malaria rockets.</MakeAmmo_50mmRocket_Malaria.description>
+	<!-- EN: Making 50mm malaria rockets. -->
+	<MakeAmmo_50mmRocket_Malaria.jobString>Making 50mm malaria rockets.</MakeAmmo_50mmRocket_Malaria.jobString>
+	
+	<!-- EN: make 40x46mm necroa grenades x100 -->
+	<MakeAmmo_40x46mmGrenade_Necroa.label>make 40x46mm necroa grenades x100</MakeAmmo_40x46mmGrenade_Necroa.label>
+	<!-- EN: Craft 100 40x46mm necroa grenades. -->
+	<MakeAmmo_40x46mmGrenade_Necroa.description>Craft 100 40x46mm necroa grenades.</MakeAmmo_40x46mmGrenade_Necroa.description>
+	<!-- EN: Making 40x46mm necroa grenades. -->
+	<MakeAmmo_40x46mmGrenade_Necroa.jobString>Making 40x46mm necroa grenades.</MakeAmmo_40x46mmGrenade_Necroa.jobString>
+	
+	<!-- EN: make 81mm necroa mortar shells x5 -->
+	<MakeAmmo_81mmMortarShell_Necroa.label>make 81mm necroa mortar shells x5</MakeAmmo_81mmMortarShell_Necroa.label>
+	<!-- EN: Craft 5 81mm necroa mortar shells. -->
+	<MakeAmmo_81mmMortarShell_Necroa.description>Craft 5 81mm necroa mortar shells.</MakeAmmo_81mmMortarShell_Necroa.description>
+	<!-- EN: Making 81mm necroa mortar shells. -->
+	<MakeAmmo_81mmMortarShell_Necroa.jobString>Making 81mm necroa mortar shells.</MakeAmmo_81mmMortarShell_Necroa.jobString>
+	
+	<!-- EN: make 50mm necroa rockets x10 -->
+	<MakeAmmo_50mmRocket_Necroa.label>make 50mm necroa rockets x10</MakeAmmo_50mmRocket_Necroa.label>
+	<!-- EN: Craft 10 50mm necroa rockets. -->
+	<MakeAmmo_50mmRocket_Necroa.description>Craft 10 50mm necroa rockets.</MakeAmmo_50mmRocket_Necroa.description>
+	<!-- EN: Making 50mm necroa rockets. -->
+	<MakeAmmo_50mmRocket_Necroa.jobString>Making 50mm necroa rockets.</MakeAmmo_50mmRocket_Necroa.jobString>
+	
+	<!-- EN: make 40x46mm plague grenades x100 -->
+	<MakeAmmo_40x46mmGrenade_Plague.label>make 40x46mm plague grenades x100</MakeAmmo_40x46mmGrenade_Plague.label>
+	<!-- EN: Craft 100 40x46mm plague grenades. -->
+	<MakeAmmo_40x46mmGrenade_Plague.description>Craft 100 40x46mm plague grenades.</MakeAmmo_40x46mmGrenade_Plague.description>
+	<!-- EN: Making 40x46mm plague grenades. -->
+	<MakeAmmo_40x46mmGrenade_Plague.jobString>Making 40x46mm plague grenades.</MakeAmmo_40x46mmGrenade_Plague.jobString>
+	
+	<!-- EN: make 81mm plague mortar shells x5 -->
+	<MakeAmmo_81mmMortarShell_Plague.label>make 81mm plague mortar shells x5</MakeAmmo_81mmMortarShell_Plague.label>
+	<!-- EN: Craft 5 81mm plague mortar shells. -->
+	<MakeAmmo_81mmMortarShell_Plague.description>Craft 5 81mm plague mortar shells.</MakeAmmo_81mmMortarShell_Plague.description>
+	<!-- EN: Making 81mm plague mortar shells. -->
+	<MakeAmmo_81mmMortarShell_Plague.jobString>Making 81mm plague mortar shells.</MakeAmmo_81mmMortarShell_Plague.jobString>
+	
+	<!-- EN: make 50mm plague rockets x10 -->
+	<MakeAmmo_50mmRocket_Plague.label>make 50mm plague rockets x10</MakeAmmo_50mmRocket_Plague.label>
+	<!-- EN: Craft 10 50mm plague rockets. -->
+	<MakeAmmo_50mmRocket_Plague.description>Craft 10 50mm plague rockets.</MakeAmmo_50mmRocket_Plague.description>
+	<!-- EN: Making 50mm plague rockets. -->
+	<MakeAmmo_50mmRocket_Plague.jobString>Making 50mm plague rockets.</MakeAmmo_50mmRocket_Plague.jobString>
+	
+	<!-- EN: make 40x46mm scaria grenades x100 -->
+	<MakeAmmo_40x46mmGrenade_Scaria.label>make 40x46mm scaria grenades x100</MakeAmmo_40x46mmGrenade_Scaria.label>
+	<!-- EN: Craft 100 40x46mm scaria grenades. -->
+	<MakeAmmo_40x46mmGrenade_Scaria.description>Craft 100 40x46mm scaria grenades.</MakeAmmo_40x46mmGrenade_Scaria.description>
+	<!-- EN: Making 40x46mm scaria grenades. -->
+	<MakeAmmo_40x46mmGrenade_Scaria.jobString>Making 40x46mm scaria grenades.</MakeAmmo_40x46mmGrenade_Scaria.jobString>
+	
+	<!-- EN: make 81mm scaria mortar shells x5 -->
+	<MakeAmmo_81mmMortarShell_Scaria.label>make 81mm scaria mortar shells x5</MakeAmmo_81mmMortarShell_Scaria.label>
+	<!-- EN: Craft 5 81mm scaria mortar shells. -->
+	<MakeAmmo_81mmMortarShell_Scaria.description>Craft 5 81mm scaria mortar shells.</MakeAmmo_81mmMortarShell_Scaria.description>
+	<!-- EN: Making 81mm scaria mortar shells. -->
+	<MakeAmmo_81mmMortarShell_Scaria.jobString>Making 81mm scaria mortar shells.</MakeAmmo_81mmMortarShell_Scaria.jobString>
+	
+	<!-- EN: make 50mm scaria rockets x10 -->
+	<MakeAmmo_50mmRocket_Scaria.label>make 50mm scaria rockets x10</MakeAmmo_50mmRocket_Scaria.label>
+	<!-- EN: Craft 10 50mm scaria rockets. -->
+	<MakeAmmo_50mmRocket_Scaria.description>Craft 10 50mm scaria rockets.</MakeAmmo_50mmRocket_Scaria.description>
+	<!-- EN: Making 50mm scaria rockets. -->
+	<MakeAmmo_50mmRocket_Scaria.jobString>Making 50mm scaria rockets.</MakeAmmo_50mmRocket_Scaria.jobString>
+	
+	<!-- EN: make 40x46mm sleeping sickness grenades x100 -->
+	<MakeAmmo_40x46mmGrenade_SleepingSickness.label>make 40x46mm sleeping sickness grenades x100</MakeAmmo_40x46mmGrenade_SleepingSickness.label>
+	<!-- EN: Craft 100 40x46mm sleeping sickness grenades. -->
+	<MakeAmmo_40x46mmGrenade_SleepingSickness.description>Craft 100 40x46mm sleeping sickness grenades.</MakeAmmo_40x46mmGrenade_SleepingSickness.description>
+	<!-- EN: Making 40x46mm sleeping sickness grenades. -->
+	<MakeAmmo_40x46mmGrenade_SleepingSickness.jobString>Making 40x46mm sleeping sickness grenades.</MakeAmmo_40x46mmGrenade_SleepingSickness.jobString>
+	
+	<!-- EN: make 81mm sleeping sickness mortar shells x5 -->
+	<MakeAmmo_81mmMortarShell_SleepingSickness.label>make 81mm sleeping sickness mortar shells x5</MakeAmmo_81mmMortarShell_SleepingSickness.label>
+	<!-- EN: Craft 5 81mm sleeping sickness mortar shells. -->
+	<MakeAmmo_81mmMortarShell_SleepingSickness.description>Craft 5 81mm sleeping sickness mortar shells.</MakeAmmo_81mmMortarShell_SleepingSickness.description>
+	<!-- EN: Making 81mm sleeping sickness mortar shells. -->
+	<MakeAmmo_81mmMortarShell_SleepingSickness.jobString>Making 81mm sleeping sickness mortar shells.</MakeAmmo_81mmMortarShell_SleepingSickness.jobString>
+	
+	<!-- EN: make 50mm sleeping sickness rockets x10 -->
+	<MakeAmmo_50mmRocket_SleepingSickness.label>make 50mm sleeping sickness rockets x10</MakeAmmo_50mmRocket_SleepingSickness.label>
+	<!-- EN: Craft 10 50mm sleeping sickness rockets. -->
+	<MakeAmmo_50mmRocket_SleepingSickness.description>Craft 10 50mm sleeping sickness rockets.</MakeAmmo_50mmRocket_SleepingSickness.description>
+	<!-- EN: Making 50mm sleeping sickness rockets. -->
+	<MakeAmmo_50mmRocket_SleepingSickness.jobString>Making 50mm sleeping sickness rockets.</MakeAmmo_50mmRocket_SleepingSickness.jobString>
+</LanguageData>

@@ -1,0 +1,45 @@
+<LanguageData>
+	<!-- Defs\Ammo\Rifle\473x33mmCaseless.xml -->
+	
+	<!-- EN: make 4.73x33mm Caseless (FMJ) cartridge x500 -->
+	<MakeAmmo_473x33mmCaseless_FMJ.label>make 4.73x33mm Caseless (FMJ) cartridge x500</MakeAmmo_473x33mmCaseless_FMJ.label>
+	<!-- EN: Craft 500 4.73x33mm Caseless (FMJ) cartridges. -->
+	<MakeAmmo_473x33mmCaseless_FMJ.description>Craft 500 4.73x33mm Caseless (FMJ) cartridges.</MakeAmmo_473x33mmCaseless_FMJ.description>
+	<!-- EN: Making 4.73x33mm Caseless (FMJ) cartridges. -->
+	<MakeAmmo_473x33mmCaseless_FMJ.jobString>Making 4.73x33mm Caseless (FMJ) cartridges.</MakeAmmo_473x33mmCaseless_FMJ.jobString>
+	
+	<!-- EN: make 4.73x33mm Caseless (AP) cartridge x500 -->
+	<MakeAmmo_473x33mmCaseless_AP.label>make 4.73x33mm Caseless (AP) cartridge x500</MakeAmmo_473x33mmCaseless_AP.label>
+	<!-- EN: Craft 500 4.73x33mm Caseless (AP) cartridges. -->
+	<MakeAmmo_473x33mmCaseless_AP.description>Craft 500 4.73x33mm Caseless (AP) cartridges.</MakeAmmo_473x33mmCaseless_AP.description>
+	<!-- EN: Making 4.73x33mm Caseless (AP) cartridges. -->
+	<MakeAmmo_473x33mmCaseless_AP.jobString>Making 4.73x33mm Caseless (AP) cartridges.</MakeAmmo_473x33mmCaseless_AP.jobString>
+	
+	<!-- EN: make 4.73x33mm Caseless (HP) cartridge x500 -->
+	<MakeAmmo_473x33mmCaseless_HP.label>make 4.73x33mm Caseless (HP) cartridge x500</MakeAmmo_473x33mmCaseless_HP.label>
+	<!-- EN: Craft 500 4.73x33mm Caseless (HP) cartridges. -->
+	<MakeAmmo_473x33mmCaseless_HP.description>Craft 500 4.73x33mm Caseless (HP) cartridges.</MakeAmmo_473x33mmCaseless_HP.description>
+	<!-- EN: Making 4.73x33mm Caseless (HP) cartridges. -->
+	<MakeAmmo_473x33mmCaseless_HP.jobString>Making 4.73x33mm Caseless (HP) cartridges.</MakeAmmo_473x33mmCaseless_HP.jobString>
+	
+	<!-- EN: make 4.73x33mm Caseless (AP-I) cartridge x500 -->
+	<MakeAmmo_473x33mmCaseless_Incendiary.label>make 4.73x33mm Caseless (AP-I) cartridge x500</MakeAmmo_473x33mmCaseless_Incendiary.label>
+	<!-- EN: Craft 500 4.73x33mm Caseless (AP-I) cartridges. -->
+	<MakeAmmo_473x33mmCaseless_Incendiary.description>Craft 500 4.73x33mm Caseless (AP-I) cartridges.</MakeAmmo_473x33mmCaseless_Incendiary.description>
+	<!-- EN: Making 4.73x33mm Caseless (AP-I) cartridges. -->
+	<MakeAmmo_473x33mmCaseless_Incendiary.jobString>Making 4.73x33mm Caseless (AP-I) cartridges.</MakeAmmo_473x33mmCaseless_Incendiary.jobString>
+	
+	<!-- EN: make 4.73x33mm Caseless (AP-HE) cartridge x500 -->
+	<MakeAmmo_473x33mmCaseless_HE.label>make 4.73x33mm Caseless (AP-HE) cartridge x500</MakeAmmo_473x33mmCaseless_HE.label>
+	<!-- EN: Craft 500 4.73x33mm Caseless (AP-HE) cartridges. -->
+	<MakeAmmo_473x33mmCaseless_HE.description>Craft 500 4.73x33mm Caseless (AP-HE) cartridges.</MakeAmmo_473x33mmCaseless_HE.description>
+	<!-- EN: Making 4.73x33mm Caseless (AP-HE) cartridges. -->
+	<MakeAmmo_473x33mmCaseless_HE.jobString>Making 4.73x33mm Caseless (AP-HE) cartridges.</MakeAmmo_473x33mmCaseless_HE.jobString>
+	
+	<!-- EN: make 4.73x33mm Caseless (Sabot) cartridge x500 -->
+	<MakeAmmo_473x33mmCaseless_Sabot.label>make 4.73x33mm Caseless (Sabot) cartridge x500</MakeAmmo_473x33mmCaseless_Sabot.label>
+	<!-- EN: Craft 500 4.73x33mm Caseless (Sabot) cartridges. -->
+	<MakeAmmo_473x33mmCaseless_Sabot.description>Craft 500 4.73x33mm Caseless (Sabot) cartridges.</MakeAmmo_473x33mmCaseless_Sabot.description>
+	<!-- EN: Making 4.73x33mm Caseless (Sabot) cartridges. -->
+	<MakeAmmo_473x33mmCaseless_Sabot.jobString>Making 4.73x33mm Caseless (Sabot) cartridges.</MakeAmmo_473x33mmCaseless_Sabot.jobString>
+</LanguageData>

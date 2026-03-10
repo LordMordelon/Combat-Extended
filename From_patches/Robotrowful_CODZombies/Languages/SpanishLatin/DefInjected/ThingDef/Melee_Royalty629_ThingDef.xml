@@ -1,0 +1,21 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Robotrowful_CODZombies\Melee_Royalty629.xml -->
+	<!-- EN: handle -->
+	<CodZP_MeleeWeapon_MonoSword.tools.0.label>handle</CodZP_MeleeWeapon_MonoSword.tools.0.label>
+	<!-- EN: edge -->
+	<CodZP_MeleeWeapon_MonoSword.tools.1.label>edge</CodZP_MeleeWeapon_MonoSword.tools.1.label>
+	<!-- EN: point -->
+	<CodZP_MeleeWeapon_MonoSword.tools.2.label>point</CodZP_MeleeWeapon_MonoSword.tools.2.label>
+	
+	<!-- EN: handle -->
+	<CodZP_MeleeWeapon_Zeushammer.tools.0.label>handle</CodZP_MeleeWeapon_Zeushammer.tools.0.label>
+	<!-- EN: head -->
+	<CodZP_MeleeWeapon_Zeushammer.tools.1.label>head</CodZP_MeleeWeapon_Zeushammer.tools.1.label>
+	
+	<!-- EN: handle -->
+	<CodZP_MeleeWeapon_PlasmaSword.tools.0.label>handle</CodZP_MeleeWeapon_PlasmaSword.tools.0.label>
+	<!-- EN: edge -->
+	<CodZP_MeleeWeapon_PlasmaSword.tools.1.label>edge</CodZP_MeleeWeapon_PlasmaSword.tools.1.label>
+	<!-- EN: point -->
+	<CodZP_MeleeWeapon_PlasmaSword.tools.2.label>point</CodZP_MeleeWeapon_PlasmaSword.tools.2.label>
+</LanguageData>

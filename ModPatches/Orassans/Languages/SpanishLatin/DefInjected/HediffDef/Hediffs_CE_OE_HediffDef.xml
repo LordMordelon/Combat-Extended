@@ -1,0 +1,21 @@
+<LanguageData>
+	<!-- ModPatches\Orassans\Defs\Orassans\Ammo\Hediffs_CE_OE.xml -->
+	<!-- EN: Accelerated Prometheum-soaked -->
+	<AprometheumSoaked.label>Accelerated Prometheum-soaked</AprometheumSoaked.label>
+	<!-- EN: Soaked in Accelerated Prometheum -->
+	<AprometheumSoaked.description>Soaked in Accelerated Prometheum</AprometheumSoaked.description>
+	<!-- EN: minor -->
+	<AprometheumSoaked.stages.0.label>minor</AprometheumSoaked.stages.0.label>
+	<!-- EN: dripping -->
+	<AprometheumSoaked.stages.1.label>dripping</AprometheumSoaked.stages.1.label>
+	<!-- EN: soaked -->
+	<AprometheumSoaked.stages.2.label>soaked</AprometheumSoaked.stages.2.label>
+	<!-- EN: soaked -->
+	<AprometheumSoaked.stages.3.label>soaked</AprometheumSoaked.stages.3.label>
+	<!-- EN: drenched -->
+	<AprometheumSoaked.stages.4.label>drenched</AprometheumSoaked.stages.4.label>
+	<!-- EN: drenched -->
+	<AprometheumSoaked.stages.5.label>drenched</AprometheumSoaked.stages.5.label>
+	<!-- EN: overdrenched -->
+	<AprometheumSoaked.stages.6.label>overdrenched</AprometheumSoaked.stages.6.label>
+</LanguageData>

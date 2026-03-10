@@ -1,0 +1,12 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\840_Tach_GWarCasket\Melee_Warcaskets1938.xml -->
+	<!-- EN: point -->
+	<VFEP_WarcasketMeleeWeapon_GKatana.tools.0.label>point</VFEP_WarcasketMeleeWeapon_GKatana.tools.0.label>
+	<!-- EN: edge -->
+	<VFEP_WarcasketMeleeWeapon_GKatana.tools.1.label>edge</VFEP_WarcasketMeleeWeapon_GKatana.tools.1.label>
+	
+	<!-- EN: spikerod -->
+	<VFEP_WarcasketMeleeWeapon_GMace.tools.0.label>spikerod</VFEP_WarcasketMeleeWeapon_GMace.tools.0.label>
+	<!-- EN: head -->
+	<VFEP_WarcasketMeleeWeapon_GMace.tools.1.label>head</VFEP_WarcasketMeleeWeapon_GMace.tools.1.label>
+</LanguageData>

@@ -1,0 +1,14 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\RedMattis_BigWeapons\BS_Neolithic468.xml -->
+	<!-- EN: handle -->
+	<BS_GiantSalvageClub.tools.0.label>handle</BS_GiantSalvageClub.tools.0.label>
+	<!-- EN: head -->
+	<BS_GiantSalvageClub.tools.1.label>head</BS_GiantSalvageClub.tools.1.label>
+	
+	<!-- EN: handle -->
+	<BS_GiantShard.tools.0.label>handle</BS_GiantShard.tools.0.label>
+	<!-- EN: edge -->
+	<BS_GiantShard.tools.1.label>edge</BS_GiantShard.tools.1.label>
+	<!-- EN: point -->
+	<BS_GiantShard.tools.2.label>point</BS_GiantShard.tools.2.label>
+</LanguageData>

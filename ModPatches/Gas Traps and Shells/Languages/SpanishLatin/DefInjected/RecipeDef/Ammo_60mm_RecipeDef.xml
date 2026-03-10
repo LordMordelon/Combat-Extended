@@ -1,0 +1,45 @@
+<LanguageData>
+	<!-- ModPatches\Gas Traps and Shells\Defs\Gas Traps and Shells\Ammo_60mm.xml -->
+	
+	<!-- EN: make 60mm toxic gas mortar shells x5 -->
+	<MakeShell_60mmMortar_ToxicGas.label>make 60mm toxic gas mortar shells x5</MakeShell_60mmMortar_ToxicGas.label>
+	<!-- EN: Craft 5 60mm toxic gas mortar shells. -->
+	<MakeShell_60mmMortar_ToxicGas.description>Craft 5 60mm toxic gas mortar shells.</MakeShell_60mmMortar_ToxicGas.description>
+	<!-- EN: Making 60mm toxic gas mortar shells. -->
+	<MakeShell_60mmMortar_ToxicGas.jobString>Making 60mm toxic gas mortar shells.</MakeShell_60mmMortar_ToxicGas.jobString>
+	
+	<!-- EN: make 60mm rage gas mortar shells x5 -->
+	<MakeShell_60mmMortar_RageGas.label>make 60mm rage gas mortar shells x5</MakeShell_60mmMortar_RageGas.label>
+	<!-- EN: Craft 5 60mm rage gas mortar shells. -->
+	<MakeShell_60mmMortar_RageGas.description>Craft 5 60mm rage gas mortar shells.</MakeShell_60mmMortar_RageGas.description>
+	<!-- EN: Making 60mm rage gas mortar shells. -->
+	<MakeShell_60mmMortar_RageGas.jobString>Making 60mm rage gas mortar shells.</MakeShell_60mmMortar_RageGas.jobString>
+	
+	<!-- EN: make 60mm tear gas mortar shells x5 -->
+	<MakeShell_60mmMortar_TearGas.label>make 60mm tear gas mortar shells x5</MakeShell_60mmMortar_TearGas.label>
+	<!-- EN: Craft 5 60mm tear gas mortar shells. -->
+	<MakeShell_60mmMortar_TearGas.description>Craft 5 60mm tear gas mortar shells.</MakeShell_60mmMortar_TearGas.description>
+	<!-- EN: Making 60mm tear gas mortar shells. -->
+	<MakeShell_60mmMortar_TearGas.jobString>Making 60mm tear gas mortar shells.</MakeShell_60mmMortar_TearGas.jobString>
+	
+	<!-- EN: make 60mm sleep gas mortar shells x5 -->
+	<MakeShell_60mmMortar_SleepGas.label>make 60mm sleep gas mortar shells x5</MakeShell_60mmMortar_SleepGas.label>
+	<!-- EN: Craft 5 60mm sleep gas mortar shells. -->
+	<MakeShell_60mmMortar_SleepGas.description>Craft 5 60mm sleep gas mortar shells.</MakeShell_60mmMortar_SleepGas.description>
+	<!-- EN: Making 60mm sleep gas mortar shells. -->
+	<MakeShell_60mmMortar_SleepGas.jobString>Making 60mm sleep gas mortar shells.</MakeShell_60mmMortar_SleepGas.jobString>
+	
+	<!-- EN: make 60mm fear gas mortar shells x5 -->
+	<MakeShell_60mmMortar_FearGas.label>make 60mm fear gas mortar shells x5</MakeShell_60mmMortar_FearGas.label>
+	<!-- EN: Craft 5 60mm fear gas mortar shells. -->
+	<MakeShell_60mmMortar_FearGas.description>Craft 5 60mm fear gas mortar shells.</MakeShell_60mmMortar_FearGas.description>
+	<!-- EN: Making 60mm fear gas mortar shells. -->
+	<MakeShell_60mmMortar_FearGas.jobString>Making 60mm fear gas mortar shells.</MakeShell_60mmMortar_FearGas.jobString>
+	
+	<!-- EN: make 60mm corrosive acid mortar shells x5 -->
+	<MakeShell_60mmMortar_AcidGas.label>make 60mm corrosive acid mortar shells x5</MakeShell_60mmMortar_AcidGas.label>
+	<!-- EN: Craft 5 60mm corrosive acid mortar shells. -->
+	<MakeShell_60mmMortar_AcidGas.description>Craft 5 60mm corrosive acid mortar shells.</MakeShell_60mmMortar_AcidGas.description>
+	<!-- EN: Making 60mm corrosive acid mortar shells. -->
+	<MakeShell_60mmMortar_AcidGas.jobString>Making 60mm corrosive acid mortar shells.</MakeShell_60mmMortar_AcidGas.jobString>
+</LanguageData>

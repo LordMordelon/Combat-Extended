@@ -1,0 +1,45 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Mlie_HaloRimworldPsychicPulseArmory\RangedArchotech890.xml -->
+	<!-- EN: grip -->
+	<HRPPA_PsychicPulseCannon.tools.0.label>grip</HRPPA_PsychicPulseCannon.tools.0.label>
+	<!-- EN: muzzle -->
+	<HRPPA_PsychicPulseCannon.tools.1.label>muzzle</HRPPA_PsychicPulseCannon.tools.1.label>
+	
+	<!-- EN: stock -->
+	<HRPPA_PsychicPulseRepeater.tools.0.label>stock</HRPPA_PsychicPulseRepeater.tools.0.label>
+	<!-- EN: barrel -->
+	<HRPPA_PsychicPulseRepeater.tools.1.label>barrel</HRPPA_PsychicPulseRepeater.tools.1.label>
+	<!-- EN: muzzle -->
+	<HRPPA_PsychicPulseRepeater.tools.2.label>muzzle</HRPPA_PsychicPulseRepeater.tools.2.label>
+	
+	<!-- EN: stock -->
+	<HRPPA_PsychicPulseSpinner.tools.0.label>stock</HRPPA_PsychicPulseSpinner.tools.0.label>
+	<!-- EN: barrel -->
+	<HRPPA_PsychicPulseSpinner.tools.1.label>barrel</HRPPA_PsychicPulseSpinner.tools.1.label>
+	<!-- EN: muzzle -->
+	<HRPPA_PsychicPulseSpinner.tools.2.label>muzzle</HRPPA_PsychicPulseSpinner.tools.2.label>
+	
+	<!-- EN: stock -->
+	<HRPPA_PsychicPulseScatter.tools.0.label>stock</HRPPA_PsychicPulseScatter.tools.0.label>
+	<!-- EN: barrel -->
+	<HRPPA_PsychicPulseScatter.tools.1.label>barrel</HRPPA_PsychicPulseScatter.tools.1.label>
+	<!-- EN: muzzle -->
+	<HRPPA_PsychicPulseScatter.tools.2.label>muzzle</HRPPA_PsychicPulseScatter.tools.2.label>
+	
+	<!-- EN: stock -->
+	<HRPPA_PsychicPulseReacher.tools.0.label>stock</HRPPA_PsychicPulseReacher.tools.0.label>
+	<!-- EN: barrel -->
+	<HRPPA_PsychicPulseReacher.tools.1.label>barrel</HRPPA_PsychicPulseReacher.tools.1.label>
+	<!-- EN: muzzle -->
+	<HRPPA_PsychicPulseReacher.tools.2.label>muzzle</HRPPA_PsychicPulseReacher.tools.2.label>
+	
+	<!-- EN: stock -->
+	<HRPPA_PsychicPulseLancer.tools.0.label>stock</HRPPA_PsychicPulseLancer.tools.0.label>
+	<!-- EN: barrel -->
+	<HRPPA_PsychicPulseLancer.tools.1.label>barrel</HRPPA_PsychicPulseLancer.tools.1.label>
+	<!-- EN: muzzle -->
+	<HRPPA_PsychicPulseLancer.tools.2.label>muzzle</HRPPA_PsychicPulseLancer.tools.2.label>
+	
+	<!-- EN: handle -->
+	<HRPPA_PsychicPulseGrenade.tools.0.label>handle</HRPPA_PsychicPulseGrenade.tools.0.label>
+</LanguageData>

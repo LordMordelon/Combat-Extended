@@ -1,0 +1,180 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\onyxae_dragonsdescent\Races_Animal_Common_Dragon704.xml -->
+	<!-- EN: DD_Knockback -->
+	<Black_Dragon.tools.0.label>DD_Knockback</Black_Dragon.tools.0.label>
+	
+	<!-- EN: DD_Knockback -->
+	<Blue_Dragon.tools.0.label>DD_Knockback</Blue_Dragon.tools.0.label>
+	
+	<!-- EN: DD_Knockback -->
+	<Green_Dragon.tools.0.label>DD_Knockback</Green_Dragon.tools.0.label>
+	
+	<!-- EN: DD_Knockback -->
+	<Purple_Dragon.tools.0.label>DD_Knockback</Purple_Dragon.tools.0.label>
+	
+	<!-- EN: DD_Knockback -->
+	<Red_Dragon.tools.0.label>DD_Knockback</Red_Dragon.tools.0.label>
+	
+	<!-- EN: DD_Knockback -->
+	<White_Dragon.tools.0.label>DD_Knockback</White_Dragon.tools.0.label>
+	
+	<!-- EN: DD_Knockback -->
+	<Yellow_Dragon.tools.0.label>DD_Knockback</Yellow_Dragon.tools.0.label>
+	
+	<!-- EN: left claw -->
+	<Blue_Dragon.tools.0.label>left claw</Blue_Dragon.tools.0.label>
+	<!-- EN: right claw -->
+	<Blue_Dragon.tools.1.label>right claw</Blue_Dragon.tools.1.label>
+	<!-- EN: horn -->
+	<Blue_Dragon.tools.2.label>horn</Blue_Dragon.tools.2.label>
+	<!-- EN: horn -->
+	<Blue_Dragon.tools.3.label>horn</Blue_Dragon.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<Green_Dragon.tools.0.label>left claw</Green_Dragon.tools.0.label>
+	<!-- EN: right claw -->
+	<Green_Dragon.tools.1.label>right claw</Green_Dragon.tools.1.label>
+	<!-- EN: horn -->
+	<Green_Dragon.tools.2.label>horn</Green_Dragon.tools.2.label>
+	<!-- EN: horn -->
+	<Green_Dragon.tools.3.label>horn</Green_Dragon.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<Purple_Dragon.tools.0.label>left claw</Purple_Dragon.tools.0.label>
+	<!-- EN: right claw -->
+	<Purple_Dragon.tools.1.label>right claw</Purple_Dragon.tools.1.label>
+	<!-- EN: horn -->
+	<Purple_Dragon.tools.2.label>horn</Purple_Dragon.tools.2.label>
+	<!-- EN: horn -->
+	<Purple_Dragon.tools.3.label>horn</Purple_Dragon.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<White_Dragon.tools.0.label>left claw</White_Dragon.tools.0.label>
+	<!-- EN: right claw -->
+	<White_Dragon.tools.1.label>right claw</White_Dragon.tools.1.label>
+	<!-- EN: horn -->
+	<White_Dragon.tools.2.label>horn</White_Dragon.tools.2.label>
+	<!-- EN: horn -->
+	<White_Dragon.tools.3.label>horn</White_Dragon.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<Yellow_Dragon.tools.0.label>left claw</Yellow_Dragon.tools.0.label>
+	<!-- EN: right claw -->
+	<Yellow_Dragon.tools.1.label>right claw</Yellow_Dragon.tools.1.label>
+	<!-- EN: horn -->
+	<Yellow_Dragon.tools.2.label>horn</Yellow_Dragon.tools.2.label>
+	<!-- EN: horn -->
+	<Yellow_Dragon.tools.3.label>horn</Yellow_Dragon.tools.3.label>
+	
+	<!-- EN: teeth -->
+	<Black_Dragon.tools.0.label>teeth</Black_Dragon.tools.0.label>
+	
+	<!-- EN: teeth -->
+	<Purple_Dragon.tools.0.label>teeth</Purple_Dragon.tools.0.label>
+	
+	<!-- EN: teeth -->
+	<Yellow_Dragon.tools.0.label>teeth</Yellow_Dragon.tools.0.label>
+	
+	<!-- EN: head -->
+	<Purple_Dragon.tools.0.label>head</Purple_Dragon.tools.0.label>
+	
+	<!-- EN: head -->
+	<White_Dragon.tools.0.label>head</White_Dragon.tools.0.label>
+	
+	<!-- EN: head -->
+	<Yellow_Dragon.tools.0.label>head</Yellow_Dragon.tools.0.label>
+	
+	<!-- EN: tail -->
+	<Purple_Dragon.tools.0.label>tail</Purple_Dragon.tools.0.label>
+	
+	<!-- EN: tail -->
+	<Red_Dragon.tools.0.label>tail</Red_Dragon.tools.0.label>
+	
+	<!-- EN: tail -->
+	<White_Dragon.tools.0.label>tail</White_Dragon.tools.0.label>
+	
+	<!-- EN: tail -->
+	<Yellow_Dragon.tools.0.label>tail</Yellow_Dragon.tools.0.label>
+	
+	<!-- EN: Fire Breath -->
+	<Black_Dragon.verbs.0.label>Fire Breath</Black_Dragon.verbs.0.label>
+	<!-- EN: Dragon Spit -->
+	<Black_Dragon.verbs.1.label>Dragon Spit</Black_Dragon.verbs.1.label>
+	<!-- EN: ㅤ -->
+	<Black_Dragon.verbs.CombatExtended.Verb_ShootCE.label>ㅤ</Black_Dragon.verbs.CombatExtended.Verb_ShootCE.label>
+	
+	<!-- EN: Fire Breath -->
+	<Blue_Dragon.verbs.0.label>Fire Breath</Blue_Dragon.verbs.0.label>
+	<!-- EN: Dragon Spit -->
+	<Blue_Dragon.verbs.1.label>Dragon Spit</Blue_Dragon.verbs.1.label>
+	<!-- EN: ㅤ -->
+	<Blue_Dragon.verbs.CombatExtended.Verb_ShootCE.label>ㅤ</Blue_Dragon.verbs.CombatExtended.Verb_ShootCE.label>
+	
+	<!-- EN: Fire Breath -->
+	<Green_Dragon.verbs.0.label>Fire Breath</Green_Dragon.verbs.0.label>
+	<!-- EN: Dragon Spit -->
+	<Green_Dragon.verbs.1.label>Dragon Spit</Green_Dragon.verbs.1.label>
+	<!-- EN: ㅤ -->
+	<Green_Dragon.verbs.CombatExtended.Verb_ShootCE.label>ㅤ</Green_Dragon.verbs.CombatExtended.Verb_ShootCE.label>
+	
+	<!-- EN: Fire Breath -->
+	<Purple_Dragon.verbs.0.label>Fire Breath</Purple_Dragon.verbs.0.label>
+	<!-- EN: Dragon Spit -->
+	<Purple_Dragon.verbs.1.label>Dragon Spit</Purple_Dragon.verbs.1.label>
+	<!-- EN: ㅤ -->
+	<Purple_Dragon.verbs.CombatExtended.Verb_ShootCE.label>ㅤ</Purple_Dragon.verbs.CombatExtended.Verb_ShootCE.label>
+	
+	<!-- EN: Fire Breath -->
+	<Red_Dragon.verbs.0.label>Fire Breath</Red_Dragon.verbs.0.label>
+	<!-- EN: Dragon Spit -->
+	<Red_Dragon.verbs.1.label>Dragon Spit</Red_Dragon.verbs.1.label>
+	<!-- EN: ㅤ -->
+	<Red_Dragon.verbs.CombatExtended.Verb_ShootCE.label>ㅤ</Red_Dragon.verbs.CombatExtended.Verb_ShootCE.label>
+	
+	<!-- EN: Fire Breath -->
+	<White_Dragon.verbs.0.label>Fire Breath</White_Dragon.verbs.0.label>
+	<!-- EN: Dragon Spit -->
+	<White_Dragon.verbs.1.label>Dragon Spit</White_Dragon.verbs.1.label>
+	<!-- EN: ㅤ -->
+	<White_Dragon.verbs.CombatExtended.Verb_ShootCE.label>ㅤ</White_Dragon.verbs.CombatExtended.Verb_ShootCE.label>
+	
+	<!-- EN: Fire Breath -->
+	<Yellow_Dragon.verbs.0.label>Fire Breath</Yellow_Dragon.verbs.0.label>
+	<!-- EN: Dragon Spit -->
+	<Yellow_Dragon.verbs.1.label>Dragon Spit</Yellow_Dragon.verbs.1.label>
+	<!-- EN: ㅤ -->
+	<Yellow_Dragon.verbs.CombatExtended.Verb_ShootCE.label>ㅤ</Yellow_Dragon.verbs.CombatExtended.Verb_ShootCE.label>
+	
+	<!-- EN: left claw -->
+	<Black_Dragon.tools.0.label>left claw</Black_Dragon.tools.0.label>
+	<!-- EN: right claw -->
+	<Black_Dragon.tools.1.label>right claw</Black_Dragon.tools.1.label>
+	<!-- EN: horn -->
+	<Black_Dragon.tools.2.label>horn</Black_Dragon.tools.2.label>
+	<!-- EN: horn -->
+	<Black_Dragon.tools.3.label>horn</Black_Dragon.tools.3.label>
+	<!-- EN: teeth -->
+	<Black_Dragon.tools.4.label>teeth</Black_Dragon.tools.4.label>
+	
+	<!-- EN: teeth -->
+	<Blue_Dragon.tools.0.label>teeth</Blue_Dragon.tools.0.label>
+	
+	<!-- EN: teeth -->
+	<Green_Dragon.tools.0.label>teeth</Green_Dragon.tools.0.label>
+	
+	<!-- EN: left claw -->
+	<Red_Dragon.tools.0.label>left claw</Red_Dragon.tools.0.label>
+	<!-- EN: right claw -->
+	<Red_Dragon.tools.1.label>right claw</Red_Dragon.tools.1.label>
+	<!-- EN: horn -->
+	<Red_Dragon.tools.2.label>horn</Red_Dragon.tools.2.label>
+	<!-- EN: horn -->
+	<Red_Dragon.tools.3.label>horn</Red_Dragon.tools.3.label>
+	<!-- EN: teeth -->
+	<Red_Dragon.tools.4.label>teeth</Red_Dragon.tools.4.label>
+	<!-- EN: tail -->
+	<Red_Dragon.tools.5.label>tail</Red_Dragon.tools.5.label>
+	
+	<!-- EN: teeth -->
+	<White_Dragon.tools.0.label>teeth</White_Dragon.tools.0.label>
+</LanguageData>

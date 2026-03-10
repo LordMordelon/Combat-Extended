@@ -1,0 +1,21 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Ludeon_Rimworld_Royalty\Weapons_RoyaltyBladelinkMelee41.xml -->
+	<!-- EN: handle -->
+	<MeleeWeapon_MonoSwordBladelink.tools.0.label>handle</MeleeWeapon_MonoSwordBladelink.tools.0.label>
+	<!-- EN: edge -->
+	<MeleeWeapon_MonoSwordBladelink.tools.1.label>edge</MeleeWeapon_MonoSwordBladelink.tools.1.label>
+	<!-- EN: point -->
+	<MeleeWeapon_MonoSwordBladelink.tools.2.label>point</MeleeWeapon_MonoSwordBladelink.tools.2.label>
+	
+	<!-- EN: handle -->
+	<MeleeWeapon_ZeusHammerBladelink.tools.0.label>handle</MeleeWeapon_ZeusHammerBladelink.tools.0.label>
+	<!-- EN: head -->
+	<MeleeWeapon_ZeusHammerBladelink.tools.1.label>head</MeleeWeapon_ZeusHammerBladelink.tools.1.label>
+	
+	<!-- EN: handle -->
+	<MeleeWeapon_PlasmaSwordBladelink.tools.0.label>handle</MeleeWeapon_PlasmaSwordBladelink.tools.0.label>
+	<!-- EN: edge -->
+	<MeleeWeapon_PlasmaSwordBladelink.tools.1.label>edge</MeleeWeapon_PlasmaSwordBladelink.tools.1.label>
+	<!-- EN: point -->
+	<MeleeWeapon_PlasmaSwordBladelink.tools.2.label>point</MeleeWeapon_PlasmaSwordBladelink.tools.2.label>
+</LanguageData>

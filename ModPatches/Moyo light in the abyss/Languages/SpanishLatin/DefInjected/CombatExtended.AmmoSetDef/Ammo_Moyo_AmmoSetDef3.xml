@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Moyo light in the abyss\Defs\Moyo light in the abyss\Ammo\Ammo_Moyo.xml -->
+	<!-- EN: Light Plasma Cell -->
+	<AmmoSet_MabyssalLight.label>Light Plasma Cell</AmmoSet_MabyssalLight.label>
+	<!-- EN: Rifle Plasma Cell -->
+	<AmmoSet_MabyssalMid.label>Rifle Plasma Cell</AmmoSet_MabyssalMid.label>
+	<!-- EN: Heavy Plasma Cell -->
+	<AmmoSet_MabyssalAccelerated.label>Heavy Plasma Cell</AmmoSet_MabyssalAccelerated.label>
+</LanguageData>

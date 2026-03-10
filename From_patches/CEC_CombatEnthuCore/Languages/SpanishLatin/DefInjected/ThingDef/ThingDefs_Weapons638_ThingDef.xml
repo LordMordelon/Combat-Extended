@@ -1,0 +1,151 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\CEC_CombatEnthuCore\ThingDefs_Weapons638.xml -->
+	<!-- EN: handle -->
+	<CEC_TacticalSledgeHammer.tools.0.label>handle</CEC_TacticalSledgeHammer.tools.0.label>
+	<!-- EN: head -->
+	<CEC_TacticalSledgeHammer.tools.1.label>head</CEC_TacticalSledgeHammer.tools.1.label>
+	
+	<!-- EN: grip -->
+	<CEC_Zipper.tools.0.label>grip</CEC_Zipper.tools.0.label>
+	<!-- EN: muzzle -->
+	<CEC_Zipper.tools.1.label>muzzle</CEC_Zipper.tools.1.label>
+	
+	<!-- EN: grip -->
+	<CEC_MuffaloCannon.tools.0.label>grip</CEC_MuffaloCannon.tools.0.label>
+	<!-- EN: muzzle -->
+	<CEC_MuffaloCannon.tools.1.label>muzzle</CEC_MuffaloCannon.tools.1.label>
+	
+	<!-- EN: grip -->
+	<CEC_FiveSeven.tools.0.label>grip</CEC_FiveSeven.tools.0.label>
+	<!-- EN: muzzle -->
+	<CEC_FiveSeven.tools.1.label>muzzle</CEC_FiveSeven.tools.1.label>
+	
+	<!-- EN: grip -->
+	<CEC_Thunder.tools.0.label>grip</CEC_Thunder.tools.0.label>
+	<!-- EN: muzzle -->
+	<CEC_Thunder.tools.1.label>muzzle</CEC_Thunder.tools.1.label>
+	
+	<!-- EN: grip -->
+	<CEC_BigIron.tools.0.label>grip</CEC_BigIron.tools.0.label>
+	<!-- EN: muzzle -->
+	<CEC_BigIron.tools.1.label>muzzle</CEC_BigIron.tools.1.label>
+	
+	<!-- EN: stock -->
+	<CEC_BurstRifle.tools.0.label>stock</CEC_BurstRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<CEC_BurstRifle.tools.1.label>barrel</CEC_BurstRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<CEC_BurstRifle.tools.2.label>muzzle</CEC_BurstRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<CEC_ClockworkAR.tools.0.label>stock</CEC_ClockworkAR.tools.0.label>
+	<!-- EN: barrel -->
+	<CEC_ClockworkAR.tools.1.label>barrel</CEC_ClockworkAR.tools.1.label>
+	<!-- EN: muzzle -->
+	<CEC_ClockworkAR.tools.2.label>muzzle</CEC_ClockworkAR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<CEC_MRS.tools.0.label>stock</CEC_MRS.tools.0.label>
+	<!-- EN: barrel -->
+	<CEC_MRS.tools.1.label>barrel</CEC_MRS.tools.1.label>
+	<!-- EN: muzzle -->
+	<CEC_MRS.tools.2.label>muzzle</CEC_MRS.tools.2.label>
+	
+	<!-- EN: stock -->
+	<CEC_SSRifle.tools.0.label>stock</CEC_SSRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<CEC_SSRifle.tools.1.label>barrel</CEC_SSRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<CEC_SSRifle.tools.2.label>muzzle</CEC_SSRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<CEC_CompactSR.tools.0.label>stock</CEC_CompactSR.tools.0.label>
+	<!-- EN: barrel -->
+	<CEC_CompactSR.tools.1.label>barrel</CEC_CompactSR.tools.1.label>
+	<!-- EN: muzzle -->
+	<CEC_CompactSR.tools.2.label>muzzle</CEC_CompactSR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<CEC_Neopup.tools.0.label>stock</CEC_Neopup.tools.0.label>
+	<!-- EN: barrel -->
+	<CEC_Neopup.tools.1.label>barrel</CEC_Neopup.tools.1.label>
+	<!-- EN: muzzle -->
+	<CEC_Neopup.tools.2.label>muzzle</CEC_Neopup.tools.2.label>
+	
+	<!-- EN: stock -->
+	<CEC_CombatShotgun.tools.0.label>stock</CEC_CombatShotgun.tools.0.label>
+	<!-- EN: barrel -->
+	<CEC_CombatShotgun.tools.1.label>barrel</CEC_CombatShotgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<CEC_CombatShotgun.tools.2.label>muzzle</CEC_CombatShotgun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<CEC_BullpupSniper.tools.0.label>stock</CEC_BullpupSniper.tools.0.label>
+	<!-- EN: barrel -->
+	<CEC_BullpupSniper.tools.1.label>barrel</CEC_BullpupSniper.tools.1.label>
+	<!-- EN: muzzle -->
+	<CEC_BullpupSniper.tools.2.label>muzzle</CEC_BullpupSniper.tools.2.label>
+	
+	<!-- EN: stock -->
+	<CEC_DVLTen.tools.0.label>stock</CEC_DVLTen.tools.0.label>
+	<!-- EN: barrel -->
+	<CEC_DVLTen.tools.1.label>barrel</CEC_DVLTen.tools.1.label>
+	<!-- EN: muzzle -->
+	<CEC_DVLTen.tools.2.label>muzzle</CEC_DVLTen.tools.2.label>
+	
+	<!-- EN: stock -->
+	<CEC_AntiMaterielRifle.tools.0.label>stock</CEC_AntiMaterielRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<CEC_AntiMaterielRifle.tools.1.label>barrel</CEC_AntiMaterielRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<CEC_AntiMaterielRifle.tools.2.label>muzzle</CEC_AntiMaterielRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<CEC_Intervention.tools.0.label>stock</CEC_Intervention.tools.0.label>
+	<!-- EN: barrel -->
+	<CEC_Intervention.tools.1.label>barrel</CEC_Intervention.tools.1.label>
+	<!-- EN: muzzle -->
+	<CEC_Intervention.tools.2.label>muzzle</CEC_Intervention.tools.2.label>
+	
+	<!-- EN: stock -->
+	<CEC_BattleRifle.tools.0.label>stock</CEC_BattleRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<CEC_BattleRifle.tools.1.label>barrel</CEC_BattleRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<CEC_BattleRifle.tools.2.label>muzzle</CEC_BattleRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<CEC_LWAMG.tools.0.label>stock</CEC_LWAMG.tools.0.label>
+	<!-- EN: barrel -->
+	<CEC_LWAMG.tools.1.label>barrel</CEC_LWAMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<CEC_LWAMG.tools.2.label>muzzle</CEC_LWAMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<CEC_WoodlandSMG.tools.0.label>stock</CEC_WoodlandSMG.tools.0.label>
+	<!-- EN: barrel -->
+	<CEC_WoodlandSMG.tools.1.label>barrel</CEC_WoodlandSMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<CEC_WoodlandSMG.tools.2.label>muzzle</CEC_WoodlandSMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<CEC_PDW.tools.0.label>stock</CEC_PDW.tools.0.label>
+	<!-- EN: barrel -->
+	<CEC_PDW.tools.1.label>barrel</CEC_PDW.tools.1.label>
+	<!-- EN: muzzle -->
+	<CEC_PDW.tools.2.label>muzzle</CEC_PDW.tools.2.label>
+	
+	<!-- EN: stock -->
+	<CEC_TMG.tools.0.label>stock</CEC_TMG.tools.0.label>
+	<!-- EN: barrel -->
+	<CEC_TMG.tools.1.label>barrel</CEC_TMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<CEC_TMG.tools.2.label>muzzle</CEC_TMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<CEC_SkorpionEvo.tools.0.label>stock</CEC_SkorpionEvo.tools.0.label>
+	<!-- EN: barrel -->
+	<CEC_SkorpionEvo.tools.1.label>barrel</CEC_SkorpionEvo.tools.1.label>
+	<!-- EN: muzzle -->
+	<CEC_SkorpionEvo.tools.2.label>muzzle</CEC_SkorpionEvo.tools.2.label>
+</LanguageData>

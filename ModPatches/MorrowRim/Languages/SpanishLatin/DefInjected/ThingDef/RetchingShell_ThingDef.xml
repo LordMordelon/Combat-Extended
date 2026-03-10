@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\MorrowRim\Defs\MorrowRim\RetchingShell.xml -->
+	
+	<!-- EN: retching netch gas shell -->
+	<MorrowRim_RetchingNetchShell.label>retching netch gas shell</MorrowRim_RetchingNetchShell.label>
+	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+	<MorrowRim_RetchingNetchShell.description>Low-velocity shell designed to be fired from a mortar.</MorrowRim_RetchingNetchShell.description>
+	
+	<!-- EN: Retching Netch Shell -->
+	<Bullet_RetchingNetchShell.label>Retching Netch Shell</Bullet_RetchingNetchShell.label>
+</LanguageData>

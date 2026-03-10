@@ -1,0 +1,14 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Artemiish_SupernaturalWeapons\Patches1642.xml -->
+	<!-- EN: handle -->
+	<Artemiish_SNKnife.tools.0.label>handle</Artemiish_SNKnife.tools.0.label>
+	<!-- EN: blade -->
+	<Artemiish_SNKnife.tools.1.label>blade</Artemiish_SNKnife.tools.1.label>
+	<!-- EN: point -->
+	<Artemiish_SNKnife.tools.2.label>point</Artemiish_SNKnife.tools.2.label>
+	
+	<!-- EN: grip -->
+	<Artemiish_SNRevolver.tools.0.label>grip</Artemiish_SNRevolver.tools.0.label>
+	<!-- EN: muzzle -->
+	<Artemiish_SNRevolver.tools.1.label>muzzle</Artemiish_SNRevolver.tools.1.label>
+</LanguageData>

@@ -1,0 +1,33 @@
+<LanguageData>
+	<!-- Defs\Ammo\Neolithic\Arrows.xml -->
+	<!-- EN: make stone arrows x10 -->
+	<MakeAmmo_Arrow_Stone.label>make stone arrows x10</MakeAmmo_Arrow_Stone.label>
+	<!-- EN: Craft 10 stone arrows. -->
+	<MakeAmmo_Arrow_Stone.description>Craft 10 stone arrows.</MakeAmmo_Arrow_Stone.description>
+	<!-- EN: Making stone arrows. -->
+	<MakeAmmo_Arrow_Stone.jobString>Making stone arrows.</MakeAmmo_Arrow_Stone.jobString>
+	<!-- EN: make steel arrows x10 -->
+	<MakeAmmo_Arrow_Steel.label>make steel arrows x10</MakeAmmo_Arrow_Steel.label>
+	<!-- EN: Craft 10 steel arrows. -->
+	<MakeAmmo_Arrow_Steel.description>Craft 10 steel arrows.</MakeAmmo_Arrow_Steel.description>
+	<!-- EN: Making steel arrows. -->
+	<MakeAmmo_Arrow_Steel.jobString>Making steel arrows.</MakeAmmo_Arrow_Steel.jobString>
+	<!-- EN: make plasteel arrows x10 -->
+	<MakeAmmo_Arrow_Plasteel.label>make plasteel arrows x10</MakeAmmo_Arrow_Plasteel.label>
+	<!-- EN: Craft 10 plasteel arrows. -->
+	<MakeAmmo_Arrow_Plasteel.description>Craft 10 plasteel arrows.</MakeAmmo_Arrow_Plasteel.description>
+	<!-- EN: Making plasteel arrows. -->
+	<MakeAmmo_Arrow_Plasteel.jobString>Making plasteel arrows.</MakeAmmo_Arrow_Plasteel.jobString>
+	<!-- EN: make venom arrows x10 -->
+	<MakeAmmo_Arrow_Venom.label>make venom arrows x10</MakeAmmo_Arrow_Venom.label>
+	<!-- EN: Craft 10 venom arrows. -->
+	<MakeAmmo_Arrow_Venom.description>Craft 10 venom arrows.</MakeAmmo_Arrow_Venom.description>
+	<!-- EN: Making venom arrows. -->
+	<MakeAmmo_Arrow_Venom.jobString>Making venom arrows.</MakeAmmo_Arrow_Venom.jobString>
+	<!-- EN: make flame arrows x10 -->
+	<MakeAmmo_Arrow_Flame.label>make flame arrows x10</MakeAmmo_Arrow_Flame.label>
+	<!-- EN: Craft 10 flame arrows. -->
+	<MakeAmmo_Arrow_Flame.description>Craft 10 flame arrows.</MakeAmmo_Arrow_Flame.description>
+	<!-- EN: Making flame arrows. -->
+	<MakeAmmo_Arrow_Flame.jobString>Making flame arrows.</MakeAmmo_Arrow_Flame.jobString>
+</LanguageData>

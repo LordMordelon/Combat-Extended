@@ -1,0 +1,115 @@
+<LanguageData>
+	<!-- ModPatches\Rim-Effect N7\Defs\Rim-Effect N7\ME_Projectile_N7.xml -->
+	<!-- EN: accelerated shot -->
+	<Bullet_Valkyrie.label>accelerated shot</Bullet_Valkyrie.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Valkyrie_AP.label>accelerated shot</Bullet_Valkyrie_AP.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Valkyrie_HE.label>accelerated shot</Bullet_Valkyrie_HE.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Valkyrie_Cryo.label>accelerated shot</Bullet_Valkyrie_Cryo.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Valkyrie_Toxic.label>accelerated shot</Bullet_Valkyrie_Toxic.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Valkyrie_Ion.label>accelerated shot</Bullet_Valkyrie_Ion.label>
+	<!-- EN: accelerated incendiary shot -->
+	<Bullet_Valkyrie_FI.label>accelerated incendiary shot</Bullet_Valkyrie_FI.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Typhoon.label>accelerated shot</Bullet_Typhoon.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Typhoon_AP.label>accelerated shot</Bullet_Typhoon_AP.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Typhoon_Cryo.label>accelerated shot</Bullet_Typhoon_Cryo.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Typhoon_Toxic.label>accelerated shot</Bullet_Typhoon_Toxic.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Typhoon_HE.label>accelerated shot</Bullet_Typhoon_HE.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Typhoon_FI.label>accelerated shot</Bullet_Typhoon_FI.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Typhoon_Ion.label>accelerated shot</Bullet_Typhoon_Ion.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Eagle.label>accelerated shot</Bullet_Eagle.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Eagle_AP.label>accelerated shot</Bullet_Eagle_AP.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Eagle_Cryo.label>accelerated shot</Bullet_Eagle_Cryo.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Eagle_Toxic.label>accelerated shot</Bullet_Eagle_Toxic.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Eagle_HE.label>accelerated shot</Bullet_Eagle_HE.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Eagle_FI.label>accelerated shot</Bullet_Eagle_FI.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Eagle_Ion.label>accelerated shot</Bullet_Eagle_Ion.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Hurricane.label>accelerated shot</Bullet_Hurricane.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Hurricane_AP.label>accelerated shot</Bullet_Hurricane_AP.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Hurricane_Cryo.label>accelerated shot</Bullet_Hurricane_Cryo.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Hurricane_Toxic.label>accelerated shot</Bullet_Hurricane_Toxic.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Hurricane_HE.label>accelerated shot</Bullet_Hurricane_HE.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Hurricane_FI.label>accelerated shot</Bullet_Hurricane_FI.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Hurricane_Ion.label>accelerated shot</Bullet_Hurricane_Ion.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Valiant.label>accelerated shot</Bullet_Valiant.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Valiant_AP.label>accelerated shot</Bullet_Valiant_AP.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Valiant_Cryo.label>accelerated shot</Bullet_Valiant_Cryo.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Valiant_HE.label>accelerated shot</Bullet_Valiant_HE.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Valiant_Toxic.label>accelerated shot</Bullet_Valiant_Toxic.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Valiant_FI.label>accelerated shot</Bullet_Valiant_FI.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Valiant_Ion.label>accelerated shot</Bullet_Valiant_Ion.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_BlackWidow.label>accelerated shot</Bullet_BlackWidow.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_BlackWidow_AP.label>accelerated shot</Bullet_BlackWidow_AP.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_BlackWidow_Cryo.label>accelerated shot</Bullet_BlackWidow_Cryo.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_BlackWidow_HE.label>accelerated shot</Bullet_BlackWidow_HE.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_BlackWidow_Toxic.label>accelerated shot</Bullet_BlackWidow_Toxic.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_BlackWidow_FI.label>accelerated shot</Bullet_BlackWidow_FI.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_BlackWidow_Ion.label>accelerated shot</Bullet_BlackWidow_Ion.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Crusader.label>accelerated shot</Bullet_Crusader.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Crusader_AP.label>accelerated shot</Bullet_Crusader_AP.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Crusader_Cryo.label>accelerated shot</Bullet_Crusader_Cryo.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Crusader_HE.label>accelerated shot</Bullet_Crusader_HE.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Crusader_Toxic.label>accelerated shot</Bullet_Crusader_Toxic.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Crusader_FI.label>accelerated shot</Bullet_Crusader_FI.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Crusader_Ion.label>accelerated shot</Bullet_Crusader_Ion.label>
+	<!-- EN: accelerated blast -->
+	<Bullet_Piranha.label>accelerated blast</Bullet_Piranha.label>
+	<!-- EN: accelerated blast -->
+	<Bullet_Piranha_AP.label>accelerated blast</Bullet_Piranha_AP.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Piranha_HE.label>accelerated shot</Bullet_Piranha_HE.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Piranha_Cryo.label>accelerated shot</Bullet_Piranha_Cryo.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Piranha_Toxic.label>accelerated shot</Bullet_Piranha_Toxic.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Piranha_FI.label>accelerated shot</Bullet_Piranha_FI.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Piranha_Ion.label>accelerated shot</Bullet_Piranha_Ion.label>
+</LanguageData>

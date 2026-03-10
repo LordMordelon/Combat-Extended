@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla Factions Expanded - Medieval 2\Defs\Vanilla Factions Expanded - Medieval 2\Ammo\VFEM2_Ammo_Medieval.xml -->
+	<!-- EN: make throwing axe x5 -->
+	<MakeAmmo_VFEM2_ThrowingAxe.label>make throwing axe x5</MakeAmmo_VFEM2_ThrowingAxe.label>
+	<!-- EN: Craft 5 throwing axes. -->
+	<MakeAmmo_VFEM2_ThrowingAxe.description>Craft 5 throwing axes.</MakeAmmo_VFEM2_ThrowingAxe.description>
+	<!-- EN: Making throwing axes. -->
+	<MakeAmmo_VFEM2_ThrowingAxe.jobString>Making throwing axes.</MakeAmmo_VFEM2_ThrowingAxe.jobString>
+</LanguageData>

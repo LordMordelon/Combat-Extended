@@ -1,0 +1,31 @@
+<LanguageData>
+	<!-- Defs\Ammo\HighCaliber\25x137mmNATO.xml -->
+	
+	<!-- EN: make 25x137mm NATO (AP) cartridge x200 -->
+	<MakeAmmo_25x137mmNATO_AP.label>make 25x137mm NATO (AP) cartridge x200</MakeAmmo_25x137mmNATO_AP.label>
+	<!-- EN: Craft 200 25x137mm NATO (AP) cartridges. -->
+	<MakeAmmo_25x137mmNATO_AP.description>Craft 200 25x137mm NATO (AP) cartridges.</MakeAmmo_25x137mmNATO_AP.description>
+	<!-- EN: Making 25x137mm NATO (AP) cartridges. -->
+	<MakeAmmo_25x137mmNATO_AP.jobString>Making 25x137mm NATO (AP) cartridges.</MakeAmmo_25x137mmNATO_AP.jobString>
+	
+	<!-- EN: make 25x137mm NATO (AP-I) cartridge x200 -->
+	<MakeAmmo_25x137mmNATO_Incendiary.label>make 25x137mm NATO (AP-I) cartridge x200</MakeAmmo_25x137mmNATO_Incendiary.label>
+	<!-- EN: Craft 200 .25x137mm NATO (AP-I) cartridges. -->
+	<MakeAmmo_25x137mmNATO_Incendiary.description>Craft 200 .25x137mm NATO (AP-I) cartridges.</MakeAmmo_25x137mmNATO_Incendiary.description>
+	<!-- EN: Making .25x137mm NATO (AP-I) cartridges. -->
+	<MakeAmmo_25x137mmNATO_Incendiary.jobString>Making .25x137mm NATO (AP-I) cartridges.</MakeAmmo_25x137mmNATO_Incendiary.jobString>
+	
+	<!-- EN: make 25x137mm NATO (AP-HE) cartridge x200 -->
+	<MakeAmmo_25x137mmNATO_HE.label>make 25x137mm NATO (AP-HE) cartridge x200</MakeAmmo_25x137mmNATO_HE.label>
+	<!-- EN: Craft 200 .25x137mm NATO (AP-HE) cartridges. -->
+	<MakeAmmo_25x137mmNATO_HE.description>Craft 200 .25x137mm NATO (AP-HE) cartridges.</MakeAmmo_25x137mmNATO_HE.description>
+	<!-- EN: Making .25x137mm NATO (AP-HE) cartridges. -->
+	<MakeAmmo_25x137mmNATO_HE.jobString>Making .25x137mm NATO (AP-HE) cartridges.</MakeAmmo_25x137mmNATO_HE.jobString>
+	
+	<!-- EN: make 25x137mm NATO (Sabot) cartridge x200 -->
+	<MakeAmmo_25x137mmNATO_Sabot.label>make 25x137mm NATO (Sabot) cartridge x200</MakeAmmo_25x137mmNATO_Sabot.label>
+	<!-- EN: Craft 200 .25x137mm NATO (Sabot) cartridges. -->
+	<MakeAmmo_25x137mmNATO_Sabot.description>Craft 200 .25x137mm NATO (Sabot) cartridges.</MakeAmmo_25x137mmNATO_Sabot.description>
+	<!-- EN: Making .25x137mm NATO (Sabot) cartridges. -->
+	<MakeAmmo_25x137mmNATO_Sabot.jobString>Making .25x137mm NATO (Sabot) cartridges.</MakeAmmo_25x137mmNATO_Sabot.jobString>
+</LanguageData>

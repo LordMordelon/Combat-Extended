@@ -1,0 +1,28 @@
+<LanguageData>
+	<!-- Defs\Ammo\AmmoCategoryDefs\AmmoCategories_Rockets.xml -->
+	<!-- EN: high-explosive anti-tank -->
+	<RocketHEAT.label>high-explosive anti-tank</RocketHEAT.label>
+	<!-- EN: HEAT -->
+	<RocketHEAT.labelShort>HEAT</RocketHEAT.labelShort>
+	<!-- EN: Shaped charge warhead. Detonates on impact, creating a super-heated stream of molten metal that punches through enemy armor. -->
+	<RocketHEAT.description>Shaped charge warhead. Detonates on impact, creating a super-heated stream of molten metal that punches through enemy armor.</RocketHEAT.description>
+	
+	<!-- EN: thermobaric -->
+	<RocketThermobaric.label>thermobaric</RocketThermobaric.label>
+	<!-- EN: Disperses and subsequently ignites a fuel-air explosive mix, creating a powerful explosion and potentially igniting flammable objects. -->
+	<RocketThermobaric.description>Disperses and subsequently ignites a fuel-air explosive mix, creating a powerful explosion and potentially igniting flammable objects.</RocketThermobaric.description>
+	
+	<!-- EN: fragmentation -->
+	<RocketFrag.label>fragmentation</RocketFrag.label>
+	<!-- EN: Frag -->
+	<RocketFrag.labelShort>Frag</RocketFrag.labelShort>
+	<!-- EN: Designed to explode into a cloud of deadly shrapnel, shredding soft targets in a large area. -->
+	<RocketFrag.description>Designed to explode into a cloud of deadly shrapnel, shredding soft targets in a large area.</RocketFrag.description>
+	
+	<!-- EN: High Explosive -->
+	<RocketHE.label>High Explosive</RocketHE.label>
+	<!-- EN: HE -->
+	<RocketHE.labelShort>HE</RocketHE.labelShort>
+	<!-- EN: Designed to explode, damaging targets in a large area. -->
+	<RocketHE.description>Designed to explode, damaging targets in a large area.</RocketHE.description>
+</LanguageData>

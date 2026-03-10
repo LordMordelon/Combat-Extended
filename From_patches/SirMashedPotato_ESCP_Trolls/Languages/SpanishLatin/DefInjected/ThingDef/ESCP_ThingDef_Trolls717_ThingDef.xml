@@ -1,0 +1,104 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\SirMashedPotato_ESCP_Trolls\ESCP_ThingDef_Trolls717.xml -->
+	<!-- EN: left claw -->
+	<ESCP_TrollBarren.tools.0.label>left claw</ESCP_TrollBarren.tools.0.label>
+	<!-- EN: right claw -->
+	<ESCP_TrollBarren.tools.1.label>right claw</ESCP_TrollBarren.tools.1.label>
+	<!-- EN: head -->
+	<ESCP_TrollBarren.tools.3.label>head</ESCP_TrollBarren.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<ESCP_TrollForest.tools.0.label>left claw</ESCP_TrollForest.tools.0.label>
+	<!-- EN: right claw -->
+	<ESCP_TrollForest.tools.1.label>right claw</ESCP_TrollForest.tools.1.label>
+	<!-- EN: head -->
+	<ESCP_TrollForest.tools.3.label>head</ESCP_TrollForest.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<ESCP_TrollPygmy.tools.0.label>left claw</ESCP_TrollPygmy.tools.0.label>
+	<!-- EN: right claw -->
+	<ESCP_TrollPygmy.tools.1.label>right claw</ESCP_TrollPygmy.tools.1.label>
+	<!-- EN: head -->
+	<ESCP_TrollPygmy.tools.3.label>head</ESCP_TrollPygmy.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<ESCP_TrollSwamp.tools.0.label>left claw</ESCP_TrollSwamp.tools.0.label>
+	<!-- EN: right claw -->
+	<ESCP_TrollSwamp.tools.1.label>right claw</ESCP_TrollSwamp.tools.1.label>
+	<!-- EN: head -->
+	<ESCP_TrollSwamp.tools.3.label>head</ESCP_TrollSwamp.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<ESCP_TrollFungal.tools.0.label>left claw</ESCP_TrollFungal.tools.0.label>
+	<!-- EN: right claw -->
+	<ESCP_TrollFungal.tools.1.label>right claw</ESCP_TrollFungal.tools.1.label>
+	<!-- EN: head -->
+	<ESCP_TrollFungal.tools.3.label>head</ESCP_TrollFungal.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<ESCP_TrollBoom.tools.0.label>left claw</ESCP_TrollBoom.tools.0.label>
+	<!-- EN: right claw -->
+	<ESCP_TrollBoom.tools.1.label>right claw</ESCP_TrollBoom.tools.1.label>
+	<!-- EN: head -->
+	<ESCP_TrollBoom.tools.3.label>head</ESCP_TrollBoom.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<ESCP_TrollCoastal.tools.0.label>left claw</ESCP_TrollCoastal.tools.0.label>
+	<!-- EN: right claw -->
+	<ESCP_TrollCoastal.tools.1.label>right claw</ESCP_TrollCoastal.tools.1.label>
+	<!-- EN: head -->
+	<ESCP_TrollCoastal.tools.3.label>head</ESCP_TrollCoastal.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<ESCP_TrollFrost.tools.0.label>left claw</ESCP_TrollFrost.tools.0.label>
+	<!-- EN: right claw -->
+	<ESCP_TrollFrost.tools.1.label>right claw</ESCP_TrollFrost.tools.1.label>
+	<!-- EN: head -->
+	<ESCP_TrollFrost.tools.3.label>head</ESCP_TrollFrost.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<ESCP_TrollHill.tools.0.label>left claw</ESCP_TrollHill.tools.0.label>
+	<!-- EN: right claw -->
+	<ESCP_TrollHill.tools.1.label>right claw</ESCP_TrollHill.tools.1.label>
+	<!-- EN: head -->
+	<ESCP_TrollHill.tools.3.label>head</ESCP_TrollHill.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<ESCP_TrollRiver.tools.0.label>left claw</ESCP_TrollRiver.tools.0.label>
+	<!-- EN: right claw -->
+	<ESCP_TrollRiver.tools.1.label>right claw</ESCP_TrollRiver.tools.1.label>
+	<!-- EN: head -->
+	<ESCP_TrollRiver.tools.3.label>head</ESCP_TrollRiver.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<ESCP_TrollCave.tools.0.label>left claw</ESCP_TrollCave.tools.0.label>
+	<!-- EN: right claw -->
+	<ESCP_TrollCave.tools.1.label>right claw</ESCP_TrollCave.tools.1.label>
+	<!-- EN: head -->
+	<ESCP_TrollCave.tools.3.label>head</ESCP_TrollCave.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<ESCP_TrollAnima.tools.0.label>left claw</ESCP_TrollAnima.tools.0.label>
+	<!-- EN: right claw -->
+	<ESCP_TrollAnima.tools.1.label>right claw</ESCP_TrollAnima.tools.1.label>
+	<!-- EN: head -->
+	<ESCP_TrollAnima.tools.3.label>head</ESCP_TrollAnima.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<ESCP_TrollGrahl.tools.0.label>left claw</ESCP_TrollGrahl.tools.0.label>
+	<!-- EN: fist -->
+	<ESCP_TrollGrahl.tools.1.label>fist</ESCP_TrollGrahl.tools.1.label>
+	<!-- EN: right claw -->
+	<ESCP_TrollGrahl.tools.2.label>right claw</ESCP_TrollGrahl.tools.2.label>
+	<!-- EN: head -->
+	<ESCP_TrollGrahl.tools.4.label>head</ESCP_TrollGrahl.tools.4.label>
+	
+	<!-- EN: left claw -->
+	<ESCP_TrollUdyrfrykte.tools.0.label>left claw</ESCP_TrollUdyrfrykte.tools.0.label>
+	<!-- EN: fist -->
+	<ESCP_TrollUdyrfrykte.tools.1.label>fist</ESCP_TrollUdyrfrykte.tools.1.label>
+	<!-- EN: right claw -->
+	<ESCP_TrollUdyrfrykte.tools.2.label>right claw</ESCP_TrollUdyrfrykte.tools.2.label>
+	<!-- EN: head -->
+	<ESCP_TrollUdyrfrykte.tools.4.label>head</ESCP_TrollUdyrfrykte.tools.4.label>
+</LanguageData>

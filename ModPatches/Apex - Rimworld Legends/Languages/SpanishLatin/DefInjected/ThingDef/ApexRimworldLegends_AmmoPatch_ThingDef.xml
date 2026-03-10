@@ -1,0 +1,14 @@
+<LanguageData>
+	<!-- ModPatches\Apex - Rimworld Legends\Defs\Apex - Rimworld Legends\ApexRimworldLegends_AmmoPatch.xml -->
+	
+	<!-- EN: 127x39mm HE Charged Cartridge -->
+	<Ammo_ARL_127x39mmCharged_HE.label>127x39mm HE Charged Cartridge</Ammo_ARL_127x39mmCharged_HE.label>
+	<!-- EN: Specialized 127x39mm HE charged cartridge -->
+	<Ammo_ARL_127x39mmCharged_HE.description>Specialized 127x39mm HE charged cartridge</Ammo_ARL_127x39mmCharged_HE.description>
+	
+	<!-- EN: bullet -->
+	<Bullet_ARL_127x39mmCharged_HE.label>bullet</Bullet_ARL_127x39mmCharged_HE.label>
+	
+	<!-- EN: projectile -->
+	<Proj_ARL_ChargeGrenade.label>projectile</Proj_ARL_ChargeGrenade.label>
+</LanguageData>

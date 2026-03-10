@@ -1,0 +1,62 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\RimEffect_ExtendedCut\Weapons_ME_ExtendedCut1429.xml -->
+	<!-- EN: stock -->
+	<RE_Gun_SpacerBattleRifle.tools.0.label>stock</RE_Gun_SpacerBattleRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RE_Gun_SpacerBattleRifle.tools.1.label>barrel</RE_Gun_SpacerBattleRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RE_Gun_SpacerBattleRifle.tools.2.label>muzzle</RE_Gun_SpacerBattleRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RE_Gun_SpacerMarksmanRifle.tools.0.label>stock</RE_Gun_SpacerMarksmanRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RE_Gun_SpacerMarksmanRifle.tools.1.label>barrel</RE_Gun_SpacerMarksmanRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RE_Gun_SpacerMarksmanRifle.tools.2.label>muzzle</RE_Gun_SpacerMarksmanRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RE_Gun_SpacerAssaultRifle.tools.0.label>stock</RE_Gun_SpacerAssaultRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RE_Gun_SpacerAssaultRifle.tools.1.label>barrel</RE_Gun_SpacerAssaultRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RE_Gun_SpacerAssaultRifle.tools.2.label>muzzle</RE_Gun_SpacerAssaultRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RE_Gun_AlliancePrecisionRifle.tools.0.label>stock</RE_Gun_AlliancePrecisionRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RE_Gun_AlliancePrecisionRifle.tools.1.label>barrel</RE_Gun_AlliancePrecisionRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RE_Gun_AlliancePrecisionRifle.tools.2.label>muzzle</RE_Gun_AlliancePrecisionRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RE_Gun_ChakramLauncher.tools.0.label>stock</RE_Gun_ChakramLauncher.tools.0.label>
+	<!-- EN: barrel -->
+	<RE_Gun_ChakramLauncher.tools.1.label>barrel</RE_Gun_ChakramLauncher.tools.1.label>
+	<!-- EN: muzzle -->
+	<RE_Gun_ChakramLauncher.tools.2.label>muzzle</RE_Gun_ChakramLauncher.tools.2.label>
+	
+	<!-- EN: M7 Lancer -->
+	<RE_Gun_SpacerAssaultRifle.label>M7 Lancer</RE_Gun_SpacerAssaultRifle.label>
+	<!-- EN: The M7-Lancer is a rare collector's item that was introduced shortly after the First Contact War. The Lancer has been refurbished by an unknown master weaponsmith, and it now uses the higher velocity rounds of today's weaponry. It does not need heat sinks, instead utilizing weapon heat-generation from an earlier era. Few of these finely crafted weapons are in existence. -->
+	<RE_Gun_SpacerAssaultRifle.description>The M7-Lancer is a rare collector's item that was introduced shortly after the First Contact War. The Lancer has been refurbished by an unknown master weaponsmith, and it now uses the higher velocity rounds of today's weaponry. It does not need heat sinks, instead utilizing weapon heat-generation from an earlier era. Few of these finely crafted weapons are in existence.</RE_Gun_SpacerAssaultRifle.description>
+	
+	<!-- EN: L-89 Halberd -->
+	<RE_Gun_SpacerBattleRifle.label>L-89 Halberd</RE_Gun_SpacerBattleRifle.label>
+	<!-- EN: The sleek L-89 Halberd favors power and precision. The semi-automatic rifle was the Andromeda Initiative's attempt to make a weapon on par with the reliable M-96 Mattock that also used Initiative breakthroughs in materials science. Only a few were made, but their effectiveness in the field is unquestioned. -->
+	<RE_Gun_SpacerBattleRifle.description>The sleek L-89 Halberd favors power and precision. The semi-automatic rifle was the Andromeda Initiative's attempt to make a weapon on par with the reliable M-96 Mattock that also used Initiative breakthroughs in materials science. Only a few were made, but their effectiveness in the field is unquestioned.</RE_Gun_SpacerBattleRifle.description>
+	
+	<!-- EN: M-29 Incisor -->
+	<RE_Gun_SpacerMarksmanRifle.label>M-29 Incisor</RE_Gun_SpacerMarksmanRifle.label>
+	<!-- EN: The Incisor is one of a new wave of military and police sniper rifles designed to overload active defenses such as shields. the Incisor was initially advertised as having negligible recoil, although under real combat conditions the second and third rounds frequently climb in difficulty. -->
+	<RE_Gun_SpacerMarksmanRifle.description>The Incisor is one of a new wave of military and police sniper rifles designed to overload active defenses such as shields. the Incisor was initially advertised as having negligible recoil, although under real combat conditions the second and third rounds frequently climb in difficulty.</RE_Gun_SpacerMarksmanRifle.description>
+	
+	<!-- EN: M-19 Ballista -->
+	<RE_Gun_AlliancePrecisionRifle.label>M-19 Ballista</RE_Gun_AlliancePrecisionRifle.label>
+	<!-- EN: the M-Series Ballista is an extremely versatile medium-to-long range combat weapon. Harnessing the exhaustive resources of synthetic plasma, the Ballista meets the critical requirements of low-cost abundant ammunition for today's highly mobile snipers, Each projectile contains a small, but very powerful, nanite core that detonates approximately 0.33 seconds after impact. The detonation stage of the projectile is devastating, targets hit by the bullet are not likely to survive. -->
+	<RE_Gun_AlliancePrecisionRifle.description>the M-Series Ballista is an extremely versatile medium-to-long range combat weapon. Harnessing the exhaustive resources of synthetic plasma, the Ballista meets the critical requirements of low-cost abundant ammunition for today's highly mobile snipers, Each projectile contains a small, but very powerful, nanite core that detonates approximately 0.33 seconds after impact. The detonation stage of the projectile is devastating, targets hit by the bullet are not likely to survive.</RE_Gun_AlliancePrecisionRifle.description>
+	
+	<!-- EN: Chakram Launcher -->
+	<RE_Gun_SpacerChakramLauncher.label>Chakram Launcher</RE_Gun_SpacerChakramLauncher.label>
+	<!-- EN: The fancifully named Chakram Launcher uses an internal fabricator to manufacture lightweight ammunition discs wrapped in holographic tracers. The discs explode on impact, sending shrapnel tearing through the enemy. -->
+	<RE_Gun_SpacerChakramLauncher.description>The fancifully named Chakram Launcher uses an internal fabricator to manufacture lightweight ammunition discs wrapped in holographic tracers. The discs explode on impact, sending shrapnel tearing through the enemy.</RE_Gun_SpacerChakramLauncher.description>
+</LanguageData>

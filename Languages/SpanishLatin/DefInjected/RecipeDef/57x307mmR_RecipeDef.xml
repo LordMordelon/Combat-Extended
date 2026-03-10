@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- Defs\Ammo\Shell\57x307mmR.xml -->
+	
+	<!-- EN: make 57x307mmR (AP) cannon shells x10 -->
+	<MakeAmmo_57x307mmR_AP.label>make 57x307mmR (AP) cannon shells x10</MakeAmmo_57x307mmR_AP.label>
+	<!-- EN: Craft 10 57x307mmR (AP) cannon shells. -->
+	<MakeAmmo_57x307mmR_AP.description>Craft 10 57x307mmR (AP) cannon shells.</MakeAmmo_57x307mmR_AP.description>
+	<!-- EN: Making 57x307mmR (AP) cannon shells. -->
+	<MakeAmmo_57x307mmR_AP.jobString>Making 57x307mmR (AP) cannon shells.</MakeAmmo_57x307mmR_AP.jobString>
+	
+	<!-- EN: make 57x307mmR (HE) cannon shells x10 -->
+	<MakeAmmo_57x307mmR_HE.label>make 57x307mmR (HE) cannon shells x10</MakeAmmo_57x307mmR_HE.label>
+	<!-- EN: Craft 10 57x307mmR (HE) cannon shells. -->
+	<MakeAmmo_57x307mmR_HE.description>Craft 10 57x307mmR (HE) cannon shells.</MakeAmmo_57x307mmR_HE.description>
+	<!-- EN: Making 57x307mmR (HE) cannon shells. -->
+	<MakeAmmo_57x307mmR_HE.jobString>Making 57x307mmR (HE) cannon shells.</MakeAmmo_57x307mmR_HE.jobString>
+</LanguageData>

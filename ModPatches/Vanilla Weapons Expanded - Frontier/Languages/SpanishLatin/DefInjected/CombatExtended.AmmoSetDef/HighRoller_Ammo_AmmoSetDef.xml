@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla Weapons Expanded - Frontier\Defs\Vanilla Weapons Expanded - Frontier\HighRoller_Ammo.xml -->
+	<!-- EN: .44 Magnum -->
+	<AmmoSet_44MagnumHR.label>.44 Magnum</AmmoSet_44MagnumHR.label>
+	<!-- EN: 7.63x25mm Mauser -->
+	<AmmoSet_763x25mmMauserHR.label>7.63x25mm Mauser</AmmoSet_763x25mmMauserHR.label>
+	<!-- EN: .45-70 Government -->
+	<AmmoSet_4570GovHR.label>.45-70 Government</AmmoSet_4570GovHR.label>
+	<!-- EN: 12 Gauge -->
+	<AmmoSet_12GaugeHR.label>12 Gauge</AmmoSet_12GaugeHR.label>
+	<!-- EN: .25 ACP -->
+	<AmmoSet_25ACPHR.label>.25 ACP</AmmoSet_25ACPHR.label>
+</LanguageData>

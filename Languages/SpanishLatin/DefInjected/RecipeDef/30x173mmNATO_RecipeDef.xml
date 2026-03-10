@@ -1,0 +1,31 @@
+<LanguageData>
+	<!-- Defs\Ammo\HighCaliber\30x173mmNATO.xml -->
+	
+	<!-- EN: make 30x173mm NATO (AP) cartridge x100 -->
+	<MakeAmmo_30x173mmNATO_AP.label>make 30x173mm NATO (AP) cartridge x100</MakeAmmo_30x173mmNATO_AP.label>
+	<!-- EN: Craft 100 30x173mm NATO (AP) cartridges. -->
+	<MakeAmmo_30x173mmNATO_AP.description>Craft 100 30x173mm NATO (AP) cartridges.</MakeAmmo_30x173mmNATO_AP.description>
+	<!-- EN: Making 30x173mm NATO (AP) cartridges. -->
+	<MakeAmmo_30x173mmNATO_AP.jobString>Making 30x173mm NATO (AP) cartridges.</MakeAmmo_30x173mmNATO_AP.jobString>
+	
+	<!-- EN: make 30x173mm NATO (AP-I) cartridge x100 -->
+	<MakeAmmo_30x173mmNATO_Incendiary.label>make 30x173mm NATO (AP-I) cartridge x100</MakeAmmo_30x173mmNATO_Incendiary.label>
+	<!-- EN: Craft 100 30x173mm NATO (AP-I) cartridges. -->
+	<MakeAmmo_30x173mmNATO_Incendiary.description>Craft 100 30x173mm NATO (AP-I) cartridges.</MakeAmmo_30x173mmNATO_Incendiary.description>
+	<!-- EN: Making 30x173mm NATO (AP-I) cartridges. -->
+	<MakeAmmo_30x173mmNATO_Incendiary.jobString>Making 30x173mm NATO (AP-I) cartridges.</MakeAmmo_30x173mmNATO_Incendiary.jobString>
+	
+	<!-- EN: make 30x173mm NATO (AP-HE) cartridge x100 -->
+	<MakeAmmo_30x173mmNATO_HE.label>make 30x173mm NATO (AP-HE) cartridge x100</MakeAmmo_30x173mmNATO_HE.label>
+	<!-- EN: Craft 100 30x173mm NATO (AP-HE) cartridges. -->
+	<MakeAmmo_30x173mmNATO_HE.description>Craft 100 30x173mm NATO (AP-HE) cartridges.</MakeAmmo_30x173mmNATO_HE.description>
+	<!-- EN: Making 30x173mm NATO (AP-HE) cartridges. -->
+	<MakeAmmo_30x173mmNATO_HE.jobString>Making 30x173mm NATO (AP-HE) cartridges.</MakeAmmo_30x173mmNATO_HE.jobString>
+	
+	<!-- EN: make 30x173mm NATO (Sabot) cartridge x100 -->
+	<MakeAmmo_30x173mmNATO_Sabot.label>make 30x173mm NATO (Sabot) cartridge x100</MakeAmmo_30x173mmNATO_Sabot.label>
+	<!-- EN: Craft 100 30x173mm NATO (Sabot) cartridges. -->
+	<MakeAmmo_30x173mmNATO_Sabot.description>Craft 100 30x173mm NATO (Sabot) cartridges.</MakeAmmo_30x173mmNATO_Sabot.description>
+	<!-- EN: Making 30x173mm NATO (Sabot) cartridges. -->
+	<MakeAmmo_30x173mmNATO_Sabot.jobString>Making 30x173mm NATO (Sabot) cartridges.</MakeAmmo_30x173mmNATO_Sabot.jobString>
+</LanguageData>

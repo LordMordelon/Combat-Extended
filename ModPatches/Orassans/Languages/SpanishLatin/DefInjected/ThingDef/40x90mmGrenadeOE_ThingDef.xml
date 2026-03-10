@@ -1,0 +1,38 @@
+<LanguageData>
+	<!-- ModPatches\Orassans\Defs\Orassans\Ammo\40x90mmGrenadeOE.xml -->
+	
+	<!-- EN: 40x90mm grenade OE (HE) -->
+	<Ammo_40x90mmGrenadeOE_HE.label>40x90mm grenade OE (HE)</Ammo_40x90mmGrenadeOE_HE.label>
+	<!-- EN: Low velocity caseless grenade fired from handheld railgun grenade launchers. -->
+	<Ammo_40x90mmGrenadeOE_HE.description>Low velocity caseless grenade fired from handheld railgun grenade launchers.</Ammo_40x90mmGrenadeOE_HE.description>
+	
+	<!-- EN: 40x90mm grenade OE (HEAT) -->
+	<Ammo_40x90mmGrenadeOE_HEAT.label>40x90mm grenade OE (HEAT)</Ammo_40x90mmGrenadeOE_HEAT.label>
+	<!-- EN: Low velocity caseless grenade fired from handheld railgun grenade launchers. -->
+	<Ammo_40x90mmGrenadeOE_HEAT.description>Low velocity caseless grenade fired from handheld railgun grenade launchers.</Ammo_40x90mmGrenadeOE_HEAT.description>
+	
+	<!-- EN: 40x90mm grenade OE (EMP) -->
+	<Ammo_40x90mmGrenadeOE_EMP.label>40x90mm grenade OE (EMP)</Ammo_40x90mmGrenadeOE_EMP.label>
+	<!-- EN: Low velocity caseless grenade fired from handheld railgun grenade launchers. -->
+	<Ammo_40x90mmGrenadeOE_EMP.description>Low velocity caseless grenade fired from handheld railgun grenade launchers.</Ammo_40x90mmGrenadeOE_EMP.description>
+	
+	<!-- EN: 40x90mm grenade OE (Smoke) -->
+	<Ammo_40x90mmGrenadeOE_Smoke.label>40x90mm grenade OE (Smoke)</Ammo_40x90mmGrenadeOE_Smoke.label>
+	<!-- EN: Low velocity caseless grenade fired from handheld railgun grenade launchers. -->
+	<Ammo_40x90mmGrenadeOE_Smoke.description>Low velocity caseless grenade fired from handheld railgun grenade launchers.</Ammo_40x90mmGrenadeOE_Smoke.description>
+	
+	<!-- EN: 40x90mm grenade OE (HE) -->
+	<Bullet_40x90mmGrenadeOE_HE.label>40x90mm grenade OE (HE)</Bullet_40x90mmGrenadeOE_HE.label>
+	
+	<!-- EN: 40x90mm grenade OE (HEAT) -->
+	<Bullet_40x90mmGrenadeOE_HEAT.label>40x90mm grenade OE (HEAT)</Bullet_40x90mmGrenadeOE_HEAT.label>
+	
+	<!-- EN: 40x90mm grenade OE (EMP) -->
+	<Bullet_40x90mmGrenadeOE_EMP.label>40x90mm grenade OE (EMP)</Bullet_40x90mmGrenadeOE_EMP.label>
+	
+	<!-- EN: 40x90mm grenade OE (Cryo) -->
+	<Bullet_40x90mmGrenadeOE_Cryo.label>40x90mm grenade OE (Cryo)</Bullet_40x90mmGrenadeOE_Cryo.label>
+	
+	<!-- EN: 40x90mm grenade OE (Smoke) -->
+	<Bullet_40x90mmGrenadeOE_Smoke.label>40x90mm grenade OE (Smoke)</Bullet_40x90mmGrenadeOE_Smoke.label>
+</LanguageData>

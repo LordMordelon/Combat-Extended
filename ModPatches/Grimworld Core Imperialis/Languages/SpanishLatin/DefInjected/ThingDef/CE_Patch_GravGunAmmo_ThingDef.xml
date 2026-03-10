@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- ModPatches\Grimworld Core Imperialis\Defs\Grimworld Core Imperialis\Ammo\CE_Patch_GravGunAmmo.xml -->
+	<!-- EN: Graviton Power Cell -->
+	<Ammo_GravCell.label>Graviton Power Cell</Ammo_GravCell.label>
+	<!-- EN: A Graviton Power Cell used to recharge the rare graviton weapons. -->
+	<Ammo_GravCell.description>A Graviton Power Cell used to recharge the rare graviton weapons.</Ammo_GravCell.description>
+	<!-- EN: Graviton Particle Stream -->
+	<Bullet_GravCell.label>Graviton Particle Stream</Bullet_GravCell.label>
+	<!-- EN: Graviton Particle Fragment -->
+	<Bullet_GravCell_A.label>Graviton Particle Fragment</Bullet_GravCell_A.label>
+	<!-- EN: Graviton Particle Fragment -->
+	<Bullet_GravCell_B.label>Graviton Particle Fragment</Bullet_GravCell_B.label>
+</LanguageData>

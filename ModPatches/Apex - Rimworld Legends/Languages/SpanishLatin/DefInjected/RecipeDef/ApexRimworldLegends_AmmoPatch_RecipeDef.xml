@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- ModPatches\Apex - Rimworld Legends\Defs\Apex - Rimworld Legends\ApexRimworldLegends_AmmoPatch.xml -->
+	
+	<!-- EN: make 127x39mm HE charged cartridge x100 -->
+	<MakeAmmo_ARL_127x39mmCharged_HE.label>make 127x39mm HE charged cartridge x100</MakeAmmo_ARL_127x39mmCharged_HE.label>
+	<!-- EN: Craft 100 127x39mm HE charged cartridges. -->
+	<MakeAmmo_ARL_127x39mmCharged_HE.description>Craft 100 127x39mm HE charged cartridges.</MakeAmmo_ARL_127x39mmCharged_HE.description>
+	<!-- EN: Making 127x39mm HE charged cartridges. -->
+	<MakeAmmo_ARL_127x39mmCharged_HE.jobString>Making 127x39mm HE charged cartridges.</MakeAmmo_ARL_127x39mmCharged_HE.jobString>
+	
+	<!-- EN: make arc stars -->
+	<MakeARLArcStar.label>make arc stars</MakeARLArcStar.label>
+	<!-- EN: Craft 50 Arc Stars. -->
+	<MakeARLArcStar.description>Craft 50 Arc Stars.</MakeARLArcStar.description>
+	<!-- EN: Making Arc Stars. -->
+	<MakeARLArcStar.jobString>Making Arc Stars.</MakeARLArcStar.jobString>
+</LanguageData>

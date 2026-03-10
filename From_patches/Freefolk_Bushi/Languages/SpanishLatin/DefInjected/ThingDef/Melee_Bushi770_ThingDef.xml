@@ -1,0 +1,23 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Freefolk_Bushi\Melee_Bushi770.xml -->
+	<!-- EN: handle -->
+	<MeleeWeapon_Katana.tools.0.label>handle</MeleeWeapon_Katana.tools.0.label>
+	<!-- EN: point -->
+	<MeleeWeapon_Katana.tools.1.label>point</MeleeWeapon_Katana.tools.1.label>
+	<!-- EN: edge -->
+	<MeleeWeapon_Katana.tools.2.label>edge</MeleeWeapon_Katana.tools.2.label>
+	
+	<!-- EN: handle -->
+	<MeleeWeapon_Wakizashi.tools.0.label>handle</MeleeWeapon_Wakizashi.tools.0.label>
+	<!-- EN: point -->
+	<MeleeWeapon_Wakizashi.tools.1.label>point</MeleeWeapon_Wakizashi.tools.1.label>
+	<!-- EN: edge -->
+	<MeleeWeapon_Wakizashi.tools.2.label>edge</MeleeWeapon_Wakizashi.tools.2.label>
+	
+	<!-- EN: handle -->
+	<MeleeWeapon_Tanto.tools.0.label>handle</MeleeWeapon_Tanto.tools.0.label>
+	<!-- EN: point -->
+	<MeleeWeapon_Tanto.tools.1.label>point</MeleeWeapon_Tanto.tools.1.label>
+	<!-- EN: edge -->
+	<MeleeWeapon_Tanto.tools.2.label>edge</MeleeWeapon_Tanto.tools.2.label>
+</LanguageData>

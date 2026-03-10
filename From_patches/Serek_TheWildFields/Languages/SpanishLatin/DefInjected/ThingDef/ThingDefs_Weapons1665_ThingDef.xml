@@ -1,0 +1,32 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Serek_TheWildFields\ThingDefs_Weapons1665.xml -->
+	<!-- EN: shaft -->
+	<Serek_MeleeWeapon_WarScythe.tools.0.label>shaft</Serek_MeleeWeapon_WarScythe.tools.0.label>
+	<!-- EN: edge -->
+	<Serek_MeleeWeapon_WarScythe.tools.1.label>edge</Serek_MeleeWeapon_WarScythe.tools.1.label>
+	<!-- EN: point -->
+	<Serek_MeleeWeapon_WarScythe.tools.2.label>point</Serek_MeleeWeapon_WarScythe.tools.2.label>
+	
+	<!-- EN: handle -->
+	<Serek_MeleeWeapon_NobleSabre.tools.0.label>handle</Serek_MeleeWeapon_NobleSabre.tools.0.label>
+	<!-- EN: point -->
+	<Serek_MeleeWeapon_NobleSabre.tools.1.label>point</Serek_MeleeWeapon_NobleSabre.tools.1.label>
+	<!-- EN: head -->
+	<Serek_MeleeWeapon_NobleSabre.tools.2.label>head</Serek_MeleeWeapon_NobleSabre.tools.2.label>
+	<!-- EN: edge -->
+	<Serek_MeleeWeapon_NobleSabre.tools.3.label>edge</Serek_MeleeWeapon_NobleSabre.tools.3.label>
+	
+	<!-- EN: handle -->
+	<Serek_MeleeWeapon_Sabre.tools.0.label>handle</Serek_MeleeWeapon_Sabre.tools.0.label>
+	<!-- EN: point -->
+	<Serek_MeleeWeapon_Sabre.tools.1.label>point</Serek_MeleeWeapon_Sabre.tools.1.label>
+	<!-- EN: head -->
+	<Serek_MeleeWeapon_Sabre.tools.2.label>head</Serek_MeleeWeapon_Sabre.tools.2.label>
+	<!-- EN: edge -->
+	<Serek_MeleeWeapon_Sabre.tools.3.label>edge</Serek_MeleeWeapon_Sabre.tools.3.label>
+	
+	<!-- EN: handle -->
+	<Serek_MeleeWeapon_Bulava.tools.0.label>handle</Serek_MeleeWeapon_Bulava.tools.0.label>
+	<!-- EN: head -->
+	<Serek_MeleeWeapon_Bulava.tools.1.label>head</Serek_MeleeWeapon_Bulava.tools.1.label>
+</LanguageData>

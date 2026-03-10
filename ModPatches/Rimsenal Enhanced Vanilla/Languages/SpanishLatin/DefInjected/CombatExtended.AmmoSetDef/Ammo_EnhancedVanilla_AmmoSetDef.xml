@@ -1,0 +1,18 @@
+<LanguageData>
+	<!-- ModPatches\Rimsenal Enhanced Vanilla\Defs\Rimsenal Enhanced Vanilla\Ammo_EnhancedVanilla.xml -->
+	
+	<!-- EN: Charge Pack (EMP) -->
+	<AmmoSet_LaserEMP_Rimsenal.label>Charge Pack (EMP)</AmmoSet_LaserEMP_Rimsenal.label>
+	
+	<!-- EN: compound arrows -->
+	<AmmoSet_CompoundArrow.label>compound arrows</AmmoSet_CompoundArrow.label>
+	
+	<!-- EN: 30x64mm Fuel Cell (Thumper) -->
+	<AmmoSet_30x64mmFuel_RSThump.label>30x64mm Fuel Cell (Thumper)</AmmoSet_30x64mmFuel_RSThump.label>
+	
+	<!-- EN: 25mm Rockets -->
+	<AmmoSet_25mmRocket.label>25mm Rockets</AmmoSet_25mmRocket.label>
+	
+	<!-- EN: 40mm Rockets -->
+	<AmmoSet_40mmRocket.label>40mm Rockets</AmmoSet_40mmRocket.label>
+</LanguageData>

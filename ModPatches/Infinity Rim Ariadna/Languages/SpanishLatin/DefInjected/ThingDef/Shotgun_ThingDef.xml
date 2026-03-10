@@ -1,0 +1,24 @@
+<LanguageData>
+	<!-- ModPatches\Infinity Rim Ariadna\Defs\Infinity Rim Ariadna\Ammo\Shotgun.xml -->
+	
+	<!-- EN: 12 gauge shell (Teseum) -->
+	<Ammo_12Gauge_Teseum.label>12 gauge shell (Teseum)</Ammo_12Gauge_Teseum.label>
+	<!-- EN: Extremely common shotgun caliber used in almost every application, from hunting over riot control to military firearms. -->
+	<Ammo_12Gauge_Teseum.description>Extremely common shotgun caliber used in almost every application, from hunting over riot control to military firearms.</Ammo_12Gauge_Teseum.description>
+	
+	<!-- EN: shotgun shell (Teseum) -->
+	<Ammo_Shotgun_Teseum.label>shotgun shell (Teseum)</Ammo_Shotgun_Teseum.label>
+	<!-- EN: Extremely common shotgun caliber used in almost every application, from hunting and riot control to military firearms. -->
+	<Ammo_Shotgun_Teseum.description>Extremely common shotgun caliber used in almost every application, from hunting and riot control to military firearms.</Ammo_Shotgun_Teseum.description>
+	
+	<!-- EN: buckshot pellet -->
+	<Bullet_12Gauge_Teseum.label>buckshot pellet</Bullet_12Gauge_Teseum.label>
+	
+	<!-- EN: chain rifle segments -->
+	<Ammo_AriadnanChainGun.label>chain rifle segments</Ammo_AriadnanChainGun.label>
+	<!-- EN: Extremely common shotgun caliber used in almost every application, from hunting over riot control to military firearms. -->
+	<Ammo_AriadnanChainGun.description>Extremely common shotgun caliber used in almost every application, from hunting over riot control to military firearms.</Ammo_AriadnanChainGun.description>
+	
+	<!-- EN: molten metal -->
+	<Bullet_AriadnanChainGun.label>molten metal</Bullet_AriadnanChainGun.label>
+</LanguageData>

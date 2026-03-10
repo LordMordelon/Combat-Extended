@@ -1,0 +1,142 @@
+<LanguageData>
+	<!-- ModPatches\K4G Rimworld War 2\Defs\K4G Rimworld War 2\RecipeDefs\WW2_GrenadeRecipes.xml -->
+	<!-- EN: make British No. 36M Mk I Mills Bomb grenades x10 -->
+	<K4GWW2_Make_BritishServiceGrenade.label>make British No. 36M Mk I Mills Bomb grenades x10</K4GWW2_Make_BritishServiceGrenade.label>
+	<!-- EN: Craft 10 British No. 36M Mk I Mills Bomb grenades. -->
+	<K4GWW2_Make_BritishServiceGrenade.description>Craft 10 British No. 36M Mk I Mills Bomb grenades.</K4GWW2_Make_BritishServiceGrenade.description>
+	<!-- EN: Making british no. 36M Mk I Mills bomb grenades. -->
+	<K4GWW2_Make_BritishServiceGrenade.jobString>Making british no. 36M Mk I Mills bomb grenades.</K4GWW2_Make_BritishServiceGrenade.jobString>
+	
+	<!-- EN: make Finnish Mk II grenades x10 -->
+	<K4GWW2_Make_FinnishServiceGrenade.label>make Finnish Mk II grenades x10</K4GWW2_Make_FinnishServiceGrenade.label>
+	<!-- EN: Craft 10 Finnish Mk II grenades. -->
+	<K4GWW2_Make_FinnishServiceGrenade.description>Craft 10 Finnish Mk II grenades.</K4GWW2_Make_FinnishServiceGrenade.description>
+	<!-- EN: Making finnish Mk II grenades. -->
+	<K4GWW2_Make_FinnishServiceGrenade.jobString>Making finnish Mk II grenades.</K4GWW2_Make_FinnishServiceGrenade.jobString>
+	
+	<!-- EN: make French F1 grenades x10 -->
+	<K4GWW2_Make_FrenchServiceGrenade.label>make French F1 grenades x10</K4GWW2_Make_FrenchServiceGrenade.label>
+	<!-- EN: Craft 10 French F1 grenades. -->
+	<K4GWW2_Make_FrenchServiceGrenade.description>Craft 10 French F1 grenades.</K4GWW2_Make_FrenchServiceGrenade.description>
+	<!-- EN: Making french F1 grenades. -->
+	<K4GWW2_Make_FrenchServiceGrenade.jobString>Making french F1 grenades.</K4GWW2_Make_FrenchServiceGrenade.jobString>
+	
+	<!-- EN: make German M24 Stielhandgranate grenades x10 -->
+	<K4GWW2_Make_GermanServiceGrenade.label>make German M24 Stielhandgranate grenades x10</K4GWW2_Make_GermanServiceGrenade.label>
+	<!-- EN: Craft 10 German M24 Stielhandgranate grenades. -->
+	<K4GWW2_Make_GermanServiceGrenade.description>Craft 10 German M24 Stielhandgranate grenades.</K4GWW2_Make_GermanServiceGrenade.description>
+	<!-- EN: Making german M24 stielhandgranate grenades. -->
+	<K4GWW2_Make_GermanServiceGrenade.jobString>Making german M24 stielhandgranate grenades.</K4GWW2_Make_GermanServiceGrenade.jobString>
+	
+	<!-- EN: make German M39 grenades x10 -->
+	<K4GWW2_Make_GermanServiceGrenadeB.label>make German M39 grenades x10</K4GWW2_Make_GermanServiceGrenadeB.label>
+	<!-- EN: Craft 10 German M39 grenades. -->
+	<K4GWW2_Make_GermanServiceGrenadeB.description>Craft 10 German M39 grenades.</K4GWW2_Make_GermanServiceGrenadeB.description>
+	<!-- EN: Making german M39 grenades. -->
+	<K4GWW2_Make_GermanServiceGrenadeB.jobString>Making german M39 grenades.</K4GWW2_Make_GermanServiceGrenadeB.jobString>
+	
+	<!-- EN: make Italian SRCM Mod.35 grenades x10 -->
+	<K4GWW2_Make_ItalianServiceGrenade.label>make Italian SRCM Mod.35 grenades x10</K4GWW2_Make_ItalianServiceGrenade.label>
+	<!-- EN: Craft 10 Italian SRCM Mod.35 grenades. -->
+	<K4GWW2_Make_ItalianServiceGrenade.description>Craft 10 Italian SRCM Mod.35 grenades.</K4GWW2_Make_ItalianServiceGrenade.description>
+	<!-- EN: Making italian SRCM Mod.35 grenades. -->
+	<K4GWW2_Make_ItalianServiceGrenade.jobString>Making italian SRCM Mod.35 grenades.</K4GWW2_Make_ItalianServiceGrenade.jobString>
+	
+	<!-- EN: make italian OTO Mod.35 grenades x10 -->
+	<K4GWW2_Make_ItalianServiceGrenadeB.label>make italian OTO Mod.35 grenades x10</K4GWW2_Make_ItalianServiceGrenadeB.label>
+	<!-- EN: Craft 10 Italian OTO Mod.35 grenades. -->
+	<K4GWW2_Make_ItalianServiceGrenadeB.description>Craft 10 Italian OTO Mod.35 grenades.</K4GWW2_Make_ItalianServiceGrenadeB.description>
+	<!-- EN: Making Italian OTO Mod.35 grenades. -->
+	<K4GWW2_Make_ItalianServiceGrenadeB.jobString>Making Italian OTO Mod.35 grenades.</K4GWW2_Make_ItalianServiceGrenadeB.jobString>
+	
+	<!-- EN: make italian breda Mod.35 grenades x10 -->
+	<K4GWW2_Make_ItalianServiceGrenadeC.label>make italian breda Mod.35 grenades x10</K4GWW2_Make_ItalianServiceGrenadeC.label>
+	<!-- EN: Craft 10 Italian Breda Mod.35 grenades. -->
+	<K4GWW2_Make_ItalianServiceGrenadeC.description>Craft 10 Italian Breda Mod.35 grenades.</K4GWW2_Make_ItalianServiceGrenadeC.description>
+	<!-- EN: Making Italian Breda Mod.35 grenades. -->
+	<K4GWW2_Make_ItalianServiceGrenadeC.jobString>Making Italian Breda Mod.35 grenades.</K4GWW2_Make_ItalianServiceGrenadeC.jobString>
+	
+	<!-- EN: make Japanese Type 97 grenades x10 -->
+	<K4GWW2_Make_JapaneseServiceGrenade.label>make Japanese Type 97 grenades x10</K4GWW2_Make_JapaneseServiceGrenade.label>
+	<!-- EN: Craft Japanese Type 97 grenades. -->
+	<K4GWW2_Make_JapaneseServiceGrenade.description>Craft Japanese Type 97 grenades.</K4GWW2_Make_JapaneseServiceGrenade.description>
+	<!-- EN: Making japanese type 97 grenades. -->
+	<K4GWW2_Make_JapaneseServiceGrenade.jobString>Making japanese type 97 grenades.</K4GWW2_Make_JapaneseServiceGrenade.jobString>
+	
+	<!-- EN: make Russian F1 grenades x10 -->
+	<K4GWW2_Make_RussianServiceGrenade.label>make Russian F1 grenades x10</K4GWW2_Make_RussianServiceGrenade.label>
+	<!-- EN: Craft 10 Russian F1 grenades. -->
+	<K4GWW2_Make_RussianServiceGrenade.description>Craft 10 Russian F1 grenades.</K4GWW2_Make_RussianServiceGrenade.description>
+	<!-- EN: Making russian F1 grenades. -->
+	<K4GWW2_Make_RussianServiceGrenade.jobString>Making russian F1 grenades.</K4GWW2_Make_RussianServiceGrenade.jobString>
+	
+	<!-- EN: make Russian RG-42 grenades x10 -->
+	<K4GWW2_Make_RussianServiceGrenadeB.label>make Russian RG-42 grenades x10</K4GWW2_Make_RussianServiceGrenadeB.label>
+	<!-- EN: Craft 10 russian RG-42 grenades. -->
+	<K4GWW2_Make_RussianServiceGrenadeB.description>Craft 10 russian RG-42 grenades.</K4GWW2_Make_RussianServiceGrenadeB.description>
+	<!-- EN: Making Russian RG-42 grenades. -->
+	<K4GWW2_Make_RussianServiceGrenadeB.jobString>Making Russian RG-42 grenades.</K4GWW2_Make_RussianServiceGrenadeB.jobString>
+	
+	<!-- EN: make Russian RGD-33 grenades x10 -->
+	<K4GWW2_Make_RussianServiceGrenadeC.label>make Russian RGD-33 grenades x10</K4GWW2_Make_RussianServiceGrenadeC.label>
+	<!-- EN: Craft 10 Russian RGD-33 grenades. -->
+	<K4GWW2_Make_RussianServiceGrenadeC.description>Craft 10 Russian RGD-33 grenades.</K4GWW2_Make_RussianServiceGrenadeC.description>
+	<!-- EN: Making russian RGD-33 grenades. -->
+	<K4GWW2_Make_RussianServiceGrenadeC.jobString>Making russian RGD-33 grenades.</K4GWW2_Make_RussianServiceGrenadeC.jobString>
+	
+	<!-- EN: make American Mk II grenades x10 -->
+	<K4GWW2_Make_AmericanServiceGrenade.label>make American Mk II grenades x10</K4GWW2_Make_AmericanServiceGrenade.label>
+	<!-- EN: Craft 10 American Mk II grenades. -->
+	<K4GWW2_Make_AmericanServiceGrenade.description>Craft 10 American Mk II grenades.</K4GWW2_Make_AmericanServiceGrenade.description>
+	<!-- EN: Making american Mk II grenades. -->
+	<K4GWW2_Make_AmericanServiceGrenade.jobString>Making american Mk II grenades.</K4GWW2_Make_AmericanServiceGrenade.jobString>
+	
+	<!-- EN: make British No. 73 Anti-Tank grenades x10 -->
+	<K4GWW2_Make_BritishATGrenade.label>make British No. 73 Anti-Tank grenades x10</K4GWW2_Make_BritishATGrenade.label>
+	<!-- EN: Craft 10 british no. 73 anti-tank grenades. -->
+	<K4GWW2_Make_BritishATGrenade.description>Craft 10 british no. 73 anti-tank grenades.</K4GWW2_Make_BritishATGrenade.description>
+	<!-- EN: Making british no. 73 anti-tank grenades. -->
+	<K4GWW2_Make_BritishATGrenade.jobString>Making british no. 73 anti-tank grenades.</K4GWW2_Make_BritishATGrenade.jobString>
+	
+	<!-- EN: make British No. 74 Sticky Bomb Anti-Tank grenades x10 -->
+	<K4GWW2_Make_BritishATGrenadeB.label>make British No. 74 Sticky Bomb Anti-Tank grenades x10</K4GWW2_Make_BritishATGrenadeB.label>
+	<!-- EN: Craft 10 british no. 74 sticky bomb anti-tank grenades. -->
+	<K4GWW2_Make_BritishATGrenadeB.description>Craft 10 british no. 74 sticky bomb anti-tank grenades.</K4GWW2_Make_BritishATGrenadeB.description>
+	<!-- EN: Making british no. 74 sticky bomb anti-tank grenades. -->
+	<K4GWW2_Make_BritishATGrenadeB.jobString>Making british no. 74 sticky bomb anti-tank grenades.</K4GWW2_Make_BritishATGrenadeB.jobString>
+	
+	<!-- EN: make German M24 Stielhandgranate Bundle Anti-Tank grenades x10 -->
+	<K4GWW2_Make_GermanATGrenade.label>make German M24 Stielhandgranate Bundle Anti-Tank grenades x10</K4GWW2_Make_GermanATGrenade.label>
+	<!-- EN: Craft 10 german M24 stielhandgranate bundle anti-tank grenades. -->
+	<K4GWW2_Make_GermanATGrenade.description>Craft 10 german M24 stielhandgranate bundle anti-tank grenades.</K4GWW2_Make_GermanATGrenade.description>
+	<!-- EN: Making german M24 stielhandgranate bundle anti-tank grenades. -->
+	<K4GWW2_Make_GermanATGrenade.jobString>Making german M24 stielhandgranate bundle anti-tank grenades.</K4GWW2_Make_GermanATGrenade.jobString>
+	
+	<!-- EN: make Italian Type L Anti-Tank grenades x10 -->
+	<K4GWW2_Make_ItalianATGrenade.label>make Italian Type L Anti-Tank grenades x10</K4GWW2_Make_ItalianATGrenade.label>
+	<!-- EN: Craft 10 italian type L 73 anti-tank grenades. -->
+	<K4GWW2_Make_ItalianATGrenade.description>Craft 10 italian type L 73 anti-tank grenades.</K4GWW2_Make_ItalianATGrenade.description>
+	<!-- EN: Making italian type L 73 anti-tank grenades. -->
+	<K4GWW2_Make_ItalianATGrenade.jobString>Making italian type L 73 anti-tank grenades.</K4GWW2_Make_ItalianATGrenade.jobString>
+	
+	<!-- EN: make Russian RPG-40 Anti-Tank grenades x10 -->
+	<K4GWW2_Make_RussianATGrenade.label>make Russian RPG-40 Anti-Tank grenades x10</K4GWW2_Make_RussianATGrenade.label>
+	<!-- EN: Craft 10 russian RPG-40 anti-tank grenades. -->
+	<K4GWW2_Make_RussianATGrenade.description>Craft 10 russian RPG-40 anti-tank grenades.</K4GWW2_Make_RussianATGrenade.description>
+	<!-- EN: Making russian RPG-40 anti-tank grenades. -->
+	<K4GWW2_Make_RussianATGrenade.jobString>Making russian RPG-40 anti-tank grenades.</K4GWW2_Make_RussianATGrenade.jobString>
+	
+	<!-- EN: make Russian RPG-43 Anti-Tank grenades x10 -->
+	<K4GWW2_Make_RussianATGrenadeB.label>make Russian RPG-43 Anti-Tank grenades x10</K4GWW2_Make_RussianATGrenadeB.label>
+	<!-- EN: Craft 10 russian RPG-43 anti-tank grenades. -->
+	<K4GWW2_Make_RussianATGrenadeB.description>Craft 10 russian RPG-43 anti-tank grenades.</K4GWW2_Make_RussianATGrenadeB.description>
+	<!-- EN: Making russian RPG-43 anti-tank grenades. -->
+	<K4GWW2_Make_RussianATGrenadeB.jobString>Making russian RPG-43 anti-tank grenades.</K4GWW2_Make_RussianATGrenadeB.jobString>
+	
+	<!-- EN: make Russian RPG-6 Anti-Tank grenades x10 -->
+	<K4GWW2_Make_RussianATGrenadeC.label>make Russian RPG-6 Anti-Tank grenades x10</K4GWW2_Make_RussianATGrenadeC.label>
+	<!-- EN: Craft 10 russian RPG-6 anti-tank grenades. -->
+	<K4GWW2_Make_RussianATGrenadeC.description>Craft 10 russian RPG-6 anti-tank grenades.</K4GWW2_Make_RussianATGrenadeC.description>
+	<!-- EN: Making russian RPG-6 anti-tank grenades. -->
+	<K4GWW2_Make_RussianATGrenadeC.jobString>Making russian RPG-6 anti-tank grenades.</K4GWW2_Make_RussianATGrenadeC.jobString>
+</LanguageData>

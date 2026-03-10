@@ -1,0 +1,24 @@
+<LanguageData>
+	<!-- ModPatches\Infinity Rim Ariadna\Defs\Infinity Rim Ariadna\Ammo\Shotgun.xml -->
+	
+	<!-- EN: make 12 gauge (Teseum) shell x200 -->
+	<MakeAmmo_12Gauge_Teseum.label>make 12 gauge (Teseum) shell x200</MakeAmmo_12Gauge_Teseum.label>
+	<!-- EN: Craft 200 12 gauge (Teseum) shells. -->
+	<MakeAmmo_12Gauge_Teseum.description>Craft 200 12 gauge (Teseum) shells.</MakeAmmo_12Gauge_Teseum.description>
+	<!-- EN: Making 12 gauge (Teseum) shells. -->
+	<MakeAmmo_12Gauge_Teseum.jobString>Making 12 gauge (Teseum) shells.</MakeAmmo_12Gauge_Teseum.jobString>
+	
+	<!-- EN: make shotgun (Teseum) shell x200 -->
+	<MakeAmmo_Shotgun_Teseum.label>make shotgun (Teseum) shell x200</MakeAmmo_Shotgun_Teseum.label>
+	<!-- EN: Craft 200 shotgun (Teseum) shells. -->
+	<MakeAmmo_Shotgun_Teseum.description>Craft 200 shotgun (Teseum) shells.</MakeAmmo_Shotgun_Teseum.description>
+	<!-- EN: Making shotgun (Teseum) shells. -->
+	<MakeAmmo_Shotgun_Teseum.jobString>Making shotgun (Teseum) shells.</MakeAmmo_Shotgun_Teseum.jobString>
+	
+	<!-- EN: make chain rifle segments x200 -->
+	<MakeAmmo_AriadnanChainGun.label>make chain rifle segments x200</MakeAmmo_AriadnanChainGun.label>
+	<!-- EN: Craft 100 chain rifle segments. -->
+	<MakeAmmo_AriadnanChainGun.description>Craft 100 chain rifle segments.</MakeAmmo_AriadnanChainGun.description>
+	<!-- EN: Making chain rifle segments. -->
+	<MakeAmmo_AriadnanChainGun.jobString>Making chain rifle segments.</MakeAmmo_AriadnanChainGun.jobString>
+</LanguageData>

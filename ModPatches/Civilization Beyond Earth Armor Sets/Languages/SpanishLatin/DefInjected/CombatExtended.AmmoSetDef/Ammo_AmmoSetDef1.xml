@@ -1,0 +1,21 @@
+<LanguageData>
+	<!-- ModPatches\Civilization Beyond Earth Armor Sets\Defs\Civilization Beyond Earth Armor Sets\Ammo.xml -->
+	<!-- EN: 6x24mm Harmony Charged -->
+	<AmmoSet_6x24mmHarmonyCharged.label>6x24mm Harmony Charged</AmmoSet_6x24mmHarmonyCharged.label>
+	<!-- EN: 6x24mm Purity Charged -->
+	<AmmoSet_6x24mmPurityCharged.label>6x24mm Purity Charged</AmmoSet_6x24mmPurityCharged.label>
+	<!-- EN: 6x24mm Supremacy Charged -->
+	<AmmoSet_6x24mmSupremacyCharged.label>6x24mm Supremacy Charged</AmmoSet_6x24mmSupremacyCharged.label>
+	<!-- EN: 8x35mm Harmony Charged -->
+	<AmmoSet_8x35mmHarmonyCharged.label>8x35mm Harmony Charged</AmmoSet_8x35mmHarmonyCharged.label>
+	<!-- EN: 8x35mm Purity Charged -->
+	<AmmoSet_8x35mmPurityCharged.label>8x35mm Purity Charged</AmmoSet_8x35mmPurityCharged.label>
+	<!-- EN: 8x35mm Supremacy Charged -->
+	<AmmoSet_8x35mmSupremacyCharged.label>8x35mm Supremacy Charged</AmmoSet_8x35mmSupremacyCharged.label>
+	<!-- EN: 6x24mm Purity/Supremacy Charged -->
+	<AmmoSet_6x24mmPuritySupremacyCharged.label>6x24mm Purity/Supremacy Charged</AmmoSet_6x24mmPuritySupremacyCharged.label>
+	<!-- EN: 6x24mm Purity/Harmony Charged -->
+	<AmmoSet_6x24mmPurityHarmonyCharged.label>6x24mm Purity/Harmony Charged</AmmoSet_6x24mmPurityHarmonyCharged.label>
+	<!-- EN: 6x24mm Harmony/Supremacy Charged -->
+	<AmmoSet_6x24mmHarmonySupremacyCharged.label>6x24mm Harmony/Supremacy Charged</AmmoSet_6x24mmHarmonySupremacyCharged.label>
+</LanguageData>

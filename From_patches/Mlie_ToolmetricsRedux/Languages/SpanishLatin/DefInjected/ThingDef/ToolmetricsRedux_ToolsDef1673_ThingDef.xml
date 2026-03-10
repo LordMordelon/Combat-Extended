@@ -1,0 +1,131 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Mlie_ToolmetricsRedux\ToolmetricsRedux_ToolsDef1673.xml -->
+	<!-- EN: handle -->
+	<Tool_Chisel.tools.0.label>handle</Tool_Chisel.tools.0.label>
+	<!-- EN: head -->
+	<Tool_Chisel.tools.1.label>head</Tool_Chisel.tools.1.label>
+	<!-- EN: handle -->
+	<Tool_Chefs_Knife.tools.0.label>handle</Tool_Chefs_Knife.tools.0.label>
+	<!-- EN: edge -->
+	<Tool_Chefs_Knife.tools.1.label>edge</Tool_Chefs_Knife.tools.1.label>
+	<!-- EN: point -->
+	<Tool_Chefs_Knife.tools.2.label>point</Tool_Chefs_Knife.tools.2.label>
+	<!-- EN: side -->
+	<Tool_Pillow.tools.0.label>side</Tool_Pillow.tools.0.label>
+	<!-- EN: side -->
+	<Tool_Blanket.tools.0.label>side</Tool_Blanket.tools.0.label>
+	<!-- EN: collar -->
+	<Tool_Leash.tools.0.label>collar</Tool_Leash.tools.0.label>
+	<!-- EN: wraps -->
+	<Tool_Bandage.tools.0.label>wraps</Tool_Bandage.tools.0.label>
+	<!-- EN: head -->
+	<Tool_Walking_Cane.tools.0.label>head</Tool_Walking_Cane.tools.0.label>
+	<!-- EN: head -->
+	<Tool_Whip.tools.0.label>head</Tool_Whip.tools.0.label>
+	<!-- EN: case -->
+	<Tool_First_Aid_Kit.tools.0.label>case</Tool_First_Aid_Kit.tools.0.label>
+	<!-- EN: head -->
+	<Tool_Flowers.tools.0.label>head</Tool_Flowers.tools.0.label>
+	<!-- EN: edge -->
+	<Tool_Fan.tools.0.label>edge</Tool_Fan.tools.0.label>
+	<!-- EN: cover -->
+	<Tool_Encyclopedia.tools.0.label>cover</Tool_Encyclopedia.tools.0.label>
+	<!-- EN: cover -->
+	<Tool_How_To.tools.0.label>cover</Tool_How_To.tools.0.label>
+	<!-- EN: cover -->
+	<Tool_Coupon_Book.tools.0.label>cover</Tool_Coupon_Book.tools.0.label>
+	<!-- EN: Side -->
+	<Tool_Laptop.tools.0.label>Side</Tool_Laptop.tools.0.label>
+	<!-- EN: handle -->
+	<Tool_Saw.tools.0.label>handle</Tool_Saw.tools.0.label>
+	<!-- EN: edge -->
+	<Tool_Saw.tools.1.label>edge</Tool_Saw.tools.1.label>
+	<!-- EN: handle -->
+	<Tool_Brick_Saw.tools.0.label>handle</Tool_Brick_Saw.tools.0.label>
+	<!-- EN: saw -->
+	<Tool_Brick_Saw.tools.1.label>saw</Tool_Brick_Saw.tools.1.label>
+	<!-- EN: handle -->
+	<Tool_Power_Drill.tools.0.label>handle</Tool_Power_Drill.tools.0.label>
+	<!-- EN: drill -->
+	<Tool_Power_Drill.tools.1.label>drill</Tool_Power_Drill.tools.1.label>
+	<!-- EN: handle -->
+	<Tool_Jackhammer.tools.0.label>handle</Tool_Jackhammer.tools.0.label>
+	<!-- EN: point -->
+	<Tool_Jackhammer.tools.1.label>point</Tool_Jackhammer.tools.1.label>
+	<!-- EN: case -->
+	<Tool_Toolkit.tools.0.label>case</Tool_Toolkit.tools.0.label>
+	<!-- EN: body -->
+	<Tool_Thimble.tools.0.label>body</Tool_Thimble.tools.0.label>
+	<!-- EN: body -->
+	<Tool_Whistle.tools.0.label>body</Tool_Whistle.tools.0.label>
+	<!-- EN: handle -->
+	<Tool_Screwdriver.tools.0.label>handle</Tool_Screwdriver.tools.0.label>
+	<!-- EN: head -->
+	<Tool_Screwdriver.tools.1.label>head</Tool_Screwdriver.tools.1.label>
+	<!-- EN: handle -->
+	<Tool_Axe.tools.0.label>handle</Tool_Axe.tools.0.label>
+	<!-- EN: edge -->
+	<Tool_Axe.tools.1.label>edge</Tool_Axe.tools.1.label>
+	<!-- EN: handle -->
+	<Tool_Skill_Saw.tools.0.label>handle</Tool_Skill_Saw.tools.0.label>
+	<!-- EN: edge -->
+	<Tool_Skill_Saw.tools.1.label>edge</Tool_Skill_Saw.tools.1.label>
+	<!-- EN: head -->
+	<Tool_Fork.tools.0.label>head</Tool_Fork.tools.0.label>
+	<!-- EN: handle -->
+	<Tool_Cleaver.tools.0.label>handle</Tool_Cleaver.tools.0.label>
+	<!-- EN: edge -->
+	<Tool_Cleaver.tools.1.label>edge</Tool_Cleaver.tools.1.label>
+	<!-- EN: point -->
+	<Tool_Skinning_Knife.tools.0.label>point</Tool_Skinning_Knife.tools.0.label>
+	<!-- EN: edge -->
+	<Tool_Skinning_Knife.tools.1.label>edge</Tool_Skinning_Knife.tools.1.label>
+	<!-- EN: handle -->
+	<Tool_Pickaxe.tools.0.label>handle</Tool_Pickaxe.tools.0.label>
+	<!-- EN: point -->
+	<Tool_Pickaxe.tools.1.label>point</Tool_Pickaxe.tools.1.label>
+	<!-- EN: edge -->
+	<Tool_Scapel.tools.0.label>edge</Tool_Scapel.tools.0.label>
+	<!-- EN: point -->
+	<Tool_Scapel.tools.1.label>point</Tool_Scapel.tools.1.label>
+	<!-- EN: handle -->
+	<Tool_Sickle.tools.0.label>handle</Tool_Sickle.tools.0.label>
+	<!-- EN: edge -->
+	<Tool_Sickle.tools.1.label>edge</Tool_Sickle.tools.1.label>
+	<!-- EN: handle -->
+	<Tool_Scythe.tools.0.label>handle</Tool_Scythe.tools.0.label>
+	<!-- EN: edge -->
+	<Tool_Scythe.tools.1.label>edge</Tool_Scythe.tools.1.label>
+	<!-- EN: point -->
+	<Tool_Scythe.tools.2.label>point</Tool_Scythe.tools.2.label>
+	<!-- EN: head -->
+	<Tool_Crowbar.tools.0.label>head</Tool_Crowbar.tools.0.label>
+	<!-- EN: handle -->
+	<Tool_Forge_Hammer.tools.0.label>handle</Tool_Forge_Hammer.tools.0.label>
+	<!-- EN: head -->
+	<Tool_Forge_Hammer.tools.1.label>head</Tool_Forge_Hammer.tools.1.label>
+	<!-- EN: head -->
+	<Tool_Spoon.tools.0.label>head</Tool_Spoon.tools.0.label>
+	<!-- EN: handle -->
+	<Tool_Trowel.tools.0.label>handle</Tool_Trowel.tools.0.label>
+	<!-- EN: edge -->
+	<Tool_Trowel.tools.1.label>edge</Tool_Trowel.tools.1.label>
+	<!-- EN: point -->
+	<Tool_Trowel.tools.2.label>point</Tool_Trowel.tools.2.label>
+	<!-- EN: head -->
+	<Tool_Trowel.tools.3.label>head</Tool_Trowel.tools.3.label>
+	<!-- EN: handle -->
+	<Tool_Shovel.tools.0.label>handle</Tool_Shovel.tools.0.label>
+	<!-- EN: edge -->
+	<Tool_Shovel.tools.1.label>edge</Tool_Shovel.tools.1.label>
+	<!-- EN: point -->
+	<Tool_Shovel.tools.2.label>point</Tool_Shovel.tools.2.label>
+	<!-- EN: head -->
+	<Tool_Shovel.tools.3.label>head</Tool_Shovel.tools.3.label>
+	<!-- EN: handle -->
+	<Tool_Hammer.tools.0.label>handle</Tool_Hammer.tools.0.label>
+	<!-- EN: head -->
+	<Tool_Hammer.tools.1.label>head</Tool_Hammer.tools.1.label>
+	<!-- EN: weight -->
+	<Tool_Animal_Husbandry.tools.0.label>weight</Tool_Animal_Husbandry.tools.0.label>
+</LanguageData>

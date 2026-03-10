@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\JDS Exiled Dawn\Defs\JDS Exiled Dawn\Ammo\Ammo_ExilePlasma.xml -->
+	<!-- EN: Low Density Plasma Bolt -->
+	<Bullet_ExilePlasmaPistol.label>Low Density Plasma Bolt</Bullet_ExilePlasmaPistol.label>
+	<!-- EN: Medium Density Plasma Bolt -->
+	<Bullet_ExilePlasmaMid.label>Medium Density Plasma Bolt</Bullet_ExilePlasmaMid.label>
+	<!-- EN: High Density Plasma Bolt -->
+	<Bullet_ExilePlasmaHeavy.label>High Density Plasma Bolt</Bullet_ExilePlasmaHeavy.label>
+	<!-- EN: Accelerated Plasma Bolt -->
+	<Bullet_ExilePlasmaAccelerated.label>Accelerated Plasma Bolt</Bullet_ExilePlasmaAccelerated.label>
+</LanguageData>

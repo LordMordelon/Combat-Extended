@@ -1,0 +1,51 @@
+<LanguageData>
+	<!-- ModPatches\Rim-Effect Renegade Core\Defs\Rim-Effect Renegade Core\ME_Ammo_Recipe.xml -->
+	<!-- EN: make thermal clips -->
+	<MakeAmmo_ME.label>make thermal clips</MakeAmmo_ME.label>
+	<!-- EN: Craft 200 shots' worth of thermal clips. -->
+	<MakeAmmo_ME.description>Craft 200 shots' worth of thermal clips.</MakeAmmo_ME.description>
+	<!-- EN: Making thermal clips. -->
+	<MakeAmmo_ME.jobString>Making thermal clips.</MakeAmmo_ME.jobString>
+	
+	<!-- EN: make thermal clips -->
+	<MakeAmmo_ME_AP.label>make thermal clips</MakeAmmo_ME_AP.label>
+	<!-- EN: Craft 200 shots' worth of AP thermal clips. -->
+	<MakeAmmo_ME_AP.description>Craft 200 shots' worth of AP thermal clips.</MakeAmmo_ME_AP.description>
+	<!-- EN: Making AP thermal clips. -->
+	<MakeAmmo_ME_AP.jobString>Making AP thermal clips.</MakeAmmo_ME_AP.jobString>
+	
+	<!-- EN: make thermal clips -->
+	<MakeAmmo_ME_Cryo.label>make thermal clips</MakeAmmo_ME_Cryo.label>
+	<!-- EN: Craft 200 shots' worth of Cryo thermal clips. -->
+	<MakeAmmo_ME_Cryo.description>Craft 200 shots' worth of Cryo thermal clips.</MakeAmmo_ME_Cryo.description>
+	<!-- EN: Making Cryo thermal clips. -->
+	<MakeAmmo_ME_Cryo.jobString>Making Cryo thermal clips.</MakeAmmo_ME_Cryo.jobString>
+	
+	<!-- EN: make thermal clips -->
+	<MakeAmmo_ME_HE.label>make thermal clips</MakeAmmo_ME_HE.label>
+	<!-- EN: Craft 200 shots' worth of high explosive thermal clips. -->
+	<MakeAmmo_ME_HE.description>Craft 200 shots' worth of high explosive thermal clips.</MakeAmmo_ME_HE.description>
+	<!-- EN: Making HE thermal clips. -->
+	<MakeAmmo_ME_HE.jobString>Making HE thermal clips.</MakeAmmo_ME_HE.jobString>
+	
+	<!-- EN: make thermal clips -->
+	<MakeAmmo_ME_FI.label>make thermal clips</MakeAmmo_ME_FI.label>
+	<!-- EN: Craft 200 shots' worth of FI thermal clips. -->
+	<MakeAmmo_ME_FI.description>Craft 200 shots' worth of FI thermal clips.</MakeAmmo_ME_FI.description>
+	<!-- EN: Making incendiary thermal clips. -->
+	<MakeAmmo_ME_FI.jobString>Making incendiary thermal clips.</MakeAmmo_ME_FI.jobString>
+	
+	<!-- EN: make thermal clips -->
+	<MakeAmmo_ME_Ion.label>make thermal clips</MakeAmmo_ME_Ion.label>
+	<!-- EN: Craft 200 shots' worth of disruptor thermal clips. -->
+	<MakeAmmo_ME_Ion.description>Craft 200 shots' worth of disruptor thermal clips.</MakeAmmo_ME_Ion.description>
+	<!-- EN: Making disruptor thermal clips. -->
+	<MakeAmmo_ME_Ion.jobString>Making disruptor thermal clips.</MakeAmmo_ME_Ion.jobString>
+	
+	<!-- EN: make thermal clips -->
+	<MakeAmmo_ME_Toxic.label>make thermal clips</MakeAmmo_ME_Toxic.label>
+	<!-- EN: Craft 200 shots' worth of toxin thermal clips. -->
+	<MakeAmmo_ME_Toxic.description>Craft 200 shots' worth of toxin thermal clips.</MakeAmmo_ME_Toxic.description>
+	<!-- EN: Making toxin thermal clips. -->
+	<MakeAmmo_ME_Toxic.jobString>Making toxin thermal clips.</MakeAmmo_ME_Toxic.jobString>
+</LanguageData>

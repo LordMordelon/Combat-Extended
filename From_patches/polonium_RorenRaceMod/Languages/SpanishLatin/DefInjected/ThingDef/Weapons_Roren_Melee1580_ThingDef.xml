@@ -1,0 +1,83 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\polonium_RorenRaceMod\Weapons_Roren_Melee1580.xml -->
+	<!-- EN: shaft -->
+	<Roren_InfantryBardiche.tools.0.label>shaft</Roren_InfantryBardiche.tools.0.label>
+	<!-- EN: head -->
+	<Roren_InfantryBardiche.tools.1.label>head</Roren_InfantryBardiche.tools.1.label>
+	<!-- EN: point -->
+	<Roren_InfantryBardiche.tools.2.label>point</Roren_InfantryBardiche.tools.2.label>
+	<!-- EN: edge -->
+	<Roren_InfantryBardiche.tools.3.label>edge</Roren_InfantryBardiche.tools.3.label>
+	
+	<!-- EN: shaft -->
+	<Roren_EliteBardiche.tools.0.label>shaft</Roren_EliteBardiche.tools.0.label>
+	<!-- EN: head -->
+	<Roren_EliteBardiche.tools.1.label>head</Roren_EliteBardiche.tools.1.label>
+	<!-- EN: point -->
+	<Roren_EliteBardiche.tools.2.label>point</Roren_EliteBardiche.tools.2.label>
+	<!-- EN: edge -->
+	<Roren_EliteBardiche.tools.3.label>edge</Roren_EliteBardiche.tools.3.label>
+	
+	<!-- EN: shaft -->
+	<Roren_ZealotBardiche.tools.0.label>shaft</Roren_ZealotBardiche.tools.0.label>
+	<!-- EN: head -->
+	<Roren_ZealotBardiche.tools.1.label>head</Roren_ZealotBardiche.tools.1.label>
+	<!-- EN: point -->
+	<Roren_ZealotBardiche.tools.2.label>point</Roren_ZealotBardiche.tools.2.label>
+	<!-- EN: edge -->
+	<Roren_ZealotBardiche.tools.3.label>edge</Roren_ZealotBardiche.tools.3.label>
+	
+	<!-- EN: shaft -->
+	<Roren_Consecratio_InfantryBardiche.tools.0.label>shaft</Roren_Consecratio_InfantryBardiche.tools.0.label>
+	<!-- EN: head -->
+	<Roren_Consecratio_InfantryBardiche.tools.1.label>head</Roren_Consecratio_InfantryBardiche.tools.1.label>
+	<!-- EN: point -->
+	<Roren_Consecratio_InfantryBardiche.tools.2.label>point</Roren_Consecratio_InfantryBardiche.tools.2.label>
+	<!-- EN: edge -->
+	<Roren_Consecratio_InfantryBardiche.tools.3.label>edge</Roren_Consecratio_InfantryBardiche.tools.3.label>
+	
+	<!-- EN: shaft -->
+	<Roren_Consecratio_EliteBardiche.tools.0.label>shaft</Roren_Consecratio_EliteBardiche.tools.0.label>
+	<!-- EN: head -->
+	<Roren_Consecratio_EliteBardiche.tools.1.label>head</Roren_Consecratio_EliteBardiche.tools.1.label>
+	<!-- EN: point -->
+	<Roren_Consecratio_EliteBardiche.tools.2.label>point</Roren_Consecratio_EliteBardiche.tools.2.label>
+	<!-- EN: edge -->
+	<Roren_Consecratio_EliteBardiche.tools.3.label>edge</Roren_Consecratio_EliteBardiche.tools.3.label>
+	
+	<!-- EN: shaft -->
+	<Roren_Consecratio_ZealotBardiche.tools.0.label>shaft</Roren_Consecratio_ZealotBardiche.tools.0.label>
+	<!-- EN: head -->
+	<Roren_Consecratio_ZealotBardiche.tools.1.label>head</Roren_Consecratio_ZealotBardiche.tools.1.label>
+	<!-- EN: point -->
+	<Roren_Consecratio_ZealotBardiche.tools.2.label>point</Roren_Consecratio_ZealotBardiche.tools.2.label>
+	<!-- EN: edge -->
+	<Roren_Consecratio_ZealotBardiche.tools.3.label>edge</Roren_Consecratio_ZealotBardiche.tools.3.label>
+	
+	<!-- EN: handle -->
+	<Roren_RorensianBlade.tools.0.label>handle</Roren_RorensianBlade.tools.0.label>
+	<!-- EN: edge -->
+	<Roren_RorensianBlade.tools.1.label>edge</Roren_RorensianBlade.tools.1.label>
+	<!-- EN: point -->
+	<Roren_RorensianBlade.tools.2.label>point</Roren_RorensianBlade.tools.2.label>
+	
+	<!-- EN: handle -->
+	<Roren_SafeGrenade.tools.0.label>handle</Roren_SafeGrenade.tools.0.label>
+	<!-- EN: head -->
+	<Roren_SafeGrenade.tools.1.label>head</Roren_SafeGrenade.tools.1.label>
+	
+	<!-- EN: handle -->
+	<Roren_Consecratio_SafeGrenade.tools.0.label>handle</Roren_Consecratio_SafeGrenade.tools.0.label>
+	<!-- EN: head -->
+	<Roren_Consecratio_SafeGrenade.tools.1.label>head</Roren_Consecratio_SafeGrenade.tools.1.label>
+	
+	<!-- EN: handle -->
+	<Roren_ClassicMachete.tools.0.label>handle</Roren_ClassicMachete.tools.0.label>
+	<!-- EN: edge -->
+	<Roren_ClassicMachete.tools.1.label>edge</Roren_ClassicMachete.tools.1.label>
+	
+	<!-- EN: handle -->
+	<Roren_Consecratio_ClassicMachete.tools.0.label>handle</Roren_Consecratio_ClassicMachete.tools.0.label>
+	<!-- EN: edge -->
+	<Roren_Consecratio_ClassicMachete.tools.1.label>edge</Roren_Consecratio_ClassicMachete.tools.1.label>
+</LanguageData>

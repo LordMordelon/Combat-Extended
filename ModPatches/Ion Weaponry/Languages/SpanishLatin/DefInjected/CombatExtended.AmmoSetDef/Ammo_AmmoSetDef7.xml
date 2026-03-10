@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- ModPatches\Ion Weaponry\Defs\Ion Weaponry\Ammo.xml -->
+	<!-- EN: 4mm Railgun Ion -->
+	<AmmoSet_4mmRailgunIon.label>4mm Railgun Ion</AmmoSet_4mmRailgunIon.label>
+	<!-- EN: 6mm Railgun -->
+	<AmmoSet_6mmRailgunIon.label>6mm Railgun</AmmoSet_6mmRailgunIon.label>
+	<!-- EN: 8mm Railgun Ion -->
+	<AmmoSet_8mmRailgunIon.label>8mm Railgun Ion</AmmoSet_8mmRailgunIon.label>
+	<!-- EN: 12mm Railgun Ion (Lance) -->
+	<AmmoSet_12mmRailgunIon_Lance.label>12mm Railgun Ion (Lance)</AmmoSet_12mmRailgunIon_Lance.label>
+	<!-- EN: Ion Blast -->
+	<AmmoSet_12mmRailgunIon_Blast.label>Ion Blast</AmmoSet_12mmRailgunIon_Blast.label>
+</LanguageData>

@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Alpha Vehicles\Neolithic\Defs\Neolithic\Ammo_Hwacha.xml -->
+	<!-- EN: hwacha rocket arrow -->
+	<RocketArrow.label>hwacha rocket arrow</RocketArrow.label>
+	<!-- EN: hwacha -->
+	<RocketArrow.labelShort>hwacha</RocketArrow.labelShort>
+	<!-- EN: Steel arrowhead with an underslung tube of gunpowder for explosive results. -->
+	<RocketArrow.description>Steel arrowhead with an underslung tube of gunpowder for explosive results.</RocketArrow.description>
+</LanguageData>

@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\MH Military Tiers\Defs\MH Military Tiers\Ammo\RotaryShrapnelcannonShell.xml -->
+	<!-- EN: Shrapnelcannon shell (Buck) -->
+	<Ammo_RotaryShrapnelcannonShell.label>Shrapnelcannon shell (Buck)</Ammo_RotaryShrapnelcannonShell.label>
+	<!-- EN: Very large caliber buckshot shell designed specifically for the mech-operated Rotary Shrapnelcannon. -->
+	<Ammo_RotaryShrapnelcannonShell.description>Very large caliber buckshot shell designed specifically for the mech-operated Rotary Shrapnelcannon.</Ammo_RotaryShrapnelcannonShell.description>
+	<!-- EN: Shrapnelcannon buckshot pellet -->
+	<Bullet_RotaryShrapnelcannonShell.label>Shrapnelcannon buckshot pellet</Bullet_RotaryShrapnelcannonShell.label>
+</LanguageData>

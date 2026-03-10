@@ -1,0 +1,30 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\sarg_alphagenes\WeaponsMelee_Forsaken264.xml -->
+	<!-- EN: handle -->
+	<AG_ForsakenLongBlade.tools.0.label>handle</AG_ForsakenLongBlade.tools.0.label>
+	<!-- EN: point -->
+	<AG_ForsakenLongBlade.tools.1.label>point</AG_ForsakenLongBlade.tools.1.label>
+	<!-- EN: edge -->
+	<AG_ForsakenLongBlade.tools.2.label>edge</AG_ForsakenLongBlade.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<AG_ForsakenBattleAxe.tools.0.label>shaft</AG_ForsakenBattleAxe.tools.0.label>
+	<!-- EN: point -->
+	<AG_ForsakenBattleAxe.tools.1.label>point</AG_ForsakenBattleAxe.tools.1.label>
+	<!-- EN: edge -->
+	<AG_ForsakenBattleAxe.tools.2.label>edge</AG_ForsakenBattleAxe.tools.2.label>
+	
+	<!-- EN: handle -->
+	<AG_ForsakenBulkSword.tools.0.label>handle</AG_ForsakenBulkSword.tools.0.label>
+	<!-- EN: point -->
+	<AG_ForsakenBulkSword.tools.1.label>point</AG_ForsakenBulkSword.tools.1.label>
+	<!-- EN: edge -->
+	<AG_ForsakenBulkSword.tools.2.label>edge</AG_ForsakenBulkSword.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<AG_ForsakenSpear.tools.0.label>shaft</AG_ForsakenSpear.tools.0.label>
+	<!-- EN: shaft -->
+	<AG_ForsakenSpear.tools.1.label>shaft</AG_ForsakenSpear.tools.1.label>
+	<!-- EN: head -->
+	<AG_ForsakenSpear.tools.2.label>head</AG_ForsakenSpear.tools.2.label>
+</LanguageData>

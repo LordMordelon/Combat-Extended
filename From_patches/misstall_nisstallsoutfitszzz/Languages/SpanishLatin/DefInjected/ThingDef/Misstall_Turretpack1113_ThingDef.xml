@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\misstall_nisstallsoutfitszzz\Misstall_Turretpack1113.xml -->
+	<!-- EN: deploy turret -->
+	<Apparel_MAU_PackTurret.verbs.0.label>deploy turret</Apparel_MAU_PackTurret.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<Apparel_MAU_PackTurret.verbs.CombatExtended.Verb_ShootCEOneUseStatic.label>ㅤ</Apparel_MAU_PackTurret.verbs.CombatExtended.Verb_ShootCEOneUseStatic.label>
+</LanguageData>

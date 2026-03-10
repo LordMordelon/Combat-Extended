@@ -1,0 +1,18 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\rimofmadness_CallofCthulhuCosmicHorrors\CH_KindsChthonian614.xml -->
+	<!-- EN: tentacles -->
+	<ROM_Chthonian.tools.0.label>tentacles</ROM_Chthonian.tools.0.label>
+	<!-- EN: coiling tentacles -->
+	<ROM_Chthonian.tools.1.label>coiling tentacles</ROM_Chthonian.tools.1.label>
+	<!-- EN: overwhelming mind -->
+	<ROM_Chthonian.tools.2.label>overwhelming mind</ROM_Chthonian.tools.2.label>
+	<!-- EN: body -->
+	<ROM_Chthonian.tools.3.label>body</ROM_Chthonian.tools.3.label>
+	
+	<!-- EN: tentacles -->
+	<ROM_ChthonianLarva.tools.0.label>tentacles</ROM_ChthonianLarva.tools.0.label>
+	<!-- EN: overwhelming mind -->
+	<ROM_ChthonianLarva.tools.1.label>overwhelming mind</ROM_ChthonianLarva.tools.1.label>
+	<!-- EN: body -->
+	<ROM_ChthonianLarva.tools.2.label>body</ROM_ChthonianLarva.tools.2.label>
+</LanguageData>

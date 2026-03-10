@@ -1,0 +1,38 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Mlie_ApexRimworldLegends\ApexRimworldLegends_Weapons_Pistols416.xml -->
+	<!-- EN: Hammond P2020 -->
+	<ARL_CombatHandgun.label>Hammond P2020</ARL_CombatHandgun.label>
+	<!-- EN: grip -->
+	<ARL_CombatHandgun.tools.0.label>grip</ARL_CombatHandgun.tools.0.label>
+	<!-- EN: barrel -->
+	<ARL_CombatHandgun.tools.1.label>barrel</ARL_CombatHandgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<ARL_CombatHandgun.tools.2.label>muzzle</ARL_CombatHandgun.tools.2.label>
+	
+	<!-- EN: Re-45 Autopistol -->
+	<ARL_ChargePistol.label>Re-45 Autopistol</ARL_ChargePistol.label>
+	<!-- EN: grip -->
+	<ARL_ChargePistol.tools.0.label>grip</ARL_ChargePistol.tools.0.label>
+	<!-- EN: barrel -->
+	<ARL_ChargePistol.tools.1.label>barrel</ARL_ChargePistol.tools.1.label>
+	<!-- EN: muzzle -->
+	<ARL_ChargePistol.tools.2.label>muzzle</ARL_ChargePistol.tools.2.label>
+	
+	<!-- EN: B3 Wingman -->
+	<ARL_HandCannon.label>B3 Wingman</ARL_HandCannon.label>
+	<!-- EN: grip -->
+	<ARL_HandCannon.tools.0.label>grip</ARL_HandCannon.tools.0.label>
+	<!-- EN: barrel -->
+	<ARL_HandCannon.tools.1.label>barrel</ARL_HandCannon.tools.1.label>
+	<!-- EN: muzzle -->
+	<ARL_HandCannon.tools.2.label>muzzle</ARL_HandCannon.tools.2.label>
+	
+	<!-- EN: SA-3 Mozambique -->
+	<ARL_ShotgunHandgun.label>SA-3 Mozambique</ARL_ShotgunHandgun.label>
+	<!-- EN: grip -->
+	<ARL_ShotgunHandgun.tools.0.label>grip</ARL_ShotgunHandgun.tools.0.label>
+	<!-- EN: barrel -->
+	<ARL_ShotgunHandgun.tools.1.label>barrel</ARL_ShotgunHandgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<ARL_ShotgunHandgun.tools.2.label>muzzle</ARL_ShotgunHandgun.tools.2.label>
+</LanguageData>

@@ -1,0 +1,54 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VGeneticsE\Races_Animal_Dino_HybridCE1822.xml -->
+	<!-- EN: left leg -->
+	<GR_Spinobear.tools.0.label>left leg</GR_Spinobear.tools.0.label>
+	<!-- EN: right leg -->
+	<GR_Spinobear.tools.1.label>right leg</GR_Spinobear.tools.1.label>
+	<!-- EN: teeth -->
+	<GR_Spinobear.tools.2.label>teeth</GR_Spinobear.tools.2.label>
+	<!-- EN: head -->
+	<GR_Spinobear.tools.3.label>head</GR_Spinobear.tools.3.label>
+	
+	<!-- EN: head -->
+	<GR_Parasaurolope.tools.0.label>head</GR_Parasaurolope.tools.0.label>
+	
+	<!-- EN: left claw -->
+	<GR_Chickennathus.tools.0.label>left claw</GR_Chickennathus.tools.0.label>
+	<!-- EN: right claw -->
+	<GR_Chickennathus.tools.1.label>right claw</GR_Chickennathus.tools.1.label>
+	<!-- EN: teeth -->
+	<GR_Chickennathus.tools.2.label>teeth</GR_Chickennathus.tools.2.label>
+	
+	<!-- EN: left leg -->
+	<GR_Diplobeetle.tools.0.label>left leg</GR_Diplobeetle.tools.0.label>
+	<!-- EN: right leg -->
+	<GR_Diplobeetle.tools.1.label>right leg</GR_Diplobeetle.tools.1.label>
+	<!-- EN: tail -->
+	<GR_Diplobeetle.tools.2.label>tail</GR_Diplobeetle.tools.2.label>
+	
+	<!-- EN: horn -->
+	<GR_Triceraffalo.tools.0.label>horn</GR_Triceraffalo.tools.0.label>
+	<!-- EN: head -->
+	<GR_Triceraffalo.tools.1.label>head</GR_Triceraffalo.tools.1.label>
+	
+	<!-- EN: left claw -->
+	<GR_Raptortoise.tools.0.label>left claw</GR_Raptortoise.tools.0.label>
+	<!-- EN: right claw -->
+	<GR_Raptortoise.tools.1.label>right claw</GR_Raptortoise.tools.1.label>
+	<!-- EN: head -->
+	<GR_Raptortoise.tools.3.label>head</GR_Raptortoise.tools.3.label>
+	
+	<!-- EN: tail -->
+	<GR_Stegothrumbo.tools.0.label>tail</GR_Stegothrumbo.tools.0.label>
+	<!-- EN: head -->
+	<GR_Stegothrumbo.tools.1.label>head</GR_Stegothrumbo.tools.1.label>
+	<!-- EN: head -->
+	<GR_Stegothrumbo.tools.2.label>head</GR_Stegothrumbo.tools.2.label>
+	
+	<!-- EN: left claw -->
+	<GR_Velociwolf.tools.0.label>left claw</GR_Velociwolf.tools.0.label>
+	<!-- EN: right claw -->
+	<GR_Velociwolf.tools.1.label>right claw</GR_Velociwolf.tools.1.label>
+	<!-- EN: head -->
+	<GR_Velociwolf.tools.3.label>head</GR_Velociwolf.tools.3.label>
+</LanguageData>

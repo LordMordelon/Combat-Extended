@@ -1,0 +1,24 @@
+<LanguageData>
+	<!-- ModPatches\Rimsenal Core\Defs\Rimsenal Core\Ammo_GDGrenades.xml -->
+	
+	<!-- EN: make 25x40mm buckshot rounds x100 -->
+	<MakeAmmo_25x40mmGrenade_Buck.label>make 25x40mm buckshot rounds x100</MakeAmmo_25x40mmGrenade_Buck.label>
+	<!-- EN: Craft 100 25x40mm buckshot rounds. -->
+	<MakeAmmo_25x40mmGrenade_Buck.description>Craft 100 25x40mm buckshot rounds.</MakeAmmo_25x40mmGrenade_Buck.description>
+	<!-- EN: Making 25x40mm buckshot rounds. -->
+	<MakeAmmo_25x40mmGrenade_Buck.jobString>Making 25x40mm buckshot rounds.</MakeAmmo_25x40mmGrenade_Buck.jobString>
+	
+	<!-- EN: make 25x40mm Incendiary grenades x100 -->
+	<MakeAmmo_25x40mmGrenade_INC.label>make 25x40mm Incendiary grenades x100</MakeAmmo_25x40mmGrenade_INC.label>
+	<!-- EN: Craft 100 25x40mm Incendiary grenades. -->
+	<MakeAmmo_25x40mmGrenade_INC.description>Craft 100 25x40mm Incendiary grenades.</MakeAmmo_25x40mmGrenade_INC.description>
+	<!-- EN: Making 25x40mm Incendiary grenades. -->
+	<MakeAmmo_25x40mmGrenade_INC.jobString>Making 25x40mm Incendiary grenades.</MakeAmmo_25x40mmGrenade_INC.jobString>
+	
+	<!-- EN: make 25mm HEDP micromissile x100 -->
+	<MakeAmmo_25mmGDMicromissile_HEDP.label>make 25mm HEDP micromissile x100</MakeAmmo_25mmGDMicromissile_HEDP.label>
+	<!-- EN: Craft 100 25mm HEDP micromissiles. -->
+	<MakeAmmo_25mmGDMicromissile_HEDP.description>Craft 100 25mm HEDP micromissiles.</MakeAmmo_25mmGDMicromissile_HEDP.description>
+	<!-- EN: Making 25mm HEDP micromissiles. -->
+	<MakeAmmo_25mmGDMicromissile_HEDP.jobString>Making 25mm HEDP micromissiles.</MakeAmmo_25mmGDMicromissile_HEDP.jobString>
+</LanguageData>

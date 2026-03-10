@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\RH2 Helldivers Super Firearms\Defs\RH2 Helldivers Super Firearms\Ammo\RailgunSpike.xml -->
+	<!-- EN: make RS-422 railgun round x50 -->
+	<MakeAmmo_RS422RailgunSpike.label>make RS-422 railgun round x50</MakeAmmo_RS422RailgunSpike.label>
+	<!-- EN: Craft 50 RS-422 railgun rounds. -->
+	<MakeAmmo_RS422RailgunSpike.description>Craft 50 RS-422 railgun rounds.</MakeAmmo_RS422RailgunSpike.description>
+	<!-- EN: Making RS-422 railgun rounds. -->
+	<MakeAmmo_RS422RailgunSpike.jobString>Making RS-422 railgun rounds.</MakeAmmo_RS422RailgunSpike.jobString>
+</LanguageData>

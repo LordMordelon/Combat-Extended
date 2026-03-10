@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\OskarPotocki_VanillaVehiclesExpanded\Highwayman1874.xml -->
+	<!-- EN: Single -->
+	<Highwayman_MainTurret.fireModes.0.label>Single</Highwayman_MainTurret.fireModes.0.label>
+	<!-- EN: Burst -->
+	<Highwayman_MainTurret.fireModes.1.label>Burst</Highwayman_MainTurret.fireModes.1.label>
+	<!-- EN: Auto -->
+	<Highwayman_MainTurret.fireModes.2.label>Auto</Highwayman_MainTurret.fireModes.2.label>
+</LanguageData>

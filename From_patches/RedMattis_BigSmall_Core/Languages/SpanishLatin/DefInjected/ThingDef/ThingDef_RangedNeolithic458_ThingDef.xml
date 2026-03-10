@@ -1,0 +1,12 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\RedMattis_BigSmall_Core\ThingDef_RangedNeolithic458.xml -->
+	<!-- EN: Throw huge javelin -->
+	<BS_JotunJavelin.Properties.label>Throw huge javelin</BS_JotunJavelin.Properties.label>
+	<!-- EN: shaft -->
+	<BS_JotunJavelin.tools.0.label>shaft</BS_JotunJavelin.tools.0.label>
+	<!-- EN: point -->
+	<BS_JotunJavelin.tools.1.label>point</BS_JotunJavelin.tools.1.label>
+	
+	<!-- EN: rock -->
+	<BS_OgreThrowinRock.tools.0.label>rock</BS_OgreThrowinRock.tools.0.label>
+</LanguageData>

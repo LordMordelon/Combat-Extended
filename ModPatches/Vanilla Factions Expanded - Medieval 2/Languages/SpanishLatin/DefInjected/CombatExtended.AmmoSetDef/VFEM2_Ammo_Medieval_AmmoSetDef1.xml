@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla Factions Expanded - Medieval 2\Defs\Vanilla Factions Expanded - Medieval 2\Ammo\VFEM2_Ammo_Medieval.xml -->
+	<!-- EN: great arrows -->
+	<AmmoSet_VFEM2WarArrow.label>great arrows</AmmoSet_VFEM2WarArrow.label>
+	<!-- EN: great arrows -->
+	<AmmoSet_VFEM2WarArrow_Indirect.label>great arrows</AmmoSet_VFEM2WarArrow_Indirect.label>
+	<!-- EN: crossbow bolts -->
+	<AmmoSet_VFEM2ArbalestBolt.label>crossbow bolts</AmmoSet_VFEM2ArbalestBolt.label>
+	<!-- EN: Hand cannon Shot -->
+	<AmmoSet_VFEM2HandCannonShot.label>Hand cannon Shot</AmmoSet_VFEM2HandCannonShot.label>
+</LanguageData>

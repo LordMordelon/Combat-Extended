@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla Weapons Expanded - Heavy Weapons\Defs\Vanilla Weapons Expanded - Heavy Weapons\Ammo\M73.xml -->
+	<!-- EN: make M73 HE rockets x5 -->
+	<MakeAmmo_M73_HE.label>make M73 HE rockets x5</MakeAmmo_M73_HE.label>
+	<!-- EN: Craft 5 M73 HE rockets. -->
+	<MakeAmmo_M73_HE.description>Craft 5 M73 HE rockets.</MakeAmmo_M73_HE.description>
+	<!-- EN: Making M73 HE rockets. -->
+	<MakeAmmo_M73_HE.jobString>Making M73 HE rockets.</MakeAmmo_M73_HE.jobString>
+</LanguageData>

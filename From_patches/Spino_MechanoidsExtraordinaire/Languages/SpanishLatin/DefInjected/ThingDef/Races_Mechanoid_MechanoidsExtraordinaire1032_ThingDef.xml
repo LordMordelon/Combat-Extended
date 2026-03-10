@@ -1,0 +1,31 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Spino_MechanoidsExtraordinaire\Races_Mechanoid_MechanoidsExtraordinaire1032.xml -->
+	<!-- EN: left fist -->
+	<Mechanoid_Vespa.tools.0.label>left fist</Mechanoid_Vespa.tools.0.label>
+	<!-- EN: right fist -->
+	<Mechanoid_Vespa.tools.1.label>right fist</Mechanoid_Vespa.tools.1.label>
+	
+	<!-- EN: left fist -->
+	<Mechanoid_Hound.tools.0.label>left fist</Mechanoid_Hound.tools.0.label>
+	<!-- EN: right fist -->
+	<Mechanoid_Hound.tools.1.label>right fist</Mechanoid_Hound.tools.1.label>
+	
+	<!-- EN: left fist -->
+	<Mechanoid_Chimera.tools.0.label>left fist</Mechanoid_Chimera.tools.0.label>
+	<!-- EN: right fist -->
+	<Mechanoid_Chimera.tools.1.label>right fist</Mechanoid_Chimera.tools.1.label>
+	
+	<!-- EN: left fist -->
+	<Mechanoid_Goliath.tools.0.label>left fist</Mechanoid_Goliath.tools.0.label>
+	<!-- EN: right fist -->
+	<Mechanoid_Goliath.tools.1.label>right fist</Mechanoid_Goliath.tools.1.label>
+	
+	<!-- EN: first left tentacle -->
+	<Mechanoid_Kraken.tools.0.label>first left tentacle</Mechanoid_Kraken.tools.0.label>
+	<!-- EN: first right tentacle -->
+	<Mechanoid_Kraken.tools.1.label>first right tentacle</Mechanoid_Kraken.tools.1.label>
+	<!-- EN: second left tentacle -->
+	<Mechanoid_Kraken.tools.2.label>second left tentacle</Mechanoid_Kraken.tools.2.label>
+	<!-- EN: second right tentacle -->
+	<Mechanoid_Kraken.tools.3.label>second right tentacle</Mechanoid_Kraken.tools.3.label>
+</LanguageData>

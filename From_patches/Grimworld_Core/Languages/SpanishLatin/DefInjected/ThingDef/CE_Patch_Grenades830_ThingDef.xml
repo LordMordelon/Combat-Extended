@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Grimworld_Core\CE_Patch_Grenades830.xml -->
+	<!-- EN: A powerful anti-armour grenade that explodes on impact, but has a very concentrated blast. Most effective against large, slow targets like vehicles, or heavily-armoured infantry. -->
+	<GW_GrenadeKrak.description>A powerful anti-armour grenade that explodes on impact, but has a very concentrated blast. Most effective against large, slow targets like vehicles, or heavily-armoured infantry.</GW_GrenadeKrak.description>
+	<!-- EN: krak grenade -->
+	<Proj_GrenadeKrak.label>krak grenade</Proj_GrenadeKrak.label>
+	<!-- EN: throw krak grenade -->
+	<GW_GrenadeKrak.Properties.label>throw krak grenade</GW_GrenadeKrak.Properties.label>
+	<!-- EN: A tremendously powerful demolition charge. Excels at destroying tanks and blowing holes in walls with an intense blast of thermal energy, but its area of effect is extremely concentrated. Its high weight and extremely long timed fuse make it very hard to use. -->
+	<GW_GrenadeMelta.description>A tremendously powerful demolition charge. Excels at destroying tanks and blowing holes in walls with an intense blast of thermal energy, but its area of effect is extremely concentrated. Its high weight and extremely long timed fuse make it very hard to use.</GW_GrenadeMelta.description>
+	<!-- EN: melta bomb -->
+	<Proj_GrenadeMelta.label>melta bomb</Proj_GrenadeMelta.label>
+	<!-- EN: deploy melta bomb -->
+	<GW_GrenadeMelta.Properties.label>deploy melta bomb</GW_GrenadeMelta.Properties.label>
+</LanguageData>

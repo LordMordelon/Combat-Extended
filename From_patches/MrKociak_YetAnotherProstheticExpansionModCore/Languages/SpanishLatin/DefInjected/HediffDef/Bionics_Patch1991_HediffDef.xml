@@ -1,0 +1,21 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\MrKociak_YetAnotherProstheticExpansionModCore\Bionics_Patch1991.xml -->
+	<!-- EN: fist -->
+	<BionicArm.comps.0.tools.0.label>fist</BionicArm.comps.0.tools.0.label>
+	<!-- EN: fist -->
+	<BIE_BionicHand.comps.0.tools.0.label>fist</BIE_BionicHand.comps.0.tools.0.label>
+	<!-- EN: bionic fist -->
+	<BIE_AdvancedBionicArm.comps.0.tools.0.label>bionic fist</BIE_AdvancedBionicArm.comps.0.tools.0.label>
+	<!-- EN: bionic fist -->
+	<BIE_AdvancedBionicHand.comps.0.tools.0.label>bionic fist</BIE_AdvancedBionicHand.comps.0.tools.0.label>
+	<!-- EN: bionic fist -->
+	<BIE_UltratechBionicArm.comps.0.tools.0.label>bionic fist</BIE_UltratechBionicArm.comps.0.tools.0.label>
+	<!-- EN: bionic fist -->
+	<ArchotechArm.comps.0.tools.0.label>bionic fist</ArchotechArm.comps.0.tools.0.label>
+	<!-- EN: teeth -->
+	<BIE_AdvancedBionicJaw.comps.0.tools.0.label>teeth</BIE_AdvancedBionicJaw.comps.0.tools.0.label>
+	<!-- EN: teeth -->
+	<BIE_UltratechBionicJaw.comps.0.tools.0.label>teeth</BIE_UltratechBionicJaw.comps.0.tools.0.label>
+	<!-- EN: teeth -->
+	<SoSArchotechJaw.comps.0.tools.0.label>teeth</SoSArchotechJaw.comps.0.tools.0.label>
+</LanguageData>

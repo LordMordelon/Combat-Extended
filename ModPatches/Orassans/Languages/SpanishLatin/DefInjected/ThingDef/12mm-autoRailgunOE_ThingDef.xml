@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Orassans\Defs\Orassans\Ammo\12mm-autoRailgunOE.xml -->
+	<!-- EN: 12mm auto Railgun cartridge (Sabot:OE) -->
+	<Ammo_12mmautoRailgun_SabotOE.label>12mm auto Railgun cartridge (Sabot:OE)</Ammo_12mmautoRailgun_SabotOE.label>
+	<!-- EN: Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for high calibar handguns. -->
+	<Ammo_12mmautoRailgun_SabotOE.description>Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for high calibar handguns.</Ammo_12mmautoRailgun_SabotOE.description>
+	<!-- EN: 12mm auto Railgun bullet (Sabot:OE) -->
+	<Bullet_12mmautoRailgun_SabotOE.label>12mm auto Railgun bullet (Sabot:OE)</Bullet_12mmautoRailgun_SabotOE.label>
+</LanguageData>

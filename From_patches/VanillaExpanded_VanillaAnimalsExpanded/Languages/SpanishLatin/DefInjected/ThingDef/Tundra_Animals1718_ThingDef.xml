@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VanillaAnimalsExpanded\Tundra_Animals1718.xml -->
+	<!-- EN: bite -->
+	<AEXP_Moose.tools.0.label>bite</AEXP_Moose.tools.0.label>
+	<!-- EN: head -->
+	<AEXP_Moose.tools.1.label>head</AEXP_Moose.tools.1.label>
+	
+	<!-- EN: head -->
+	<AEXP_Muskox.tools.1.label>head</AEXP_Muskox.tools.1.label>
+	
+	<!-- EN: left claw -->
+	<AEXP_Porcupine.tools.0.label>left claw</AEXP_Porcupine.tools.0.label>
+	<!-- EN: right claw -->
+	<AEXP_Porcupine.tools.1.label>right claw</AEXP_Porcupine.tools.1.label>
+	<!-- EN: bite -->
+	<AEXP_Porcupine.tools.2.label>bite</AEXP_Porcupine.tools.2.label>
+	<!-- EN: head -->
+	<AEXP_Porcupine.tools.3.label>head</AEXP_Porcupine.tools.3.label>
+</LanguageData>

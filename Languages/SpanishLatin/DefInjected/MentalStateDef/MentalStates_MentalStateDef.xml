@@ -1,0 +1,24 @@
+<LanguageData>
+	<!-- Defs\MentalStateDefs\MentalStates.xml -->
+	<!-- EN: combat frenzy -->
+	<CombatFrenzy.label>combat frenzy</CombatFrenzy.label>
+	<!-- EN: frenzy -->
+	<CombatFrenzy.beginLetterLabel>frenzy</CombatFrenzy.beginLetterLabel>
+	<!-- EN: {0} has become frenzied from suppression! -->
+	<CombatFrenzy.beginLetter>{0} has become frenzied from suppression!</CombatFrenzy.beginLetter>
+	<!-- EN: {0}'s combat frenzy has come to an end. -->
+	<CombatFrenzy.recoveryMessage>{0}'s combat frenzy has come to an end.</CombatFrenzy.recoveryMessage>
+	<!-- EN: Mental state: Combat frenzy -->
+	<CombatFrenzy.baseInspectLine>Mental state: Combat frenzy</CombatFrenzy.baseInspectLine>
+	
+	<!-- EN: shell-shock -->
+	<ShellShock.label>shell-shock</ShellShock.label>
+	<!-- EN: shell-shock -->
+	<ShellShock.beginLetterLabel>shell-shock</ShellShock.beginLetterLabel>
+	<!-- EN: {0} has become shell-shocked from suppression! -->
+	<ShellShock.beginLetter>{0} has become shell-shocked from suppression!</ShellShock.beginLetter>
+	<!-- EN: {0}'s shell-shock has come to an end. -->
+	<ShellShock.recoveryMessage>{0}'s shell-shock has come to an end.</ShellShock.recoveryMessage>
+	<!-- EN: Mental state: Shell-shocked -->
+	<ShellShock.baseInspectLine>Mental state: Shell-shocked</ShellShock.baseInspectLine>
+</LanguageData>

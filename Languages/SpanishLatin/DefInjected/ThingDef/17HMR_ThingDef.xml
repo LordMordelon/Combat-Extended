@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- Defs\Ammo\Rifle\17HMR.xml -->
+	
+	<!-- EN: .17 HMR (FMJ) -->
+	<Ammo_17HMR_FMJ.label>.17 HMR (FMJ)</Ammo_17HMR_FMJ.label>
+	<!-- EN: A necked down .22 Magnum rifle cartridge using a .17 caliber bullet, known for its high speed. -->
+	<Ammo_17HMR_FMJ.description>A necked down .22 Magnum rifle cartridge using a .17 caliber bullet, known for its high speed.</Ammo_17HMR_FMJ.description>
+	
+	<!-- EN: .17 HMR (AP) -->
+	<Ammo_17HMR_AP.label>.17 HMR (AP)</Ammo_17HMR_AP.label>
+	<!-- EN: A necked down .22 Magnum rifle cartridge using a .17 caliber bullet, known for its high speed. -->
+	<Ammo_17HMR_AP.description>A necked down .22 Magnum rifle cartridge using a .17 caliber bullet, known for its high speed.</Ammo_17HMR_AP.description>
+	
+	<!-- EN: .17 HMR (HP) -->
+	<Ammo_17HMR_HP.label>.17 HMR (HP)</Ammo_17HMR_HP.label>
+	<!-- EN: A necked down .22 Magnum rifle cartridge using a .17 caliber bullet, known for its high speed. -->
+	<Ammo_17HMR_HP.description>A necked down .22 Magnum rifle cartridge using a .17 caliber bullet, known for its high speed.</Ammo_17HMR_HP.description>
+	
+	<!-- EN: .17 HMR bullet (FMJ) -->
+	<Bullet_17HMR_FMJ.label>.17 HMR bullet (FMJ)</Bullet_17HMR_FMJ.label>
+	
+	<!-- EN: .17 HMR bullet (AP) -->
+	<Bullet_17HMR_AP.label>.17 HMR bullet (AP)</Bullet_17HMR_AP.label>
+	
+	<!-- EN: .17 HMR bullet (HP) -->
+	<Bullet_17HMR_HP.label>.17 HMR bullet (HP)</Bullet_17HMR_HP.label>
+</LanguageData>

@@ -1,0 +1,80 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla XCOM Magnetic Weapons\Defs\Vanilla XCOM Magnetic Weapons\Ammo.xml -->
+	
+	<!-- EN: make 4mm Railgun cartridge (Sabot) x500 -->
+	<MakeAmmo_4mmRailgun_Sabot.label>make 4mm Railgun cartridge (Sabot) x500</MakeAmmo_4mmRailgun_Sabot.label>
+	<!-- EN: Craft 500 4mm Railgun (Sabot) cartridges. -->
+	<MakeAmmo_4mmRailgun_Sabot.description>Craft 500 4mm Railgun (Sabot) cartridges.</MakeAmmo_4mmRailgun_Sabot.description>
+	<!-- EN: Making 4mm Railgun (Sabot) cartridges. -->
+	<MakeAmmo_4mmRailgun_Sabot.jobString>Making 4mm Railgun (Sabot) cartridges.</MakeAmmo_4mmRailgun_Sabot.jobString>
+	
+	<!-- EN: make 4mm Railgun cartridge (AP-I) x500 -->
+	<MakeAmmo_4mmRailgun_API.label>make 4mm Railgun cartridge (AP-I) x500</MakeAmmo_4mmRailgun_API.label>
+	<!-- EN: Craft 500 4mm Railgun (AP-I) cartridges. -->
+	<MakeAmmo_4mmRailgun_API.description>Craft 500 4mm Railgun (AP-I) cartridges.</MakeAmmo_4mmRailgun_API.description>
+	<!-- EN: Making 4mm Railgun (AP-I) cartridges. -->
+	<MakeAmmo_4mmRailgun_API.jobString>Making 4mm Railgun (AP-I) cartridges.</MakeAmmo_4mmRailgun_API.jobString>
+	
+	<!-- EN: make 4mm Railgun cartridge (Sabot) x500 -->
+	<MakeAmmo_4mmRailgun_APHE.label>make 4mm Railgun cartridge (Sabot) x500</MakeAmmo_4mmRailgun_APHE.label>
+	<!-- EN: Craft 500 4mm Railgun (Sabot) cartridges. -->
+	<MakeAmmo_4mmRailgun_APHE.description>Craft 500 4mm Railgun (Sabot) cartridges.</MakeAmmo_4mmRailgun_APHE.description>
+	<!-- EN: Making 4mm Railgun (Sabot) cartridges. -->
+	<MakeAmmo_4mmRailgun_APHE.jobString>Making 4mm Railgun (Sabot) cartridges.</MakeAmmo_4mmRailgun_APHE.jobString>
+	
+	<!-- EN: make 4mm Railgun cartridge (Ion) x500 -->
+	<MakeAmmo_4mmRailgun_EMP.label>make 4mm Railgun cartridge (Ion) x500</MakeAmmo_4mmRailgun_EMP.label>
+	<!-- EN: Craft 500 4mm Railgun (Ion) cartridges. -->
+	<MakeAmmo_4mmRailgun_EMP.description>Craft 500 4mm Railgun (Ion) cartridges.</MakeAmmo_4mmRailgun_EMP.description>
+	<!-- EN: Making 4mm Railgun (Ion) cartridges. -->
+	<MakeAmmo_4mmRailgun_EMP.jobString>Making 4mm Railgun (Ion) cartridges.</MakeAmmo_4mmRailgun_EMP.jobString>
+	
+	<!-- EN: make 6mm Railgun cartridge (AP-I) x500 -->
+	<MakeAmmo_6mmRailgun_API.label>make 6mm Railgun cartridge (AP-I) x500</MakeAmmo_6mmRailgun_API.label>
+	<!-- EN: Craft 500 6mm Railgun (AP-I) cartridges. -->
+	<MakeAmmo_6mmRailgun_API.description>Craft 500 6mm Railgun (AP-I) cartridges.</MakeAmmo_6mmRailgun_API.description>
+	<!-- EN: Making 6mm Railgun (AP-I) cartridges. -->
+	<MakeAmmo_6mmRailgun_API.jobString>Making 6mm Railgun (AP-I) cartridges.</MakeAmmo_6mmRailgun_API.jobString>
+	
+	<!-- EN: make 6mm Railgun cartridge (HE) x500 -->
+	<MakeAmmo_6mmRailgun_APHE.label>make 6mm Railgun cartridge (HE) x500</MakeAmmo_6mmRailgun_APHE.label>
+	<!-- EN: Craft 500 6mm Railgun (HE) cartridges. -->
+	<MakeAmmo_6mmRailgun_APHE.description>Craft 500 6mm Railgun (HE) cartridges.</MakeAmmo_6mmRailgun_APHE.description>
+	<!-- EN: Making 6mm Railgun (HE) cartridges. -->
+	<MakeAmmo_6mmRailgun_APHE.jobString>Making 6mm Railgun (HE) cartridges.</MakeAmmo_6mmRailgun_APHE.jobString>
+	
+	<!-- EN: make 6mm Railgun cartridge (Ion) x500 -->
+	<MakeAmmo_6mmRailgun_EMP.label>make 6mm Railgun cartridge (Ion) x500</MakeAmmo_6mmRailgun_EMP.label>
+	<!-- EN: Craft 500 6mm Railgun (Ion) cartridges. -->
+	<MakeAmmo_6mmRailgun_EMP.description>Craft 500 6mm Railgun (Ion) cartridges.</MakeAmmo_6mmRailgun_EMP.description>
+	<!-- EN: Making 6mm Railgun (Ion) cartridges. -->
+	<MakeAmmo_6mmRailgun_EMP.jobString>Making 6mm Railgun (Ion) cartridges.</MakeAmmo_6mmRailgun_EMP.jobString>
+	
+	<!-- EN: make 8mm Railgun cartridge (AP-I) x500 -->
+	<MakeAmmo_8mmRailgun_API.label>make 8mm Railgun cartridge (AP-I) x500</MakeAmmo_8mmRailgun_API.label>
+	<!-- EN: Craft 500 8mm Railgun (AP-I) cartridges. -->
+	<MakeAmmo_8mmRailgun_API.description>Craft 500 8mm Railgun (AP-I) cartridges.</MakeAmmo_8mmRailgun_API.description>
+	<!-- EN: Making 8mm Railgun (AP-I) cartridges. -->
+	<MakeAmmo_8mmRailgun_API.jobString>Making 8mm Railgun (AP-I) cartridges.</MakeAmmo_8mmRailgun_API.jobString>
+	
+	<!-- EN: make 8mm Railgun cartridge (HE) x500 -->
+	<MakeAmmo_8mmRailgun_APHE.label>make 8mm Railgun cartridge (HE) x500</MakeAmmo_8mmRailgun_APHE.label>
+	<!-- EN: Craft 500 8mm Railgun (HE) cartridges. -->
+	<MakeAmmo_8mmRailgun_APHE.description>Craft 500 8mm Railgun (HE) cartridges.</MakeAmmo_8mmRailgun_APHE.description>
+	<!-- EN: Making 8mm Railgun (HE) cartridges. -->
+	<MakeAmmo_8mmRailgun_APHE.jobString>Making 8mm Railgun (HE) cartridges.</MakeAmmo_8mmRailgun_APHE.jobString>
+	
+	<!-- EN: make 8mm Railgun cartridge (Ion) x500 -->
+	<MakeAmmo_8mmRailgun_EMP.label>make 8mm Railgun cartridge (Ion) x500</MakeAmmo_8mmRailgun_EMP.label>
+	<!-- EN: Craft 500 8mm Railgun (Ion) cartridges. -->
+	<MakeAmmo_8mmRailgun_EMP.description>Craft 500 8mm Railgun (Ion) cartridges.</MakeAmmo_8mmRailgun_EMP.description>
+	<!-- EN: Making 8mm Railgun (Ion) cartridges. -->
+	<MakeAmmo_8mmRailgun_EMP.jobString>Making 8mm Railgun (Ion) cartridges.</MakeAmmo_8mmRailgun_EMP.jobString>
+	
+	<!-- EN: make 12 Gauge railgun cartridge (Sabot) x200 -->
+	<MakeAmmo_12GaugeRailgun_Sabot.label>make 12 Gauge railgun cartridge (Sabot) x200</MakeAmmo_12GaugeRailgun_Sabot.label>
+	<!-- EN: Craft 500 12 Gauge railgun (Sabot) cartridges. -->
+	<MakeAmmo_12GaugeRailgun_Sabot.description>Craft 500 12 Gauge railgun (Sabot) cartridges.</MakeAmmo_12GaugeRailgun_Sabot.description>
+	<!-- EN: Making 12 Gauge railgun (Sabot) cartridges. -->
+	<MakeAmmo_12GaugeRailgun_Sabot.jobString>Making 12 Gauge railgun (Sabot) cartridges.</MakeAmmo_12GaugeRailgun_Sabot.jobString>
+</LanguageData>

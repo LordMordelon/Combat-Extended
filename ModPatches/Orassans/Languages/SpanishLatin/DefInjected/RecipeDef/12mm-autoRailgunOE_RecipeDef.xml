@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Orassans\Defs\Orassans\Ammo\12mm-autoRailgunOE.xml -->
+	<!-- EN: make 12mm auto Railgun cartridge (Sabot:OE) x500 -->
+	<MakeAmmo_12mmautoRailgun_SabotOE.label>make 12mm auto Railgun cartridge (Sabot:OE) x500</MakeAmmo_12mmautoRailgun_SabotOE.label>
+	<!-- EN: Craft 500 12mm auto Railgun (Sabot:OE) cartridges. -->
+	<MakeAmmo_12mmautoRailgun_SabotOE.description>Craft 500 12mm auto Railgun (Sabot:OE) cartridges.</MakeAmmo_12mmautoRailgun_SabotOE.description>
+	<!-- EN: Making 12mm auto Railgun (Sabot:OE) cartridges. -->
+	<MakeAmmo_12mmautoRailgun_SabotOE.jobString>Making 12mm auto Railgun (Sabot:OE) cartridges.</MakeAmmo_12mmautoRailgun_SabotOE.jobString>
+</LanguageData>

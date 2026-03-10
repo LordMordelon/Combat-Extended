@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Turkler_MedievalOverhaul_ArcaneArchaeologists\MOAA_Patch_WeaponRanged_Arcane1076.xml -->
+	<!-- EN: stock -->
+	<Ogam_RuneMusket.tools.0.label>stock</Ogam_RuneMusket.tools.0.label>
+	<!-- EN: bayonet -->
+	<Ogam_RuneMusket.tools.1.label>bayonet</Ogam_RuneMusket.tools.1.label>
+	
+	<!-- EN: grip -->
+	<Ogam_RunePistol.tools.0.label>grip</Ogam_RunePistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<Ogam_RunePistol.tools.1.label>muzzle</Ogam_RunePistol.tools.1.label>
+	
+	<!-- EN: stock -->
+	<Ogam_RuneMortar.tools.0.label>stock</Ogam_RuneMortar.tools.0.label>
+	<!-- EN: barrel -->
+	<Ogam_RuneMortar.tools.1.label>barrel</Ogam_RuneMortar.tools.1.label>
+	<!-- EN: muzzle -->
+	<Ogam_RuneMortar.tools.2.label>muzzle</Ogam_RuneMortar.tools.2.label>
+</LanguageData>

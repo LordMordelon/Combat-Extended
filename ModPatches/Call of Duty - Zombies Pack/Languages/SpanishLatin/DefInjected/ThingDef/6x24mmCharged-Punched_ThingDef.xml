@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Recipe\6x24mmCharged-Punched.xml -->
+	
+	<!-- EN: 6x24mm Charged cartridge (Punched) -->
+	<Ammo_6x24mmCharged_Punched.label>6x24mm Charged cartridge (Punched)</Ammo_6x24mmCharged_Punched.label>
+	<!-- EN: Charged shot ammo used by advanced assault rifle designs. -->
+	<Ammo_6x24mmCharged_Punched.description>Charged shot ammo used by advanced assault rifle designs.</Ammo_6x24mmCharged_Punched.description>
+	
+	<!-- EN: 6x24mm Charged cartridge (Conc.) (Punched) -->
+	<Ammo_6x24mmCharged_AP_Punched.label>6x24mm Charged cartridge (Conc.) (Punched)</Ammo_6x24mmCharged_AP_Punched.label>
+	<!-- EN: Charged shot ammo used by advanced assault rifle designs. -->
+	<Ammo_6x24mmCharged_AP_Punched.description>Charged shot ammo used by advanced assault rifle designs.</Ammo_6x24mmCharged_AP_Punched.description>
+	
+	<!-- EN: 6x24mm Charged cartridge (Ion) (Punched) -->
+	<Ammo_6x24mmCharged_Ion_Punched.label>6x24mm Charged cartridge (Ion) (Punched)</Ammo_6x24mmCharged_Ion_Punched.label>
+	<!-- EN: Charged shot ammo used by advanced assault rifle designs. -->
+	<Ammo_6x24mmCharged_Ion_Punched.description>Charged shot ammo used by advanced assault rifle designs.</Ammo_6x24mmCharged_Ion_Punched.description>
+	
+	<!-- EN: 6x24mm Charged bullet (Punched) -->
+	<Bullet_6x24mmCharged_Punched.label>6x24mm Charged bullet (Punched)</Bullet_6x24mmCharged_Punched.label>
+	
+	<!-- EN: 6x24mm Charged bullet (Conc.) (Punched) -->
+	<Bullet_6x24mmCharged_AP_Punched.label>6x24mm Charged bullet (Conc.) (Punched)</Bullet_6x24mmCharged_AP_Punched.label>
+	
+	<!-- EN: 6x24mm Charged bullet (Ion) (Punched) -->
+	<Bullet_6x24mmCharged_Ion_Punched.label>6x24mm Charged bullet (Ion) (Punched)</Bullet_6x24mmCharged_Ion_Punched.label>
+</LanguageData>

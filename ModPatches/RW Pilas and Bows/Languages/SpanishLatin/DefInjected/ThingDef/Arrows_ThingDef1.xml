@@ -1,0 +1,79 @@
+<LanguageData>
+	<!-- ModPatches\RW Pilas and Bows\Defs\RW Pilas and Bows\Arrows.xml -->
+	
+	<!-- EN: arrow (grenade) -->
+	<Ammo_Arrow_Grenade.label>arrow (grenade)</Ammo_Arrow_Grenade.label>
+	<!-- EN: Simple arrow design with a cutting head attached to a wooden shaft. -->
+	<Ammo_Arrow_Grenade.description>Simple arrow design with a cutting head attached to a wooden shaft.</Ammo_Arrow_Grenade.description>
+	
+	<!-- EN: arrow (molotov) -->
+	<Ammo_Arrow_Molotov.label>arrow (molotov)</Ammo_Arrow_Molotov.label>
+	<!-- EN: Simple arrow design with a cutting head attached to a wooden shaft. -->
+	<Ammo_Arrow_Molotov.description>Simple arrow design with a cutting head attached to a wooden shaft.</Ammo_Arrow_Molotov.description>
+	
+	<!-- EN: arrow (EMP) -->
+	<Ammo_Arrow_EMP.label>arrow (EMP)</Ammo_Arrow_EMP.label>
+	<!-- EN: Simple arrow design with a cutting head attached to a wooden shaft. -->
+	<Ammo_Arrow_EMP.description>Simple arrow design with a cutting head attached to a wooden shaft.</Ammo_Arrow_EMP.description>
+	
+	<!-- EN: arrow (battery) -->
+	<Ammo_Arrow_Battery.label>arrow (battery)</Ammo_Arrow_Battery.label>
+	<!-- EN: Simple arrow design with a cutting head attached to a wooden shaft. -->
+	<Ammo_Arrow_Battery.description>Simple arrow design with a cutting head attached to a wooden shaft.</Ammo_Arrow_Battery.description>
+	
+	<!-- EN: great arrow (grenade) -->
+	<Ammo_GreatArrow_Grenade.label>great arrow (grenade)</Ammo_GreatArrow_Grenade.label>
+	<!-- EN: Heavy arrow designed to be fired from a great bow. -->
+	<Ammo_GreatArrow_Grenade.description>Heavy arrow designed to be fired from a great bow.</Ammo_GreatArrow_Grenade.description>
+	
+	<!-- EN: great arrow (molotov) -->
+	<Ammo_GreatArrow_Molotov.label>great arrow (molotov)</Ammo_GreatArrow_Molotov.label>
+	<!-- EN: Heavy arrow designed to be fired from a great bow. -->
+	<Ammo_GreatArrow_Molotov.description>Heavy arrow designed to be fired from a great bow.</Ammo_GreatArrow_Molotov.description>
+	
+	<!-- EN: great arrow (EMP) -->
+	<Ammo_GreatArrow_EMP.label>great arrow (EMP)</Ammo_GreatArrow_EMP.label>
+	<!-- EN: Heavy arrow designed to be fired from a great bow. -->
+	<Ammo_GreatArrow_EMP.description>Heavy arrow designed to be fired from a great bow.</Ammo_GreatArrow_EMP.description>
+	
+	<!-- EN: great arrow (battery) -->
+	<Ammo_GreatArrow_Battery.label>great arrow (battery)</Ammo_GreatArrow_Battery.label>
+	<!-- EN: Heavy arrow designed to be fired from a great bow. -->
+	<Ammo_GreatArrow_Battery.description>Heavy arrow designed to be fired from a great bow.</Ammo_GreatArrow_Battery.description>
+	
+	<!-- EN: arrow (bownade) -->
+	<Projectile_Arrow_Grenade.label>arrow (bownade)</Projectile_Arrow_Grenade.label>
+	
+	<!-- EN: arrow (bowlotov) -->
+	<Projectile_Arrow_Molotov.label>arrow (bowlotov)</Projectile_Arrow_Molotov.label>
+	
+	<!-- EN: arrow (bowMP) -->
+	<Projectile_Arrow_EMP.label>arrow (bowMP)</Projectile_Arrow_EMP.label>
+	
+	<!-- EN: arrow (bowttery) -->
+	<Projectile_Arrow_Battery.label>arrow (bowttery)</Projectile_Arrow_Battery.label>
+	
+	<!-- EN: streamlined arrow (bownade) -->
+	<Projectile_StreamlinedArrow_Grenade.label>streamlined arrow (bownade)</Projectile_StreamlinedArrow_Grenade.label>
+	
+	<!-- EN: streamlined arrow (bowlotov) -->
+	<Projectile_StreamlinedArrow_Molotov.label>streamlined arrow (bowlotov)</Projectile_StreamlinedArrow_Molotov.label>
+	
+	<!-- EN: streamlined arrow (bowMP) -->
+	<Projectile_StreamlinedArrow_EMP.label>streamlined arrow (bowMP)</Projectile_StreamlinedArrow_EMP.label>
+	
+	<!-- EN: streamlined arrow (bowttery) -->
+	<Projectile_StreamlinedArrow_Battery.label>streamlined arrow (bowttery)</Projectile_StreamlinedArrow_Battery.label>
+	
+	<!-- EN: great arrow (bownade) -->
+	<Projectile_GreatArrow_Grenade.label>great arrow (bownade)</Projectile_GreatArrow_Grenade.label>
+	
+	<!-- EN: great arrow (bowlotov) -->
+	<Projectile_GreatArrow_Molotov.label>great arrow (bowlotov)</Projectile_GreatArrow_Molotov.label>
+	
+	<!-- EN: great arrow (bowMP) -->
+	<Projectile_GreatArrow_EMP.label>great arrow (bowMP)</Projectile_GreatArrow_EMP.label>
+	
+	<!-- EN: great arrow (bowttery) -->
+	<Projectile_GreatArrow_Battery.label>great arrow (bowttery)</Projectile_GreatArrow_Battery.label>
+</LanguageData>

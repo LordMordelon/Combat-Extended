@@ -1,0 +1,10 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Zaps\Zapgun Red.xml -->
+	
+	<!-- EN: make Red Zapgun cartridge x500 -->
+	<MakeAmmo_Zapgun_red.label>make Red Zapgun cartridge x500</MakeAmmo_Zapgun_red.label>
+	<!-- EN: Craft 500 Red Zapgun cartridges. -->
+	<MakeAmmo_Zapgun_red.description>Craft 500 Red Zapgun cartridges.</MakeAmmo_Zapgun_red.description>
+	<!-- EN: Making Red Zapgun cartridges. -->
+	<MakeAmmo_Zapgun_red.jobString>Making Red Zapgun cartridges.</MakeAmmo_Zapgun_red.jobString>
+</LanguageData>

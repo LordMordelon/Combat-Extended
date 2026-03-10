@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\Pulse Weaponry\Defs\Pulse Weaponry\Ammo.xml -->
+	<!-- EN: pulse pack -->
+	<AmmoSet_DV_PulseSMG.label>pulse pack</AmmoSet_DV_PulseSMG.label>
+	<!-- EN: pulse pack -->
+	<AmmoSet_DV_PulseRifle.label>pulse pack</AmmoSet_DV_PulseRifle.label>
+	<!-- EN: pulse pack -->
+	<AmmoSet_DV_PulseSuppressor.label>pulse pack</AmmoSet_DV_PulseSuppressor.label>
+	<!-- EN: pulse pack -->
+	<Bullet_DV_PulseRifle_UBGL_CE.label>pulse pack</Bullet_DV_PulseRifle_UBGL_CE.label>
+</LanguageData>

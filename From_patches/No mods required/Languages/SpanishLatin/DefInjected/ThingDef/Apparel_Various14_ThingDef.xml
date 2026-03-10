@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Apparel_Various14.xml -->
+	<!-- EN: armor vest -->
+	<Apparel_FlakVest.label>armor vest</Apparel_FlakVest.label>
+	<!-- EN: Padded vest made from bullet-resistant materials. Provides limited protection against shrapnel and gunfire at relatively low weight. -->
+	<Apparel_FlakJacket.description>Padded vest made from bullet-resistant materials. Provides limited protection against shrapnel and gunfire at relatively low weight.</Apparel_FlakJacket.description>
+	<!-- EN: Padded pants made from bullet-resistant materials. Provides limited protection against shrapnel and gunfire at relatively low weight. -->
+	<Apparel_FlakPants.description>Padded pants made from bullet-resistant materials. Provides limited protection against shrapnel and gunfire at relatively low weight.</Apparel_FlakPants.description>
+	<!-- EN: A suit of powered armor. Layered plasteel-weave plates are very effective at stopping attacks, with few vulnerable joint sections. Neuro-memetic assistors allow a human to wear the armor and still move easily.\n\nWhile bulky and heavy, the advanced servo-motors greatly increase the wearer's load bearing capacity and assist in weapon-handling.\n\nArmor like this is often used by rapid-incursion space marines. -->
+	<Apparel_PowerArmor.description>A suit of powered armor. Layered plasteel-weave plates are very effective at stopping attacks, with few vulnerable joint sections. Neuro-memetic assistors allow a human to wear the armor and still move easily.\n\nWhile bulky and heavy, the advanced servo-motors greatly increase the wearer's load bearing capacity and assist in weapon-handling.\n\nArmor like this is often used by rapid-incursion space marines.</Apparel_PowerArmor.description>
+	<!-- EN: A suit of light partially-powered armor, designed to permit quick movement. Lightweight plasteel-weave plates block attacks without compromising mobility, and neuro-memetic assistors in the lower body allow a human to wear the armor and still move easily.\n\nThe advanced built-in servo-motors greatly increase the wearer's load bearing capacity.\n\nArmor like this is often used by imperial scout troops and glitterworld police forces. -->
+	<Apparel_ArmorRecon.description>A suit of light partially-powered armor, designed to permit quick movement. Lightweight plasteel-weave plates block attacks without compromising mobility, and neuro-memetic assistors in the lower body allow a human to wear the armor and still move easily.\n\nThe advanced built-in servo-motors greatly increase the wearer's load bearing capacity.\n\nArmor like this is often used by imperial scout troops and glitterworld police forces.</Apparel_ArmorRecon.description>
+</LanguageData>

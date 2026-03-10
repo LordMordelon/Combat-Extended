@@ -1,0 +1,20 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\salmontoastie_lizardfolk_copy_copy\Patch_Lizardfolk_Race792.xml -->
+	<!-- EN: left fist -->
+	<FR_Alien_Squamata.tools.0.label>left fist</FR_Alien_Squamata.tools.0.label>
+	<!-- EN: right fist -->
+	<FR_Alien_Squamata.tools.1.label>right fist</FR_Alien_Squamata.tools.1.label>
+	<!-- EN: teeth -->
+	<FR_Alien_Squamata.tools.2.label>teeth</FR_Alien_Squamata.tools.2.label>
+	<!-- EN: Head -->
+	<FR_Alien_Squamata.tools.3.label>Head</FR_Alien_Squamata.tools.3.label>
+	
+	<!-- EN: left fist -->
+	<FR_Alien_Croco.tools.0.label>left fist</FR_Alien_Croco.tools.0.label>
+	<!-- EN: right fist -->
+	<FR_Alien_Croco.tools.1.label>right fist</FR_Alien_Croco.tools.1.label>
+	<!-- EN: teeth -->
+	<FR_Alien_Croco.tools.2.label>teeth</FR_Alien_Croco.tools.2.label>
+	<!-- EN: Head -->
+	<FR_Alien_Croco.tools.3.label>Head</FR_Alien_Croco.tools.3.label>
+</LanguageData>

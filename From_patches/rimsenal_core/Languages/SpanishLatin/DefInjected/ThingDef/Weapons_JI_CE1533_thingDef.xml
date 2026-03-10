@@ -1,0 +1,34 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\rimsenal_core\Weapons_JI_CE1533.xml -->
+	<!-- EN: grip -->
+	<JI_Trollsverd.tools.0.label>grip</JI_Trollsverd.tools.0.label>
+	<!-- EN: muzzle -->
+	<JI_Trollsverd.tools.1.label>muzzle</JI_Trollsverd.tools.1.label>
+	
+	<!-- EN: stock -->
+	<JI_Hrunting.tools.0.label>stock</JI_Hrunting.tools.0.label>
+	<!-- EN: barrel -->
+	<JI_Hrunting.tools.1.label>barrel</JI_Hrunting.tools.1.label>
+	<!-- EN: muzzle -->
+	<JI_Hrunting.tools.2.label>muzzle</JI_Hrunting.tools.2.label>
+	
+	<!-- EN: stock -->
+	<JI_Gramr.tools.0.label>stock</JI_Gramr.tools.0.label>
+	<!-- EN: barrel -->
+	<JI_Gramr.tools.1.label>barrel</JI_Gramr.tools.1.label>
+	<!-- EN: muzzle -->
+	<JI_Gramr.tools.2.label>muzzle</JI_Gramr.tools.2.label>
+	
+	<!-- EN: stock -->
+	<JI_Muspell.tools.0.label>stock</JI_Muspell.tools.0.label>
+	<!-- EN: barrel -->
+	<JI_Muspell.tools.1.label>barrel</JI_Muspell.tools.1.label>
+	<!-- EN: muzzle -->
+	<JI_Muspell.tools.2.label>muzzle</JI_Muspell.tools.2.label>
+	
+	<!-- EN: barrel -->
+	<JI_Grendel.tools.0.label>barrel</JI_Grendel.tools.0.label>
+	
+	<!-- EN: barrel -->
+	<JI_Fafnir.tools.0.label>barrel</JI_Fafnir.tools.0.label>
+</LanguageData>

@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\sarg_alphabiomes\TarShell259.xml -->
+	<!-- EN: 81mm mortar shell (Tar) -->
+	<AB_Shell_Tar.label>81mm mortar shell (Tar)</AB_Shell_Tar.label>
+	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+	<AB_Shell_Tar.description>Low-velocity shell designed to be fired from a mortar.</AB_Shell_Tar.description>
+</LanguageData>

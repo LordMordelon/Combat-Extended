@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- ModPatches\Rim-Effect Core\Defs\Rim-Effect Core\ME_Mech_Weapons.xml -->
+	<!-- EN: Loki Pistol -->
+	<ME_LokiPistol.label>Loki Pistol</ME_LokiPistol.label>
+	<!-- EN: A specialised M3 predator pistol used by LOKI mechs, does not appear to use thermal clips. Do not under any circumstance tell your mech to drop its weapon. -->
+	<ME_LokiPistol.description>A specialised M3 predator pistol used by LOKI mechs, does not appear to use thermal clips. Do not under any circumstance tell your mech to drop its weapon.</ME_LokiPistol.description>
+	<!-- EN: ㅤ -->
+	<ME_LokiPistol.verbs.0.label>ㅤ</ME_LokiPistol.verbs.0.label>
+	<!-- EN: grip -->
+	<ME_LokiPistol.tools.0.label>grip</ME_LokiPistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<ME_LokiPistol.tools.1.label>muzzle</ME_LokiPistol.tools.1.label>
+</LanguageData>

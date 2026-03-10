@@ -1,0 +1,26 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\grimworld_talonOfTheEmperor\CE_Patch_Melee_Weapons853.xml -->
+	<!-- EN: handle -->
+	<GW_TotE_Misericordia.tools.0.label>handle</GW_TotE_Misericordia.tools.0.label>
+	<!-- EN: edge -->
+	<GW_TotE_Misericordia.tools.1.label>edge</GW_TotE_Misericordia.tools.1.label>
+	<!-- EN: point -->
+	<GW_TotE_Misericordia.tools.2.label>point</GW_TotE_Misericordia.tools.2.label>
+	
+	<!-- EN: handle -->
+	<GW_TotE_Sentinel_Blade.tools.0.label>handle</GW_TotE_Sentinel_Blade.tools.0.label>
+	<!-- EN: edge -->
+	<GW_TotE_Sentinel_Blade.tools.1.label>edge</GW_TotE_Sentinel_Blade.tools.1.label>
+	<!-- EN: point -->
+	<GW_TotE_Sentinel_Blade.tools.2.label>point</GW_TotE_Sentinel_Blade.tools.2.label>
+	
+	<!-- EN: handle -->
+	<GW_TotE_Vexilla.tools.0.label>handle</GW_TotE_Vexilla.tools.0.label>
+	<!-- EN: head -->
+	<GW_TotE_Vexilla.tools.1.label>head</GW_TotE_Vexilla.tools.1.label>
+	
+	<!-- EN: point -->
+	<GW_TotE_Vaultsword.tools.0.label>point</GW_TotE_Vaultsword.tools.0.label>
+	<!-- EN: blade -->
+	<GW_TotE_Vaultsword.tools.1.label>blade</GW_TotE_Vaultsword.tools.1.label>
+</LanguageData>

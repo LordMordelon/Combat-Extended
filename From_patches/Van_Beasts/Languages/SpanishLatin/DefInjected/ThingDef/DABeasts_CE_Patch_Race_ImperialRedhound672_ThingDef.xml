@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Van_Beasts\DABeasts_CE_Patch_Race_ImperialRedhound672.xml -->
+	<!-- EN: left claw -->
+	<DA_ImperialRedhound.tools.0.label>left claw</DA_ImperialRedhound.tools.0.label>
+	<!-- EN: right claw -->
+	<DA_ImperialRedhound.tools.1.label>right claw</DA_ImperialRedhound.tools.1.label>
+	<!-- EN: maw -->
+	<DA_ImperialRedhound.tools.2.label>maw</DA_ImperialRedhound.tools.2.label>
+	<!-- EN: head -->
+	<DA_ImperialRedhound.tools.3.label>head</DA_ImperialRedhound.tools.3.label>
+</LanguageData>

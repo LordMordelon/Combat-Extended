@@ -1,0 +1,45 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\hh_xrushha_AnimaAnimalsCombined\ThingDefs_AnimaCreatures356.xml -->
+	<!-- EN: anima horn -->
+	<AnimaThrumbo.tools.0.label>anima horn</AnimaThrumbo.tools.0.label>
+	<!-- EN: horn -->
+	<AnimaThrumbo.tools.1.label>horn</AnimaThrumbo.tools.1.label>
+	<!-- EN: left foot -->
+	<AnimaThrumbo.tools.2.label>left foot</AnimaThrumbo.tools.2.label>
+	<!-- EN: right foot -->
+	<AnimaThrumbo.tools.3.label>right foot</AnimaThrumbo.tools.3.label>
+	<!-- EN: head -->
+	<AnimaThrumbo.tools.5.label>head</AnimaThrumbo.tools.5.label>
+	
+	<!-- EN: left claw -->
+	<AnimaWarg.tools.0.label>left claw</AnimaWarg.tools.0.label>
+	<!-- EN: right claw -->
+	<AnimaWarg.tools.1.label>right claw</AnimaWarg.tools.1.label>
+	<!-- EN: head -->
+	<AnimaWarg.tools.3.label>head</AnimaWarg.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<AnimaBear.tools.0.label>left claw</AnimaBear.tools.0.label>
+	<!-- EN: right claw -->
+	<AnimaBear.tools.1.label>right claw</AnimaBear.tools.1.label>
+	<!-- EN: head -->
+	<AnimaBear.tools.3.label>head</AnimaBear.tools.3.label>
+	
+	<!-- EN: horns -->
+	<AnimaYak.tools.1.label>horns</AnimaYak.tools.1.label>
+	<!-- EN: horns -->
+	<AnimaYak.tools.2.label>horns</AnimaYak.tools.2.label>
+	
+	<!-- EN: head -->
+	<AnimaMuffalo.tools.0.label>head</AnimaMuffalo.tools.0.label>
+	
+	<!-- EN: left claw -->
+	<AnimaFox.tools.0.label>left claw</AnimaFox.tools.0.label>
+	<!-- EN: right claw -->
+	<AnimaFox.tools.1.label>right claw</AnimaFox.tools.1.label>
+	<!-- EN: head -->
+	<AnimaFox.tools.3.label>head</AnimaFox.tools.3.label>
+	
+	<!-- EN: head -->
+	<AnimaMegaspider.tools.2.label>head</AnimaMegaspider.tools.2.label>
+</LanguageData>

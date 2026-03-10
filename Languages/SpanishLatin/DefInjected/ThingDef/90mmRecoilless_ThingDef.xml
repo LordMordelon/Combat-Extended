@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- Defs\Ammo\Rocket\90mmRecoilless.xml -->
+	
+	<!-- EN: 90mm recoilless cartridge (HEAT) -->
+	<Ammo_90mmRCR_HEAT.label>90mm recoilless cartridge (HEAT)</Ammo_90mmRCR_HEAT.label>
+	<!-- EN: Rocket-propelled ammunition desinged for use with the M67 recoilless rifle -->
+	<Ammo_90mmRCR_HEAT.description>Rocket-propelled ammunition desinged for use with the M67 recoilless rifle</Ammo_90mmRCR_HEAT.description>
+	
+	<!-- EN: 90mm recoilless cartridge (CAN) -->
+	<Ammo_90mmRCR_CAN.label>90mm recoilless cartridge (CAN)</Ammo_90mmRCR_CAN.label>
+	<!-- EN: Rocket-propelled ammunition desinged for use with the M67 recoilless rifle -->
+	<Ammo_90mmRCR_CAN.description>Rocket-propelled ammunition desinged for use with the M67 recoilless rifle</Ammo_90mmRCR_CAN.description>
+	
+	<!-- EN: 90mm recoilless rocket (HEAT) -->
+	<Bullet_90mmRCR_HEAT.label>90mm recoilless rocket (HEAT)</Bullet_90mmRCR_HEAT.label>
+	
+	<!-- EN: Flechette -->
+	<Bullet_90mmRCR_CAN.label>Flechette</Bullet_90mmRCR_CAN.label>
+</LanguageData>

@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Anomaly\Defs\Ammo\NerveSpikerBolt.xml -->
+	<!-- EN: nerve spiker bolt -->
+	<Ammo_NerveSpikerBolt.label>nerve spiker bolt</Ammo_NerveSpikerBolt.label>
+	<!-- EN: A heavy bioferrite bolt, shaped to be fired from a nerve spiker.\n\nThough simple to make, these bolts are brittle and tend to deform or break on impact. -->
+	<Ammo_NerveSpikerBolt.description>A heavy bioferrite bolt, shaped to be fired from a nerve spiker.\n\nThough simple to make, these bolts are brittle and tend to deform or break on impact.</Ammo_NerveSpikerBolt.description>
+	<!-- EN: nerve spiker bolt -->
+	<Projectile_NerveSpikerBolt.label>nerve spiker bolt</Projectile_NerveSpikerBolt.label>
+</LanguageData>

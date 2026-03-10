@@ -1,0 +1,23 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\SirMashedPotato_MorrowRim\MorrowRim_CorpusCE1128.xml -->
+	<!-- EN: left fist -->
+	<MorrowRim_CorprusStalker.tools.0.label>left fist</MorrowRim_CorprusStalker.tools.0.label>
+	<!-- EN: right fist -->
+	<MorrowRim_CorprusStalker.tools.1.label>right fist</MorrowRim_CorprusStalker.tools.1.label>
+	<!-- EN: head -->
+	<MorrowRim_CorprusStalker.tools.3.label>head</MorrowRim_CorprusStalker.tools.3.label>
+	
+	<!-- EN: left fist -->
+	<MorrowRim_CorprusBloated.tools.0.label>left fist</MorrowRim_CorprusBloated.tools.0.label>
+	<!-- EN: right fist -->
+	<MorrowRim_CorprusBloated.tools.1.label>right fist</MorrowRim_CorprusBloated.tools.1.label>
+	<!-- EN: head -->
+	<MorrowRim_CorprusBloated.tools.3.label>head</MorrowRim_CorprusBloated.tools.3.label>
+	
+	<!-- EN: left fist -->
+	<MorrowRim_CorprusLame.tools.0.label>left fist</MorrowRim_CorprusLame.tools.0.label>
+	<!-- EN: right fist -->
+	<MorrowRim_CorprusLame.tools.1.label>right fist</MorrowRim_CorprusLame.tools.1.label>
+	<!-- EN: head -->
+	<MorrowRim_CorprusLame.tools.3.label>head</MorrowRim_CorprusLame.tools.3.label>
+</LanguageData>

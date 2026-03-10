@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\kentington_saveourship2\Weapons_Grenades1600.xml -->
+	<!-- EN: mechanite cocktail -->
+	<Weapon_GrenadeMechanite.label>mechanite cocktail</Weapon_GrenadeMechanite.label>
+	<!-- EN: throw molotov -->
+	<Weapon_GrenadeMechanite.Properties.label>throw molotov</Weapon_GrenadeMechanite.Properties.label>
+	<!-- EN: mechanite grenade -->
+	<Weapon_GrenadeMechanite.label>mechanite grenade</Weapon_GrenadeMechanite.label>
+</LanguageData>

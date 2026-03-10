@@ -1,0 +1,28 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\rimsenal_EVP\Weapons_Dumbfire_CE1538.xml -->
+	<!-- EN: stock -->
+	<Gun_DumbfireRifle.tools.0.label>stock</Gun_DumbfireRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_DumbfireRifle.tools.1.label>barrel</Gun_DumbfireRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_DumbfireRifle.tools.2.label>muzzle</Gun_DumbfireRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_DumbfireLance.tools.0.label>stock</Gun_DumbfireLance.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_DumbfireLance.tools.1.label>barrel</Gun_DumbfireLance.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_DumbfireLance.tools.2.label>muzzle</Gun_DumbfireLance.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_DumbfireBarragegun.tools.0.label>stock</Gun_DumbfireBarragegun.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_DumbfireBarragegun.tools.1.label>barrel</Gun_DumbfireBarragegun.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_DumbfireBarragegun.tools.2.label>muzzle</Gun_DumbfireBarragegun.tools.2.label>
+	
+	<!-- EN: grip -->
+	<Gun_DumbfirePistol.tools.0.label>grip</Gun_DumbfirePistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_DumbfirePistol.tools.1.label>muzzle</Gun_DumbfirePistol.tools.1.label>
+</LanguageData>

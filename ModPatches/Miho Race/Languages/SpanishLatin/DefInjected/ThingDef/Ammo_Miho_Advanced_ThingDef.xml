@@ -1,0 +1,23 @@
+<LanguageData>
+	<!-- ModPatches\Miho Race\Defs\Miho Race\Ammo\Ammo_Miho_Advanced.xml -->
+	<!-- EN: Mechanite Psyshot -->
+	<Ammo_MechPsyShot.label>Mechanite Psyshot</Ammo_MechPsyShot.label>
+	<!-- EN: Variable use mech shot cartridge designed for advanced weapons. -->
+	<Ammo_MechPsyShot.description>Variable use mech shot cartridge designed for advanced weapons.</Ammo_MechPsyShot.description>
+	<!-- EN: pellet -->
+	<Bullet_MechPsyShot.label>pellet</Bullet_MechPsyShot.label>
+	<!-- EN: accelerated pellet -->
+	<Bullet_MechPsyRifle.label>accelerated pellet</Bullet_MechPsyRifle.label>
+	<!-- EN: Plasma Bolt -->
+	<Bullet_MihoPlasma.label>Plasma Bolt</Bullet_MihoPlasma.label>
+	<!-- EN: Plasma Bolt -->
+	<Bullet_MihoPlasmaSniper.label>Plasma Bolt</Bullet_MihoPlasmaSniper.label>
+	<!-- EN: laser beam -->
+	<Bullet_Laser_MihoMiniGun.label>laser beam</Bullet_Laser_MihoMiniGun.label>
+	<!-- EN: 60x180mm fuel shell (Thermobaric) -->
+	<Bullet_60x180mmMiho_Thermobaric.label>60x180mm fuel shell (Thermobaric)</Bullet_60x180mmMiho_Thermobaric.label>
+	<!-- EN: 75x300mm plasmanized thermobaric shell -->
+	<Bullet_75x300mmMiho_Thermobaric.label>75x300mm plasmanized thermobaric shell</Bullet_75x300mmMiho_Thermobaric.label>
+	<!-- EN: fragments -->
+	<Fragment_Mihomech.label>fragments</Fragment_Mihomech.label>
+</LanguageData>

@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\SYR Naga\Defs\SYR Naga\Patch_Ammo_Naga.xml -->
+	<!-- EN: 6x18mm Charged bullet -->
+	<Bullet_6x18mmCharged_NagaSMG.label>6x18mm Charged bullet</Bullet_6x18mmCharged_NagaSMG.label>
+	<!-- EN: charge shot pellet -->
+	<Bullet_12GaugeCharged_NagaShotgun.label>charge shot pellet</Bullet_12GaugeCharged_NagaShotgun.label>
+	<!-- EN: 5x35mm Charged bullet -->
+	<Bullet_5x35mmCharged_NagaRifle.label>5x35mm Charged bullet</Bullet_5x35mmCharged_NagaRifle.label>
+	<!-- EN: 8x35mm Charged bullet -->
+	<Bullet_8x35mmCharged_NagaSniper.label>8x35mm Charged bullet</Bullet_8x35mmCharged_NagaSniper.label>
+</LanguageData>

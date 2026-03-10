@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- Defs\Ammo\Medieval\MiniCannonBall.xml -->
+	
+	<!-- EN: mini round shot -->
+	<Ammo_MiniCannonBall_Round.label>mini round shot</Ammo_MiniCannonBall_Round.label>
+	<!-- EN: A solid ball of metal, capable of delivering significant damage on a direct hit. -->
+	<Ammo_MiniCannonBall_Round.description>A solid ball of metal, capable of delivering significant damage on a direct hit.</Ammo_MiniCannonBall_Round.description>
+	
+	<!-- EN: mini grape shot shell -->
+	<Ammo_MiniCannonBall_Grape.label>mini grape shot shell</Ammo_MiniCannonBall_Grape.label>
+	<!-- EN: A canister of numerous metal balls, fired in a wide spread to deal horrific damage against enemy infantry. -->
+	<Ammo_MiniCannonBall_Grape.description>A canister of numerous metal balls, fired in a wide spread to deal horrific damage against enemy infantry.</Ammo_MiniCannonBall_Grape.description>
+	
+	<!-- EN: mini round shot -->
+	<Bullet_MiniCannonBall_Round.label>mini round shot</Bullet_MiniCannonBall_Round.label>
+	
+	<!-- EN: mini grape shot -->
+	<Bullet_MiniCannonBall_Grape.label>mini grape shot</Bullet_MiniCannonBall_Grape.label>
+</LanguageData>

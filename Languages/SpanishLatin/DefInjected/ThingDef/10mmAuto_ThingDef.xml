@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- Defs\Ammo\Pistols\10mmAuto.xml -->
+	
+	<!-- EN: 10mm Auto (FMJ) -->
+	<Ammo_10mmAuto_FMJ.label>10mm Auto (FMJ)</Ammo_10mmAuto_FMJ.label>
+	<!-- EN: A large and powerful cartridge designed for automatic pistols. -->
+	<Ammo_10mmAuto_FMJ.description>A large and powerful cartridge designed for automatic pistols.</Ammo_10mmAuto_FMJ.description>
+	
+	<!-- EN: 10mm Auto (AP) -->
+	<Ammo_10mmAuto_AP.label>10mm Auto (AP)</Ammo_10mmAuto_AP.label>
+	<!-- EN: A large and powerful cartridge designed for automatic pistols. -->
+	<Ammo_10mmAuto_AP.description>A large and powerful cartridge designed for automatic pistols.</Ammo_10mmAuto_AP.description>
+	
+	<!-- EN: 10mm Auto (HP) -->
+	<Ammo_10mmAuto_HP.label>10mm Auto (HP)</Ammo_10mmAuto_HP.label>
+	<!-- EN: A large and powerful cartridge designed for automatic pistols. -->
+	<Ammo_10mmAuto_HP.description>A large and powerful cartridge designed for automatic pistols.</Ammo_10mmAuto_HP.description>
+	
+	<!-- EN: 10mm Auto bullet (FMJ) -->
+	<Bullet_10mmAuto_FMJ.label>10mm Auto bullet (FMJ)</Bullet_10mmAuto_FMJ.label>
+	
+	<!-- EN: 10mm Auto bullet (AP) -->
+	<Bullet_10mmAuto_AP.label>10mm Auto bullet (AP)</Bullet_10mmAuto_AP.label>
+	
+	<!-- EN: 10mm Auto bullet (HP) -->
+	<Bullet_10mmAuto_HP.label>10mm Auto bullet (HP)</Bullet_10mmAuto_HP.label>
+</LanguageData>

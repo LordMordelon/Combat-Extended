@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\SGC_moreutilitypacks_zal_moreutilitypacks\Apparel_Packs1122.xml -->
+	<!-- EN: launch 60mm shell -->
+	<SGC_Apparel_FieldMortar.verbs.0.label>launch 60mm shell</SGC_Apparel_FieldMortar.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<SGC_Apparel_FieldMortar.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>ㅤ</SGC_Apparel_FieldMortar.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>
+</LanguageData>

@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\OskarPotocki_VFE_Medieval2\VFEM2_Apparel_Packs1789.xml -->
+	<!-- EN: throw torch -->
+	<VFEM2_Apparel_TorchBelt.verbs.0.label>throw torch</VFEM2_Apparel_TorchBelt.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<VFEM2_Apparel_TorchBelt.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>ㅤ</VFEM2_Apparel_TorchBelt.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>
+</LanguageData>

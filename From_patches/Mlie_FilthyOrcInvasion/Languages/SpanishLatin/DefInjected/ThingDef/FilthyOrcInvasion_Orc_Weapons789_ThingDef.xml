@@ -1,0 +1,32 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Mlie_FilthyOrcInvasion\FilthyOrcInvasion_Orc_Weapons789.xml -->
+	<!-- EN: grip -->
+	<Gun_HandCannon.tools.0.label>grip</Gun_HandCannon.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_HandCannon.tools.1.label>barrel</Gun_HandCannon.tools.1.label>
+	
+	<!-- EN: javelin -->
+	<Javelin.label>javelin</Javelin.label>
+	<!-- EN: light spears designed for throwing. Its weight allows for quick throwing, useful for skirmishing at close range. -->
+	<Javelin.description>light spears designed for throwing. Its weight allows for quick throwing, useful for skirmishing at close range.</Javelin.description>
+	<!-- EN: ㅤ -->
+	<Javelin.verbs.0.label>ㅤ</Javelin.verbs.0.label>
+	<!-- EN: shaft -->
+	<Javelin.tools.0.label>shaft</Javelin.tools.0.label>
+	<!-- EN: point -->
+	<Javelin.tools.1.label>point</Javelin.tools.1.label>
+	
+	<!-- EN: sling -->
+	<HeavySling.tools.0.label>sling</HeavySling.tools.0.label>
+	
+	<!-- EN: hammer -->
+	<MeleeWeapon_GreatMaul.tools.0.label>hammer</MeleeWeapon_GreatMaul.tools.0.label>
+	<!-- EN: pick -->
+	<MeleeWeapon_GreatMaul.tools.1.label>pick</MeleeWeapon_GreatMaul.tools.1.label>
+	
+	<!-- EN: head -->
+	<MeleeWeapon_GreatClub.tools.0.label>head</MeleeWeapon_GreatClub.tools.0.label>
+	
+	<!-- EN: blade -->
+	<MeleeWeapon_GreatAxe.tools.0.label>blade</MeleeWeapon_GreatAxe.tools.0.label>
+</LanguageData>

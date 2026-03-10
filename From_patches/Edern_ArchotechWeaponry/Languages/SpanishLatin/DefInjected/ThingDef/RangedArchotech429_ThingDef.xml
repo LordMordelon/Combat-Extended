@@ -1,0 +1,68 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Edern_ArchotechWeaponry\RangedArchotech429.xml -->
+	<!-- EN: grip -->
+	<AW_ArchotechPistol.tools.0.label>grip</AW_ArchotechPistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<AW_ArchotechPistol.tools.1.label>muzzle</AW_ArchotechPistol.tools.1.label>
+	
+	<!-- EN: grip -->
+	<AW_ArchotechSMG.tools.0.label>grip</AW_ArchotechSMG.tools.0.label>
+	<!-- EN: muzzle -->
+	<AW_ArchotechSMG.tools.1.label>muzzle</AW_ArchotechSMG.tools.1.label>
+	
+	<!-- EN: stock -->
+	<AW_ArchotechRifle.tools.0.label>stock</AW_ArchotechRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<AW_ArchotechRifle.tools.1.label>barrel</AW_ArchotechRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<AW_ArchotechRifle.tools.2.label>muzzle</AW_ArchotechRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<AW_ArchotechSniper.tools.0.label>stock</AW_ArchotechSniper.tools.0.label>
+	<!-- EN: barrel -->
+	<AW_ArchotechSniper.tools.1.label>barrel</AW_ArchotechSniper.tools.1.label>
+	<!-- EN: muzzle -->
+	<AW_ArchotechSniper.tools.2.label>muzzle</AW_ArchotechSniper.tools.2.label>
+	
+	<!-- EN: stock -->
+	<AW_ArchotechMinigun.tools.0.label>stock</AW_ArchotechMinigun.tools.0.label>
+	<!-- EN: barrel -->
+	<AW_ArchotechMinigun.tools.1.label>barrel</AW_ArchotechMinigun.tools.1.label>
+	<!-- EN: muzzle -->
+	<AW_ArchotechMinigun.tools.2.label>muzzle</AW_ArchotechMinigun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<AW_ArchotechShotgun.tools.0.label>stock</AW_ArchotechShotgun.tools.0.label>
+	<!-- EN: barrel -->
+	<AW_ArchotechShotgun.tools.1.label>barrel</AW_ArchotechShotgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<AW_ArchotechShotgun.tools.2.label>muzzle</AW_ArchotechShotgun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<AW_ArchotechLMG.tools.0.label>stock</AW_ArchotechLMG.tools.0.label>
+	<!-- EN: barrel -->
+	<AW_ArchotechLMG.tools.1.label>barrel</AW_ArchotechLMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<AW_ArchotechLMG.tools.2.label>muzzle</AW_ArchotechLMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<AW_ArchotechCrossbow.tools.0.label>stock</AW_ArchotechCrossbow.tools.0.label>
+	<!-- EN: barrel -->
+	<AW_ArchotechCrossbow.tools.1.label>barrel</AW_ArchotechCrossbow.tools.1.label>
+	<!-- EN: muzzle -->
+	<AW_ArchotechCrossbow.tools.2.label>muzzle</AW_ArchotechCrossbow.tools.2.label>
+	
+	<!-- EN: stock -->
+	<AW_ArchotechBow.tools.0.label>stock</AW_ArchotechBow.tools.0.label>
+	<!-- EN: barrel -->
+	<AW_ArchotechBow.tools.1.label>barrel</AW_ArchotechBow.tools.1.label>
+	<!-- EN: muzzle -->
+	<AW_ArchotechBow.tools.2.label>muzzle</AW_ArchotechBow.tools.2.label>
+	
+	<!-- EN: stock -->
+	<AW_ArchotechVoidlauncher.tools.0.label>stock</AW_ArchotechVoidlauncher.tools.0.label>
+	<!-- EN: barrel -->
+	<AW_ArchotechVoidlauncher.tools.1.label>barrel</AW_ArchotechVoidlauncher.tools.1.label>
+	<!-- EN: muzzle -->
+	<AW_ArchotechVoidlauncher.tools.2.label>muzzle</AW_ArchotechVoidlauncher.tools.2.label>
+</LanguageData>

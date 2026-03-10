@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VAEAccessories\Apparel_Utility1735.xml -->
+	<!-- EN: ㅤ -->
+	<VAEA_Apparel_MiniTurretPack.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>ㅤ</VAEA_Apparel_MiniTurretPack.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>
+	<!-- EN: turret -->
+	<VAEA_Apparel_MiniTurretPack.comps.CompApparelReloadable.chargeNoun>turret</VAEA_Apparel_MiniTurretPack.comps.CompApparelReloadable.chargeNoun>
+	<!-- EN: on reload -->
+	<VAEA_Apparel_MiniTurretPack.comps.CompApparelReloadable.cooldownGerund>on reload</VAEA_Apparel_MiniTurretPack.comps.CompApparelReloadable.cooldownGerund>
+</LanguageData>

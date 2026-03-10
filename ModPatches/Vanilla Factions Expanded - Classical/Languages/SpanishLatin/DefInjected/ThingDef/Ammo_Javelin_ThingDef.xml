@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla Factions Expanded - Classical\Defs\Vanilla Factions Expanded - Classical\Ammo_Javelin.xml -->
+	
+	<!-- EN: javelin -->
+	<Classical_Javelin_Thrown.label>javelin</Classical_Javelin_Thrown.label>
+	
+	<!-- EN: pilum (fired) -->
+	<Classical_Javelin_Fired.label>pilum (fired)</Classical_Javelin_Fired.label>
+</LanguageData>

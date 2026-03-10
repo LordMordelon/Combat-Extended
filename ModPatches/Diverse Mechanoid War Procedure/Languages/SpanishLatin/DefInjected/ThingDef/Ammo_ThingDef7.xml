@@ -1,0 +1,10 @@
+<LanguageData>
+	<!-- ModPatches\Diverse Mechanoid War Procedure\Defs\Diverse Mechanoid War Procedure\Ammo.xml -->
+	<!-- EN: 70mm mechanoid grenade (Tox) -->
+	<Ammo_70mmMechanoidGrenade_Tox.label>70mm mechanoid grenade (Tox)</Ammo_70mmMechanoidGrenade_Tox.label>
+	<!-- EN: Low velocity, large bore grenade fired from mechanoid grenade launchers. -->
+	<Ammo_70mmMechanoidGrenade_Tox.description>Low velocity, large bore grenade fired from mechanoid grenade launchers.</Ammo_70mmMechanoidGrenade_Tox.description>
+	
+	<!-- EN: 70mm mechanoid grenade (Tox) -->
+	<Bullet_70mmMechanoidGrenade_Tox.label>70mm mechanoid grenade (Tox)</Bullet_70mmMechanoidGrenade_Tox.label>
+</LanguageData>

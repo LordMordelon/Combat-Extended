@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- ModPatches\Moyo from the depth\Defs\Moyo from the depth\Ammo_Moyo.xml -->
+	<!-- EN: Moyo charge bolt -->
+	<AmmoSet_MoyoBallista.label>Moyo charge bolt</AmmoSet_MoyoBallista.label>
+	<!-- EN: Moyo Cryocell -->
+	<AmmoSet_Cryoblaster.label>Moyo Cryocell</AmmoSet_Cryoblaster.label>
+	<!-- EN: Moyo Cryocell -->
+	<AmmoSet_CryoRifle.label>Moyo Cryocell</AmmoSet_CryoRifle.label>
+	<!-- EN: Moyo alloy nail -->
+	<AmmoSet_Abyssnail.label>Moyo alloy nail</AmmoSet_Abyssnail.label>
+	<!-- EN: 6x18mm Charged Bullet -->
+	<AmmoSet_6x18mmMoyo.label>6x18mm Charged Bullet</AmmoSet_6x18mmMoyo.label>
+	<!-- EN: 6x24mm Charged Bullet -->
+	<AmmoSet_6x24mmMoyo.label>6x24mm Charged Bullet</AmmoSet_6x24mmMoyo.label>
+	<!-- EN: 8x35mm Charged Bullet -->
+	<AmmoSet_8x35mmMoyo.label>8x35mm Charged Bullet</AmmoSet_8x35mmMoyo.label>
+	<!-- EN: 8x50mm Charged Bullet -->
+	<AmmoSet_8x50mmMoyo.label>8x50mm Charged Bullet</AmmoSet_8x50mmMoyo.label>
+</LanguageData>

@@ -1,0 +1,31 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\rimsenal_feral\Feral_Explosives1551.xml -->
+	<!-- EN: barrel -->
+	<Gun_Thumper.tools.0.label>barrel</Gun_Thumper.tools.0.label>
+	
+	<!-- EN: fusion device -->
+	<Proj_MADness.label>fusion device</Proj_MADness.label>
+	
+	<!-- EN: fusion device -->
+	<Weapon_MADness.label>fusion device</Weapon_MADness.label>
+	<!-- EN: Modified portable fusion reactor, used for rimworld scale Mutual Assured Destruction strategy. -->
+	<Weapon_MADness.description>Modified portable fusion reactor, used for rimworld scale Mutual Assured Destruction strategy.</Weapon_MADness.description>
+	<!-- EN: Body -->
+	<Weapon_MADness.tools.0.label>Body</Weapon_MADness.tools.0.label>
+	<!-- EN: deploy fusion device -->
+	<Weapon_MADness.verbs.0.label>deploy fusion device</Weapon_MADness.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<Weapon_MADness.verbs.CombatExtended.Verb_ShootCEOneUse.label>ㅤ</Weapon_MADness.verbs.CombatExtended.Verb_ShootCEOneUse.label>
+	
+	<!-- EN: rat stick -->
+	<Bullet_RatStick.label>rat stick</Bullet_RatStick.label>
+	
+	<!-- EN: feral rat sticks -->
+	<Gun_RatStick.label>feral rat sticks</Gun_RatStick.label>
+	<!-- EN: Javelins tied with explosive boomrat tumor. -->
+	<Gun_RatStick.description>Javelins tied with explosive boomrat tumor.</Gun_RatStick.description>
+	<!-- EN: point -->
+	<Gun_RatStick.tools.0.label>point</Gun_RatStick.tools.0.label>
+	<!-- EN: ㅤ -->
+	<Gun_RatStick.verbs.0.label>ㅤ</Gun_RatStick.verbs.0.label>
+</LanguageData>

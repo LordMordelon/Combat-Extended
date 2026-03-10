@@ -1,0 +1,83 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\pphhyy_DemigryphsMod\Demigryph_Animals1238.xml -->
+	<!-- EN: left claw -->
+	<pphhyy_Demigryph.tools.0.label>left claw</pphhyy_Demigryph.tools.0.label>
+	<!-- EN: right claw -->
+	<pphhyy_Demigryph.tools.1.label>right claw</pphhyy_Demigryph.tools.1.label>
+	<!-- EN: beak -->
+	<pphhyy_Demigryph.tools.2.label>beak</pphhyy_Demigryph.tools.2.label>
+	<!-- EN: head -->
+	<pphhyy_Demigryph.tools.3.label>head</pphhyy_Demigryph.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<pphhyy_LeopardDemigryph.tools.0.label>left claw</pphhyy_LeopardDemigryph.tools.0.label>
+	<!-- EN: right claw -->
+	<pphhyy_LeopardDemigryph.tools.1.label>right claw</pphhyy_LeopardDemigryph.tools.1.label>
+	<!-- EN: beak -->
+	<pphhyy_LeopardDemigryph.tools.2.label>beak</pphhyy_LeopardDemigryph.tools.2.label>
+	<!-- EN: head -->
+	<pphhyy_LeopardDemigryph.tools.3.label>head</pphhyy_LeopardDemigryph.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<pphhyy_PantherDemigryph.tools.0.label>left claw</pphhyy_PantherDemigryph.tools.0.label>
+	<!-- EN: right claw -->
+	<pphhyy_PantherDemigryph.tools.1.label>right claw</pphhyy_PantherDemigryph.tools.1.label>
+	<!-- EN: beak -->
+	<pphhyy_PantherDemigryph.tools.2.label>beak</pphhyy_PantherDemigryph.tools.2.label>
+	<!-- EN: head -->
+	<pphhyy_PantherDemigryph.tools.3.label>head</pphhyy_PantherDemigryph.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<pphhyy_CrimsonDemigryph.tools.0.label>left claw</pphhyy_CrimsonDemigryph.tools.0.label>
+	<!-- EN: right claw -->
+	<pphhyy_CrimsonDemigryph.tools.1.label>right claw</pphhyy_CrimsonDemigryph.tools.1.label>
+	<!-- EN: beak -->
+	<pphhyy_CrimsonDemigryph.tools.2.label>beak</pphhyy_CrimsonDemigryph.tools.2.label>
+	<!-- EN: head -->
+	<pphhyy_CrimsonDemigryph.tools.3.label>head</pphhyy_CrimsonDemigryph.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<pphhyy_CheetahDemigryph.tools.0.label>left claw</pphhyy_CheetahDemigryph.tools.0.label>
+	<!-- EN: right claw -->
+	<pphhyy_CheetahDemigryph.tools.1.label>right claw</pphhyy_CheetahDemigryph.tools.1.label>
+	<!-- EN: beak -->
+	<pphhyy_CheetahDemigryph.tools.2.label>beak</pphhyy_CheetahDemigryph.tools.2.label>
+	<!-- EN: head -->
+	<pphhyy_CheetahDemigryph.tools.3.label>head</pphhyy_CheetahDemigryph.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<pphhyy_VultureDemigryph.tools.0.label>left claw</pphhyy_VultureDemigryph.tools.0.label>
+	<!-- EN: right claw -->
+	<pphhyy_VultureDemigryph.tools.1.label>right claw</pphhyy_VultureDemigryph.tools.1.label>
+	<!-- EN: beak -->
+	<pphhyy_VultureDemigryph.tools.2.label>beak</pphhyy_VultureDemigryph.tools.2.label>
+	<!-- EN: head -->
+	<pphhyy_VultureDemigryph.tools.3.label>head</pphhyy_VultureDemigryph.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<pphhyy_TigerDemigryph.tools.0.label>left claw</pphhyy_TigerDemigryph.tools.0.label>
+	<!-- EN: right claw -->
+	<pphhyy_TigerDemigryph.tools.1.label>right claw</pphhyy_TigerDemigryph.tools.1.label>
+	<!-- EN: beak -->
+	<pphhyy_TigerDemigryph.tools.2.label>beak</pphhyy_TigerDemigryph.tools.2.label>
+	<!-- EN: head -->
+	<pphhyy_TigerDemigryph.tools.3.label>head</pphhyy_TigerDemigryph.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<pphhyy_Daermigryph.tools.0.label>left claw</pphhyy_Daermigryph.tools.0.label>
+	<!-- EN: right claw -->
+	<pphhyy_Daermigryph.tools.1.label>right claw</pphhyy_Daermigryph.tools.1.label>
+	<!-- EN: beak -->
+	<pphhyy_Daermigryph.tools.2.label>beak</pphhyy_Daermigryph.tools.2.label>
+	<!-- EN: head -->
+	<pphhyy_Daermigryph.tools.3.label>head</pphhyy_Daermigryph.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<pphhyy_JadeDemigryph.tools.0.label>left claw</pphhyy_JadeDemigryph.tools.0.label>
+	<!-- EN: right claw -->
+	<pphhyy_JadeDemigryph.tools.1.label>right claw</pphhyy_JadeDemigryph.tools.1.label>
+	<!-- EN: beak -->
+	<pphhyy_JadeDemigryph.tools.2.label>beak</pphhyy_JadeDemigryph.tools.2.label>
+	<!-- EN: head -->
+	<pphhyy_JadeDemigryph.tools.3.label>head</pphhyy_JadeDemigryph.tools.3.label>
+</LanguageData>

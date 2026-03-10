@@ -1,0 +1,56 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Farmradish_Nyaron\Weapons1164.xml -->
+	<!-- EN: handle -->
+	<Nr_Clawbar.tools.0.label>handle</Nr_Clawbar.tools.0.label>
+	<!-- EN: head -->
+	<Nr_Clawbar.tools.1.label>head</Nr_Clawbar.tools.1.label>
+	<!-- EN: claw -->
+	<Nr_Clawbar.tools.2.label>claw</Nr_Clawbar.tools.2.label>
+	
+	<!-- EN: handle -->
+	<Nr_Karambit.tools.0.label>handle</Nr_Karambit.tools.0.label>
+	<!-- EN: point -->
+	<Nr_Karambit.tools.1.label>point</Nr_Karambit.tools.1.label>
+	<!-- EN: edge -->
+	<Nr_Karambit.tools.2.label>edge</Nr_Karambit.tools.2.label>
+	
+	<!-- EN: Point -->
+	<Nr_Lightbringer.tools.0.label>Point</Nr_Lightbringer.tools.0.label>
+	<!-- EN: blade -->
+	<Nr_Lightbringer.tools.1.label>blade</Nr_Lightbringer.tools.1.label>
+	<!-- EN: handle -->
+	<Nr_Lightbringer.tools.2.label>handle</Nr_Lightbringer.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Nr_FlakCaster.tools.0.label>stock</Nr_FlakCaster.tools.0.label>
+	<!-- EN: barrel -->
+	<Nr_FlakCaster.tools.1.label>barrel</Nr_FlakCaster.tools.1.label>
+	<!-- EN: muzzle -->
+	<Nr_FlakCaster.tools.2.label>muzzle</Nr_FlakCaster.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Nr_ChRifle.tools.0.label>stock</Nr_ChRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Nr_ChRifle.tools.1.label>barrel</Nr_ChRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Nr_ChRifle.tools.2.label>muzzle</Nr_ChRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Nr_NpcRifle.tools.0.label>stock</Nr_NpcRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Nr_NpcRifle.tools.1.label>barrel</Nr_NpcRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Nr_NpcRifle.tools.2.label>muzzle</Nr_NpcRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Nr_MfoldPdw.tools.0.label>stock</Nr_MfoldPdw.tools.0.label>
+	<!-- EN: barrel -->
+	<Nr_MfoldPdw.tools.1.label>barrel</Nr_MfoldPdw.tools.1.label>
+	<!-- EN: muzzle -->
+	<Nr_MfoldPdw.tools.2.label>muzzle</Nr_MfoldPdw.tools.2.label>
+	
+	<!-- EN: grip -->
+	<Nr_CriPistol.tools.0.label>grip</Nr_CriPistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<Nr_CriPistol.tools.1.label>muzzle</Nr_CriPistol.tools.1.label>
+</LanguageData>

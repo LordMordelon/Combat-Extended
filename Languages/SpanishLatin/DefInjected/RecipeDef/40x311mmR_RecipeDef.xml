@@ -1,0 +1,31 @@
+<LanguageData>
+	<!-- Defs\Ammo\HighCaliber\40x311mmR.xml -->
+	
+	<!-- EN: make 40x311mmR (AP) cartridge x50 -->
+	<MakeAmmo_40x311mmR_AP.label>make 40x311mmR (AP) cartridge x50</MakeAmmo_40x311mmR_AP.label>
+	<!-- EN: Craft 50 40x311mmR (AP) cartridges. -->
+	<MakeAmmo_40x311mmR_AP.description>Craft 50 40x311mmR (AP) cartridges.</MakeAmmo_40x311mmR_AP.description>
+	<!-- EN: Making 40x311mmR (AP) cartridges. -->
+	<MakeAmmo_40x311mmR_AP.jobString>Making 40x311mmR (AP) cartridges.</MakeAmmo_40x311mmR_AP.jobString>
+	
+	<!-- EN: make 40x311mmR (AP-I) cartridge x50 -->
+	<MakeAmmo_40x311mmR_Incendiary.label>make 40x311mmR (AP-I) cartridge x50</MakeAmmo_40x311mmR_Incendiary.label>
+	<!-- EN: Craft 50 40x311mmR (AP-I) cartridges. -->
+	<MakeAmmo_40x311mmR_Incendiary.description>Craft 50 40x311mmR (AP-I) cartridges.</MakeAmmo_40x311mmR_Incendiary.description>
+	<!-- EN: Making 40x311mmR (AP-I) cartridges. -->
+	<MakeAmmo_40x311mmR_Incendiary.jobString>Making 40x311mmR (AP-I) cartridges.</MakeAmmo_40x311mmR_Incendiary.jobString>
+	
+	<!-- EN: make 40x311mmR (AP-HE) cartridge x50 -->
+	<MakeAmmo_40x311mmR_HE.label>make 40x311mmR (AP-HE) cartridge x50</MakeAmmo_40x311mmR_HE.label>
+	<!-- EN: Craft 50 40x311mmR (AP-HE) cartridges. -->
+	<MakeAmmo_40x311mmR_HE.description>Craft 50 40x311mmR (AP-HE) cartridges.</MakeAmmo_40x311mmR_HE.description>
+	<!-- EN: Making 40x311mmR (AP-HE) cartridges. -->
+	<MakeAmmo_40x311mmR_HE.jobString>Making 40x311mmR (AP-HE) cartridges.</MakeAmmo_40x311mmR_HE.jobString>
+	
+	<!-- EN: make 40x311mmR (Sabot) cartridge x50 -->
+	<MakeAmmo_40x311mmR_Sabot.label>make 40x311mmR (Sabot) cartridge x50</MakeAmmo_40x311mmR_Sabot.label>
+	<!-- EN: Craft 50 40x311mmR (Sabot) cartridges. -->
+	<MakeAmmo_40x311mmR_Sabot.description>Craft 50 40x311mmR (Sabot) cartridges.</MakeAmmo_40x311mmR_Sabot.description>
+	<!-- EN: Making 40x311mmR (Sabot) cartridges. -->
+	<MakeAmmo_40x311mmR_Sabot.jobString>Making 40x311mmR (Sabot) cartridges.</MakeAmmo_40x311mmR_Sabot.jobString>
+</LanguageData>

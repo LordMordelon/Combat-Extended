@@ -1,0 +1,10 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla Weapons Expanded - Non-Lethal\Defs\Vanilla Weapons Expanded - Non-Lethal\40mmLessLethal.xml -->
+	
+	<!-- EN: make 40x46mm CN grenades x100 -->
+	<MakeAmmo_40x46mmGrenade_CN.label>make 40x46mm CN grenades x100</MakeAmmo_40x46mmGrenade_CN.label>
+	<!-- EN: Craft 100 40x46mm CN grenades. -->
+	<MakeAmmo_40x46mmGrenade_CN.description>Craft 100 40x46mm CN grenades.</MakeAmmo_40x46mmGrenade_CN.description>
+	<!-- EN: Making 40x46mm CN grenades. -->
+	<MakeAmmo_40x46mmGrenade_CN.jobString>Making 40x46mm CN grenades.</MakeAmmo_40x46mmGrenade_CN.jobString>
+</LanguageData>

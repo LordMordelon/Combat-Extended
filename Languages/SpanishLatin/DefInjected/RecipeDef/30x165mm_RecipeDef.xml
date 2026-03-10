@@ -1,0 +1,31 @@
+<LanguageData>
+	<!-- Defs\Ammo\HighCaliber\30x165mm.xml -->
+	
+	<!-- EN: make 30x165mm (AP) cartridge x100 -->
+	<MakeAmmo_30x165mm_AP.label>make 30x165mm (AP) cartridge x100</MakeAmmo_30x165mm_AP.label>
+	<!-- EN: Craft 100 30x165mm (AP) cartridges. -->
+	<MakeAmmo_30x165mm_AP.description>Craft 100 30x165mm (AP) cartridges.</MakeAmmo_30x165mm_AP.description>
+	<!-- EN: Making 30x165mm (AP) cartridges. -->
+	<MakeAmmo_30x165mm_AP.jobString>Making 30x165mm (AP) cartridges.</MakeAmmo_30x165mm_AP.jobString>
+	
+	<!-- EN: make 30x165mm (AP-I) cartridge x100 -->
+	<MakeAmmo_30x165mm_Incendiary.label>make 30x165mm (AP-I) cartridge x100</MakeAmmo_30x165mm_Incendiary.label>
+	<!-- EN: Craft 100 30x165mm (AP-I) cartridges. -->
+	<MakeAmmo_30x165mm_Incendiary.description>Craft 100 30x165mm (AP-I) cartridges.</MakeAmmo_30x165mm_Incendiary.description>
+	<!-- EN: Making 30x165mm (AP-I) cartridges. -->
+	<MakeAmmo_30x165mm_Incendiary.jobString>Making 30x165mm (AP-I) cartridges.</MakeAmmo_30x165mm_Incendiary.jobString>
+	
+	<!-- EN: make 30x165mm (AP-HE) cartridge x100 -->
+	<MakeAmmo_30x165mm_HE.label>make 30x165mm (AP-HE) cartridge x100</MakeAmmo_30x165mm_HE.label>
+	<!-- EN: Craft 100 30x165mm (AP-HE) cartridges. -->
+	<MakeAmmo_30x165mm_HE.description>Craft 100 30x165mm (AP-HE) cartridges.</MakeAmmo_30x165mm_HE.description>
+	<!-- EN: Making 30x165mm (AP-HE) cartridges. -->
+	<MakeAmmo_30x165mm_HE.jobString>Making 30x165mm (AP-HE) cartridges.</MakeAmmo_30x165mm_HE.jobString>
+	
+	<!-- EN: make 30x165mm (Sabot) cartridge x100 -->
+	<MakeAmmo_30x165mm_Sabot.label>make 30x165mm (Sabot) cartridge x100</MakeAmmo_30x165mm_Sabot.label>
+	<!-- EN: Craft 100 30x165mm (Sabot) cartridges. -->
+	<MakeAmmo_30x165mm_Sabot.description>Craft 100 30x165mm (Sabot) cartridges.</MakeAmmo_30x165mm_Sabot.description>
+	<!-- EN: Making 30x165mm (Sabot) cartridges. -->
+	<MakeAmmo_30x165mm_Sabot.jobString>Making 30x165mm (Sabot) cartridges.</MakeAmmo_30x165mm_Sabot.jobString>
+</LanguageData>

@@ -1,0 +1,28 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VanillaAnimalsExpanded\Australia_Animals1702.xml -->
+	<!-- EN: left claw -->
+	<AEXP_Boombat.tools.0.label>left claw</AEXP_Boombat.tools.0.label>
+	<!-- EN: right claw -->
+	<AEXP_Boombat.tools.1.label>right claw</AEXP_Boombat.tools.1.label>
+	<!-- EN: head -->
+	<AEXP_Boombat.tools.3.label>head</AEXP_Boombat.tools.3.label>
+	<!-- EN: Secretion level -->
+	<AEXP_Boombat.comps.CompShearableRenameable.growthLabel>Secretion level</AEXP_Boombat.comps.CompShearableRenameable.growthLabel>
+	
+	<!-- EN: head -->
+	<AEXP_Kangaroo.tools.3.label>head</AEXP_Kangaroo.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<AEXP_Koala.tools.0.label>left claw</AEXP_Koala.tools.0.label>
+	<!-- EN: right claw -->
+	<AEXP_Koala.tools.1.label>right claw</AEXP_Koala.tools.1.label>
+	<!-- EN: head -->
+	<AEXP_Koala.tools.3.label>head</AEXP_Koala.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<AEXP_Platypus.tools.0.label>left claw</AEXP_Platypus.tools.0.label>
+	<!-- EN: right claw -->
+	<AEXP_Platypus.tools.1.label>right claw</AEXP_Platypus.tools.1.label>
+	<!-- EN: head -->
+	<AEXP_Platypus.tools.4.label>head</AEXP_Platypus.tools.4.label>
+</LanguageData>

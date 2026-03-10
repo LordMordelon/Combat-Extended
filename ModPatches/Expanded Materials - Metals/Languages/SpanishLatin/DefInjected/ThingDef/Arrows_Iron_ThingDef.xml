@@ -1,0 +1,22 @@
+<LanguageData>
+	<!-- ModPatches\Expanded Materials - Metals\Defs\Expanded Materials - Metals\Arrows_Iron.xml -->
+	
+	<!-- EN: arrow (iron) -->
+	<Ammo_Arrow_Iron.label>arrow (iron)</Ammo_Arrow_Iron.label>
+	<!-- EN: Simple arrow design with a cutting head attached to a wooden shaft. -->
+	<Ammo_Arrow_Iron.description>Simple arrow design with a cutting head attached to a wooden shaft.</Ammo_Arrow_Iron.description>
+	
+	<!-- EN: arrow (iron) -->
+	<Projectile_Arrow_Iron.label>arrow (iron)</Projectile_Arrow_Iron.label>
+	
+	<!-- EN: streamlined arrow (iron) -->
+	<Projectile_StreamlinedArrow_Iron.label>streamlined arrow (iron)</Projectile_StreamlinedArrow_Iron.label>
+	
+	<!-- EN: great arrow (iron) -->
+	<Ammo_GreatArrow_Iron.label>great arrow (iron)</Ammo_GreatArrow_Iron.label>
+	<!-- EN: Heavy arrow designed to be fired from a great bow. -->
+	<Ammo_GreatArrow_Iron.description>Heavy arrow designed to be fired from a great bow.</Ammo_GreatArrow_Iron.description>
+	
+	<!-- EN: great arrow (iron) -->
+	<Projectile_GreatArrow_Iron.label>great arrow (iron)</Projectile_GreatArrow_Iron.label>
+</LanguageData>

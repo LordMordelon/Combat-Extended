@@ -1,0 +1,51 @@
+<LanguageData>
+	<!-- ModPatches\Gas Traps and Shells\Defs\Gas Traps and Shells\Patch_Ammo_Gas.xml -->
+	<!-- EN: toxic gas -->
+	<GasToxic.label>toxic gas</GasToxic.label>
+	<!-- EN: Toxic -->
+	<GasToxic.labelShort>Toxic</GasToxic.labelShort>
+	<!-- EN: This shell contains a potent, nerve agent, harmful to most complex forms of organic life. -->
+	<GasToxic.description>This shell contains a potent, nerve agent, harmful to most complex forms of organic life.</GasToxic.description>
+	
+	<!-- EN: rage gas -->
+	<GasRage.label>rage gas</GasRage.label>
+	<!-- EN: Rage -->
+	<GasRage.labelShort>Rage</GasRage.labelShort>
+	<!-- EN: This shell contains a potent, specialized airborne agent that induces blind, uncontrollable rage. -->
+	<GasRage.description>This shell contains a potent, specialized airborne agent that induces blind, uncontrollable rage.</GasRage.description>
+	
+	<!-- EN: tear gas -->
+	<GasTear.label>tear gas</GasTear.label>
+	<!-- EN: CN -->
+	<GasTear.labelShort>CN</GasTear.labelShort>
+	<!-- EN: This shell contains a potent, specialized airborne agent that attacks the sensitive membranes of the eyes and nose, making it difficult to see or breathe. -->
+	<GasTear.description>This shell contains a potent, specialized airborne agent that attacks the sensitive membranes of the eyes and nose, making it difficult to see or breathe.</GasTear.description>
+	
+	<!-- EN: fear gas -->
+	<GasFear.label>fear gas</GasFear.label>
+	<!-- EN: Fear -->
+	<GasFear.labelShort>Fear</GasFear.labelShort>
+	<!-- EN: This shell contains a potent, specialized airborne agent that induces an extremely strong feeling of dread and terror. -->
+	<GasFear.description>This shell contains a potent, specialized airborne agent that induces an extremely strong feeling of dread and terror.</GasFear.description>
+	
+	<!-- EN: sleeping gas -->
+	<GasSleep.label>sleeping gas</GasSleep.label>
+	<!-- EN: sleep -->
+	<GasSleep.labelShort>sleep</GasSleep.labelShort>
+	<!-- EN: This shell contains a potent sedative, capable of quickly knocking unconscious anyone exposed to it. -->
+	<GasSleep.description>This shell contains a potent sedative, capable of quickly knocking unconscious anyone exposed to it.</GasSleep.description>
+	
+	<!-- EN: acid -->
+	<GasAcid.label>acid</GasAcid.label>
+	<!-- EN: acid -->
+	<GasAcid.labelShort>acid</GasAcid.labelShort>
+	<!-- EN: This shell contains an extremely strong acid, capable of quickly burning away flesh and metal alike. -->
+	<GasAcid.description>This shell contains an extremely strong acid, capable of quickly burning away flesh and metal alike.</GasAcid.description>
+	
+	<!-- EN: Insecticide -->
+	<AntiBug.label>Insecticide</AntiBug.label>
+	<!-- EN: Anti-Bug -->
+	<AntiBug.labelShort>Anti-Bug</AntiBug.labelShort>
+	<!-- EN: This shell is filled with a special aerosol specially designed to kill insectoids. -->
+	<AntiBug.description>This shell is filled with a special aerosol specially designed to kill insectoids.</AntiBug.description>
+</LanguageData>

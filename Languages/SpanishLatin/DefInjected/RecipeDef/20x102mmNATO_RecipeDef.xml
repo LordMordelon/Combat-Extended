@@ -1,0 +1,31 @@
+<LanguageData>
+	<!-- Defs\Ammo\HighCaliber\20x102mmNATO.xml -->
+	
+	<!-- EN: make 20x102mm NATO (AP) cartridge x200 -->
+	<MakeAmmo_20x102mmNATO_AP.label>make 20x102mm NATO (AP) cartridge x200</MakeAmmo_20x102mmNATO_AP.label>
+	<!-- EN: Craft 200 20x102mm NATO (AP) cartridges. -->
+	<MakeAmmo_20x102mmNATO_AP.description>Craft 200 20x102mm NATO (AP) cartridges.</MakeAmmo_20x102mmNATO_AP.description>
+	<!-- EN: Making 20x102mm NATO (AP) cartridges. -->
+	<MakeAmmo_20x102mmNATO_AP.jobString>Making 20x102mm NATO (AP) cartridges.</MakeAmmo_20x102mmNATO_AP.jobString>
+	
+	<!-- EN: make 20x102mm NATO (AP-I) cartridge x200 -->
+	<MakeAmmo_20x102mmNATO_Incendiary.label>make 20x102mm NATO (AP-I) cartridge x200</MakeAmmo_20x102mmNATO_Incendiary.label>
+	<!-- EN: Craft 200 20x102mm NATO (AP-I) cartridges. -->
+	<MakeAmmo_20x102mmNATO_Incendiary.description>Craft 200 20x102mm NATO (AP-I) cartridges.</MakeAmmo_20x102mmNATO_Incendiary.description>
+	<!-- EN: Making 20x102mm NATO (AP-I) cartridges. -->
+	<MakeAmmo_20x102mmNATO_Incendiary.jobString>Making 20x102mm NATO (AP-I) cartridges.</MakeAmmo_20x102mmNATO_Incendiary.jobString>
+	
+	<!-- EN: make 20x102mm NATO (AP-HE) cartridge x200 -->
+	<MakeAmmo_20x102mmNATO_HE.label>make 20x102mm NATO (AP-HE) cartridge x200</MakeAmmo_20x102mmNATO_HE.label>
+	<!-- EN: Craft 200 20x102mm NATO (AP-HE) cartridges. -->
+	<MakeAmmo_20x102mmNATO_HE.description>Craft 200 20x102mm NATO (AP-HE) cartridges.</MakeAmmo_20x102mmNATO_HE.description>
+	<!-- EN: Making 20x102mm NATO (AP-HE) cartridges. -->
+	<MakeAmmo_20x102mmNATO_HE.jobString>Making 20x102mm NATO (AP-HE) cartridges.</MakeAmmo_20x102mmNATO_HE.jobString>
+	
+	<!-- EN: make 20x102mm NATO (Sabot) cartridge x200 -->
+	<MakeAmmo_20x102mmNATO_Sabot.label>make 20x102mm NATO (Sabot) cartridge x200</MakeAmmo_20x102mmNATO_Sabot.label>
+	<!-- EN: Craft 200 20x102mm NATO (Sabot) cartridges. -->
+	<MakeAmmo_20x102mmNATO_Sabot.description>Craft 200 20x102mm NATO (Sabot) cartridges.</MakeAmmo_20x102mmNATO_Sabot.description>
+	<!-- EN: Making 20x102mm NATO (Sabot) cartridges. -->
+	<MakeAmmo_20x102mmNATO_Sabot.jobString>Making 20x102mm NATO (Sabot) cartridges.</MakeAmmo_20x102mmNATO_Sabot.jobString>
+</LanguageData>

@@ -1,0 +1,12 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\miho_fortifiedoutremer\Items_Resources1093.xml -->
+	<!-- EN: Armor Piercing Incendiary Missile -->
+	<Miho_Missile.label>Armor Piercing Incendiary Missile</Miho_Missile.label>
+	<!-- EN: Missiles designed for Miho direct fire launchers -->
+	<Miho_Missile.description>Missiles designed for Miho direct fire launchers</Miho_Missile.description>
+	
+	<!-- EN: Anti-Mech Plasma Missile -->
+	<Miho_MissilePlasma.label>Anti-Mech Plasma Missile</Miho_MissilePlasma.label>
+	<!-- EN: Missiles designed for Miho direct fire launchers -->
+	<Miho_MissilePlasma.description>Missiles designed for Miho direct fire launchers</Miho_MissilePlasma.description>
+</LanguageData>

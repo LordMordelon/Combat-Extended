@@ -1,0 +1,40 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\GF40K_IoM_Weaponry\GF40K_MechanicusWeapons1947.xml -->
+	<!-- EN: head -->
+	<GF40K_MechanicusArcMaul.tools.0.label>head</GF40K_MechanicusArcMaul.tools.0.label>
+	<!-- EN: handle -->
+	<GF40K_MechanicusArcMaul.tools.1.label>handle</GF40K_MechanicusArcMaul.tools.1.label>
+	
+	<!-- EN: head -->
+	<GF40K_MechanicusOmnisianAxe.tools.0.label>head</GF40K_MechanicusOmnisianAxe.tools.0.label>
+	<!-- EN: blade -->
+	<GF40K_MechanicusOmnisianAxe.tools.1.label>blade</GF40K_MechanicusOmnisianAxe.tools.1.label>
+	<!-- EN: handle -->
+	<GF40K_MechanicusOmnisianAxe.tools.2.label>handle</GF40K_MechanicusOmnisianAxe.tools.2.label>
+	
+	<!-- EN: point -->
+	<GF40K_MechanicusPowerSword.tools.0.label>point</GF40K_MechanicusPowerSword.tools.0.label>
+	<!-- EN: blade -->
+	<GF40K_MechanicusPowerSword.tools.1.label>blade</GF40K_MechanicusPowerSword.tools.1.label>
+	<!-- EN: handle -->
+	<GF40K_MechanicusPowerSword.tools.2.label>handle</GF40K_MechanicusPowerSword.tools.2.label>
+	
+	<!-- EN: tip -->
+	<GF40K_MechanicusTaserGoad.tools.0.label>tip</GF40K_MechanicusTaserGoad.tools.0.label>
+	<!-- EN: handle -->
+	<GF40K_MechanicusTaserGoad.tools.1.label>handle</GF40K_MechanicusTaserGoad.tools.1.label>
+	
+	<!-- EN: tip -->
+	<GF40K_MechanicusTransonicBlade.tools.0.label>tip</GF40K_MechanicusTransonicBlade.tools.0.label>
+	<!-- EN: edge -->
+	<GF40K_MechanicusTransonicBlade.tools.1.label>edge</GF40K_MechanicusTransonicBlade.tools.1.label>
+	<!-- EN: handle -->
+	<GF40K_MechanicusTransonicBlade.tools.2.label>handle</GF40K_MechanicusTransonicBlade.tools.2.label>
+	
+	<!-- EN: tip -->
+	<GF40K_MechanicusTransonicRazor.tools.0.label>tip</GF40K_MechanicusTransonicRazor.tools.0.label>
+	<!-- EN: edge -->
+	<GF40K_MechanicusTransonicRazor.tools.1.label>edge</GF40K_MechanicusTransonicRazor.tools.1.label>
+	<!-- EN: handle -->
+	<GF40K_MechanicusTransonicRazor.tools.2.label>handle</GF40K_MechanicusTransonicRazor.tools.2.label>
+</LanguageData>

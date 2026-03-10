@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Slime Rancher\Defs\Slime Rancher\Recipes_Slime.xml -->
+	<!-- EN: press fire plort -->
+	<PressFirePlortCE.label>press fire plort</PressFirePlortCE.label>
+	<!-- EN: Concentrate fire plorts into highly flammable compounds. -->
+	<PressFirePlortCE.description>Concentrate fire plorts into highly flammable compounds.</PressFirePlortCE.description>
+	<!-- EN: Pressing fire plort -->
+	<PressFirePlortCE.jobString>Pressing fire plort</PressFirePlortCE.jobString>
+</LanguageData>

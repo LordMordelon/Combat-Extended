@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Zaps\Waveguns.xml -->
+	<!-- EN: make Wavegun cartridge x500 -->
+	<MakeAmmo_Wavegun.label>make Wavegun cartridge x500</MakeAmmo_Wavegun.label>
+	<!-- EN: Craft 500 Wavegun cartridges. -->
+	<MakeAmmo_Wavegun.description>Craft 500 Wavegun cartridges.</MakeAmmo_Wavegun.description>
+	<!-- EN: Making Wavegun cartridges. -->
+	<MakeAmmo_Wavegun.jobString>Making Wavegun cartridges.</MakeAmmo_Wavegun.jobString>
+</LanguageData>

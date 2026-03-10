@@ -1,0 +1,47 @@
+<LanguageData>
+	<!-- ModPatches\Moyo from the depth\Defs\Moyo from the depth\Ammo_Moyo.xml -->
+	<!-- EN: Moyo charge bolt -->
+	<Ammo_MoyoBallista.label>Moyo charge bolt</Ammo_MoyoBallista.label>
+	<!-- EN: High power ion charge bolt for use against heavy targets such as mechanoids or power armor. -->
+	<Ammo_MoyoBallista.description>High power ion charge bolt for use against heavy targets such as mechanoids or power armor.</Ammo_MoyoBallista.description>
+	<!-- EN: moyo heavy chargebolt -->
+	<Bullet_MoyoBallista.label>moyo heavy chargebolt</Bullet_MoyoBallista.label>
+	<!-- EN: Moyo cryocell -->
+	<Ammo_MoyoCryocell.label>Moyo cryocell</Ammo_MoyoCryocell.label>
+	<!-- EN: Weaponized cryofreezing cell for Moyo cryotech weapons. -->
+	<Ammo_MoyoCryocell.description>Weaponized cryofreezing cell for Moyo cryotech weapons.</Ammo_MoyoCryocell.description>
+	<!-- EN: moyo cryoblast -->
+	<Bullet_MoyoCryocell.label>moyo cryoblast</Bullet_MoyoCryocell.label>
+	<!-- EN: moyo cryoblast -->
+	<Bullet_MoyoCryocannon.label>moyo cryoblast</Bullet_MoyoCryocannon.label>
+	<!-- EN: Abyssal Nail -->
+	<Ammo_Abyssnail.label>Abyssal Nail</Ammo_Abyssnail.label>
+	<!-- EN: Machined alloy nails. -->
+	<Ammo_Abyssnail.description>Machined alloy nails.</Ammo_Abyssnail.description>
+	<!-- EN: abyssal nail -->
+	<Bullet_Abyssnail.label>abyssal nail</Bullet_Abyssnail.label>
+	<!-- EN: 6x18mm Charged bullet -->
+	<Bullet_6x18mmMoyo.label>6x18mm Charged bullet</Bullet_6x18mmMoyo.label>
+	<!-- EN: 6x18mm Charged bullet (Conc.) -->
+	<Bullet_6x18mmMoyo_AP.label>6x18mm Charged bullet (Conc.)</Bullet_6x18mmMoyo_AP.label>
+	<!-- EN: 6x18mm Charged bullet (Ion) -->
+	<Bullet_6x18mmMoyo_Ion.label>6x18mm Charged bullet (Ion)</Bullet_6x18mmMoyo_Ion.label>
+	<!-- EN: 6x24mm Charged bullet -->
+	<Bullet_6x24mmMoyo.label>6x24mm Charged bullet</Bullet_6x24mmMoyo.label>
+	<!-- EN: 6x24mm Charged bullet (Conc.) -->
+	<Bullet_6x24mmMoyo_AP.label>6x24mm Charged bullet (Conc.)</Bullet_6x24mmMoyo_AP.label>
+	<!-- EN: 6x24mm Charged bullet (Ion) -->
+	<Bullet_6x24mmMoyo_Ion.label>6x24mm Charged bullet (Ion)</Bullet_6x24mmMoyo_Ion.label>
+	<!-- EN: 8x35mm Charged bullet -->
+	<Bullet_8x35mmMoyo.label>8x35mm Charged bullet</Bullet_8x35mmMoyo.label>
+	<!-- EN: 8x35mm Charged bullet (Conc.) -->
+	<Bullet_8x35mmMoyo_AP.label>8x35mm Charged bullet (Conc.)</Bullet_8x35mmMoyo_AP.label>
+	<!-- EN: 8x35mm Charged bullet (Ion) -->
+	<Bullet_8x35mmMoyo_Ion.label>8x35mm Charged bullet (Ion)</Bullet_8x35mmMoyo_Ion.label>
+	<!-- EN: 8x50mm Charged bullet -->
+	<Bullet_8x50mmMoyo.label>8x50mm Charged bullet</Bullet_8x50mmMoyo.label>
+	<!-- EN: 8x50mm Charged bullet (Conc.) -->
+	<Bullet_8x50mmMoyo_AP.label>8x50mm Charged bullet (Conc.)</Bullet_8x50mmMoyo_AP.label>
+	<!-- EN: 8x50mm Charged bullet (Ion) -->
+	<Bullet_8x50mmMoyo_Ion.label>8x50mm Charged bullet (Ion)</Bullet_8x50mmMoyo_Ion.label>
+</LanguageData>

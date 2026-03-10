@@ -1,0 +1,23 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Rabbit_EdgeOfDescension\EoD_BladelinksWeaponsDefs725.xml -->
+	<!-- EN: handle -->
+	<EoD_MonobladeBladelink.tools.0.label>handle</EoD_MonobladeBladelink.tools.0.label>
+	<!-- EN: point -->
+	<EoD_MonobladeBladelink.tools.1.label>point</EoD_MonobladeBladelink.tools.1.label>
+	<!-- EN: edge -->
+	<EoD_MonobladeBladelink.tools.2.label>edge</EoD_MonobladeBladelink.tools.2.label>
+	
+	<!-- EN: handle -->
+	<EoD_MonobladePrestige.tools.0.label>handle</EoD_MonobladePrestige.tools.0.label>
+	<!-- EN: point -->
+	<EoD_MonobladePrestige.tools.1.label>point</EoD_MonobladePrestige.tools.1.label>
+	<!-- EN: edge -->
+	<EoD_MonobladePrestige.tools.2.label>edge</EoD_MonobladePrestige.tools.2.label>
+	
+	<!-- EN: handle -->
+	<EoD_Archoblade.tools.0.label>handle</EoD_Archoblade.tools.0.label>
+	<!-- EN: point -->
+	<EoD_Archoblade.tools.1.label>point</EoD_Archoblade.tools.1.label>
+	<!-- EN: edge -->
+	<EoD_Archoblade.tools.2.label>edge</EoD_Archoblade.tools.2.label>
+</LanguageData>

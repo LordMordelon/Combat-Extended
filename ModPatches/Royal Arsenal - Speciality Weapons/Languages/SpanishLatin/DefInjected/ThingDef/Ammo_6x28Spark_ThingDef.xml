@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Royal Arsenal - Speciality Weapons\Defs\Royal Arsenal - Speciality Weapons\Ammo_6x28Spark.xml -->
+	<!-- EN: 6x28mm Royal spark cartridge -->
+	<Ammo_6x28mmSpark.label>6x28mm Royal spark cartridge</Ammo_6x28mmSpark.label>
+	<!-- EN: Specialty ionized royal charged ammo designed by the Empire during its prime. Can be used by zeusrifles. -->
+	<Ammo_6x28mmSpark.description>Specialty ionized royal charged ammo designed by the Empire during its prime. Can be used by zeusrifles.</Ammo_6x28mmSpark.description>
+	<!-- EN: 6x28mm Royal Charged bullet -->
+	<Bullet_6x28mmSpark.label>6x28mm Royal Charged bullet</Bullet_6x28mmSpark.label>
+</LanguageData>

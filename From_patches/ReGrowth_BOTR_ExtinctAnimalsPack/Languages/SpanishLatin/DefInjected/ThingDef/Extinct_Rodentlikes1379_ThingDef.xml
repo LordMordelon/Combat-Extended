@@ -1,0 +1,25 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\ReGrowth_BOTR_ExtinctAnimalsPack\Extinct_Rodentlikes1379.xml -->
+	<!-- EN: left claw -->
+	<RG_SabertoothSquirrel.tools.0.label>left claw</RG_SabertoothSquirrel.tools.0.label>
+	<!-- EN: right claw -->
+	<RG_SabertoothSquirrel.tools.1.label>right claw</RG_SabertoothSquirrel.tools.1.label>
+	<!-- EN: head -->
+	<RG_SabertoothSquirrel.tools.3.label>head</RG_SabertoothSquirrel.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<RG_Thrinaxodon.tools.0.label>left claw</RG_Thrinaxodon.tools.0.label>
+	<!-- EN: right claw -->
+	<RG_Thrinaxodon.tools.1.label>right claw</RG_Thrinaxodon.tools.1.label>
+	<!-- EN: head -->
+	<RG_Thrinaxodon.tools.3.label>head</RG_Thrinaxodon.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<RG_Megalenhydris.tools.0.label>left claw</RG_Megalenhydris.tools.0.label>
+	<!-- EN: right claw -->
+	<RG_Megalenhydris.tools.1.label>right claw</RG_Megalenhydris.tools.1.label>
+	<!-- EN: head -->
+	<RG_Megalenhydris.tools.3.label>head</RG_Megalenhydris.tools.3.label>
+	<!-- EN: tail -->
+	<RG_Megalenhydris.tools.4.label>tail</RG_Megalenhydris.tools.4.label>
+</LanguageData>

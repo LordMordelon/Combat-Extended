@@ -1,0 +1,30 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\CP_RimmuNation_2_Weapons\RM2_Machete_CE1333.xml -->
+	<!-- EN: handle -->
+	<RNMeleeWeapon_Spetsnaz_Machete.tools.0.label>handle</RNMeleeWeapon_Spetsnaz_Machete.tools.0.label>
+	<!-- EN: point -->
+	<RNMeleeWeapon_Spetsnaz_Machete.tools.1.label>point</RNMeleeWeapon_Spetsnaz_Machete.tools.1.label>
+	<!-- EN: edge -->
+	<RNMeleeWeapon_Spetsnaz_Machete.tools.2.label>edge</RNMeleeWeapon_Spetsnaz_Machete.tools.2.label>
+	
+	<!-- EN: handle -->
+	<RNMeleeWeapon_TOPS_Machete.tools.0.label>handle</RNMeleeWeapon_TOPS_Machete.tools.0.label>
+	<!-- EN: point -->
+	<RNMeleeWeapon_TOPS_Machete.tools.1.label>point</RNMeleeWeapon_TOPS_Machete.tools.1.label>
+	<!-- EN: edge -->
+	<RNMeleeWeapon_TOPS_Machete.tools.2.label>edge</RNMeleeWeapon_TOPS_Machete.tools.2.label>
+	
+	<!-- EN: handle -->
+	<RNMeleeWeapon_GerberGator_Machete.tools.0.label>handle</RNMeleeWeapon_GerberGator_Machete.tools.0.label>
+	<!-- EN: point -->
+	<RNMeleeWeapon_GerberGator_Machete.tools.1.label>point</RNMeleeWeapon_GerberGator_Machete.tools.1.label>
+	<!-- EN: edge -->
+	<RNMeleeWeapon_GerberGator_Machete.tools.2.label>edge</RNMeleeWeapon_GerberGator_Machete.tools.2.label>
+	
+	<!-- EN: handle -->
+	<RNMeleeWeapon_Kukri_Machete.tools.0.label>handle</RNMeleeWeapon_Kukri_Machete.tools.0.label>
+	<!-- EN: point -->
+	<RNMeleeWeapon_Kukri_Machete.tools.1.label>point</RNMeleeWeapon_Kukri_Machete.tools.1.label>
+	<!-- EN: edge -->
+	<RNMeleeWeapon_Kukri_Machete.tools.2.label>edge</RNMeleeWeapon_Kukri_Machete.tools.2.label>
+</LanguageData>

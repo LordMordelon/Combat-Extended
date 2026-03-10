@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- ModPatches\Alpha Biomes\Defs\Alpha Biomes\Defs_Ammo.xml -->
+	<!-- EN: 81mm mortar shell (Tar) -->
+	<Bullet_81mmMortarShell_Tar.label>81mm mortar shell (Tar)</Bullet_81mmMortarShell_Tar.label>
+	<!-- EN: poison dart -->
+	<Projectile_Dart_Venom_AB.label>poison dart</Projectile_Dart_Venom_AB.label>
+</LanguageData>

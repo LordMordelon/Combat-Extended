@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- Defs\Ammo\Shell\105x617mmR.xml -->
+	
+	<!-- EN: make 105x617mmR (HEAT) cannon shells x2 -->
+	<MakeAmmo_105x617mmRCannonShell_HEAT.label>make 105x617mmR (HEAT) cannon shells x2</MakeAmmo_105x617mmRCannonShell_HEAT.label>
+	<!-- EN: Craft 2 105x617mmR (HEAT) cannon shells. -->
+	<MakeAmmo_105x617mmRCannonShell_HEAT.description>Craft 2 105x617mmR (HEAT) cannon shells.</MakeAmmo_105x617mmRCannonShell_HEAT.description>
+	<!-- EN: Making 105x617mmR (HEAT) cannon shells. -->
+	<MakeAmmo_105x617mmRCannonShell_HEAT.jobString>Making 105x617mmR (HEAT) cannon shells.</MakeAmmo_105x617mmRCannonShell_HEAT.jobString>
+	
+	<!-- EN: make 105x617mmR (HE) cannon shells x2 -->
+	<MakeAmmo_105x617mmRCannonShell_HE.label>make 105x617mmR (HE) cannon shells x2</MakeAmmo_105x617mmRCannonShell_HE.label>
+	<!-- EN: Craft 2 105x617mmR (HE) cannon shells. -->
+	<MakeAmmo_105x617mmRCannonShell_HE.description>Craft 2 105x617mmR (HE) cannon shells.</MakeAmmo_105x617mmRCannonShell_HE.description>
+	<!-- EN: Making 105x617mmR (HE) cannon shells. -->
+	<MakeAmmo_105x617mmRCannonShell_HE.jobString>Making 105x617mmR (HE) cannon shells.</MakeAmmo_105x617mmRCannonShell_HE.jobString>
+</LanguageData>

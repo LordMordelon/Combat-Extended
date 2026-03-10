@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VanillaAnimalsExpanded\BorealForest_Animals1703.xml -->
+	<!-- EN: left claw -->
+	<AEXP_ArcticCoyote.tools.0.label>left claw</AEXP_ArcticCoyote.tools.0.label>
+	<!-- EN: right claw -->
+	<AEXP_ArcticCoyote.tools.1.label>right claw</AEXP_ArcticCoyote.tools.1.label>
+	<!-- EN: head -->
+	<AEXP_ArcticCoyote.tools.3.label>head</AEXP_ArcticCoyote.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<AEXP_BlackBear.tools.0.label>left claw</AEXP_BlackBear.tools.0.label>
+	<!-- EN: right claw -->
+	<AEXP_BlackBear.tools.1.label>right claw</AEXP_BlackBear.tools.1.label>
+	<!-- EN: head -->
+	<AEXP_BlackBear.tools.3.label>head</AEXP_BlackBear.tools.3.label>
+</LanguageData>

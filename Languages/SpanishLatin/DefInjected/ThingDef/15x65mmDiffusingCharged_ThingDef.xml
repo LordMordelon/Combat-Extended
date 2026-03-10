@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Defs\Ammo\Advanced\15x65mmDiffusingCharged.xml -->
+	<!-- EN: 15x65mm Diffusing Charged -->
+	<Ammo_15x65mmDiffusingCharged.label>15x65mm Diffusing Charged</Ammo_15x65mmDiffusingCharged.label>
+	<!-- EN: Mechanoid-built cartridge designed to split upon firing. -->
+	<Ammo_15x65mmDiffusingCharged.description>Mechanoid-built cartridge designed to split upon firing.</Ammo_15x65mmDiffusingCharged.description>
+	<!-- EN: diffusing charged shot -->
+	<Bullet_15x65mmDiffusingCharged.label>diffusing charged shot</Bullet_15x65mmDiffusingCharged.label>
+</LanguageData>

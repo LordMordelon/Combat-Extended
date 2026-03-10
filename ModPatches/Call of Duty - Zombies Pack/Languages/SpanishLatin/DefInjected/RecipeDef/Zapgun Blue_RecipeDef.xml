@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Zaps\Zapgun Blue.xml -->
+	<!-- EN: make Blue Zapgun cartridge x500 -->
+	<MakeAmmo_Zapgun_blue.label>make Blue Zapgun cartridge x500</MakeAmmo_Zapgun_blue.label>
+	<!-- EN: Craft 500 Blue Zapgun cartridges. -->
+	<MakeAmmo_Zapgun_blue.description>Craft 500 Blue Zapgun cartridges.</MakeAmmo_Zapgun_blue.description>
+	<!-- EN: Making Blue Zapgun cartridges. -->
+	<MakeAmmo_Zapgun_blue.jobString>Making Blue Zapgun cartridges.</MakeAmmo_Zapgun_blue.jobString>
+</LanguageData>

@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\RH2 Helldivers Super Firearms\Defs\RH2 Helldivers Super Firearms\Ammo\RailgunSpike.xml -->
+	<!-- EN: Railgun Spike -->
+	<Ammo_RS422RailgunSpike.label>Railgun Spike</Ammo_RS422RailgunSpike.label>
+	<!-- EN: Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for large-caliber railgun weapons. -->
+	<Ammo_RS422RailgunSpike.description>Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for large-caliber railgun weapons.</Ammo_RS422RailgunSpike.description>
+	<!-- EN: railgun spike -->
+	<Bullet_RS422RailgunSpike.label>railgun spike</Bullet_RS422RailgunSpike.label>
+</LanguageData>

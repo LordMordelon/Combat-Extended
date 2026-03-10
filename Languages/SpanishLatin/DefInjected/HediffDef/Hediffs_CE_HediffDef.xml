@@ -1,0 +1,155 @@
+<LanguageData>
+	<!-- Defs\HediffDefs\Hediffs_CE.xml -->
+	<!-- EN: gas mask -->
+	<WearingGasMask.label>gas mask</WearingGasMask.label>
+	<!-- EN: Wearing a gas mask -->
+	<WearingGasMask.description>Wearing a gas mask</WearingGasMask.description>
+	<!-- EN: wearing -->
+	<WearingGasMask.stages.0.label>wearing</WearingGasMask.stages.0.label>
+	
+	<!-- EN: smoke inhalation -->
+	<SmokeInhalation.label>smoke inhalation</SmokeInhalation.label>
+	<!-- EN: The effects of inhaling toxic black smoke, causing difficulty breathing and systemic toxicity. Resolves itself after a while. -->
+	<SmokeInhalation.description>The effects of inhaling toxic black smoke, causing difficulty breathing and systemic toxicity. Resolves itself after a while.</SmokeInhalation.description>
+	<!-- EN: initial -->
+	<SmokeInhalation.stages.0.label>initial</SmokeInhalation.stages.0.label>
+	<!-- EN: initial -->
+	<SmokeInhalation.stages.1.label>initial</SmokeInhalation.stages.1.label>
+	<!-- EN: minor -->
+	<SmokeInhalation.stages.2.label>minor</SmokeInhalation.stages.2.label>
+	<!-- EN: moderate -->
+	<SmokeInhalation.stages.3.label>moderate</SmokeInhalation.stages.3.label>
+	<!-- EN: serious -->
+	<SmokeInhalation.stages.4.label>serious</SmokeInhalation.stages.4.label>
+	<!-- EN: extreme -->
+	<SmokeInhalation.stages.5.label>extreme</SmokeInhalation.stages.5.label>
+	
+	<!-- EN: venom buildup -->
+	<VenomBuildup.label>venom buildup</VenomBuildup.label>
+	<!-- EN: Venom building up.\n\nBuildup will continue until all venomous wounds are tended. The buildup rate from tended wounds is reduced by the treatment quality and falls further as time passes; it will eventually stop entirely, provided the victim survives that long. -->
+	<VenomBuildup.description>Venom building up.\n\nBuildup will continue until all venomous wounds are tended. The buildup rate from tended wounds is reduced by the treatment quality and falls further as time passes; it will eventually stop entirely, provided the victim survives that long.</VenomBuildup.description>
+	<!-- EN: {0} is poisoned! -->
+	<VenomBuildup.comps.1.message>{0} is poisoned!</VenomBuildup.comps.1.message>
+	<!-- EN: NegativeHealthEvent -->
+	<VenomBuildup.comps.1.messageType>NegativeHealthEvent</VenomBuildup.comps.1.messageType>
+	<!-- EN: initial -->
+	<VenomBuildup.stages.0.label>initial</VenomBuildup.stages.0.label>
+	<!-- EN: initial -->
+	<VenomBuildup.stages.1.label>initial</VenomBuildup.stages.1.label>
+	<!-- EN: minor -->
+	<VenomBuildup.stages.2.label>minor</VenomBuildup.stages.2.label>
+	<!-- EN: moderate -->
+	<VenomBuildup.stages.3.label>moderate</VenomBuildup.stages.3.label>
+	<!-- EN: serious -->
+	<VenomBuildup.stages.4.label>serious</VenomBuildup.stages.4.label>
+	<!-- EN: extreme -->
+	<VenomBuildup.stages.5.label>extreme</VenomBuildup.stages.5.label>
+	
+	<!-- EN: muscle spasms -->
+	<MuscleSpasms.label>muscle spasms</MuscleSpasms.label>
+	<!-- EN: Muscle Spasms -->
+	<MuscleSpasms.description>Muscle Spasms</MuscleSpasms.description>
+	<!-- EN: trivial -->
+	<MuscleSpasms.stages.0.label>trivial</MuscleSpasms.stages.0.label>
+	<!-- EN: minor -->
+	<MuscleSpasms.stages.1.label>minor</MuscleSpasms.stages.1.label>
+	<!-- EN: moderate -->
+	<MuscleSpasms.stages.2.label>moderate</MuscleSpasms.stages.2.label>
+	<!-- EN: severe -->
+	<MuscleSpasms.stages.3.label>severe</MuscleSpasms.stages.3.label>
+	<!-- EN: extreme -->
+	<MuscleSpasms.stages.4.label>extreme</MuscleSpasms.stages.4.label>
+	
+	<!-- EN: Prometheum-soaked -->
+	<PrometheumSoaked.label>Prometheum-soaked</PrometheumSoaked.label>
+	<!-- EN: Soaked in Prometheum -->
+	<PrometheumSoaked.description>Soaked in Prometheum</PrometheumSoaked.description>
+	<!-- EN: minor -->
+	<PrometheumSoaked.stages.0.label>minor</PrometheumSoaked.stages.0.label>
+	<!-- EN: dripping -->
+	<PrometheumSoaked.stages.1.label>dripping</PrometheumSoaked.stages.1.label>
+	<!-- EN: soaked -->
+	<PrometheumSoaked.stages.2.label>soaked</PrometheumSoaked.stages.2.label>
+	<!-- EN: drenched -->
+	<PrometheumSoaked.stages.3.label>drenched</PrometheumSoaked.stages.3.label>
+	
+	<!-- EN: tranquilizer -->
+	<Tranquilizer.label>tranquilizer</Tranquilizer.label>
+	<!-- EN: The effects of a tranquilizer dart -->
+	<Tranquilizer.description>The effects of a tranquilizer dart</Tranquilizer.description>
+	
+	<!-- EN: neuralizer -->
+	<Neuralizer.label>neuralizer</Neuralizer.label>
+	<!-- EN: Stunned by a powerful but nonlethal energy pulse, disrupting the nervous system. -->
+	<Neuralizer.description>Stunned by a powerful but nonlethal energy pulse, disrupting the nervous system.</Neuralizer.description>
+	
+	<!-- EN: neuralizer -->
+	<Neuralizer_weak.label>neuralizer</Neuralizer_weak.label>
+	<!-- EN: Hit by a non-lethal energy pulse, disrupting the nervous system. -->
+	<Neuralizer_weak.description>Hit by a non-lethal energy pulse, disrupting the nervous system.</Neuralizer_weak.description>
+	
+	<!-- EN: blinded by a flash -->
+	<Flashbanged.label>blinded by a flash</Flashbanged.label>
+	<!-- EN: Vision and hearing temporarily compromised due to a bright flash. -->
+	<Flashbanged.description>Vision and hearing temporarily compromised due to a bright flash.</Flashbanged.description>
+	<!-- EN: irritated -->
+	<Flashbanged.stages.0.label>irritated</Flashbanged.stages.0.label>
+	<!-- EN: disoriented -->
+	<Flashbanged.stages.1.label>disoriented</Flashbanged.stages.1.label>
+	<!-- EN: blinded -->
+	<Flashbanged.stages.2.label>blinded</Flashbanged.stages.2.label>
+	
+	<!-- EN: beanbag bruise -->
+	<BruiseBeanbag.label>beanbag bruise</BruiseBeanbag.label>
+	<!-- EN: a beanbag bruise -->
+	<BruiseBeanbag.labelNoun>a beanbag bruise</BruiseBeanbag.labelNoun>
+	
+	<!-- EN: beanbag crack -->
+	<CrackBeanbag.label>beanbag crack</CrackBeanbag.label>
+	<!-- EN: a beanbag crack -->
+	<CrackBeanbag.labelNoun>a beanbag crack</CrackBeanbag.labelNoun>
+	
+	<!-- EN: puncture -->
+	<TaserStab.label>puncture</TaserStab.label>
+	<!-- EN: a puncture wound from taser barbs -->
+	<TaserStab.labelNoun>a puncture wound from taser barbs</TaserStab.labelNoun>
+	
+	<!-- EN: venomous bite -->
+	<VenomousBite.label>venomous bite</VenomousBite.label>
+	<!-- EN: a venomous bite wound -->
+	<VenomousBite.labelNoun>a venomous bite wound</VenomousBite.labelNoun>
+	
+	<!-- EN: venomous scratch -->
+	<VenomousScratch.label>venomous scratch</VenomousScratch.label>
+	<!-- EN: a venomous scratch wound -->
+	<VenomousScratch.labelNoun>a venomous scratch wound</VenomousScratch.labelNoun>
+	
+	<!-- EN: venomous wound -->
+	<VenomousArrow.label>venomous wound</VenomousArrow.label>
+	<!-- EN: a venomous arrow wound -->
+	<VenomousArrow.labelNoun>a venomous arrow wound</VenomousArrow.labelNoun>
+	
+	<!-- EN: electrical burn -->
+	<ElectricalBurn.label>electrical burn</ElectricalBurn.label>
+	
+	<!-- EN: {0} in the {1} -->
+	<Blast.labelNounPretty>{0} in the {1}</Blast.labelNounPretty>
+	<!-- EN: blasted -->
+	<Blast.label>blasted</Blast.label>
+	<!-- EN: Blasted -->
+	<Blast.description>Blasted</Blast.description>
+	<!-- EN: bandaged -->
+	<Blast.comps.0.labelTendedWell>bandaged</Blast.comps.0.labelTendedWell>
+	<!-- EN: sutured -->
+	<Blast.comps.0.labelTendedWellInner>sutured</Blast.comps.0.labelTendedWellInner>
+	<!-- EN: set -->
+	<Blast.comps.0.labelSolidTendedWell>set</Blast.comps.0.labelSolidTendedWell>
+	<!-- EN: old blast injury -->
+	<Blast.comps.2.permanentLabel>old blast injury</Blast.comps.2.permanentLabel>
+	<!-- EN: permanent blast injury -->
+	<Blast.comps.2.instantlyPermanentLabel>permanent blast injury</Blast.comps.2.instantlyPermanentLabel>
+	<!-- EN: Torn off -->
+	<Blast.injuryProps.destroyedLabel>Torn off</Blast.injuryProps.destroyedLabel>
+	<!-- EN: Torn out -->
+	<Blast.injuryProps.destroyedOutLabel>Torn out</Blast.injuryProps.destroyedOutLabel>
+</LanguageData>

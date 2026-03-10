@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- Defs\Ammo\Rocket\50mmRocket.xml -->
+	
+	<!-- EN: 50mm rocket (HE) -->
+	<Ammo_50mmRocket_HE.label>50mm rocket (HE)</Ammo_50mmRocket_HE.label>
+	<!-- EN: An unguided rocket equipped with an explosive warhead and a contact fuse. -->
+	<Ammo_50mmRocket_HE.description>An unguided rocket equipped with an explosive warhead and a contact fuse.</Ammo_50mmRocket_HE.description>
+	
+	<!-- EN: 50mm rocket (HE) -->
+	<Bullet_50mmRocket_HE.label>50mm rocket (HE)</Bullet_50mmRocket_HE.label>
+</LanguageData>

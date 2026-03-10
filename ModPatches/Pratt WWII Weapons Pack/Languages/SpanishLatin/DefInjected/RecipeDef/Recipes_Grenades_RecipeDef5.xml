@@ -1,0 +1,44 @@
+<LanguageData>
+	<!-- ModPatches\Pratt WWII Weapons Pack\Defs\Pratt WWII Weapons Pack\Recipes_Grenades.xml -->
+	<!-- EN: make MkII grenades x10 -->
+	<MakeMkIIGrenadeGNDE.label>make MkII grenades x10</MakeMkIIGrenadeGNDE.label>
+	<!-- EN: Craft 10 MkII grenades. -->
+	<MakeMkIIGrenadeGNDE.description>Craft 10 MkII grenades.</MakeMkIIGrenadeGNDE.description>
+	<!-- EN: Making MkII grenades. -->
+	<MakeMkIIGrenadeGNDE.jobString>Making MkII grenades.</MakeMkIIGrenadeGNDE.jobString>
+	
+	<!-- EN: make Stielhandgranate 24 grenades x10 -->
+	<MakeStielhandgranate24gnde.label>make Stielhandgranate 24 grenades x10</MakeStielhandgranate24gnde.label>
+	<!-- EN: Craft 10 Stielhandgranate 24 grenades. -->
+	<MakeStielhandgranate24gnde.description>Craft 10 Stielhandgranate 24 grenades.</MakeStielhandgranate24gnde.description>
+	<!-- EN: Making Stielhandgranate 24 grenades. -->
+	<MakeStielhandgranate24gnde.jobString>Making Stielhandgranate 24 grenades.</MakeStielhandgranate24gnde.jobString>
+	
+	<!-- EN: make Type 97 grenades x10 -->
+	<MakeType97GNDE.label>make Type 97 grenades x10</MakeType97GNDE.label>
+	<!-- EN: Craft 10 Type 97 grenades. -->
+	<MakeType97GNDE.description>Craft 10 Type 97 grenades.</MakeType97GNDE.description>
+	<!-- EN: Making Type 97 grenades. -->
+	<MakeType97GNDE.jobString>Making Type 97 grenades.</MakeType97GNDE.jobString>
+	
+	<!-- EN: make RGD-33 grenades x10 -->
+	<MakeRGD-33GNDE.label>make RGD-33 grenades x10</MakeRGD-33GNDE.label>
+	<!-- EN: Craft 10 RGD-33 grenades. -->
+	<MakeRGD-33GNDE.description>Craft 10 RGD-33 grenades.</MakeRGD-33GNDE.description>
+	<!-- EN: Making RGD-33 grenades. -->
+	<MakeRGD-33GNDE.jobString>Making RGD-33 grenades.</MakeRGD-33GNDE.jobString>
+	
+	<!-- EN: make F1 grenades x10 -->
+	<MakeF1GrenadeGNDE.label>make F1 grenades x10</MakeF1GrenadeGNDE.label>
+	<!-- EN: Craft 10 F1 grenades. -->
+	<MakeF1GrenadeGNDE.description>Craft 10 F1 grenades.</MakeF1GrenadeGNDE.description>
+	<!-- EN: Making F1 grenades. -->
+	<MakeF1GrenadeGNDE.jobString>Making F1 grenades.</MakeF1GrenadeGNDE.jobString>
+	
+	<!-- EN: make Mills grenades x10 -->
+	<MakeMillsGrenadeGNDE.label>make Mills grenades x10</MakeMillsGrenadeGNDE.label>
+	<!-- EN: Craft 10 Mills grenades. -->
+	<MakeMillsGrenadeGNDE.description>Craft 10 Mills grenades.</MakeMillsGrenadeGNDE.description>
+	<!-- EN: Making Mills grenades. -->
+	<MakeMillsGrenadeGNDE.jobString>Making Mills grenades.</MakeMillsGrenadeGNDE.jobString>
+</LanguageData>

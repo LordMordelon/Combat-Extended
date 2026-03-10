@@ -1,0 +1,12 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Moo_kemomimihouse_Kz\HediffGiverSets947.xml -->
+	<!-- EN: 蛰伏 -->
+	<siroTalent.stages.0.label>蛰伏</siroTalent.stages.0.label>
+	<!-- EN: 激活 -->
+	<siroTalent.stages.1.label>激活</siroTalent.stages.1.label>
+	
+	<!-- EN: 蛰伏 -->
+	<kuroTalent.stages.0.label>蛰伏</kuroTalent.stages.0.label>
+	<!-- EN: 激活 -->
+	<kuroTalent.stages.1.label>激活</kuroTalent.stages.1.label>
+</LanguageData>

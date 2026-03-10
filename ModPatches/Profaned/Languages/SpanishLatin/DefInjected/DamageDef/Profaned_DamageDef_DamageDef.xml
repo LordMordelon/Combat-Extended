@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- ModPatches\Profaned\Defs\Profaned\Profaned_DamageDef.xml -->
+	<!-- EN: rot stab -->
+	<BotchJob_CE_RotStabDamage.label>rot stab</BotchJob_CE_RotStabDamage.label>
+	<!-- EN: {0} has been cut to death. -->
+	<BotchJob_CE_RotStabDamage.deathMessage>{0} has been cut to death.</BotchJob_CE_RotStabDamage.deathMessage>
+</LanguageData>

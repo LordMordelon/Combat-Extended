@@ -1,0 +1,37 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VGeneticsE\Races_Animal_HumanoidHybrids1832.xml -->
+	<!-- EN: left fist -->
+	<GR_Manbear.tools.0.label>left fist</GR_Manbear.tools.0.label>
+	<!-- EN: right fist -->
+	<GR_Manbear.tools.1.label>right fist</GR_Manbear.tools.1.label>
+	<!-- EN: head -->
+	<GR_Manbear.tools.3.label>head</GR_Manbear.tools.3.label>
+	
+	<!-- EN: claws -->
+	<GR_Manchicken.tools.0.label>claws</GR_Manchicken.tools.0.label>
+	<!-- EN: head -->
+	<GR_Manchicken.tools.2.label>head</GR_Manchicken.tools.2.label>
+	
+	<!-- EN: head -->
+	<GR_Manffalo.tools.1.label>head</GR_Manffalo.tools.1.label>
+	
+	<!-- EN: head -->
+	<GR_Manalope.tools.1.label>head</GR_Manalope.tools.1.label>
+	
+	<!-- EN: left claw -->
+	<GR_Manwolf.tools.0.label>left claw</GR_Manwolf.tools.0.label>
+	<!-- EN: right claw -->
+	<GR_Manwolf.tools.1.label>right claw</GR_Manwolf.tools.1.label>
+	<!-- EN: head -->
+	<GR_Manwolf.tools.3.label>head</GR_Manwolf.tools.3.label>
+	
+	<!-- EN: head -->
+	<GR_Mancat.tools.1.label>head</GR_Mancat.tools.1.label>
+	
+	<!-- EN: left claw -->
+	<GR_Mansquirrel.tools.0.label>left claw</GR_Mansquirrel.tools.0.label>
+	<!-- EN: right claw -->
+	<GR_Mansquirrel.tools.1.label>right claw</GR_Mansquirrel.tools.1.label>
+	<!-- EN: head -->
+	<GR_Mansquirrel.tools.3.label>head</GR_Mansquirrel.tools.3.label>
+</LanguageData>

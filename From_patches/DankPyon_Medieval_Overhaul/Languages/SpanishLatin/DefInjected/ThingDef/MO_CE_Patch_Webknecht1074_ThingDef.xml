@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\DankPyon_Medieval_Overhaul\MO_CE_Patch_Webknecht1074.xml -->
+	<!-- EN: left first leg -->
+	<DankPyon_Webknecht.tools.0.label>left first leg</DankPyon_Webknecht.tools.0.label>
+	<!-- EN: right first leg -->
+	<DankPyon_Webknecht.tools.1.label>right first leg</DankPyon_Webknecht.tools.1.label>
+	<!-- EN: head -->
+	<DankPyon_Webknecht.tools.3.label>head</DankPyon_Webknecht.tools.3.label>
+	<!-- EN: web -->
+	<DankPyon_Webknecht.verbs.0.label>web</DankPyon_Webknecht.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<DankPyon_Webknecht.verbs.CombatExtended.Verb_ShootCE.label>ㅤ</DankPyon_Webknecht.verbs.CombatExtended.Verb_ShootCE.label>
+</LanguageData>

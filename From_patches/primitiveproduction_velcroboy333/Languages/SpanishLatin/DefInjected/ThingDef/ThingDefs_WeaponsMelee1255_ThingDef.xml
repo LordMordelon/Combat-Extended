@@ -1,0 +1,67 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\primitiveproduction_velcroboy333\ThingDefs_WeaponsMelee1255.xml -->
+	<!-- EN: handle -->
+	<VBY_FlintKnife.tools.0.label>handle</VBY_FlintKnife.tools.0.label>
+	<!-- EN: point -->
+	<VBY_FlintKnife.tools.1.label>point</VBY_FlintKnife.tools.1.label>
+	<!-- EN: blade -->
+	<VBY_FlintKnife.tools.2.label>blade</VBY_FlintKnife.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<VBY_FlintSpear.tools.0.label>shaft</VBY_FlintSpear.tools.0.label>
+	<!-- EN: shaft -->
+	<VBY_FlintSpear.tools.1.label>shaft</VBY_FlintSpear.tools.1.label>
+	<!-- EN: head -->
+	<VBY_FlintSpear.tools.2.label>head</VBY_FlintSpear.tools.2.label>
+	
+	<!-- EN: handle -->
+	<VBY_SharpStick.tools.0.label>handle</VBY_SharpStick.tools.0.label>
+	<!-- EN: point -->
+	<VBY_SharpStick.tools.1.label>point</VBY_SharpStick.tools.1.label>
+	
+	<!-- EN: shaft -->
+	<VBY_BambooFlintSpear.tools.0.label>shaft</VBY_BambooFlintSpear.tools.0.label>
+	<!-- EN: Shaft -->
+	<VBY_BambooFlintSpear.tools.1.label>Shaft</VBY_BambooFlintSpear.tools.1.label>
+	<!-- EN: head -->
+	<VBY_BambooFlintSpear.tools.2.label>head</VBY_BambooFlintSpear.tools.2.label>
+	
+	<!-- EN: handle -->
+	<VBY_FangClub.tools.0.label>handle</VBY_FangClub.tools.0.label>
+	<!-- EN: head -->
+	<VBY_FangClub.tools.1.label>head</VBY_FangClub.tools.1.label>
+	<!-- EN: teeth -->
+	<VBY_FangClub.tools.2.label>teeth</VBY_FangClub.tools.2.label>
+	
+	<!-- EN: handle -->
+	<VBY_ToothAxe.tools.0.label>handle</VBY_ToothAxe.tools.0.label>
+	<!-- EN: serrated edge -->
+	<VBY_ToothAxe.tools.1.label>serrated edge</VBY_ToothAxe.tools.1.label>
+	
+	<!-- EN: handle -->
+	<VBY_ToothClub.tools.0.label>handle</VBY_ToothClub.tools.0.label>
+	<!-- EN: tooth -->
+	<VBY_ToothClub.tools.1.label>tooth</VBY_ToothClub.tools.1.label>
+	
+	<!-- EN: handle -->
+	<VBY_ThrumboChopper.tools.0.label>handle</VBY_ThrumboChopper.tools.0.label>
+	<!-- EN: great horn -->
+	<VBY_ThrumboChopper.tools.1.label>great horn</VBY_ThrumboChopper.tools.1.label>
+	
+	<!-- EN: shaft -->
+	<VBY_BambooBoneSpear.tools.0.label>shaft</VBY_BambooBoneSpear.tools.0.label>
+	<!-- EN: shaft -->
+	<VBY_BambooBoneSpear.tools.1.label>shaft</VBY_BambooBoneSpear.tools.1.label>
+	<!-- EN: head -->
+	<VBY_BambooBoneSpear.tools.2.label>head</VBY_BambooBoneSpear.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<VBY_BoneSpear.tools.0.label>shaft</VBY_BoneSpear.tools.0.label>
+	<!-- EN: shaft -->
+	<VBY_BoneSpear.tools.1.label>shaft</VBY_BoneSpear.tools.1.label>
+	<!-- EN: head -->
+	<VBY_BoneSpear.tools.2.label>head</VBY_BoneSpear.tools.2.label>
+	
+	<!-- EN: head -->
+	<VBY_Sugliin.tools.0.label>head</VBY_Sugliin.tools.0.label>
+</LanguageData>

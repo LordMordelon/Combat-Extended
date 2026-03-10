@@ -1,0 +1,23 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Monti_HalfDragons\Patch_Weapons883.xml -->
+	<!-- EN: shaft -->
+	<HD_doublelance.tools.0.label>shaft</HD_doublelance.tools.0.label>
+	<!-- EN: head -->
+	<HD_doublelance.tools.1.label>head</HD_doublelance.tools.1.label>
+	<!-- EN: head -->
+	<HD_doublelance.tools.2.label>head</HD_doublelance.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<HD_piercerlance.tools.0.label>shaft</HD_piercerlance.tools.0.label>
+	<!-- EN: head -->
+	<HD_piercerlance.tools.1.label>head</HD_piercerlance.tools.1.label>
+	<!-- EN: head -->
+	<HD_piercerlance.tools.2.label>head</HD_piercerlance.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<HD_averagelance.tools.0.label>shaft</HD_averagelance.tools.0.label>
+	<!-- EN: head -->
+	<HD_averagelance.tools.1.label>head</HD_averagelance.tools.1.label>
+	<!-- EN: head -->
+	<HD_averagelance.tools.2.label>head</HD_averagelance.tools.2.label>
+</LanguageData>

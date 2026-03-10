@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Defs\Ammo\Advanced\80x256mmFuelCell.xml -->
+	<!-- EN: 80x256mm fuel cell (Incendiary) -->
+	<Ammo_80x256mmFuel_Incendiary.label>80x256mm fuel cell (Incendiary)</Ammo_80x256mmFuel_Incendiary.label>
+	<!-- EN: Large fuel container for incendiary shot cannons. -->
+	<Ammo_80x256mmFuel_Incendiary.description>Large fuel container for incendiary shot cannons.</Ammo_80x256mmFuel_Incendiary.description>
+	<!-- EN: 80x256mm fuel shell (Incendiary) -->
+	<Bullet_80x256mmFuel_Incendiary.label>80x256mm fuel shell (Incendiary)</Bullet_80x256mmFuel_Incendiary.label>
+</LanguageData>

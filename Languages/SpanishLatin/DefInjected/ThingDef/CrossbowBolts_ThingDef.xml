@@ -1,0 +1,43 @@
+<LanguageData>
+	<!-- Defs\Ammo\Medieval\CrossbowBolts.xml -->
+	
+	<!-- EN: crossbow bolt (stone) -->
+	<Ammo_CrossbowBolt_Stone.label>crossbow bolt (stone)</Ammo_CrossbowBolt_Stone.label>
+	<!-- EN: A crossbow bolt. -->
+	<Ammo_CrossbowBolt_Stone.description>A crossbow bolt.</Ammo_CrossbowBolt_Stone.description>
+	
+	<!-- EN: crossbow bolt (steel) -->
+	<Ammo_CrossbowBolt_Steel.label>crossbow bolt (steel)</Ammo_CrossbowBolt_Steel.label>
+	<!-- EN: A crossbow bolt. -->
+	<Ammo_CrossbowBolt_Steel.description>A crossbow bolt.</Ammo_CrossbowBolt_Steel.description>
+	
+	<!-- EN: crossbow bolt (plasteel) -->
+	<Ammo_CrossbowBolt_Plasteel.label>crossbow bolt (plasteel)</Ammo_CrossbowBolt_Plasteel.label>
+	<!-- EN: A crossbow bolt. -->
+	<Ammo_CrossbowBolt_Plasteel.description>A crossbow bolt.</Ammo_CrossbowBolt_Plasteel.description>
+	
+	<!-- EN: crossbow bolt (venom) -->
+	<Ammo_CrossbowBolt_Venom.label>crossbow bolt (venom)</Ammo_CrossbowBolt_Venom.label>
+	<!-- EN: A crossbow bolt. -->
+	<Ammo_CrossbowBolt_Venom.description>A crossbow bolt.</Ammo_CrossbowBolt_Venom.description>
+	
+	<!-- EN: crossbow bolt (flame) -->
+	<Ammo_CrossbowBolt_Flame.label>crossbow bolt (flame)</Ammo_CrossbowBolt_Flame.label>
+	<!-- EN: A crossbow bolt. -->
+	<Ammo_CrossbowBolt_Flame.description>A crossbow bolt.</Ammo_CrossbowBolt_Flame.description>
+	
+	<!-- EN: crossbow bolt (stone) -->
+	<Projectile_CrossbowBolt_Stone.label>crossbow bolt (stone)</Projectile_CrossbowBolt_Stone.label>
+	
+	<!-- EN: crossbow bolt (steel) -->
+	<Projectile_CrossbowBolt_Steel.label>crossbow bolt (steel)</Projectile_CrossbowBolt_Steel.label>
+	
+	<!-- EN: crossbow bolt (plasteel) -->
+	<Projectile_CrossbowBolt_Plasteel.label>crossbow bolt (plasteel)</Projectile_CrossbowBolt_Plasteel.label>
+	
+	<!-- EN: crossbow bolt (venom) -->
+	<Projectile_CrossbowBolt_Venom.label>crossbow bolt (venom)</Projectile_CrossbowBolt_Venom.label>
+	
+	<!-- EN: crossbow bolt (flame) -->
+	<Projectile_CrossbowBolt_Flame.label>crossbow bolt (flame)</Projectile_CrossbowBolt_Flame.label>
+</LanguageData>

@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla Weapons Expanded\Defs\Vanilla Weapons Expanded\DamageDefs\Damage_RangedCut.xml -->
+	<!-- EN: cut -->
+	<VWE_RangedCut.label>cut</VWE_RangedCut.label>
+	<!-- EN: {0} has been cut to death. -->
+	<VWE_RangedCut.deathMessage>{0} has been cut to death.</VWE_RangedCut.deathMessage>
+</LanguageData>

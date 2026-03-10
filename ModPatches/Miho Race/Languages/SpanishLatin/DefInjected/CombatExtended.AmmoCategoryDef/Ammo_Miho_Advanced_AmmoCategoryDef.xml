@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Miho Race\Defs\Miho Race\Ammo\Ammo_Miho_Advanced.xml -->
+	<!-- EN: Mechanite (Miholic) -->
+	<MechaniteMiho.label>Mechanite (Miholic)</MechaniteMiho.label>
+	<!-- EN: MEC-M -->
+	<MechaniteMiho.labelShort>MEC-M</MechaniteMiho.labelShort>
+	<!-- EN: Mechanite enhanced munitions that are psychically charged. Capable of exotic or distruptive effects to a range of targets. -->
+	<MechaniteMiho.description>Mechanite enhanced munitions that are psychically charged. Capable of exotic or distruptive effects to a range of targets.</MechaniteMiho.description>
+</LanguageData>

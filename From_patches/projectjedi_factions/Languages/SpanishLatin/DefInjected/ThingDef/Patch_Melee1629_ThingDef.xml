@@ -1,0 +1,51 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\projectjedi_factions\Patch_Melee1629.xml -->
+	<!-- EN: handle -->
+	<PJ_Vibrosword.tools.0.label>handle</PJ_Vibrosword.tools.0.label>
+	<!-- EN: point -->
+	<PJ_Vibrosword.tools.1.label>point</PJ_Vibrosword.tools.1.label>
+	<!-- EN: edge -->
+	<PJ_Vibrosword.tools.2.label>edge</PJ_Vibrosword.tools.2.label>
+	
+	<!-- EN: handle -->
+	<PJ_Vibroaxe.tools.0.label>handle</PJ_Vibroaxe.tools.0.label>
+	<!-- EN: point -->
+	<PJ_Vibroaxe.tools.1.label>point</PJ_Vibroaxe.tools.1.label>
+	<!-- EN: edge -->
+	<PJ_Vibroaxe.tools.2.label>edge</PJ_Vibroaxe.tools.2.label>
+	
+	<!-- EN: handle -->
+	<PJ_TStaff.tools.0.label>handle</PJ_TStaff.tools.0.label>
+	<!-- EN: point -->
+	<PJ_TStaff.tools.1.label>point</PJ_TStaff.tools.1.label>
+	<!-- EN: edge -->
+	<PJ_TStaff.tools.2.label>edge</PJ_TStaff.tools.2.label>
+	
+	<!-- EN: handle -->
+	<PJ_StaffX.tools.0.label>handle</PJ_StaffX.tools.0.label>
+	<!-- EN: point -->
+	<PJ_StaffX.tools.1.label>point</PJ_StaffX.tools.1.label>
+	<!-- EN: edge -->
+	<PJ_StaffX.tools.2.label>edge</PJ_StaffX.tools.2.label>
+	
+	<!-- EN: handle -->
+	<PJ_Vibrodouble.tools.0.label>handle</PJ_Vibrodouble.tools.0.label>
+	<!-- EN: second edge -->
+	<PJ_Vibrodouble.tools.1.label>second edge</PJ_Vibrodouble.tools.1.label>
+	<!-- EN: edge -->
+	<PJ_Vibrodouble.tools.2.label>edge</PJ_Vibrodouble.tools.2.label>
+	
+	<!-- EN: handle -->
+	<PJ_VScythe.tools.0.label>handle</PJ_VScythe.tools.0.label>
+	<!-- EN: point -->
+	<PJ_VScythe.tools.1.label>point</PJ_VScythe.tools.1.label>
+	<!-- EN: edge -->
+	<PJ_VScythe.tools.2.label>edge</PJ_VScythe.tools.2.label>
+	
+	<!-- EN: handle -->
+	<PJ_Vibrocleaver.tools.0.label>handle</PJ_Vibrocleaver.tools.0.label>
+	<!-- EN: point -->
+	<PJ_Vibrocleaver.tools.1.label>point</PJ_Vibrocleaver.tools.1.label>
+	<!-- EN: edge -->
+	<PJ_Vibrocleaver.tools.2.label>edge</PJ_Vibrocleaver.tools.2.label>
+</LanguageData>

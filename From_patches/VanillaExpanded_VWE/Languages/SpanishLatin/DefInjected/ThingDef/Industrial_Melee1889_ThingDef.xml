@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VWE\Industrial_Melee1889.xml -->
+	<!-- EN: handle -->
+	<VWE_MeleeWeapon_Baton.tools.0.label>handle</VWE_MeleeWeapon_Baton.tools.0.label>
+	<!-- EN: head -->
+	<VWE_MeleeWeapon_Baton.tools.1.label>head</VWE_MeleeWeapon_Baton.tools.1.label>
+	
+	<!-- EN: handle -->
+	<VWE_MeleeWeapon_CombatKnife.tools.0.label>handle</VWE_MeleeWeapon_CombatKnife.tools.0.label>
+	<!-- EN: blade -->
+	<VWE_MeleeWeapon_CombatKnife.tools.1.label>blade</VWE_MeleeWeapon_CombatKnife.tools.1.label>
+	<!-- EN: point -->
+	<VWE_MeleeWeapon_CombatKnife.tools.2.label>point</VWE_MeleeWeapon_CombatKnife.tools.2.label>
+	
+	<!-- EN: handle -->
+	<VWE_MeleeWeapon_Shovel.tools.0.label>handle</VWE_MeleeWeapon_Shovel.tools.0.label>
+	<!-- EN: head -->
+	<VWE_MeleeWeapon_Shovel.tools.1.label>head</VWE_MeleeWeapon_Shovel.tools.1.label>
+</LanguageData>

@@ -1,0 +1,10 @@
+<LanguageData>
+	<!-- Defs\Ammo\Rocket\50mmRocket.xml -->
+	
+	<!-- EN: make 50mm (HE) rockets x10 -->
+	<MakeAmmo_50mmRocket_HE.label>make 50mm (HE) rockets x10</MakeAmmo_50mmRocket_HE.label>
+	<!-- EN: Craft 10 50mm (HE) rockets. -->
+	<MakeAmmo_50mmRocket_HE.description>Craft 10 50mm (HE) rockets.</MakeAmmo_50mmRocket_HE.description>
+	<!-- EN: Making 50mm (HE) rockets. -->
+	<MakeAmmo_50mmRocket_HE.jobString>Making 50mm (HE) rockets.</MakeAmmo_50mmRocket_HE.jobString>
+</LanguageData>

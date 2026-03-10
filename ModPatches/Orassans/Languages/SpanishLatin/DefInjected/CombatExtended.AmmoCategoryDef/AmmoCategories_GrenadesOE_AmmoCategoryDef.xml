@@ -1,0 +1,14 @@
+<LanguageData>
+	<!-- ModPatches\Orassans\Defs\Orassans\Ammo\AmmoCategories_GrenadesOE.xml -->
+	<!-- EN: High-explosive anti-tank -->
+	<GrenadeHEAT.label>High-explosive anti-tank</GrenadeHEAT.label>
+	<!-- EN: HEAT -->
+	<GrenadeHEAT.labelShort>HEAT</GrenadeHEAT.labelShort>
+	<!-- EN: Grenade with a shaped charge warhead. Detonates on impact, creating a stream of metal that punches through enemy armor. -->
+	<GrenadeHEAT.description>Grenade with a shaped charge warhead. Detonates on impact, creating a stream of metal that punches through enemy armor.</GrenadeHEAT.description>
+	
+	<!-- EN: Thermobaric -->
+	<GrenadeThermobaric.label>Thermobaric</GrenadeThermobaric.label>
+	<!-- EN: Disperses and subsequently ignites a fuel-air explosive mix, creating a powerful explosion and potentially igniting flammable objects. -->
+	<GrenadeThermobaric.description>Disperses and subsequently ignites a fuel-air explosive mix, creating a powerful explosion and potentially igniting flammable objects.</GrenadeThermobaric.description>
+</LanguageData>

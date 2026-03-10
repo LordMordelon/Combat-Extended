@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\botchjob_profaned\Profaned_Race_UndeadWarg1268.xml -->
+	<!-- EN: left claw -->
+	<BotchJob_UndeadWarg.tools.0.label>left claw</BotchJob_UndeadWarg.tools.0.label>
+	<!-- EN: right claw -->
+	<BotchJob_UndeadWarg.tools.1.label>right claw</BotchJob_UndeadWarg.tools.1.label>
+	<!-- EN: razorfangs -->
+	<BotchJob_UndeadWarg.tools.2.label>razorfangs</BotchJob_UndeadWarg.tools.2.label>
+	<!-- EN: head -->
+	<BotchJob_UndeadWarg.tools.3.label>head</BotchJob_UndeadWarg.tools.3.label>
+</LanguageData>

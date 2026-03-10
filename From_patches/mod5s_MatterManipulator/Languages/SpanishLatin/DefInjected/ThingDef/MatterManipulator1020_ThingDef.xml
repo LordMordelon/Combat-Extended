@@ -1,0 +1,22 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\mod5s_MatterManipulator\MatterManipulator1020.xml -->
+	<!-- EN: grip -->
+	<Matter_Manipulator_Archotech.tools.0.label>grip</Matter_Manipulator_Archotech.tools.0.label>
+	<!-- EN: muzzle -->
+	<Matter_Manipulator_Archotech.tools.1.label>muzzle</Matter_Manipulator_Archotech.tools.1.label>
+	
+	<!-- EN: grip -->
+	<Matter_Manipulator_Standard.tools.0.label>grip</Matter_Manipulator_Standard.tools.0.label>
+	<!-- EN: muzzle -->
+	<Matter_Manipulator_Standard.tools.1.label>muzzle</Matter_Manipulator_Standard.tools.1.label>
+	
+	<!-- EN: grip -->
+	<Matter_Manipulator_Ultra.tools.0.label>grip</Matter_Manipulator_Ultra.tools.0.label>
+	<!-- EN: muzzle -->
+	<Matter_Manipulator_Ultra.tools.1.label>muzzle</Matter_Manipulator_Ultra.tools.1.label>
+	
+	<!-- EN: grip -->
+	<Matter_Manipulator_Prototype.tools.0.label>grip</Matter_Manipulator_Prototype.tools.0.label>
+	<!-- EN: muzzle -->
+	<Matter_Manipulator_Prototype.tools.1.label>muzzle</Matter_Manipulator_Prototype.tools.1.label>
+</LanguageData>

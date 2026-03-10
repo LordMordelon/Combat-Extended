@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Odyssey\Defs\WeaponTraitDefs.xml -->
+	<!-- EN: flamethrower -->
+	<CE_FlamethrowerTrait.label>flamethrower</CE_FlamethrowerTrait.label>
+	<!-- EN: This weapon has a flamethrower unit. The burner generates a blast of flame from a pressurized fuel tank. -->
+	<CE_FlamethrowerTrait.description>This weapon has a flamethrower unit. The burner generates a blast of flame from a pressurized fuel tank.</CE_FlamethrowerTrait.description>
+	<!-- EN: switch to flamethrower -->
+	<CE_FlamethrowerTrait.underBarrelProps.underBarrelLabel>switch to flamethrower</CE_FlamethrowerTrait.underBarrelProps.underBarrelLabel>
+</LanguageData>

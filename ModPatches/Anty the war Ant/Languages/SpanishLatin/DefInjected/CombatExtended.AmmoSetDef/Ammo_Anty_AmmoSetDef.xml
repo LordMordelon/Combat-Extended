@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- ModPatches\Anty the war Ant\Defs\Anty the war Ant\Ammo_Anty.xml -->
+	<!-- EN: Acid Shot -->
+	<AmmoSet_AntyAcidRifle.label>Acid Shot</AmmoSet_AntyAcidRifle.label>
+	<!-- EN: Acid Launcher -->
+	<AmmoSet_AntyAcidLauncher.label>Acid Launcher</AmmoSet_AntyAcidLauncher.label>
+	<!-- EN: Glue Launcher -->
+	<AmmoSet_AntyGlueLauncher.label>Glue Launcher</AmmoSet_AntyGlueLauncher.label>
+	<!-- EN: Acid Bolt -->
+	<AmmoSet_AntyAcidCrossbow.label>Acid Bolt</AmmoSet_AntyAcidCrossbow.label>
+	<!-- EN: Acid Launcher -->
+	<AmmoSet_AntyRedAcidLauncher.label>Acid Launcher</AmmoSet_AntyRedAcidLauncher.label>
+	<!-- EN: Acid Line Blaster -->
+	<AmmoSet_AntyRedAcidLine.label>Acid Line Blaster</AmmoSet_AntyRedAcidLine.label>
+	<!-- EN: Acid Launcher -->
+	<AmmoSet_AntyRedAcidCluster.label>Acid Launcher</AmmoSet_AntyRedAcidCluster.label>
+	<!-- EN: Acid Shot -->
+	<AmmoSet_AntyAcidGlue.label>Acid Shot</AmmoSet_AntyAcidGlue.label>
+</LanguageData>

@@ -1,0 +1,79 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VanillaAnimalsExpanded\CatsAndDogs_Dogs1705.xml -->
+	<!-- EN: left claw -->
+	<AEXP_Beagle.tools.0.label>left claw</AEXP_Beagle.tools.0.label>
+	<!-- EN: right claw -->
+	<AEXP_Beagle.tools.1.label>right claw</AEXP_Beagle.tools.1.label>
+	<!-- EN: head -->
+	<AEXP_Beagle.tools.3.label>head</AEXP_Beagle.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<AEXP_Chihuahua.tools.0.label>left claw</AEXP_Chihuahua.tools.0.label>
+	<!-- EN: right claw -->
+	<AEXP_Chihuahua.tools.1.label>right claw</AEXP_Chihuahua.tools.1.label>
+	<!-- EN: head -->
+	<AEXP_Chihuahua.tools.3.label>head</AEXP_Chihuahua.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<AEXP_Corgi.tools.0.label>left claw</AEXP_Corgi.tools.0.label>
+	<!-- EN: right claw -->
+	<AEXP_Corgi.tools.1.label>right claw</AEXP_Corgi.tools.1.label>
+	<!-- EN: head -->
+	<AEXP_Corgi.tools.3.label>head</AEXP_Corgi.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<AEXP_FrenchBulldog.tools.0.label>left claw</AEXP_FrenchBulldog.tools.0.label>
+	<!-- EN: right claw -->
+	<AEXP_FrenchBulldog.tools.1.label>right claw</AEXP_FrenchBulldog.tools.1.label>
+	<!-- EN: head -->
+	<AEXP_FrenchBulldog.tools.3.label>head</AEXP_FrenchBulldog.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<AEXP_Pug.tools.0.label>left claw</AEXP_Pug.tools.0.label>
+	<!-- EN: right claw -->
+	<AEXP_Pug.tools.1.label>right claw</AEXP_Pug.tools.1.label>
+	<!-- EN: head -->
+	<AEXP_Pug.tools.3.label>head</AEXP_Pug.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<AEXP_Shih-Tzu.tools.0.label>left claw</AEXP_Shih-Tzu.tools.0.label>
+	<!-- EN: right claw -->
+	<AEXP_Shih-Tzu.tools.1.label>right claw</AEXP_Shih-Tzu.tools.1.label>
+	<!-- EN: head -->
+	<AEXP_Shih-Tzu.tools.3.label>head</AEXP_Shih-Tzu.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<AEXP_WelshTerrier.tools.0.label>left claw</AEXP_WelshTerrier.tools.0.label>
+	<!-- EN: right claw -->
+	<AEXP_WelshTerrier.tools.1.label>right claw</AEXP_WelshTerrier.tools.1.label>
+	<!-- EN: head -->
+	<AEXP_WelshTerrier.tools.3.label>head</AEXP_WelshTerrier.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<AEXP_GreatDane.tools.0.label>left claw</AEXP_GreatDane.tools.0.label>
+	<!-- EN: right claw -->
+	<AEXP_GreatDane.tools.1.label>right claw</AEXP_GreatDane.tools.1.label>
+	<!-- EN: head -->
+	<AEXP_GreatDane.tools.3.label>head</AEXP_GreatDane.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<AEXP_Poodle.tools.0.label>left claw</AEXP_Poodle.tools.0.label>
+	<!-- EN: right claw -->
+	<AEXP_Poodle.tools.1.label>right claw</AEXP_Poodle.tools.1.label>
+	<!-- EN: head -->
+	<AEXP_Poodle.tools.3.label>head</AEXP_Poodle.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<AEXP_Rottweiler.tools.0.label>left claw</AEXP_Rottweiler.tools.0.label>
+	<!-- EN: right claw -->
+	<AEXP_Rottweiler.tools.1.label>right claw</AEXP_Rottweiler.tools.1.label>
+	<!-- EN: head -->
+	<AEXP_Rottweiler.tools.3.label>head</AEXP_Rottweiler.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<AEXP_GermanShepherd.tools.0.label>left claw</AEXP_GermanShepherd.tools.0.label>
+	<!-- EN: right claw -->
+	<AEXP_GermanShepherd.tools.1.label>right claw</AEXP_GermanShepherd.tools.1.label>
+	<!-- EN: head -->
+	<AEXP_GermanShepherd.tools.3.label>head</AEXP_GermanShepherd.tools.3.label>
+</LanguageData>

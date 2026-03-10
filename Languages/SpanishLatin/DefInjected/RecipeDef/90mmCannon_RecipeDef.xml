@@ -1,0 +1,45 @@
+<LanguageData>
+	<!-- Defs\Ammo\Shell\90mmCannon.xml -->
+	
+	<!-- EN: make 90mm (HEAT) cannon shells x5 -->
+	<MakeAmmo_90mmCannonShell_HEAT.label>make 90mm (HEAT) cannon shells x5</MakeAmmo_90mmCannonShell_HEAT.label>
+	<!-- EN: Craft 5 90mm (HEAT) cannon shells. -->
+	<MakeAmmo_90mmCannonShell_HEAT.description>Craft 5 90mm (HEAT) cannon shells.</MakeAmmo_90mmCannonShell_HEAT.description>
+	<!-- EN: Making 90mm (HEAT) cannon shells. -->
+	<MakeAmmo_90mmCannonShell_HEAT.jobString>Making 90mm (HEAT) cannon shells.</MakeAmmo_90mmCannonShell_HEAT.jobString>
+	
+	<!-- EN: make 90mm (AP) cannon shells x5 -->
+	<MakeAmmo_90mmCannonShell_AP.label>make 90mm (AP) cannon shells x5</MakeAmmo_90mmCannonShell_AP.label>
+	<!-- EN: Craft 5 90mm (AP) cannon shells. -->
+	<MakeAmmo_90mmCannonShell_AP.description>Craft 5 90mm (AP) cannon shells.</MakeAmmo_90mmCannonShell_AP.description>
+	<!-- EN: Making 90mm (AP) cannon shells. -->
+	<MakeAmmo_90mmCannonShell_AP.jobString>Making 90mm (AP) cannon shells.</MakeAmmo_90mmCannonShell_AP.jobString>
+	
+	<!-- EN: make 90mm (HE) cannon shells x5 -->
+	<MakeAmmo_90mmCannonShell_HE.label>make 90mm (HE) cannon shells x5</MakeAmmo_90mmCannonShell_HE.label>
+	<!-- EN: Craft 5 90mm (HE) cannon shells. -->
+	<MakeAmmo_90mmCannonShell_HE.description>Craft 5 90mm (HE) cannon shells.</MakeAmmo_90mmCannonShell_HE.description>
+	<!-- EN: Making 90mm (HE) cannon shells. -->
+	<MakeAmmo_90mmCannonShell_HE.jobString>Making 90mm (HE) cannon shells.</MakeAmmo_90mmCannonShell_HE.jobString>
+	
+	<!-- EN: make 90mm (Time-Fuzed) cannon shells x5 -->
+	<MakeAmmo_90mmCannonShell_HE_TFuzed.label>make 90mm (Time-Fuzed) cannon shells x5</MakeAmmo_90mmCannonShell_HE_TFuzed.label>
+	<!-- EN: Craft 5 90mm (Time-Fuzed) cannon shells. -->
+	<MakeAmmo_90mmCannonShell_HE_TFuzed.description>Craft 5 90mm (Time-Fuzed) cannon shells.</MakeAmmo_90mmCannonShell_HE_TFuzed.description>
+	<!-- EN: Making 90mm (Time-Fuzed) cannon shells. -->
+	<MakeAmmo_90mmCannonShell_HE_TFuzed.jobString>Making 90mm (Time-Fuzed) cannon shells.</MakeAmmo_90mmCannonShell_HE_TFuzed.jobString>
+	
+	<!-- EN: make 90mm (APCR) cannon shells x5 -->
+	<MakeAmmo_90mmCannonShell_APCR.label>make 90mm (APCR) cannon shells x5</MakeAmmo_90mmCannonShell_APCR.label>
+	<!-- EN: Craft 5 90mm (APCR) cannon shells. -->
+	<MakeAmmo_90mmCannonShell_APCR.description>Craft 5 90mm (APCR) cannon shells.</MakeAmmo_90mmCannonShell_APCR.description>
+	<!-- EN: Making 90mm (APCR) cannon shells. -->
+	<MakeAmmo_90mmCannonShell_APCR.jobString>Making 90mm (APCR) cannon shells.</MakeAmmo_90mmCannonShell_APCR.jobString>
+	
+	<!-- EN: make 90mm (EMP) cannon shells x5 -->
+	<MakeAmmo_90mmCannonShell_EMP.label>make 90mm (EMP) cannon shells x5</MakeAmmo_90mmCannonShell_EMP.label>
+	<!-- EN: Craft 5 90mm (EMP) cannon shells. -->
+	<MakeAmmo_90mmCannonShell_EMP.description>Craft 5 90mm (EMP) cannon shells.</MakeAmmo_90mmCannonShell_EMP.description>
+	<!-- EN: Making 90mm (EMP) cannon shells. -->
+	<MakeAmmo_90mmCannonShell_EMP.jobString>Making 90mm (EMP) cannon shells.</MakeAmmo_90mmCannonShell_EMP.jobString>
+</LanguageData>

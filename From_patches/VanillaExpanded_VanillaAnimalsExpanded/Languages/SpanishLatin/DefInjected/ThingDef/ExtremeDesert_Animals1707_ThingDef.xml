@@ -1,0 +1,23 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VanillaAnimalsExpanded\ExtremeDesert_Animals1707.xml -->
+	<!-- EN: left hoof -->
+	<AEXP_Camel.tools.0.label>left hoof</AEXP_Camel.tools.0.label>
+	<!-- EN: right hoof -->
+	<AEXP_Camel.tools.1.label>right hoof</AEXP_Camel.tools.1.label>
+	<!-- EN: teeth -->
+	<AEXP_Camel.tools.2.label>teeth</AEXP_Camel.tools.2.label>
+	<!-- EN: head -->
+	<AEXP_Camel.tools.3.label>head</AEXP_Camel.tools.3.label>
+	
+	<!-- EN: stinger -->
+	<AEXP_Megascorpion.tools.0.label>stinger</AEXP_Megascorpion.tools.0.label>
+	<!-- EN: mandibles -->
+	<AEXP_Megascorpion.tools.1.label>mandibles</AEXP_Megascorpion.tools.1.label>
+	<!-- EN: head -->
+	<AEXP_Megascorpion.tools.2.label>head</AEXP_Megascorpion.tools.2.label>
+	
+	<!-- EN: fangs -->
+	<AEXP_Rattlesnake.tools.0.label>fangs</AEXP_Rattlesnake.tools.0.label>
+	<!-- EN: head -->
+	<AEXP_Rattlesnake.tools.1.label>head</AEXP_Rattlesnake.tools.1.label>
+</LanguageData>

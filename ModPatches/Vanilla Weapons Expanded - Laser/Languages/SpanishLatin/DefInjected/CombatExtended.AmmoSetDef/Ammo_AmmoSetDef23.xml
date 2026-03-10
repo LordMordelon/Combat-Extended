@@ -1,0 +1,25 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla Weapons Expanded - Laser\Defs\Vanilla Weapons Expanded - Laser\Ammo.xml -->
+	<!-- EN: laser charge -->
+	<AmmoSet_SalvagedLaserPistol.label>laser charge</AmmoSet_SalvagedLaserPistol.label>
+	<!-- EN: laser charge -->
+	<AmmoSet_LaserPistol.label>laser charge</AmmoSet_LaserPistol.label>
+	<!-- EN: laser charge -->
+	<AmmoSet_LaserSMG.label>laser charge</AmmoSet_LaserSMG.label>
+	<!-- EN: laser charge -->
+	<AmmoSet_SalvagedLaserRifle.label>laser charge</AmmoSet_SalvagedLaserRifle.label>
+	<!-- EN: laser charge -->
+	<AmmoSet_LaserRifle_VWE.label>laser charge</AmmoSet_LaserRifle_VWE.label>
+	<!-- EN: laser charge -->
+	<AmmoSet_SalvagedLaserShotgun.label>laser charge</AmmoSet_SalvagedLaserShotgun.label>
+	<!-- EN: laser charge -->
+	<AmmoSet_LaserShotgun.label>laser charge</AmmoSet_LaserShotgun.label>
+	<!-- EN: laser charge -->
+	<AmmoSet_SalvagedLaserSniperRifle.label>laser charge</AmmoSet_SalvagedLaserSniperRifle.label>
+	<!-- EN: laser charge -->
+	<AmmoSet_LaserSniperRifle.label>laser charge</AmmoSet_LaserSniperRifle.label>
+	<!-- EN: laser charge -->
+	<AmmoSet_LaserMiniGun.label>laser charge</AmmoSet_LaserMiniGun.label>
+	<!-- EN: laser charge -->
+	<AmmoSet_LaserTeslaGun.label>laser charge</AmmoSet_LaserTeslaGun.label>
+</LanguageData>

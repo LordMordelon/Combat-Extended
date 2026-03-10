@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Defs\Ammo\Advanced\66mmThermalBolt.xml -->
+	<!-- EN: 66mm thermal bolt (Incendiary) -->
+	<Ammo_66mmThermalBolt_Incendiary.label>66mm thermal bolt (Incendiary)</Ammo_66mmThermalBolt_Incendiary.label>
+	<!-- EN: Mechanoid-built medium-velocity thermal bolt designed to be fired from a mortar. -->
+	<Ammo_66mmThermalBolt_Incendiary.description>Mechanoid-built medium-velocity thermal bolt designed to be fired from a mortar.</Ammo_66mmThermalBolt_Incendiary.description>
+	<!-- EN: 66mm thermal bolt (Incendiary) -->
+	<Bullet_66mmThermalBolt_Incendiary.label>66mm thermal bolt (Incendiary)</Bullet_66mmThermalBolt_Incendiary.label>
+</LanguageData>

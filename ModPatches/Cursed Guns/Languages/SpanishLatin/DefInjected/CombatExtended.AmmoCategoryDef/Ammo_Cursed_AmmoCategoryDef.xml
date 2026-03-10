@@ -1,0 +1,12 @@
+<LanguageData>
+	<!-- ModPatches\Cursed Guns\Defs\Cursed Guns\Ammo_Cursed.xml -->
+	<!-- EN: Rubberised slug -->
+	<GrenadeRubber.label>Rubberised slug</GrenadeRubber.label>
+	<!-- EN: A rubber slug with a metal core inside. Less lethal than usual ammunition, but can still maim or kill someone. -->
+	<GrenadeRubber.description>A rubber slug with a metal core inside. Less lethal than usual ammunition, but can still maim or kill someone.</GrenadeRubber.description>
+	
+	<!-- EN: Blade -->
+	<KniperBlade.label>Blade</KniperBlade.label>
+	<!-- EN: A ballistic knife blade. -->
+	<KniperBlade.description>A ballistic knife blade.</KniperBlade.description>
+</LanguageData>

@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\RH2 DOOM\Defs\RH2 DOOM\RH2_DOOM_CE_Patch_Ammo_Rocket.xml -->
+	
+	<!-- EN: UAC Rocket Mk VI (HEAT) -->
+	<Ammo_Doom2016Rocket_HEAT.label>UAC Rocket Mk VI (HEAT)</Ammo_Doom2016Rocket_HEAT.label>
+	<!-- EN: Compact 60mm rocket developed by the Union Aerospace Corporation for infantry rocket launchers. -->
+	<Ammo_Doom2016Rocket_HEAT.description>Compact 60mm rocket developed by the Union Aerospace Corporation for infantry rocket launchers.</Ammo_Doom2016Rocket_HEAT.description>
+	
+	<!-- EN: UAC Rocket Mk VI (HEAT) -->
+	<Bullet_Doom2016Rocket_HEAT.label>UAC Rocket Mk VI (HEAT)</Bullet_Doom2016Rocket_HEAT.label>
+</LanguageData>

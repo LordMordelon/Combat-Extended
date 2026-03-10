@@ -1,0 +1,53 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\OskarPotocki_VFE_Mechanoid\Races_Mechanoid1784.xml -->
+	<!-- EN: head -->
+	<VFE_Mech_Centipede.tools.0.label>head</VFE_Mech_Centipede.tools.0.label>
+	
+	<!-- EN: left blade -->
+	<VFE_Mech_Scyther.tools.0.label>left blade</VFE_Mech_Scyther.tools.0.label>
+	<!-- EN: left blade -->
+	<VFE_Mech_Scyther.tools.1.label>left blade</VFE_Mech_Scyther.tools.1.label>
+	<!-- EN: right blade -->
+	<VFE_Mech_Scyther.tools.2.label>right blade</VFE_Mech_Scyther.tools.2.label>
+	<!-- EN: right blade -->
+	<VFE_Mech_Scyther.tools.3.label>right blade</VFE_Mech_Scyther.tools.3.label>
+	<!-- EN: head -->
+	<VFE_Mech_Scyther.tools.4.label>head</VFE_Mech_Scyther.tools.4.label>
+	
+	<!-- EN: left fist -->
+	<VFE_Mech_Lancer.tools.0.label>left fist</VFE_Mech_Lancer.tools.0.label>
+	<!-- EN: right fist -->
+	<VFE_Mech_Lancer.tools.1.label>right fist</VFE_Mech_Lancer.tools.1.label>
+	<!-- EN: head -->
+	<VFE_Mech_Lancer.tools.2.label>head</VFE_Mech_Lancer.tools.2.label>
+	
+	<!-- EN: front left leg -->
+	<VFE_Mech_Pikeman.tools.0.label>front left leg</VFE_Mech_Pikeman.tools.0.label>
+	<!-- EN: front right leg -->
+	<VFE_Mech_Pikeman.tools.1.label>front right leg</VFE_Mech_Pikeman.tools.1.label>
+	<!-- EN: head -->
+	<VFE_Mech_Pikeman.tools.2.label>head</VFE_Mech_Pikeman.tools.2.label>
+	
+	<!-- EN: left fist -->
+	<VFE_Mech_Knight.tools.0.label>left fist</VFE_Mech_Knight.tools.0.label>
+	<!-- EN: right fist -->
+	<VFE_Mech_Knight.tools.1.label>right fist</VFE_Mech_Knight.tools.1.label>
+	<!-- EN: head -->
+	<VFE_Mech_Knight.tools.2.label>head</VFE_Mech_Knight.tools.2.label>
+	
+	<!-- EN: left fist -->
+	<VFE_Mech_Inquisitor.tools.0.label>left fist</VFE_Mech_Inquisitor.tools.0.label>
+	<!-- EN: right fist -->
+	<VFE_Mech_Inquisitor.tools.1.label>right fist</VFE_Mech_Inquisitor.tools.1.label>
+	<!-- EN: head -->
+	<VFE_Mech_Inquisitor.tools.2.label>head</VFE_Mech_Inquisitor.tools.2.label>
+	
+	<!-- EN: head -->
+	<VFE_Mech_Carpenter.tools.0.label>head</VFE_Mech_Carpenter.tools.0.label>
+	
+	<!-- EN: head -->
+	<VFE_AncientMech_AncientCarpenter.tools.0.label>head</VFE_AncientMech_AncientCarpenter.tools.0.label>
+	
+	<!-- EN: head -->
+	<VFE_Mech_Termite.tools.0.label>head</VFE_Mech_Termite.tools.0.label>
+</LanguageData>

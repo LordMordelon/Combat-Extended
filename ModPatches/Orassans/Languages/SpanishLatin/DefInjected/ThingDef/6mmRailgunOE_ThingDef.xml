@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Orassans\Defs\Orassans\Ammo\6mmRailgunOE.xml -->
+	<!-- EN: 6mm Railgun cartridge (Sabot:OE) -->
+	<Ammo_6mmRailgun_SabotOE.label>6mm Railgun cartridge (Sabot:OE)</Ammo_6mmRailgun_SabotOE.label>
+	<!-- EN: Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for railgun pistols. -->
+	<Ammo_6mmRailgun_SabotOE.description>Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for railgun pistols.</Ammo_6mmRailgun_SabotOE.description>
+	<!-- EN: 6mm Railgun bullet (Sabot:OE) -->
+	<Bullet_6mmRailgun_SabotOE.label>6mm Railgun bullet (Sabot:OE)</Bullet_6mmRailgun_SabotOE.label>
+</LanguageData>

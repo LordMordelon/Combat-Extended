@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Zaps\Zapgun Blue.xml -->
+	<!-- EN: Blue Zapgun cartridge -->
+	<Ammo_Zapgun_blue.label>Blue Zapgun cartridge</Ammo_Zapgun_blue.label>
+	<!-- EN: Pistol cartridge favoured for its above average stopping power. -->
+	<Ammo_Zapgun_blue.description>Pistol cartridge favoured for its above average stopping power.</Ammo_Zapgun_blue.description>
+	<!-- EN: Blue Zap Bolt -->
+	<Bullet_Zapgun_blue.label>Blue Zap Bolt</Bullet_Zapgun_blue.label>
+</LanguageData>

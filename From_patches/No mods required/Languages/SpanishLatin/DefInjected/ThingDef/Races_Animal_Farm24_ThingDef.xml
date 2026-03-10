@@ -1,0 +1,109 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Races_Animal_Farm24.xml -->
+	<!-- EN: claws -->
+	<Chicken.tools.0.label>claws</Chicken.tools.0.label>
+	<!-- EN: head -->
+	<Chicken.tools.2.label>head</Chicken.tools.2.label>
+	
+	<!-- EN: head -->
+	<Pig.tools.1.label>head</Pig.tools.1.label>
+	
+	<!-- EN: head -->
+	<Cow.tools.1.label>head</Cow.tools.1.label>
+	<!-- EN: horns -->
+	<Cow.tools.2.label>horns</Cow.tools.2.label>
+	
+	<!-- EN: left hoof -->
+	<Alpaca.tools.0.label>left hoof</Alpaca.tools.0.label>
+	<!-- EN: left hoof -->
+	<Alpaca.tools.1.label>left hoof</Alpaca.tools.1.label>
+	<!-- EN: right hoof -->
+	<Alpaca.tools.2.label>right hoof</Alpaca.tools.2.label>
+	<!-- EN: right hoof -->
+	<Alpaca.tools.3.label>right hoof</Alpaca.tools.3.label>
+	<!-- EN: head -->
+	<Alpaca.tools.5.label>head</Alpaca.tools.5.label>
+	
+	<!-- EN: claws -->
+	<Duck.tools.0.label>claws</Duck.tools.0.label>
+	<!-- EN: head -->
+	<Duck.tools.2.label>head</Duck.tools.2.label>
+	
+	<!-- EN: head -->
+	<Bison.tools.0.label>head</Bison.tools.0.label>
+	<!-- EN: left hoof -->
+	<Bison.tools.1.label>left hoof</Bison.tools.1.label>
+	<!-- EN: left hoof -->
+	<Bison.tools.2.label>left hoof</Bison.tools.2.label>
+	<!-- EN: right hoof -->
+	<Bison.tools.3.label>right hoof</Bison.tools.3.label>
+	<!-- EN: right hoof -->
+	<Bison.tools.4.label>right hoof</Bison.tools.4.label>
+	
+	<!-- EN: left hoof -->
+	<Goat.tools.0.label>left hoof</Goat.tools.0.label>
+	<!-- EN: left hoof -->
+	<Goat.tools.1.label>left hoof</Goat.tools.1.label>
+	<!-- EN: right hoof -->
+	<Goat.tools.2.label>right hoof</Goat.tools.2.label>
+	<!-- EN: right hoof -->
+	<Goat.tools.3.label>right hoof</Goat.tools.3.label>
+	<!-- EN: horns -->
+	<Goat.tools.5.label>horns</Goat.tools.5.label>
+	
+	<!-- EN: claws -->
+	<Goose.tools.0.label>claws</Goose.tools.0.label>
+	<!-- EN: head -->
+	<Goose.tools.2.label>head</Goose.tools.2.label>
+	
+	<!-- EN: left hoof -->
+	<Sheep.tools.0.label>left hoof</Sheep.tools.0.label>
+	<!-- EN: left hoof -->
+	<Sheep.tools.1.label>left hoof</Sheep.tools.1.label>
+	<!-- EN: right hoof -->
+	<Sheep.tools.2.label>right hoof</Sheep.tools.2.label>
+	<!-- EN: right hoof -->
+	<Sheep.tools.3.label>right hoof</Sheep.tools.3.label>
+	<!-- EN: head -->
+	<Sheep.tools.5.label>head</Sheep.tools.5.label>
+	
+	<!-- EN: left hoof -->
+	<Horse.tools.0.label>left hoof</Horse.tools.0.label>
+	<!-- EN: left hoof -->
+	<Horse.tools.1.label>left hoof</Horse.tools.1.label>
+	<!-- EN: right hoof -->
+	<Horse.tools.2.label>right hoof</Horse.tools.2.label>
+	<!-- EN: right hoof -->
+	<Horse.tools.3.label>right hoof</Horse.tools.3.label>
+	<!-- EN: head -->
+	<Horse.tools.5.label>head</Horse.tools.5.label>
+	
+	<!-- EN: head -->
+	<Yak.tools.0.label>head</Yak.tools.0.label>
+	<!-- EN: left hoof -->
+	<Yak.tools.1.label>left hoof</Yak.tools.1.label>
+	<!-- EN: left hoof -->
+	<Yak.tools.2.label>left hoof</Yak.tools.2.label>
+	<!-- EN: right hoof -->
+	<Yak.tools.3.label>right hoof</Yak.tools.3.label>
+	<!-- EN: right hoof -->
+	<Yak.tools.4.label>right hoof</Yak.tools.4.label>
+	
+	<!-- EN: left claw -->
+	<GuineaPig.tools.0.label>left claw</GuineaPig.tools.0.label>
+	<!-- EN: right claw -->
+	<GuineaPig.tools.1.label>right claw</GuineaPig.tools.1.label>
+	<!-- EN: head -->
+	<GuineaPig.tools.3.label>head</GuineaPig.tools.3.label>
+	
+	<!-- EN: left hoof -->
+	<Donkey.tools.0.label>left hoof</Donkey.tools.0.label>
+	<!-- EN: left hoof -->
+	<Donkey.tools.1.label>left hoof</Donkey.tools.1.label>
+	<!-- EN: right hoof -->
+	<Donkey.tools.2.label>right hoof</Donkey.tools.2.label>
+	<!-- EN: right hoof -->
+	<Donkey.tools.3.label>right hoof</Donkey.tools.3.label>
+	<!-- EN: head -->
+	<Donkey.tools.5.label>head</Donkey.tools.5.label>
+</LanguageData>

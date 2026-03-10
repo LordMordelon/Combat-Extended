@@ -1,0 +1,102 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\CP_RimmuNation_2_Weapons\RM2_CE_Pistols1325.xml -->
+	<!-- EN: grip -->
+	<RNGun_FiveSeven_Pistol.tools.0.label>grip</RNGun_FiveSeven_Pistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_FiveSeven_Pistol.tools.1.label>muzzle</RNGun_FiveSeven_Pistol.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_STK100_Pistol.tools.0.label>grip</RNGun_STK100_Pistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_STK100_Pistol.tools.1.label>muzzle</RNGun_STK100_Pistol.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_Glock17_Pistol.tools.0.label>grip</RNGun_Glock17_Pistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_Glock17_Pistol.tools.1.label>muzzle</RNGun_Glock17_Pistol.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_Glock18_Pistol.tools.0.label>grip</RNGun_Glock18_Pistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_Glock18_Pistol.tools.1.label>muzzle</RNGun_Glock18_Pistol.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_Glock34CombatMaster_Pistol.tools.0.label>grip</RNGun_Glock34CombatMaster_Pistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_Glock34CombatMaster_Pistol.tools.1.label>muzzle</RNGun_Glock34CombatMaster_Pistol.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_SpringfieldXD_Pistol.tools.0.label>grip</RNGun_SpringfieldXD_Pistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_SpringfieldXD_Pistol.tools.1.label>muzzle</RNGun_SpringfieldXD_Pistol.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_M1911_Pistol.tools.0.label>grip</RNGun_M1911_Pistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_M1911_Pistol.tools.1.label>muzzle</RNGun_M1911_Pistol.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_STI2011CombatMaster_Pistol.tools.0.label>grip</RNGun_STI2011CombatMaster_Pistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_STI2011CombatMaster_Pistol.tools.1.label>muzzle</RNGun_STI2011CombatMaster_Pistol.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_M9A1_Pistol.tools.0.label>grip</RNGun_M9A1_Pistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_M9A1_Pistol.tools.1.label>muzzle</RNGun_M9A1_Pistol.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_Makarov_Pistol.tools.0.label>grip</RNGun_Makarov_Pistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_Makarov_Pistol.tools.1.label>muzzle</RNGun_Makarov_Pistol.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_P226_Pistol.tools.0.label>grip</RNGun_P226_Pistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_P226_Pistol.tools.1.label>muzzle</RNGun_P226_Pistol.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_P320_Pistol.tools.0.label>grip</RNGun_P320_Pistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_P320_Pistol.tools.1.label>muzzle</RNGun_P320_Pistol.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_DesertEagle_Pistol.tools.0.label>grip</RNGun_DesertEagle_Pistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_DesertEagle_Pistol.tools.1.label>muzzle</RNGun_DesertEagle_Pistol.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_PT92SF_Pistol.tools.0.label>grip</RNGun_PT92SF_Pistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_PT92SF_Pistol.tools.1.label>muzzle</RNGun_PT92SF_Pistol.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_USP45_Pistol.tools.0.label>grip</RNGun_USP45_Pistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_USP45_Pistol.tools.1.label>muzzle</RNGun_USP45_Pistol.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_FiveSevenSD_Pistol.tools.0.label>grip</RNGun_FiveSevenSD_Pistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_FiveSevenSD_Pistol.tools.1.label>muzzle</RNGun_FiveSevenSD_Pistol.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_Glock17SD_Pistol.tools.0.label>grip</RNGun_Glock17SD_Pistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_Glock17SD_Pistol.tools.1.label>muzzle</RNGun_Glock17SD_Pistol.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_M1911Silverballer_Pistol.tools.0.label>grip</RNGun_M1911Silverballer_Pistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_M1911Silverballer_Pistol.tools.1.label>muzzle</RNGun_M1911Silverballer_Pistol.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_P226SD_Pistol.tools.0.label>grip</RNGun_P226SD_Pistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_P226SD_Pistol.tools.1.label>muzzle</RNGun_P226SD_Pistol.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_USPS45_Pistol.tools.0.label>grip</RNGun_USPS45_Pistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_USPS45_Pistol.tools.1.label>muzzle</RNGun_USPS45_Pistol.tools.1.label>
+</LanguageData>

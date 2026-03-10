@@ -1,0 +1,59 @@
+<LanguageData>
+	<!-- ModPatches\Paniel the Automata\Defs\Paniel the Automata\Ammo_Paniel.xml -->
+	
+	<!-- EN: make Paniel HE Howitzer shells x2 -->
+	<MakeAmmo_PanielHowitzerShell_HE.label>make Paniel HE Howitzer shells x2</MakeAmmo_PanielHowitzerShell_HE.label>
+	<!-- EN: Craft 2 Paniel HE Howitzer shells. -->
+	<MakeAmmo_PanielHowitzerShell_HE.description>Craft 2 Paniel HE Howitzer shells.</MakeAmmo_PanielHowitzerShell_HE.description>
+	<!-- EN: Making Paniel HE Howitzer shells. -->
+	<MakeAmmo_PanielHowitzerShell_HE.jobString>Making Paniel HE Howitzer shells.</MakeAmmo_PanielHowitzerShell_HE.jobString>
+	
+	<!-- EN: make Paniel Incendiary Howitzer shells x2 -->
+	<MakeAmmo_PanielHowitzerShell_Incendiary.label>make Paniel Incendiary Howitzer shells x2</MakeAmmo_PanielHowitzerShell_Incendiary.label>
+	<!-- EN: Craft 2 Paniel Incendiary Howitzer shells. -->
+	<MakeAmmo_PanielHowitzerShell_Incendiary.description>Craft 2 Paniel Incendiary Howitzer shells.</MakeAmmo_PanielHowitzerShell_Incendiary.description>
+	<!-- EN: Making Paniel Incendiary Howitzer shells. -->
+	<MakeAmmo_PanielHowitzerShell_Incendiary.jobString>Making Paniel Incendiary Howitzer shells.</MakeAmmo_PanielHowitzerShell_Incendiary.jobString>
+	
+	<!-- EN: make Paniel EMP Howitzer shells x2 -->
+	<MakeAmmo_PanielHowitzerShell_EMP.label>make Paniel EMP Howitzer shells x2</MakeAmmo_PanielHowitzerShell_EMP.label>
+	<!-- EN: Craft 2 Paniel EMP Howitzer shells. -->
+	<MakeAmmo_PanielHowitzerShell_EMP.description>Craft 2 Paniel EMP Howitzer shells.</MakeAmmo_PanielHowitzerShell_EMP.description>
+	<!-- EN: Making Paniel EMP Howitzer shells. -->
+	<MakeAmmo_PanielHowitzerShell_EMP.jobString>Making Paniel EMP Howitzer shells.</MakeAmmo_PanielHowitzerShell_EMP.jobString>
+	
+	<!-- EN: make Paniel Smoke Howitzer shells x2 -->
+	<MakeAmmo_PanielHowitzerShell_Smoke.label>make Paniel Smoke Howitzer shells x2</MakeAmmo_PanielHowitzerShell_Smoke.label>
+	<!-- EN: Craft 2 Paniel Smoke Howitzer shells. -->
+	<MakeAmmo_PanielHowitzerShell_Smoke.description>Craft 2 Paniel Smoke Howitzer shells.</MakeAmmo_PanielHowitzerShell_Smoke.description>
+	<!-- EN: Making Paniel Smoke Howitzer shells. -->
+	<MakeAmmo_PanielHowitzerShell_Smoke.jobString>Making Paniel Smoke Howitzer shells.</MakeAmmo_PanielHowitzerShell_Smoke.jobString>
+	
+	<!-- EN: make Paniel Firefoam Howitzer shells x2 -->
+	<MakeAmmo_PanielHowitzerShell_Firefoam.label>make Paniel Firefoam Howitzer shells x2</MakeAmmo_PanielHowitzerShell_Firefoam.label>
+	<!-- EN: Craft 2 Paniel firefoam Howitzer shells. -->
+	<MakeAmmo_PanielHowitzerShell_Firefoam.description>Craft 2 Paniel firefoam Howitzer shells.</MakeAmmo_PanielHowitzerShell_Firefoam.description>
+	<!-- EN: Making Paniel firefoam Howitzer shells. -->
+	<MakeAmmo_PanielHowitzerShell_Firefoam.jobString>Making Paniel firefoam Howitzer shells.</MakeAmmo_PanielHowitzerShell_Firefoam.jobString>
+	
+	<!-- EN: make Paniel Antigrain Howitzer shell -->
+	<MakeAmmo_PanielHowitzerShell_Anti.label>make Paniel Antigrain Howitzer shell</MakeAmmo_PanielHowitzerShell_Anti.label>
+	<!-- EN: Craft Paniel antigrain Howitzer shell. -->
+	<MakeAmmo_PanielHowitzerShell_Anti.description>Craft Paniel antigrain Howitzer shell.</MakeAmmo_PanielHowitzerShell_Anti.description>
+	<!-- EN: Making Paniel antigrain Howitzer shell. -->
+	<MakeAmmo_PanielHowitzerShell_Anti.jobString>Making Paniel antigrain Howitzer shell.</MakeAmmo_PanielHowitzerShell_Anti.jobString>
+	
+	<!-- EN: make Paniel AP Howitzer shells x2 -->
+	<MakeAmmo_PanielHowitzerShell_AP.label>make Paniel AP Howitzer shells x2</MakeAmmo_PanielHowitzerShell_AP.label>
+	<!-- EN: Craft 2 Paniel ap Howitzer shells. -->
+	<MakeAmmo_PanielHowitzerShell_AP.description>Craft 2 Paniel ap Howitzer shells.</MakeAmmo_PanielHowitzerShell_AP.description>
+	<!-- EN: Making Paniel ap Howitzer shells. -->
+	<MakeAmmo_PanielHowitzerShell_AP.jobString>Making Paniel ap Howitzer shells.</MakeAmmo_PanielHowitzerShell_AP.jobString>
+	
+	<!-- EN: make Paniel Railgun Shell -->
+	<MakeAmmo_PanielRailShell.label>make Paniel Railgun Shell</MakeAmmo_PanielRailShell.label>
+	<!-- EN: Craft Paniel Railgun Shell. -->
+	<MakeAmmo_PanielRailShell.description>Craft Paniel Railgun Shell.</MakeAmmo_PanielRailShell.description>
+	<!-- EN: Making Paniel Railgun Shell. -->
+	<MakeAmmo_PanielRailShell.jobString>Making Paniel Railgun Shell.</MakeAmmo_PanielRailShell.jobString>
+</LanguageData>

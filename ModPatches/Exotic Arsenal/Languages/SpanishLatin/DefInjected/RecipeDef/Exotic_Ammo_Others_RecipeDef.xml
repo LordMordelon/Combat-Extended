@@ -1,0 +1,45 @@
+<LanguageData>
+	<!-- ModPatches\Exotic Arsenal\Defs\Exotic Arsenal\Exotic_Ammo_Others.xml -->
+	
+	<!-- EN: make 5mm Monoshard x500 -->
+	<MakeAmmo_5mmMono_Steel.label>make 5mm Monoshard x500</MakeAmmo_5mmMono_Steel.label>
+	<!-- EN: Craft 500 5mm Monoshard. -->
+	<MakeAmmo_5mmMono_Steel.description>Craft 500 5mm Monoshard.</MakeAmmo_5mmMono_Steel.description>
+	<!-- EN: Making 5mm Monoshard. -->
+	<MakeAmmo_5mmMono_Steel.jobString>Making 5mm Monoshard.</MakeAmmo_5mmMono_Steel.jobString>
+	
+	<!-- EN: make 5mm Monoshard (plasteel) x500 -->
+	<MakeAmmo_5mmMono_Plasteel.label>make 5mm Monoshard (plasteel) x500</MakeAmmo_5mmMono_Plasteel.label>
+	<!-- EN: Craft 5mm Monoshard (plasteel). -->
+	<MakeAmmo_5mmMono_Plasteel.description>Craft 5mm Monoshard (plasteel).</MakeAmmo_5mmMono_Plasteel.description>
+	<!-- EN: Making 5mm Monoshard (plasteel). -->
+	<MakeAmmo_5mmMono_Plasteel.jobString>Making 5mm Monoshard (plasteel).</MakeAmmo_5mmMono_Plasteel.jobString>
+	
+	<!-- EN: make 5mm monoshard (uranium) x500 -->
+	<MakeAmmo_5mmMono_Uranium.label>make 5mm monoshard (uranium) x500</MakeAmmo_5mmMono_Uranium.label>
+	<!-- EN: Craft 5mm monoshard (uranium). -->
+	<MakeAmmo_5mmMono_Uranium.description>Craft 5mm monoshard (uranium).</MakeAmmo_5mmMono_Uranium.description>
+	<!-- EN: Making 5mm monoshard (uranium). -->
+	<MakeAmmo_5mmMono_Uranium.jobString>Making 5mm monoshard (uranium).</MakeAmmo_5mmMono_Uranium.jobString>
+	
+	<!-- EN: make APHE buckshot x100 -->
+	<MakeAmmo_Judgment_Buck.label>make APHE buckshot x100</MakeAmmo_Judgment_Buck.label>
+	<!-- EN: Craft 100 APHE buckshot. -->
+	<MakeAmmo_Judgment_Buck.description>Craft 100 APHE buckshot.</MakeAmmo_Judgment_Buck.description>
+	<!-- EN: Making APHE buckshot. -->
+	<MakeAmmo_Judgment_Buck.jobString>Making APHE buckshot.</MakeAmmo_Judgment_Buck.jobString>
+	
+	<!-- EN: make HE cluster shot x50 -->
+	<MakeAmmo_Judgment_HE.label>make HE cluster shot x50</MakeAmmo_Judgment_HE.label>
+	<!-- EN: Craft 50 HE cluster shot. -->
+	<MakeAmmo_Judgment_HE.description>Craft 50 HE cluster shot.</MakeAmmo_Judgment_HE.description>
+	<!-- EN: Making HE cluster shot. -->
+	<MakeAmmo_Judgment_HE.jobString>Making HE cluster shot.</MakeAmmo_Judgment_HE.jobString>
+	
+	<!-- EN: make Mayhem Shot x25 -->
+	<MakeAmmo_Judgment_Mayhem.label>make Mayhem Shot x25</MakeAmmo_Judgment_Mayhem.label>
+	<!-- EN: Craft 25 Mayhem Shot. -->
+	<MakeAmmo_Judgment_Mayhem.description>Craft 25 Mayhem Shot.</MakeAmmo_Judgment_Mayhem.description>
+	<!-- EN: Making Mayhem Shot. -->
+	<MakeAmmo_Judgment_Mayhem.jobString>Making Mayhem Shot.</MakeAmmo_Judgment_Mayhem.jobString>
+</LanguageData>

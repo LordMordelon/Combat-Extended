@@ -1,0 +1,12 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\JAHV_SpacerVehiclesHAL_CONTINUED\Warchief1672.xml -->
+	<!-- EN: Single Shot -->
+	<JASV_WarchiefMainCannon.fireModes.0.label>Single Shot</JASV_WarchiefMainCannon.fireModes.0.label>
+	
+	<!-- EN: Single -->
+	<JASV_Warchief_Turret_Autocannon.fireModes.0.label>Single</JASV_Warchief_Turret_Autocannon.fireModes.0.label>
+	<!-- EN: Burst -->
+	<JASV_Warchief_Turret_Autocannon.fireModes.1.label>Burst</JASV_Warchief_Turret_Autocannon.fireModes.1.label>
+	<!-- EN: Auto -->
+	<JASV_Warchief_Turret_Autocannon.fireModes.2.label>Auto</JASV_Warchief_Turret_Autocannon.fireModes.2.label>
+</LanguageData>

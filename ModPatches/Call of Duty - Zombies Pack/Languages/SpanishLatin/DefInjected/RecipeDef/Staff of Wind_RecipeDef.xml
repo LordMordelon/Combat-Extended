@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Staffs\Staff of Wind.xml -->
+	<!-- EN: make Elemental Wind Crystal x5 -->
+	<MakeAmmo_Elemental_Staff_Wind.label>make Elemental Wind Crystal x5</MakeAmmo_Elemental_Staff_Wind.label>
+	<!-- EN: Craft 5 Elemental Wind Crystals. -->
+	<MakeAmmo_Elemental_Staff_Wind.description>Craft 5 Elemental Wind Crystals.</MakeAmmo_Elemental_Staff_Wind.description>
+	<!-- EN: Making Elemental Wind Crystals. -->
+	<MakeAmmo_Elemental_Staff_Wind.jobString>Making Elemental Wind Crystals.</MakeAmmo_Elemental_Staff_Wind.jobString>
+</LanguageData>

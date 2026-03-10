@@ -1,0 +1,31 @@
+<LanguageData>
+	<!-- Royalty\Defs\ThingDefs_Buildings\Weapons_Turrets.xml -->
+	<!-- EN: mini-blaster turret gun -->
+	<Gun_AutoBlasterTurret.label>mini-blaster turret gun</Gun_AutoBlasterTurret.label>
+	<!-- EN: Charge blaster attached to a turret mount. -->
+	<Gun_AutoBlasterTurret.description>Charge blaster attached to a turret mount.</Gun_AutoBlasterTurret.description>
+	<!-- EN: ㅤ -->
+	<Gun_AutoBlasterTurret.verbs.0.label>ㅤ</Gun_AutoBlasterTurret.verbs.0.label>
+	
+	<!-- EN: light charge blaster turret gun -->
+	<Gun_ChargeBlasterHeavyTurret.label>light charge blaster turret gun</Gun_ChargeBlasterHeavyTurret.label>
+	<!-- EN: Light charge blaster on a turret mount. -->
+	<Gun_ChargeBlasterHeavyTurret.description>Light charge blaster on a turret mount.</Gun_ChargeBlasterHeavyTurret.description>
+	<!-- EN: ㅤ -->
+	<Gun_ChargeBlasterHeavyTurret.verbs.0.label>ㅤ</Gun_ChargeBlasterHeavyTurret.verbs.0.label>
+	<!-- EN: HoldCloseInProjectilesFire -->
+	<Gun_ChargeBlasterHeavyTurret.verbs.1.holdFireLabel>HoldCloseInProjectilesFire</Gun_ChargeBlasterHeavyTurret.verbs.1.holdFireLabel>
+	<!-- EN: ㅤ -->
+	<Gun_ChargeBlasterHeavyTurret.verbs.1.label>ㅤ</Gun_ChargeBlasterHeavyTurret.verbs.1.label>
+	<!-- EN: HoldCloseInSkyfallersFire -->
+	<Gun_ChargeBlasterHeavyTurret.verbs.2.holdFireLabel>HoldCloseInSkyfallersFire</Gun_ChargeBlasterHeavyTurret.verbs.2.holdFireLabel>
+	<!-- EN: ㅤ -->
+	<Gun_ChargeBlasterHeavyTurret.verbs.2.label>ㅤ</Gun_ChargeBlasterHeavyTurret.verbs.2.label>
+	
+	<!-- EN: auto inferno turret gun -->
+	<Gun_InfernoCannonTurret.label>auto inferno turret gun</Gun_InfernoCannonTurret.label>
+	<!-- EN: An incendiary-shot mini-artillery device on a turret mount. -->
+	<Gun_InfernoCannonTurret.description>An incendiary-shot mini-artillery device on a turret mount.</Gun_InfernoCannonTurret.description>
+	<!-- EN: ㅤ -->
+	<Gun_InfernoCannonTurret.verbs.0.label>ㅤ</Gun_InfernoCannonTurret.verbs.0.label>
+</LanguageData>

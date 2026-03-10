@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\OskarPotocki_VFE_Pirates\VWEBFRangedWarcasket1801.xml -->
+	<!-- EN: barrel -->
+	<VWEB_Warbolter.tools.0.label>barrel</VWEB_Warbolter.tools.0.label>
+	<!-- EN: switch to bolter -->
+	<VWEB_Warbolter.comps.0.standardLabel>switch to bolter</VWEB_Warbolter.comps.0.standardLabel>
+	<!-- EN: switch to flamethrower -->
+	<VWEB_Warbolter.comps.0.underBarrelLabel>switch to flamethrower</VWEB_Warbolter.comps.0.underBarrelLabel>
+</LanguageData>

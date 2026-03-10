@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- ModPatches\Grimworld Core Imperialis\Defs\Grimworld Core Imperialis\40KCI_Grenade_Recipes.xml -->
+	<!-- EN: make krak grenades x10 -->
+	<MakeCIKrakGrenade.label>make krak grenades x10</MakeCIKrakGrenade.label>
+	<!-- EN: Craft 10 krak grenades. -->
+	<MakeCIKrakGrenade.description>Craft 10 krak grenades.</MakeCIKrakGrenade.description>
+	<!-- EN: Making krak grenades. -->
+	<MakeCIKrakGrenade.jobString>Making krak grenades.</MakeCIKrakGrenade.jobString>
+	
+	<!-- EN: make melta bombs x3 -->
+	<MakeCIMeltaBomb.label>make melta bombs x3</MakeCIMeltaBomb.label>
+	<!-- EN: Craft 3 melta bombs. -->
+	<MakeCIMeltaBomb.description>Craft 3 melta bombs.</MakeCIMeltaBomb.description>
+	<!-- EN: Making melta bombs. -->
+	<MakeCIMeltaBomb.jobString>Making melta bombs.</MakeCIMeltaBomb.jobString>
+</LanguageData>

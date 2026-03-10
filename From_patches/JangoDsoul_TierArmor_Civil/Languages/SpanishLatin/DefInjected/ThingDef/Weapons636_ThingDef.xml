@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\JangoDsoul_TierArmor_Civil\Weapons636.xml -->
+	<!-- EN: stock -->
+	<Tier1_Carbine_Soldier.tools.0.label>stock</Tier1_Carbine_Soldier.tools.0.label>
+	<!-- EN: barrel -->
+	<Tier1_Carbine_Soldier.tools.1.label>barrel</Tier1_Carbine_Soldier.tools.1.label>
+	<!-- EN: muzzle -->
+	<Tier1_Carbine_Soldier.tools.2.label>muzzle</Tier1_Carbine_Soldier.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Tier1_Carbine_Soldier_Modded.tools.0.label>stock</Tier1_Carbine_Soldier_Modded.tools.0.label>
+	<!-- EN: barrel -->
+	<Tier1_Carbine_Soldier_Modded.tools.1.label>barrel</Tier1_Carbine_Soldier_Modded.tools.1.label>
+	<!-- EN: muzzle -->
+	<Tier1_Carbine_Soldier_Modded.tools.2.label>muzzle</Tier1_Carbine_Soldier_Modded.tools.2.label>
+</LanguageData>

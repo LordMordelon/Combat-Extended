@@ -1,0 +1,30 @@
+<LanguageData>
+	<!-- ModPatches\Rimsenal Core\Defs\Rimsenal Core\Rimsenal_GrenadeRecipes.xml -->
+	<!-- EN: Craft 10 microwave grenades -->
+	<Craft_10_BaegYa.label>Craft 10 microwave grenades</Craft_10_BaegYa.label>
+	<!-- EN: Craft 10 BaegYa microwave grenades. -->
+	<Craft_10_BaegYa.description>Craft 10 BaegYa microwave grenades.</Craft_10_BaegYa.description>
+	<!-- EN: Crafting microwave grenades -->
+	<Craft_10_BaegYa.jobString>Crafting microwave grenades</Craft_10_BaegYa.jobString>
+	
+	<!-- EN: Craft 10 satchel charges -->
+	<Craft_10_Dunder.label>Craft 10 satchel charges</Craft_10_Dunder.label>
+	<!-- EN: Craft 10 Dunder satchel charges. -->
+	<Craft_10_Dunder.description>Craft 10 Dunder satchel charges.</Craft_10_Dunder.description>
+	<!-- EN: Crafting satchel charges -->
+	<Craft_10_Dunder.jobString>Crafting satchel charges</Craft_10_Dunder.jobString>
+	
+	<!-- EN: Craft 10 micro grenades -->
+	<Craft_10_Bobcat.label>Craft 10 micro grenades</Craft_10_Bobcat.label>
+	<!-- EN: Craft 10 Bobcat micro grenades. -->
+	<Craft_10_Bobcat.description>Craft 10 Bobcat micro grenades.</Craft_10_Bobcat.description>
+	<!-- EN: Crafting micro grenades -->
+	<Craft_10_Bobcat.jobString>Crafting micro grenades</Craft_10_Bobcat.jobString>
+	
+	<!-- EN: Craft 10 impact grenades -->
+	<Craft_10_Grief.label>Craft 10 impact grenades</Craft_10_Grief.label>
+	<!-- EN: Craft 10 Grief impact grenades. -->
+	<Craft_10_Grief.description>Craft 10 Grief impact grenades.</Craft_10_Grief.description>
+	<!-- EN: Crafting impact grenades -->
+	<Craft_10_Grief.jobString>Crafting impact grenades</Craft_10_Grief.jobString>
+</LanguageData>

@@ -1,0 +1,20 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\zal_hyena\ThingDefs_Races896.xml -->
+	<!-- EN: left claw -->
+	<SpottedHyena.tools.0.label>left claw</SpottedHyena.tools.0.label>
+	<!-- EN: right claw -->
+	<SpottedHyena.tools.1.label>right claw</SpottedHyena.tools.1.label>
+	<!-- EN: bite -->
+	<SpottedHyena.tools.2.label>bite</SpottedHyena.tools.2.label>
+	<!-- EN: head -->
+	<SpottedHyena.tools.3.label>head</SpottedHyena.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<StripedHyena.tools.0.label>left claw</StripedHyena.tools.0.label>
+	<!-- EN: right claw -->
+	<StripedHyena.tools.1.label>right claw</StripedHyena.tools.1.label>
+	<!-- EN: bite -->
+	<StripedHyena.tools.2.label>bite</StripedHyena.tools.2.label>
+	<!-- EN: head -->
+	<StripedHyena.tools.3.label>head</StripedHyena.tools.3.label>
+</LanguageData>

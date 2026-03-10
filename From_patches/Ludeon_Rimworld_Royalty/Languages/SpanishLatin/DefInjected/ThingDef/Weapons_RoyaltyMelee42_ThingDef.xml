@@ -1,0 +1,34 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Ludeon_Rimworld_Royalty\Weapons_RoyaltyMelee42.xml -->
+	<!-- EN: handle -->
+	<MeleeWeapon_Axe.tools.0.label>handle</MeleeWeapon_Axe.tools.0.label>
+	<!-- EN: edge -->
+	<MeleeWeapon_Axe.tools.1.label>edge</MeleeWeapon_Axe.tools.1.label>
+	
+	<!-- EN: handle -->
+	<MeleeWeapon_Warhammer.tools.0.label>handle</MeleeWeapon_Warhammer.tools.0.label>
+	<!-- EN: head -->
+	<MeleeWeapon_Warhammer.tools.1.label>head</MeleeWeapon_Warhammer.tools.1.label>
+	
+	<!-- EN: head -->
+	<MeleeWeapon_PsyfocusStaff.tools.0.label>head</MeleeWeapon_PsyfocusStaff.tools.0.label>
+	
+	<!-- EN: handle -->
+	<MeleeWeapon_MonoSword.tools.0.label>handle</MeleeWeapon_MonoSword.tools.0.label>
+	<!-- EN: edge -->
+	<MeleeWeapon_MonoSword.tools.1.label>edge</MeleeWeapon_MonoSword.tools.1.label>
+	<!-- EN: point -->
+	<MeleeWeapon_MonoSword.tools.2.label>point</MeleeWeapon_MonoSword.tools.2.label>
+	
+	<!-- EN: handle -->
+	<MeleeWeapon_Zeushammer.tools.0.label>handle</MeleeWeapon_Zeushammer.tools.0.label>
+	<!-- EN: head -->
+	<MeleeWeapon_Zeushammer.tools.1.label>head</MeleeWeapon_Zeushammer.tools.1.label>
+	
+	<!-- EN: handle -->
+	<MeleeWeapon_PlasmaSword.tools.0.label>handle</MeleeWeapon_PlasmaSword.tools.0.label>
+	<!-- EN: edge -->
+	<MeleeWeapon_PlasmaSword.tools.1.label>edge</MeleeWeapon_PlasmaSword.tools.1.label>
+	<!-- EN: point -->
+	<MeleeWeapon_PlasmaSword.tools.2.label>point</MeleeWeapon_PlasmaSword.tools.2.label>
+</LanguageData>

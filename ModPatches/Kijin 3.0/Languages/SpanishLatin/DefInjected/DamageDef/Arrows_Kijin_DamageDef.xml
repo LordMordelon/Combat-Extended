@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- ModPatches\Kijin 3.0\Defs\Kijin 3.0\Ammo\Arrows_Kijin.xml -->
+	<!-- EN: flame -->
+	<Flame_Nopenetration.label>flame</Flame_Nopenetration.label>
+	<!-- EN: {0} has burned to death. -->
+	<Flame_Nopenetration.deathMessage>{0} has burned to death.</Flame_Nopenetration.deathMessage>
+</LanguageData>

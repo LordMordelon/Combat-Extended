@@ -1,0 +1,20 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Kompadt_Warhammer_Dryad\Race_Dryad1942.xml -->
+	<!-- EN: left branch -->
+	<Alien_Dryad.tools.0.label>left branch</Alien_Dryad.tools.0.label>
+	<!-- EN: right branch -->
+	<Alien_Dryad.tools.1.label>right branch</Alien_Dryad.tools.1.label>
+	<!-- EN: head -->
+	<Alien_Dryad.tools.2.label>head</Alien_Dryad.tools.2.label>
+	<!-- EN: teeth -->
+	<Alien_Dryad.tools.3.label>teeth</Alien_Dryad.tools.3.label>
+	
+	<!-- EN: left branch -->
+	<Alien_DryadWild.tools.0.label>left branch</Alien_DryadWild.tools.0.label>
+	<!-- EN: right branch -->
+	<Alien_DryadWild.tools.1.label>right branch</Alien_DryadWild.tools.1.label>
+	<!-- EN: head -->
+	<Alien_DryadWild.tools.2.label>head</Alien_DryadWild.tools.2.label>
+	<!-- EN: teeth -->
+	<Alien_DryadWild.tools.3.label>teeth</Alien_DryadWild.tools.3.label>
+</LanguageData>

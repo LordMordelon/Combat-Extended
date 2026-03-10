@@ -1,0 +1,63 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\zerithos_NiHal\Weapons1161.xml -->
+	<!-- EN: grip -->
+	<Gun_NihalPistol.tools.0.label>grip</Gun_NihalPistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_NihalPistol.tools.1.label>muzzle</Gun_NihalPistol.tools.1.label>
+	
+	<!-- EN: stock -->
+	<Gun_NihalShotgun.tools.0.label>stock</Gun_NihalShotgun.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_NihalShotgun.tools.1.label>barrel</Gun_NihalShotgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_NihalShotgun.tools.2.label>muzzle</Gun_NihalShotgun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_NihalRifle.tools.0.label>stock</Gun_NihalRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_NihalRifle.tools.1.label>barrel</Gun_NihalRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_NihalRifle.tools.2.label>muzzle</Gun_NihalRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_NihalLMG.tools.0.label>stock</Gun_NihalLMG.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_NihalLMG.tools.1.label>barrel</Gun_NihalLMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_NihalLMG.tools.2.label>muzzle</Gun_NihalLMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_NihalSniper.tools.0.label>stock</Gun_NihalSniper.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_NihalSniper.tools.1.label>barrel</Gun_NihalSniper.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_NihalSniper.tools.2.label>muzzle</Gun_NihalSniper.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_NihalThoober.tools.0.label>stock</Gun_NihalThoober.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_NihalThoober.tools.1.label>barrel</Gun_NihalThoober.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_NihalThoober.tools.2.label>muzzle</Gun_NihalThoober.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_NihalCarbine.tools.0.label>stock</Gun_NihalCarbine.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_NihalCarbine.tools.1.label>barrel</Gun_NihalCarbine.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_NihalCarbine.tools.2.label>muzzle</Gun_NihalCarbine.tools.2.label>
+	
+	<!-- EN: barrel -->
+	<Gun_NihalRocket.tools.0.label>barrel</Gun_NihalRocket.tools.0.label>
+	
+	<!-- EN: barrel -->
+	<Gun_NihalTripleRocket.tools.0.label>barrel</Gun_NihalTripleRocket.tools.0.label>
+	
+	<!-- EN: handle -->
+	<MeleeWeapon_fishytooth.tools.0.label>handle</MeleeWeapon_fishytooth.tools.0.label>
+	<!-- EN: edge -->
+	<MeleeWeapon_fishytooth.tools.1.label>edge</MeleeWeapon_fishytooth.tools.1.label>
+	
+	<!-- EN: bayonet -->
+	<Gun_NihalCarbine.tools.0.label>bayonet</Gun_NihalCarbine.tools.0.label>
+</LanguageData>

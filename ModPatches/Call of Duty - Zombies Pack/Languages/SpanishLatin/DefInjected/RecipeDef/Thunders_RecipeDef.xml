@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Thunders\Thunders.xml -->
+	<!-- EN: make Thundergun Cannister x5 -->
+	<MakeAmmo_Thunder.label>make Thundergun Cannister x5</MakeAmmo_Thunder.label>
+	<!-- EN: Craft 5 Thundergun Cannister. -->
+	<MakeAmmo_Thunder.description>Craft 5 Thundergun Cannister.</MakeAmmo_Thunder.description>
+	<!-- EN: Making Thundergun Cannister. -->
+	<MakeAmmo_Thunder.jobString>Making Thundergun Cannister.</MakeAmmo_Thunder.jobString>
+</LanguageData>

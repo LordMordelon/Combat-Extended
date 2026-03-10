@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- ModPatches\MH Mechanical Biomimetics\Defs\MH Mechanical Biomimetics\Ammo_SwarmShell.xml -->
+	<!-- EN: swarm shell -->
+	<SwarmShell.label>swarm shell</SwarmShell.label>
+	<!-- EN: Releases several pre-programmed microscythers on impact. -->
+	<SwarmShell.description>Releases several pre-programmed microscythers on impact.</SwarmShell.description>
+</LanguageData>

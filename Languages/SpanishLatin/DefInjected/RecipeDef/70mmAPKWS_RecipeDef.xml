@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Defs\Ammo\Rocket\70mmAPKWS.xml -->
+	<!-- EN: make 70mm APKWS (HEAT) rockets x5 -->
+	<MakeAmmo_70mmAPKWS_HEAT.label>make 70mm APKWS (HEAT) rockets x5</MakeAmmo_70mmAPKWS_HEAT.label>
+	<!-- EN: Craft 70mm APKWS (HEAT) rockets. -->
+	<MakeAmmo_70mmAPKWS_HEAT.description>Craft 70mm APKWS (HEAT) rockets.</MakeAmmo_70mmAPKWS_HEAT.description>
+	<!-- EN: Making 70mm APKWS (HEAT) rockets. -->
+	<MakeAmmo_70mmAPKWS_HEAT.jobString>Making 70mm APKWS (HEAT) rockets.</MakeAmmo_70mmAPKWS_HEAT.jobString>
+</LanguageData>

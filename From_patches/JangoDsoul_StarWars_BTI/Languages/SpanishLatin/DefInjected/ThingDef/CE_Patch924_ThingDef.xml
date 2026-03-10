@@ -1,0 +1,138 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\JangoDsoul_StarWars_BTI\CE_Patch924.xml -->
+	<!-- EN: grip -->
+	<DC-17_Blaster_Pistol.tools.0.label>grip</DC-17_Blaster_Pistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<DC-17_Blaster_Pistol.tools.1.label>muzzle</DC-17_Blaster_Pistol.tools.1.label>
+	
+	<!-- EN: grip -->
+	<DC17B_Blaster_Pistol.tools.0.label>grip</DC17B_Blaster_Pistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<DC17B_Blaster_Pistol.tools.1.label>muzzle</DC17B_Blaster_Pistol.tools.1.label>
+	
+	<!-- EN: stock -->
+	<DC-15S_Blaster_Carbine.tools.0.label>stock</DC-15S_Blaster_Carbine.tools.0.label>
+	<!-- EN: barrel -->
+	<DC-15S_Blaster_Carbine.tools.1.label>barrel</DC-15S_Blaster_Carbine.tools.1.label>
+	<!-- EN: muzzle -->
+	<DC-15S_Blaster_Carbine.tools.2.label>muzzle</DC-15S_Blaster_Carbine.tools.2.label>
+	
+	<!-- EN: stock -->
+	<DC-15A_Blaster_Rifle.tools.0.label>stock</DC-15A_Blaster_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<DC-15A_Blaster_Rifle.tools.1.label>barrel</DC-15A_Blaster_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<DC-15A_Blaster_Rifle.tools.2.label>muzzle</DC-15A_Blaster_Rifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Z6_Rotary_Blaster_Cannon.tools.0.label>stock</Z6_Rotary_Blaster_Cannon.tools.0.label>
+	<!-- EN: barrel -->
+	<Z6_Rotary_Blaster_Cannon.tools.1.label>barrel</Z6_Rotary_Blaster_Cannon.tools.1.label>
+	<!-- EN: muzzle -->
+	<Z6_Rotary_Blaster_Cannon.tools.2.label>muzzle</Z6_Rotary_Blaster_Cannon.tools.2.label>
+	
+	<!-- EN: stock -->
+	<DC-17M_Repeating_Blaster_Rifle.tools.0.label>stock</DC-17M_Repeating_Blaster_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<DC-17M_Repeating_Blaster_Rifle.tools.1.label>barrel</DC-17M_Repeating_Blaster_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<DC-17M_Repeating_Blaster_Rifle.tools.2.label>muzzle</DC-17M_Repeating_Blaster_Rifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<DC15x_Sinper_Rifle.tools.0.label>stock</DC15x_Sinper_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<DC15x_Sinper_Rifle.tools.1.label>barrel</DC15x_Sinper_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<DC15x_Sinper_Rifle.tools.2.label>muzzle</DC15x_Sinper_Rifle.tools.2.label>
+	
+	<!-- EN: grip -->
+	<SE-14_Light_Blaster_Pistol.tools.0.label>grip</SE-14_Light_Blaster_Pistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<SE-14_Light_Blaster_Pistol.tools.1.label>muzzle</SE-14_Light_Blaster_Pistol.tools.1.label>
+	
+	<!-- EN: stock -->
+	<E-5_Blaster_Rifle.tools.0.label>stock</E-5_Blaster_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<E-5_Blaster_Rifle.tools.1.label>barrel</E-5_Blaster_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<E-5_Blaster_Rifle.tools.2.label>muzzle</E-5_Blaster_Rifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<EE-3_Carbine_Rifle.tools.0.label>stock</EE-3_Carbine_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<EE-3_Carbine_Rifle.tools.1.label>barrel</EE-3_Carbine_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<EE-3_Carbine_Rifle.tools.2.label>muzzle</EE-3_Carbine_Rifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<E-5S_Sniper_Rifle.tools.0.label>stock</E-5S_Sniper_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<E-5S_Sniper_Rifle.tools.1.label>barrel</E-5S_Sniper_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<E-5S_Sniper_Rifle.tools.2.label>muzzle</E-5S_Sniper_Rifle.tools.2.label>
+	
+	<!-- EN: grip -->
+	<Westar-34_Blaster_Pistol.tools.0.label>grip</Westar-34_Blaster_Pistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<Westar-34_Blaster_Pistol.tools.1.label>muzzle</Westar-34_Blaster_Pistol.tools.1.label>
+	
+	<!-- EN: grip -->
+	<Westar-35_Blaster_Pistol.tools.0.label>grip</Westar-35_Blaster_Pistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<Westar-35_Blaster_Pistol.tools.1.label>muzzle</Westar-35_Blaster_Pistol.tools.1.label>
+	
+	<!-- EN: stock -->
+	<Westar-M5_Blaster_Rifle.tools.0.label>stock</Westar-M5_Blaster_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Westar-M5_Blaster_Rifle.tools.1.label>barrel</Westar-M5_Blaster_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Westar-M5_Blaster_Rifle.tools.2.label>muzzle</Westar-M5_Blaster_Rifle.tools.2.label>
+	
+	<!-- EN: grip -->
+	<B-2_Super_Droid_Wrist_Blaster.tools.0.label>grip</B-2_Super_Droid_Wrist_Blaster.tools.0.label>
+	<!-- EN: barrel -->
+	<B-2_Super_Droid_Wrist_Blaster.tools.1.label>barrel</B-2_Super_Droid_Wrist_Blaster.tools.1.label>
+	
+	<!-- EN: grip -->
+	<Droidekas_Blaster.tools.0.label>grip</Droidekas_Blaster.tools.0.label>
+	<!-- EN: barrel -->
+	<Droidekas_Blaster.tools.1.label>barrel</Droidekas_Blaster.tools.1.label>
+	
+	<!-- EN: grip -->
+	<B-2_Super_Droid_Wrist_Cannon.tools.0.label>grip</B-2_Super_Droid_Wrist_Cannon.tools.0.label>
+	<!-- EN: barrel -->
+	<B-2_Super_Droid_Wrist_Cannon.tools.1.label>barrel</B-2_Super_Droid_Wrist_Cannon.tools.1.label>
+	
+	<!-- EN: stock -->
+	<Mando_Blaster_Carbine.tools.0.label>stock</Mando_Blaster_Carbine.tools.0.label>
+	<!-- EN: barrel -->
+	<Mando_Blaster_Carbine.tools.1.label>barrel</Mando_Blaster_Carbine.tools.1.label>
+	<!-- EN: muzzle -->
+	<Mando_Blaster_Carbine.tools.2.label>muzzle</Mando_Blaster_Carbine.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Mando_Heavy_Weapon.tools.0.label>stock</Mando_Heavy_Weapon.tools.0.label>
+	<!-- EN: barrel -->
+	<Mando_Heavy_Weapon.tools.1.label>barrel</Mando_Heavy_Weapon.tools.1.label>
+	<!-- EN: muzzle -->
+	<Mando_Heavy_Weapon.tools.2.label>muzzle</Mando_Heavy_Weapon.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Amban_Rifle.tools.0.label>stock</Amban_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Amban_Rifle.tools.1.label>barrel</Amban_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Amban_Rifle.tools.2.label>muzzle</Amban_Rifle.tools.2.label>
+	
+	<!-- EN: jab -->
+	<Electrostaff.tools.0.label>jab</Electrostaff.tools.0.label>
+	<!-- EN: head -->
+	<Electrostaff.tools.1.label>head</Electrostaff.tools.1.label>
+	
+	<!-- EN: handle -->
+	<Vibrosword.tools.0.label>handle</Vibrosword.tools.0.label>
+	<!-- EN: point -->
+	<Vibrosword.tools.1.label>point</Vibrosword.tools.1.label>
+	<!-- EN: edge -->
+	<Vibrosword.tools.2.label>edge</Vibrosword.tools.2.label>
+</LanguageData>

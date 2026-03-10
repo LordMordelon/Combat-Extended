@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- ModPatches\Censored Armory\Defs\Censored Armory\75cm leIG18.xml -->
+	
+	<!-- EN: make 7.5 cm HE cannon shells x5 -->
+	<MakeAmmo_75cmleIG18CannonShell_HE.label>make 7.5 cm HE cannon shells x5</MakeAmmo_75cmleIG18CannonShell_HE.label>
+	<!-- EN: Craft 5 7.5 cm HE cannon shells. -->
+	<MakeAmmo_75cmleIG18CannonShell_HE.description>Craft 5 7.5 cm HE cannon shells.</MakeAmmo_75cmleIG18CannonShell_HE.description>
+	<!-- EN: Making 7.5 cm HE cannon shells. -->
+	<MakeAmmo_75cmleIG18CannonShell_HE.jobString>Making 7.5 cm HE cannon shells.</MakeAmmo_75cmleIG18CannonShell_HE.jobString>
+	
+	<!-- EN: make 7.5 cm EMP cannon shells x5 -->
+	<MakeAmmo_75cmleIG18CannonShell_EMP.label>make 7.5 cm EMP cannon shells x5</MakeAmmo_75cmleIG18CannonShell_EMP.label>
+	<!-- EN: Craft 5 7.5 cm EMP cannon shells. -->
+	<MakeAmmo_75cmleIG18CannonShell_EMP.description>Craft 5 7.5 cm EMP cannon shells.</MakeAmmo_75cmleIG18CannonShell_EMP.description>
+	<!-- EN: Making 7.5 cm EMP cannon shells. -->
+	<MakeAmmo_75cmleIG18CannonShell_EMP.jobString>Making 7.5 cm EMP cannon shells.</MakeAmmo_75cmleIG18CannonShell_EMP.jobString>
+</LanguageData>

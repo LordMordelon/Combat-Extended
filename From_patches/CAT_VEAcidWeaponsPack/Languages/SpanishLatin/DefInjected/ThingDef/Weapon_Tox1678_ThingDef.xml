@@ -1,0 +1,29 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\CAT_VEAcidWeaponsPack\Weapon_Tox1678.xml -->
+	<!-- EN: handle -->
+	<CAT_ToxRapier.tools.0.label>handle</CAT_ToxRapier.tools.0.label>
+	<!-- EN: point -->
+	<CAT_ToxRapier.tools.1.label>point</CAT_ToxRapier.tools.1.label>
+	<!-- EN: edge -->
+	<CAT_ToxRapier.tools.2.label>edge</CAT_ToxRapier.tools.2.label>
+	
+	<!-- EN: handle -->
+	<CAT_ToxScythe.tools.0.label>handle</CAT_ToxScythe.tools.0.label>
+	<!-- EN: edge -->
+	<CAT_ToxScythe.tools.1.label>edge</CAT_ToxScythe.tools.1.label>
+	
+	<!-- EN: point -->
+	<CAT_ToxGauntlet.tools.0.label>point</CAT_ToxGauntlet.tools.0.label>
+	<!-- EN: edge -->
+	<CAT_ToxGauntlet.tools.1.label>edge</CAT_ToxGauntlet.tools.1.label>
+	
+	<!-- EN: edge -->
+	<CAT_ToxTriblade.tools.0.label>edge</CAT_ToxTriblade.tools.0.label>
+	
+	<!-- EN: stock -->
+	<CAT_Fletcher_Crossbow.tools.0.label>stock</CAT_Fletcher_Crossbow.tools.0.label>
+	<!-- EN: barrel -->
+	<CAT_Fletcher_Crossbow.tools.1.label>barrel</CAT_Fletcher_Crossbow.tools.1.label>
+	<!-- EN: muzzle -->
+	<CAT_Fletcher_Crossbow.tools.2.label>muzzle</CAT_Fletcher_Crossbow.tools.2.label>
+</LanguageData>

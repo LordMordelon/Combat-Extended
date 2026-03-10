@@ -1,0 +1,24 @@
+<LanguageData>
+	<!-- ModPatches\Miho Race\Defs\Miho Race\Ammo\47x398mmR.xml -->
+	
+	<!-- EN: make 47x398mmR (AP) shells x5 -->
+	<MakeAmmo_47x398mmR_AP.label>make 47x398mmR (AP) shells x5</MakeAmmo_47x398mmR_AP.label>
+	<!-- EN: Craft 5 47x398mmR (AP) shells. -->
+	<MakeAmmo_47x398mmR_AP.description>Craft 5 47x398mmR (AP) shells.</MakeAmmo_47x398mmR_AP.description>
+	<!-- EN: Making 47x398mmR (AP) shells. -->
+	<MakeAmmo_47x398mmR_AP.jobString>Making 47x398mmR (AP) shells.</MakeAmmo_47x398mmR_AP.jobString>
+	
+	<!-- EN: make 47x398mmR (HE) cartridge x5 -->
+	<MakeAmmo_47x398mmR_HE.label>make 47x398mmR (HE) cartridge x5</MakeAmmo_47x398mmR_HE.label>
+	<!-- EN: Craft 5 47x398mmR (HE) cartridges. -->
+	<MakeAmmo_47x398mmR_HE.description>Craft 5 47x398mmR (HE) cartridges.</MakeAmmo_47x398mmR_HE.description>
+	<!-- EN: Making 47x398mmR (HE) cartridges. -->
+	<MakeAmmo_47x398mmR_HE.jobString>Making 47x398mmR (HE) cartridges.</MakeAmmo_47x398mmR_HE.jobString>
+	
+	<!-- EN: make 47x398mmR (EMP) cartridge x5 -->
+	<MakeAmmo_47x398mmR_EMP.label>make 47x398mmR (EMP) cartridge x5</MakeAmmo_47x398mmR_EMP.label>
+	<!-- EN: Craft 5 47x398mmR (EMP) cartridges. -->
+	<MakeAmmo_47x398mmR_EMP.description>Craft 5 47x398mmR (EMP) cartridges.</MakeAmmo_47x398mmR_EMP.description>
+	<!-- EN: Making 47x398mmR (EMP) cartridges. -->
+	<MakeAmmo_47x398mmR_EMP.jobString>Making 47x398mmR (EMP) cartridges.</MakeAmmo_47x398mmR_EMP.jobString>
+</LanguageData>

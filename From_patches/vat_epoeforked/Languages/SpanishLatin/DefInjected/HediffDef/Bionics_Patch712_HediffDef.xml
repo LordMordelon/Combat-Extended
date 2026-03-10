@@ -1,0 +1,29 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\vat_epoeforked\Bionics_Patch712.xml -->
+	<!-- EN: blade -->
+	<EPOE_ScytherBlade.comps.0.tools.0.label>blade</EPOE_ScytherBlade.comps.0.tools.0.label>
+	<!-- EN: blade -->
+	<EPOE_ScytherBlade.comps.0.tools.1.label>blade</EPOE_ScytherBlade.comps.0.tools.1.label>
+	<!-- EN: hook hand -->
+	<HookHand.comps.0.tools.0.label>hook hand</HookHand.comps.0.tools.0.label>
+	<!-- EN: fist -->
+	<BionicHand.comps.0.tools.0.label>fist</BionicHand.comps.0.tools.0.label>
+	<!-- EN: fist -->
+	<AdvancedBionicArm.comps.0.tools.0.label>fist</AdvancedBionicArm.comps.0.tools.0.label>
+	<!-- EN: fist -->
+	<AdvancedBionicHand.comps.0.tools.0.label>fist</AdvancedBionicHand.comps.0.tools.0.label>
+	<!-- EN: claw -->
+	<PowerArm.comps.0.tools.0.label>claw</PowerArm.comps.0.tools.0.label>
+	<!-- EN: claw -->
+	<AdvancedPowerArm.comps.0.tools.0.label>claw</AdvancedPowerArm.comps.0.tools.0.label>
+	<!-- EN: fist -->
+	<SimpleProstheticHand.comps.0.tools.0.label>fist</SimpleProstheticHand.comps.0.tools.0.label>
+	<!-- EN: teeth -->
+	<AdvancedBionicJaw.comps.0.tools.0.label>teeth</AdvancedBionicJaw.comps.0.tools.0.label>
+	<!-- EN: teeth -->
+	<BionicJaw.comps.0.tools.0.label>teeth</BionicJaw.comps.0.tools.0.label>
+	<!-- EN: teeth -->
+	<SilentJaw.comps.0.tools.0.label>teeth</SilentJaw.comps.0.tools.0.label>
+	<!-- EN: teeth -->
+	<HydraulicJaw.comps.0.tools.0.label>teeth</HydraulicJaw.comps.0.tools.0.label>
+</LanguageData>

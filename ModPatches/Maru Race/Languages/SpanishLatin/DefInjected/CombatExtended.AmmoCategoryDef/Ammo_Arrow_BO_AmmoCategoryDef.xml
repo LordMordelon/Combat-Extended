@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Maru Race\Defs\Maru Race\Ammo_Arrow_BO.xml -->
+	<!-- EN: Modded Arrow -->
+	<MaruArrow.label>Modded Arrow</MaruArrow.label>
+	<!-- EN: Arrow (Modded) -->
+	<MaruArrow.labelShort>Arrow (Modded)</MaruArrow.labelShort>
+	<!-- EN: Advanced arrows with various modifications -->
+	<MaruArrow.description>Advanced arrows with various modifications</MaruArrow.description>
+</LanguageData>

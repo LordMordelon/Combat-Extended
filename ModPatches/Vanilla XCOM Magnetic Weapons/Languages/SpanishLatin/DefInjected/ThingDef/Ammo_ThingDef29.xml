@@ -1,0 +1,100 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla XCOM Magnetic Weapons\Defs\Vanilla XCOM Magnetic Weapons\Ammo.xml -->
+	
+	<!-- EN: 4mm Railgun cartridge (Sabot) -->
+	<Ammo_4mmRailgun_Sabot.label>4mm Railgun cartridge (Sabot)</Ammo_4mmRailgun_Sabot.label>
+	<!-- EN: Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for railgun rifles. -->
+	<Ammo_4mmRailgun_Sabot.description>Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for railgun rifles.</Ammo_4mmRailgun_Sabot.description>
+	
+	<!-- EN: 4mm Railgun cartridge (AP-I) -->
+	<Ammo_4mmRailgun_API.label>4mm Railgun cartridge (AP-I)</Ammo_4mmRailgun_API.label>
+	<!-- EN: Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for railgun rifles. -->
+	<Ammo_4mmRailgun_API.description>Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for railgun rifles.</Ammo_4mmRailgun_API.description>
+	
+	<!-- EN: 4mm Railgun cartridge (HE) -->
+	<Ammo_4mmRailgun_APHE.label>4mm Railgun cartridge (HE)</Ammo_4mmRailgun_APHE.label>
+	<!-- EN: Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for railgun rifles. -->
+	<Ammo_4mmRailgun_APHE.description>Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for railgun rifles.</Ammo_4mmRailgun_APHE.description>
+	
+	<!-- EN: 4mm Railgun cartridge (Ion) -->
+	<Ammo_4mmRailgun_EMP.label>4mm Railgun cartridge (Ion)</Ammo_4mmRailgun_EMP.label>
+	<!-- EN: Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for railgun rifles. -->
+	<Ammo_4mmRailgun_EMP.description>Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for railgun rifles.</Ammo_4mmRailgun_EMP.description>
+	
+	<!-- EN: 4mm Railgun bullet (Sabot) -->
+	<Bullet_XCOM4mmRailgun_Sabot.label>4mm Railgun bullet (Sabot)</Bullet_XCOM4mmRailgun_Sabot.label>
+	
+	<!-- EN: 4mm Railgun bullet (AP-I) -->
+	<Bullet_XCOM4mmRailgun_API.label>4mm Railgun bullet (AP-I)</Bullet_XCOM4mmRailgun_API.label>
+	
+	<!-- EN: 4mm Railgun bullet (HE) -->
+	<Bullet_XCOM4mmRailgun_APHE.label>4mm Railgun bullet (HE)</Bullet_XCOM4mmRailgun_APHE.label>
+	
+	<!-- EN: 4mm Railgun bullet (Ion) -->
+	<Bullet_XCOM4mmRailgun_EMP.label>4mm Railgun bullet (Ion)</Bullet_XCOM4mmRailgun_EMP.label>
+	
+	<!-- EN: 6mm Railgun cartridge (AP-I) -->
+	<Ammo_6mmRailgun_API.label>6mm Railgun cartridge (AP-I)</Ammo_6mmRailgun_API.label>
+	<!-- EN: Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for railgun rifles. -->
+	<Ammo_6mmRailgun_API.description>Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for railgun rifles.</Ammo_6mmRailgun_API.description>
+	
+	<!-- EN: 6mm Railgun cartridge (HE) -->
+	<Ammo_6mmRailgun_APHE.label>6mm Railgun cartridge (HE)</Ammo_6mmRailgun_APHE.label>
+	<!-- EN: Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for railgun rifles. -->
+	<Ammo_6mmRailgun_APHE.description>Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for railgun rifles.</Ammo_6mmRailgun_APHE.description>
+	
+	<!-- EN: 6mm Railgun cartridge (Ion) -->
+	<Ammo_6mmRailgun_EMP.label>6mm Railgun cartridge (Ion)</Ammo_6mmRailgun_EMP.label>
+	<!-- EN: Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for railgun rifles. -->
+	<Ammo_6mmRailgun_EMP.description>Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for railgun rifles.</Ammo_6mmRailgun_EMP.description>
+	
+	<!-- EN: 6mm Railgun bullet (Sabot) -->
+	<Bullet_XCOM6mmRailgun_Sabot.label>6mm Railgun bullet (Sabot)</Bullet_XCOM6mmRailgun_Sabot.label>
+	
+	<!-- EN: 6mm Railgun bullet (AP-I) -->
+	<Bullet_XCOM6mmRailgun_API.label>6mm Railgun bullet (AP-I)</Bullet_XCOM6mmRailgun_API.label>
+	
+	<!-- EN: 6mm Railgun bullet (HE) -->
+	<Bullet_XCOM6mmRailgun_APHE.label>6mm Railgun bullet (HE)</Bullet_XCOM6mmRailgun_APHE.label>
+	
+	<!-- EN: 6mm Railgun bullet (Ion) -->
+	<Bullet_XCOM6mmRailgun_EMP.label>6mm Railgun bullet (Ion)</Bullet_XCOM6mmRailgun_EMP.label>
+	
+	<!-- EN: 8mm Railgun cartridge (AP-I) -->
+	<Ammo_8mmRailgun_API.label>8mm Railgun cartridge (AP-I)</Ammo_8mmRailgun_API.label>
+	<!-- EN: Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for railgun pistols. -->
+	<Ammo_8mmRailgun_API.description>Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for railgun pistols.</Ammo_8mmRailgun_API.description>
+	
+	<!-- EN: 8mm Railgun cartridge (HE) -->
+	<Ammo_8mmRailgun_APHE.label>8mm Railgun cartridge (HE)</Ammo_8mmRailgun_APHE.label>
+	<!-- EN: Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for railgun pistols. -->
+	<Ammo_8mmRailgun_APHE.description>Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for railgun pistols.</Ammo_8mmRailgun_APHE.description>
+	
+	<!-- EN: 8mm Railgun cartridge (Ion) -->
+	<Ammo_8mmRailgun_EMP.label>8mm Railgun cartridge (Ion)</Ammo_8mmRailgun_EMP.label>
+	<!-- EN: Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for railgun pistols. -->
+	<Ammo_8mmRailgun_EMP.description>Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for railgun pistols.</Ammo_8mmRailgun_EMP.description>
+	
+	<!-- EN: 8mm Railgun bullet (Sabot) -->
+	<Bullet_XCOM8mmRailgun_Sabot.label>8mm Railgun bullet (Sabot)</Bullet_XCOM8mmRailgun_Sabot.label>
+	
+	<!-- EN: 8mm Railgun bullet (AP-I) -->
+	<Bullet_XCOM8mmRailgun_API.label>8mm Railgun bullet (AP-I)</Bullet_XCOM8mmRailgun_API.label>
+	
+	<!-- EN: 8mm Railgun bullet (HE) -->
+	<Bullet_XCOM8mmRailgun_APHE.label>8mm Railgun bullet (HE)</Bullet_XCOM8mmRailgun_APHE.label>
+	
+	<!-- EN: 8mm Railgun bullet (Ion) -->
+	<Bullet_XCOM8mmRailgun_EMP.label>8mm Railgun bullet (Ion)</Bullet_XCOM8mmRailgun_EMP.label>
+	
+	<!-- EN: 12mm Railgun bullet (Sabot) -->
+	<Bullet_XCOM12mmRailgun_Sabot.label>12mm Railgun bullet (Sabot)</Bullet_XCOM12mmRailgun_Sabot.label>
+	
+	<!-- EN: 12 Gauge railgun bullet (Sabot) -->
+	<Ammo_12GaugeRailgun_Sabot.label>12 Gauge railgun bullet (Sabot)</Ammo_12GaugeRailgun_Sabot.label>
+	<!-- EN: Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for railgun rifles. -->
+	<Ammo_12GaugeRailgun_Sabot.description>Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for railgun rifles.</Ammo_12GaugeRailgun_Sabot.description>
+	
+	<!-- EN: 12 Gauge railgun bullet (Sabot) -->
+	<Bullet_XCOMScatterRailgun_Sabot.label>12 Gauge railgun bullet (Sabot)</Bullet_XCOMScatterRailgun_Sabot.label>
+</LanguageData>

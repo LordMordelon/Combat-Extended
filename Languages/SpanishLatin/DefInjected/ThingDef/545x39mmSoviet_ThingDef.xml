@@ -1,0 +1,69 @@
+<LanguageData>
+	<!-- Defs\Ammo\Rifle\545x39mmSoviet.xml -->
+	
+	<!-- EN: 5.45x39mm Soviet (FMJ) -->
+	<Ammo_545x39mmSoviet_FMJ.label>5.45x39mm Soviet (FMJ)</Ammo_545x39mmSoviet_FMJ.label>
+	<!-- EN: Small, high-velocity rifle bullet used in a variety of assault rifles. -->
+	<Ammo_545x39mmSoviet_FMJ.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_545x39mmSoviet_FMJ.description>
+	
+	<!-- EN: 5.45x39mm Soviet (AP) -->
+	<Ammo_545x39mmSoviet_AP.label>5.45x39mm Soviet (AP)</Ammo_545x39mmSoviet_AP.label>
+	<!-- EN: Small, high-velocity rifle bullet used in a variety of assault rifles. -->
+	<Ammo_545x39mmSoviet_AP.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_545x39mmSoviet_AP.description>
+	
+	<!-- EN: 5.45x39mm Soviet (HP) -->
+	<Ammo_545x39mmSoviet_HP.label>5.45x39mm Soviet (HP)</Ammo_545x39mmSoviet_HP.label>
+	<!-- EN: Small, high-velocity rifle bullet used in a variety of assault rifles. -->
+	<Ammo_545x39mmSoviet_HP.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_545x39mmSoviet_HP.description>
+	
+	<!-- EN: 5.45x39mm Soviet (AP-I) -->
+	<Ammo_545x39mmSoviet_Incendiary.label>5.45x39mm Soviet (AP-I)</Ammo_545x39mmSoviet_Incendiary.label>
+	<!-- EN: Small, high-velocity rifle bullet used in a variety of assault rifles. -->
+	<Ammo_545x39mmSoviet_Incendiary.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_545x39mmSoviet_Incendiary.description>
+	
+	<!-- EN: 5.45x39mm Soviet (AP-HE) -->
+	<Ammo_545x39mmSoviet_HE.label>5.45x39mm Soviet (AP-HE)</Ammo_545x39mmSoviet_HE.label>
+	<!-- EN: Small, high-velocity rifle bullet used in a variety of assault rifles. -->
+	<Ammo_545x39mmSoviet_HE.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_545x39mmSoviet_HE.description>
+	
+	<!-- EN: 5.45x39mm Soviet (Sabot) -->
+	<Ammo_545x39mmSoviet_Sabot.label>5.45x39mm Soviet (Sabot)</Ammo_545x39mmSoviet_Sabot.label>
+	<!-- EN: Small, high-velocity rifle bullet used in a variety of assault rifles. -->
+	<Ammo_545x39mmSoviet_Sabot.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_545x39mmSoviet_Sabot.description>
+	
+	<!-- EN: 5.45mm Soviet bullet (FMJ) -->
+	<Bullet_545x39mmSoviet_FMJ.label>5.45mm Soviet bullet (FMJ)</Bullet_545x39mmSoviet_FMJ.label>
+	
+	<!-- EN: 5.45mm Soviet bullet (AP) -->
+	<Bullet_545x39mmSoviet_AP.label>5.45mm Soviet bullet (AP)</Bullet_545x39mmSoviet_AP.label>
+	
+	<!-- EN: 5.45mm Soviet bullet (HP) -->
+	<Bullet_545x39mmSoviet_HP.label>5.45mm Soviet bullet (HP)</Bullet_545x39mmSoviet_HP.label>
+	
+	<!-- EN: 5.45mm Soviet bullet (AP-I) -->
+	<Bullet_545x39mmSoviet_Incendiary.label>5.45mm Soviet bullet (AP-I)</Bullet_545x39mmSoviet_Incendiary.label>
+	
+	<!-- EN: 5.45mm Soviet bullet (AP-HE) -->
+	<Bullet_545x39mmSoviet_HE.label>5.45mm Soviet bullet (AP-HE)</Bullet_545x39mmSoviet_HE.label>
+	
+	<!-- EN: 5.45mm Soviet bullet (Sabot) -->
+	<Bullet_545x39mmSoviet_Sabot.label>5.45mm Soviet bullet (Sabot)</Bullet_545x39mmSoviet_Sabot.label>
+	
+	<!-- EN: 5.45mm Soviet bullet (FMJ) -->
+	<Bullet_545x39mmSoviet_FMJ_SB.label>5.45mm Soviet bullet (FMJ)</Bullet_545x39mmSoviet_FMJ_SB.label>
+	
+	<!-- EN: 5.45mm Soviet bullet (AP) -->
+	<Bullet_545x39mmSoviet_AP_SB.label>5.45mm Soviet bullet (AP)</Bullet_545x39mmSoviet_AP_SB.label>
+	
+	<!-- EN: 5.45mm Soviet bullet (HP) -->
+	<Bullet_545x39mmSoviet_HP_SB.label>5.45mm Soviet bullet (HP)</Bullet_545x39mmSoviet_HP_SB.label>
+	
+	<!-- EN: 5.45mm Soviet bullet (AP-I) -->
+	<Bullet_545x39mmSoviet_Incendiary_SB.label>5.45mm Soviet bullet (AP-I)</Bullet_545x39mmSoviet_Incendiary_SB.label>
+	
+	<!-- EN: 5.45mm Soviet bullet (AP-HE) -->
+	<Bullet_545x39mmSoviet_HE_SB.label>5.45mm Soviet bullet (AP-HE)</Bullet_545x39mmSoviet_HE_SB.label>
+	
+	<!-- EN: 5.45mm Soviet bullet (Sabot) -->
+	<Bullet_545x39mmSoviet_Sabot_SB.label>5.45mm Soviet bullet (Sabot)</Bullet_545x39mmSoviet_Sabot_SB.label>
+</LanguageData>

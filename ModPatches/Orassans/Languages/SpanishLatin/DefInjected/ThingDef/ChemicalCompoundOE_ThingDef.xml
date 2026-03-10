@@ -1,0 +1,35 @@
+<LanguageData>
+	<!-- ModPatches\Orassans\Defs\Orassans\Ammo\ChemicalCompoundOE.xml -->
+	
+	<!-- EN: Chemical munition OE (Cryo) -->
+	<Ammo_ChemicalCompoundOE_Cryo.label>Chemical munition OE (Cryo)</Ammo_ChemicalCompoundOE_Cryo.label>
+	<!-- EN: Stabilised chemical munition compound stored in special canister, for use in advanced chemical launchers. -->
+	<Ammo_ChemicalCompoundOE_Cryo.description>Stabilised chemical munition compound stored in special canister, for use in advanced chemical launchers.</Ammo_ChemicalCompoundOE_Cryo.description>
+	
+	<!-- EN: Chemical munition OE (Napalm) -->
+	<Ammo_ChemicalCompoundOE_Napalm.label>Chemical munition OE (Napalm)</Ammo_ChemicalCompoundOE_Napalm.label>
+	<!-- EN: Stabilised chemical munition compound stored in special canister, for use in advanced chemical launchers. -->
+	<Ammo_ChemicalCompoundOE_Napalm.description>Stabilised chemical munition compound stored in special canister, for use in advanced chemical launchers.</Ammo_ChemicalCompoundOE_Napalm.description>
+	
+	<!-- EN: Chemical munition OE (A.Prometheum) -->
+	<Ammo_ChemicalCompoundOE_Aprometheum.label>Chemical munition OE (A.Prometheum)</Ammo_ChemicalCompoundOE_Aprometheum.label>
+	<!-- EN: Stabilised chemical munition compound stored in special canister, for use in advanced chemical launchers. -->
+	<Ammo_ChemicalCompoundOE_Aprometheum.description>Stabilised chemical munition compound stored in special canister, for use in advanced chemical launchers.</Ammo_ChemicalCompoundOE_Aprometheum.description>
+	
+	<!-- EN: Chemical munition OE (Thermobaric) -->
+	<Ammo_ChemicalCompoundOE_Thermobaric.label>Chemical munition OE (Thermobaric)</Ammo_ChemicalCompoundOE_Thermobaric.label>
+	<!-- EN: Stabilised chemical munition compound stored in special canister, for use in advanced chemical launchers. -->
+	<Ammo_ChemicalCompoundOE_Thermobaric.description>Stabilised chemical munition compound stored in special canister, for use in advanced chemical launchers.</Ammo_ChemicalCompoundOE_Thermobaric.description>
+	
+	<!-- EN: Chemical munition OE (Cryo) -->
+	<Bullet_ChemicalCompoundOE_Cryo.label>Chemical munition OE (Cryo)</Bullet_ChemicalCompoundOE_Cryo.label>
+	
+	<!-- EN: Chemical munition OE (Napalm) -->
+	<Bullet_ChemicalCompoundOE_Napalm.label>Chemical munition OE (Napalm)</Bullet_ChemicalCompoundOE_Napalm.label>
+	
+	<!-- EN: Chemical munition OE (A.Prometheum) -->
+	<Bullet_ChemicalCompoundOE_Aprometheum.label>Chemical munition OE (A.Prometheum)</Bullet_ChemicalCompoundOE_Aprometheum.label>
+	
+	<!-- EN: Chemical munition OE (Thermobaric) -->
+	<Bullet_ChemicalCompoundOE_Thermobaric.label>Chemical munition OE (Thermobaric)</Bullet_ChemicalCompoundOE_Thermobaric.label>
+</LanguageData>

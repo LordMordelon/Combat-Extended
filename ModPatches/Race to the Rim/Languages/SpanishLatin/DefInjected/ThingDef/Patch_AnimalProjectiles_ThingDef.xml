@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- ModPatches\Race to the Rim\Defs\Race to the Rim\Patch_AnimalProjectiles.xml -->
+	<!-- EN: nightmare breath -->
+	<RttR_NightmareBreathCE.label>nightmare breath</RttR_NightmareBreathCE.label>
+	<!-- EN: razorwhip breath -->
+	<RttR_RazorwhipBreathCE.label>razorwhip breath</RttR_RazorwhipBreathCE.label>
+	<!-- EN: triple stryke breath -->
+	<RttR_TripleStrykeBreathCE.label>triple stryke breath</RttR_TripleStrykeBreathCE.label>
+	<!-- EN: stormcutter breath -->
+	<RttR_StormcutterBreathCE.label>stormcutter breath</RttR_StormcutterBreathCE.label>
+	<!-- EN: terrible terror breath -->
+	<RttR_TerribleTerrorBreathCE.label>terrible terror breath</RttR_TerribleTerrorBreathCE.label>
+	<!-- EN: nadder breath -->
+	<RttR_NadderBreathCE.label>nadder breath</RttR_NadderBreathCE.label>
+</LanguageData>

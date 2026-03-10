@@ -1,0 +1,23 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Killathon_AndroidTiersReforged\Hediffs_Android348.xml -->
+	<!-- EN: drill -->
+	<ATR_MiningArm.comps.0.tools.0.label>drill</ATR_MiningArm.comps.0.tools.0.label>
+	<!-- EN: scythe -->
+	<ATR_AgriArm.comps.0.tools.0.label>scythe</ATR_AgriArm.comps.0.tools.0.label>
+	<!-- EN: charged fist -->
+	<ATR_PacificationArm.comps.0.tools.0.label>charged fist</ATR_PacificationArm.comps.0.tools.0.label>
+	<!-- EN: scalpel -->
+	<ATR_ScalpelArm.comps.0.tools.0.label>scalpel</ATR_ScalpelArm.comps.0.tools.0.label>
+	<!-- EN: scalpel -->
+	<ATR_ScalpelArm.comps.0.tools.1.label>scalpel</ATR_ScalpelArm.comps.0.tools.1.label>
+	<!-- EN: carver -->
+	<ATR_RendingArm.comps.0.tools.0.label>carver</ATR_RendingArm.comps.0.tools.0.label>
+	<!-- EN: carver -->
+	<ATR_RendingArm.comps.0.tools.1.label>carver</ATR_RendingArm.comps.0.tools.1.label>
+	<!-- EN: carver -->
+	<ATR_RendingArm.comps.0.tools.2.label>carver</ATR_RendingArm.comps.0.tools.2.label>
+	<!-- EN: fist -->
+	<ATR_MakeshiftMechArm.comps.0.tools.0.label>fist</ATR_MakeshiftMechArm.comps.0.tools.0.label>
+	<!-- EN: fist -->
+	<ATR_AdvancedArm.comps.0.tools.0.label>fist</ATR_AdvancedArm.comps.0.tools.0.label>
+</LanguageData>

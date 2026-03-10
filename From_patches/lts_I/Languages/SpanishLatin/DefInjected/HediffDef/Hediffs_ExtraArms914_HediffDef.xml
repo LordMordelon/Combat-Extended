@@ -1,0 +1,31 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\lts_I\Hediffs_ExtraArms914.xml -->
+	<!-- EN: fist -->
+	<LeftExtraArchotechArm.comps.0.tools.0.label>fist</LeftExtraArchotechArm.comps.0.tools.0.label>
+	<!-- EN: fist -->
+	<RightExtraArchotechArm.comps.0.tools.0.label>fist</RightExtraArchotechArm.comps.0.tools.0.label>
+	<!-- EN: fist -->
+	<LeftExtraBionicArm.comps.0.tools.0.label>fist</LeftExtraBionicArm.comps.0.tools.0.label>
+	<!-- EN: fist -->
+	<RightExtraBionicArm.comps.0.tools.0.label>fist</RightExtraBionicArm.comps.0.tools.0.label>
+	<!-- EN: power claw -->
+	<LeftExtraPowerClaw.comps.0.tools.0.label>power claw</LeftExtraPowerClaw.comps.0.tools.0.label>
+	<!-- EN: power claw -->
+	<RightExtraPowerClaw.comps.0.tools.0.label>power claw</RightExtraPowerClaw.comps.0.tools.0.label>
+	<!-- EN: drill -->
+	<LeftExtraDrillArm.comps.0.tools.0.label>drill</LeftExtraDrillArm.comps.0.tools.0.label>
+	<!-- EN: drill -->
+	<RightExtraDrillArm.comps.0.tools.0.label>drill</RightExtraDrillArm.comps.0.tools.0.label>
+	<!-- EN: knuckle -->
+	<LeftExtraFieldHand.comps.0.tools.0.label>knuckle</LeftExtraFieldHand.comps.0.tools.0.label>
+	<!-- EN: knuckle -->
+	<RightExtraFieldHand.comps.0.tools.0.label>knuckle</RightExtraFieldHand.comps.0.tools.0.label>
+	<!-- EN: nerve shredder claw -->
+	<LeftExtraNerveShredderClaw.comps.0.tools.0.label>nerve shredder claw</LeftExtraNerveShredderClaw.comps.0.tools.0.label>
+	<!-- EN: nerve shredder claw -->
+	<RightExtraNerveShredderClaw.comps.0.tools.0.label>nerve shredder claw</RightExtraNerveShredderClaw.comps.0.tools.0.label>
+	<!-- EN: deadlife venom claw -->
+	<LeftExtraDeadlifeVenomClaw.comps.0.tools.0.label>deadlife venom claw</LeftExtraDeadlifeVenomClaw.comps.0.tools.0.label>
+	<!-- EN: deadlife venom claw -->
+	<RightExtraDeadlifeVenomClaw.comps.0.tools.0.label>deadlife venom claw</RightExtraDeadlifeVenomClaw.comps.0.tools.0.label>
+</LanguageData>

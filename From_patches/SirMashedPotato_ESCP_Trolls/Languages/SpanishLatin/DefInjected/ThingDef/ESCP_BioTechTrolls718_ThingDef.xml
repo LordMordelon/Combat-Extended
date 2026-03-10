@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\SirMashedPotato_ESCP_Trolls\ESCP_BioTechTrolls718.xml -->
+	<!-- EN: left claw -->
+	<ESCP_TrollToxi.tools.0.label>left claw</ESCP_TrollToxi.tools.0.label>
+	<!-- EN: right claw -->
+	<ESCP_TrollToxi.tools.1.label>right claw</ESCP_TrollToxi.tools.1.label>
+	<!-- EN: head -->
+	<ESCP_TrollToxi.tools.3.label>head</ESCP_TrollToxi.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<ESCP_TrollHaemo.tools.0.label>left claw</ESCP_TrollHaemo.tools.0.label>
+	<!-- EN: right claw -->
+	<ESCP_TrollHaemo.tools.1.label>right claw</ESCP_TrollHaemo.tools.1.label>
+	<!-- EN: head -->
+	<ESCP_TrollHaemo.tools.3.label>head</ESCP_TrollHaemo.tools.3.label>
+</LanguageData>

@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\Medieval Overhaul\Defs\Medieval Overhaul\Ammo\MO_Ammo_Bolts.xml -->
+	
+	<!-- EN: crossbow bolt (iron) -->
+	<Ammo_CrossbowBolt_Iron.label>crossbow bolt (iron)</Ammo_CrossbowBolt_Iron.label>
+	<!-- EN: A crossbow bolt. -->
+	<Ammo_CrossbowBolt_Iron.description>A crossbow bolt.</Ammo_CrossbowBolt_Iron.description>
+	
+	<!-- EN: crossbow bolt (iron) -->
+	<Projectile_CrossbowBolt_Iron.label>crossbow bolt (iron)</Projectile_CrossbowBolt_Iron.label>
+</LanguageData>

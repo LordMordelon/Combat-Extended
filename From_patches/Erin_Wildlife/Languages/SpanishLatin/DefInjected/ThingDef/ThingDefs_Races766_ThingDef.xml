@@ -1,0 +1,45 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Erin_Wildlife\ThingDefs_Races766.xml -->
+	<!-- EN: left claw -->
+	<ERN_Greyfox.tools.0.label>left claw</ERN_Greyfox.tools.0.label>
+	<!-- EN: right claw -->
+	<ERN_Greyfox.tools.1.label>right claw</ERN_Greyfox.tools.1.label>
+	<!-- EN: head -->
+	<ERN_Greyfox.tools.3.label>head</ERN_Greyfox.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<ERN_Mink.tools.0.label>left claw</ERN_Mink.tools.0.label>
+	<!-- EN: right claw -->
+	<ERN_Mink.tools.1.label>right claw</ERN_Mink.tools.1.label>
+	<!-- EN: head -->
+	<ERN_Mink.tools.3.label>head</ERN_Mink.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<ERN_Hedgehog.tools.0.label>left claw</ERN_Hedgehog.tools.0.label>
+	<!-- EN: right claw -->
+	<ERN_Hedgehog.tools.1.label>right claw</ERN_Hedgehog.tools.1.label>
+	<!-- EN: head -->
+	<ERN_Hedgehog.tools.3.label>head</ERN_Hedgehog.tools.3.label>
+	
+	<!-- EN: fangs -->
+	<ERN_Gartersnake.tools.0.label>fangs</ERN_Gartersnake.tools.0.label>
+	<!-- EN: head -->
+	<ERN_Gartersnake.tools.1.label>head</ERN_Gartersnake.tools.1.label>
+	
+	<!-- EN: left claw -->
+	<ERN_Armadillo.tools.0.label>left claw</ERN_Armadillo.tools.0.label>
+	<!-- EN: right claw -->
+	<ERN_Armadillo.tools.1.label>right claw</ERN_Armadillo.tools.1.label>
+	<!-- EN: head -->
+	<ERN_Armadillo.tools.3.label>head</ERN_Armadillo.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<ERN_Redpanda.tools.0.label>left claw</ERN_Redpanda.tools.0.label>
+	<!-- EN: right claw -->
+	<ERN_Redpanda.tools.1.label>right claw</ERN_Redpanda.tools.1.label>
+	<!-- EN: head -->
+	<ERN_Redpanda.tools.3.label>head</ERN_Redpanda.tools.3.label>
+	
+	<!-- EN: head -->
+	<ERN_ptarmigan.tools.1.label>head</ERN_ptarmigan.tools.1.label>
+</LanguageData>

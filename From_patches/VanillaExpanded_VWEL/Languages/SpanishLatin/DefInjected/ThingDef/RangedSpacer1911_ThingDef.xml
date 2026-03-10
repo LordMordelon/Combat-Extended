@@ -1,0 +1,67 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VWEL\RangedSpacer1911.xml -->
+	<!-- EN: grip -->
+	<VWEL_Gun_LaserPistol.tools.0.label>grip</VWEL_Gun_LaserPistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<VWEL_Gun_LaserPistol.tools.1.label>muzzle</VWEL_Gun_LaserPistol.tools.1.label>
+	
+	<!-- EN: grip -->
+	<VWEL_Gun_SalvagedLaserPistol.tools.0.label>grip</VWEL_Gun_SalvagedLaserPistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<VWEL_Gun_SalvagedLaserPistol.tools.1.label>muzzle</VWEL_Gun_SalvagedLaserPistol.tools.1.label>
+	
+	<!-- EN: stock -->
+	<VWEL_Gun_LaserSMG.tools.0.label>stock</VWEL_Gun_LaserSMG.tools.0.label>
+	<!-- EN: barrel -->
+	<VWEL_Gun_LaserSMG.tools.1.label>barrel</VWEL_Gun_LaserSMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<VWEL_Gun_LaserSMG.tools.2.label>muzzle</VWEL_Gun_LaserSMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<VWEL_Gun_LaserRifle.tools.0.label>stock</VWEL_Gun_LaserRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<VWEL_Gun_LaserRifle.tools.1.label>barrel</VWEL_Gun_LaserRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<VWEL_Gun_LaserRifle.tools.2.label>muzzle</VWEL_Gun_LaserRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<VWEL_Gun_LaserShotgun.tools.0.label>stock</VWEL_Gun_LaserShotgun.tools.0.label>
+	<!-- EN: barrel -->
+	<VWEL_Gun_LaserShotgun.tools.1.label>barrel</VWEL_Gun_LaserShotgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<VWEL_Gun_LaserShotgun.tools.2.label>muzzle</VWEL_Gun_LaserShotgun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<VWEL_Gun_LaserSniperRifle.tools.0.label>stock</VWEL_Gun_LaserSniperRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<VWEL_Gun_LaserSniperRifle.tools.1.label>barrel</VWEL_Gun_LaserSniperRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<VWEL_Gun_LaserSniperRifle.tools.2.label>muzzle</VWEL_Gun_LaserSniperRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<VWEL_Gun_SalvagedLaserRifle.tools.0.label>stock</VWEL_Gun_SalvagedLaserRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<VWEL_Gun_SalvagedLaserRifle.tools.1.label>barrel</VWEL_Gun_SalvagedLaserRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<VWEL_Gun_SalvagedLaserRifle.tools.2.label>muzzle</VWEL_Gun_SalvagedLaserRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<VWEL_Gun_SalvagedLaserShotgun.tools.0.label>stock</VWEL_Gun_SalvagedLaserShotgun.tools.0.label>
+	<!-- EN: barrel -->
+	<VWEL_Gun_SalvagedLaserShotgun.tools.1.label>barrel</VWEL_Gun_SalvagedLaserShotgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<VWEL_Gun_SalvagedLaserShotgun.tools.2.label>muzzle</VWEL_Gun_SalvagedLaserShotgun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<VWEL_Gun_SalvagedLaserSniperRifle.tools.0.label>stock</VWEL_Gun_SalvagedLaserSniperRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<VWEL_Gun_SalvagedLaserSniperRifle.tools.1.label>barrel</VWEL_Gun_SalvagedLaserSniperRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<VWEL_Gun_SalvagedLaserSniperRifle.tools.2.label>muzzle</VWEL_Gun_SalvagedLaserSniperRifle.tools.2.label>
+	
+	<!-- EN: barrel -->
+	<VWEL_Gun_LaserMinigun.tools.0.label>barrel</VWEL_Gun_LaserMinigun.tools.0.label>
+	
+	<!-- EN: barrel -->
+	<VWEL_Gun_TeslaGun.tools.0.label>barrel</VWEL_Gun_TeslaGun.tools.0.label>
+</LanguageData>

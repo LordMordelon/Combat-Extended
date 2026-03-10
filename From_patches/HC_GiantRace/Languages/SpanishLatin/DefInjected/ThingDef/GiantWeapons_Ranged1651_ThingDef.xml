@@ -1,0 +1,45 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\HC_GiantRace\GiantWeapons_Ranged1651.xml -->
+	<!-- EN: throw jackstone -->
+	<GI_Jackstones_granite.Properties.label>throw jackstone</GI_Jackstones_granite.Properties.label>
+	<!-- EN: stone fist -->
+	<GI_Jackstones_granite.tools.0.label>stone fist</GI_Jackstones_granite.tools.0.label>
+	<!-- EN: throw jackstone -->
+	<GI_Jackstones_limestone.Properties.label>throw jackstone</GI_Jackstones_limestone.Properties.label>
+	<!-- EN: stone fist -->
+	<GI_Jackstones_limestone.tools.0.label>stone fist</GI_Jackstones_limestone.tools.0.label>
+	<!-- EN: throw javelin -->
+	<GI_Javelin.Properties.label>throw javelin</GI_Javelin.Properties.label>
+	<!-- EN: shaft -->
+	<GI_Javelin.tools.0.label>shaft</GI_Javelin.tools.0.label>
+	<!-- EN: head -->
+	<GI_Javelin.tools.1.label>head</GI_Javelin.tools.1.label>
+	<!-- EN: throw jackstone -->
+	<GI_Scrapmetal.Properties.label>throw jackstone</GI_Scrapmetal.Properties.label>
+	<!-- EN: scrap fist -->
+	<GI_Scrapmetal.tools.0.label>scrap fist</GI_Scrapmetal.tools.0.label>
+	<!-- EN: pillar -->
+	<GI_Rockpillar_granite.tools.0.label>pillar</GI_Rockpillar_granite.tools.0.label>
+	<!-- EN: pillar -->
+	<GI_Rockpillar_Marble.tools.0.label>pillar</GI_Rockpillar_Marble.tools.0.label>
+	<!-- EN: throw javelin -->
+	<GI_Lightningjavelin.Properties.label>throw javelin</GI_Lightningjavelin.Properties.label>
+	<!-- EN: shaft -->
+	<GI_Lightningjavelin.tools.0.label>shaft</GI_Lightningjavelin.tools.0.label>
+	<!-- EN: head -->
+	<GI_Lightningjavelin.tools.1.label>head</GI_Lightningjavelin.tools.1.label>
+	<!-- EN: Jackstones -->
+	<GI_Jackstones_granite_Thrown.label>Jackstones</GI_Jackstones_granite_Thrown.label>
+	<!-- EN: Jackstones -->
+	<GI_Jackstones_limestone_Thrown.label>Jackstones</GI_Jackstones_limestone_Thrown.label>
+	<!-- EN: Javelin -->
+	<GI_Javelin_Thrown.label>Javelin</GI_Javelin_Thrown.label>
+	<!-- EN: Scrapmetal -->
+	<GI_Scrapmetal_Thrown.label>Scrapmetal</GI_Scrapmetal_Thrown.label>
+	<!-- EN: Jackstones -->
+	<GI_Rockpillar_granite_Thrown.label>Jackstones</GI_Rockpillar_granite_Thrown.label>
+	<!-- EN: Rockpillar -->
+	<GI_Rockpillar_Marble_Thrown.label>Rockpillar</GI_Rockpillar_Marble_Thrown.label>
+	<!-- EN: Lightningjavelin -->
+	<GI_Lightningjavelin_Thrown.label>Lightningjavelin</GI_Lightningjavelin_Thrown.label>
+</LanguageData>

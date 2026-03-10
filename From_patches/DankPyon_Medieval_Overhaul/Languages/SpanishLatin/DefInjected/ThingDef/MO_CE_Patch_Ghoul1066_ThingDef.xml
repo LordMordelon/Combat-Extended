@@ -1,0 +1,29 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\DankPyon_Medieval_Overhaul\MO_CE_Patch_Ghoul1066.xml -->
+	<!-- EN: left claw -->
+	<DankPyon_Ghoul_Stage_One.tools.0.label>left claw</DankPyon_Ghoul_Stage_One.tools.0.label>
+	<!-- EN: right claw -->
+	<DankPyon_Ghoul_Stage_One.tools.1.label>right claw</DankPyon_Ghoul_Stage_One.tools.1.label>
+	<!-- EN: teeth -->
+	<DankPyon_Ghoul_Stage_One.tools.2.label>teeth</DankPyon_Ghoul_Stage_One.tools.2.label>
+	<!-- EN: head -->
+	<DankPyon_Ghoul_Stage_One.tools.3.label>head</DankPyon_Ghoul_Stage_One.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<DankPyon_Ghoul_Stage_Two.tools.0.label>left claw</DankPyon_Ghoul_Stage_Two.tools.0.label>
+	<!-- EN: right claw -->
+	<DankPyon_Ghoul_Stage_Two.tools.1.label>right claw</DankPyon_Ghoul_Stage_Two.tools.1.label>
+	<!-- EN: teeth -->
+	<DankPyon_Ghoul_Stage_Two.tools.2.label>teeth</DankPyon_Ghoul_Stage_Two.tools.2.label>
+	<!-- EN: head -->
+	<DankPyon_Ghoul_Stage_Two.tools.3.label>head</DankPyon_Ghoul_Stage_Two.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<DankPyon_Ghoul_Stage_Three.tools.0.label>left claw</DankPyon_Ghoul_Stage_Three.tools.0.label>
+	<!-- EN: right claw -->
+	<DankPyon_Ghoul_Stage_Three.tools.1.label>right claw</DankPyon_Ghoul_Stage_Three.tools.1.label>
+	<!-- EN: teeth -->
+	<DankPyon_Ghoul_Stage_Three.tools.2.label>teeth</DankPyon_Ghoul_Stage_Three.tools.2.label>
+	<!-- EN: head -->
+	<DankPyon_Ghoul_Stage_Three.tools.3.label>head</DankPyon_Ghoul_Stage_Three.tools.3.label>
+</LanguageData>

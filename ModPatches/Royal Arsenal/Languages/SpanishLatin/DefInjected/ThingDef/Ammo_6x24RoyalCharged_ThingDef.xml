@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Royal Arsenal\Defs\Royal Arsenal\Ammo\Ammo_6x24RoyalCharged.xml -->
+	<!-- EN: 6x24mm Royal Charged bullet -->
+	<Bullet_6x24mmRoyal.label>6x24mm Royal Charged bullet</Bullet_6x24mmRoyal.label>
+	<!-- EN: 6x24mm Royal Charged bullet (Conc.) -->
+	<Bullet_6x24mmRoyal_AP.label>6x24mm Royal Charged bullet (Conc.)</Bullet_6x24mmRoyal_AP.label>
+	<!-- EN: 6x24mm Royal Charged bullet (Ion) -->
+	<Bullet_6x24mmRoyal_Ion.label>6x24mm Royal Charged bullet (Ion)</Bullet_6x24mmRoyal_Ion.label>
+</LanguageData>

@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- Royalty\Defs\ThingDefs_Buildings\Buildings_Mech_Spawners.xml -->
+	<!-- EN: mech ammo beacon -->
+	<CombatExtended_MechAmmoBeacon.label>mech ammo beacon</CombatExtended_MechAmmoBeacon.label>
+	<!-- EN: A mechanoid ammunition drop beacon. When activated, it calls in ammunition to land in drop pods nearby. -->
+	<CombatExtended_MechAmmoBeacon.description>A mechanoid ammunition drop beacon. When activated, it calls in ammunition to land in drop pods nearby.</CombatExtended_MechAmmoBeacon.description>
+</LanguageData>

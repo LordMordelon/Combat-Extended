@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\RBSE\Defs\RBSE\Cure CE Scars.xml -->
+	<!-- EN: cure blast -->
+	<CureInjuryBlast.label>cure blast</CureInjuryBlast.label>
+	<!-- EN: Cure blast. -->
+	<CureInjuryBlast.description>Cure blast.</CureInjuryBlast.description>
+	<!-- EN: Curing blast. -->
+	<CureInjuryBlast.jobString>Curing blast.</CureInjuryBlast.jobString>
+</LanguageData>

@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- ModPatches\Civilization Beyond Earth Armor Sets\Defs\Civilization Beyond Earth Armor Sets\Ammo.xml -->
+	<!-- EN: Venom -->
+	<HarmonyVenom.label>Venom</HarmonyVenom.label>
+	<!-- EN: {0} has been shot to death by an arrow. -->
+	<HarmonyVenom.deathMessage>{0} has been shot to death by an arrow.</HarmonyVenom.deathMessage>
+</LanguageData>

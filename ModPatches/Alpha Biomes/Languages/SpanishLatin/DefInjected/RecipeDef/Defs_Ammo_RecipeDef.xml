@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Alpha Biomes\Defs\Alpha Biomes\Defs_Ammo.xml -->
+	<!-- EN: make 81mm tar mortar shell x2 -->
+	<MakeAB_Shell_Tar.label>make 81mm tar mortar shell x2</MakeAB_Shell_Tar.label>
+	<!-- EN: Craft 2 tar shells. -->
+	<MakeAB_Shell_Tar.description>Craft 2 tar shells.</MakeAB_Shell_Tar.description>
+	<!-- EN: Making 81mm tar shells. -->
+	<MakeAB_Shell_Tar.jobString>Making 81mm tar shells.</MakeAB_Shell_Tar.jobString>
+</LanguageData>

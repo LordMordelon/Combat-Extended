@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Crypto Arsenal\Defs\Crypto Arsenal\Ammo_CryoHarpoon.xml -->
+	<!-- EN: Cryo Harpoon -->
+	<CryoHarpoon.label>Cryo Harpoon</CryoHarpoon.label>
+	<!-- EN: Harpoon -->
+	<CryoHarpoon.labelShort>Harpoon</CryoHarpoon.labelShort>
+	<!-- EN: Metal rods converted for combat use. -->
+	<CryoHarpoon.description>Metal rods converted for combat use.</CryoHarpoon.description>
+</LanguageData>

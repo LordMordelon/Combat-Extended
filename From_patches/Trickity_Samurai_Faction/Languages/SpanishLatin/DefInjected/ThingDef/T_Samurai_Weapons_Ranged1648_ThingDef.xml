@@ -1,0 +1,28 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Trickity_Samurai_Faction\T_Samurai_Weapons_Ranged1648.xml -->
+	<!-- EN: stock -->
+	<TSF_Tanegashima_Short.tools.0.label>stock</TSF_Tanegashima_Short.tools.0.label>
+	<!-- EN: barrel -->
+	<TSF_Tanegashima_Short.tools.1.label>barrel</TSF_Tanegashima_Short.tools.1.label>
+	<!-- EN: muzzle -->
+	<TSF_Tanegashima_Short.tools.2.label>muzzle</TSF_Tanegashima_Short.tools.2.label>
+	
+	<!-- EN: stock -->
+	<TSF_Tanegashima_Matchlock.tools.0.label>stock</TSF_Tanegashima_Matchlock.tools.0.label>
+	<!-- EN: barrel -->
+	<TSF_Tanegashima_Matchlock.tools.1.label>barrel</TSF_Tanegashima_Matchlock.tools.1.label>
+	<!-- EN: muzzle -->
+	<TSF_Tanegashima_Matchlock.tools.2.label>muzzle</TSF_Tanegashima_Matchlock.tools.2.label>
+	
+	<!-- EN: stock -->
+	<TSF_Hand_Mortar.tools.0.label>stock</TSF_Hand_Mortar.tools.0.label>
+	<!-- EN: barrel -->
+	<TSF_Hand_Mortar.tools.1.label>barrel</TSF_Hand_Mortar.tools.1.label>
+	<!-- EN: muzzle -->
+	<TSF_Hand_Mortar.tools.2.label>muzzle</TSF_Hand_Mortar.tools.2.label>
+	
+	<!-- EN: Throw shuriken -->
+	<TSF_Shuriken.Properties.label>Throw shuriken</TSF_Shuriken.Properties.label>
+	<!-- EN: point -->
+	<TSF_Shuriken.tools.0.label>point</TSF_Shuriken.tools.0.label>
+</LanguageData>

@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- ModPatches\Royal Arsenal\Defs\Royal Arsenal\Ammo\Ammo_MonoArrow.xml -->
+	
+	<!-- EN: make mono arrow (bodkin) x100 -->
+	<MakeAmmo_MonoArrow.label>make mono arrow (bodkin) x100</MakeAmmo_MonoArrow.label>
+	<!-- EN: Craft 100 mono-bodkin arrows. -->
+	<MakeAmmo_MonoArrow.description>Craft 100 mono-bodkin arrows.</MakeAmmo_MonoArrow.description>
+	<!-- EN: Making mono-bodkin arrows. -->
+	<MakeAmmo_MonoArrow.jobString>Making mono-bodkin arrows.</MakeAmmo_MonoArrow.jobString>
+	
+	<!-- EN: make mono arrow (broadhead) x100 -->
+	<MakeAmmo_MonoArrow_Broad.label>make mono arrow (broadhead) x100</MakeAmmo_MonoArrow_Broad.label>
+	<!-- EN: Craft 100 mono-broadhead arrows. -->
+	<MakeAmmo_MonoArrow_Broad.description>Craft 100 mono-broadhead arrows.</MakeAmmo_MonoArrow_Broad.description>
+	<!-- EN: Making mono-broadhead arrows. -->
+	<MakeAmmo_MonoArrow_Broad.jobString>Making mono-broadhead arrows.</MakeAmmo_MonoArrow_Broad.jobString>
+</LanguageData>

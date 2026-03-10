@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Kaiser Armory\Defs\Kaiser Armory\105x155mmR.xml -->
+	<!-- EN: 105x155mmR Cannon shell (HE) -->
+	<Ammo_105x155mmRCannonShell_HE.label>105x155mmR Cannon shell (HE)</Ammo_105x155mmRCannonShell_HE.label>
+	<!-- EN: Light howitzer shell used in field guns. -->
+	<Ammo_105x155mmRCannonShell_HE.description>Light howitzer shell used in field guns.</Ammo_105x155mmRCannonShell_HE.description>
+	<!-- EN: 105x155mmR Cannon shell (HE) -->
+	<Bullet_105x155mmRCannonShell_HE.label>105x155mmR Cannon shell (HE)</Bullet_105x155mmRCannonShell_HE.label>
+</LanguageData>

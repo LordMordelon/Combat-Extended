@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Reinforced Mechanoid 2\Defs\Reinforced Mechanoid 2\RM_Ammo.xml -->
+	<!-- EN: make Crystalline shard cartridge x750 -->
+	<MakeRM_Ammo_ShardGun.label>make Crystalline shard cartridge x750</MakeRM_Ammo_ShardGun.label>
+	<!-- EN: Craft 750 Crystalline shard cartridges. -->
+	<MakeRM_Ammo_ShardGun.description>Craft 750 Crystalline shard cartridges.</MakeRM_Ammo_ShardGun.description>
+	<!-- EN: Making Crystalline Shard cartridges. -->
+	<MakeRM_Ammo_ShardGun.jobString>Making Crystalline Shard cartridges.</MakeRM_Ammo_ShardGun.jobString>
+</LanguageData>

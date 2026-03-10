@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\grimworld_talonOfTheEmperor\CE_Patch_Guns852.xml -->
+	<!-- EN: barrel -->
+	<GW_TotE_Bolt_Caliver.tools.0.label>barrel</GW_TotE_Bolt_Caliver.tools.0.label>
+	<!-- EN: stock -->
+	<GW_TotE_Bolt_Caliver.tools.1.label>stock</GW_TotE_Bolt_Caliver.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<GW_TotE_Kinetic_Destructor.tools.0.label>barrel</GW_TotE_Kinetic_Destructor.tools.0.label>
+	<!-- EN: stock -->
+	<GW_TotE_Kinetic_Destructor.tools.1.label>stock</GW_TotE_Kinetic_Destructor.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<GW_TotE_Adrathic_Destructor.tools.0.label>barrel</GW_TotE_Adrathic_Destructor.tools.0.label>
+</LanguageData>

@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\RH2 DOOM\Defs\RH2 DOOM\RH2_DOOM_CE_Patch_Ammo_PlasmaCell.xml -->
+	<!-- EN: UAC Plasma Cell -->
+	<Ammo_Doom2016PlasmaCell.label>UAC Plasma Cell</Ammo_Doom2016PlasmaCell.label>
+	<!-- EN: Plasma containment power cell developed by the Union Aerospace Corporation for heavy energy weapons, utilizing the compression of Argent energy -->
+	<Ammo_Doom2016PlasmaCell.description>Plasma containment power cell developed by the Union Aerospace Corporation for heavy energy weapons, utilizing the compression of Argent energy</Ammo_Doom2016PlasmaCell.description>
+	<!-- EN: Plasma Shot -->
+	<Bullet_Doom2016PlasmaGun.label>Plasma Shot</Bullet_Doom2016PlasmaGun.label>
+	<!-- EN: Plasma Shot -->
+	<Bullet_Doom2016VortexRifle.label>Plasma Shot</Bullet_Doom2016VortexRifle.label>
+</LanguageData>

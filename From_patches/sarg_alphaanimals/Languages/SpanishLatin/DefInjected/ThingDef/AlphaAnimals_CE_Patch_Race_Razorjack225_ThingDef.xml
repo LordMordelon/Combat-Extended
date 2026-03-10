@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\sarg_alphaanimals\AlphaAnimals_CE_Patch_Race_Razorjack225.xml -->
+	<!-- EN: left claw -->
+	<AA_Razorjack.tools.0.label>left claw</AA_Razorjack.tools.0.label>
+	<!-- EN: right claw -->
+	<AA_Razorjack.tools.1.label>right claw</AA_Razorjack.tools.1.label>
+	<!-- EN: razorfangs -->
+	<AA_Razorjack.tools.2.label>razorfangs</AA_Razorjack.tools.2.label>
+	<!-- EN: head -->
+	<AA_Razorjack.tools.3.label>head</AA_Razorjack.tools.3.label>
+</LanguageData>

@@ -1,0 +1,44 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Scurvyez_Bastyon\CE_Patch_BastRace_All21637.xml -->
+	<!-- EN: head -->
+	<Bast_Critter.tools.1.label>head</Bast_Critter.tools.1.label>
+	
+	<!-- EN: left claw -->
+	<Bast_Ethereal_Lion.tools.0.label>left claw</Bast_Ethereal_Lion.tools.0.label>
+	<!-- EN: right claw -->
+	<Bast_Ethereal_Lion.tools.1.label>right claw</Bast_Ethereal_Lion.tools.1.label>
+	<!-- EN: head -->
+	<Bast_Ethereal_Lion.tools.3.label>head</Bast_Ethereal_Lion.tools.3.label>
+	
+	<!-- EN: Bast_Nucleoplasm -->
+	<Bast_Hazey_Gnomaclu.tools.0.label>Bast_Nucleoplasm</Bast_Hazey_Gnomaclu.tools.0.label>
+	
+	<!-- EN: Bast_Nucleoplasm -->
+	<Bast_Midnight_Gnomaclu.tools.0.label>Bast_Nucleoplasm</Bast_Midnight_Gnomaclu.tools.0.label>
+	
+	<!-- EN: Bast_Nucleoplasm -->
+	<Bast_Sunburst_Gnomaclu.tools.0.label>Bast_Nucleoplasm</Bast_Sunburst_Gnomaclu.tools.0.label>
+	
+	<!-- EN: left claw -->
+	<Bast_Soul_Eater.tools.0.label>left claw</Bast_Soul_Eater.tools.0.label>
+	<!-- EN: right claw -->
+	<Bast_Soul_Eater.tools.1.label>right claw</Bast_Soul_Eater.tools.1.label>
+	<!-- EN: head -->
+	<Bast_Soul_Eater.tools.3.label>head</Bast_Soul_Eater.tools.3.label>
+	
+	<!-- EN: left hoof -->
+	<Bast_Scire.tools.0.label>left hoof</Bast_Scire.tools.0.label>
+	<!-- EN: right hoof -->
+	<Bast_Scire.tools.1.label>right hoof</Bast_Scire.tools.1.label>
+	<!-- EN: head -->
+	<Bast_Scire.tools.3.label>head</Bast_Scire.tools.3.label>
+	<!-- EN: antlers -->
+	<Bast_Scire.tools.4.label>antlers</Bast_Scire.tools.4.label>
+	
+	<!-- EN: left front metatarsus -->
+	<Bast_Gray_Terror.tools.0.label>left front metatarsus</Bast_Gray_Terror.tools.0.label>
+	<!-- EN: right front metatarsus -->
+	<Bast_Gray_Terror.tools.1.label>right front metatarsus</Bast_Gray_Terror.tools.1.label>
+	<!-- EN: head -->
+	<Bast_Gray_Terror.tools.3.label>head</Bast_Gray_Terror.tools.3.label>
+</LanguageData>

@@ -1,0 +1,35 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla Factions Expanded - Pirates\Defs\Vanilla Factions Expanded - Pirates\Ammo\SlugthrowerShell.xml -->
+	
+	<!-- EN: Slugthrower shell (Buck) -->
+	<Ammo_Slugthrower_Buck.label>Slugthrower shell (Buck)</Ammo_Slugthrower_Buck.label>
+	<!-- EN: Large 40mm shotgun shells designed to be fired by the warcasket slugthrower shotgun. -->
+	<Ammo_Slugthrower_Buck.description>Large 40mm shotgun shells designed to be fired by the warcasket slugthrower shotgun.</Ammo_Slugthrower_Buck.description>
+	
+	<!-- EN: Slugthrower shell (Slug) -->
+	<Ammo_Slugthrower_Slug.label>Slugthrower shell (Slug)</Ammo_Slugthrower_Slug.label>
+	<!-- EN: Large 40mm shotgun shells designed to be fired by the warcasket slugthrower shotgun. -->
+	<Ammo_Slugthrower_Slug.description>Large 40mm shotgun shells designed to be fired by the warcasket slugthrower shotgun.</Ammo_Slugthrower_Slug.description>
+	
+	<!-- EN: Slugthrower shell (Bean) -->
+	<Ammo_Slugthrower_Beanbag.label>Slugthrower shell (Bean)</Ammo_Slugthrower_Beanbag.label>
+	<!-- EN: Large 40mm shotgun shells designed to be fired by the warcasket slugthrower shotgun. -->
+	<Ammo_Slugthrower_Beanbag.description>Large 40mm shotgun shells designed to be fired by the warcasket slugthrower shotgun.</Ammo_Slugthrower_Beanbag.description>
+	
+	<!-- EN: Slugthrower shell (EMP) -->
+	<Ammo_Slugthrower_ElectroSlug.label>Slugthrower shell (EMP)</Ammo_Slugthrower_ElectroSlug.label>
+	<!-- EN: Large 40mm shotgun shells designed to be fired by the warcasket slugthrower shotgun. -->
+	<Ammo_Slugthrower_ElectroSlug.description>Large 40mm shotgun shells designed to be fired by the warcasket slugthrower shotgun.</Ammo_Slugthrower_ElectroSlug.description>
+	
+	<!-- EN: buckshot pellet -->
+	<Bullet_Slugthrower_Buck.label>buckshot pellet</Bullet_Slugthrower_Buck.label>
+	
+	<!-- EN: shotgun slug -->
+	<Bullet_Slugthrower_Slug.label>shotgun slug</Bullet_Slugthrower_Slug.label>
+	
+	<!-- EN: beanbag -->
+	<Bullet_Slugthrower_Beanbag.label>beanbag</Bullet_Slugthrower_Beanbag.label>
+	
+	<!-- EN: EMP slug -->
+	<Bullet_Slugthrower_ElectroSlug.label>EMP slug</Bullet_Slugthrower_ElectroSlug.label>
+</LanguageData>

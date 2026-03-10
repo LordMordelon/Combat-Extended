@@ -1,0 +1,37 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\heis_edo_themed_expansion\EdoTheme_Weapons_MeleeClanforged731.xml -->
+	<!-- EN: handle -->
+	<HS_ClanforgedKatana.tools.0.label>handle</HS_ClanforgedKatana.tools.0.label>
+	<!-- EN: point -->
+	<HS_ClanforgedKatana.tools.1.label>point</HS_ClanforgedKatana.tools.1.label>
+	<!-- EN: edge -->
+	<HS_ClanforgedKatana.tools.2.label>edge</HS_ClanforgedKatana.tools.2.label>
+	
+	<!-- EN: handle -->
+	<HS_ClanForgedNagamaki.tools.0.label>handle</HS_ClanForgedNagamaki.tools.0.label>
+	<!-- EN: point -->
+	<HS_ClanForgedNagamaki.tools.1.label>point</HS_ClanForgedNagamaki.tools.1.label>
+	<!-- EN: edge -->
+	<HS_ClanForgedNagamaki.tools.2.label>edge</HS_ClanForgedNagamaki.tools.2.label>
+	
+	<!-- EN: handle -->
+	<HS_ClanforgedOdachi.tools.0.label>handle</HS_ClanforgedOdachi.tools.0.label>
+	<!-- EN: point -->
+	<HS_ClanforgedOdachi.tools.1.label>point</HS_ClanforgedOdachi.tools.1.label>
+	<!-- EN: edge -->
+	<HS_ClanforgedOdachi.tools.2.label>edge</HS_ClanforgedOdachi.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<HS_ClanforgedNaginata.tools.0.label>shaft</HS_ClanforgedNaginata.tools.0.label>
+	<!-- EN: edge -->
+	<HS_ClanforgedNaginata.tools.1.label>edge</HS_ClanforgedNaginata.tools.1.label>
+	<!-- EN: edge -->
+	<HS_ClanforgedNaginata.tools.2.label>edge</HS_ClanforgedNaginata.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<HS_ClanforgedYari.tools.0.label>shaft</HS_ClanforgedYari.tools.0.label>
+	<!-- EN: shaft -->
+	<HS_ClanforgedYari.tools.1.label>shaft</HS_ClanforgedYari.tools.1.label>
+	<!-- EN: head -->
+	<HS_ClanforgedYari.tools.2.label>head</HS_ClanforgedYari.tools.2.label>
+</LanguageData>

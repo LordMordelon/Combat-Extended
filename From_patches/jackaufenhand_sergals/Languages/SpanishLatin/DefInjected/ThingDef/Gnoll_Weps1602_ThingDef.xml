@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\jackaufenhand_sergals\Gnoll_Weps1602.xml -->
+	<!-- EN: handle -->
+	<Gnythe.tools.0.label>handle</Gnythe.tools.0.label>
+	<!-- EN: point -->
+	<Gnythe.tools.1.label>point</Gnythe.tools.1.label>
+	<!-- EN: edge -->
+	<Gnythe.tools.2.label>edge</Gnythe.tools.2.label>
+	
+	<!-- EN: handle -->
+	<Gnythewar.tools.0.label>handle</Gnythewar.tools.0.label>
+	<!-- EN: point -->
+	<Gnythewar.tools.1.label>point</Gnythewar.tools.1.label>
+	<!-- EN: edge -->
+	<Gnythewar.tools.2.label>edge</Gnythewar.tools.2.label>
+</LanguageData>

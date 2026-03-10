@@ -1,0 +1,75 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\DankPyon_Medieval_Overhaul\MO_Weapons_Melee_Spears1057.xml -->
+	<!-- EN: shaft -->
+	<DankPyon_MeleeWeapon_MilitiaSpear.tools.0.label>shaft</DankPyon_MeleeWeapon_MilitiaSpear.tools.0.label>
+	<!-- EN: shaft -->
+	<DankPyon_MeleeWeapon_MilitiaSpear.tools.1.label>shaft</DankPyon_MeleeWeapon_MilitiaSpear.tools.1.label>
+	<!-- EN: head -->
+	<DankPyon_MeleeWeapon_MilitiaSpear.tools.2.label>head</DankPyon_MeleeWeapon_MilitiaSpear.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<DankPyon_MeleeWeapon_BoarSpear.tools.0.label>shaft</DankPyon_MeleeWeapon_BoarSpear.tools.0.label>
+	<!-- EN: shaft -->
+	<DankPyon_MeleeWeapon_BoarSpear.tools.1.label>shaft</DankPyon_MeleeWeapon_BoarSpear.tools.1.label>
+	<!-- EN: head -->
+	<DankPyon_MeleeWeapon_BoarSpear.tools.2.label>head</DankPyon_MeleeWeapon_BoarSpear.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<DankPyon_MeleeWeapon_FightingSpear.tools.0.label>shaft</DankPyon_MeleeWeapon_FightingSpear.tools.0.label>
+	<!-- EN: shaft -->
+	<DankPyon_MeleeWeapon_FightingSpear.tools.1.label>shaft</DankPyon_MeleeWeapon_FightingSpear.tools.1.label>
+	<!-- EN: head -->
+	<DankPyon_MeleeWeapon_FightingSpear.tools.2.label>head</DankPyon_MeleeWeapon_FightingSpear.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<DankPyon_MeleeWeapon_Warfork.tools.0.label>shaft</DankPyon_MeleeWeapon_Warfork.tools.0.label>
+	<!-- EN: shaft -->
+	<DankPyon_MeleeWeapon_Warfork.tools.1.label>shaft</DankPyon_MeleeWeapon_Warfork.tools.1.label>
+	<!-- EN: head -->
+	<DankPyon_MeleeWeapon_Warfork.tools.2.label>head</DankPyon_MeleeWeapon_Warfork.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<DankPyon_MeleeWeapon_Spetum.tools.0.label>shaft</DankPyon_MeleeWeapon_Spetum.tools.0.label>
+	<!-- EN: shaft -->
+	<DankPyon_MeleeWeapon_Spetum.tools.1.label>shaft</DankPyon_MeleeWeapon_Spetum.tools.1.label>
+	<!-- EN: head -->
+	<DankPyon_MeleeWeapon_Spetum.tools.2.label>head</DankPyon_MeleeWeapon_Spetum.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<DankPyon_MeleeWeapon_Pitchfork.tools.0.label>shaft</DankPyon_MeleeWeapon_Pitchfork.tools.0.label>
+	<!-- EN: head -->
+	<DankPyon_MeleeWeapon_Pitchfork.tools.1.label>head</DankPyon_MeleeWeapon_Pitchfork.tools.1.label>
+	
+	<!-- EN: shaft -->
+	<DankPyon_MeleeWeapon_HookedBlade.tools.0.label>shaft</DankPyon_MeleeWeapon_HookedBlade.tools.0.label>
+	<!-- EN: head -->
+	<DankPyon_MeleeWeapon_HookedBlade.tools.1.label>head</DankPyon_MeleeWeapon_HookedBlade.tools.1.label>
+	<!-- EN: head -->
+	<DankPyon_MeleeWeapon_HookedBlade.tools.2.label>head</DankPyon_MeleeWeapon_HookedBlade.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<DankPyon_MeleeWeapon_Billhook.tools.0.label>shaft</DankPyon_MeleeWeapon_Billhook.tools.0.label>
+	<!-- EN: point -->
+	<DankPyon_MeleeWeapon_Billhook.tools.1.label>point</DankPyon_MeleeWeapon_Billhook.tools.1.label>
+	<!-- EN: head -->
+	<DankPyon_MeleeWeapon_Billhook.tools.2.label>head</DankPyon_MeleeWeapon_Billhook.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<DankPyon_MeleeWeapon_Halberd.tools.0.label>shaft</DankPyon_MeleeWeapon_Halberd.tools.0.label>
+	<!-- EN: edge -->
+	<DankPyon_MeleeWeapon_Halberd.tools.1.label>edge</DankPyon_MeleeWeapon_Halberd.tools.1.label>
+	<!-- EN: point -->
+	<DankPyon_MeleeWeapon_Halberd.tools.2.label>point</DankPyon_MeleeWeapon_Halberd.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<DankPyon_MeleeWeapon_Pike.tools.0.label>shaft</DankPyon_MeleeWeapon_Pike.tools.0.label>
+	<!-- EN: point -->
+	<DankPyon_MeleeWeapon_Pike.tools.1.label>point</DankPyon_MeleeWeapon_Pike.tools.1.label>
+	
+	<!-- EN: shaft -->
+	<DankPyon_MeleeWeapon_Swordlance.tools.0.label>shaft</DankPyon_MeleeWeapon_Swordlance.tools.0.label>
+	<!-- EN: edge -->
+	<DankPyon_MeleeWeapon_Swordlance.tools.1.label>edge</DankPyon_MeleeWeapon_Swordlance.tools.1.label>
+	<!-- EN: edge -->
+	<DankPyon_MeleeWeapon_Swordlance.tools.2.label>edge</DankPyon_MeleeWeapon_Swordlance.tools.2.label>
+</LanguageData>

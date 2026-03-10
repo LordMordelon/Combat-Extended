@@ -1,0 +1,61 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\walkingproblem_arachnid\Races1631.xml -->
+	<!-- EN: front left leg -->
+	<Arachnid_WarriorBug.tools.0.label>front left leg</Arachnid_WarriorBug.tools.0.label>
+	<!-- EN: front right leg -->
+	<Arachnid_WarriorBug.tools.1.label>front right leg</Arachnid_WarriorBug.tools.1.label>
+	<!-- EN: head -->
+	<Arachnid_WarriorBug.tools.2.label>head</Arachnid_WarriorBug.tools.2.label>
+	
+	<!-- EN: front left leg -->
+	<Arachnid_WarriorBugHive.tools.0.label>front left leg</Arachnid_WarriorBugHive.tools.0.label>
+	<!-- EN: front right leg -->
+	<Arachnid_WarriorBugHive.tools.1.label>front right leg</Arachnid_WarriorBugHive.tools.1.label>
+	<!-- EN: head -->
+	<Arachnid_WarriorBugHive.tools.2.label>head</Arachnid_WarriorBugHive.tools.2.label>
+	
+	<!-- EN: front left leg -->
+	<Arachnid_FireFlyBug.tools.0.label>front left leg</Arachnid_FireFlyBug.tools.0.label>
+	<!-- EN: front right leg -->
+	<Arachnid_FireFlyBug.tools.1.label>front right leg</Arachnid_FireFlyBug.tools.1.label>
+	<!-- EN: head -->
+	<Arachnid_FireFlyBug.tools.2.label>head</Arachnid_FireFlyBug.tools.2.label>
+	
+	<!-- EN: front left leg -->
+	<Arachnid_HopperBug.tools.0.label>front left leg</Arachnid_HopperBug.tools.0.label>
+	<!-- EN: front right leg -->
+	<Arachnid_HopperBug.tools.1.label>front right leg</Arachnid_HopperBug.tools.1.label>
+	<!-- EN: head -->
+	<Arachnid_HopperBug.tools.2.label>head</Arachnid_HopperBug.tools.2.label>
+	
+	<!-- EN: head -->
+	<Arachnid_BombardierBug.tools.0.label>head</Arachnid_BombardierBug.tools.0.label>
+	
+	<!-- EN: front left leg -->
+	<Arachnid_PlasmaGrenadierBug.tools.0.label>front left leg</Arachnid_PlasmaGrenadierBug.tools.0.label>
+	<!-- EN: front right leg -->
+	<Arachnid_PlasmaGrenadierBug.tools.1.label>front right leg</Arachnid_PlasmaGrenadierBug.tools.1.label>
+	<!-- EN: head -->
+	<Arachnid_PlasmaGrenadierBug.tools.2.label>head</Arachnid_PlasmaGrenadierBug.tools.2.label>
+	
+	<!-- EN: front left leg -->
+	<Arachnid_TankerBug.tools.0.label>front left leg</Arachnid_TankerBug.tools.0.label>
+	<!-- EN: front right leg -->
+	<Arachnid_TankerBug.tools.1.label>front right leg</Arachnid_TankerBug.tools.1.label>
+	<!-- EN: head -->
+	<Arachnid_TankerBug.tools.2.label>head</Arachnid_TankerBug.tools.2.label>
+	
+	<!-- EN: front left leg -->
+	<Arachnid_ScorpionBug.tools.0.label>front left leg</Arachnid_ScorpionBug.tools.0.label>
+	<!-- EN: front right leg -->
+	<Arachnid_ScorpionBug.tools.1.label>front right leg</Arachnid_ScorpionBug.tools.1.label>
+	<!-- EN: head -->
+	<Arachnid_ScorpionBug.tools.2.label>head</Arachnid_ScorpionBug.tools.2.label>
+	
+	<!-- EN: front left leg -->
+	<Arachnid_PlasmaBug.tools.0.label>front left leg</Arachnid_PlasmaBug.tools.0.label>
+	<!-- EN: front right leg -->
+	<Arachnid_PlasmaBug.tools.1.label>front right leg</Arachnid_PlasmaBug.tools.1.label>
+	<!-- EN: head -->
+	<Arachnid_PlasmaBug.tools.2.label>head</Arachnid_PlasmaBug.tools.2.label>
+</LanguageData>

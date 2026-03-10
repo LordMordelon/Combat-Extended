@@ -1,0 +1,21 @@
+<LanguageData>
+	<!-- ModPatches\Moyo from the depth\Defs\Moyo from the depth\Ammo_Moyo.xml -->
+	<!-- EN: make Moyo charge bolts x25 -->
+	<MakeAmmo_MoyoBallista.label>make Moyo charge bolts x25</MakeAmmo_MoyoBallista.label>
+	<!-- EN: Craft 25 Moyo charge bolts. -->
+	<MakeAmmo_MoyoBallista.description>Craft 25 Moyo charge bolts.</MakeAmmo_MoyoBallista.description>
+	<!-- EN: Making Moyo charge bolts. -->
+	<MakeAmmo_MoyoBallista.jobString>Making Moyo charge bolts.</MakeAmmo_MoyoBallista.jobString>
+	<!-- EN: make Moyo cryocells x500 -->
+	<MakeAmmo_MoyoCryocell.label>make Moyo cryocells x500</MakeAmmo_MoyoCryocell.label>
+	<!-- EN: Craft 500 Moyo cryocells. -->
+	<MakeAmmo_MoyoCryocell.description>Craft 500 Moyo cryocells.</MakeAmmo_MoyoCryocell.description>
+	<!-- EN: Making Moyo cryocells. -->
+	<MakeAmmo_MoyoCryocell.jobString>Making Moyo cryocells.</MakeAmmo_MoyoCryocell.jobString>
+	<!-- EN: make abyssal nails x500 -->
+	<MakeAmmo_Abyssnail.label>make abyssal nails x500</MakeAmmo_Abyssnail.label>
+	<!-- EN: Craft 500 abyssal nails. -->
+	<MakeAmmo_Abyssnail.description>Craft 500 abyssal nails.</MakeAmmo_Abyssnail.description>
+	<!-- EN: Making abyssal nails. -->
+	<MakeAmmo_Abyssnail.jobString>Making abyssal nails.</MakeAmmo_Abyssnail.jobString>
+</LanguageData>

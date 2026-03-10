@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\CP The DOOM Kit - Classic\Defs\CP The DOOM Kit - Classic\CP_DOOM_KitClassic_CE_Patch_Ammo_ClassicEnergyCell.xml -->
+	<!-- EN: UAC Energy Cell -->
+	<Ammo_DoomClassicEnergyCell.label>UAC Energy Cell</Ammo_DoomClassicEnergyCell.label>
+	<!-- EN: Plasma containment power cell developed by the Union Aerospace Corporation for experimental energy weapons -->
+	<Ammo_DoomClassicEnergyCell.description>Plasma containment power cell developed by the Union Aerospace Corporation for experimental energy weapons</Ammo_DoomClassicEnergyCell.description>
+	<!-- EN: Plasma Shot -->
+	<Bullet_DoomClassicPlasmaGun.label>Plasma Shot</Bullet_DoomClassicPlasmaGun.label>
+	<!-- EN: BFG Plasma Shot -->
+	<Bullet_DoomClassicBfg9000Gun.label>BFG Plasma Shot</Bullet_DoomClassicBfg9000Gun.label>
+</LanguageData>

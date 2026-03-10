@@ -1,0 +1,45 @@
+<LanguageData>
+	<!-- Defs\Ammo\Rifle\65x50mmSRArisaka.xml -->
+	
+	<!-- EN: make 6.5x50mmSR Arisaka (FMJ) cartridge x500 -->
+	<MakeAmmo_65x50mmSRArisaka_FMJ.label>make 6.5x50mmSR Arisaka (FMJ) cartridge x500</MakeAmmo_65x50mmSRArisaka_FMJ.label>
+	<!-- EN: Craft 500 6.5x50mmSR Arisaka (FMJ) cartridges. -->
+	<MakeAmmo_65x50mmSRArisaka_FMJ.description>Craft 500 6.5x50mmSR Arisaka (FMJ) cartridges.</MakeAmmo_65x50mmSRArisaka_FMJ.description>
+	<!-- EN: Making 6.5x50mmSR Arisaka (FMJ) cartridges. -->
+	<MakeAmmo_65x50mmSRArisaka_FMJ.jobString>Making 6.5x50mmSR Arisaka (FMJ) cartridges.</MakeAmmo_65x50mmSRArisaka_FMJ.jobString>
+	
+	<!-- EN: make 6.5x50mmSR Arisaka (AP) cartridge x500 -->
+	<MakeAmmo_65x50mmSRArisaka_AP.label>make 6.5x50mmSR Arisaka (AP) cartridge x500</MakeAmmo_65x50mmSRArisaka_AP.label>
+	<!-- EN: Craft 500 6.5x50mmSR Arisaka (AP) cartridges. -->
+	<MakeAmmo_65x50mmSRArisaka_AP.description>Craft 500 6.5x50mmSR Arisaka (AP) cartridges.</MakeAmmo_65x50mmSRArisaka_AP.description>
+	<!-- EN: Making 6.5x50mmSR Arisaka (AP) cartridges. -->
+	<MakeAmmo_65x50mmSRArisaka_AP.jobString>Making 6.5x50mmSR Arisaka (AP) cartridges.</MakeAmmo_65x50mmSRArisaka_AP.jobString>
+	
+	<!-- EN: make 6.5x50mmSR Arisaka (HP) cartridge x500 -->
+	<MakeAmmo_65x50mmSRArisaka_HP.label>make 6.5x50mmSR Arisaka (HP) cartridge x500</MakeAmmo_65x50mmSRArisaka_HP.label>
+	<!-- EN: Craft 500 6.5x50mmSR Arisaka (HP) cartridges. -->
+	<MakeAmmo_65x50mmSRArisaka_HP.description>Craft 500 6.5x50mmSR Arisaka (HP) cartridges.</MakeAmmo_65x50mmSRArisaka_HP.description>
+	<!-- EN: Making 6.5x50mmSR Arisaka (HP) cartridges. -->
+	<MakeAmmo_65x50mmSRArisaka_HP.jobString>Making 6.5x50mmSR Arisaka (HP) cartridges.</MakeAmmo_65x50mmSRArisaka_HP.jobString>
+	
+	<!-- EN: make 6.5x50mmSR (AP-I) cartridge x500 -->
+	<MakeAmmo_65x50mmSRArisaka_Incendiary.label>make 6.5x50mmSR (AP-I) cartridge x500</MakeAmmo_65x50mmSRArisaka_Incendiary.label>
+	<!-- EN: Craft 500 6.5x50mmSR (AP-I) cartridges. -->
+	<MakeAmmo_65x50mmSRArisaka_Incendiary.description>Craft 500 6.5x50mmSR (AP-I) cartridges.</MakeAmmo_65x50mmSRArisaka_Incendiary.description>
+	<!-- EN: Making 6.5x50mmSR (AP-I) cartridges. -->
+	<MakeAmmo_65x50mmSRArisaka_Incendiary.jobString>Making 6.5x50mmSR (AP-I) cartridges.</MakeAmmo_65x50mmSRArisaka_Incendiary.jobString>
+	
+	<!-- EN: make 6.5x50mmSR (AP-HE) cartridge x500 -->
+	<MakeAmmo_65x50mmSRArisaka_HE.label>make 6.5x50mmSR (AP-HE) cartridge x500</MakeAmmo_65x50mmSRArisaka_HE.label>
+	<!-- EN: Craft 500 6.5x50mmSR (AP-HE) cartridges. -->
+	<MakeAmmo_65x50mmSRArisaka_HE.description>Craft 500 6.5x50mmSR (AP-HE) cartridges.</MakeAmmo_65x50mmSRArisaka_HE.description>
+	<!-- EN: Making 6.5x50mmSR (AP-HE) cartridges. -->
+	<MakeAmmo_65x50mmSRArisaka_HE.jobString>Making 6.5x50mmSR (AP-HE) cartridges.</MakeAmmo_65x50mmSRArisaka_HE.jobString>
+	
+	<!-- EN: make 6.5x50mmSR (Sabot) cartridge x500 -->
+	<MakeAmmo_65x50mmSRArisaka_Sabot.label>make 6.5x50mmSR (Sabot) cartridge x500</MakeAmmo_65x50mmSRArisaka_Sabot.label>
+	<!-- EN: Craft 500 6.5x50mmSR (Sabot) cartridges. -->
+	<MakeAmmo_65x50mmSRArisaka_Sabot.description>Craft 500 6.5x50mmSR (Sabot) cartridges.</MakeAmmo_65x50mmSRArisaka_Sabot.description>
+	<!-- EN: Making 6.5x50mmSR (Sabot) cartridges. -->
+	<MakeAmmo_65x50mmSRArisaka_Sabot.jobString>Making 6.5x50mmSR (Sabot) cartridges.</MakeAmmo_65x50mmSRArisaka_Sabot.jobString>
+</LanguageData>

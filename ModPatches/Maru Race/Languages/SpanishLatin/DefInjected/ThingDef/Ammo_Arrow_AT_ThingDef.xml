@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- ModPatches\Maru Race\Defs\Maru Race\Ammo_Arrow_AT.xml -->
+	<!-- EN: compound arrow (charge) -->
+	<Ammo_CPB_AT.label>compound arrow (charge)</Ammo_CPB_AT.label>
+	<!-- EN: Heavy arrow designed to be fired from a great bow. -->
+	<Ammo_CPB_AT.description>Heavy arrow designed to be fired from a great bow.</Ammo_CPB_AT.description>
+	<!-- EN: arrow -->
+	<Projectile_CPB_AT.label>arrow</Projectile_CPB_AT.label>
+	<!-- EN: arrow -->
+	<Projectile_CPB_ATT.label>arrow</Projectile_CPB_ATT.label>
+	<!-- EN: pulse shard -->
+	<Projectile_CPB_ATTc.label>pulse shard</Projectile_CPB_ATTc.label>
+</LanguageData>

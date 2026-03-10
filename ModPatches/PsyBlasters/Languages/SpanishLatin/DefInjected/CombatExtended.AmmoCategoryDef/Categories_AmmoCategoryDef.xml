@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- ModPatches\PsyBlasters\Defs\PsyBlasters\Categories.xml -->
+	<!-- EN: psychic -->
+	<ChargedPsychic.label>psychic</ChargedPsychic.label>
+	<!-- EN: Charged ammunition which can be enhanced by the wielder's psychic energies.\n\nSpending psychic energies increases the damage and armor penetration by 50%. -->
+	<ChargedPsychic.description>Charged ammunition which can be enhanced by the wielder's psychic energies.\n\nSpending psychic energies increases the damage and armor penetration by 50%.</ChargedPsychic.description>
+	
+	<!-- EN: focus -->
+	<ChargedPsychicFocus.label>focus</ChargedPsychicFocus.label>
+	<!-- EN: Consumes larger amounts of psyfocus to improve armor penetraton.\n\nSpending psychic energies increases the damage by 80% and armor penetration by 60%. -->
+	<ChargedPsychicFocus.description>Consumes larger amounts of psyfocus to improve armor penetraton.\n\nSpending psychic energies increases the damage by 80% and armor penetration by 60%.</ChargedPsychicFocus.description>
+	
+	<!-- EN: neuro -->
+	<ChargedPsychicNeuro.label>neuro</ChargedPsychicNeuro.label>
+	<!-- EN: Volatile psychic ammunition increases neural heat generation while also improving stopping power.\n\nSpending psychic energies increases the damage and armor penetration by 50%. -->
+	<ChargedPsychicNeuro.description>Volatile psychic ammunition increases neural heat generation while also improving stopping power.\n\nSpending psychic energies increases the damage and armor penetration by 50%.</ChargedPsychicNeuro.description>
+</LanguageData>

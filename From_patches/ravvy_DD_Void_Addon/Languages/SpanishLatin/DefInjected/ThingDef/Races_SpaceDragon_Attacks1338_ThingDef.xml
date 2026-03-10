@@ -1,0 +1,190 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\ravvy_DD_Void_Addon\Races_SpaceDragon_Attacks1338.xml -->
+	<!-- EN: DD_Knockback -->
+	<Purple_Nebula_Dragon.tools.0.label>DD_Knockback</Purple_Nebula_Dragon.tools.0.label>
+	
+	<!-- EN: DD_Knockback -->
+	<Blue_Nebula_Dragon.tools.0.label>DD_Knockback</Blue_Nebula_Dragon.tools.0.label>
+	
+	<!-- EN: DD_Knockback -->
+	<Red_Nebula_Dragon.tools.0.label>DD_Knockback</Red_Nebula_Dragon.tools.0.label>
+	
+	<!-- EN: DD_Knockback -->
+	<EH_Void_Dragon.tools.0.label>DD_Knockback</EH_Void_Dragon.tools.0.label>
+	
+	<!-- EN: DD_Knockback -->
+	<Destroyer_Void_Dragon.tools.0.label>DD_Knockback</Destroyer_Void_Dragon.tools.0.label>
+	
+	<!-- EN: DD_Knockback -->
+	<Eater_Void_Dragon.tools.0.label>DD_Knockback</Eater_Void_Dragon.tools.0.label>
+	
+	<!-- EN: DD_Knockback -->
+	<Harbinger_Void_Dragon.tools.0.label>DD_Knockback</Harbinger_Void_Dragon.tools.0.label>
+	
+	<!-- EN: DD_Knockback -->
+	<Rurelion_Zol_Dragon.tools.0.label>DD_Knockback</Rurelion_Zol_Dragon.tools.0.label>
+	
+	<!-- EN: tail -->
+	<Purple_Nebula_Dragon.tools.0.label>tail</Purple_Nebula_Dragon.tools.0.label>
+	
+	<!-- EN: tail -->
+	<Blue_Nebula_Dragon.tools.0.label>tail</Blue_Nebula_Dragon.tools.0.label>
+	
+	<!-- EN: tail -->
+	<Red_Nebula_Dragon.tools.0.label>tail</Red_Nebula_Dragon.tools.0.label>
+	
+	<!-- EN: tail -->
+	<EH_Void_Dragon.tools.0.label>tail</EH_Void_Dragon.tools.0.label>
+	
+	<!-- EN: tail -->
+	<Destroyer_Void_Dragon.tools.0.label>tail</Destroyer_Void_Dragon.tools.0.label>
+	
+	<!-- EN: tail -->
+	<Eater_Void_Dragon.tools.0.label>tail</Eater_Void_Dragon.tools.0.label>
+	
+	<!-- EN: tail -->
+	<Harbinger_Void_Dragon.tools.0.label>tail</Harbinger_Void_Dragon.tools.0.label>
+	
+	<!-- EN: tail -->
+	<Rurelion_Zol_Dragon.tools.0.label>tail</Rurelion_Zol_Dragon.tools.0.label>
+	
+	<!-- EN: left dragonclaw -->
+	<Purple_Nebula_Dragon.tools.0.label>left dragonclaw</Purple_Nebula_Dragon.tools.0.label>
+	<!-- EN: right dragonclaw -->
+	<Purple_Nebula_Dragon.tools.1.label>right dragonclaw</Purple_Nebula_Dragon.tools.1.label>
+	<!-- EN: razorfangs -->
+	<Purple_Nebula_Dragon.tools.2.label>razorfangs</Purple_Nebula_Dragon.tools.2.label>
+	<!-- EN: head -->
+	<Purple_Nebula_Dragon.tools.3.label>head</Purple_Nebula_Dragon.tools.3.label>
+	
+	<!-- EN: left dragonclaw -->
+	<Blue_Nebula_Dragon.tools.0.label>left dragonclaw</Blue_Nebula_Dragon.tools.0.label>
+	<!-- EN: right dragonclaw -->
+	<Blue_Nebula_Dragon.tools.1.label>right dragonclaw</Blue_Nebula_Dragon.tools.1.label>
+	<!-- EN: razorfangs -->
+	<Blue_Nebula_Dragon.tools.2.label>razorfangs</Blue_Nebula_Dragon.tools.2.label>
+	<!-- EN: head -->
+	<Blue_Nebula_Dragon.tools.3.label>head</Blue_Nebula_Dragon.tools.3.label>
+	
+	<!-- EN: left dragonclaw -->
+	<Red_Nebula_Dragon.tools.0.label>left dragonclaw</Red_Nebula_Dragon.tools.0.label>
+	<!-- EN: right dragonclaw -->
+	<Red_Nebula_Dragon.tools.1.label>right dragonclaw</Red_Nebula_Dragon.tools.1.label>
+	<!-- EN: razorfangs -->
+	<Red_Nebula_Dragon.tools.2.label>razorfangs</Red_Nebula_Dragon.tools.2.label>
+	<!-- EN: head -->
+	<Red_Nebula_Dragon.tools.3.label>head</Red_Nebula_Dragon.tools.3.label>
+	
+	<!-- EN: left dragonclaw -->
+	<EH_Void_Dragon.tools.0.label>left dragonclaw</EH_Void_Dragon.tools.0.label>
+	<!-- EN: right dragonclaw -->
+	<EH_Void_Dragon.tools.1.label>right dragonclaw</EH_Void_Dragon.tools.1.label>
+	<!-- EN: razorfangs -->
+	<EH_Void_Dragon.tools.2.label>razorfangs</EH_Void_Dragon.tools.2.label>
+	<!-- EN: head -->
+	<EH_Void_Dragon.tools.3.label>head</EH_Void_Dragon.tools.3.label>
+	
+	<!-- EN: left dragonclaw -->
+	<Destroyer_Void_Dragon.tools.0.label>left dragonclaw</Destroyer_Void_Dragon.tools.0.label>
+	<!-- EN: right dragonclaw -->
+	<Destroyer_Void_Dragon.tools.1.label>right dragonclaw</Destroyer_Void_Dragon.tools.1.label>
+	<!-- EN: razorfangs -->
+	<Destroyer_Void_Dragon.tools.2.label>razorfangs</Destroyer_Void_Dragon.tools.2.label>
+	<!-- EN: head -->
+	<Destroyer_Void_Dragon.tools.3.label>head</Destroyer_Void_Dragon.tools.3.label>
+	
+	<!-- EN: left dragonclaw -->
+	<Eater_Void_Dragon.tools.0.label>left dragonclaw</Eater_Void_Dragon.tools.0.label>
+	<!-- EN: right dragonclaw -->
+	<Eater_Void_Dragon.tools.1.label>right dragonclaw</Eater_Void_Dragon.tools.1.label>
+	<!-- EN: razorfangs -->
+	<Eater_Void_Dragon.tools.2.label>razorfangs</Eater_Void_Dragon.tools.2.label>
+	<!-- EN: head -->
+	<Eater_Void_Dragon.tools.3.label>head</Eater_Void_Dragon.tools.3.label>
+	
+	<!-- EN: left dragonclaw -->
+	<Harbinger_Void_Dragon.tools.0.label>left dragonclaw</Harbinger_Void_Dragon.tools.0.label>
+	<!-- EN: right dragonclaw -->
+	<Harbinger_Void_Dragon.tools.1.label>right dragonclaw</Harbinger_Void_Dragon.tools.1.label>
+	<!-- EN: razorfangs -->
+	<Harbinger_Void_Dragon.tools.2.label>razorfangs</Harbinger_Void_Dragon.tools.2.label>
+	<!-- EN: head -->
+	<Harbinger_Void_Dragon.tools.3.label>head</Harbinger_Void_Dragon.tools.3.label>
+	
+	<!-- EN: left dragonclaw -->
+	<Rurelion_Zol_Dragon.tools.0.label>left dragonclaw</Rurelion_Zol_Dragon.tools.0.label>
+	<!-- EN: right dragonclaw -->
+	<Rurelion_Zol_Dragon.tools.1.label>right dragonclaw</Rurelion_Zol_Dragon.tools.1.label>
+	<!-- EN: razorfangs -->
+	<Rurelion_Zol_Dragon.tools.2.label>razorfangs</Rurelion_Zol_Dragon.tools.2.label>
+	<!-- EN: head -->
+	<Rurelion_Zol_Dragon.tools.3.label>head</Rurelion_Zol_Dragon.tools.3.label>
+	
+	<!-- EN: Nebula breath -->
+	<Purple_Nebula_Dragon.verbs.0.label>Nebula breath</Purple_Nebula_Dragon.verbs.0.label>
+	<!-- EN: Stardust breath -->
+	<Purple_Nebula_Dragon.verbs.1.label>Stardust breath</Purple_Nebula_Dragon.verbs.1.label>
+	<!-- EN: ㅤ -->
+	<Purple_Nebula_Dragon.verbs.CombatExtended.Verb_ShootCE.label>ㅤ</Purple_Nebula_Dragon.verbs.CombatExtended.Verb_ShootCE.label>
+	
+	<!-- EN: Nebula breath -->
+	<Blue_Nebula_Dragon.verbs.0.label>Nebula breath</Blue_Nebula_Dragon.verbs.0.label>
+	<!-- EN: Stardust breath -->
+	<Blue_Nebula_Dragon.verbs.1.label>Stardust breath</Blue_Nebula_Dragon.verbs.1.label>
+	<!-- EN: ㅤ -->
+	<Blue_Nebula_Dragon.verbs.CombatExtended.Verb_ShootCE.label>ㅤ</Blue_Nebula_Dragon.verbs.CombatExtended.Verb_ShootCE.label>
+	
+	<!-- EN: Nebula breath -->
+	<Red_Nebula_Dragon.verbs.0.label>Nebula breath</Red_Nebula_Dragon.verbs.0.label>
+	<!-- EN: Stardust breath -->
+	<Red_Nebula_Dragon.verbs.1.label>Stardust breath</Red_Nebula_Dragon.verbs.1.label>
+	<!-- EN: ㅤ -->
+	<Red_Nebula_Dragon.verbs.CombatExtended.Verb_ShootCE.label>ㅤ</Red_Nebula_Dragon.verbs.CombatExtended.Verb_ShootCE.label>
+	
+	<!-- EN: Void Breath -->
+	<EH_Void_Dragon.verbs.0.label>Void Breath</EH_Void_Dragon.verbs.0.label>
+	<!-- EN: Molten Spit -->
+	<EH_Void_Dragon.verbs.1.label>Molten Spit</EH_Void_Dragon.verbs.1.label>
+	<!-- EN: Eclipse -->
+	<EH_Void_Dragon.verbs.2.label>Eclipse</EH_Void_Dragon.verbs.2.label>
+	<!-- EN: ㅤ -->
+	<EH_Void_Dragon.verbs.CombatExtended.Verb_ShootCE.label>ㅤ</EH_Void_Dragon.verbs.CombatExtended.Verb_ShootCE.label>
+	
+	<!-- EN: Void Breath -->
+	<Destroyer_Void_Dragon.verbs.0.label>Void Breath</Destroyer_Void_Dragon.verbs.0.label>
+	<!-- EN: Molten Spit -->
+	<Destroyer_Void_Dragon.verbs.1.label>Molten Spit</Destroyer_Void_Dragon.verbs.1.label>
+	<!-- EN: Hellfire -->
+	<Destroyer_Void_Dragon.verbs.2.label>Hellfire</Destroyer_Void_Dragon.verbs.2.label>
+	<!-- EN: Rend -->
+	<Destroyer_Void_Dragon.verbs.3.label>Rend</Destroyer_Void_Dragon.verbs.3.label>
+	<!-- EN: ㅤ -->
+	<Destroyer_Void_Dragon.verbs.CombatExtended.Verb_ShootCE.label>ㅤ</Destroyer_Void_Dragon.verbs.CombatExtended.Verb_ShootCE.label>
+	
+	<!-- EN: Void Breath -->
+	<Eater_Void_Dragon.verbs.0.label>Void Breath</Eater_Void_Dragon.verbs.0.label>
+	<!-- EN: Rend -->
+	<Eater_Void_Dragon.verbs.1.label>Rend</Eater_Void_Dragon.verbs.1.label>
+	<!-- EN: Constrain -->
+	<Eater_Void_Dragon.verbs.2.label>Constrain</Eater_Void_Dragon.verbs.2.label>
+	<!-- EN: ㅤ -->
+	<Eater_Void_Dragon.verbs.CombatExtended.Verb_ShootCE.label>ㅤ</Eater_Void_Dragon.verbs.CombatExtended.Verb_ShootCE.label>
+	
+	<!-- EN: Void Breath -->
+	<Harbinger_Void_Dragon.verbs.0.label>Void Breath</Harbinger_Void_Dragon.verbs.0.label>
+	<!-- EN: Void Surge -->
+	<Harbinger_Void_Dragon.verbs.1.label>Void Surge</Harbinger_Void_Dragon.verbs.1.label>
+	<!-- EN: Mind Flay -->
+	<Harbinger_Void_Dragon.verbs.2.label>Mind Flay</Harbinger_Void_Dragon.verbs.2.label>
+	<!-- EN: Constrain -->
+	<Harbinger_Void_Dragon.verbs.3.label>Constrain</Harbinger_Void_Dragon.verbs.3.label>
+	<!-- EN: ㅤ -->
+	<Harbinger_Void_Dragon.verbs.CombatExtended.Verb_ShootCE.label>ㅤ</Harbinger_Void_Dragon.verbs.CombatExtended.Verb_ShootCE.label>
+	
+	<!-- EN: Stardust breath -->
+	<Rurelion_Zol_Dragon.verbs.0.label>Stardust breath</Rurelion_Zol_Dragon.verbs.0.label>
+	<!-- EN: Rurelion breath -->
+	<Rurelion_Zol_Dragon.verbs.1.label>Rurelion breath</Rurelion_Zol_Dragon.verbs.1.label>
+	<!-- EN: ㅤ -->
+	<Rurelion_Zol_Dragon.verbs.CombatExtended.Verb_ShootCE.label>ㅤ</Rurelion_Zol_Dragon.verbs.CombatExtended.Verb_ShootCE.label>
+</LanguageData>

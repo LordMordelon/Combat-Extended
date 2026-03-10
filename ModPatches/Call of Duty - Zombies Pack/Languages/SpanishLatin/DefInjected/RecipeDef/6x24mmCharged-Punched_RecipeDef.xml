@@ -1,0 +1,24 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Recipe\6x24mmCharged-Punched.xml -->
+	
+	<!-- EN: make 6x24mm Charged cartridge (Punched) x500 -->
+	<MakeAmmo_6x24mmCharged_Punched.label>make 6x24mm Charged cartridge (Punched) x500</MakeAmmo_6x24mmCharged_Punched.label>
+	<!-- EN: Craft 500 6x24mm Charged cartridges (Punched). -->
+	<MakeAmmo_6x24mmCharged_Punched.description>Craft 500 6x24mm Charged cartridges (Punched).</MakeAmmo_6x24mmCharged_Punched.description>
+	<!-- EN: Making 6x24mm Charged cartridges. -->
+	<MakeAmmo_6x24mmCharged_Punched.jobString>Making 6x24mm Charged cartridges.</MakeAmmo_6x24mmCharged_Punched.jobString>
+	
+	<!-- EN: make 6x24mm Charged (Conc.) cartridge (Punched) x500 -->
+	<MakeAmmo_6x24mmCharged_AP_Punched.label>make 6x24mm Charged (Conc.) cartridge (Punched) x500</MakeAmmo_6x24mmCharged_AP_Punched.label>
+	<!-- EN: Craft 500 6x24mm Charged (Conc.) cartridges (Punched). -->
+	<MakeAmmo_6x24mmCharged_AP_Punched.description>Craft 500 6x24mm Charged (Conc.) cartridges (Punched).</MakeAmmo_6x24mmCharged_AP_Punched.description>
+	<!-- EN: Making 6x24mm Charged (Conc.) cartridges. -->
+	<MakeAmmo_6x24mmCharged_AP_Punched.jobString>Making 6x24mm Charged (Conc.) cartridges.</MakeAmmo_6x24mmCharged_AP_Punched.jobString>
+	
+	<!-- EN: make 6x24mm Charged (Ion) cartridge (Punched) x500 -->
+	<MakeAmmo_6x24mmCharged_Ion_Punched.label>make 6x24mm Charged (Ion) cartridge (Punched) x500</MakeAmmo_6x24mmCharged_Ion_Punched.label>
+	<!-- EN: Craft 500 6x24mm Charged (Ion) cartridges (Punched). -->
+	<MakeAmmo_6x24mmCharged_Ion_Punched.description>Craft 500 6x24mm Charged (Ion) cartridges (Punched).</MakeAmmo_6x24mmCharged_Ion_Punched.description>
+	<!-- EN: Making 6x24mm Charged (Ion) cartridges. -->
+	<MakeAmmo_6x24mmCharged_Ion_Punched.jobString>Making 6x24mm Charged (Ion) cartridges.</MakeAmmo_6x24mmCharged_Ion_Punched.jobString>
+</LanguageData>

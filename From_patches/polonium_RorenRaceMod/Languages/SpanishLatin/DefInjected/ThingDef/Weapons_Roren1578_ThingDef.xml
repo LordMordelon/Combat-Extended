@@ -1,0 +1,87 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\polonium_RorenRaceMod\Weapons_Roren1578.xml -->
+	<!-- EN: stock -->
+	<Roren_Shotgun.tools.0.label>stock</Roren_Shotgun.tools.0.label>
+	<!-- EN: barrel -->
+	<Roren_Shotgun.tools.1.label>barrel</Roren_Shotgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<Roren_Shotgun.tools.2.label>muzzle</Roren_Shotgun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Roren_SMG.tools.0.label>stock</Roren_SMG.tools.0.label>
+	<!-- EN: barrel -->
+	<Roren_SMG.tools.1.label>barrel</Roren_SMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<Roren_SMG.tools.2.label>muzzle</Roren_SMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Roren_MarksmanRifle.tools.0.label>stock</Roren_MarksmanRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Roren_MarksmanRifle.tools.1.label>barrel</Roren_MarksmanRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Roren_MarksmanRifle.tools.2.label>muzzle</Roren_MarksmanRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Roren_ATRifle.tools.0.label>stock</Roren_ATRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Roren_ATRifle.tools.1.label>barrel</Roren_ATRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Roren_ATRifle.tools.2.label>muzzle</Roren_ATRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Roren_LMG.tools.0.label>stock</Roren_LMG.tools.0.label>
+	<!-- EN: barrel -->
+	<Roren_LMG.tools.1.label>barrel</Roren_LMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<Roren_LMG.tools.2.label>muzzle</Roren_LMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Roren_HMG.tools.0.label>stock</Roren_HMG.tools.0.label>
+	<!-- EN: barrel -->
+	<Roren_HMG.tools.1.label>barrel</Roren_HMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<Roren_HMG.tools.2.label>muzzle</Roren_HMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Roren_AutoCannon.tools.0.label>stock</Roren_AutoCannon.tools.0.label>
+	<!-- EN: barrel -->
+	<Roren_AutoCannon.tools.1.label>barrel</Roren_AutoCannon.tools.1.label>
+	<!-- EN: muzzle -->
+	<Roren_AutoCannon.tools.2.label>muzzle</Roren_AutoCannon.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Roren_GrenadeLauncher.tools.0.label>stock</Roren_GrenadeLauncher.tools.0.label>
+	<!-- EN: barrel -->
+	<Roren_GrenadeLauncher.tools.1.label>barrel</Roren_GrenadeLauncher.tools.1.label>
+	<!-- EN: muzzle -->
+	<Roren_GrenadeLauncher.tools.2.label>muzzle</Roren_GrenadeLauncher.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Roren_RocketLauncher.tools.0.label>stock</Roren_RocketLauncher.tools.0.label>
+	<!-- EN: barrel -->
+	<Roren_RocketLauncher.tools.1.label>barrel</Roren_RocketLauncher.tools.1.label>
+	<!-- EN: muzzle -->
+	<Roren_RocketLauncher.tools.2.label>muzzle</Roren_RocketLauncher.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Roren_Flamer.tools.0.label>stock</Roren_Flamer.tools.0.label>
+	<!-- EN: barrel -->
+	<Roren_Flamer.tools.1.label>barrel</Roren_Flamer.tools.1.label>
+	<!-- EN: muzzle -->
+	<Roren_Flamer.tools.2.label>muzzle</Roren_Flamer.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Roren_InfantryRifle.tools.0.label>stock</Roren_InfantryRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Roren_InfantryRifle.tools.1.label>barrel</Roren_InfantryRifle.tools.1.label>
+	<!-- EN: bayonet -->
+	<Roren_InfantryRifle.tools.2.label>bayonet</Roren_InfantryRifle.tools.2.label>
+	
+	<!-- EN: grip -->
+	<Roren_InfantryPistol.tools.0.label>grip</Roren_InfantryPistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<Roren_InfantryPistol.tools.1.label>muzzle</Roren_InfantryPistol.tools.1.label>
+	
+	<!-- EN: muzzle -->
+	<Roren_RocketLauncher.tools.0.label>muzzle</Roren_RocketLauncher.tools.0.label>
+</LanguageData>

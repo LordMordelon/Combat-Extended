@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\MiningCo. Spaceship\Defs\MiningCo. Spaceship\Defs_Airstrikes.xml -->
+	<!-- EN: Autocannon -->
+	<MiningCo_Cannon.label>Autocannon</MiningCo_Cannon.label>
+	<!-- EN: {0} has died in an explosion. -->
+	<MiningCo_Cannon.deathMessage>{0} has died in an explosion.</MiningCo_Cannon.deathMessage>
+	<!-- EN: Rocket -->
+	<MiningCo_Rocket.label>Rocket</MiningCo_Rocket.label>
+	<!-- EN: {0} has died in an explosion. -->
+	<MiningCo_Rocket.deathMessage>{0} has died in an explosion.</MiningCo_Rocket.deathMessage>
+</LanguageData>

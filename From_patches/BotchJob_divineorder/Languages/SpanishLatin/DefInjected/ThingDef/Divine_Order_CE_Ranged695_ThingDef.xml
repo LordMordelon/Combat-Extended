@@ -1,0 +1,12 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\BotchJob_divineorder\Divine_Order_CE_Ranged695.xml -->
+	<!-- EN: stock -->
+	<BotchJob_DivineOrderPistol.tools.0.label>stock</BotchJob_DivineOrderPistol.tools.0.label>
+	<!-- EN: barrel -->
+	<BotchJob_DivineOrderPistol.tools.1.label>barrel</BotchJob_DivineOrderPistol.tools.1.label>
+	<!-- EN: muzzle -->
+	<BotchJob_DivineOrderPistol.tools.2.label>muzzle</BotchJob_DivineOrderPistol.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<BotchJob_DivineJudgementStaff.tools.0.label>shaft</BotchJob_DivineJudgementStaff.tools.0.label>
+</LanguageData>

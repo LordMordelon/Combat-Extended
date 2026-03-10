@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Apparel_Hats13.xml -->
+	<!-- EN: composite helmet -->
+	<Apparel_AdvancedHelmet.label>composite helmet</Apparel_AdvancedHelmet.label>
+	<!-- EN: A lightweight combat helmet with a complex design, made from composite material. More effective protection than plain steel but less durable. -->
+	<Apparel_AdvancedHelmet.description>A lightweight combat helmet with a complex design, made from composite material. More effective protection than plain steel but less durable.</Apparel_AdvancedHelmet.description>
+	<!-- EN: A marine armor helmet, with a built-in status computer and layered plasteel-weave plates.\n\nBuilt-in servo-motors assist the wearer's muscles in holding the weight of the helmet while the integrated combat HUD improves weapon accuracy.\n\nArmor like this is often used by rapid-incursion space marines. -->
+	<Apparel_PowerArmorHelmet.description>A marine armor helmet, with a built-in status computer and layered plasteel-weave plates.\n\nBuilt-in servo-motors assist the wearer's muscles in holding the weight of the helmet while the integrated combat HUD improves weapon accuracy.\n\nArmor like this is often used by rapid-incursion space marines.</Apparel_PowerArmorHelmet.description>
+	<!-- EN: A high-tech armored helmet with a built-in status computer and a protective plasteel-weave plate.\n\nBuilt-in servo-motors assist the wearer's muscles in holding the weight of the helmet while the integrated combat HUD improves weapon accuracy.\n\nArmor like this is often used by imperial scout troops or glitterworld police forces. -->
+	<Apparel_ArmorHelmetRecon.description>A high-tech armored helmet with a built-in status computer and a protective plasteel-weave plate.\n\nBuilt-in servo-motors assist the wearer's muscles in holding the weight of the helmet while the integrated combat HUD improves weapon accuracy.\n\nArmor like this is often used by imperial scout troops or glitterworld police forces.</Apparel_ArmorHelmetRecon.description>
+</LanguageData>

@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- Defs\Ammo\Medieval\MiniCannonBall.xml -->
+	
+	<!-- EN: make mini round shot cannon balls x50 -->
+	<MakeAmmo_MiniCannonBall_Round.label>make mini round shot cannon balls x50</MakeAmmo_MiniCannonBall_Round.label>
+	<!-- EN: Craft 50 mini round shot cannon balls. -->
+	<MakeAmmo_MiniCannonBall_Round.description>Craft 50 mini round shot cannon balls.</MakeAmmo_MiniCannonBall_Round.description>
+	<!-- EN: Making mini round shot cannon balls. -->
+	<MakeAmmo_MiniCannonBall_Round.jobString>Making mini round shot cannon balls.</MakeAmmo_MiniCannonBall_Round.jobString>
+	
+	<!-- EN: Make mini grape shot cannon shells x50 -->
+	<MakeAmmo_MiniCannonBall_Grape.label>Make mini grape shot cannon shells x50</MakeAmmo_MiniCannonBall_Grape.label>
+	<!-- EN: Craft 50 mini grape shot cannon shells. -->
+	<MakeAmmo_MiniCannonBall_Grape.description>Craft 50 mini grape shot cannon shells.</MakeAmmo_MiniCannonBall_Grape.description>
+	<!-- EN: Making mini grape shot cannon shells. -->
+	<MakeAmmo_MiniCannonBall_Grape.jobString>Making mini grape shot cannon shells.</MakeAmmo_MiniCannonBall_Grape.jobString>
+</LanguageData>

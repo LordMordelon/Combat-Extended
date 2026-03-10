@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\Big and Small Genes\Defs\Big and Small Genes\Weapons\ThingDef_Ammo.xml -->
+	<!-- EN: giant javelin (thrown) -->
+	<Projectile_GiantThrown.label>giant javelin (thrown)</Projectile_GiantThrown.label>
+	<!-- EN: shrink ray -->
+	<Projectile_ShrinkRay.label>shrink ray</Projectile_ShrinkRay.label>
+	<!-- EN: growth ray -->
+	<Projectile_GrowthRay.label>growth ray</Projectile_GrowthRay.label>
+	<!-- EN: rock (thrown) -->
+	<Rock_GiantThrown.label>rock (thrown)</Rock_GiantThrown.label>
+</LanguageData>

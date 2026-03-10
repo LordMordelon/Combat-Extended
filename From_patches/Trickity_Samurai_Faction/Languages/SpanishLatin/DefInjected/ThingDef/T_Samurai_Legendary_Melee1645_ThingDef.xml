@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Trickity_Samurai_Faction\T_Samurai_Legendary_Melee1645.xml -->
+	<!-- EN: handle -->
+	<TSF_Masamune.tools.0.label>handle</TSF_Masamune.tools.0.label>
+	<!-- EN: point -->
+	<TSF_Masamune.tools.1.label>point</TSF_Masamune.tools.1.label>
+	<!-- EN: edge -->
+	<TSF_Masamune.tools.2.label>edge</TSF_Masamune.tools.2.label>
+	
+	<!-- EN: handle -->
+	<TSF_Muramasa.tools.0.label>handle</TSF_Muramasa.tools.0.label>
+	<!-- EN: point -->
+	<TSF_Muramasa.tools.1.label>point</TSF_Muramasa.tools.1.label>
+	<!-- EN: edge -->
+	<TSF_Muramasa.tools.2.label>edge</TSF_Muramasa.tools.2.label>
+</LanguageData>

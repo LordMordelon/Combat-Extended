@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- ModPatches\Infinity Rim Ariadna\Defs\Infinity Rim Ariadna\Ammo\Autocannon.xml -->
+	
+	<!-- EN: 20x99mmR ShVAK cartridge (Teseum) -->
+	<Ammo_20x99mmRShVAK_Teseum.label>20x99mmR ShVAK cartridge (Teseum)</Ammo_20x99mmRShVAK_Teseum.label>
+	<!-- EN: Large caliber cartridge used by autocannons and a handful of anti-tank rifles. -->
+	<Ammo_20x99mmRShVAK_Teseum.description>Large caliber cartridge used by autocannons and a handful of anti-tank rifles.</Ammo_20x99mmRShVAK_Teseum.description>
+	
+	<!-- EN: autocannon shell (Teseum) -->
+	<Ammo_Autocannon_Teseum.label>autocannon shell (Teseum)</Ammo_Autocannon_Teseum.label>
+	<!-- EN: Large caliber cartridge used by autocannons and a handful of anti-tank rifles. -->
+	<Ammo_Autocannon_Teseum.description>Large caliber cartridge used by autocannons and a handful of anti-tank rifles.</Ammo_Autocannon_Teseum.description>
+	
+	<!-- EN: 20mmR ShVAK bullet (Teseum) -->
+	<Bullet_20x99mmRShVAK_Teseum.label>20mmR ShVAK bullet (Teseum)</Bullet_20x99mmRShVAK_Teseum.label>
+</LanguageData>

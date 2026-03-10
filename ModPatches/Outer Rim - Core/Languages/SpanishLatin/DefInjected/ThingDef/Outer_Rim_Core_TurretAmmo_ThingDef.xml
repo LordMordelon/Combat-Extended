@@ -1,0 +1,31 @@
+<LanguageData>
+	<!-- ModPatches\Outer Rim - Core\Defs\Outer Rim - Core\Outer_Rim_Core_TurretAmmo.xml -->
+	<!-- EN: bullet -->
+	<Bullet_BlasterTurretSmall_Red.label>bullet</Bullet_BlasterTurretSmall_Red.label>
+	<!-- EN: bullet -->
+	<Bullet_BlasterTurretSmall_Green.label>bullet</Bullet_BlasterTurretSmall_Green.label>
+	<!-- EN: bullet -->
+	<Bullet_BlasterTurretSmall_Yellow.label>bullet</Bullet_BlasterTurretSmall_Yellow.label>
+	<!-- EN: blaster cannon ion bolt -->
+	<Bullet_BlasterTurretSmall_Ion.label>blaster cannon ion bolt</Bullet_BlasterTurretSmall_Ion.label>
+	<!-- EN: bullet -->
+	<Bullet_BlasterTurretMedium_Red.label>bullet</Bullet_BlasterTurretMedium_Red.label>
+	<!-- EN: bullet -->
+	<Bullet_BlasterTurretMedium_Green.label>bullet</Bullet_BlasterTurretMedium_Green.label>
+	<!-- EN: bullet -->
+	<Bullet_BlasterTurretMedium_Yellow.label>bullet</Bullet_BlasterTurretMedium_Yellow.label>
+	<!-- EN: laser cannon ion bolt -->
+	<Bullet_BlasterTurretMedium_Ion.label>laser cannon ion bolt</Bullet_BlasterTurretMedium_Ion.label>
+	<!-- EN: bullet -->
+	<Bullet_BlasterTurretLarge_Red.label>bullet</Bullet_BlasterTurretLarge_Red.label>
+	<!-- EN: bullet -->
+	<Bullet_BlasterTurretLarge_Green.label>bullet</Bullet_BlasterTurretLarge_Green.label>
+	<!-- EN: bullet -->
+	<Bullet_BlasterTurretLarge_Yellow.label>bullet</Bullet_BlasterTurretLarge_Yellow.label>
+	<!-- EN: turbolaser ion bolt -->
+	<Bullet_BlasterTurretLarge_Ion.label>turbolaser ion bolt</Bullet_BlasterTurretLarge_Ion.label>
+	<!-- EN: proton ball -->
+	<Bullet_OR_ProtonMortar.label>proton ball</Bullet_OR_ProtonMortar.label>
+	<!-- EN: proton ball -->
+	<Bullet_OR_ProtonArtillery.label>proton ball</Bullet_OR_ProtonArtillery.label>
+</LanguageData>

@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Zaps\Zapguns Punched.xml -->
+	<!-- EN: make Porter's X2 Zapgun cartridge x500 -->
+	<MakeAmmo_Zapgun_Punched.label>make Porter's X2 Zapgun cartridge x500</MakeAmmo_Zapgun_Punched.label>
+	<!-- EN: Craft 500 Porter's X2 Zapgun cartridges. -->
+	<MakeAmmo_Zapgun_Punched.description>Craft 500 Porter's X2 Zapgun cartridges.</MakeAmmo_Zapgun_Punched.description>
+	<!-- EN: Making Porter's X2 Zapgun cartridges. -->
+	<MakeAmmo_Zapgun_Punched.jobString>Making Porter's X2 Zapgun cartridges.</MakeAmmo_Zapgun_Punched.jobString>
+</LanguageData>

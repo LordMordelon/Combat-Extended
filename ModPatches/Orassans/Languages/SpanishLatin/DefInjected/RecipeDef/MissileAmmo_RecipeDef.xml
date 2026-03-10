@@ -1,0 +1,24 @@
+<LanguageData>
+	<!-- ModPatches\Orassans\Defs\Orassans\Ammo\MissileAmmo.xml -->
+	
+	<!-- EN: make HEAT orassan missile shells x2 -->
+	<MakeAmmo_OrassanMissileShell_HEAT.label>make HEAT orassan missile shells x2</MakeAmmo_OrassanMissileShell_HEAT.label>
+	<!-- EN: Craft 2 120mm HEAT cannon shells. -->
+	<MakeAmmo_OrassanMissileShell_HEAT.description>Craft 2 120mm HEAT cannon shells.</MakeAmmo_OrassanMissileShell_HEAT.description>
+	<!-- EN: Making 120mm HEAT cannon shells. -->
+	<MakeAmmo_OrassanMissileShell_HEAT.jobString>Making 120mm HEAT cannon shells.</MakeAmmo_OrassanMissileShell_HEAT.jobString>
+	
+	<!-- EN: make armor Piercing Sabot orassan missile shells x2 -->
+	<MakeAmmo_OrassanMissileShell_APSabot.label>make armor Piercing Sabot orassan missile shells x2</MakeAmmo_OrassanMissileShell_APSabot.label>
+	<!-- EN: Craft 2 armor piercing sabot orassan missile shells. -->
+	<MakeAmmo_OrassanMissileShell_APSabot.description>Craft 2 armor piercing sabot orassan missile shells.</MakeAmmo_OrassanMissileShell_APSabot.description>
+	<!-- EN: Making armor piercing sabot orassan missile shells. -->
+	<MakeAmmo_OrassanMissileShell_APSabot.jobString>Making armor piercing sabot orassan missile shells.</MakeAmmo_OrassanMissileShell_APSabot.jobString>
+	
+	<!-- EN: make HE orassan missile shells x2 -->
+	<MakeAmmo_OrassanMissileShell_HE.label>make HE orassan missile shells x2</MakeAmmo_OrassanMissileShell_HE.label>
+	<!-- EN: Craft 2 120mm HE cannon shells. -->
+	<MakeAmmo_OrassanMissileShell_HE.description>Craft 2 120mm HE cannon shells.</MakeAmmo_OrassanMissileShell_HE.description>
+	<!-- EN: Making 120mm HE cannon shells. -->
+	<MakeAmmo_OrassanMissileShell_HE.jobString>Making 120mm HE cannon shells.</MakeAmmo_OrassanMissileShell_HE.jobString>
+</LanguageData>

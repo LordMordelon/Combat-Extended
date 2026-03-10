@@ -1,0 +1,72 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\sarg_jorisexperience\Unique_Joris_Extended1658.xml -->
+	<!-- EN: left claw -->
+	<JECom_BlockJoris.tools.0.label>left claw</JECom_BlockJoris.tools.0.label>
+	<!-- EN: right claw -->
+	<JECom_BlockJoris.tools.1.label>right claw</JECom_BlockJoris.tools.1.label>
+	<!-- EN: head -->
+	<JECom_BlockJoris.tools.3.label>head</JECom_BlockJoris.tools.3.label>
+	
+	<!-- EN: left chainsaw -->
+	<JE_ChainsawJoris.tools.0.label>left chainsaw</JE_ChainsawJoris.tools.0.label>
+	<!-- EN: right chainsaw -->
+	<JE_ChainsawJoris.tools.1.label>right chainsaw</JE_ChainsawJoris.tools.1.label>
+	<!-- EN: head -->
+	<JE_ChainsawJoris.tools.3.label>head</JE_ChainsawJoris.tools.3.label>
+	
+	<!-- EN: head -->
+	<JE_BiblicallyAccurateJoris.tools.1.label>head</JE_BiblicallyAccurateJoris.tools.1.label>
+	
+	<!-- EN: left claw -->
+	<JECom_Cerberjoris.tools.0.label>left claw</JECom_Cerberjoris.tools.0.label>
+	<!-- EN: right claw -->
+	<JECom_Cerberjoris.tools.1.label>right claw</JECom_Cerberjoris.tools.1.label>
+	<!-- EN: head -->
+	<JECom_Cerberjoris.tools.3.label>head</JECom_Cerberjoris.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<JE_DracoJoris.tools.0.label>left claw</JE_DracoJoris.tools.0.label>
+	<!-- EN: right claw -->
+	<JE_DracoJoris.tools.1.label>right claw</JE_DracoJoris.tools.1.label>
+	<!-- EN: fangs -->
+	<JE_DracoJoris.tools.2.label>fangs</JE_DracoJoris.tools.2.label>
+	<!-- EN: head -->
+	<JE_DracoJoris.tools.3.label>head</JE_DracoJoris.tools.3.label>
+	
+	<!-- EN: left weapon from a more civilized age -->
+	<JE_JoneralGrievous.tools.0.label>left weapon from a more civilized age</JE_JoneralGrievous.tools.0.label>
+	<!-- EN: right weapon from a more civilized age -->
+	<JE_JoneralGrievous.tools.1.label>right weapon from a more civilized age</JE_JoneralGrievous.tools.1.label>
+	<!-- EN: Uncivilised method from a more barbaric age -->
+	<JE_JoneralGrievous.tools.2.label>Uncivilised method from a more barbaric age</JE_JoneralGrievous.tools.2.label>
+	<!-- EN: head -->
+	<JE_JoneralGrievous.tools.3.label>head</JE_JoneralGrievous.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<JE_JonicTheHedgehog.tools.0.label>left claw</JE_JonicTheHedgehog.tools.0.label>
+	<!-- EN: right claw -->
+	<JE_JonicTheHedgehog.tools.1.label>right claw</JE_JonicTheHedgehog.tools.1.label>
+	<!-- EN: head -->
+	<JE_JonicTheHedgehog.tools.3.label>head</JE_JonicTheHedgehog.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<JE_JoobyDoo.tools.0.label>left claw</JE_JoobyDoo.tools.0.label>
+	<!-- EN: right claw -->
+	<JE_JoobyDoo.tools.1.label>right claw</JE_JoobyDoo.tools.1.label>
+	<!-- EN: head -->
+	<JE_JoobyDoo.tools.3.label>head</JE_JoobyDoo.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<JE_JoraltOfRivia.tools.0.label>left claw</JE_JoraltOfRivia.tools.0.label>
+	<!-- EN: right claw -->
+	<JE_JoraltOfRivia.tools.1.label>right claw</JE_JoraltOfRivia.tools.1.label>
+	<!-- EN: head -->
+	<JE_JoraltOfRivia.tools.3.label>head</JE_JoraltOfRivia.tools.3.label>
+	
+	<!-- EN: crowbar -->
+	<JE_JordonFreeman.tools.0.label>crowbar</JE_JordonFreeman.tools.0.label>
+	<!-- EN: right claw -->
+	<JE_JordonFreeman.tools.1.label>right claw</JE_JordonFreeman.tools.1.label>
+	<!-- EN: head -->
+	<JE_JordonFreeman.tools.3.label>head</JE_JordonFreeman.tools.3.label>
+</LanguageData>

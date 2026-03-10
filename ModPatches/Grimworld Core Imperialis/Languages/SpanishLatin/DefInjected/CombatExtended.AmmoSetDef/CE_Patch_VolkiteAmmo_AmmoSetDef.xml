@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\Grimworld Core Imperialis\Defs\Grimworld Core Imperialis\Ammo\CE_Patch_VolkiteAmmo.xml -->
+	<!-- EN: lasgun power pack -->
+	<AmmoSet_Volk_Pistol.label>lasgun power pack</AmmoSet_Volk_Pistol.label>
+	<!-- EN: lasgun power pack -->
+	<AmmoSet_Volk_Rifle.label>lasgun power pack</AmmoSet_Volk_Rifle.label>
+	<!-- EN: lasgun power pack -->
+	<AmmoSet_Volk_HellGun.label>lasgun power pack</AmmoSet_Volk_HellGun.label>
+	<!-- EN: lasgun power pack -->
+	<AmmoSet_Volk_Cannon.label>lasgun power pack</AmmoSet_Volk_Cannon.label>
+</LanguageData>

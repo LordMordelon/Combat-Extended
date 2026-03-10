@@ -1,0 +1,156 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Neronix17_OuterRim_Core\Outer_Rim_Core_Grenades1192.xml -->
+	<!-- EN: Body -->
+	<OuterRim_FragGrenade.tools.0.label>Body</OuterRim_FragGrenade.tools.0.label>
+	
+	<!-- EN: Body -->
+	<OuterRim_CryoBanGrenade.tools.0.label>Body</OuterRim_CryoBanGrenade.tools.0.label>
+	
+	<!-- EN: Body -->
+	<OuterRim_IonGrenade.tools.0.label>Body</OuterRim_IonGrenade.tools.0.label>
+	
+	<!-- EN: Body -->
+	<OuterRim_PlasmaGrenade.tools.0.label>Body</OuterRim_PlasmaGrenade.tools.0.label>
+	
+	<!-- EN: Body -->
+	<OuterRim_SonicGrenade.tools.0.label>Body</OuterRim_SonicGrenade.tools.0.label>
+	
+	<!-- EN: Body -->
+	<OuterRim_StunGrenade.tools.0.label>Body</OuterRim_StunGrenade.tools.0.label>
+	
+	<!-- EN: Body -->
+	<OuterRim_ThermalDetonator.tools.0.label>Body</OuterRim_ThermalDetonator.tools.0.label>
+	
+	<!-- EN: A lightweight but powerful fragmentation grenade, releasing a deadly storm of flechettes on detonation. -->
+	<OuterRim_FragGrenade.description>A lightweight but powerful fragmentation grenade, releasing a deadly storm of flechettes on detonation.</OuterRim_FragGrenade.description>
+	
+	<!-- EN: A lightweight but powerful explosive, releasing a cloud of supercooled cryoban to freeze opponents solid. Does little direct damage by itself. -->
+	<OuterRim_CryoBanGrenade.description>A lightweight but powerful explosive, releasing a cloud of supercooled cryoban to freeze opponents solid. Does little direct damage by itself.</OuterRim_CryoBanGrenade.description>
+	
+	<!-- EN: A lightweight but powerful pulse detonator, burning out its internal components to release an electromagnetic shockwave that can disable or even damage droids. -->
+	<OuterRim_IonGrenade.description>A lightweight but powerful pulse detonator, burning out its internal components to release an electromagnetic shockwave that can disable or even damage droids.</OuterRim_IonGrenade.description>
+	
+	<!-- EN: A lightweight but powerful plasma detonator, releasing a burst of superheated gas to inflict tremendous burns on anyone nearby. -->
+	<OuterRim_PlasmaGrenade.description>A lightweight but powerful plasma detonator, releasing a burst of superheated gas to inflict tremendous burns on anyone nearby.</OuterRim_PlasmaGrenade.description>
+	
+	<!-- EN: A lightweight but powerful sonic generator, burning out its internal components to release a shockwave that causes blunt force trauma to all in the radius. -->
+	<OuterRim_SonicGrenade.description>A lightweight but powerful sonic generator, burning out its internal components to release a shockwave that causes blunt force trauma to all in the radius.</OuterRim_SonicGrenade.description>
+	
+	<!-- EN: A lightweight but nonlethal detonator, emitting a bright flash and loud sound to stun targets, useful when attempting to take someone in alive and unharmed. -->
+	<OuterRim_StunGrenade.description>A lightweight but nonlethal detonator, emitting a bright flash and loud sound to stun targets, useful when attempting to take someone in alive and unharmed.</OuterRim_StunGrenade.description>
+	
+	<!-- EN: A lightweight but tremendously powerful explosive, capable of inflicting terrible harm on anything caught in its area of effect. -->
+	<OuterRim_ThermalDetonator.description>A lightweight but tremendously powerful explosive, capable of inflicting terrible harm on anything caught in its area of effect.</OuterRim_ThermalDetonator.description>
+	
+	<!-- EN: frag detonator -->
+	<OuterRim_FragGrenade.label>frag detonator</OuterRim_FragGrenade.label>
+	
+	<!-- EN: cryoban detonator -->
+	<OuterRim_CryoBanGrenade.label>cryoban detonator</OuterRim_CryoBanGrenade.label>
+	
+	<!-- EN: ion detonator -->
+	<OuterRim_IonGrenade.label>ion detonator</OuterRim_IonGrenade.label>
+	
+	<!-- EN: plasma detonator -->
+	<OuterRim_PlasmaGrenade.label>plasma detonator</OuterRim_PlasmaGrenade.label>
+	
+	<!-- EN: sonic detonator -->
+	<OuterRim_SonicGrenade.label>sonic detonator</OuterRim_SonicGrenade.label>
+	
+	<!-- EN: stun detonator -->
+	<OuterRim_StunGrenade.label>stun detonator</OuterRim_StunGrenade.label>
+	
+	<!-- EN: thermal detonator -->
+	<OuterRim_ThermalDetonator.label>thermal detonator</OuterRim_ThermalDetonator.label>
+	
+	<!-- EN: throw frag detonator -->
+	<OuterRim_FragGrenade.Properties.label>throw frag detonator</OuterRim_FragGrenade.Properties.label>
+	
+	<!-- EN: throw cryoban detonator -->
+	<OuterRim_CryoBanGrenade.Properties.label>throw cryoban detonator</OuterRim_CryoBanGrenade.Properties.label>
+	
+	<!-- EN: throw ion detonator -->
+	<OuterRim_IonGrenade.Properties.label>throw ion detonator</OuterRim_IonGrenade.Properties.label>
+	
+	<!-- EN: throw plasma detonator -->
+	<OuterRim_PlasmaGrenade.Properties.label>throw plasma detonator</OuterRim_PlasmaGrenade.Properties.label>
+	
+	<!-- EN: throw sonic detonator -->
+	<OuterRim_SonicGrenade.Properties.label>throw sonic detonator</OuterRim_SonicGrenade.Properties.label>
+	
+	<!-- EN: throw stun detonator -->
+	<OuterRim_StunGrenade.Properties.label>throw stun detonator</OuterRim_StunGrenade.Properties.label>
+	
+	<!-- EN: throw thermal detonator -->
+	<OuterRim_ThermalDetonator.Properties.label>throw thermal detonator</OuterRim_ThermalDetonator.Properties.label>
+	
+	<!-- EN: grenade -->
+	<OuterRim_FragGrenadeBelt.comps.CompApparelReloadable.chargeNoun>grenade</OuterRim_FragGrenadeBelt.comps.CompApparelReloadable.chargeNoun>
+	<!-- EN: on reload -->
+	<OuterRim_FragGrenadeBelt.comps.CompApparelReloadable.cooldownGerund>on reload</OuterRim_FragGrenadeBelt.comps.CompApparelReloadable.cooldownGerund>
+	
+	<!-- EN: grenade -->
+	<OuterRim_CryoBanGrenadeBelt.comps.CompApparelReloadable.chargeNoun>grenade</OuterRim_CryoBanGrenadeBelt.comps.CompApparelReloadable.chargeNoun>
+	<!-- EN: on reload -->
+	<OuterRim_CryoBanGrenadeBelt.comps.CompApparelReloadable.cooldownGerund>on reload</OuterRim_CryoBanGrenadeBelt.comps.CompApparelReloadable.cooldownGerund>
+	
+	<!-- EN: grenade -->
+	<OuterRim_IonGrenadeBelt.comps.CompApparelReloadable.chargeNoun>grenade</OuterRim_IonGrenadeBelt.comps.CompApparelReloadable.chargeNoun>
+	<!-- EN: on reload -->
+	<OuterRim_IonGrenadeBelt.comps.CompApparelReloadable.cooldownGerund>on reload</OuterRim_IonGrenadeBelt.comps.CompApparelReloadable.cooldownGerund>
+	
+	<!-- EN: grenade -->
+	<OuterRim_PlasmaGrenadeBelt.comps.CompApparelReloadable.chargeNoun>grenade</OuterRim_PlasmaGrenadeBelt.comps.CompApparelReloadable.chargeNoun>
+	<!-- EN: on reload -->
+	<OuterRim_PlasmaGrenadeBelt.comps.CompApparelReloadable.cooldownGerund>on reload</OuterRim_PlasmaGrenadeBelt.comps.CompApparelReloadable.cooldownGerund>
+	
+	<!-- EN: grenade -->
+	<OuterRim_SonicGrenadeBelt.comps.CompApparelReloadable.chargeNoun>grenade</OuterRim_SonicGrenadeBelt.comps.CompApparelReloadable.chargeNoun>
+	<!-- EN: on reload -->
+	<OuterRim_SonicGrenadeBelt.comps.CompApparelReloadable.cooldownGerund>on reload</OuterRim_SonicGrenadeBelt.comps.CompApparelReloadable.cooldownGerund>
+	
+	<!-- EN: grenade -->
+	<OuterRim_StunGrenadeBelt.comps.CompApparelReloadable.chargeNoun>grenade</OuterRim_StunGrenadeBelt.comps.CompApparelReloadable.chargeNoun>
+	<!-- EN: on reload -->
+	<OuterRim_StunGrenadeBelt.comps.CompApparelReloadable.cooldownGerund>on reload</OuterRim_StunGrenadeBelt.comps.CompApparelReloadable.cooldownGerund>
+	
+	<!-- EN: grenade -->
+	<OuterRim_ThermalDetonatorBelt.comps.CompApparelReloadable.chargeNoun>grenade</OuterRim_ThermalDetonatorBelt.comps.CompApparelReloadable.chargeNoun>
+	<!-- EN: on reload -->
+	<OuterRim_ThermalDetonatorBelt.comps.CompApparelReloadable.cooldownGerund>on reload</OuterRim_ThermalDetonatorBelt.comps.CompApparelReloadable.cooldownGerund>
+	
+	<!-- EN: throw frag detonator -->
+	<OuterRim_FragGrenadeBelt.verbs.0.label>throw frag detonator</OuterRim_FragGrenadeBelt.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<OuterRim_FragGrenadeBelt.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>ㅤ</OuterRim_FragGrenadeBelt.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>
+	
+	<!-- EN: throw cryoban detonator -->
+	<OuterRim_CryoBanGrenadeBelt.verbs.0.label>throw cryoban detonator</OuterRim_CryoBanGrenadeBelt.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<OuterRim_CryoBanGrenadeBelt.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>ㅤ</OuterRim_CryoBanGrenadeBelt.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>
+	
+	<!-- EN: throw ion detonator -->
+	<OuterRim_IonGrenadeBelt.verbs.0.label>throw ion detonator</OuterRim_IonGrenadeBelt.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<OuterRim_IonGrenadeBelt.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>ㅤ</OuterRim_IonGrenadeBelt.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>
+	
+	<!-- EN: throw plasma detonator -->
+	<OuterRim_PlasmaGrenadeBelt.verbs.0.label>throw plasma detonator</OuterRim_PlasmaGrenadeBelt.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<OuterRim_PlasmaGrenadeBelt.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>ㅤ</OuterRim_PlasmaGrenadeBelt.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>
+	
+	<!-- EN: throw sonic detonator -->
+	<OuterRim_SonicGrenadeBelt.verbs.0.label>throw sonic detonator</OuterRim_SonicGrenadeBelt.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<OuterRim_SonicGrenadeBelt.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>ㅤ</OuterRim_SonicGrenadeBelt.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>
+	
+	<!-- EN: throw stun detonator -->
+	<OuterRim_StunGrenadeBelt.verbs.0.label>throw stun detonator</OuterRim_StunGrenadeBelt.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<OuterRim_StunGrenadeBelt.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>ㅤ</OuterRim_StunGrenadeBelt.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>
+	
+	<!-- EN: throw thermal detonator -->
+	<OuterRim_ThermalDetonatorBelt.verbs.0.label>throw thermal detonator</OuterRim_ThermalDetonatorBelt.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<OuterRim_ThermalDetonatorBelt.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>ㅤ</OuterRim_ThermalDetonatorBelt.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>
+</LanguageData>

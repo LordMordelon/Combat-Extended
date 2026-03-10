@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- ModPatches\Medieval Overhaul\Defs\Medieval Overhaul\Ammo\MO_Ammo_Medieval.xml -->
+	<!-- EN: arrows -->
+	<AmmoSet_HuntingArrow.label>arrows</AmmoSet_HuntingArrow.label>
+	<!-- EN: great arrows -->
+	<AmmoSet_WarArrow.label>great arrows</AmmoSet_WarArrow.label>
+	<!-- EN: crossbow bolts -->
+	<AmmoSet_DankPyonCrossbowBolt.label>crossbow bolts</AmmoSet_DankPyonCrossbowBolt.label>
+	<!-- EN: crossbow bolts -->
+	<AmmoSet_DankPyonArbalestBolt.label>crossbow bolts</AmmoSet_DankPyonArbalestBolt.label>
+	<!-- EN: Handgonne Shot -->
+	<AmmoSet_HandgonneShot.label>Handgonne Shot</AmmoSet_HandgonneShot.label>
+</LanguageData>

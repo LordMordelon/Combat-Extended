@@ -1,0 +1,111 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla XCOM Plasma Weapons\Defs\Vanilla XCOM Plasma Weapons\Ammo.xml -->
+	
+	<!-- EN: Standard Plasma Pistol Cell -->
+	<Ammo_XCOM_PlasmaCellPistolStandard.label>Standard Plasma Pistol Cell</Ammo_XCOM_PlasmaCellPistolStandard.label>
+	<!-- EN: Plasma containment cell optimized for pistols -->
+	<Ammo_XCOM_PlasmaCellPistolStandard.description>Plasma containment cell optimized for pistols</Ammo_XCOM_PlasmaCellPistolStandard.description>
+	
+	<!-- EN: Light Plasma Pistol Cell -->
+	<Ammo_XCOM_PlasmaCellPistolLight.label>Light Plasma Pistol Cell</Ammo_XCOM_PlasmaCellPistolLight.label>
+	<!-- EN: Plasma containment cell optimized for pistols -->
+	<Ammo_XCOM_PlasmaCellPistolLight.description>Plasma containment cell optimized for pistols</Ammo_XCOM_PlasmaCellPistolLight.description>
+	
+	<!-- EN: Dense Plasma Pistol Cell -->
+	<Ammo_XCOM_PlasmaCellPistolDense.label>Dense Plasma Pistol Cell</Ammo_XCOM_PlasmaCellPistolDense.label>
+	<!-- EN: Plasma containment cell optimized for pistols -->
+	<Ammo_XCOM_PlasmaCellPistolDense.description>Plasma containment cell optimized for pistols</Ammo_XCOM_PlasmaCellPistolDense.description>
+	
+	<!-- EN: Unstable Plasma Pistol Cell -->
+	<Ammo_XCOM_PlasmaCellPistolUnstable.label>Unstable Plasma Pistol Cell</Ammo_XCOM_PlasmaCellPistolUnstable.label>
+	<!-- EN: Plasma containment cell optimized for pistols -->
+	<Ammo_XCOM_PlasmaCellPistolUnstable.description>Plasma containment cell optimized for pistols</Ammo_XCOM_PlasmaCellPistolUnstable.description>
+	
+	<!-- EN: Standard Plasma Rifle Cell -->
+	<Ammo_XCOM_PlasmaCellRifleStandard.label>Standard Plasma Rifle Cell</Ammo_XCOM_PlasmaCellRifleStandard.label>
+	<!-- EN: Plasma containment cell optimized for rifles -->
+	<Ammo_XCOM_PlasmaCellRifleStandard.description>Plasma containment cell optimized for rifles</Ammo_XCOM_PlasmaCellRifleStandard.description>
+	
+	<!-- EN: Light Plasma Rifle Cell -->
+	<Ammo_XCOM_PlasmaCellRifleLight.label>Light Plasma Rifle Cell</Ammo_XCOM_PlasmaCellRifleLight.label>
+	<!-- EN: Plasma containment cell optimized for rifles -->
+	<Ammo_XCOM_PlasmaCellRifleLight.description>Plasma containment cell optimized for rifles</Ammo_XCOM_PlasmaCellRifleLight.description>
+	
+	<!-- EN: Heavy Plasma Rifle Cell -->
+	<Ammo_XCOM_PlasmaCellRifleDense.label>Heavy Plasma Rifle Cell</Ammo_XCOM_PlasmaCellRifleDense.label>
+	<!-- EN: Plasma containment cell optimized for rifles -->
+	<Ammo_XCOM_PlasmaCellRifleDense.description>Plasma containment cell optimized for rifles</Ammo_XCOM_PlasmaCellRifleDense.description>
+	
+	<!-- EN: Unstable Plasma Rifle Cell -->
+	<Ammo_XCOM_PlasmaCellRifleUnstable.label>Unstable Plasma Rifle Cell</Ammo_XCOM_PlasmaCellRifleUnstable.label>
+	<!-- EN: Plasma containment cell optimized for rifles -->
+	<Ammo_XCOM_PlasmaCellRifleUnstable.description>Plasma containment cell optimized for rifles</Ammo_XCOM_PlasmaCellRifleUnstable.description>
+	
+	<!-- EN: Standard Plasma Heavy Cell -->
+	<Ammo_XCOM_PlasmaCellHeavyStandard.label>Standard Plasma Heavy Cell</Ammo_XCOM_PlasmaCellHeavyStandard.label>
+	<!-- EN: Plasma containment cell optimized for heavy weapons -->
+	<Ammo_XCOM_PlasmaCellHeavyStandard.description>Plasma containment cell optimized for heavy weapons</Ammo_XCOM_PlasmaCellHeavyStandard.description>
+	
+	<!-- EN: Light Plasma Heavy Cell -->
+	<Ammo_XCOM_PlasmaCellHeavyLight.label>Light Plasma Heavy Cell</Ammo_XCOM_PlasmaCellHeavyLight.label>
+	<!-- EN: Plasma containment cell optimized for heavy weapons -->
+	<Ammo_XCOM_PlasmaCellHeavyLight.description>Plasma containment cell optimized for heavy weapons</Ammo_XCOM_PlasmaCellHeavyLight.description>
+	
+	<!-- EN: Dense Plasma Heavy Cell -->
+	<Ammo_XCOM_PlasmaCellHeavyDense.label>Dense Plasma Heavy Cell</Ammo_XCOM_PlasmaCellHeavyDense.label>
+	<!-- EN: Plasma containment cell optimized for heavy weapons -->
+	<Ammo_XCOM_PlasmaCellHeavyDense.description>Plasma containment cell optimized for heavy weapons</Ammo_XCOM_PlasmaCellHeavyDense.description>
+	
+	<!-- EN: Unstable Plasma Heavy Cell -->
+	<Ammo_XCOM_PlasmaCellHeavyUnstable.label>Unstable Plasma Heavy Cell</Ammo_XCOM_PlasmaCellHeavyUnstable.label>
+	<!-- EN: Plasma containment cell optimized for heavy weapons -->
+	<Ammo_XCOM_PlasmaCellHeavyUnstable.description>Plasma containment cell optimized for heavy weapons</Ammo_XCOM_PlasmaCellHeavyUnstable.description>
+	
+	<!-- EN: plasma beam -->
+	<XCOM_Bullet_BeamRifleCE.label>plasma beam</XCOM_Bullet_BeamRifleCE.label>
+	
+	<!-- EN: plasma beam -->
+	<XCOM_Bullet_BeamRifleCELight.label>plasma beam</XCOM_Bullet_BeamRifleCELight.label>
+	
+	<!-- EN: plasma beam -->
+	<XCOM_Bullet_BeamRifleCEDense.label>plasma beam</XCOM_Bullet_BeamRifleCEDense.label>
+	
+	<!-- EN: plasma beam -->
+	<XCOM_Bullet_BeamRifleCEUnstable.label>plasma beam</XCOM_Bullet_BeamRifleCEUnstable.label>
+	
+	<!-- EN: plasma beam -->
+	<XCOM_Bullet_BeamSniperRifleCE.label>plasma beam</XCOM_Bullet_BeamSniperRifleCE.label>
+	
+	<!-- EN: plasma beam -->
+	<XCOM_Bullet_BeamSniperRifleCELight.label>plasma beam</XCOM_Bullet_BeamSniperRifleCELight.label>
+	
+	<!-- EN: plasma beam -->
+	<XCOM_Bullet_BeamSniperRifleCEDense.label>plasma beam</XCOM_Bullet_BeamSniperRifleCEDense.label>
+	
+	<!-- EN: plasma beam -->
+	<XCOM_Bullet_BeamSniperRifleCEUnstable.label>plasma beam</XCOM_Bullet_BeamSniperRifleCEUnstable.label>
+	
+	<!-- EN: plasma beam -->
+	<XCOM_Bullet_BeamShotgunCE.label>plasma beam</XCOM_Bullet_BeamShotgunCE.label>
+	
+	<!-- EN: plasma beam -->
+	<XCOM_Bullet_BeamShotgunCELight.label>plasma beam</XCOM_Bullet_BeamShotgunCELight.label>
+	
+	<!-- EN: plasma beam -->
+	<XCOM_Bullet_BeamShotgunCEDense.label>plasma beam</XCOM_Bullet_BeamShotgunCEDense.label>
+	
+	<!-- EN: plasma beam -->
+	<XCOM_Bullet_BeamShotgunCEUnstable.label>plasma beam</XCOM_Bullet_BeamShotgunCEUnstable.label>
+	
+	<!-- EN: plasma beam -->
+	<XCOM_Bullet_Beam_PistolCE.label>plasma beam</XCOM_Bullet_Beam_PistolCE.label>
+	
+	<!-- EN: plasma beam -->
+	<XCOM_Bullet_Beam_PistolCELight.label>plasma beam</XCOM_Bullet_Beam_PistolCELight.label>
+	
+	<!-- EN: plasma beam -->
+	<XCOM_Bullet_Beam_PistolCEDense.label>plasma beam</XCOM_Bullet_Beam_PistolCEDense.label>
+	
+	<!-- EN: plasma beam -->
+	<XCOM_Bullet_Beam_PistolCEUnstable.label>plasma beam</XCOM_Bullet_Beam_PistolCEUnstable.label>
+</LanguageData>

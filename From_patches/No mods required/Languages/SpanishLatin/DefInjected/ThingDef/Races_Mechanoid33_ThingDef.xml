@@ -1,0 +1,30 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Races_Mechanoid33.xml -->
+	<!-- EN: left blade -->
+	<Mech_Scyther.tools.0.label>left blade</Mech_Scyther.tools.0.label>
+	<!-- EN: left blade -->
+	<Mech_Scyther.tools.1.label>left blade</Mech_Scyther.tools.1.label>
+	<!-- EN: right blade -->
+	<Mech_Scyther.tools.2.label>right blade</Mech_Scyther.tools.2.label>
+	<!-- EN: right blade -->
+	<Mech_Scyther.tools.3.label>right blade</Mech_Scyther.tools.3.label>
+	<!-- EN: head -->
+	<Mech_Scyther.tools.4.label>head</Mech_Scyther.tools.4.label>
+	
+	<!-- EN: left fist -->
+	<Mech_Lancer.tools.0.label>left fist</Mech_Lancer.tools.0.label>
+	<!-- EN: right fist -->
+	<Mech_Lancer.tools.1.label>right fist</Mech_Lancer.tools.1.label>
+	<!-- EN: head -->
+	<Mech_Lancer.tools.2.label>head</Mech_Lancer.tools.2.label>
+	
+	<!-- EN: front left leg -->
+	<Mech_Pikeman.tools.0.label>front left leg</Mech_Pikeman.tools.0.label>
+	<!-- EN: front right leg -->
+	<Mech_Pikeman.tools.1.label>front right leg</Mech_Pikeman.tools.1.label>
+	<!-- EN: head -->
+	<Mech_Pikeman.tools.2.label>head</Mech_Pikeman.tools.2.label>
+	
+	<!-- EN: head -->
+	<Mech_Termite.tools.0.label>head</Mech_Termite.tools.0.label>
+</LanguageData>

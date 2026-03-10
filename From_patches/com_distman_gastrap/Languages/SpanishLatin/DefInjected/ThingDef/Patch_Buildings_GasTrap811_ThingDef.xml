@@ -1,0 +1,44 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\com_distman_gastrap\Patch_Buildings_GasTrap811.xml -->
+	<!-- EN: IED toxic gas trap -->
+	<GasTrap.label>IED toxic gas trap</GasTrap.label>
+	
+	<!-- EN: IED rage gas trap -->
+	<GasTrapRage.label>IED rage gas trap</GasTrapRage.label>
+	
+	<!-- EN: IED sleep gas trap -->
+	<GasTrapSleepGas.label>IED sleep gas trap</GasTrapSleepGas.label>
+	
+	<!-- EN: IED fear gas trap -->
+	<GasTrapFearGas.label>IED fear gas trap</GasTrapFearGas.label>
+	
+	<!-- EN: IED corrosive gas trap -->
+	<GasTrapAcid.label>IED corrosive gas trap</GasTrapAcid.label>
+	
+	<!-- EN: IED nanomachine trap -->
+	<GasTrapMechanoidVirus.label>IED nanomachine trap</GasTrapMechanoidVirus.label>
+	
+	<!-- EN: IED insecticide gas trap -->
+	<GasTrapAntiBugGas.label>IED insecticide gas trap</GasTrapAntiBugGas.label>
+	
+	<!-- EN: A toxic gas shell connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+	<GasTrap.description>A toxic gas shell connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.</GasTrap.description>
+	
+	<!-- EN: Ar rage gas shell connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+	<GasTrapRage.description>Ar rage gas shell connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.</GasTrapRage.description>
+	
+	<!-- EN: A sleep gas shell connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+	<GasTrapSleepGas.description>A sleep gas shell connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.</GasTrapSleepGas.description>
+	
+	<!-- EN: A fear gas shell connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+	<GasTrapFearGas.description>A fear gas shell connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.</GasTrapFearGas.description>
+	
+	<!-- EN: A corrosive gas shell connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+	<GasTrapAcid.description>A corrosive gas shell connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.</GasTrapAcid.description>
+	
+	<!-- EN: A nanomachine shell connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+	<GasTrapMechanoidVirus.description>A nanomachine shell connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.</GasTrapMechanoidVirus.description>
+	
+	<!-- EN: A insecticide gas shell connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
+	<GasTrapAntiBugGas.description>A insecticide gas shell connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm.</GasTrapAntiBugGas.description>
+</LanguageData>

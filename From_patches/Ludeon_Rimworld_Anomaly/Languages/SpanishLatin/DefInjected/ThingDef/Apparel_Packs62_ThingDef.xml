@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Ludeon_Rimworld_Anomaly\Apparel_Packs62.xml -->
+	<!-- EN: deploy flare -->
+	<Apparel_DisruptorFlarePack.verbs.0.label>deploy flare</Apparel_DisruptorFlarePack.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<Apparel_DisruptorFlarePack.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>ㅤ</Apparel_DisruptorFlarePack.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>
+	
+	<!-- EN: deploy turret -->
+	<Apparel_PackTurret.verbs.0.label>deploy turret</Apparel_PackTurret.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<Apparel_PackTurret.verbs.CombatExtended.Verb_ShootCEOneUseStatic.label>ㅤ</Apparel_PackTurret.verbs.CombatExtended.Verb_ShootCEOneUseStatic.label>
+	
+	<!-- EN: deploy deadlife dust -->
+	<Apparel_DeadlifePack.verbs.0.label>deploy deadlife dust</Apparel_DeadlifePack.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<Apparel_DeadlifePack.verbs.CombatExtended.Verb_ShootCEOneUseStatic.label>ㅤ</Apparel_DeadlifePack.verbs.CombatExtended.Verb_ShootCEOneUseStatic.label>
+</LanguageData>

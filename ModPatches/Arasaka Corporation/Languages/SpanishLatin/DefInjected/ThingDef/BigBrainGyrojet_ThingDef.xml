@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- ModPatches\Arasaka Corporation\Defs\Arasaka Corporation\BigBrainGyrojet.xml -->
+	
+	<!-- EN: 6mm Smart rocket (FMJ) -->
+	<Ammo_6mmSmartGyrojet_FMJ.label>6mm Smart rocket (FMJ)</Ammo_6mmSmartGyrojet_FMJ.label>
+	<!-- EN: Overengineered pistol rounds that utilizes miniature rockets for propulsion instead of gunpowder. It features limited self guidance. -->
+	<Ammo_6mmSmartGyrojet_FMJ.description>Overengineered pistol rounds that utilizes miniature rockets for propulsion instead of gunpowder. It features limited self guidance.</Ammo_6mmSmartGyrojet_FMJ.description>
+	
+	<!-- EN: 6mm Smart rocket (AP) -->
+	<Ammo_6mmSmartGyrojet_AP.label>6mm Smart rocket (AP)</Ammo_6mmSmartGyrojet_AP.label>
+	<!-- EN: Overengineered pistol rounds that utilizes miniature rockets for propulsion instead of gunpowder. It features limited self guidance. -->
+	<Ammo_6mmSmartGyrojet_AP.description>Overengineered pistol rounds that utilizes miniature rockets for propulsion instead of gunpowder. It features limited self guidance.</Ammo_6mmSmartGyrojet_AP.description>
+	
+	<!-- EN: 6mm Smart rocket (HP) -->
+	<Ammo_6mmSmartGyrojet_HP.label>6mm Smart rocket (HP)</Ammo_6mmSmartGyrojet_HP.label>
+	<!-- EN: Overengineered pistol rounds that utilizes miniature rockets for propulsion instead of gunpowder. It features limited self guidance. -->
+	<Ammo_6mmSmartGyrojet_HP.description>Overengineered pistol rounds that utilizes miniature rockets for propulsion instead of gunpowder. It features limited self guidance.</Ammo_6mmSmartGyrojet_HP.description>
+	
+	<!-- EN: 6mm Smart bullet (FMJ) -->
+	<Bullet_6mmSmartGyrojet_FMJ.label>6mm Smart bullet (FMJ)</Bullet_6mmSmartGyrojet_FMJ.label>
+	
+	<!-- EN: 6mm Smart bullet (AP) -->
+	<Bullet_6mmSmartGyrojet_AP.label>6mm Smart bullet (AP)</Bullet_6mmSmartGyrojet_AP.label>
+	
+	<!-- EN: 6mm Smart bullet (HP) -->
+	<Bullet_6mmSmartGyrojet_HP.label>6mm Smart bullet (HP)</Bullet_6mmSmartGyrojet_HP.label>
+</LanguageData>

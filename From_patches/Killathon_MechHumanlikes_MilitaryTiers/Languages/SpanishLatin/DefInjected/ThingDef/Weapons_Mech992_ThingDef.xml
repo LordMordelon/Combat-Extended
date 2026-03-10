@@ -1,0 +1,30 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Killathon_MechHumanlikes_MilitaryTiers\Weapons_Mech992.xml -->
+	<!-- EN: stock -->
+	<ATM_RotaryAutocannon.tools.0.label>stock</ATM_RotaryAutocannon.tools.0.label>
+	<!-- EN: barrel -->
+	<ATM_RotaryAutocannon.tools.1.label>barrel</ATM_RotaryAutocannon.tools.1.label>
+	<!-- EN: muzzle -->
+	<ATM_RotaryAutocannon.tools.2.label>muzzle</ATM_RotaryAutocannon.tools.2.label>
+	
+	<!-- EN: stock -->
+	<ATM_RotaryShrapnelcannon.tools.0.label>stock</ATM_RotaryShrapnelcannon.tools.0.label>
+	<!-- EN: barrel -->
+	<ATM_RotaryShrapnelcannon.tools.1.label>barrel</ATM_RotaryShrapnelcannon.tools.1.label>
+	<!-- EN: muzzle -->
+	<ATM_RotaryShrapnelcannon.tools.2.label>muzzle</ATM_RotaryShrapnelcannon.tools.2.label>
+	
+	<!-- EN: Grip -->
+	<ATM_HeadhunterCannon.tools.0.label>Grip</ATM_HeadhunterCannon.tools.0.label>
+	<!-- EN: barrel -->
+	<ATM_HeadhunterCannon.tools.1.label>barrel</ATM_HeadhunterCannon.tools.1.label>
+	<!-- EN: muzzle -->
+	<ATM_HeadhunterCannon.tools.2.label>muzzle</ATM_HeadhunterCannon.tools.2.label>
+	
+	<!-- EN: spike -->
+	<ATM_MechPoleaxe.tools.0.label>spike</ATM_MechPoleaxe.tools.0.label>
+	<!-- EN: axe -->
+	<ATM_MechPoleaxe.tools.1.label>axe</ATM_MechPoleaxe.tools.1.label>
+	<!-- EN: hammer -->
+	<ATM_MechPoleaxe.tools.2.label>hammer</ATM_MechPoleaxe.tools.2.label>
+</LanguageData>

@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Defs\Ammo\Modded\Halo\Ammo_SpartanLaser.xml -->
+	<!-- EN: laser beam -->
+	<Bullet_Laser_SpartanLaserInf.label>laser beam</Bullet_Laser_SpartanLaserInf.label>
+	<!-- EN: heavy laser charge pack -->
+	<Ammo_HeavyLaserChargePack.label>heavy laser charge pack</Ammo_HeavyLaserChargePack.label>
+	<!-- EN: A universal charge pack for various laser weapons. -->
+	<Ammo_HeavyLaserChargePack.description>A universal charge pack for various laser weapons.</Ammo_HeavyLaserChargePack.description>
+</LanguageData>

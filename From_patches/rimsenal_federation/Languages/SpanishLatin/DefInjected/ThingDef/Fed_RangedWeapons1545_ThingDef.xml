@@ -1,0 +1,114 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\rimsenal_federation\Fed_RangedWeapons1545.xml -->
+	<!-- EN: grip -->
+	<AD_CruciblePistol.tools.0.label>grip</AD_CruciblePistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<AD_CruciblePistol.tools.1.label>muzzle</AD_CruciblePistol.tools.1.label>
+	
+	<!-- EN: grip -->
+	<AD_FedPistol.tools.0.label>grip</AD_FedPistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<AD_FedPistol.tools.1.label>muzzle</AD_FedPistol.tools.1.label>
+	
+	<!-- EN: grip -->
+	<AD_AuxPistol.tools.0.label>grip</AD_AuxPistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<AD_AuxPistol.tools.1.label>muzzle</AD_AuxPistol.tools.1.label>
+	
+	<!-- EN: stock -->
+	<AD_HeatProjector.tools.0.label>stock</AD_HeatProjector.tools.0.label>
+	<!-- EN: barrel -->
+	<AD_HeatProjector.tools.1.label>barrel</AD_HeatProjector.tools.1.label>
+	<!-- EN: muzzle -->
+	<AD_HeatProjector.tools.2.label>muzzle</AD_HeatProjector.tools.2.label>
+	
+	<!-- EN: stock -->
+	<AD_FedHeatCannon.tools.0.label>stock</AD_FedHeatCannon.tools.0.label>
+	<!-- EN: barrel -->
+	<AD_FedHeatCannon.tools.1.label>barrel</AD_FedHeatCannon.tools.1.label>
+	<!-- EN: muzzle -->
+	<AD_FedHeatCannon.tools.2.label>muzzle</AD_FedHeatCannon.tools.2.label>
+	
+	<!-- EN: stock -->
+	<AD_CruciblePresicionRifle.tools.0.label>stock</AD_CruciblePresicionRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<AD_CruciblePresicionRifle.tools.1.label>barrel</AD_CruciblePresicionRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<AD_CruciblePresicionRifle.tools.2.label>muzzle</AD_CruciblePresicionRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<AD_FedSniperRifle.tools.0.label>stock</AD_FedSniperRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<AD_FedSniperRifle.tools.1.label>barrel</AD_FedSniperRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<AD_FedSniperRifle.tools.2.label>muzzle</AD_FedSniperRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<AD_CrucibleRifle.tools.0.label>stock</AD_CrucibleRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<AD_CrucibleRifle.tools.1.label>barrel</AD_CrucibleRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<AD_CrucibleRifle.tools.2.label>muzzle</AD_CrucibleRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<AD_FedRifle.tools.0.label>stock</AD_FedRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<AD_FedRifle.tools.1.label>barrel</AD_FedRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<AD_FedRifle.tools.2.label>muzzle</AD_FedRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<AD_PlasmaCaliver.tools.0.label>stock</AD_PlasmaCaliver.tools.0.label>
+	<!-- EN: barrel -->
+	<AD_PlasmaCaliver.tools.1.label>barrel</AD_PlasmaCaliver.tools.1.label>
+	<!-- EN: muzzle -->
+	<AD_PlasmaCaliver.tools.2.label>muzzle</AD_PlasmaCaliver.tools.2.label>
+	
+	<!-- EN: stock -->
+	<AD_FedPlasmaCaster.tools.0.label>stock</AD_FedPlasmaCaster.tools.0.label>
+	<!-- EN: barrel -->
+	<AD_FedPlasmaCaster.tools.1.label>barrel</AD_FedPlasmaCaster.tools.1.label>
+	<!-- EN: muzzle -->
+	<AD_FedPlasmaCaster.tools.2.label>muzzle</AD_FedPlasmaCaster.tools.2.label>
+	
+	<!-- EN: stock -->
+	<AD_CrucibleCarbine.tools.0.label>stock</AD_CrucibleCarbine.tools.0.label>
+	<!-- EN: barrel -->
+	<AD_CrucibleCarbine.tools.1.label>barrel</AD_CrucibleCarbine.tools.1.label>
+	<!-- EN: muzzle -->
+	<AD_CrucibleCarbine.tools.2.label>muzzle</AD_CrucibleCarbine.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_MCrucibleRifle.tools.0.label>stock</Gun_MCrucibleRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_MCrucibleRifle.tools.1.label>barrel</Gun_MCrucibleRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_MCrucibleRifle.tools.2.label>muzzle</Gun_MCrucibleRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<AD_Sentinel.tools.0.label>stock</AD_Sentinel.tools.0.label>
+	<!-- EN: barrel -->
+	<AD_Sentinel.tools.1.label>barrel</AD_Sentinel.tools.1.label>
+	<!-- EN: muzzle -->
+	<AD_Sentinel.tools.2.label>muzzle</AD_Sentinel.tools.2.label>
+	
+	<!-- EN: switch to high-output crucible mode -->
+	<AD_CrucibleRifle.comps.0.standardLabel>switch to high-output crucible mode</AD_CrucibleRifle.comps.0.standardLabel>
+	<!-- EN: switch to high-penetration optical mode -->
+	<AD_CrucibleRifle.comps.0.underBarrelLabel>switch to high-penetration optical mode</AD_CrucibleRifle.comps.0.underBarrelLabel>
+	
+	<!-- EN: switch to high-output crucible mode -->
+	<AD_CruciblePistol.comps.0.standardLabel>switch to high-output crucible mode</AD_CruciblePistol.comps.0.standardLabel>
+	<!-- EN: switch to high-penetration optical mode -->
+	<AD_CruciblePistol.comps.0.underBarrelLabel>switch to high-penetration optical mode</AD_CruciblePistol.comps.0.underBarrelLabel>
+	
+	<!-- EN: switch to high-output crucible mode -->
+	<AD_CruciblePresicionRifle.comps.0.standardLabel>switch to high-output crucible mode</AD_CruciblePresicionRifle.comps.0.standardLabel>
+	<!-- EN: switch to high-penetration optical mode -->
+	<AD_CruciblePresicionRifle.comps.0.underBarrelLabel>switch to high-penetration optical mode</AD_CruciblePresicionRifle.comps.0.underBarrelLabel>
+	
+	<!-- EN: switch to cluster mode -->
+	<AD_PlasmaCaliver.comps.0.standardLabel>switch to cluster mode</AD_PlasmaCaliver.comps.0.standardLabel>
+	<!-- EN: switch to siege mode -->
+	<AD_PlasmaCaliver.comps.0.underBarrelLabel>switch to siege mode</AD_PlasmaCaliver.comps.0.underBarrelLabel>
+</LanguageData>

@@ -1,0 +1,53 @@
+<LanguageData>
+	<!-- ModPatches\Rim-Effect Renegade Asari and Reapers\Defs\Rim-Effect Renegade Asari and Reapers\Ammo_Projectile_Reapers.xml -->
+	<!-- EN: Reaper powercell -->
+	<Ammo_Reapers.label>Reaper powercell</Ammo_Reapers.label>
+	<!-- EN: Mysterious reaper tech, might be of some value to collectors and researchers. -->
+	<Ammo_Reapers.description>Mysterious reaper tech, might be of some value to collectors and researchers.</Ammo_Reapers.description>
+	<!-- EN: Reaper powercell AP -->
+	<Ammo_Reapers_AP.label>Reaper powercell AP</Ammo_Reapers_AP.label>
+	<!-- EN: Mysterious reaper tech, might be of some value to collectors and researchers. -->
+	<Ammo_Reapers_AP.description>Mysterious reaper tech, might be of some value to collectors and researchers.</Ammo_Reapers_AP.description>
+	<!-- EN: Reaper powercell HE -->
+	<Ammo_Reapers_HE.label>Reaper powercell HE</Ammo_Reapers_HE.label>
+	<!-- EN: Mysterious reaper tech, might be of some value to collectors and researchers. -->
+	<Ammo_Reapers_HE.description>Mysterious reaper tech, might be of some value to collectors and researchers.</Ammo_Reapers_HE.description>
+	<!-- EN: Reaper powercell FI -->
+	<Ammo_Reapers_FI.label>Reaper powercell FI</Ammo_Reapers_FI.label>
+	<!-- EN: Mysterious reaper tech, might be of some value to collectors and researchers. -->
+	<Ammo_Reapers_FI.description>Mysterious reaper tech, might be of some value to collectors and researchers.</Ammo_Reapers_FI.description>
+	<!-- EN: goliath cannon shot -->
+	<Bullet_Goliath.label>goliath cannon shot</Bullet_Goliath.label>
+	<!-- EN: bullet -->
+	<Bullet_Cannibal_Basic.label>bullet</Bullet_Cannibal_Basic.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Cannibal_AP.label>accelerated shot</Bullet_Cannibal_AP.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Cannibal_HE.label>accelerated shot</Bullet_Cannibal_HE.label>
+	<!-- EN: accelerated incendiary shot -->
+	<Bullet_Cannibal_FI.label>accelerated incendiary shot</Bullet_Cannibal_FI.label>
+	<!-- EN: bullet -->
+	<Bullet_Marauder.label>bullet</Bullet_Marauder.label>
+	<!-- EN: bullet -->
+	<Bullet_Marauder_AP.label>bullet</Bullet_Marauder_AP.label>
+	<!-- EN: bullet -->
+	<Bullet_Marauder_HE.label>bullet</Bullet_Marauder_HE.label>
+	<!-- EN: bullet -->
+	<Bullet_Marauder_FI.label>bullet</Bullet_Marauder_FI.label>
+	<!-- EN: bullet -->
+	<Bullet_Ravager.label>bullet</Bullet_Ravager.label>
+	<!-- EN: bullet -->
+	<Bullet_Ravager_HE.label>bullet</Bullet_Ravager_HE.label>
+	<!-- EN: bullet -->
+	<Bullet_Ravager_FI.label>bullet</Bullet_Ravager_FI.label>
+	<!-- EN: colossus artillery shot -->
+	<Bullet_Collosus.label>colossus artillery shot</Bullet_Collosus.label>
+	<!-- EN: reaper bolter shot -->
+	<Bullet_ReaperBolter.label>reaper bolter shot</Bullet_ReaperBolter.label>
+	<!-- EN: reaper heavy bolter shot -->
+	<Bullet_ReaperHeavyBolter.label>reaper heavy bolter shot</Bullet_ReaperHeavyBolter.label>
+	<!-- EN: reaper missile launcher rocket -->
+	<Bullet_ReaperMissile.label>reaper missile launcher rocket</Bullet_ReaperMissile.label>
+	<!-- EN: reaper kinetic artillery shot -->
+	<Bullet_ReaperKineticArtillery.label>reaper kinetic artillery shot</Bullet_ReaperKineticArtillery.label>
+</LanguageData>

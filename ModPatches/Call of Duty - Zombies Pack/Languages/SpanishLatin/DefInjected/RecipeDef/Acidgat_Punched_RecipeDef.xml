@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Blunders\Acidgat_Punched.xml -->
+	
+	<!-- EN: make Vitriolic Withering (Buck) shell x20 -->
+	<MakeAmmo_Acidgat_Buck_Punched.label>make Vitriolic Withering (Buck) shell x20</MakeAmmo_Acidgat_Buck_Punched.label>
+	<!-- EN: Craft 20 Vitriolic Withering (Buck) shells . -->
+	<MakeAmmo_Acidgat_Buck_Punched.description>Craft 20 Vitriolic Withering (Buck) shells .</MakeAmmo_Acidgat_Buck_Punched.description>
+	<!-- EN: Making Vitriolic Withering (Buck) shells. -->
+	<MakeAmmo_Acidgat_Buck_Punched.jobString>Making Vitriolic Withering (Buck) shells.</MakeAmmo_Acidgat_Buck_Punched.jobString>
+	
+	<!-- EN: make Vitriolic Withering (Slug) shell x20 -->
+	<MakeAmmo_Acidgat_Slug_Punched.label>make Vitriolic Withering (Slug) shell x20</MakeAmmo_Acidgat_Slug_Punched.label>
+	<!-- EN: Craft 20 Vitriolic Withering (Slug) shells . -->
+	<MakeAmmo_Acidgat_Slug_Punched.description>Craft 20 Vitriolic Withering (Slug) shells .</MakeAmmo_Acidgat_Slug_Punched.description>
+	<!-- EN: Making Vitriolic Withering (Slug) shells. -->
+	<MakeAmmo_Acidgat_Slug_Punched.jobString>Making Vitriolic Withering (Slug) shells.</MakeAmmo_Acidgat_Slug_Punched.jobString>
+</LanguageData>

@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- ModPatches\Censored Armory\Defs\Censored Armory\37x249mmR.xml -->
+	
+	<!-- EN: make 37x249mmR (HE) cartridge x25 -->
+	<MakeAmmo_37x249mmR_HE.label>make 37x249mmR (HE) cartridge x25</MakeAmmo_37x249mmR_HE.label>
+	<!-- EN: Craft 25 37x249mmR (HE) cartridges. -->
+	<MakeAmmo_37x249mmR_HE.description>Craft 25 37x249mmR (HE) cartridges.</MakeAmmo_37x249mmR_HE.description>
+	<!-- EN: Making 37x249mmR (HE) cartridges. -->
+	<MakeAmmo_37x249mmR_HE.jobString>Making 37x249mmR (HE) cartridges.</MakeAmmo_37x249mmR_HE.jobString>
+	
+	<!-- EN: make 37x249mmR (AP) cartridge x25 -->
+	<MakeAmmo_37x249mmR_AP.label>make 37x249mmR (AP) cartridge x25</MakeAmmo_37x249mmR_AP.label>
+	<!-- EN: Craft 25 37x249mmR (AP) cartridges. -->
+	<MakeAmmo_37x249mmR_AP.description>Craft 25 37x249mmR (AP) cartridges.</MakeAmmo_37x249mmR_AP.description>
+	<!-- EN: Making 37x249mmR (AP) cartridges. -->
+	<MakeAmmo_37x249mmR_AP.jobString>Making 37x249mmR (AP) cartridges.</MakeAmmo_37x249mmR_AP.jobString>
+</LanguageData>

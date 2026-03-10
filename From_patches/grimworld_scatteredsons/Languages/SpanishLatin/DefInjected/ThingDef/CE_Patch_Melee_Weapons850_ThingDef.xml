@@ -1,0 +1,12 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\grimworld_scatteredsons\CE_Patch_Melee_Weapons850.xml -->
+	<!-- EN: point -->
+	<GW_SS_LionSword.tools.0.label>point</GW_SS_LionSword.tools.0.label>
+	<!-- EN: blade -->
+	<GW_SS_LionSword.tools.1.label>blade</GW_SS_LionSword.tools.1.label>
+	
+	<!-- EN: point -->
+	<GW_SM_Melee_FlameSword.tools.0.label>point</GW_SM_Melee_FlameSword.tools.0.label>
+	<!-- EN: blade -->
+	<GW_SM_Melee_FlameSword.tools.1.label>blade</GW_SM_Melee_FlameSword.tools.1.label>
+</LanguageData>

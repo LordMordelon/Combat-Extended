@@ -1,0 +1,24 @@
+<LanguageData>
+	<!-- Defs\Ammo\Pistols\8x22mmNambu.xml -->
+	
+	<!-- EN: make 8x22mm Nambu (FMJ) cartridge x500 -->
+	<MakeAmmo_8x22mmNambu_FMJ.label>make 8x22mm Nambu (FMJ) cartridge x500</MakeAmmo_8x22mmNambu_FMJ.label>
+	<!-- EN: Craft 500 8x22mm Nambu (FMJ) cartridges. -->
+	<MakeAmmo_8x22mmNambu_FMJ.description>Craft 500 8x22mm Nambu (FMJ) cartridges.</MakeAmmo_8x22mmNambu_FMJ.description>
+	<!-- EN: Making 8x22mm Nambu (FMJ) cartridges. -->
+	<MakeAmmo_8x22mmNambu_FMJ.jobString>Making 8x22mm Nambu (FMJ) cartridges.</MakeAmmo_8x22mmNambu_FMJ.jobString>
+	
+	<!-- EN: make 8x22mm Nambu (AP) cartridge x500 -->
+	<MakeAmmo_8x22mmNambu_AP.label>make 8x22mm Nambu (AP) cartridge x500</MakeAmmo_8x22mmNambu_AP.label>
+	<!-- EN: Craft 500 8x22mm Nambu (AP) cartridges. -->
+	<MakeAmmo_8x22mmNambu_AP.description>Craft 500 8x22mm Nambu (AP) cartridges.</MakeAmmo_8x22mmNambu_AP.description>
+	<!-- EN: Making 8x22mm Nambu (AP) cartridges. -->
+	<MakeAmmo_8x22mmNambu_AP.jobString>Making 8x22mm Nambu (AP) cartridges.</MakeAmmo_8x22mmNambu_AP.jobString>
+	
+	<!-- EN: make 8x22mm Nambu (HP) cartridge x500 -->
+	<MakeAmmo_8x22mmNambu_HP.label>make 8x22mm Nambu (HP) cartridge x500</MakeAmmo_8x22mmNambu_HP.label>
+	<!-- EN: Craft 500 8x22mm Nambu (HP) cartridges. -->
+	<MakeAmmo_8x22mmNambu_HP.description>Craft 500 8x22mm Nambu (HP) cartridges.</MakeAmmo_8x22mmNambu_HP.description>
+	<!-- EN: Making 8x22mm Nambu (HP) cartridges. -->
+	<MakeAmmo_8x22mmNambu_HP.jobString>Making 8x22mm Nambu (HP) cartridges.</MakeAmmo_8x22mmNambu_HP.jobString>
+</LanguageData>

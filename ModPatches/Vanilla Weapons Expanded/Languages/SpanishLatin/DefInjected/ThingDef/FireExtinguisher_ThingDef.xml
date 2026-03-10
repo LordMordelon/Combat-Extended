@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla Weapons Expanded\Defs\Vanilla Weapons Expanded\Ammo\FireExtinguisher.xml -->
+	<!-- EN: firefoam -->
+	<Ammo_VWE_Extinguisher.label>firefoam</Ammo_VWE_Extinguisher.label>
+	<!-- EN: Flame suppressant used by the Fire Extinguisher -->
+	<Ammo_VWE_Extinguisher.description>Flame suppressant used by the Fire Extinguisher</Ammo_VWE_Extinguisher.description>
+	<!-- EN: firefoam -->
+	<Bullet_VWE_Extinguisher.label>firefoam</Bullet_VWE_Extinguisher.label>
+</LanguageData>

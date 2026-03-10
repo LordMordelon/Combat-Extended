@@ -1,0 +1,78 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\AOBA_RedMoyo\Weapons1150.xml -->
+	<!-- EN: handle -->
+	<RedMoyo_Knife.tools.0.label>handle</RedMoyo_Knife.tools.0.label>
+	<!-- EN: point -->
+	<RedMoyo_Knife.tools.1.label>point</RedMoyo_Knife.tools.1.label>
+	<!-- EN: edge -->
+	<RedMoyo_Knife.tools.2.label>edge</RedMoyo_Knife.tools.2.label>
+	
+	<!-- EN: body -->
+	<RedMoyo_KineticClamp.tools.0.label>body</RedMoyo_KineticClamp.tools.0.label>
+	<!-- EN: Stake -->
+	<RedMoyo_KineticClamp.tools.1.label>Stake</RedMoyo_KineticClamp.tools.1.label>
+	
+	<!-- EN: handle -->
+	<RedMoyo_AlloyHarpoon.tools.0.label>handle</RedMoyo_AlloyHarpoon.tools.0.label>
+	<!-- EN: point -->
+	<RedMoyo_AlloyHarpoon.tools.1.label>point</RedMoyo_AlloyHarpoon.tools.1.label>
+	
+	<!-- EN: blade -->
+	<RedMoyo_PlasmaHarpoon.tools.0.label>blade</RedMoyo_PlasmaHarpoon.tools.0.label>
+	<!-- EN: handle -->
+	<RedMoyo_PlasmaHarpoon.tools.1.label>handle</RedMoyo_PlasmaHarpoon.tools.1.label>
+	
+	<!-- EN: blade -->
+	<MeleeWeapon_PlasmaTachi.tools.0.label>blade</MeleeWeapon_PlasmaTachi.tools.0.label>
+	<!-- EN: blade -->
+	<MeleeWeapon_PlasmaTachi.tools.1.label>blade</MeleeWeapon_PlasmaTachi.tools.1.label>
+	<!-- EN: handle -->
+	<MeleeWeapon_PlasmaTachi.tools.2.label>handle</MeleeWeapon_PlasmaTachi.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RedMoyo_Pistol.tools.0.label>stock</RedMoyo_Pistol.tools.0.label>
+	<!-- EN: barrel -->
+	<RedMoyo_Pistol.tools.1.label>barrel</RedMoyo_Pistol.tools.1.label>
+	<!-- EN: muzzle -->
+	<RedMoyo_Pistol.tools.2.label>muzzle</RedMoyo_Pistol.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RedMoyo_SMG.tools.0.label>stock</RedMoyo_SMG.tools.0.label>
+	<!-- EN: barrel -->
+	<RedMoyo_SMG.tools.1.label>barrel</RedMoyo_SMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<RedMoyo_SMG.tools.2.label>muzzle</RedMoyo_SMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RedMoyo_MilitarySR.tools.0.label>stock</RedMoyo_MilitarySR.tools.0.label>
+	<!-- EN: barrel -->
+	<RedMoyo_MilitarySR.tools.1.label>barrel</RedMoyo_MilitarySR.tools.1.label>
+	<!-- EN: muzzle -->
+	<RedMoyo_MilitarySR.tools.2.label>muzzle</RedMoyo_MilitarySR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RedMoyo_CivilAR.tools.0.label>stock</RedMoyo_CivilAR.tools.0.label>
+	<!-- EN: barrel -->
+	<RedMoyo_CivilAR.tools.1.label>barrel</RedMoyo_CivilAR.tools.1.label>
+	<!-- EN: muzzle -->
+	<RedMoyo_CivilAR.tools.2.label>muzzle</RedMoyo_CivilAR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RedMoyo_MilitaryHeavyRifle.tools.0.label>stock</RedMoyo_MilitaryHeavyRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RedMoyo_MilitaryHeavyRifle.tools.1.label>barrel</RedMoyo_MilitaryHeavyRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RedMoyo_MilitaryHeavyRifle.tools.2.label>muzzle</RedMoyo_MilitaryHeavyRifle.tools.2.label>
+	
+	<!-- EN: grip -->
+	<RedMoyo_PistolPolice.tools.0.label>grip</RedMoyo_PistolPolice.tools.0.label>
+	<!-- EN: muzzle -->
+	<RedMoyo_PistolPolice.tools.1.label>muzzle</RedMoyo_PistolPolice.tools.1.label>
+	
+	<!-- EN: stock -->
+	<RedMoyo_MilitaryAR.tools.0.label>stock</RedMoyo_MilitaryAR.tools.0.label>
+	<!-- EN: barrel -->
+	<RedMoyo_MilitaryAR.tools.1.label>barrel</RedMoyo_MilitaryAR.tools.1.label>
+	<!-- EN: plasma bayonet -->
+	<RedMoyo_MilitaryAR.tools.2.label>plasma bayonet</RedMoyo_MilitaryAR.tools.2.label>
+</LanguageData>

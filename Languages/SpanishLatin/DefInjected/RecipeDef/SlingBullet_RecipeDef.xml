@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- Defs\Ammo\Neolithic\SlingBullet.xml -->
+	
+	<!-- EN: make stone sling bullets x500 -->
+	<MakeAmmo_SlingBullet_Stone.label>make stone sling bullets x500</MakeAmmo_SlingBullet_Stone.label>
+	<!-- EN: Make 500 stone sling bullets. -->
+	<MakeAmmo_SlingBullet_Stone.description>Make 500 stone sling bullets.</MakeAmmo_SlingBullet_Stone.description>
+	<!-- EN: Making stone sling bullets. -->
+	<MakeAmmo_SlingBullet_Stone.jobString>Making stone sling bullets.</MakeAmmo_SlingBullet_Stone.jobString>
+	
+	<!-- EN: make steel sling bullets x100 -->
+	<MakeAmmo_SlingBullet_Steel.label>make steel sling bullets x100</MakeAmmo_SlingBullet_Steel.label>
+	<!-- EN: Make 100 steel sling bullets. -->
+	<MakeAmmo_SlingBullet_Steel.description>Make 100 steel sling bullets.</MakeAmmo_SlingBullet_Steel.description>
+	<!-- EN: Making steel sling bullets. -->
+	<MakeAmmo_SlingBullet_Steel.jobString>Making steel sling bullets.</MakeAmmo_SlingBullet_Steel.jobString>
+</LanguageData>

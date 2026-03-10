@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Defs\Ammo\Pistols\454Casull.xml -->
+	
+	<!-- EN: .454 Casull/.45 Colt -->
+	<AmmoSet_454Casull.label>.454 Casull/.45 Colt</AmmoSet_454Casull.label>
+	
+	<!-- EN: .454 Casull/.45 Colt/.410 bore -->
+	<AmmoSet_454Casull410Bore.label>.454 Casull/.45 Colt/.410 bore</AmmoSet_454Casull410Bore.label>
+</LanguageData>

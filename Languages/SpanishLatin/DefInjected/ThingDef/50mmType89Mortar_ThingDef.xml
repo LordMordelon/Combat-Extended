@@ -1,0 +1,35 @@
+<LanguageData>
+	<!-- Defs\Ammo\Shell\50mmType89Mortar.xml -->
+	
+	<!-- EN: 50mm type 89 mortar shell (HE) -->
+	<Ammo_50mmType89MortarShell_HE.label>50mm type 89 mortar shell (HE)</Ammo_50mmType89MortarShell_HE.label>
+	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+	<Ammo_50mmType89MortarShell_HE.description>Low-velocity shell designed to be fired from a mortar.</Ammo_50mmType89MortarShell_HE.description>
+	
+	<!-- EN: 50mm type 89 mortar shell (Incendiary) -->
+	<Ammo_50mmType89MortarShell_Incendiary.label>50mm type 89 mortar shell (Incendiary)</Ammo_50mmType89MortarShell_Incendiary.label>
+	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+	<Ammo_50mmType89MortarShell_Incendiary.description>Low-velocity shell designed to be fired from a mortar.</Ammo_50mmType89MortarShell_Incendiary.description>
+	
+	<!-- EN: 50mm type 89 mortar shell (EMP) -->
+	<Ammo_50mmType89MortarShell_EMP.label>50mm type 89 mortar shell (EMP)</Ammo_50mmType89MortarShell_EMP.label>
+	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+	<Ammo_50mmType89MortarShell_EMP.description>Low-velocity shell designed to be fired from a mortar.</Ammo_50mmType89MortarShell_EMP.description>
+	
+	<!-- EN: 50mm type 89 mortar shell (Smoke) -->
+	<Ammo_50mmType89MortarShell_Smoke.label>50mm type 89 mortar shell (Smoke)</Ammo_50mmType89MortarShell_Smoke.label>
+	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+	<Ammo_50mmType89MortarShell_Smoke.description>Low-velocity shell designed to be fired from a mortar.</Ammo_50mmType89MortarShell_Smoke.description>
+	
+	<!-- EN: 50mm type 89 mortar shell (HE) -->
+	<Bullet_50mmType89MortarShell_HE.label>50mm type 89 mortar shell (HE)</Bullet_50mmType89MortarShell_HE.label>
+	
+	<!-- EN: 50mm type 89 mortar shell (Incendiary) -->
+	<Bullet_50mmType89MortarShell_Incendiary.label>50mm type 89 mortar shell (Incendiary)</Bullet_50mmType89MortarShell_Incendiary.label>
+	
+	<!-- EN: 50mm type 89 mortar shell (EMP) -->
+	<Bullet_50mmType89MortarShell_EMP.label>50mm type 89 mortar shell (EMP)</Bullet_50mmType89MortarShell_EMP.label>
+	
+	<!-- EN: 50mm type 89 mortar shell (Smoke) -->
+	<Bullet_50mmType89MortarShell_Smoke.label>50mm type 89 mortar shell (Smoke)</Bullet_50mmType89MortarShell_Smoke.label>
+</LanguageData>

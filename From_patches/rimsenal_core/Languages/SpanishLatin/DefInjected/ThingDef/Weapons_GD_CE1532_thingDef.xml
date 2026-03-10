@@ -1,0 +1,65 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\rimsenal_core\Weapons_GD_CE1532.xml -->
+	
+	<!-- EN: grip -->
+	<GD_MSSS.tools.0.label>grip</GD_MSSS.tools.0.label>
+	<!-- EN: muzzle -->
+	<GD_MSSS.tools.1.label>muzzle</GD_MSSS.tools.1.label>
+	<!-- _Translation\Grabbed_Defs_from_patches\rimsenal_core\Weapons_GD_CE1532.xml -->
+	<!-- EN: grip -->
+	<GD_MSSH.tools.0.label>grip</GD_MSSH.tools.0.label>
+	<!-- EN: muzzle -->
+	<GD_MSSH.tools.1.label>muzzle</GD_MSSH.tools.1.label>
+	
+	<!-- EN: grip -->
+	<GD_MSST.tools.0.label>grip</GD_MSST.tools.0.label>
+	<!-- EN: muzzle -->
+	<GD_MSST.tools.1.label>muzzle</GD_MSST.tools.1.label>
+	
+	<!-- EN: grip -->
+	<GD_MSSF.tools.0.label>grip</GD_MSSF.tools.0.label>
+	<!-- EN: muzzle -->
+	<GD_MSSF.tools.1.label>muzzle</GD_MSSF.tools.1.label>
+	
+	<!-- EN: stock -->
+	<GD_HybridRifle.tools.0.label>stock</GD_HybridRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<GD_HybridRifle.tools.1.label>barrel</GD_HybridRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<GD_HybridRifle.tools.2.label>muzzle</GD_HybridRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<GD_ModularCarbine.tools.0.label>stock</GD_ModularCarbine.tools.0.label>
+	<!-- EN: barrel -->
+	<GD_ModularCarbine.tools.1.label>barrel</GD_ModularCarbine.tools.1.label>
+	<!-- EN: muzzle -->
+	<GD_ModularCarbine.tools.2.label>muzzle</GD_ModularCarbine.tools.2.label>
+	
+	<!-- EN: stock -->
+	<GD_ModularRifle.tools.0.label>stock</GD_ModularRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<GD_ModularRifle.tools.1.label>barrel</GD_ModularRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<GD_ModularRifle.tools.2.label>muzzle</GD_ModularRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<GD_ModularDMR.tools.0.label>stock</GD_ModularDMR.tools.0.label>
+	<!-- EN: barrel -->
+	<GD_ModularDMR.tools.1.label>barrel</GD_ModularDMR.tools.1.label>
+	<!-- EN: muzzle -->
+	<GD_ModularDMR.tools.2.label>muzzle</GD_ModularDMR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<GD_ModularLMG.tools.0.label>stock</GD_ModularLMG.tools.0.label>
+	<!-- EN: barrel -->
+	<GD_ModularLMG.tools.1.label>barrel</GD_ModularLMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<GD_ModularLMG.tools.2.label>muzzle</GD_ModularLMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<GD_GrenadeLauncher.tools.0.label>stock</GD_GrenadeLauncher.tools.0.label>
+	<!-- EN: barrel -->
+	<GD_GrenadeLauncher.tools.1.label>barrel</GD_GrenadeLauncher.tools.1.label>
+	<!-- EN: muzzle -->
+	<GD_GrenadeLauncher.tools.2.label>muzzle</GD_GrenadeLauncher.tools.2.label>
+</LanguageData>

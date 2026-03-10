@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- ModPatches\MorrowRim - Bloodmoon\Defs\MorrowRim - Bloodmoon\Hunter_Grenades.xml -->
+	<!-- EN: wolfsbane vessel -->
+	<Weapon_GrenadeWolfBane.label>wolfsbane vessel</Weapon_GrenadeWolfBane.label>
+	<!-- EN: Glass vessels filled with a potent mixture of wolfsbane extract. Shatters upon impact, releasing a short lived cloud of gas that burns any werewolves within. -->
+	<Weapon_GrenadeWolfBane.description>Glass vessels filled with a potent mixture of wolfsbane extract. Shatters upon impact, releasing a short lived cloud of gas that burns any werewolves within.</Weapon_GrenadeWolfBane.description>
+	<!-- EN: Body -->
+	<Weapon_GrenadeWolfBane.tools.0.label>Body</Weapon_GrenadeWolfBane.tools.0.label>
+	<!-- EN: throw wolfsbane vessel -->
+	<Weapon_GrenadeWolfBane.verbs.0.label>throw wolfsbane vessel</Weapon_GrenadeWolfBane.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<Weapon_GrenadeWolfBane.verbs.CombatExtended.Verb_ShootCEOneUse.label>ㅤ</Weapon_GrenadeWolfBane.verbs.CombatExtended.Verb_ShootCEOneUse.label>
+	
+	<!-- EN: wolfsbane vessel -->
+	<Proj_GrenadeWolfBane.label>wolfsbane vessel</Proj_GrenadeWolfBane.label>
+</LanguageData>

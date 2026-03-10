@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\LF Red Dawn\Defs\LF Red Dawn\135mm9M113Konkur.xml -->
+	<!-- EN: 9M113 Missile (HEAT) -->
+	<Ammo_9M113_HEAT.label>9M113 Missile (HEAT)</Ammo_9M113_HEAT.label>
+	<!-- EN: 135mm Anti-tank guided missiles for use in Konkur system. -->
+	<Ammo_9M113_HEAT.description>135mm Anti-tank guided missiles for use in Konkur system.</Ammo_9M113_HEAT.description>
+	<!-- EN: 9M113 Missile (HEAT) -->
+	<Bullet_9M113_HEAT.label>9M113 Missile (HEAT)</Bullet_9M113_HEAT.label>
+</LanguageData>

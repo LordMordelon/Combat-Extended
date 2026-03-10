@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Thunders\Tundra_Punched.xml -->
+	<!-- EN: Boreas Blizzard Cannister -->
+	<Ammo_Tundra_Punched.label>Boreas Blizzard Cannister</Ammo_Tundra_Punched.label>
+	<!-- EN: A large compressed air cannister used for the Boreas Blizzard -->
+	<Ammo_Tundra_Punched.description>A large compressed air cannister used for the Boreas Blizzard</Ammo_Tundra_Punched.description>
+	<!-- EN: Chilled Air Projectile -->
+	<Bullet_Tundra_Punched.label>Chilled Air Projectile</Bullet_Tundra_Punched.label>
+</LanguageData>

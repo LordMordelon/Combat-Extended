@@ -1,0 +1,39 @@
+<LanguageData>
+	<!-- ModPatches\Civilization Beyond Earth Armor Sets\Defs\Civilization Beyond Earth Armor Sets\Ammo.xml -->
+	<!-- EN: 6x24mm Harmony Charged cartridge -->
+	<Ammo_6x24mmHarmonyCharged.label>6x24mm Harmony Charged cartridge</Ammo_6x24mmHarmonyCharged.label>
+	<!-- EN: Charged shot ammo used by advanced Harmony infused assault rifle designs. -->
+	<Ammo_6x24mmHarmonyCharged.description>Charged shot ammo used by advanced Harmony infused assault rifle designs.</Ammo_6x24mmHarmonyCharged.description>
+	<!-- EN: 6x24mm Purity Charged cartridge -->
+	<Ammo_6x24mmPurityCharged.label>6x24mm Purity Charged cartridge</Ammo_6x24mmPurityCharged.label>
+	<!-- EN: Charged shot ammo used by advanced Purity infused assault rifle designs. -->
+	<Ammo_6x24mmPurityCharged.description>Charged shot ammo used by advanced Purity infused assault rifle designs.</Ammo_6x24mmPurityCharged.description>
+	<!-- EN: 6x24mm Supremacy Charged cartridge -->
+	<Ammo_6x24mmSupremacyCharged.label>6x24mm Supremacy Charged cartridge</Ammo_6x24mmSupremacyCharged.label>
+	<!-- EN: Charged shot ammo used by advanced Supremacy infused assault rifle designs. -->
+	<Ammo_6x24mmSupremacyCharged.description>Charged shot ammo used by advanced Supremacy infused assault rifle designs.</Ammo_6x24mmSupremacyCharged.description>
+	<!-- EN: 8x35mm Harmony Charged cartridge -->
+	<Ammo_8x35mmHarmonyCharged.label>8x35mm Harmony Charged cartridge</Ammo_8x35mmHarmonyCharged.label>
+	<!-- EN: Charged shot ammo used by advanced Harmony battle rifle designs. -->
+	<Ammo_8x35mmHarmonyCharged.description>Charged shot ammo used by advanced Harmony battle rifle designs.</Ammo_8x35mmHarmonyCharged.description>
+	<!-- EN: 8x35mm Purity Charged cartridge -->
+	<Ammo_8x35mmPurityCharged.label>8x35mm Purity Charged cartridge</Ammo_8x35mmPurityCharged.label>
+	<!-- EN: Charged shot ammo used by advanced Purity battle rifle designs. -->
+	<Ammo_8x35mmPurityCharged.description>Charged shot ammo used by advanced Purity battle rifle designs.</Ammo_8x35mmPurityCharged.description>
+	<!-- EN: 8x35mm Supremacy Charged cartridge -->
+	<Ammo_8x35mmSupremacyCharged.label>8x35mm Supremacy Charged cartridge</Ammo_8x35mmSupremacyCharged.label>
+	<!-- EN: Charged shot ammo used by advanced Supremacy battle rifle designs. -->
+	<Ammo_8x35mmSupremacyCharged.description>Charged shot ammo used by advanced Supremacy battle rifle designs.</Ammo_8x35mmSupremacyCharged.description>
+	<!-- EN: 6x24mm Harmony Charged bullet -->
+	<Bullet_6x24mmHarmonyCharged.label>6x24mm Harmony Charged bullet</Bullet_6x24mmHarmonyCharged.label>
+	<!-- EN: 6x24mm Purity Charged bullet -->
+	<Bullet_6x24mmPurityCharged.label>6x24mm Purity Charged bullet</Bullet_6x24mmPurityCharged.label>
+	<!-- EN: 6x24mm Supremacy Charged bullet -->
+	<Bullet_6x24mmSupremacyCharged.label>6x24mm Supremacy Charged bullet</Bullet_6x24mmSupremacyCharged.label>
+	<!-- EN: 8x35mm Harmony Charged bullet -->
+	<Bullet_8x35mmHarmonyCharged.label>8x35mm Harmony Charged bullet</Bullet_8x35mmHarmonyCharged.label>
+	<!-- EN: 8x35mm Purity Charged bullet -->
+	<Bullet_8x35mmPurityCharged.label>8x35mm Purity Charged bullet</Bullet_8x35mmPurityCharged.label>
+	<!-- EN: 8x35mm Supremacy Charged bullet -->
+	<Bullet_8x35mmSupremacyCharged.label>8x35mm Supremacy Charged bullet</Bullet_8x35mmSupremacyCharged.label>
+</LanguageData>

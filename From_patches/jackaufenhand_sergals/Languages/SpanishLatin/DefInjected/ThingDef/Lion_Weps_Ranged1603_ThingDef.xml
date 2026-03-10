@@ -1,0 +1,21 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\jackaufenhand_sergals\Lion_Weps_Ranged1603.xml -->
+	<!-- EN: grip -->
+	<LionWep_HandyGun.tools.0.label>grip</LionWep_HandyGun.tools.0.label>
+	<!-- EN: muzzle -->
+	<LionWep_HandyGun.tools.1.label>muzzle</LionWep_HandyGun.tools.1.label>
+	
+	<!-- EN: stock -->
+	<LionWep_Gauss.tools.0.label>stock</LionWep_Gauss.tools.0.label>
+	<!-- EN: barrel -->
+	<LionWep_Gauss.tools.1.label>barrel</LionWep_Gauss.tools.1.label>
+	<!-- EN: muzzle -->
+	<LionWep_Gauss.tools.2.label>muzzle</LionWep_Gauss.tools.2.label>
+	
+	<!-- EN: stock -->
+	<LionWep_Chaingauss.tools.0.label>stock</LionWep_Chaingauss.tools.0.label>
+	<!-- EN: barrel -->
+	<LionWep_Chaingauss.tools.1.label>barrel</LionWep_Chaingauss.tools.1.label>
+	<!-- EN: muzzle -->
+	<LionWep_Chaingauss.tools.2.label>muzzle</LionWep_Chaingauss.tools.2.label>
+</LanguageData>

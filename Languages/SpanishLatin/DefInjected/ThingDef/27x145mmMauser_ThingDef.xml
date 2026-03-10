@@ -1,0 +1,35 @@
+<LanguageData>
+	<!-- Defs\Ammo\HighCaliber\27x145mmMauser.xml -->
+	
+	<!-- EN: 27x145mm Mauser (AP) -->
+	<Ammo_27x145mmMauser_AP.label>27x145mm Mauser (AP)</Ammo_27x145mmMauser_AP.label>
+	<!-- EN: Large caliber cartridge used by autocannons. -->
+	<Ammo_27x145mmMauser_AP.description>Large caliber cartridge used by autocannons.</Ammo_27x145mmMauser_AP.description>
+	
+	<!-- EN: 27x145mm Mauser (AP-I) -->
+	<Ammo_27x145mmMauser_Incendiary.label>27x145mm Mauser (AP-I)</Ammo_27x145mmMauser_Incendiary.label>
+	<!-- EN: Large caliber cartridge used by autocannons. -->
+	<Ammo_27x145mmMauser_Incendiary.description>Large caliber cartridge used by autocannons.</Ammo_27x145mmMauser_Incendiary.description>
+	
+	<!-- EN: 27x145mm Mauser (AP-HE) -->
+	<Ammo_27x145mmMauser_HE.label>27x145mm Mauser (AP-HE)</Ammo_27x145mmMauser_HE.label>
+	<!-- EN: Large caliber cartridge used by autocannons. -->
+	<Ammo_27x145mmMauser_HE.description>Large caliber cartridge used by autocannons.</Ammo_27x145mmMauser_HE.description>
+	
+	<!-- EN: 27x145mm Mauser (Sabot) -->
+	<Ammo_27x145mmMauser_Sabot.label>27x145mm Mauser (Sabot)</Ammo_27x145mmMauser_Sabot.label>
+	<!-- EN: Large caliber cartridge used by autocannons. -->
+	<Ammo_27x145mmMauser_Sabot.description>Large caliber cartridge used by autocannons.</Ammo_27x145mmMauser_Sabot.description>
+	
+	<!-- EN: 27x145mm Mauser bullet (AP) -->
+	<Bullet_27x145mmMauser_AP.label>27x145mm Mauser bullet (AP)</Bullet_27x145mmMauser_AP.label>
+	
+	<!-- EN: 27x145mm Mauser bullet (AP-I) -->
+	<Bullet_27x145mmMauser_Incendiary.label>27x145mm Mauser bullet (AP-I)</Bullet_27x145mmMauser_Incendiary.label>
+	
+	<!-- EN: 27x145mm Mauser bullet (AP-HE) -->
+	<Bullet_27x145mmMauser_HE.label>27x145mm Mauser bullet (AP-HE)</Bullet_27x145mmMauser_HE.label>
+	
+	<!-- EN: 27x145mm Mauser bullet (Sabot) -->
+	<Bullet_27x145mmMauser_Sabot.label>27x145mm Mauser bullet (Sabot)</Bullet_27x145mmMauser_Sabot.label>
+</LanguageData>

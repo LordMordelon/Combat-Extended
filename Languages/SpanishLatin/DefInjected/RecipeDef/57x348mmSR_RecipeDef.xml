@@ -1,0 +1,31 @@
+<LanguageData>
+	<!-- Defs\Ammo\Shell\57x348mmSR.xml -->
+	
+	<!-- EN: make 57x348mmSR (AP) cartridge x10 -->
+	<MakeAmmo_57x348mmSR_AP.label>make 57x348mmSR (AP) cartridge x10</MakeAmmo_57x348mmSR_AP.label>
+	<!-- EN: Craft 10 57x348mmSR (AP) cartridges. -->
+	<MakeAmmo_57x348mmSR_AP.description>Craft 10 57x348mmSR (AP) cartridges.</MakeAmmo_57x348mmSR_AP.description>
+	<!-- EN: Making 57x348mmSR (AP) cartridges. -->
+	<MakeAmmo_57x348mmSR_AP.jobString>Making 57x348mmSR (AP) cartridges.</MakeAmmo_57x348mmSR_AP.jobString>
+	
+	<!-- EN: make 57x348mmSR (HE) cartridge x10 -->
+	<MakeAmmo_57x348mmSR_HE.label>make 57x348mmSR (HE) cartridge x10</MakeAmmo_57x348mmSR_HE.label>
+	<!-- EN: Craft 10 57x348mmSR (HE) cartridges. -->
+	<MakeAmmo_57x348mmSR_HE.description>Craft 10 57x348mmSR (HE) cartridges.</MakeAmmo_57x348mmSR_HE.description>
+	<!-- EN: Making 57x348mmSR (HE) cartridges. -->
+	<MakeAmmo_57x348mmSR_HE.jobString>Making 57x348mmSR (HE) cartridges.</MakeAmmo_57x348mmSR_HE.jobString>
+	
+	<!-- EN: make 57x348mmSR (Time-Fuzed) cartridge x10 -->
+	<MakeAmmo_57x348mmSR_HE_TFuzed.label>make 57x348mmSR (Time-Fuzed) cartridge x10</MakeAmmo_57x348mmSR_HE_TFuzed.label>
+	<!-- EN: Craft 10 57x348mmSR (Time-Fuzed) cartridges. -->
+	<MakeAmmo_57x348mmSR_HE_TFuzed.description>Craft 10 57x348mmSR (Time-Fuzed) cartridges.</MakeAmmo_57x348mmSR_HE_TFuzed.description>
+	<!-- EN: Making 57x348mmSR (Time-Fuzed) cartridges. -->
+	<MakeAmmo_57x348mmSR_HE_TFuzed.jobString>Making 57x348mmSR (Time-Fuzed) cartridges.</MakeAmmo_57x348mmSR_HE_TFuzed.jobString>
+	
+	<!-- EN: make 57x348mmSR (Sabot) cartridge x10 -->
+	<MakeAmmo_57x348mmSR_Sabot.label>make 57x348mmSR (Sabot) cartridge x10</MakeAmmo_57x348mmSR_Sabot.label>
+	<!-- EN: Craft 10 57x348mmSR (Sabot) cartridges. -->
+	<MakeAmmo_57x348mmSR_Sabot.description>Craft 10 57x348mmSR (Sabot) cartridges.</MakeAmmo_57x348mmSR_Sabot.description>
+	<!-- EN: Making 57x348mmSR (Sabot) cartridges. -->
+	<MakeAmmo_57x348mmSR_Sabot.jobString>Making 57x348mmSR (Sabot) cartridges.</MakeAmmo_57x348mmSR_Sabot.jobString>
+</LanguageData>

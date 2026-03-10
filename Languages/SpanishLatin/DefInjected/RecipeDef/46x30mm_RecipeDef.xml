@@ -1,0 +1,24 @@
+<LanguageData>
+	<!-- Defs\Ammo\Pistols\46x30mm.xml -->
+	
+	<!-- EN: make 4.6x30mm (FMJ) cartridge x500 -->
+	<MakeAmmo_46x30mm_FMJ.label>make 4.6x30mm (FMJ) cartridge x500</MakeAmmo_46x30mm_FMJ.label>
+	<!-- EN: Craft 500 4.6x30mm (FMJ) cartridges. -->
+	<MakeAmmo_46x30mm_FMJ.description>Craft 500 4.6x30mm (FMJ) cartridges.</MakeAmmo_46x30mm_FMJ.description>
+	<!-- EN: Making 4.6x30mm (FMJ) cartridges. -->
+	<MakeAmmo_46x30mm_FMJ.jobString>Making 4.6x30mm (FMJ) cartridges.</MakeAmmo_46x30mm_FMJ.jobString>
+	
+	<!-- EN: make 4.6x30mm (AP) cartridge x500 -->
+	<MakeAmmo_46x30mm_AP.label>make 4.6x30mm (AP) cartridge x500</MakeAmmo_46x30mm_AP.label>
+	<!-- EN: Craft 500 4.6x30mm (AP) cartridges. -->
+	<MakeAmmo_46x30mm_AP.description>Craft 500 4.6x30mm (AP) cartridges.</MakeAmmo_46x30mm_AP.description>
+	<!-- EN: Making 4.6x30mm (AP) cartridges. -->
+	<MakeAmmo_46x30mm_AP.jobString>Making 4.6x30mm (AP) cartridges.</MakeAmmo_46x30mm_AP.jobString>
+	
+	<!-- EN: make 4.6x30mm (HP) cartridge x500 -->
+	<MakeAmmo_46x30mm_HP.label>make 4.6x30mm (HP) cartridge x500</MakeAmmo_46x30mm_HP.label>
+	<!-- EN: Craft 500 4.6x30mm (HP) cartridges. -->
+	<MakeAmmo_46x30mm_HP.description>Craft 500 4.6x30mm (HP) cartridges.</MakeAmmo_46x30mm_HP.description>
+	<!-- EN: Making 4.6x30mm (HP) cartridges. -->
+	<MakeAmmo_46x30mm_HP.jobString>Making 4.6x30mm (HP) cartridges.</MakeAmmo_46x30mm_HP.jobString>
+</LanguageData>

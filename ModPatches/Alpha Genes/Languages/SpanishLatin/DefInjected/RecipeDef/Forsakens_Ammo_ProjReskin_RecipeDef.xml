@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Alpha Genes\Defs\Alpha Genes\Ammo\Forsakens_Ammo_ProjReskin.xml -->
+	<!-- EN: make forsakens arrows x10 -->
+	<MakeAmmo_ForsakensArrows.label>make forsakens arrows x10</MakeAmmo_ForsakensArrows.label>
+	<!-- EN: Craft 10 forsakens arrows. -->
+	<MakeAmmo_ForsakensArrows.description>Craft 10 forsakens arrows.</MakeAmmo_ForsakensArrows.description>
+	<!-- EN: Making forsaken arrows. -->
+	<MakeAmmo_ForsakensArrows.jobString>Making forsaken arrows.</MakeAmmo_ForsakensArrows.jobString>
+</LanguageData>

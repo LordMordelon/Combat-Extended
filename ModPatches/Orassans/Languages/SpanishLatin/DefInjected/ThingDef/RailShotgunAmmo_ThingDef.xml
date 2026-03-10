@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- ModPatches\Orassans\Defs\Orassans\Ammo\RailShotgunAmmo.xml -->
+	
+	<!-- EN: railgun shell (Buck:OE) -->
+	<Ammo_Railgun_BuckOE.label>railgun shell (Buck:OE)</Ammo_Railgun_BuckOE.label>
+	<!-- EN: Unlike other railgun rounds these require a casing to be used effectively, and unlike shotguns, the buckshot isn't as easily foiled by armor. -->
+	<Ammo_Railgun_BuckOE.description>Unlike other railgun rounds these require a casing to be used effectively, and unlike shotguns, the buckshot isn't as easily foiled by armor.</Ammo_Railgun_BuckOE.description>
+	
+	<!-- EN: railgun shell (Slug:OE) -->
+	<Ammo_Railgun_SlugOE.label>railgun shell (Slug:OE)</Ammo_Railgun_SlugOE.label>
+	<!-- EN: Unlike other railgun rounds these require a casing to be used effectively, and unlike shotguns, the buckshot isn't as easily foiled by armor. -->
+	<Ammo_Railgun_SlugOE.description>Unlike other railgun rounds these require a casing to be used effectively, and unlike shotguns, the buckshot isn't as easily foiled by armor.</Ammo_Railgun_SlugOE.description>
+	
+	<!-- EN: rail buckshot pellet -->
+	<Bullet_Railgun_BuckOE.label>rail buckshot pellet</Bullet_Railgun_BuckOE.label>
+	
+	<!-- EN: rail shotgun slug (sabot:OE) -->
+	<Bullet_Railgun_SlugOE.label>rail shotgun slug (sabot:OE)</Bullet_Railgun_SlugOE.label>
+</LanguageData>

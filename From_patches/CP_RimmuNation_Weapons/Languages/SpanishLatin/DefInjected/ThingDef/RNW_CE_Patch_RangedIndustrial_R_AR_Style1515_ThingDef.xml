@@ -1,0 +1,240 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\CP_RimmuNation_Weapons\RNW_CE_Patch_RangedIndustrial_R_AR_Style1515.xml -->
+	<!-- EN: stock -->
+	<RNGun_DDM4AR.tools.0.label>stock</RNGun_DDM4AR.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_DDM4AR.tools.1.label>barrel</RNGun_DDM4AR.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_DDM4AR.tools.2.label>muzzle</RNGun_DDM4AR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_HK416Bare.tools.0.label>stock</RNGun_HK416Bare.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_HK416Bare.tools.1.label>barrel</RNGun_HK416Bare.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_HK416Bare.tools.2.label>muzzle</RNGun_HK416Bare.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_HK416Elite.tools.0.label>stock</RNGun_HK416Elite.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_HK416Elite.tools.1.label>barrel</RNGun_HK416Elite.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_HK416Elite.tools.2.label>muzzle</RNGun_HK416Elite.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_HK416Nomad.tools.0.label>stock</RNGun_HK416Nomad.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_HK416Nomad.tools.1.label>barrel</RNGun_HK416Nomad.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_HK416Nomad.tools.2.label>muzzle</RNGun_HK416Nomad.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_HK416SD_Predator.tools.0.label>stock</RNGun_HK416SD_Predator.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_HK416SD_Predator.tools.1.label>barrel</RNGun_HK416SD_Predator.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_HK416SD_Predator.tools.2.label>muzzle</RNGun_HK416SD_Predator.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_HK416SD_DEVGRU.tools.0.label>stock</RNGun_HK416SD_DEVGRU.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_HK416SD_DEVGRU.tools.1.label>barrel</RNGun_HK416SD_DEVGRU.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_HK416SD_DEVGRU.tools.2.label>muzzle</RNGun_HK416SD_DEVGRU.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_HK416PunisherSD.tools.0.label>stock</RNGun_HK416PunisherSD.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_HK416PunisherSD.tools.1.label>barrel</RNGun_HK416PunisherSD.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_HK416PunisherSD.tools.2.label>muzzle</RNGun_HK416PunisherSD.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_LVOACAR.tools.0.label>stock</RNGun_LVOACAR.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_LVOACAR.tools.1.label>barrel</RNGun_LVOACAR.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_LVOACAR.tools.2.label>muzzle</RNGun_LVOACAR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_M16A1Bare.tools.0.label>stock</RNGun_M16A1Bare.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_M16A1Bare.tools.1.label>barrel</RNGun_M16A1Bare.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_M16A1Bare.tools.2.label>muzzle</RNGun_M16A1Bare.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_M16A4AR.tools.0.label>stock</RNGun_M16A4AR.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_M16A4AR.tools.1.label>barrel</RNGun_M16A4AR.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_M16A4AR.tools.2.label>muzzle</RNGun_M16A4AR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_M16A4MilSpec.tools.0.label>stock</RNGun_M16A4MilSpec.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_M16A4MilSpec.tools.1.label>barrel</RNGun_M16A4MilSpec.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_M16A4MilSpec.tools.2.label>muzzle</RNGun_M16A4MilSpec.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_M27AR.tools.0.label>stock</RNGun_M27AR.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_M27AR.tools.1.label>barrel</RNGun_M27AR.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_M27AR.tools.2.label>muzzle</RNGun_M27AR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_M27IAR.tools.0.label>stock</RNGun_M27IAR.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_M27IAR.tools.1.label>barrel</RNGun_M27IAR.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_M27IAR.tools.2.label>muzzle</RNGun_M27IAR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_M27IAR_SD.tools.0.label>stock</RNGun_M27IAR_SD.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_M27IAR_SD.tools.1.label>barrel</RNGun_M27IAR_SD.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_M27IAR_SD.tools.2.label>muzzle</RNGun_M27IAR_SD.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_M4A1AR.tools.0.label>stock</RNGun_M4A1AR.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_M4A1AR.tools.1.label>barrel</RNGun_M4A1AR.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_M4A1AR.tools.2.label>muzzle</RNGun_M4A1AR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_M4A1Bare.tools.0.label>stock</RNGun_M4A1Bare.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_M4A1Bare.tools.1.label>barrel</RNGun_M4A1Bare.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_M4A1Bare.tools.2.label>muzzle</RNGun_M4A1Bare.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_M4A1BareSD.tools.0.label>stock</RNGun_M4A1BareSD.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_M4A1BareSD.tools.1.label>barrel</RNGun_M4A1BareSD.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_M4A1BareSD.tools.2.label>muzzle</RNGun_M4A1BareSD.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_M4A1Benghazi.tools.0.label>stock</RNGun_M4A1Benghazi.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_M4A1Benghazi.tools.1.label>barrel</RNGun_M4A1Benghazi.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_M4A1Benghazi.tools.2.label>muzzle</RNGun_M4A1Benghazi.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_M4A1Black.tools.0.label>stock</RNGun_M4A1Black.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_M4A1Black.tools.1.label>barrel</RNGun_M4A1Black.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_M4A1Black.tools.2.label>muzzle</RNGun_M4A1Black.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_M4A1Fallujah.tools.0.label>stock</RNGun_M4A1Fallujah.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_M4A1Fallujah.tools.1.label>barrel</RNGun_M4A1Fallujah.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_M4A1Fallujah.tools.2.label>muzzle</RNGun_M4A1Fallujah.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_M4A1Ghost.tools.0.label>stock</RNGun_M4A1Ghost.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_M4A1Ghost.tools.1.label>barrel</RNGun_M4A1Ghost.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_M4A1Ghost.tools.2.label>muzzle</RNGun_M4A1Ghost.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_M4A1Hunter.tools.0.label>stock</RNGun_M4A1Hunter.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_M4A1Hunter.tools.1.label>barrel</RNGun_M4A1Hunter.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_M4A1Hunter.tools.2.label>muzzle</RNGun_M4A1Hunter.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_M4A1MilSpec.tools.0.label>stock</RNGun_M4A1MilSpec.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_M4A1MilSpec.tools.1.label>barrel</RNGun_M4A1MilSpec.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_M4A1MilSpec.tools.2.label>muzzle</RNGun_M4A1MilSpec.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_M4A1MilSpecSD.tools.0.label>stock</RNGun_M4A1MilSpecSD.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_M4A1MilSpecSD.tools.1.label>barrel</RNGun_M4A1MilSpecSD.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_M4A1MilSpecSD.tools.2.label>muzzle</RNGun_M4A1MilSpecSD.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_M4A1RamadiSD.tools.0.label>stock</RNGun_M4A1RamadiSD.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_M4A1RamadiSD.tools.1.label>barrel</RNGun_M4A1RamadiSD.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_M4A1RamadiSD.tools.2.label>muzzle</RNGun_M4A1RamadiSD.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_M4A1RoachAR.tools.0.label>stock</RNGun_M4A1RoachAR.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_M4A1RoachAR.tools.1.label>barrel</RNGun_M4A1RoachAR.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_M4A1RoachAR.tools.2.label>muzzle</RNGun_M4A1RoachAR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_M4A1SD_Banshee.tools.0.label>stock</RNGun_M4A1SD_Banshee.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_M4A1SD_Banshee.tools.1.label>barrel</RNGun_M4A1SD_Banshee.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_M4A1SD_Banshee.tools.2.label>muzzle</RNGun_M4A1SD_Banshee.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_M4A1SD_Commando.tools.0.label>stock</RNGun_M4A1SD_Commando.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_M4A1SD_Commando.tools.1.label>barrel</RNGun_M4A1SD_Commando.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_M4A1SD_Commando.tools.2.label>muzzle</RNGun_M4A1SD_Commando.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_M4A1SD_VLTOR.tools.0.label>stock</RNGun_M4A1SD_VLTOR.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_M4A1SD_VLTOR.tools.1.label>barrel</RNGun_M4A1SD_VLTOR.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_M4A1SD_VLTOR.tools.2.label>muzzle</RNGun_M4A1SD_VLTOR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_M4A1Warfighter.tools.0.label>stock</RNGun_M4A1Warfighter.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_M4A1Warfighter.tools.1.label>barrel</RNGun_M4A1Warfighter.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_M4A1Warfighter.tools.2.label>muzzle</RNGun_M4A1Warfighter.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_P416Bare.tools.0.label>stock</RNGun_P416Bare.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_P416Bare.tools.1.label>barrel</RNGun_P416Bare.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_P416Bare.tools.2.label>muzzle</RNGun_P416Bare.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_SIGM400Tread.tools.0.label>stock</RNGun_SIGM400Tread.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_SIGM400Tread.tools.1.label>barrel</RNGun_SIGM400Tread.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_SIGM400Tread.tools.2.label>muzzle</RNGun_SIGM400Tread.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_SWMP15AR.tools.0.label>stock</RNGun_SWMP15AR.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_SWMP15AR.tools.1.label>barrel</RNGun_SWMP15AR.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_SWMP15AR.tools.2.label>muzzle</RNGun_SWMP15AR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_XM15AR.tools.0.label>stock</RNGun_XM15AR.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_XM15AR.tools.1.label>barrel</RNGun_XM15AR.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_XM15AR.tools.2.label>muzzle</RNGun_XM15AR.tools.2.label>
+</LanguageData>

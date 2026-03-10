@@ -1,0 +1,31 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Orion_MoreMechanoids\Races_Mechanoid1125.xml -->
+	<!-- EN: plasma cutter -->
+	<Mech_Crawler.tools.0.label>plasma cutter</Mech_Crawler.tools.0.label>
+	<!-- EN: front legs -->
+	<Mech_Crawler.tools.1.label>front legs</Mech_Crawler.tools.1.label>
+	<!-- EN: front legs -->
+	<Mech_Crawler.tools.2.label>front legs</Mech_Crawler.tools.2.label>
+	
+	<!-- EN: front paralyze component -->
+	<Mech_Skullywag.tools.0.label>front paralyze component</Mech_Skullywag.tools.0.label>
+	<!-- EN: head -->
+	<Mech_Skullywag.tools.1.label>head</Mech_Skullywag.tools.1.label>
+	
+	<!-- EN: igniter -->
+	<Mech_Flamebot.tools.0.label>igniter</Mech_Flamebot.tools.0.label>
+	
+	<!-- EN: head -->
+	<Mech_Mammoth.tools.0.label>head</Mech_Mammoth.tools.0.label>
+	<!-- EN: head -->
+	<Mech_Mammoth.tools.1.label>head</Mech_Mammoth.tools.1.label>
+	<!-- EN: tusk -->
+	<Mech_Mammoth.tools.2.label>tusk</Mech_Mammoth.tools.2.label>
+	<!-- EN: leg -->
+	<Mech_Mammoth.tools.3.label>leg</Mech_Mammoth.tools.3.label>
+	
+	<!-- EN: shield -->
+	<Mech_Assaulter.tools.0.label>shield</Mech_Assaulter.tools.0.label>
+	<!-- EN: gun protrusion -->
+	<Mech_Assaulter.tools.1.label>gun protrusion</Mech_Assaulter.tools.1.label>
+</LanguageData>

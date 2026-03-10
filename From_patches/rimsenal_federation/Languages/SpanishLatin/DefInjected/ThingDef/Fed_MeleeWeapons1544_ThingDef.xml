@@ -1,0 +1,12 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\rimsenal_federation\Fed_MeleeWeapons1544.xml -->
+	<!-- EN: handle -->
+	<AD_ConcussionBaton.tools.0.label>handle</AD_ConcussionBaton.tools.0.label>
+	<!-- EN: shaft -->
+	<AD_ConcussionBaton.tools.1.label>shaft</AD_ConcussionBaton.tools.1.label>
+	
+	<!-- EN: handle -->
+	<AD_FedConcussionBaton.tools.0.label>handle</AD_FedConcussionBaton.tools.0.label>
+	<!-- EN: shaft -->
+	<AD_FedConcussionBaton.tools.1.label>shaft</AD_FedConcussionBaton.tools.1.label>
+</LanguageData>

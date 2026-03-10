@@ -1,0 +1,45 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Recipe\762x54mmR-Punched.xml -->
+	
+	<!-- EN: make 7.62x54mmR (FMJ) cartridge (Punched) x500 -->
+	<MakeAmmo_762x54mmR_FMJ_Punched.label>make 7.62x54mmR (FMJ) cartridge (Punched) x500</MakeAmmo_762x54mmR_FMJ_Punched.label>
+	<!-- EN: Craft 500 7.62x54mmR (FMJ) cartridges (Punched). -->
+	<MakeAmmo_762x54mmR_FMJ_Punched.description>Craft 500 7.62x54mmR (FMJ) cartridges (Punched).</MakeAmmo_762x54mmR_FMJ_Punched.description>
+	<!-- EN: Making 7.62x54mmR (FMJ) cartridges. -->
+	<MakeAmmo_762x54mmR_FMJ_Punched.jobString>Making 7.62x54mmR (FMJ) cartridges.</MakeAmmo_762x54mmR_FMJ_Punched.jobString>
+	
+	<!-- EN: make 7.62x54mmR (AP) cartridge (Punched) x500 -->
+	<MakeAmmo_762x54mmR_AP_Punched.label>make 7.62x54mmR (AP) cartridge (Punched) x500</MakeAmmo_762x54mmR_AP_Punched.label>
+	<!-- EN: Craft 500 7.62x54mmR (AP) cartridges (Punched). -->
+	<MakeAmmo_762x54mmR_AP_Punched.description>Craft 500 7.62x54mmR (AP) cartridges (Punched).</MakeAmmo_762x54mmR_AP_Punched.description>
+	<!-- EN: Making 7.62x54mmR (AP) cartridges. -->
+	<MakeAmmo_762x54mmR_AP_Punched.jobString>Making 7.62x54mmR (AP) cartridges.</MakeAmmo_762x54mmR_AP_Punched.jobString>
+	
+	<!-- EN: make 7.62x54mmR (HP) cartridge (Punched) x500 -->
+	<MakeAmmo_762x54mmR_HP_Punched.label>make 7.62x54mmR (HP) cartridge (Punched) x500</MakeAmmo_762x54mmR_HP_Punched.label>
+	<!-- EN: Craft 500 7.62x54mmR (HP) cartridges (Punched). -->
+	<MakeAmmo_762x54mmR_HP_Punched.description>Craft 500 7.62x54mmR (HP) cartridges (Punched).</MakeAmmo_762x54mmR_HP_Punched.description>
+	<!-- EN: Making 7.62x54mmR (HP) cartridges. -->
+	<MakeAmmo_762x54mmR_HP_Punched.jobString>Making 7.62x54mmR (HP) cartridges.</MakeAmmo_762x54mmR_HP_Punched.jobString>
+	
+	<!-- EN: make 7.62x54mmR (AP-I) cartridge (Punched) x500 -->
+	<MakeAmmo_762x54mmR_Incendiary_Punched.label>make 7.62x54mmR (AP-I) cartridge (Punched) x500</MakeAmmo_762x54mmR_Incendiary_Punched.label>
+	<!-- EN: Craft 500 7.62x54mmR (AP-I) cartridges (Punched). -->
+	<MakeAmmo_762x54mmR_Incendiary_Punched.description>Craft 500 7.62x54mmR (AP-I) cartridges (Punched).</MakeAmmo_762x54mmR_Incendiary_Punched.description>
+	<!-- EN: Making 7.62x54mmR (AP-I) cartridges. -->
+	<MakeAmmo_762x54mmR_Incendiary_Punched.jobString>Making 7.62x54mmR (AP-I) cartridges.</MakeAmmo_762x54mmR_Incendiary_Punched.jobString>
+	
+	<!-- EN: make 7.62x54mmR (HE) cartridge (Punched) x500 -->
+	<MakeAmmo_762x54mmR_HE_Punched.label>make 7.62x54mmR (HE) cartridge (Punched) x500</MakeAmmo_762x54mmR_HE_Punched.label>
+	<!-- EN: Craft 500 7.62x54mmR (HE) cartridges (Punched). -->
+	<MakeAmmo_762x54mmR_HE_Punched.description>Craft 500 7.62x54mmR (HE) cartridges (Punched).</MakeAmmo_762x54mmR_HE_Punched.description>
+	<!-- EN: Making 7.62x54mmR (HE) cartridges. -->
+	<MakeAmmo_762x54mmR_HE_Punched.jobString>Making 7.62x54mmR (HE) cartridges.</MakeAmmo_762x54mmR_HE_Punched.jobString>
+	
+	<!-- EN: make 7.62x54mmR (Sabot) cartridge (Punched) x500 -->
+	<MakeAmmo_762x54mmR_Sabot_Punched.label>make 7.62x54mmR (Sabot) cartridge (Punched) x500</MakeAmmo_762x54mmR_Sabot_Punched.label>
+	<!-- EN: Craft 500 7.62x54mmR (Sabot) cartridges (Punched). -->
+	<MakeAmmo_762x54mmR_Sabot_Punched.description>Craft 500 7.62x54mmR (Sabot) cartridges (Punched).</MakeAmmo_762x54mmR_Sabot_Punched.description>
+	<!-- EN: Making 7.62x54mmR (Sabot) cartridges. -->
+	<MakeAmmo_762x54mmR_Sabot_Punched.jobString>Making 7.62x54mmR (Sabot) cartridges.</MakeAmmo_762x54mmR_Sabot_Punched.jobString>
+</LanguageData>

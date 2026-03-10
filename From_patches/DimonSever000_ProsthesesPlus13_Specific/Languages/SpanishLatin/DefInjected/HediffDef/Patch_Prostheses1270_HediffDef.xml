@@ -1,0 +1,71 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\DimonSever000_ProsthesesPlus13_Specific\Patch_Prostheses1270.xml -->
+	<!-- EN: reinforced wooden arm -->
+	<TP_Reinforced_Wooden_Arm.comps.0.tools.0.label>reinforced wooden arm</TP_Reinforced_Wooden_Arm.comps.0.tools.0.label>
+	<!-- EN: hydraulic wooden arm -->
+	<TP_Hydraulic_Wooden_Arm.comps.0.tools.0.label>hydraulic wooden arm</TP_Hydraulic_Wooden_Arm.comps.0.tools.0.label>
+	<!-- EN: simple mechanical arm -->
+	<TP_Simple_Mechanical_Arm.comps.0.tools.0.label>simple mechanical arm</TP_Simple_Mechanical_Arm.comps.0.tools.0.label>
+	<!-- EN: reinforced mechanical arm -->
+	<TP_Reinforced_Mechanical_Arm.comps.0.tools.0.label>reinforced mechanical arm</TP_Reinforced_Mechanical_Arm.comps.0.tools.0.label>
+	<!-- EN: blade -->
+	<TP_Metal_Blade.comps.0.tools.0.label>blade</TP_Metal_Blade.comps.0.tools.0.label>
+	<!-- EN: advanced arm prosthesis -->
+	<TP_Advanced_Hand_Prosthesis.comps.0.tools.0.label>advanced arm prosthesis</TP_Advanced_Hand_Prosthesis.comps.0.tools.0.label>
+	<!-- EN: mechanical arm -->
+	<TP_Mechanical_Arm.comps.0.tools.0.label>mechanical arm</TP_Mechanical_Arm.comps.0.tools.0.label>
+	<!-- EN: hydraulic reinforced arm -->
+	<TP_Hydraulic_Reinforced_Arm.comps.0.tools.0.label>hydraulic reinforced arm</TP_Hydraulic_Reinforced_Arm.comps.0.tools.0.label>
+	<!-- EN: energy spear -->
+	<TP_Energy_Spear.comps.0.tools.0.label>energy spear</TP_Energy_Spear.comps.0.tools.0.label>
+	<!-- EN: Energy spear MK 1A -->
+	<TP_Energy_Spear_A.comps.0.tools.0.label>Energy spear MK 1A</TP_Energy_Spear_A.comps.0.tools.0.label>
+	<!-- EN: Energy spear MK 1B -->
+	<TP_Energy_Spear_B.comps.0.tools.0.label>Energy spear MK 1B</TP_Energy_Spear_B.comps.0.tools.0.label>
+	<!-- EN: Energy spear MK 1C -->
+	<TP_Energy_Spear_C.comps.0.tools.0.label>Energy spear MK 1C</TP_Energy_Spear_C.comps.0.tools.0.label>
+	<!-- EN: electromechanical arm -->
+	<TP_Electromechanical_Arm.comps.0.tools.0.label>electromechanical arm</TP_Electromechanical_Arm.comps.0.tools.0.label>
+	<!-- EN: sensory active hand -->
+	<TP_Sensory_Active_Hand.comps.0.tools.0.label>sensory active hand</TP_Sensory_Active_Hand.comps.0.tools.0.label>
+	<!-- EN: reinforced electrochemical arm -->
+	<TP_Reinforced_Electrochemical_Arm.comps.0.tools.0.label>reinforced electrochemical arm</TP_Reinforced_Electrochemical_Arm.comps.0.tools.0.label>
+	<!-- EN: bionic blades -->
+	<TP_Bionic_Blades.comps.0.tools.0.label>bionic blades</TP_Bionic_Blades.comps.0.tools.0.label>
+	<!-- EN: bionic blades MK 1A -->
+	<TP_Bionic_Blades_A.comps.0.tools.0.label>bionic blades MK 1A</TP_Bionic_Blades_A.comps.0.tools.0.label>
+	<!-- EN: bionic blades MK 1B -->
+	<TP_Bionic_Blades_B.comps.0.tools.0.label>bionic blades MK 1B</TP_Bionic_Blades_B.comps.0.tools.0.label>
+	<!-- EN: bionic blades MK 1C -->
+	<TP_Bionic_Blades_C.comps.0.tools.0.label>bionic blades MK 1C</TP_Bionic_Blades_C.comps.0.tools.0.label>
+	<!-- EN: mechanized arm -->
+	<TP_Mechanized_Arm.comps.0.tools.0.label>mechanized arm</TP_Mechanized_Arm.comps.0.tools.0.label>
+	<!-- EN: hydromechanical arm -->
+	<TP_Hydromechanical_Arm.comps.0.tools.0.label>hydromechanical arm</TP_Hydromechanical_Arm.comps.0.tools.0.label>
+	<!-- EN: bioelectric arm prosthesis -->
+	<TP_Bioelectric_Hand_Prosthesis.comps.0.tools.0.label>bioelectric arm prosthesis</TP_Bioelectric_Hand_Prosthesis.comps.0.tools.0.label>
+	<!-- EN: bioelectric arm prosthesis -->
+	<TP_Myoelectric_Hand_Prosthesis.comps.0.tools.0.label>bioelectric arm prosthesis</TP_Myoelectric_Hand_Prosthesis.comps.0.tools.0.label>
+	<!-- EN: programmable arm prosthesis -->
+	<TP_Programmable_Hand_Prosthesis.comps.0.tools.0.label>programmable arm prosthesis</TP_Programmable_Hand_Prosthesis.comps.0.tools.0.label>
+	<!-- EN: programmable arm prosthesis -->
+	<TP_Cybernetic_Hand_MK_One.comps.0.tools.0.label>programmable arm prosthesis</TP_Cybernetic_Hand_MK_One.comps.0.tools.0.label>
+	<!-- EN: cyber ​​blades MK Basic -->
+	<TP_Cyber_blades.comps.0.tools.0.label>cyber ​​blades MK Basic</TP_Cyber_blades.comps.0.tools.0.label>
+	<!-- EN: cyber ​​blades MK 1A -->
+	<TP_Cyber_blades_A.comps.0.tools.0.label>cyber ​​blades MK 1A</TP_Cyber_blades_A.comps.0.tools.0.label>
+	<!-- EN: cyber ​​blades MK 1B -->
+	<TP_Cyber_blades_B.comps.0.tools.0.label>cyber ​​blades MK 1B</TP_Cyber_blades_B.comps.0.tools.0.label>
+	<!-- EN: cyber ​​blades MK 1C -->
+	<TP_Cyber_blades_C.comps.0.tools.0.label>cyber ​​blades MK 1C</TP_Cyber_blades_C.comps.0.tools.0.label>
+	<!-- EN: cybernetic arm MK medicine -->
+	<TP_Cybernetic_Arm_MK_Medicine.comps.0.tools.0.label>cybernetic arm MK medicine</TP_Cybernetic_Arm_MK_Medicine.comps.0.tools.0.label>
+	<!-- EN: cybernetic arm MK construction -->
+	<TP_Cybernetic_Arm_MK_Construction.comps.0.tools.0.label>cybernetic arm MK construction</TP_Cybernetic_Arm_MK_Construction.comps.0.tools.0.label>
+	<!-- EN: cybernetic arm MK Sniper -->
+	<TP_Cybernetic_Arm_MK_Sniper.comps.0.tools.0.label>cybernetic arm MK Sniper</TP_Cybernetic_Arm_MK_Sniper.comps.0.tools.0.label>
+	<!-- EN: cybernetic arm MK 2 -->
+	<TP_Cybernetic_Arm_MK_Two.comps.0.tools.0.label>cybernetic arm MK 2</TP_Cybernetic_Arm_MK_Two.comps.0.tools.0.label>
+	<!-- EN: cybernetic arm MK 3 -->
+	<TP_Cybernetic_Arm_MK_Three.comps.0.tools.0.label>cybernetic arm MK 3</TP_Cybernetic_Arm_MK_Three.comps.0.tools.0.label>
+</LanguageData>

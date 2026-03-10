@@ -1,0 +1,30 @@
+<LanguageData>
+	<!-- Defs\WorkGiverDefs\WorkGivers.xml -->
+	<!-- EN: reload turrets -->
+	<ReloadTurrets.label>reload turrets</ReloadTurrets.label>
+	<!-- EN: reload -->
+	<ReloadTurrets.verb>reload</ReloadTurrets.verb>
+	<!-- EN: reloading -->
+	<ReloadTurrets.gerund>reloading</ReloadTurrets.gerund>
+	
+	<!-- EN: reload ammo container -->
+	<ReloadAutoLoader.label>reload ammo container</ReloadAutoLoader.label>
+	<!-- EN: reload -->
+	<ReloadAutoLoader.verb>reload</ReloadAutoLoader.verb>
+	<!-- EN: reloading -->
+	<ReloadAutoLoader.gerund>reloading</ReloadAutoLoader.gerund>
+	
+	<!-- EN: make ammo -->
+	<DoBillsAmmoBench.label>make ammo</DoBillsAmmoBench.label>
+	<!-- EN: produce ammo -->
+	<DoBillsAmmoBench.verb>produce ammo</DoBillsAmmoBench.verb>
+	<!-- EN: producing ammo at -->
+	<DoBillsAmmoBench.gerund>producing ammo at</DoBillsAmmoBench.gerund>
+	
+	<!-- EN: modify weapons -->
+	<ModifyWeapons.label>modify weapons</ModifyWeapons.label>
+	<!-- EN: attach attachments -->
+	<ModifyWeapons.verb>attach attachments</ModifyWeapons.verb>
+	<!-- EN: applying modifications at -->
+	<ModifyWeapons.gerund>applying modifications at</ModifyWeapons.gerund>
+</LanguageData>

@@ -1,0 +1,53 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\iexist_industrial_melee_weaponry\Weapons_Melee903.xml -->
+	<!-- EN: handle -->
+	<IMW_BaseballBat.tools.0.label>handle</IMW_BaseballBat.tools.0.label>
+	<!-- EN: barrel -->
+	<IMW_BaseballBat.tools.1.label>barrel</IMW_BaseballBat.tools.1.label>
+	
+	<!-- EN: handle -->
+	<IMW_Machete.tools.0.label>handle</IMW_Machete.tools.0.label>
+	<!-- EN: edge -->
+	<IMW_Machete.tools.1.label>edge</IMW_Machete.tools.1.label>
+	
+	<!-- EN: point -->
+	<IMW_Crowbar.tools.0.label>point</IMW_Crowbar.tools.0.label>
+	<!-- EN: head -->
+	<IMW_Crowbar.tools.1.label>head</IMW_Crowbar.tools.1.label>
+	<!-- EN: prying -->
+	<IMW_Crowbar.tools.2.label>prying</IMW_Crowbar.tools.2.label>
+	
+	<!-- EN: handle -->
+	<IMW_ClawHammer.tools.0.label>handle</IMW_ClawHammer.tools.0.label>
+	<!-- EN: head -->
+	<IMW_ClawHammer.tools.1.label>head</IMW_ClawHammer.tools.1.label>
+	
+	<!-- EN: handle -->
+	<IMW_Sledgehammer.tools.0.label>handle</IMW_Sledgehammer.tools.0.label>
+	<!-- EN: head -->
+	<IMW_Sledgehammer.tools.1.label>head</IMW_Sledgehammer.tools.1.label>
+	
+	<!-- EN: handle -->
+	<IMW_SpikedBat.tools.0.label>handle</IMW_SpikedBat.tools.0.label>
+	<!-- EN: barrel -->
+	<IMW_SpikedBat.tools.1.label>barrel</IMW_SpikedBat.tools.1.label>
+	
+	<!-- EN: fist -->
+	<IMW_Knuckleduster.tools.0.label>fist</IMW_Knuckleduster.tools.0.label>
+	
+	<!-- EN: fist -->
+	<IMW_BoxingGlove.tools.0.label>fist</IMW_BoxingGlove.tools.0.label>
+	
+	<!-- EN: handle -->
+	<IMW_PocketKnife.tools.0.label>handle</IMW_PocketKnife.tools.0.label>
+	<!-- EN: blade -->
+	<IMW_PocketKnife.tools.1.label>blade</IMW_PocketKnife.tools.1.label>
+	<!-- EN: point -->
+	<IMW_PocketKnife.tools.2.label>point</IMW_PocketKnife.tools.2.label>
+	
+	<!-- EN: heavy end -->
+	<IMW_SockMace.tools.0.label>heavy end</IMW_SockMace.tools.0.label>
+	
+	<!-- EN: case -->
+	<IMW_Briefcase.tools.0.label>case</IMW_Briefcase.tools.0.label>
+</LanguageData>

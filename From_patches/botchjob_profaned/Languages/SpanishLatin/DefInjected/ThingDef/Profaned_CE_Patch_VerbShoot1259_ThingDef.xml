@@ -1,0 +1,24 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\botchjob_profaned\Profaned_CE_Patch_VerbShoot1259.xml -->
+	<!-- EN: colossus smash -->
+	<BotchJob_UndeadColossus.verbs.0.label>colossus smash</BotchJob_UndeadColossus.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<BotchJob_UndeadColossus.verbs.CombatExtended.Verb_ShootCE.label>ㅤ</BotchJob_UndeadColossus.verbs.CombatExtended.Verb_ShootCE.label>
+	
+	<!-- EN: project wraith claw -->
+	<BotchJob_Wraith.verbs.0.label>project wraith claw</BotchJob_Wraith.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<BotchJob_Wraith.verbs.CombatExtended.Verb_ShootCE.label>ㅤ</BotchJob_Wraith.verbs.CombatExtended.Verb_ShootCE.label>
+	
+	<!-- EN: bone -->
+	<BotchJob_Skeleton.verbs.0.label>bone</BotchJob_Skeleton.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<BotchJob_Skeleton.verbs.CombatExtended.Verb_ShootCE.label>ㅤ</BotchJob_Skeleton.verbs.CombatExtended.Verb_ShootCE.label>
+	
+	<!-- EN: toxic dragon breath -->
+	<BotchJob_UndeadDragon.verbs.0.label>toxic dragon breath</BotchJob_UndeadDragon.verbs.0.label>
+	<!-- EN: spew putrid mass -->
+	<BotchJob_UndeadDragon.verbs.1.label>spew putrid mass</BotchJob_UndeadDragon.verbs.1.label>
+	<!-- EN: ㅤ -->
+	<BotchJob_UndeadDragon.verbs.CombatExtended.Verb_ShootCE.label>ㅤ</BotchJob_UndeadDragon.verbs.CombatExtended.Verb_ShootCE.label>
+</LanguageData>

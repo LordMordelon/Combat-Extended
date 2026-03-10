@@ -1,0 +1,58 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\DankPyon_Medieval_Overhaul\MO_Weapons_Melee_Axes1053.xml -->
+	<!-- EN: edge -->
+	<DankPyon_MeleeWeapon_ButcherCleaver.tools.0.label>edge</DankPyon_MeleeWeapon_ButcherCleaver.tools.0.label>
+	<!-- EN: handle -->
+	<DankPyon_MeleeWeapon_ButcherCleaver.tools.1.label>handle</DankPyon_MeleeWeapon_ButcherCleaver.tools.1.label>
+	
+	<!-- EN: shaft -->
+	<DankPyon_MeleeWeapon_Hatchet.tools.0.label>shaft</DankPyon_MeleeWeapon_Hatchet.tools.0.label>
+	<!-- EN: head -->
+	<DankPyon_MeleeWeapon_Hatchet.tools.1.label>head</DankPyon_MeleeWeapon_Hatchet.tools.1.label>
+	<!-- EN: edge -->
+	<DankPyon_MeleeWeapon_Hatchet.tools.2.label>edge</DankPyon_MeleeWeapon_Hatchet.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<DankPyon_MeleeWeapon_Handaxe.tools.0.label>shaft</DankPyon_MeleeWeapon_Handaxe.tools.0.label>
+	<!-- EN: head -->
+	<DankPyon_MeleeWeapon_Handaxe.tools.1.label>head</DankPyon_MeleeWeapon_Handaxe.tools.1.label>
+	<!-- EN: edge -->
+	<DankPyon_MeleeWeapon_Handaxe.tools.2.label>edge</DankPyon_MeleeWeapon_Handaxe.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<DankPyon_MeleeWeapon_FightingAxe.tools.0.label>shaft</DankPyon_MeleeWeapon_FightingAxe.tools.0.label>
+	<!-- EN: head -->
+	<DankPyon_MeleeWeapon_FightingAxe.tools.1.label>head</DankPyon_MeleeWeapon_FightingAxe.tools.1.label>
+	<!-- EN: edge -->
+	<DankPyon_MeleeWeapon_FightingAxe.tools.2.label>edge</DankPyon_MeleeWeapon_FightingAxe.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<DankPyon_MeleeWeapon_WoodcuttersAxe.tools.0.label>shaft</DankPyon_MeleeWeapon_WoodcuttersAxe.tools.0.label>
+	<!-- EN: head -->
+	<DankPyon_MeleeWeapon_WoodcuttersAxe.tools.1.label>head</DankPyon_MeleeWeapon_WoodcuttersAxe.tools.1.label>
+	<!-- EN: edge -->
+	<DankPyon_MeleeWeapon_WoodcuttersAxe.tools.2.label>edge</DankPyon_MeleeWeapon_WoodcuttersAxe.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<DankPyon_MeleeWeapon_Bardiche.tools.0.label>shaft</DankPyon_MeleeWeapon_Bardiche.tools.0.label>
+	<!-- EN: head -->
+	<DankPyon_MeleeWeapon_Bardiche.tools.1.label>head</DankPyon_MeleeWeapon_Bardiche.tools.1.label>
+	<!-- EN: point -->
+	<DankPyon_MeleeWeapon_Bardiche.tools.2.label>point</DankPyon_MeleeWeapon_Bardiche.tools.2.label>
+	<!-- EN: edge -->
+	<DankPyon_MeleeWeapon_Bardiche.tools.3.label>edge</DankPyon_MeleeWeapon_Bardiche.tools.3.label>
+	
+	<!-- EN: shaft -->
+	<DankPyon_MeleeWeapon_Greataxe.tools.0.label>shaft</DankPyon_MeleeWeapon_Greataxe.tools.0.label>
+	<!-- EN: head -->
+	<DankPyon_MeleeWeapon_Greataxe.tools.1.label>head</DankPyon_MeleeWeapon_Greataxe.tools.1.label>
+	<!-- EN: edge -->
+	<DankPyon_MeleeWeapon_Greataxe.tools.2.label>edge</DankPyon_MeleeWeapon_Greataxe.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<DankPyon_MeleeWeapon_Longaxe.tools.0.label>shaft</DankPyon_MeleeWeapon_Longaxe.tools.0.label>
+	<!-- EN: head -->
+	<DankPyon_MeleeWeapon_Longaxe.tools.1.label>head</DankPyon_MeleeWeapon_Longaxe.tools.1.label>
+	<!-- EN: edge -->
+	<DankPyon_MeleeWeapon_Longaxe.tools.2.label>edge</DankPyon_MeleeWeapon_Longaxe.tools.2.label>
+</LanguageData>

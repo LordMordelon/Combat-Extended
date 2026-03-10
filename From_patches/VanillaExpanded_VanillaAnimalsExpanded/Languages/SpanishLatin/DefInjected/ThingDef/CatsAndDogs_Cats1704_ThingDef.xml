@@ -1,0 +1,72 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VanillaAnimalsExpanded\CatsAndDogs_Cats1704.xml -->
+	<!-- EN: left claw -->
+	<AEXP_CatAbyssinian.tools.0.label>left claw</AEXP_CatAbyssinian.tools.0.label>
+	<!-- EN: right claw -->
+	<AEXP_CatAbyssinian.tools.1.label>right claw</AEXP_CatAbyssinian.tools.1.label>
+	<!-- EN: head -->
+	<AEXP_CatAbyssinian.tools.3.label>head</AEXP_CatAbyssinian.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<AEXP_CatBengal.tools.0.label>left claw</AEXP_CatBengal.tools.0.label>
+	<!-- EN: right claw -->
+	<AEXP_CatBengal.tools.1.label>right claw</AEXP_CatBengal.tools.1.label>
+	<!-- EN: head -->
+	<AEXP_CatBengal.tools.3.label>head</AEXP_CatBengal.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<AEXP_CatBritishShorthair.tools.0.label>left claw</AEXP_CatBritishShorthair.tools.0.label>
+	<!-- EN: right claw -->
+	<AEXP_CatBritishShorthair.tools.1.label>right claw</AEXP_CatBritishShorthair.tools.1.label>
+	<!-- EN: head -->
+	<AEXP_CatBritishShorthair.tools.3.label>head</AEXP_CatBritishShorthair.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<AEXP_CatMaineCoon.tools.0.label>left claw</AEXP_CatMaineCoon.tools.0.label>
+	<!-- EN: right claw -->
+	<AEXP_CatMaineCoon.tools.1.label>right claw</AEXP_CatMaineCoon.tools.1.label>
+	<!-- EN: head -->
+	<AEXP_CatMaineCoon.tools.3.label>head</AEXP_CatMaineCoon.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<AEXP_CatMunchkin.tools.0.label>left claw</AEXP_CatMunchkin.tools.0.label>
+	<!-- EN: right claw -->
+	<AEXP_CatMunchkin.tools.1.label>right claw</AEXP_CatMunchkin.tools.1.label>
+	<!-- EN: head -->
+	<AEXP_CatMunchkin.tools.3.label>head</AEXP_CatMunchkin.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<AEXP_CatNorwegianForest.tools.0.label>left claw</AEXP_CatNorwegianForest.tools.0.label>
+	<!-- EN: right claw -->
+	<AEXP_CatNorwegianForest.tools.1.label>right claw</AEXP_CatNorwegianForest.tools.1.label>
+	<!-- EN: head -->
+	<AEXP_CatNorwegianForest.tools.3.label>head</AEXP_CatNorwegianForest.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<AEXP_CatPersian.tools.0.label>left claw</AEXP_CatPersian.tools.0.label>
+	<!-- EN: right claw -->
+	<AEXP_CatPersian.tools.1.label>right claw</AEXP_CatPersian.tools.1.label>
+	<!-- EN: head -->
+	<AEXP_CatPersian.tools.3.label>head</AEXP_CatPersian.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<AEXP_CatSiamese.tools.0.label>left claw</AEXP_CatSiamese.tools.0.label>
+	<!-- EN: right claw -->
+	<AEXP_CatSiamese.tools.1.label>right claw</AEXP_CatSiamese.tools.1.label>
+	<!-- EN: head -->
+	<AEXP_CatSiamese.tools.3.label>head</AEXP_CatSiamese.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<AEXP_CatSomali.tools.0.label>left claw</AEXP_CatSomali.tools.0.label>
+	<!-- EN: right claw -->
+	<AEXP_CatSomali.tools.1.label>right claw</AEXP_CatSomali.tools.1.label>
+	<!-- EN: head -->
+	<AEXP_CatSomali.tools.3.label>head</AEXP_CatSomali.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<AEXP_CatSphynx.tools.0.label>left claw</AEXP_CatSphynx.tools.0.label>
+	<!-- EN: right claw -->
+	<AEXP_CatSphynx.tools.1.label>right claw</AEXP_CatSphynx.tools.1.label>
+	<!-- EN: head -->
+	<AEXP_CatSphynx.tools.3.label>head</AEXP_CatSphynx.tools.3.label>
+</LanguageData>

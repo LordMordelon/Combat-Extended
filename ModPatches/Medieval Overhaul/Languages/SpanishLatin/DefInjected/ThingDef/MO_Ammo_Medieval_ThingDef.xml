@@ -1,0 +1,53 @@
+<LanguageData>
+	<!-- ModPatches\Medieval Overhaul\Defs\Medieval Overhaul\Ammo\MO_Ammo_Medieval.xml -->
+	<!-- EN: streamlined hunting arrow (stone) -->
+	<Projectile_HuntingArrow_Stone.label>streamlined hunting arrow (stone)</Projectile_HuntingArrow_Stone.label>
+	<!-- EN: streamlined hunting arrow (iron) -->
+	<Projectile_HuntingArrow_Iron.label>streamlined hunting arrow (iron)</Projectile_HuntingArrow_Iron.label>
+	<!-- EN: streamlined hunting arrow (steel) -->
+	<Projectile_HuntingArrow_Steel.label>streamlined hunting arrow (steel)</Projectile_HuntingArrow_Steel.label>
+	<!-- EN: streamlined hunting arrow (plasteel) -->
+	<Projectile_HuntingArrow_Plasteel.label>streamlined hunting arrow (plasteel)</Projectile_HuntingArrow_Plasteel.label>
+	<!-- EN: streamlined hunting arrow (venom) -->
+	<Projectile_HuntingArrow_Venom.label>streamlined hunting arrow (venom)</Projectile_HuntingArrow_Venom.label>
+	<!-- EN: streamlined hunting arrow (flame) -->
+	<Projectile_HuntingArrow_Flame.label>streamlined hunting arrow (flame)</Projectile_HuntingArrow_Flame.label>
+	<!-- EN: great war arrow (stone) -->
+	<Projectile_WarArrow_Stone.label>great war arrow (stone)</Projectile_WarArrow_Stone.label>
+	<!-- EN: great war arrow (iron) -->
+	<Projectile_WarArrow_Iron.label>great war arrow (iron)</Projectile_WarArrow_Iron.label>
+	<!-- EN: great war arrow (steel) -->
+	<Projectile_WarArrow_Steel.label>great war arrow (steel)</Projectile_WarArrow_Steel.label>
+	<!-- EN: great war arrow (plasteel) -->
+	<Projectile_WarArrow_Plasteel.label>great war arrow (plasteel)</Projectile_WarArrow_Plasteel.label>
+	<!-- EN: great war arrow (venom) -->
+	<Projectile_WarArrow_Venom.label>great war arrow (venom)</Projectile_WarArrow_Venom.label>
+	<!-- EN: great war arrow (flame) -->
+	<Projectile_WarArrow_Flame.label>great war arrow (flame)</Projectile_WarArrow_Flame.label>
+	<!-- EN: normal crossbow bolt (stone) -->
+	<Projectile_DankPyonCrossbowBolt_Stone.label>normal crossbow bolt (stone)</Projectile_DankPyonCrossbowBolt_Stone.label>
+	<!-- EN: normal crossbow bolt (iron) -->
+	<Projectile_DankPyonCrossbowBolt_Iron.label>normal crossbow bolt (iron)</Projectile_DankPyonCrossbowBolt_Iron.label>
+	<!-- EN: normal crossbow bolt (steel) -->
+	<Projectile_DankPyonCrossbowBolt_Steel.label>normal crossbow bolt (steel)</Projectile_DankPyonCrossbowBolt_Steel.label>
+	<!-- EN: normal crossbow bolt (plasteel) -->
+	<Projectile_DankPyonCrossbowBolt_Plasteel.label>normal crossbow bolt (plasteel)</Projectile_DankPyonCrossbowBolt_Plasteel.label>
+	<!-- EN: normal crossbow bolt (venom) -->
+	<Projectile_DankPyonCrossbowBolt_Venom.label>normal crossbow bolt (venom)</Projectile_DankPyonCrossbowBolt_Venom.label>
+	<!-- EN: crossbow bolt (flame) -->
+	<Projectile_DankPyonCrossbowBolt_Flame.label>crossbow bolt (flame)</Projectile_DankPyonCrossbowBolt_Flame.label>
+	<!-- EN: crossbow bolt (stone) -->
+	<Projectile_DankPyonArbalestBolt_Stone.label>crossbow bolt (stone)</Projectile_DankPyonArbalestBolt_Stone.label>
+	<!-- EN: crossbow bolt (iron) -->
+	<Projectile_DankPyonArbalestBolt_Iron.label>crossbow bolt (iron)</Projectile_DankPyonArbalestBolt_Iron.label>
+	<!-- EN: crossbow bolt (steel) -->
+	<Projectile_DankPyonArbalestBolt_Steel.label>crossbow bolt (steel)</Projectile_DankPyonArbalestBolt_Steel.label>
+	<!-- EN: crossbow bolt (plasteel) -->
+	<Projectile_DankPyonArbalestBolt_Plasteel.label>crossbow bolt (plasteel)</Projectile_DankPyonArbalestBolt_Plasteel.label>
+	<!-- EN: crossbow bolt (venom) -->
+	<Projectile_DankPyonArbalestBolt_Venom.label>crossbow bolt (venom)</Projectile_DankPyonArbalestBolt_Venom.label>
+	<!-- EN: crossbow bolt (flame) -->
+	<Projectile_DankPyonArbalestBolt_Flame.label>crossbow bolt (flame)</Projectile_DankPyonArbalestBolt_Flame.label>
+	<!-- EN: lead pellet -->
+	<Bullet_Handgonne_Ball.label>lead pellet</Bullet_Handgonne_Ball.label>
+</LanguageData>

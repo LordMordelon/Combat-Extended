@@ -1,0 +1,38 @@
+<LanguageData>
+	<!-- ModPatches\Big and Small Genes\Defs\Big and Small Genes\Weapons\ThingDef_Ammo_Arrows.xml -->
+	
+	<!-- EN: make stone giant's arrows x10 -->
+	<MakeAmmo_BigSmall_GiantArrow_Stone.label>make stone giant's arrows x10</MakeAmmo_BigSmall_GiantArrow_Stone.label>
+	<!-- EN: Craft 10 stone giant's arrows. -->
+	<MakeAmmo_BigSmall_GiantArrow_Stone.description>Craft 10 stone giant's arrows.</MakeAmmo_BigSmall_GiantArrow_Stone.description>
+	<!-- EN: Making stone giant's arrows. -->
+	<MakeAmmo_BigSmall_GiantArrow_Stone.jobString>Making stone giant's arrows.</MakeAmmo_BigSmall_GiantArrow_Stone.jobString>
+	
+	<!-- EN: make steel giant's arrows x10 -->
+	<MakeAmmo_BigSmall_GiantArrow_Steel.label>make steel giant's arrows x10</MakeAmmo_BigSmall_GiantArrow_Steel.label>
+	<!-- EN: Craft 10 steel giant's arrows. -->
+	<MakeAmmo_BigSmall_GiantArrow_Steel.description>Craft 10 steel giant's arrows.</MakeAmmo_BigSmall_GiantArrow_Steel.description>
+	<!-- EN: Making steel giant's arrows. -->
+	<MakeAmmo_BigSmall_GiantArrow_Steel.jobString>Making steel giant's arrows.</MakeAmmo_BigSmall_GiantArrow_Steel.jobString>
+	
+	<!-- EN: make plasteel giant's arrows x10 -->
+	<MakeAmmo_BigSmall_GiantArrow_Plasteel.label>make plasteel giant's arrows x10</MakeAmmo_BigSmall_GiantArrow_Plasteel.label>
+	<!-- EN: Craft 10 plasteel giant's arrows. -->
+	<MakeAmmo_BigSmall_GiantArrow_Plasteel.description>Craft 10 plasteel giant's arrows.</MakeAmmo_BigSmall_GiantArrow_Plasteel.description>
+	<!-- EN: Making plasteel giant's arrows. -->
+	<MakeAmmo_BigSmall_GiantArrow_Plasteel.jobString>Making plasteel giant's arrows.</MakeAmmo_BigSmall_GiantArrow_Plasteel.jobString>
+	
+	<!-- EN: make venom giant's arrows x10 -->
+	<MakeAmmo_BigSmall_GiantArrow_Venom.label>make venom giant's arrows x10</MakeAmmo_BigSmall_GiantArrow_Venom.label>
+	<!-- EN: Craft 10 venom giant's arrows. -->
+	<MakeAmmo_BigSmall_GiantArrow_Venom.description>Craft 10 venom giant's arrows.</MakeAmmo_BigSmall_GiantArrow_Venom.description>
+	<!-- EN: Making venom giant's arrows. -->
+	<MakeAmmo_BigSmall_GiantArrow_Venom.jobString>Making venom giant's arrows.</MakeAmmo_BigSmall_GiantArrow_Venom.jobString>
+	
+	<!-- EN: make flame giant's arrows x10 -->
+	<MakeAmmo_BigSmall_GiantArrow_Flame.label>make flame giant's arrows x10</MakeAmmo_BigSmall_GiantArrow_Flame.label>
+	<!-- EN: Craft 10 flame giant's arrows. -->
+	<MakeAmmo_BigSmall_GiantArrow_Flame.description>Craft 10 flame giant's arrows.</MakeAmmo_BigSmall_GiantArrow_Flame.description>
+	<!-- EN: Making flame giant's arrows. -->
+	<MakeAmmo_BigSmall_GiantArrow_Flame.jobString>Making flame giant's arrows.</MakeAmmo_BigSmall_GiantArrow_Flame.jobString>
+</LanguageData>

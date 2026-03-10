@@ -1,0 +1,45 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\det_vanillaarsenal\RangedIndustrial1740.xml -->
+	<!-- EN: grip -->
+	<DV_Gun_BurstPistol.tools.0.label>grip</DV_Gun_BurstPistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<DV_Gun_BurstPistol.tools.1.label>muzzle</DV_Gun_BurstPistol.tools.1.label>
+	
+	<!-- EN: stock -->
+	<DV_Gun_LeverShotgun.tools.0.label>stock</DV_Gun_LeverShotgun.tools.0.label>
+	<!-- EN: barrel -->
+	<DV_Gun_LeverShotgun.tools.1.label>barrel</DV_Gun_LeverShotgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<DV_Gun_LeverShotgun.tools.2.label>muzzle</DV_Gun_LeverShotgun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<DV_Gun_LightCarbine.tools.0.label>stock</DV_Gun_LightCarbine.tools.0.label>
+	<!-- EN: barrel -->
+	<DV_Gun_LightCarbine.tools.1.label>barrel</DV_Gun_LightCarbine.tools.1.label>
+	<!-- EN: muzzle -->
+	<DV_Gun_LightCarbine.tools.2.label>muzzle</DV_Gun_LightCarbine.tools.2.label>
+	
+	<!-- EN: stock -->
+	<DV_Gun_CombatShotgun.tools.0.label>stock</DV_Gun_CombatShotgun.tools.0.label>
+	<!-- EN: barrel -->
+	<DV_Gun_CombatShotgun.tools.1.label>barrel</DV_Gun_CombatShotgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<DV_Gun_CombatShotgun.tools.2.label>muzzle</DV_Gun_CombatShotgun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<DV_Gun_DMR.tools.0.label>stock</DV_Gun_DMR.tools.0.label>
+	<!-- EN: barrel -->
+	<DV_Gun_DMR.tools.1.label>barrel</DV_Gun_DMR.tools.1.label>
+	<!-- EN: muzzle -->
+	<DV_Gun_DMR.tools.2.label>muzzle</DV_Gun_DMR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<DV_Gun_ThermoRifle.tools.0.label>stock</DV_Gun_ThermoRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<DV_Gun_ThermoRifle.tools.1.label>barrel</DV_Gun_ThermoRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<DV_Gun_ThermoRifle.tools.2.label>muzzle</DV_Gun_ThermoRifle.tools.2.label>
+	
+	<!-- EN: barrels -->
+	<DV_Gun_Chaingun.tools.0.label>barrels</DV_Gun_Chaingun.tools.0.label>
+</LanguageData>

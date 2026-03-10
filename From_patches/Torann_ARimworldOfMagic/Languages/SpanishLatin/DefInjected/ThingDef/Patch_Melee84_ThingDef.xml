@@ -1,0 +1,42 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Torann_ARimworldOfMagic\Patch_Melee84.xml -->
+	<!-- EN: shaft -->
+	<TM_ElephantSpear.tools.0.label>shaft</TM_ElephantSpear.tools.0.label>
+	<!-- EN: edge -->
+	<TM_ElephantSpear.tools.1.label>edge</TM_ElephantSpear.tools.1.label>
+	<!-- EN: point -->
+	<TM_ElephantSpear.tools.2.label>point</TM_ElephantSpear.tools.2.label>
+	
+	<!-- EN: handle -->
+	<TM_ElephantTusk.tools.0.label>handle</TM_ElephantTusk.tools.0.label>
+	<!-- EN: point -->
+	<TM_ElephantTusk.tools.1.label>point</TM_ElephantTusk.tools.1.label>
+	<!-- EN: edge -->
+	<TM_ElephantTusk.tools.2.label>edge</TM_ElephantTusk.tools.2.label>
+	
+	<!-- EN: handle -->
+	<TM_ThrumboSaber.tools.0.label>handle</TM_ThrumboSaber.tools.0.label>
+	<!-- EN: point -->
+	<TM_ThrumboSaber.tools.1.label>point</TM_ThrumboSaber.tools.1.label>
+	<!-- EN: edge -->
+	<TM_ThrumboSaber.tools.2.label>edge</TM_ThrumboSaber.tools.2.label>
+	
+	<!-- EN: edge -->
+	<TM_ThrumboAxe.tools.0.label>edge</TM_ThrumboAxe.tools.0.label>
+	<!-- EN: point -->
+	<TM_ThrumboAxe.tools.1.label>point</TM_ThrumboAxe.tools.1.label>
+	
+	<!-- EN: handle -->
+	<TM_Ruunbled.tools.0.label>handle</TM_Ruunbled.tools.0.label>
+	<!-- EN: point -->
+	<TM_Ruunbled.tools.1.label>point</TM_Ruunbled.tools.1.label>
+	<!-- EN: edge -->
+	<TM_Ruunbled.tools.2.label>edge</TM_Ruunbled.tools.2.label>
+	
+	<!-- EN: handle -->
+	<TM_DemonFang.tools.0.label>handle</TM_DemonFang.tools.0.label>
+	<!-- EN: stab -->
+	<TM_DemonFang.tools.1.label>stab</TM_DemonFang.tools.1.label>
+	<!-- EN: edge -->
+	<TM_DemonFang.tools.2.label>edge</TM_DemonFang.tools.2.label>
+</LanguageData>

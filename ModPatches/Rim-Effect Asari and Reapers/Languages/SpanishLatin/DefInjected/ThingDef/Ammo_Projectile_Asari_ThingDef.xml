@@ -1,0 +1,59 @@
+<LanguageData>
+	<!-- ModPatches\Rim-Effect Asari and Reapers\Defs\Rim-Effect Asari and Reapers\Ammo_Projectile_Asari.xml -->
+	<!-- EN: accelerated shot -->
+	<Bullet_AAR.label>accelerated shot</Bullet_AAR.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_AAR_AP.label>accelerated shot</Bullet_AAR_AP.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_AAR_HE.label>accelerated shot</Bullet_AAR_HE.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_AAR_Cryo.label>accelerated shot</Bullet_AAR_Cryo.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_AAR_Toxic.label>accelerated shot</Bullet_AAR_Toxic.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_AAR_Ion.label>accelerated shot</Bullet_AAR_Ion.label>
+	<!-- EN: accelerated incendiary shot -->
+	<Bullet_AAR_FI.label>accelerated incendiary shot</Bullet_AAR_FI.label>
+	<!-- EN: bullet -->
+	<Bullet_Acolyte.label>bullet</Bullet_Acolyte.label>
+	<!-- EN: bullet -->
+	<Bullet_Acolyte_AP.label>bullet</Bullet_Acolyte_AP.label>
+	<!-- EN: bullet -->
+	<Bullet_Acolyte_Cryo.label>bullet</Bullet_Acolyte_Cryo.label>
+	<!-- EN: bullet -->
+	<Bullet_Acolyte_Toxic.label>bullet</Bullet_Acolyte_Toxic.label>
+	<!-- EN: bullet -->
+	<Bullet_Acolyte_HE.label>bullet</Bullet_Acolyte_HE.label>
+	<!-- EN: bullet -->
+	<Bullet_Acolyte_FI.label>bullet</Bullet_Acolyte_FI.label>
+	<!-- EN: bullet -->
+	<Bullet_Acolyte_Ion.label>bullet</Bullet_Acolyte_Ion.label>
+	<!-- EN: bullet -->
+	<Bullet_ASR.label>bullet</Bullet_ASR.label>
+	<!-- EN: bullet -->
+	<Bullet_ASR_AP.label>bullet</Bullet_ASR_AP.label>
+	<!-- EN: bullet -->
+	<Bullet_ASR_Cryo.label>bullet</Bullet_ASR_Cryo.label>
+	<!-- EN: bullet -->
+	<Bullet_ASR_HE.label>bullet</Bullet_ASR_HE.label>
+	<!-- EN: bullet -->
+	<Bullet_ASR_Toxic.label>bullet</Bullet_ASR_Toxic.label>
+	<!-- EN: bullet -->
+	<Bullet_ASR_FI.label>bullet</Bullet_ASR_FI.label>
+	<!-- EN: bullet -->
+	<Bullet_ASR_Ion.label>bullet</Bullet_ASR_Ion.label>
+	<!-- EN: bullet -->
+	<Bullet_Disciple.label>bullet</Bullet_Disciple.label>
+	<!-- EN: bullet -->
+	<Bullet_Disciple_AP.label>bullet</Bullet_Disciple_AP.label>
+	<!-- EN: bullet -->
+	<Bullet_Disciple_HE.label>bullet</Bullet_Disciple_HE.label>
+	<!-- EN: bullet -->
+	<Bullet_Disciple_Cryo.label>bullet</Bullet_Disciple_Cryo.label>
+	<!-- EN: bullet -->
+	<Bullet_Disciple_Toxic.label>bullet</Bullet_Disciple_Toxic.label>
+	<!-- EN: bullet -->
+	<Bullet_Disciple_FI.label>bullet</Bullet_Disciple_FI.label>
+	<!-- EN: bullet -->
+	<Bullet_Disciple_Ion.label>bullet</Bullet_Disciple_Ion.label>
+</LanguageData>

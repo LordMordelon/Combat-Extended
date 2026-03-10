@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Mlie_BlackWidows\Patch_BlackWidows_Bodyparts593.xml -->
+	<!-- EN: bionic pedipalp -->
+	<BionicRightPedipalp.comps.0.tools.0.label>bionic pedipalp</BionicRightPedipalp.comps.0.tools.0.label>
+	<!-- EN: bionic pedipalp -->
+	<BionicLeftPedipalp.comps.0.tools.0.label>bionic pedipalp</BionicLeftPedipalp.comps.0.tools.0.label>
+	<!-- EN: shredder leg -->
+	<BlackWidowShredderLeg.comps.0.tools.0.label>shredder leg</BlackWidowShredderLeg.comps.0.tools.0.label>
+	<!-- EN: fist -->
+	<BlackWidowSleipnirArm.comps.0.tools.0.label>fist</BlackWidowSleipnirArm.comps.0.tools.0.label>
+</LanguageData>

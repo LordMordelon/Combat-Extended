@@ -1,0 +1,37 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\JangoDsoul_ExiledDawn\Weapons_Melee922.xml -->
+	<!-- EN: handle -->
+	<JDSExiledDawn_Melee_Reforged_Eternal_Glory.tools.0.label>handle</JDSExiledDawn_Melee_Reforged_Eternal_Glory.tools.0.label>
+	<!-- EN: point -->
+	<JDSExiledDawn_Melee_Reforged_Eternal_Glory.tools.1.label>point</JDSExiledDawn_Melee_Reforged_Eternal_Glory.tools.1.label>
+	
+	<!-- EN: handle -->
+	<JDSExiledDawn_Melee_Reforged_WarCleaver.tools.0.label>handle</JDSExiledDawn_Melee_Reforged_WarCleaver.tools.0.label>
+	<!-- EN: blade -->
+	<JDSExiledDawn_Melee_Reforged_WarCleaver.tools.1.label>blade</JDSExiledDawn_Melee_Reforged_WarCleaver.tools.1.label>
+	
+	<!-- EN: handle -->
+	<JDSExiledDawn_Melee_Reforged_Oathkeeper.tools.0.label>handle</JDSExiledDawn_Melee_Reforged_Oathkeeper.tools.0.label>
+	<!-- EN: blade -->
+	<JDSExiledDawn_Melee_Reforged_Oathkeeper.tools.1.label>blade</JDSExiledDawn_Melee_Reforged_Oathkeeper.tools.1.label>
+	
+	<!-- EN: handle -->
+	<JDSExiledDawn_Melee_Reforged_Bludgeon.tools.0.label>handle</JDSExiledDawn_Melee_Reforged_Bludgeon.tools.0.label>
+	<!-- EN: head -->
+	<JDSExiledDawn_Melee_Reforged_Bludgeon.tools.1.label>head</JDSExiledDawn_Melee_Reforged_Bludgeon.tools.1.label>
+	
+	<!-- EN: handle -->
+	<JDSExiledDawn_Melee_Reforged_WarSpear.tools.0.label>handle</JDSExiledDawn_Melee_Reforged_WarSpear.tools.0.label>
+	<!-- EN: point -->
+	<JDSExiledDawn_Melee_Reforged_WarSpear.tools.1.label>point</JDSExiledDawn_Melee_Reforged_WarSpear.tools.1.label>
+	
+	<!-- EN: handle -->
+	<JDSExiledDawn_Melee_Reforged_Headhunter.tools.0.label>handle</JDSExiledDawn_Melee_Reforged_Headhunter.tools.0.label>
+	<!-- EN: blade -->
+	<JDSExiledDawn_Melee_Reforged_Headhunter.tools.1.label>blade</JDSExiledDawn_Melee_Reforged_Headhunter.tools.1.label>
+	
+	<!-- EN: handle -->
+	<JDSExiledDawn_Melee_Reforged_Alpha.tools.0.label>handle</JDSExiledDawn_Melee_Reforged_Alpha.tools.0.label>
+	<!-- EN: blade -->
+	<JDSExiledDawn_Melee_Reforged_Alpha.tools.1.label>blade</JDSExiledDawn_Melee_Reforged_Alpha.tools.1.label>
+</LanguageData>

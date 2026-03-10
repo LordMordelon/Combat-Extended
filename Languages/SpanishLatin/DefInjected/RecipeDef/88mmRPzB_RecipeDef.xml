@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Defs\Ammo\Rocket\88mmRPzB.xml -->
+	<!-- EN: make 88mm RPzB (HEAT) rockets x5 -->
+	<MakeAmmo_88mmRPzB_HEAT.label>make 88mm RPzB (HEAT) rockets x5</MakeAmmo_88mmRPzB_HEAT.label>
+	<!-- EN: Craft 5 88mm RPzB (HEAT) rockets. -->
+	<MakeAmmo_88mmRPzB_HEAT.description>Craft 5 88mm RPzB (HEAT) rockets.</MakeAmmo_88mmRPzB_HEAT.description>
+	<!-- EN: Making 88mm RPzB (HEAT) rockets. -->
+	<MakeAmmo_88mmRPzB_HEAT.jobString>Making 88mm RPzB (HEAT) rockets.</MakeAmmo_88mmRPzB_HEAT.jobString>
+</LanguageData>

@@ -1,0 +1,58 @@
+<LanguageData>
+	<!-- ModPatches\Gas Traps and Shells\Defs\Gas Traps and Shells\Recipes_HandGrenades.xml -->
+	<!-- EN: make toxic gas grenades x10 -->
+	<MakeToxicGasGrenade.label>make toxic gas grenades x10</MakeToxicGasGrenade.label>
+	<!-- EN: Craft 10 toxic gas grenades. -->
+	<MakeToxicGasGrenade.description>Craft 10 toxic gas grenades.</MakeToxicGasGrenade.description>
+	<!-- EN: Making toxic gas grenades. -->
+	<MakeToxicGasGrenade.jobString>Making toxic gas grenades.</MakeToxicGasGrenade.jobString>
+	
+	<!-- EN: make rage gas grenades x10 -->
+	<MakeRageGasGrenade.label>make rage gas grenades x10</MakeRageGasGrenade.label>
+	<!-- EN: Craft 10 rage gas grenades. -->
+	<MakeRageGasGrenade.description>Craft 10 rage gas grenades.</MakeRageGasGrenade.description>
+	<!-- EN: Making rage gas grenades. -->
+	<MakeRageGasGrenade.jobString>Making rage gas grenades.</MakeRageGasGrenade.jobString>
+	
+	<!-- EN: make tear gas grenades x10 -->
+	<MakeTearGasGrenade.label>make tear gas grenades x10</MakeTearGasGrenade.label>
+	<!-- EN: Craft 10 tear gas grenades. -->
+	<MakeTearGasGrenade.description>Craft 10 tear gas grenades.</MakeTearGasGrenade.description>
+	<!-- EN: Making tear gas grenades. -->
+	<MakeTearGasGrenade.jobString>Making tear gas grenades.</MakeTearGasGrenade.jobString>
+	
+	<!-- EN: make sleep gas grenades x10 -->
+	<MakeSleepGasGrenade.label>make sleep gas grenades x10</MakeSleepGasGrenade.label>
+	<!-- EN: Craft 10 sleep gas grenades. -->
+	<MakeSleepGasGrenade.description>Craft 10 sleep gas grenades.</MakeSleepGasGrenade.description>
+	<!-- EN: Making sleep gas grenades. -->
+	<MakeSleepGasGrenade.jobString>Making sleep gas grenades.</MakeSleepGasGrenade.jobString>
+	
+	<!-- EN: make fear gas grenades x10 -->
+	<MakeFearGasGrenade.label>make fear gas grenades x10</MakeFearGasGrenade.label>
+	<!-- EN: Craft 10 fear gas grenades. -->
+	<MakeFearGasGrenade.description>Craft 10 fear gas grenades.</MakeFearGasGrenade.description>
+	<!-- EN: Making fear gas grenades. -->
+	<MakeFearGasGrenade.jobString>Making fear gas grenades.</MakeFearGasGrenade.jobString>
+	
+	<!-- EN: make corrosive gas grenades x10 -->
+	<MakeAcidGasGrenade.label>make corrosive gas grenades x10</MakeAcidGasGrenade.label>
+	<!-- EN: Craft 10 corrosive gas grenades. -->
+	<MakeAcidGasGrenade.description>Craft 10 corrosive gas grenades.</MakeAcidGasGrenade.description>
+	<!-- EN: Making corrosive gas grenades. -->
+	<MakeAcidGasGrenade.jobString>Making corrosive gas grenades.</MakeAcidGasGrenade.jobString>
+	
+	<!-- EN: make nanomachine canisters x10 -->
+	<MakeMechVirusGrenade.label>make nanomachine canisters x10</MakeMechVirusGrenade.label>
+	<!-- EN: Craft 10 nanomachine canisters. -->
+	<MakeMechVirusGrenade.description>Craft 10 nanomachine canisters.</MakeMechVirusGrenade.description>
+	<!-- EN: Making nanomachine canisters. -->
+	<MakeMechVirusGrenade.jobString>Making nanomachine canisters.</MakeMechVirusGrenade.jobString>
+	
+	<!-- EN: make insecticide gas grenades x10 -->
+	<MakeAntiBugGrenade.label>make insecticide gas grenades x10</MakeAntiBugGrenade.label>
+	<!-- EN: Craft 10 insecticide gas grenades. -->
+	<MakeAntiBugGrenade.description>Craft 10 insecticide gas grenades.</MakeAntiBugGrenade.description>
+	<!-- EN: Making insecticide gas grenades. -->
+	<MakeAntiBugGrenade.jobString>Making insecticide gas grenades.</MakeAntiBugGrenade.jobString>
+</LanguageData>

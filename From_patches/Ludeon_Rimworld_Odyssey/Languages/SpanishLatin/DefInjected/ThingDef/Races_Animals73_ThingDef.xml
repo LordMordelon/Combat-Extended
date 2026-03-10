@@ -1,0 +1,184 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Ludeon_Rimworld_Odyssey\Races_Animals73.xml -->
+	<!-- EN: left claw -->
+	<BogHound.tools.0.label>left claw</BogHound.tools.0.label>
+	<!-- EN: right claw -->
+	<BogHound.tools.1.label>right claw</BogHound.tools.1.label>
+	<!-- EN: razorfangs -->
+	<BogHound.tools.2.label>razorfangs</BogHound.tools.2.label>
+	<!-- EN: head -->
+	<BogHound.tools.3.label>head</BogHound.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<PrairieDog.tools.0.label>left claw</PrairieDog.tools.0.label>
+	<!-- EN: right claw -->
+	<PrairieDog.tools.1.label>right claw</PrairieDog.tools.1.label>
+	<!-- EN: head -->
+	<PrairieDog.tools.3.label>head</PrairieDog.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<Porcupine.tools.0.label>left claw</Porcupine.tools.0.label>
+	<!-- EN: right claw -->
+	<Porcupine.tools.1.label>right claw</Porcupine.tools.1.label>
+	<!-- EN: bite -->
+	<Porcupine.tools.2.label>bite</Porcupine.tools.2.label>
+	<!-- EN: head -->
+	<Porcupine.tools.3.label>head</Porcupine.tools.3.label>
+	
+	<!-- EN: tusk -->
+	<Mastodon.tools.0.label>tusk</Mastodon.tools.0.label>
+	<!-- EN: left foot -->
+	<Mastodon.tools.1.label>left foot</Mastodon.tools.1.label>
+	<!-- EN: right foot -->
+	<Mastodon.tools.2.label>right foot</Mastodon.tools.2.label>
+	<!-- EN: head -->
+	<Mastodon.tools.3.label>head</Mastodon.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<Cat_Scimitar.tools.0.label>left claw</Cat_Scimitar.tools.0.label>
+	<!-- EN: right claw -->
+	<Cat_Scimitar.tools.1.label>right claw</Cat_Scimitar.tools.1.label>
+	<!-- EN: head -->
+	<Cat_Scimitar.tools.3.label>head</Cat_Scimitar.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<Wolverine.tools.0.label>left claw</Wolverine.tools.0.label>
+	<!-- EN: right claw -->
+	<Wolverine.tools.1.label>right claw</Wolverine.tools.1.label>
+	<!-- EN: razorfangs -->
+	<Wolverine.tools.2.label>razorfangs</Wolverine.tools.2.label>
+	<!-- EN: head -->
+	<Wolverine.tools.3.label>head</Wolverine.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<Wolf_Great.tools.0.label>left claw</Wolf_Great.tools.0.label>
+	<!-- EN: right claw -->
+	<Wolf_Great.tools.1.label>right claw</Wolf_Great.tools.1.label>
+	<!-- EN: razorfangs -->
+	<Wolf_Great.tools.2.label>razorfangs</Wolf_Great.tools.2.label>
+	<!-- EN: head -->
+	<Wolf_Great.tools.3.label>head</Wolf_Great.tools.3.label>
+	
+	<!-- EN: left hoof -->
+	<Moose.tools.0.label>left hoof</Moose.tools.0.label>
+	<!-- EN: left hoof -->
+	<Moose.tools.1.label>left hoof</Moose.tools.1.label>
+	<!-- EN: right hoof -->
+	<Moose.tools.2.label>right hoof</Moose.tools.2.label>
+	<!-- EN: right hoof -->
+	<Moose.tools.3.label>right hoof</Moose.tools.3.label>
+	<!-- EN: head -->
+	<Moose.tools.5.label>head</Moose.tools.5.label>
+	<!-- EN: antlers -->
+	<Moose.tools.6.label>antlers</Moose.tools.6.label>
+	
+	<!-- EN: head -->
+	<Muskox.tools.0.label>head</Muskox.tools.0.label>
+	<!-- EN: left hoof -->
+	<Muskox.tools.1.label>left hoof</Muskox.tools.1.label>
+	<!-- EN: left hoof -->
+	<Muskox.tools.2.label>left hoof</Muskox.tools.2.label>
+	<!-- EN: right hoof -->
+	<Muskox.tools.3.label>right hoof</Muskox.tools.3.label>
+	<!-- EN: right hoof -->
+	<Muskox.tools.4.label>right hoof</Muskox.tools.4.label>
+	
+	<!-- EN: horn -->
+	<AlphaThrumbo.tools.0.label>horn</AlphaThrumbo.tools.0.label>
+	<!-- EN: horn -->
+	<AlphaThrumbo.tools.1.label>horn</AlphaThrumbo.tools.1.label>
+	<!-- EN: left foot -->
+	<AlphaThrumbo.tools.2.label>left foot</AlphaThrumbo.tools.2.label>
+	<!-- EN: right foot -->
+	<AlphaThrumbo.tools.3.label>right foot</AlphaThrumbo.tools.3.label>
+	<!-- EN: head -->
+	<AlphaThrumbo.tools.5.label>head</AlphaThrumbo.tools.5.label>
+	
+	<!-- EN: left claw -->
+	<Tiger.tools.0.label>left claw</Tiger.tools.0.label>
+	<!-- EN: right claw -->
+	<Tiger.tools.1.label>right claw</Tiger.tools.1.label>
+	<!-- EN: head -->
+	<Tiger.tools.3.label>head</Tiger.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<Mink.tools.0.label>left claw</Mink.tools.0.label>
+	<!-- EN: right claw -->
+	<Mink.tools.1.label>right claw</Mink.tools.1.label>
+	<!-- EN: head -->
+	<Mink.tools.3.label>head</Mink.tools.3.label>
+	
+	<!-- EN: left fist -->
+	<Gorilla.tools.0.label>left fist</Gorilla.tools.0.label>
+	<!-- EN: right fist -->
+	<Gorilla.tools.1.label>right fist</Gorilla.tools.1.label>
+	<!-- EN: head -->
+	<Gorilla.tools.3.label>head</Gorilla.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<Badger.tools.0.label>left claw</Badger.tools.0.label>
+	<!-- EN: right claw -->
+	<Badger.tools.1.label>right claw</Badger.tools.1.label>
+	<!-- EN: head -->
+	<Badger.tools.3.label>head</Badger.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<Panda.tools.0.label>left claw</Panda.tools.0.label>
+	<!-- EN: right claw -->
+	<Panda.tools.1.label>right claw</Panda.tools.1.label>
+	<!-- EN: head -->
+	<Panda.tools.3.label>head</Panda.tools.3.label>
+	
+	<!-- EN: bite -->
+	<Hippo.tools.0.label>bite</Hippo.tools.0.label>
+	<!-- EN: head -->
+	<Hippo.tools.1.label>head</Hippo.tools.1.label>
+	
+	<!-- EN: left claw -->
+	<Megavole.tools.0.label>left claw</Megavole.tools.0.label>
+	<!-- EN: right claw -->
+	<Megavole.tools.1.label>right claw</Megavole.tools.1.label>
+	<!-- EN: head -->
+	<Megavole.tools.3.label>head</Megavole.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<Armadillo.tools.0.label>left claw</Armadillo.tools.0.label>
+	<!-- EN: right claw -->
+	<Armadillo.tools.1.label>right claw</Armadillo.tools.1.label>
+	<!-- EN: head -->
+	<Armadillo.tools.3.label>head</Armadillo.tools.3.label>
+	
+	<!-- EN: bite -->
+	<Alligator.tools.0.label>bite</Alligator.tools.0.label>
+	
+	<!-- EN: bite -->
+	<ColossusToad.tools.0.label>bite</ColossusToad.tools.0.label>
+	<!-- EN: head -->
+	<ColossusToad.tools.1.label>head</ColossusToad.tools.1.label>
+	
+	<!-- EN: bite -->
+	<LavaSnail.tools.0.label>bite</LavaSnail.tools.0.label>
+	<!-- EN: head -->
+	<LavaSnail.tools.1.label>head</LavaSnail.tools.1.label>
+	
+	<!-- EN: left claw -->
+	<Wolverine.tools.0.label>left claw</Wolverine.tools.0.label>
+	<!-- EN: right claw -->
+	<Wolverine.tools.1.label>right claw</Wolverine.tools.1.label>
+	<!-- EN: head -->
+	<Wolverine.tools.3.label>head</Wolverine.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<Bullfrog.tools.0.label>left claw</Bullfrog.tools.0.label>
+	<!-- EN: right claw -->
+	<Bullfrog.tools.1.label>right claw</Bullfrog.tools.1.label>
+	<!-- EN: head -->
+	<Bullfrog.tools.3.label>head</Bullfrog.tools.3.label>
+	
+	<!-- EN: left claws -->
+	<MonitorLizard.tools.0.label>left claws</MonitorLizard.tools.0.label>
+	<!-- EN: right claws -->
+	<MonitorLizard.tools.1.label>right claws</MonitorLizard.tools.1.label>
+	<!-- EN: head -->
+	<MonitorLizard.tools.3.label>head</MonitorLizard.tools.3.label>
+</LanguageData>

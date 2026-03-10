@@ -1,0 +1,12 @@
+<LanguageData>
+	<!-- ModPatches\Paniel the Automata\Defs\Paniel the Automata\Ammo_Paniel.xml -->
+	
+	<!-- EN: Paniel Howitzer shells -->
+	<AmmoSet_PanielHowitzerShell.label>Paniel Howitzer shells</AmmoSet_PanielHowitzerShell.label>
+	
+	<!-- EN: Paniel Multi-Launcher munitions -->
+	<AmmoSet_PanielLSWMulti.label>Paniel Multi-Launcher munitions</AmmoSet_PanielLSWMulti.label>
+	
+	<!-- EN: Paniel Railgun shells -->
+	<AmmoSet_PanielRailShell.label>Paniel Railgun shells</AmmoSet_PanielRailShell.label>
+</LanguageData>

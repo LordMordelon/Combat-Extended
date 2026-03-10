@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\LeFaux_RedDawnSovietMultiKit\RD_Pistols975.xml -->
+	<!-- EN: grip -->
+	<Gun_MakarovPistol.tools.0.label>grip</Gun_MakarovPistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_MakarovPistol.tools.1.label>muzzle</Gun_MakarovPistol.tools.1.label>
+	
+	<!-- EN: grip -->
+	<Gun_APSPistol.tools.0.label>grip</Gun_APSPistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_APSPistol.tools.1.label>muzzle</Gun_APSPistol.tools.1.label>
+	
+	<!-- EN: grip -->
+	<Gun_TokarevPistol.tools.0.label>grip</Gun_TokarevPistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_TokarevPistol.tools.1.label>muzzle</Gun_TokarevPistol.tools.1.label>
+</LanguageData>

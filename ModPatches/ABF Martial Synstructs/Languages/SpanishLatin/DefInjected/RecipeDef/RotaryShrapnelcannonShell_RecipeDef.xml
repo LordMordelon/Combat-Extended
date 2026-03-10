@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\ABF Martial Synstructs\Defs\ABF Martial Synstructs\Ammo\RotaryShrapnelcannonShell.xml -->
+	<!-- EN: make Shrapnelcannon (Buck) shell x10 -->
+	<MakeAmmo_RotaryShrapnelcannonShell.label>make Shrapnelcannon (Buck) shell x10</MakeAmmo_RotaryShrapnelcannonShell.label>
+	<!-- EN: Craft 10 Shrapnelcannon (Buck) shells. -->
+	<MakeAmmo_RotaryShrapnelcannonShell.description>Craft 10 Shrapnelcannon (Buck) shells.</MakeAmmo_RotaryShrapnelcannonShell.description>
+	<!-- EN: Making Shrapnelcannon (Buck) shells. -->
+	<MakeAmmo_RotaryShrapnelcannonShell.jobString>Making Shrapnelcannon (Buck) shells.</MakeAmmo_RotaryShrapnelcannonShell.jobString>
+</LanguageData>

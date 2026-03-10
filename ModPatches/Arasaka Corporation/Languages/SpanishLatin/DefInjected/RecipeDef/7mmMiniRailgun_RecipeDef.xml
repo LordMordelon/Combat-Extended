@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Arasaka Corporation\Defs\Arasaka Corporation\7mmMiniRailgun.xml -->
+	<!-- EN: make 7mm Railgun cartridge (Sabot) x500 -->
+	<MakeAmmo_7mmMiniRailgun_Sabot.label>make 7mm Railgun cartridge (Sabot) x500</MakeAmmo_7mmMiniRailgun_Sabot.label>
+	<!-- EN: Craft 500 7mm Railgun (Sabot) cartridges. -->
+	<MakeAmmo_7mmMiniRailgun_Sabot.description>Craft 500 7mm Railgun (Sabot) cartridges.</MakeAmmo_7mmMiniRailgun_Sabot.description>
+	<!-- EN: Making 7mm Railgun (Sabot) cartridges. -->
+	<MakeAmmo_7mmMiniRailgun_Sabot.jobString>Making 7mm Railgun (Sabot) cartridges.</MakeAmmo_7mmMiniRailgun_Sabot.jobString>
+</LanguageData>

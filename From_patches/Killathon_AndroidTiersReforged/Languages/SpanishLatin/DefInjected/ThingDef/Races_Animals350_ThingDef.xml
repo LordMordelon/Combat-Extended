@@ -1,0 +1,37 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Killathon_AndroidTiersReforged\Races_Animals350.xml -->
+	<!-- EN: left wing -->
+	<ATR_MicroScyther.tools.0.label>left wing</ATR_MicroScyther.tools.0.label>
+	<!-- EN: right wing -->
+	<ATR_MicroScyther.tools.1.label>right wing</ATR_MicroScyther.tools.1.label>
+	<!-- EN: head -->
+	<ATR_MicroScyther.tools.2.label>head</ATR_MicroScyther.tools.2.label>
+	
+	<!-- EN: head -->
+	<ATR_DroneChemUnit.tools.0.label>head</ATR_DroneChemUnit.tools.0.label>
+	
+	<!-- EN: left fist -->
+	<ATR_FractalAbomination.tools.0.label>left fist</ATR_FractalAbomination.tools.0.label>
+	<!-- EN: right fist -->
+	<ATR_FractalAbomination.tools.1.label>right fist</ATR_FractalAbomination.tools.1.label>
+	<!-- EN: head -->
+	<ATR_FractalAbomination.tools.2.label>head</ATR_FractalAbomination.tools.2.label>
+	<!-- EN: fractal lance -->
+	<ATR_FractalAbomination.tools.4.label>fractal lance</ATR_FractalAbomination.tools.4.label>
+	
+	<!-- EN: head -->
+	<ATR_DroneMineralUnit.tools.0.label>head</ATR_DroneMineralUnit.tools.0.label>
+	
+	<!-- EN: head -->
+	<ATR_DroneNutritionUnit.tools.0.label>head</ATR_DroneNutritionUnit.tools.0.label>
+	
+	<!-- EN: head -->
+	<ATR_DroneTORT.tools.0.label>head</ATR_DroneTORT.tools.0.label>
+	
+	<!-- EN: left claw -->
+	<ATR_DroneWatchdog.tools.0.label>left claw</ATR_DroneWatchdog.tools.0.label>
+	<!-- EN: right claw -->
+	<ATR_DroneWatchdog.tools.1.label>right claw</ATR_DroneWatchdog.tools.1.label>
+	<!-- EN: head -->
+	<ATR_DroneWatchdog.tools.3.label>head</ATR_DroneWatchdog.tools.3.label>
+</LanguageData>

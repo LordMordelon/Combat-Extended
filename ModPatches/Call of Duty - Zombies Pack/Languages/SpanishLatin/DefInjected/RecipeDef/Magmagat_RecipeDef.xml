@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Blunders\Magmagat.xml -->
+	
+	<!-- EN: make Magmagat (Buck) shell x20 -->
+	<MakeAmmo_Magmagat_Buck.label>make Magmagat (Buck) shell x20</MakeAmmo_Magmagat_Buck.label>
+	<!-- EN: Craft 20 Magmagat (Buck) shells . -->
+	<MakeAmmo_Magmagat_Buck.description>Craft 20 Magmagat (Buck) shells .</MakeAmmo_Magmagat_Buck.description>
+	<!-- EN: Making Magmagat (Buck) shells. -->
+	<MakeAmmo_Magmagat_Buck.jobString>Making Magmagat (Buck) shells.</MakeAmmo_Magmagat_Buck.jobString>
+	
+	<!-- EN: make Magmagat (Slug) shell x20 -->
+	<MakeAmmo_Magmagat_Slug.label>make Magmagat (Slug) shell x20</MakeAmmo_Magmagat_Slug.label>
+	<!-- EN: Craft 20 Magmagat (Slug) shells . -->
+	<MakeAmmo_Magmagat_Slug.description>Craft 20 Magmagat (Slug) shells .</MakeAmmo_Magmagat_Slug.description>
+	<!-- EN: Making Magmagat (Slug) shells. -->
+	<MakeAmmo_Magmagat_Slug.jobString>Making Magmagat (Slug) shells.</MakeAmmo_Magmagat_Slug.jobString>
+</LanguageData>

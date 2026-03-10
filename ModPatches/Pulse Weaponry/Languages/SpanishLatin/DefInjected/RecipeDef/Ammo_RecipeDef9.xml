@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Pulse Weaponry\Defs\Pulse Weaponry\Ammo.xml -->
+	<!-- EN: make combine pulse pack x500 -->
+	<MakeAmmo_DEpulsePack.label>make combine pulse pack x500</MakeAmmo_DEpulsePack.label>
+	<!-- EN: Craft 500 combine pulse pack. -->
+	<MakeAmmo_DEpulsePack.description>Craft 500 combine pulse pack.</MakeAmmo_DEpulsePack.description>
+	<!-- EN: Making combine pulse pack. -->
+	<MakeAmmo_DEpulsePack.jobString>Making combine pulse pack.</MakeAmmo_DEpulsePack.jobString>
+</LanguageData>

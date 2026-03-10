@@ -1,0 +1,152 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\ALIEN_CensoredArmory\Weapons_Guns630.xml -->
+	<!-- EN: grip -->
+	<Gun_P08_RA.tools.0.label>grip</Gun_P08_RA.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_P08_RA.tools.1.label>muzzle</Gun_P08_RA.tools.1.label>
+	
+	<!-- EN: grip -->
+	<Gun_P38_RA.tools.0.label>grip</Gun_P38_RA.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_P38_RA.tools.1.label>muzzle</Gun_P38_RA.tools.1.label>
+	
+	<!-- EN: grip -->
+	<Gun_PPK_RA.tools.0.label>grip</Gun_PPK_RA.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_PPK_RA.tools.1.label>muzzle</Gun_PPK_RA.tools.1.label>
+	
+	<!-- EN: grip -->
+	<Gun_Volkspistole_RA.tools.0.label>grip</Gun_Volkspistole_RA.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_Volkspistole_RA.tools.1.label>muzzle</Gun_Volkspistole_RA.tools.1.label>
+	
+	<!-- EN: stock -->
+	<Gun_StG_44_Scope_RA.tools.0.label>stock</Gun_StG_44_Scope_RA.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_StG_44_Scope_RA.tools.1.label>barrel</Gun_StG_44_Scope_RA.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_StG_44_Scope_RA.tools.2.label>muzzle</Gun_StG_44_Scope_RA.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_StG_44_RA.tools.0.label>stock</Gun_StG_44_RA.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_StG_44_RA.tools.1.label>barrel</Gun_StG_44_RA.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_StG_44_RA.tools.2.label>muzzle</Gun_StG_44_RA.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_FG_42_RA.tools.0.label>stock</Gun_FG_42_RA.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_FG_42_RA.tools.1.label>barrel</Gun_FG_42_RA.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_FG_42_RA.tools.2.label>muzzle</Gun_FG_42_RA.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_MP_507_RA.tools.0.label>stock</Gun_MP_507_RA.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_MP_507_RA.tools.1.label>barrel</Gun_MP_507_RA.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_MP_507_RA.tools.2.label>muzzle</Gun_MP_507_RA.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_MP_40_RA.tools.0.label>stock</Gun_MP_40_RA.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_MP_40_RA.tools.1.label>barrel</Gun_MP_40_RA.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_MP_40_RA.tools.2.label>muzzle</Gun_MP_40_RA.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_MP_35_RA.tools.0.label>stock</Gun_MP_35_RA.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_MP_35_RA.tools.1.label>barrel</Gun_MP_35_RA.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_MP_35_RA.tools.2.label>muzzle</Gun_MP_35_RA.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_MP_3008_RA.tools.0.label>stock</Gun_MP_3008_RA.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_MP_3008_RA.tools.1.label>barrel</Gun_MP_3008_RA.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_MP_3008_RA.tools.2.label>muzzle</Gun_MP_3008_RA.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_MG_42_RA.tools.0.label>stock</Gun_MG_42_RA.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_MG_42_RA.tools.1.label>barrel</Gun_MG_42_RA.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_MG_42_RA.tools.2.label>muzzle</Gun_MG_42_RA.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_MG_34_RA.tools.0.label>stock</Gun_MG_34_RA.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_MG_34_RA.tools.1.label>barrel</Gun_MG_34_RA.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_MG_34_RA.tools.2.label>muzzle</Gun_MG_34_RA.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_Kar98K_Sniper_RA.tools.0.label>stock</Gun_Kar98K_Sniper_RA.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_Kar98K_Sniper_RA.tools.1.label>barrel</Gun_Kar98K_Sniper_RA.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_Kar98K_Sniper_RA.tools.2.label>muzzle</Gun_Kar98K_Sniper_RA.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_Kar98K_Schiessbecher_RA.tools.0.label>stock</Gun_Kar98K_Schiessbecher_RA.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_Kar98K_Schiessbecher_RA.tools.1.label>barrel</Gun_Kar98K_Schiessbecher_RA.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_Kar98K_Schiessbecher_RA.tools.2.label>muzzle</Gun_Kar98K_Schiessbecher_RA.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_Kar98K_RA.tools.0.label>stock</Gun_Kar98K_RA.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_Kar98K_RA.tools.1.label>barrel</Gun_Kar98K_RA.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_Kar98K_RA.tools.2.label>muzzle</Gun_Kar98K_RA.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_VG1_RA.tools.0.label>stock</Gun_VG1_RA.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_VG1_RA.tools.1.label>barrel</Gun_VG1_RA.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_VG1_RA.tools.2.label>muzzle</Gun_VG1_RA.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_Gew_Scope_43_RA.tools.0.label>stock</Gun_Gew_Scope_43_RA.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_Gew_Scope_43_RA.tools.1.label>barrel</Gun_Gew_Scope_43_RA.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_Gew_Scope_43_RA.tools.2.label>muzzle</Gun_Gew_Scope_43_RA.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_Gew_43_RA.tools.0.label>stock</Gun_Gew_43_RA.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_Gew_43_RA.tools.1.label>barrel</Gun_Gew_43_RA.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_Gew_43_RA.tools.2.label>muzzle</Gun_Gew_43_RA.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_PzB_39_RA.tools.0.label>stock</Gun_PzB_39_RA.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_PzB_39_RA.tools.1.label>barrel</Gun_PzB_39_RA.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_PzB_39_RA.tools.2.label>muzzle</Gun_PzB_39_RA.tools.2.label>
+	
+	<!-- EN: barrel -->
+	<Gun_Panzerfaust_60_RA.tools.0.label>barrel</Gun_Panzerfaust_60_RA.tools.0.label>
+	
+	<!-- EN: barrel -->
+	<Gun_Eintossflammenwerfer_46_RA.tools.0.label>barrel</Gun_Eintossflammenwerfer_46_RA.tools.0.label>
+	
+	<!-- EN: stock -->
+	<Gun_Kar98K_Bayonet_RA.tools.0.label>stock</Gun_Kar98K_Bayonet_RA.tools.0.label>
+	<!-- EN: bayonet -->
+	<Gun_Kar98K_Bayonet_RA.tools.1.label>bayonet</Gun_Kar98K_Bayonet_RA.tools.1.label>
+	<!-- EN: bayonet -->
+	<Gun_Kar98K_Bayonet_RA.tools.2.label>bayonet</Gun_Kar98K_Bayonet_RA.tools.2.label>
+	
+	<!-- EN: M24 concussion grenade -->
+	<Weapon_M24_RA.label>M24 concussion grenade</Weapon_M24_RA.label>
+	<!-- EN: throw concussion grenade -->
+	<Weapon_M24_RA.Properties.label>throw concussion grenade</Weapon_M24_RA.Properties.label>
+</LanguageData>

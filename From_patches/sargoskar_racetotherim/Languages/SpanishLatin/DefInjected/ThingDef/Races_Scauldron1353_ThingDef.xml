@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\sargoskar_racetotherim\Races_Scauldron1353.xml -->
+	<!-- EN: left claw -->
+	<RttR_Scauldron.tools.0.label>left claw</RttR_Scauldron.tools.0.label>
+	<!-- EN: right claw -->
+	<RttR_Scauldron.tools.1.label>right claw</RttR_Scauldron.tools.1.label>
+	<!-- EN: head -->
+	<RttR_Scauldron.tools.3.label>head</RttR_Scauldron.tools.3.label>
+	<!-- EN: ㅤ -->
+	<RttR_Scauldron.verbs.0.label>ㅤ</RttR_Scauldron.verbs.0.label>
+</LanguageData>

@@ -1,0 +1,10 @@
+<LanguageData>
+	<!-- ModPatches\Mantodean Insectoid Race\Defs\Mantodean Insectoid Race\Ammo_Manto.xml -->
+	
+	<!-- EN: make mantodean toxic gel x100 -->
+	<MakeAmmo_Mantogel.label>make mantodean toxic gel x100</MakeAmmo_Mantogel.label>
+	<!-- EN: Craft 100 mantodean toxic gel. -->
+	<MakeAmmo_Mantogel.description>Craft 100 mantodean toxic gel.</MakeAmmo_Mantogel.description>
+	<!-- EN: Making mantodean toxic gel. -->
+	<MakeAmmo_Mantogel.jobString>Making mantodean toxic gel.</MakeAmmo_Mantogel.jobString>
+</LanguageData>

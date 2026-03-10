@@ -1,0 +1,57 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\FS_ReviaRaceBiotech\Weapons_Guns1401.xml -->
+	<!-- EN: point -->
+	<ReviaThrowingKnife.tools.0.label>point</ReviaThrowingKnife.tools.0.label>
+	<!-- EN: blade -->
+	<ReviaThrowingKnife.tools.1.label>blade</ReviaThrowingKnife.tools.1.label>
+	
+	<!-- EN: handle -->
+	<ReviaSerratedDagger.tools.0.label>handle</ReviaSerratedDagger.tools.0.label>
+	<!-- EN: point -->
+	<ReviaSerratedDagger.tools.1.label>point</ReviaSerratedDagger.tools.1.label>
+	<!-- EN: edge -->
+	<ReviaSerratedDagger.tools.2.label>edge</ReviaSerratedDagger.tools.2.label>
+	
+	<!-- EN: handle -->
+	<ReviaBlessedSerratedDagger.tools.0.label>handle</ReviaBlessedSerratedDagger.tools.0.label>
+	<!-- EN: point -->
+	<ReviaBlessedSerratedDagger.tools.1.label>point</ReviaBlessedSerratedDagger.tools.1.label>
+	<!-- EN: edge -->
+	<ReviaBlessedSerratedDagger.tools.2.label>edge</ReviaBlessedSerratedDagger.tools.2.label>
+	
+	<!-- EN: handle -->
+	<ReviaSerratedSword.tools.0.label>handle</ReviaSerratedSword.tools.0.label>
+	<!-- EN: point -->
+	<ReviaSerratedSword.tools.1.label>point</ReviaSerratedSword.tools.1.label>
+	<!-- EN: edge -->
+	<ReviaSerratedSword.tools.2.label>edge</ReviaSerratedSword.tools.2.label>
+	
+	<!-- EN: handle -->
+	<ReviaBlessedSerratedSword.tools.0.label>handle</ReviaBlessedSerratedSword.tools.0.label>
+	<!-- EN: point -->
+	<ReviaBlessedSerratedSword.tools.1.label>point</ReviaBlessedSerratedSword.tools.1.label>
+	<!-- EN: edge -->
+	<ReviaBlessedSerratedSword.tools.2.label>edge</ReviaBlessedSerratedSword.tools.2.label>
+	
+	<!-- EN: handle -->
+	<ReviaSerratedScythe.tools.0.label>handle</ReviaSerratedScythe.tools.0.label>
+	<!-- EN: edge -->
+	<ReviaSerratedScythe.tools.1.label>edge</ReviaSerratedScythe.tools.1.label>
+	
+	<!-- EN: handle -->
+	<ReviaWarPick.tools.0.label>handle</ReviaWarPick.tools.0.label>
+	<!-- EN: head -->
+	<ReviaWarPick.tools.1.label>head</ReviaWarPick.tools.1.label>
+	<!-- EN: edge -->
+	<ReviaWarPick.tools.2.label>edge</ReviaWarPick.tools.2.label>
+	
+	<!-- EN: handle -->
+	<ReviaBlessedSerratedScythe.tools.0.label>handle</ReviaBlessedSerratedScythe.tools.0.label>
+	<!-- EN: edge -->
+	<ReviaBlessedSerratedScythe.tools.1.label>edge</ReviaBlessedSerratedScythe.tools.1.label>
+	
+	<!-- EN: handle -->
+	<ReviaChainSword.tools.0.label>handle</ReviaChainSword.tools.0.label>
+	<!-- EN: teeth -->
+	<ReviaChainSword.tools.1.label>teeth</ReviaChainSword.tools.1.label>
+</LanguageData>

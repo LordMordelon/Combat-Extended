@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- Defs\Ammo\Rocket\RPG7.xml -->
+	
+	<!-- EN: RPG-7 grenade (HEAT) -->
+	<Ammo_RPG7Grenade_HEAT.label>RPG-7 grenade (HEAT)</Ammo_RPG7Grenade_HEAT.label>
+	<!-- EN: Rocket-propelled missile designed for the ML-77. After being fired a rocket motor kicks in to propel the grenade further. -->
+	<Ammo_RPG7Grenade_HEAT.description>Rocket-propelled missile designed for the ML-77. After being fired a rocket motor kicks in to propel the grenade further.</Ammo_RPG7Grenade_HEAT.description>
+	
+	<!-- EN: RPG-7 grenade (Thermobaric) -->
+	<Ammo_RPG7Grenade_Thermobaric.label>RPG-7 grenade (Thermobaric)</Ammo_RPG7Grenade_Thermobaric.label>
+	<!-- EN: Rocket-propelled missile designed for the ML-77. After being fired a rocket motor kicks in to propel the grenade further. -->
+	<Ammo_RPG7Grenade_Thermobaric.description>Rocket-propelled missile designed for the ML-77. After being fired a rocket motor kicks in to propel the grenade further.</Ammo_RPG7Grenade_Thermobaric.description>
+	
+	<!-- EN: RPG-7 grenade (Frag) -->
+	<Ammo_RPG7Grenade_Frag.label>RPG-7 grenade (Frag)</Ammo_RPG7Grenade_Frag.label>
+	<!-- EN: Rocket-propelled missile designed for the ML-77. After being fired a rocket motor kicks in to propel the grenade further. -->
+	<Ammo_RPG7Grenade_Frag.description>Rocket-propelled missile designed for the ML-77. After being fired a rocket motor kicks in to propel the grenade further.</Ammo_RPG7Grenade_Frag.description>
+	
+	<!-- EN: RPG-7 grenade (HEAT) -->
+	<Bullet_RPG7Grenade_HEAT.label>RPG-7 grenade (HEAT)</Bullet_RPG7Grenade_HEAT.label>
+	
+	<!-- EN: RPG-7 grenade (Thermobaric) -->
+	<Bullet_RPG7Grenade_Thermobaric.label>RPG-7 grenade (Thermobaric)</Bullet_RPG7Grenade_Thermobaric.label>
+	
+	<!-- EN: RPG-7 grenade (Frag) -->
+	<Bullet_RPG7Grenade_Frag.label>RPG-7 grenade (Frag)</Bullet_RPG7Grenade_Frag.label>
+</LanguageData>

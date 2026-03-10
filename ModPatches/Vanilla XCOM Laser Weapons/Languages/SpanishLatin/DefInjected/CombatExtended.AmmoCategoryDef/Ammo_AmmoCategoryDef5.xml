@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla XCOM Laser Weapons\Defs\Vanilla XCOM Laser Weapons\Ammo.xml -->
+	<!-- EN: laser -->
+	<XCOM_Laser.label>laser</XCOM_Laser.label>
+	<!-- EN: laser -->
+	<XCOM_Laser.labelShort>laser</XCOM_Laser.labelShort>
+	<!-- EN: Batteries and reagents that can power a chemlaser emitter. The reagents generates laser at visible wavelengths. -->
+	<XCOM_Laser.description>Batteries and reagents that can power a chemlaser emitter. The reagents generates laser at visible wavelengths.</XCOM_Laser.description>
+	<!-- EN: infrared laser -->
+	<XCOM_LaserInc.label>infrared laser</XCOM_LaserInc.label>
+	<!-- EN: IR laser -->
+	<XCOM_LaserInc.labelShort>IR laser</XCOM_LaserInc.labelShort>
+	<!-- EN: Batteries and reagents that can power a chemlaser emitter. The reagents generates laser at infrared wavelengths, causing burns and start fires. -->
+	<XCOM_LaserInc.description>Batteries and reagents that can power a chemlaser emitter. The reagents generates laser at infrared wavelengths, causing burns and start fires.</XCOM_LaserInc.description>
+	<!-- EN: untraviolet laser -->
+	<XCOM_LaserHP.label>untraviolet laser</XCOM_LaserHP.label>
+	<!-- EN: UV laser -->
+	<XCOM_LaserHP.labelShort>UV laser</XCOM_LaserHP.labelShort>
+	<!-- EN: Batteries and reagents that can power a chemlaser emitter. The reagents generates laser at untraviolet wavelengths, delivering more energy and causing more damage. -->
+	<XCOM_LaserHP.description>Batteries and reagents that can power a chemlaser emitter. The reagents generates laser at untraviolet wavelengths, delivering more energy and causing more damage.</XCOM_LaserHP.description>
+	<!-- EN: EM laser -->
+	<XCOM_LaserEMP.label>EM laser</XCOM_LaserEMP.label>
+	<!-- EN: EM laser -->
+	<XCOM_LaserEMP.labelShort>EM laser</XCOM_LaserEMP.labelShort>
+	<!-- EN: Batteries and reagents that can power a chemlaser emitter. The reagents generates laser at radio wavelengths, disrupting electronic systems. -->
+	<XCOM_LaserEMP.description>Batteries and reagents that can power a chemlaser emitter. The reagents generates laser at radio wavelengths, disrupting electronic systems.</XCOM_LaserEMP.description>
+</LanguageData>

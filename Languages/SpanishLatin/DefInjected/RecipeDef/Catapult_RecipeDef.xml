@@ -1,0 +1,10 @@
+<LanguageData>
+	<!-- Defs\Ammo\Medieval\Catapult.xml -->
+	
+	<!-- EN: Cutting stone blocks from chunk. -->
+	<MakeAmmo_Catapult_Boulder.jobString>Cutting stone blocks from chunk.</MakeAmmo_Catapult_Boulder.jobString>
+	<!-- EN: cut stone chunk into boulder -->
+	<MakeAmmo_Catapult_Boulder.label>cut stone chunk into boulder</MakeAmmo_Catapult_Boulder.label>
+	<!-- EN: Cuts a stone chunk down to size to be thrown by a siege engine. -->
+	<MakeAmmo_Catapult_Boulder.description>Cuts a stone chunk down to size to be thrown by a siege engine.</MakeAmmo_Catapult_Boulder.description>
+</LanguageData>

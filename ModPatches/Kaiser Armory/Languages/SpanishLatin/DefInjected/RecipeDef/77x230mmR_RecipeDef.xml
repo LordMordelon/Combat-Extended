@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- ModPatches\Kaiser Armory\Defs\Kaiser Armory\77x230mmR.xml -->
+	
+	<!-- EN: make 77x230mmR HE cannon shells x5 -->
+	<MakeAmmo_77x230mmRCannonShell_HE.label>make 77x230mmR HE cannon shells x5</MakeAmmo_77x230mmRCannonShell_HE.label>
+	<!-- EN: Craft 5 77x230mmR HE cannon shells. -->
+	<MakeAmmo_77x230mmRCannonShell_HE.description>Craft 5 77x230mmR HE cannon shells.</MakeAmmo_77x230mmRCannonShell_HE.description>
+	<!-- EN: Making 77x230mmR HE cannon shells. -->
+	<MakeAmmo_77x230mmRCannonShell_HE.jobString>Making 77x230mmR HE cannon shells.</MakeAmmo_77x230mmRCannonShell_HE.jobString>
+	
+	<!-- EN: make 77x230mmR EMP cannon shells x5 -->
+	<MakeAmmo_77x230mmRCannonShell_EMP.label>make 77x230mmR EMP cannon shells x5</MakeAmmo_77x230mmRCannonShell_EMP.label>
+	<!-- EN: Craft 5 77x230mmR EMP cannon shells. -->
+	<MakeAmmo_77x230mmRCannonShell_EMP.description>Craft 5 77x230mmR EMP cannon shells.</MakeAmmo_77x230mmRCannonShell_EMP.description>
+	<!-- EN: Making 77x230mmR EMP cannon shells. -->
+	<MakeAmmo_77x230mmRCannonShell_EMP.jobString>Making 77x230mmR EMP cannon shells.</MakeAmmo_77x230mmRCannonShell_EMP.jobString>
+</LanguageData>

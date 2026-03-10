@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\HappyPurging_AgeofDarkness\40K_Vehicles_Predator827.xml -->
+	<!-- EN: Single -->
+	<GW_Predator_MainTurret.fireModes.0.label>Single</GW_Predator_MainTurret.fireModes.0.label>
+	<!-- EN: Burst -->
+	<GW_Predator_MainTurret.fireModes.1.label>Burst</GW_Predator_MainTurret.fireModes.1.label>
+	<!-- EN: Auto -->
+	<GW_Predator_MainTurret.fireModes.2.label>Auto</GW_Predator_MainTurret.fireModes.2.label>
+</LanguageData>

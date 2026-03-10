@@ -1,0 +1,38 @@
+<LanguageData>
+	<!-- Defs\Ammo\HighCaliber\50BMG.xml -->
+	
+	<!-- EN: make .50 BMG (FMJ) cartridge x200 -->
+	<MakeAmmo_50BMG_FMJ.label>make .50 BMG (FMJ) cartridge x200</MakeAmmo_50BMG_FMJ.label>
+	<!-- EN: Craft 200 .50 BMG (FMJ) cartridges. -->
+	<MakeAmmo_50BMG_FMJ.description>Craft 200 .50 BMG (FMJ) cartridges.</MakeAmmo_50BMG_FMJ.description>
+	<!-- EN: Making .50 BMG (FMJ) cartridges. -->
+	<MakeAmmo_50BMG_FMJ.jobString>Making .50 BMG (FMJ) cartridges.</MakeAmmo_50BMG_FMJ.jobString>
+	
+	<!-- EN: make .50 BMG (AP) cartridge x200 -->
+	<MakeAmmo_50BMG_AP.label>make .50 BMG (AP) cartridge x200</MakeAmmo_50BMG_AP.label>
+	<!-- EN: Craft 200 .50 BMG (AP) cartridges. -->
+	<MakeAmmo_50BMG_AP.description>Craft 200 .50 BMG (AP) cartridges.</MakeAmmo_50BMG_AP.description>
+	<!-- EN: Making .50 BMG (AP) cartridges. -->
+	<MakeAmmo_50BMG_AP.jobString>Making .50 BMG (AP) cartridges.</MakeAmmo_50BMG_AP.jobString>
+	
+	<!-- EN: make .50 BMG (AP-I) cartridge x200 -->
+	<MakeAmmo_50BMG_Incendiary.label>make .50 BMG (AP-I) cartridge x200</MakeAmmo_50BMG_Incendiary.label>
+	<!-- EN: Craft 200 .50 BMG (AP-I) cartridges. -->
+	<MakeAmmo_50BMG_Incendiary.description>Craft 200 .50 BMG (AP-I) cartridges.</MakeAmmo_50BMG_Incendiary.description>
+	<!-- EN: Making .50 BMG (AP-I) cartridges. -->
+	<MakeAmmo_50BMG_Incendiary.jobString>Making .50 BMG (AP-I) cartridges.</MakeAmmo_50BMG_Incendiary.jobString>
+	
+	<!-- EN: make .50 BMG (AP-HE) cartridge x200 -->
+	<MakeAmmo_50BMG_HE.label>make .50 BMG (AP-HE) cartridge x200</MakeAmmo_50BMG_HE.label>
+	<!-- EN: Craft 200 .50 BMG (AP-HE) cartridges. -->
+	<MakeAmmo_50BMG_HE.description>Craft 200 .50 BMG (AP-HE) cartridges.</MakeAmmo_50BMG_HE.description>
+	<!-- EN: Making .50 BMG (AP-HE) cartridges. -->
+	<MakeAmmo_50BMG_HE.jobString>Making .50 BMG (AP-HE) cartridges.</MakeAmmo_50BMG_HE.jobString>
+	
+	<!-- EN: make .50 BMG (Sabot) cartridge x200 -->
+	<MakeAmmo_50BMG_Sabot.label>make .50 BMG (Sabot) cartridge x200</MakeAmmo_50BMG_Sabot.label>
+	<!-- EN: Craft 200 .50 BMG (Sabot) cartridges. -->
+	<MakeAmmo_50BMG_Sabot.description>Craft 200 .50 BMG (Sabot) cartridges.</MakeAmmo_50BMG_Sabot.description>
+	<!-- EN: Making .50 BMG (Sabot) cartridges. -->
+	<MakeAmmo_50BMG_Sabot.jobString>Making .50 BMG (Sabot) cartridges.</MakeAmmo_50BMG_Sabot.jobString>
+</LanguageData>

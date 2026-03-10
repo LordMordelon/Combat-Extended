@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\sargoskar_witcherhunt\Races_KikimoreCE1476.xml -->
+	<!-- EN: head -->
+	<WMAux_KikimoreWorker.tools.0.label>head</WMAux_KikimoreWorker.tools.0.label>
+	<!-- EN: mandibles -->
+	<WMAux_KikimoreWorker.tools.1.label>mandibles</WMAux_KikimoreWorker.tools.1.label>
+	
+	<!-- EN: head -->
+	<WMAux_KikimoreWarrior.tools.0.label>head</WMAux_KikimoreWarrior.tools.0.label>
+	<!-- EN: mandibles -->
+	<WMAux_KikimoreWarrior.tools.1.label>mandibles</WMAux_KikimoreWarrior.tools.1.label>
+	
+	<!-- EN: mandibles -->
+	<WMH_KikimoreQueen.tools.1.label>mandibles</WMH_KikimoreQueen.tools.1.label>
+</LanguageData>

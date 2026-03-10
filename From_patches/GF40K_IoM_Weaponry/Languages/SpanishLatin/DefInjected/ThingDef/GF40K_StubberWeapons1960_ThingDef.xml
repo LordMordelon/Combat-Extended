@@ -1,0 +1,40 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\GF40K_IoM_Weaponry\GF40K_StubberWeapons1960.xml -->
+	<!-- EN: grip -->
+	<GF40K_StubShotgun.tools.0.label>grip</GF40K_StubShotgun.tools.0.label>
+	<!-- EN: muzzle -->
+	<GF40K_StubShotgun.tools.1.label>muzzle</GF40K_StubShotgun.tools.1.label>
+	
+	<!-- EN: grip -->
+	<GF40K_StubCarbine.tools.0.label>grip</GF40K_StubCarbine.tools.0.label>
+	<!-- EN: muzzle -->
+	<GF40K_StubCarbine.tools.1.label>muzzle</GF40K_StubCarbine.tools.1.label>
+	
+	<!-- EN: grip -->
+	<GF40K_StubPistol.tools.0.label>grip</GF40K_StubPistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<GF40K_StubPistol.tools.1.label>muzzle</GF40K_StubPistol.tools.1.label>
+	
+	<!-- EN: grip -->
+	<GF40K_StubSniper.tools.0.label>grip</GF40K_StubSniper.tools.0.label>
+	<!-- EN: muzzle -->
+	<GF40K_StubSniper.tools.1.label>muzzle</GF40K_StubSniper.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<GF40K_StubHMG.tools.0.label>barrel</GF40K_StubHMG.tools.0.label>
+	
+	<!-- EN: ㅤ -->
+	<GF40K_StubShotgun.verbs.0.label>ㅤ</GF40K_StubShotgun.verbs.0.label>
+	
+	<!-- EN: ㅤ -->
+	<GF40K_StubHMG.verbs.0.label>ㅤ</GF40K_StubHMG.verbs.0.label>
+	
+	<!-- EN: ㅤ -->
+	<GF40K_StubCarbine.verbs.0.label>ㅤ</GF40K_StubCarbine.verbs.0.label>
+	
+	<!-- EN: ㅤ -->
+	<GF40K_StubSniper.verbs.0.label>ㅤ</GF40K_StubSniper.verbs.0.label>
+	
+	<!-- EN: ㅤ -->
+	<GF40K_StubPistol.verbs.0.label>ㅤ</GF40K_StubPistol.verbs.0.label>
+</LanguageData>

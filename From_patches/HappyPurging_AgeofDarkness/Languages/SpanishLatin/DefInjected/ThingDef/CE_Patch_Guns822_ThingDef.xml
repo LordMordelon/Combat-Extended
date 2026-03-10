@@ -1,0 +1,110 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\HappyPurging_AgeofDarkness\CE_Patch_Guns822.xml -->
+	<!-- EN: barrel -->
+	<GW_AOD_PlasmaGun.tools.0.label>barrel</GW_AOD_PlasmaGun.tools.0.label>
+	<!-- EN: stock -->
+	<GW_AOD_PlasmaGun.tools.1.label>stock</GW_AOD_PlasmaGun.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<GW_AOD_Plasma_Incinerator.tools.0.label>barrel</GW_AOD_Plasma_Incinerator.tools.0.label>
+	<!-- EN: stock -->
+	<GW_AOD_Plasma_Incinerator.tools.1.label>stock</GW_AOD_Plasma_Incinerator.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<GW_AOD_MeltaGun.tools.0.label>barrel</GW_AOD_MeltaGun.tools.0.label>
+	<!-- EN: stock -->
+	<GW_AOD_MeltaGun.tools.1.label>stock</GW_AOD_MeltaGun.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<GW_AOD_Multimelta.tools.0.label>barrel</GW_AOD_Multimelta.tools.0.label>
+	<!-- EN: stock -->
+	<GW_AOD_Multimelta.tools.1.label>stock</GW_AOD_Multimelta.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<GW_AOD_Bolter_Gun_Bolter.tools.0.label>barrel</GW_AOD_Bolter_Gun_Bolter.tools.0.label>
+	<!-- EN: stock -->
+	<GW_AOD_Bolter_Gun_Bolter.tools.1.label>stock</GW_AOD_Bolter_Gun_Bolter.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<GW_AOD_Executor_Bolt_Rifle.tools.0.label>barrel</GW_AOD_Executor_Bolt_Rifle.tools.0.label>
+	<!-- EN: stock -->
+	<GW_AOD_Executor_Bolt_Rifle.tools.1.label>stock</GW_AOD_Executor_Bolt_Rifle.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<GW_AOD_HeavyBolter.tools.0.label>barrel</GW_AOD_HeavyBolter.tools.0.label>
+	<!-- EN: stock -->
+	<GW_AOD_HeavyBolter.tools.1.label>stock</GW_AOD_HeavyBolter.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<GW_AOD_AstartesShotgun.tools.0.label>barrel</GW_AOD_AstartesShotgun.tools.0.label>
+	<!-- EN: stock -->
+	<GW_AOD_AstartesShotgun.tools.1.label>stock</GW_AOD_AstartesShotgun.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<GW_AOD_DeathwatchShotgun.tools.0.label>barrel</GW_AOD_DeathwatchShotgun.tools.0.label>
+	<!-- EN: stock -->
+	<GW_AOD_DeathwatchShotgun.tools.1.label>stock</GW_AOD_DeathwatchShotgun.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<GW_AOD_SniperRifle.tools.0.label>barrel</GW_AOD_SniperRifle.tools.0.label>
+	<!-- EN: stock -->
+	<GW_AOD_SniperRifle.tools.1.label>stock</GW_AOD_SniperRifle.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<GW_SM_Gun_GravRifle.tools.0.label>barrel</GW_SM_Gun_GravRifle.tools.0.label>
+	<!-- EN: stock -->
+	<GW_SM_Gun_GravRifle.tools.1.label>stock</GW_SM_Gun_GravRifle.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<GW_SM_Gun_GravPistol.tools.0.label>barrel</GW_SM_Gun_GravPistol.tools.0.label>
+	<!-- EN: stock -->
+	<GW_SM_Gun_GravPistol.tools.1.label>stock</GW_SM_Gun_GravPistol.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<GW_AOD_Gun_BoltPistol.tools.0.label>barrel</GW_AOD_Gun_BoltPistol.tools.0.label>
+	<!-- EN: stock -->
+	<GW_AOD_Gun_BoltPistol.tools.1.label>stock</GW_AOD_Gun_BoltPistol.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<GW_AOD_HeavyBoltPistol.tools.0.label>barrel</GW_AOD_HeavyBoltPistol.tools.0.label>
+	<!-- EN: stock -->
+	<GW_AOD_HeavyBoltPistol.tools.1.label>stock</GW_AOD_HeavyBoltPistol.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<GW_AOD_InfernoPistol.tools.0.label>barrel</GW_AOD_InfernoPistol.tools.0.label>
+	<!-- EN: stock -->
+	<GW_AOD_InfernoPistol.tools.1.label>stock</GW_AOD_InfernoPistol.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<GW_AOD_PlasmaPistol.tools.0.label>barrel</GW_AOD_PlasmaPistol.tools.0.label>
+	<!-- EN: stock -->
+	<GW_AOD_PlasmaPistol.tools.1.label>stock</GW_AOD_PlasmaPistol.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<GW_AOD_RocketLauncher.tools.0.label>barrel</GW_AOD_RocketLauncher.tools.0.label>
+	<!-- EN: stock -->
+	<GW_AOD_RocketLauncher.tools.1.label>stock</GW_AOD_RocketLauncher.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<GW_AOD_Gun_AssualtCannon.tools.0.label>barrel</GW_AOD_Gun_AssualtCannon.tools.0.label>
+	
+	<!-- EN: barrel -->
+	<GW_AOD_Gun_AstartesPlasmaCannon.tools.0.label>barrel</GW_AOD_Gun_AstartesPlasmaCannon.tools.0.label>
+	
+	<!-- EN: barrel -->
+	<GW_AOD_Gun_PlasmaCannon.tools.0.label>barrel</GW_AOD_Gun_PlasmaCannon.tools.0.label>
+	
+	<!-- EN: barrel -->
+	<GW_AOD_Gun_ReaperCannon.tools.0.label>barrel</GW_AOD_Gun_ReaperCannon.tools.0.label>
+	
+	<!-- EN: barrel -->
+	<GW_AOD_Gun_StormBolter.tools.0.label>barrel</GW_AOD_Gun_StormBolter.tools.0.label>
+	
+	<!-- EN: barrel -->
+	<GW_AOD_Gun_GravCannon.tools.0.label>barrel</GW_AOD_Gun_GravCannon.tools.0.label>
+	
+	<!-- EN: switch to standard mode -->
+	<GW_AOD_Plasma_Incinerator.comps.0.standardLabel>switch to standard mode</GW_AOD_Plasma_Incinerator.comps.0.standardLabel>
+	<!-- EN: switch to overcharge mode -->
+	<GW_AOD_Plasma_Incinerator.comps.0.underBarrelLabel>switch to overcharge mode</GW_AOD_Plasma_Incinerator.comps.0.underBarrelLabel>
+</LanguageData>

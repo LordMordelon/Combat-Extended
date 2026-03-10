@@ -1,0 +1,21 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\onyxae_dragonsdescent\MeleeDD702.xml -->
+	<!-- EN: handle -->
+	<DD_MeleeWeapon_HornedLance.tools.0.label>handle</DD_MeleeWeapon_HornedLance.tools.0.label>
+	<!-- EN: point -->
+	<DD_MeleeWeapon_HornedLance.tools.1.label>point</DD_MeleeWeapon_HornedLance.tools.1.label>
+	<!-- EN: edge -->
+	<DD_MeleeWeapon_HornedLance.tools.2.label>edge</DD_MeleeWeapon_HornedLance.tools.2.label>
+	
+	<!-- EN: handle -->
+	<DD_MeleeWeapon_DrachenSword.tools.0.label>handle</DD_MeleeWeapon_DrachenSword.tools.0.label>
+	<!-- EN: point -->
+	<DD_MeleeWeapon_DrachenSword.tools.1.label>point</DD_MeleeWeapon_DrachenSword.tools.1.label>
+	<!-- EN: edge -->
+	<DD_MeleeWeapon_DrachenSword.tools.2.label>edge</DD_MeleeWeapon_DrachenSword.tools.2.label>
+	
+	<!-- EN: point -->
+	<DDMeleeWeapon_ThrumboBattleAxe.tools.0.label>point</DDMeleeWeapon_ThrumboBattleAxe.tools.0.label>
+	<!-- EN: edge -->
+	<DDMeleeWeapon_ThrumboBattleAxe.tools.1.label>edge</DDMeleeWeapon_ThrumboBattleAxe.tools.1.label>
+</LanguageData>

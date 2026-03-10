@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\EdoThemedExpansion\Defs\Recipes_EdoThemed.xml -->
+	<!-- EN: make kunai x10 -->
+	<MakeHS_Kunai.label>make kunai x10</MakeHS_Kunai.label>
+	<!-- EN: Craft 10 kunai. -->
+	<MakeHS_Kunai.description>Craft 10 kunai.</MakeHS_Kunai.description>
+	<!-- EN: Making kunai. -->
+	<MakeHS_Kunai.jobString>Making kunai.</MakeHS_Kunai.jobString>
+</LanguageData>

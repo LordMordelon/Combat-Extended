@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- ModPatches\Kit's VFE Weapons\Defs\Kit's VFE Weapons\DamageDefs\DamageDefs_Vikings.xml -->
+	<!-- EN: the crushing and hypothermic damage of advanced crypto weaponry -->
+	<CE_Kit_CryptoBlunt.label>the crushing and hypothermic damage of advanced crypto weaponry</CE_Kit_CryptoBlunt.label>
+	<!-- EN: {0} has been beaten to death. -->
+	<CE_Kit_CryptoBlunt.deathMessage>{0} has been beaten to death.</CE_Kit_CryptoBlunt.deathMessage>
+</LanguageData>

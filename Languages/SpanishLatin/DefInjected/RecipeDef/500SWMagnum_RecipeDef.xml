@@ -1,0 +1,24 @@
+<LanguageData>
+	<!-- Defs\Ammo\Pistols\500SWMagnum.xml -->
+	
+	<!-- EN: make .500 S&amp;W Magnum (FMJ) cartridge x500 -->
+	<MakeAmmo_500SWMagnum_FMJ.label>make .500 S&amp;W Magnum (FMJ) cartridge x500</MakeAmmo_500SWMagnum_FMJ.label>
+	<!-- EN: Craft 500 .500 S&amp;W Magnum (FMJ) cartridges. -->
+	<MakeAmmo_500SWMagnum_FMJ.description>Craft 500 .500 S&amp;W Magnum (FMJ) cartridges.</MakeAmmo_500SWMagnum_FMJ.description>
+	<!-- EN: Making .500 S&amp;W Magnum (FMJ) cartridges. -->
+	<MakeAmmo_500SWMagnum_FMJ.jobString>Making .500 S&amp;W Magnum (FMJ) cartridges.</MakeAmmo_500SWMagnum_FMJ.jobString>
+	
+	<!-- EN: make .500 S&amp;W Magnum (AP) cartridge x500 -->
+	<MakeAmmo_500SWMagnum_AP.label>make .500 S&amp;W Magnum (AP) cartridge x500</MakeAmmo_500SWMagnum_AP.label>
+	<!-- EN: Craft 500 .500 S&amp;W Magnum (AP) cartridges. -->
+	<MakeAmmo_500SWMagnum_AP.description>Craft 500 .500 S&amp;W Magnum (AP) cartridges.</MakeAmmo_500SWMagnum_AP.description>
+	<!-- EN: Making .500 S&amp;W Magnum (AP) cartridges. -->
+	<MakeAmmo_500SWMagnum_AP.jobString>Making .500 S&amp;W Magnum (AP) cartridges.</MakeAmmo_500SWMagnum_AP.jobString>
+	
+	<!-- EN: make .500 S&amp;W Magnum (HP) cartridge x500 -->
+	<MakeAmmo_500SWMagnum_HP.label>make .500 S&amp;W Magnum (HP) cartridge x500</MakeAmmo_500SWMagnum_HP.label>
+	<!-- EN: Craft 500 .500 S&amp;W Magnum (HP) cartridges. -->
+	<MakeAmmo_500SWMagnum_HP.description>Craft 500 .500 S&amp;W Magnum (HP) cartridges.</MakeAmmo_500SWMagnum_HP.description>
+	<!-- EN: Making .500 S&amp;W Magnum (HP) cartridges. -->
+	<MakeAmmo_500SWMagnum_HP.jobString>Making .500 S&amp;W Magnum (HP) cartridges.</MakeAmmo_500SWMagnum_HP.jobString>
+</LanguageData>

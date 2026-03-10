@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\veltaris_mechqueen\WorkUrchins445.xml -->
+	<!-- EN: left power claw -->
+	<AV_Mech_MinerUrchin.tools.0.label>left power claw</AV_Mech_MinerUrchin.tools.0.label>
+	<!-- EN: power claw -->
+	<AV_Mech_MinerUrchin.tools.0.labelNoLocation>power claw</AV_Mech_MinerUrchin.tools.0.labelNoLocation>
+	<!-- EN: right power claw -->
+	<AV_Mech_MinerUrchin.tools.1.label>right power claw</AV_Mech_MinerUrchin.tools.1.label>
+	<!-- EN: power claw -->
+	<AV_Mech_MinerUrchin.tools.1.labelNoLocation>power claw</AV_Mech_MinerUrchin.tools.1.labelNoLocation>
+</LanguageData>

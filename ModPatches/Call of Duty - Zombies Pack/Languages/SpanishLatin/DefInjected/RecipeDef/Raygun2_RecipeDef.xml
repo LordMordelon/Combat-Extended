@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Rayguns\Raygun2.xml -->
+	<!-- EN: make Raygun Mk.2 Cartridge x500 -->
+	<MakeAmmo_Raygun_two.label>make Raygun Mk.2 Cartridge x500</MakeAmmo_Raygun_two.label>
+	<!-- EN: Craft 500 Raygun Mk.2 Cartridge. -->
+	<MakeAmmo_Raygun_two.description>Craft 500 Raygun Mk.2 Cartridge.</MakeAmmo_Raygun_two.description>
+	<!-- EN: Making Raygun_two cartridges. -->
+	<MakeAmmo_Raygun_two.jobString>Making Raygun_two cartridges.</MakeAmmo_Raygun_two.jobString>
+</LanguageData>

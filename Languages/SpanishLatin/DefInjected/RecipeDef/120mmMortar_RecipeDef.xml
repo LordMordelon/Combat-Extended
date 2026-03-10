@@ -1,0 +1,45 @@
+<LanguageData>
+	<!-- Defs\Ammo\Shell\120mmMortar.xml -->
+	
+	<!-- EN: make 120mm (HE) mortar shells x2 -->
+	<MakeShell_120mmMortar_HE.label>make 120mm (HE) mortar shells x2</MakeShell_120mmMortar_HE.label>
+	<!-- EN: Craft 2 120mm (HE) mortar shells. -->
+	<MakeShell_120mmMortar_HE.description>Craft 2 120mm (HE) mortar shells.</MakeShell_120mmMortar_HE.description>
+	<!-- EN: Making 120mm (HE) mortar shells. -->
+	<MakeShell_120mmMortar_HE.jobString>Making 120mm (HE) mortar shells.</MakeShell_120mmMortar_HE.jobString>
+	
+	<!-- EN: make 120mm (Airburst) mortar shells x2 -->
+	<MakeShell_120mmMortar_HE_HFuzed.label>make 120mm (Airburst) mortar shells x2</MakeShell_120mmMortar_HE_HFuzed.label>
+	<!-- EN: Craft 2 120mm (Airburst) mortar shells. -->
+	<MakeShell_120mmMortar_HE_HFuzed.description>Craft 2 120mm (Airburst) mortar shells.</MakeShell_120mmMortar_HE_HFuzed.description>
+	<!-- EN: Making 120mm (Airbust) mortar shells. -->
+	<MakeShell_120mmMortar_HE_HFuzed.jobString>Making 120mm (Airbust) mortar shells.</MakeShell_120mmMortar_HE_HFuzed.jobString>
+	
+	<!-- EN: make 120mm (Incendiary) mortar shells x2 -->
+	<MakeShell_120mmMortar_Incendiary.label>make 120mm (Incendiary) mortar shells x2</MakeShell_120mmMortar_Incendiary.label>
+	<!-- EN: Craft 2 120mm (Incendiary) mortar shells. -->
+	<MakeShell_120mmMortar_Incendiary.description>Craft 2 120mm (Incendiary) mortar shells.</MakeShell_120mmMortar_Incendiary.description>
+	<!-- EN: Making 120mm (Incendiary) mortar shells. -->
+	<MakeShell_120mmMortar_Incendiary.jobString>Making 120mm (Incendiary) mortar shells.</MakeShell_120mmMortar_Incendiary.jobString>
+	
+	<!-- EN: make 120mm (EMP) mortar shells x2 -->
+	<MakeShell_120mmMortar_EMP.label>make 120mm (EMP) mortar shells x2</MakeShell_120mmMortar_EMP.label>
+	<!-- EN: Craft 2 120mm (EMP) mortar shells. -->
+	<MakeShell_120mmMortar_EMP.description>Craft 2 120mm (EMP) mortar shells.</MakeShell_120mmMortar_EMP.description>
+	<!-- EN: Making 120mm (EMP) mortar shells. -->
+	<MakeShell_120mmMortar_EMP.jobString>Making 120mm (EMP) mortar shells.</MakeShell_120mmMortar_EMP.jobString>
+	
+	<!-- EN: make 120mm (Firefoam) mortar shells x2 -->
+	<MakeShell_120mmMortar_Firefoam.label>make 120mm (Firefoam) mortar shells x2</MakeShell_120mmMortar_Firefoam.label>
+	<!-- EN: Craft 2 120mm (Firefoam) mortar shells. -->
+	<MakeShell_120mmMortar_Firefoam.description>Craft 2 120mm (Firefoam) mortar shells.</MakeShell_120mmMortar_Firefoam.description>
+	<!-- EN: Making 120mm (Firefoam) mortar shells. -->
+	<MakeShell_120mmMortar_Firefoam.jobString>Making 120mm (Firefoam) mortar shells.</MakeShell_120mmMortar_Firefoam.jobString>
+	
+	<!-- EN: make 120mm (Smoke) mortar shells x2 -->
+	<MakeShell_120mmMortar_Smoke.label>make 120mm (Smoke) mortar shells x2</MakeShell_120mmMortar_Smoke.label>
+	<!-- EN: Craft 2 120mm (Smoke) mortar shells. -->
+	<MakeShell_120mmMortar_Smoke.description>Craft 2 120mm (Smoke) mortar shells.</MakeShell_120mmMortar_Smoke.description>
+	<!-- EN: Making 120mm (Smoke) mortar shells. -->
+	<MakeShell_120mmMortar_Smoke.jobString>Making 120mm (Smoke) mortar shells.</MakeShell_120mmMortar_Smoke.jobString>
+</LanguageData>

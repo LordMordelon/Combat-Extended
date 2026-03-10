@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- ModPatches\RH2 Helldivers Super Firearms\Defs\RH2 Helldivers Super Firearms\Ammo\12x25_Judgement.xml -->
+	
+	<!-- EN: 12x25mm Judgement (FMJ) -->
+	<Ammo_12x25Judgement_FMJ.label>12x25mm Judgement (FMJ)</Ammo_12x25Judgement_FMJ.label>
+	<!-- EN: This high-powered cartridge is one of the largest calibers found in handguns. It is primarily used by high-power semi-automatics and submachineguns. -->
+	<Ammo_12x25Judgement_FMJ.description>This high-powered cartridge is one of the largest calibers found in handguns. It is primarily used by high-power semi-automatics and submachineguns.</Ammo_12x25Judgement_FMJ.description>
+	
+	<!-- EN: 12x25mm Judgement (AP) -->
+	<Ammo_12x25Judgement_AP.label>12x25mm Judgement (AP)</Ammo_12x25Judgement_AP.label>
+	<!-- EN: This high-powered cartridge is one of the largest calibers found in handguns. It is primarily used by high-power semi-automatics and submachineguns. -->
+	<Ammo_12x25Judgement_AP.description>This high-powered cartridge is one of the largest calibers found in handguns. It is primarily used by high-power semi-automatics and submachineguns.</Ammo_12x25Judgement_AP.description>
+	
+	<!-- EN: 12x25mm Judgement (HP) -->
+	<Ammo_12x25Judgement_HP.label>12x25mm Judgement (HP)</Ammo_12x25Judgement_HP.label>
+	<!-- EN: This high-powered cartridge is one of the largest calibers found in handguns. It is primarily used by high-power semi-automatics and submachineguns. -->
+	<Ammo_12x25Judgement_HP.description>This high-powered cartridge is one of the largest calibers found in handguns. It is primarily used by high-power semi-automatics and submachineguns.</Ammo_12x25Judgement_HP.description>
+	
+	<!-- EN: 12x25mm Judgement bullet (FMJ) -->
+	<Bullet_12x25Judgement_FMJ.label>12x25mm Judgement bullet (FMJ)</Bullet_12x25Judgement_FMJ.label>
+	
+	<!-- EN: 12x25mm Judgement bullet (AP) -->
+	<Bullet_12x25Judgement_AP.label>12x25mm Judgement bullet (AP)</Bullet_12x25Judgement_AP.label>
+	
+	<!-- EN: 12x25mm Judgement bullet (HP) -->
+	<Bullet_12x25Judgement_HP.label>12x25mm Judgement bullet (HP)</Bullet_12x25Judgement_HP.label>
+</LanguageData>

@@ -1,0 +1,51 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Recipe\762x54mmR-Punched.xml -->
+	
+	<!-- EN: 7.62x54mmR cartridge (FMJ) (Punched) -->
+	<Ammo_762x54mmR_FMJ_Punched.label>7.62x54mmR cartridge (FMJ) (Punched)</Ammo_762x54mmR_FMJ_Punched.label>
+	<!-- EN: Rimmed rifle cartridge used by many machine guns, bolt-action and sniper rifles. -->
+	<Ammo_762x54mmR_FMJ_Punched.description>Rimmed rifle cartridge used by many machine guns, bolt-action and sniper rifles.</Ammo_762x54mmR_FMJ_Punched.description>
+	
+	<!-- EN: 7.62x54mmR cartridge (AP) (Punched) -->
+	<Ammo_762x54mmR_AP_Punched.label>7.62x54mmR cartridge (AP) (Punched)</Ammo_762x54mmR_AP_Punched.label>
+	<!-- EN: Rimmed rifle cartridge used by many machine guns, bolt-action and sniper rifles. -->
+	<Ammo_762x54mmR_AP_Punched.description>Rimmed rifle cartridge used by many machine guns, bolt-action and sniper rifles.</Ammo_762x54mmR_AP_Punched.description>
+	
+	<!-- EN: 7.62x54mmR cartridge (HP) (Punched) -->
+	<Ammo_762x54mmR_HP_Punched.label>7.62x54mmR cartridge (HP) (Punched)</Ammo_762x54mmR_HP_Punched.label>
+	<!-- EN: Rimmed rifle cartridge used by many machine guns, bolt-action and sniper rifles. -->
+	<Ammo_762x54mmR_HP_Punched.description>Rimmed rifle cartridge used by many machine guns, bolt-action and sniper rifles.</Ammo_762x54mmR_HP_Punched.description>
+	
+	<!-- EN: 7.62x54mmR cartridge (AP-I) (Punched) -->
+	<Ammo_762x54mmR_Incendiary_Punched.label>7.62x54mmR cartridge (AP-I) (Punched)</Ammo_762x54mmR_Incendiary_Punched.label>
+	<!-- EN: Rimmed rifle cartridge used by many machine guns, bolt-action and sniper rifles. -->
+	<Ammo_762x54mmR_Incendiary_Punched.description>Rimmed rifle cartridge used by many machine guns, bolt-action and sniper rifles.</Ammo_762x54mmR_Incendiary_Punched.description>
+	
+	<!-- EN: 7.62x54mmR cartridge (HE) (Punched) -->
+	<Ammo_762x54mmR_HE_Punched.label>7.62x54mmR cartridge (HE) (Punched)</Ammo_762x54mmR_HE_Punched.label>
+	<!-- EN: Rimmed rifle cartridge used by many machine guns, bolt-action and sniper rifles. -->
+	<Ammo_762x54mmR_HE_Punched.description>Rimmed rifle cartridge used by many machine guns, bolt-action and sniper rifles.</Ammo_762x54mmR_HE_Punched.description>
+	
+	<!-- EN: 7.62x54mmR cartridge (Sabot) (Punched) -->
+	<Ammo_762x54mmR_Sabot_Punched.label>7.62x54mmR cartridge (Sabot) (Punched)</Ammo_762x54mmR_Sabot_Punched.label>
+	<!-- EN: Rimmed rifle cartridge used by many machine guns, bolt-action and sniper rifles. -->
+	<Ammo_762x54mmR_Sabot_Punched.description>Rimmed rifle cartridge used by many machine guns, bolt-action and sniper rifles.</Ammo_762x54mmR_Sabot_Punched.description>
+	
+	<!-- EN: 7.62mmR bullet (FMJ) (Punched) -->
+	<Bullet_762x54mmR_FMJ_Punched.label>7.62mmR bullet (FMJ) (Punched)</Bullet_762x54mmR_FMJ_Punched.label>
+	
+	<!-- EN: 7.62mmR bullet (AP) (Punched) -->
+	<Bullet_762x54mmR_AP_Punched.label>7.62mmR bullet (AP) (Punched)</Bullet_762x54mmR_AP_Punched.label>
+	
+	<!-- EN: 7.62mmR bullet (HP) (Punched) -->
+	<Bullet_762x54mmR_HP_Punched.label>7.62mmR bullet (HP) (Punched)</Bullet_762x54mmR_HP_Punched.label>
+	
+	<!-- EN: 7.62mmR bullet (AP-I) (Punched) -->
+	<Bullet_762x54mmR_Incendiary_Punched.label>7.62mmR bullet (AP-I) (Punched)</Bullet_762x54mmR_Incendiary_Punched.label>
+	
+	<!-- EN: 7.62mmR bullet (HE) (Punched) -->
+	<Bullet_762x54mmR_HE_Punched.label>7.62mmR bullet (HE) (Punched)</Bullet_762x54mmR_HE_Punched.label>
+	
+	<!-- EN: 7.62mmR bullet (Sabot) (Punched) -->
+	<Bullet_762x54mmR_Sabot_Punched.label>7.62mmR bullet (Sabot) (Punched)</Bullet_762x54mmR_Sabot_Punched.label>
+</LanguageData>

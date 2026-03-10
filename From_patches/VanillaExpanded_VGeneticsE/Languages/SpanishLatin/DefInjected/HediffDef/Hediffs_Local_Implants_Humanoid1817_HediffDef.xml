@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VGeneticsE\Hediffs_Local_Implants_Humanoid1817.xml -->
+	<!-- EN: bear claws -->
+	<GR_BearClaws.comps.0.tools.0.label>bear claws</GR_BearClaws.comps.0.tools.0.label>
+	<!-- EN: humanoid implant: digging bear claws -->
+	<GR_DiggingBearClaws.comps.0.tools.0.label>humanoid implant: digging bear claws</GR_DiggingBearClaws.comps.0.tools.0.label>
+	<!-- EN: humanoid implant: thrumbo horn -->
+	<GR_HumanThrumboHorn.comps.0.tools.0.label>humanoid implant: thrumbo horn</GR_HumanThrumboHorn.comps.0.tools.0.label>
+	<!-- EN: humanoid implant: venomous fangs -->
+	<GR_VenomousFangs.comps.0.tools.0.label>humanoid implant: venomous fangs</GR_VenomousFangs.comps.0.tools.0.label>
+</LanguageData>

@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\DankPyon_Medieval_Overhaul\MO_Weapons_Grenades1052.xml -->
+	<!-- EN: throw fire pot -->
+	<DankPyon_Weapon_PotFire.Properties.label>throw fire pot</DankPyon_Weapon_PotFire.Properties.label>
+	<!-- EN: throw flash pot -->
+	<DankPyon_Weapon_PotFlash.Properties.label>throw flash pot</DankPyon_Weapon_PotFlash.Properties.label>
+	<!-- EN: throw smoke pot -->
+	<DankPyon_Weapon_PotFlashSmoke.Properties.label>throw smoke pot</DankPyon_Weapon_PotFlashSmoke.Properties.label>
+	<!-- EN: throw flash pot -->
+	<DankPyon_Weapon_AcidFlask.Properties.label>throw flash pot</DankPyon_Weapon_AcidFlask.Properties.label>
+</LanguageData>

@@ -1,0 +1,107 @@
+<LanguageData>
+	<!-- Defs\Ammo\Shell\81mmMortar.xml -->
+	
+	<!-- EN: make 81mm (HE) mortar shells x5 -->
+	<MakeShell_HighExplosive.label>make 81mm (HE) mortar shells x5</MakeShell_HighExplosive.label>
+	<!-- EN: Craft 5 81mm (HE) mortar shells. -->
+	<MakeShell_HighExplosive.description>Craft 5 81mm (HE) mortar shells.</MakeShell_HighExplosive.description>
+	<!-- EN: Making 81mm (HE) mortar shells. -->
+	<MakeShell_HighExplosive.jobString>Making 81mm (HE) mortar shells.</MakeShell_HighExplosive.jobString>
+	<!-- EN: make mortar shells (HE) x5 -->
+	<MakeShell_HighExplosive.modExtensions.0.genericLabel>make mortar shells (HE) x5</MakeShell_HighExplosive.modExtensions.0.genericLabel>
+	<!-- EN: Craft 5 mortar shells (HE). -->
+	<MakeShell_HighExplosive.modExtensions.0.genericDescription>Craft 5 mortar shells (HE).</MakeShell_HighExplosive.modExtensions.0.genericDescription>
+	<!-- EN: Making mortar shells (HE). -->
+	<MakeShell_HighExplosive.modExtensions.0.genericJobString>Making mortar shells (HE).</MakeShell_HighExplosive.modExtensions.0.genericJobString>
+	
+	<!-- EN: make 81mm (Airburst) mortar shells x5 -->
+	<MakeShell_HighExplosive_HFuzed.label>make 81mm (Airburst) mortar shells x5</MakeShell_HighExplosive_HFuzed.label>
+	<!-- EN: Craft 5 81mm (Airburst) mortar shells. -->
+	<MakeShell_HighExplosive_HFuzed.description>Craft 5 81mm (Airburst) mortar shells.</MakeShell_HighExplosive_HFuzed.description>
+	<!-- EN: Making 81mm (Airburst) mortar shells. -->
+	<MakeShell_HighExplosive_HFuzed.jobString>Making 81mm (Airburst) mortar shells.</MakeShell_HighExplosive_HFuzed.jobString>
+	<!-- EN: make mortar shells (Airburst) x5 -->
+	<MakeShell_HighExplosive_HFuzed.modExtensions.0.genericLabel>make mortar shells (Airburst) x5</MakeShell_HighExplosive_HFuzed.modExtensions.0.genericLabel>
+	<!-- EN: Craft 5 mortar shells (Airburst). -->
+	<MakeShell_HighExplosive_HFuzed.modExtensions.0.genericDescription>Craft 5 mortar shells (Airburst).</MakeShell_HighExplosive_HFuzed.modExtensions.0.genericDescription>
+	<!-- EN: Making mortar shells (Airburst). -->
+	<MakeShell_HighExplosive_HFuzed.modExtensions.0.genericJobString>Making mortar shells (Airburst).</MakeShell_HighExplosive_HFuzed.modExtensions.0.genericJobString>
+	
+	<!-- EN: make 81mm (Incendiary) mortar shells x5 -->
+	<MakeShell_Incendiary.label>make 81mm (Incendiary) mortar shells x5</MakeShell_Incendiary.label>
+	<!-- EN: Craft 5 81mm (Incendiary) mortar shells. -->
+	<MakeShell_Incendiary.description>Craft 5 81mm (Incendiary) mortar shells.</MakeShell_Incendiary.description>
+	<!-- EN: Making 81mm (Incendiary) mortar shells. -->
+	<MakeShell_Incendiary.jobString>Making 81mm (Incendiary) mortar shells.</MakeShell_Incendiary.jobString>
+	<!-- EN: make mortar shells (Incendiary) x5 -->
+	<MakeShell_Incendiary.modExtensions.0.genericLabel>make mortar shells (Incendiary) x5</MakeShell_Incendiary.modExtensions.0.genericLabel>
+	<!-- EN: Craft 5 mortar shells (Incendiary). -->
+	<MakeShell_Incendiary.modExtensions.0.genericDescription>Craft 5 mortar shells (Incendiary).</MakeShell_Incendiary.modExtensions.0.genericDescription>
+	<!-- EN: Making mortar shells (Incendiary). -->
+	<MakeShell_Incendiary.modExtensions.0.genericJobString>Making mortar shells (Incendiary).</MakeShell_Incendiary.modExtensions.0.genericJobString>
+	
+	<!-- EN: make 81mm (EMP) mortar shells x5 -->
+	<MakeShell_EMP.label>make 81mm (EMP) mortar shells x5</MakeShell_EMP.label>
+	<!-- EN: Craft 5 81mm (EMP) mortar shells. -->
+	<MakeShell_EMP.description>Craft 5 81mm (EMP) mortar shells.</MakeShell_EMP.description>
+	<!-- EN: Making 81mm (EMP) mortar shells. -->
+	<MakeShell_EMP.jobString>Making 81mm (EMP) mortar shells.</MakeShell_EMP.jobString>
+	<!-- EN: make mortar shells (EMP) x5 -->
+	<MakeShell_EMP.modExtensions.0.genericLabel>make mortar shells (EMP) x5</MakeShell_EMP.modExtensions.0.genericLabel>
+	<!-- EN: Craft 5 mortar shells (EMP). -->
+	<MakeShell_EMP.modExtensions.0.genericDescription>Craft 5 mortar shells (EMP).</MakeShell_EMP.modExtensions.0.genericDescription>
+	<!-- EN: Making mortar shells (EMP). -->
+	<MakeShell_EMP.modExtensions.0.genericJobString>Making mortar shells (EMP).</MakeShell_EMP.modExtensions.0.genericJobString>
+	
+	<!-- EN: make 81mm (Firefoam) mortar shells x5 -->
+	<MakeShell_Firefoam.label>make 81mm (Firefoam) mortar shells x5</MakeShell_Firefoam.label>
+	<!-- EN: Craft 5 81mm (Firefoam) mortar shells. -->
+	<MakeShell_Firefoam.description>Craft 5 81mm (Firefoam) mortar shells.</MakeShell_Firefoam.description>
+	<!-- EN: Making 81mm (Firefoam) mortar shells. -->
+	<MakeShell_Firefoam.jobString>Making 81mm (Firefoam) mortar shells.</MakeShell_Firefoam.jobString>
+	<!-- EN: make mortar shells (Firefoam) x5 -->
+	<MakeShell_Firefoam.modExtensions.0.genericLabel>make mortar shells (Firefoam) x5</MakeShell_Firefoam.modExtensions.0.genericLabel>
+	<!-- EN: Craft 5 mortar shells (Firefoam). -->
+	<MakeShell_Firefoam.modExtensions.0.genericDescription>Craft 5 mortar shells (Firefoam).</MakeShell_Firefoam.modExtensions.0.genericDescription>
+	<!-- EN: Making mortar shells (Firefoam). -->
+	<MakeShell_Firefoam.modExtensions.0.genericJobString>Making mortar shells (Firefoam).</MakeShell_Firefoam.modExtensions.0.genericJobString>
+	
+	<!-- EN: make 81mm (Smoke) mortar shells x5 -->
+	<MakeShell_Smoke.label>make 81mm (Smoke) mortar shells x5</MakeShell_Smoke.label>
+	<!-- EN: Craft 5 81mm (Smoke) mortar shells. -->
+	<MakeShell_Smoke.description>Craft 5 81mm (Smoke) mortar shells.</MakeShell_Smoke.description>
+	<!-- EN: Making 81mm (Smoke) mortar shells. -->
+	<MakeShell_Smoke.jobString>Making 81mm (Smoke) mortar shells.</MakeShell_Smoke.jobString>
+	<!-- EN: make mortar shells (Smoke) x5 -->
+	<MakeShell_Smoke.modExtensions.0.genericLabel>make mortar shells (Smoke) x5</MakeShell_Smoke.modExtensions.0.genericLabel>
+	<!-- EN: Craft 5 mortar shells (Smoke). -->
+	<MakeShell_Smoke.modExtensions.0.genericDescription>Craft 5 mortar shells (Smoke).</MakeShell_Smoke.modExtensions.0.genericDescription>
+	<!-- EN: Making mortar shells (Smoke). -->
+	<MakeShell_Smoke.modExtensions.0.genericJobString>Making mortar shells (Smoke).</MakeShell_Smoke.modExtensions.0.genericJobString>
+	
+	<!-- EN: make 81mm (Tox) mortar shells x5 -->
+	<MakeShell_Toxic.label>make 81mm (Tox) mortar shells x5</MakeShell_Toxic.label>
+	<!-- EN: Craft 5 81mm (Tox) mortar shells. -->
+	<MakeShell_Toxic.description>Craft 5 81mm (Tox) mortar shells.</MakeShell_Toxic.description>
+	<!-- EN: Making 81mm (Tox) mortar shells. -->
+	<MakeShell_Toxic.jobString>Making 81mm (Tox) mortar shells.</MakeShell_Toxic.jobString>
+	<!-- EN: make mortar shells (Tox) x5 -->
+	<MakeShell_Toxic.modExtensions.0.genericLabel>make mortar shells (Tox) x5</MakeShell_Toxic.modExtensions.0.genericLabel>
+	<!-- EN: Craft 5 mortar shells (Tox). -->
+	<MakeShell_Toxic.modExtensions.0.genericDescription>Craft 5 mortar shells (Tox).</MakeShell_Toxic.modExtensions.0.genericDescription>
+	<!-- EN: Making mortar shells (Tox). -->
+	<MakeShell_Toxic.modExtensions.0.genericJobString>Making mortar shells (Tox).</MakeShell_Toxic.modExtensions.0.genericJobString>
+	
+	<!-- EN: make 81mm deadlife mortar shells x5 -->
+	<MakeShell_Deadlife.label>make 81mm deadlife mortar shells x5</MakeShell_Deadlife.label>
+	<!-- EN: Craft 5 81mm deadlife mortar shells. -->
+	<MakeShell_Deadlife.description>Craft 5 81mm deadlife mortar shells.</MakeShell_Deadlife.description>
+	<!-- EN: Making 81mm deadlife mortar shells. -->
+	<MakeShell_Deadlife.jobString>Making 81mm deadlife mortar shells.</MakeShell_Deadlife.jobString>
+	<!-- EN: make mortar shells (Deadlife) x5 -->
+	<MakeShell_Deadlife.modExtensions.0.genericLabel>make mortar shells (Deadlife) x5</MakeShell_Deadlife.modExtensions.0.genericLabel>
+	<!-- EN: Craft 5 mortar shells (Deadlife). -->
+	<MakeShell_Deadlife.modExtensions.0.genericDescription>Craft 5 mortar shells (Deadlife).</MakeShell_Deadlife.modExtensions.0.genericDescription>
+	<!-- EN: Making mortar shells (Deadlife). -->
+	<MakeShell_Deadlife.modExtensions.0.genericJobString>Making mortar shells (Deadlife).</MakeShell_Deadlife.modExtensions.0.genericJobString>
+</LanguageData>

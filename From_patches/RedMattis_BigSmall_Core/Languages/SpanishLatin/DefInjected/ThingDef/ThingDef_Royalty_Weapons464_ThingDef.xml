@@ -1,0 +1,14 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\RedMattis_BigSmall_Core\ThingDef_Royalty_Weapons464.xml -->
+	<!-- EN: handle -->
+	<BS_SurtrSword_Persona.tools.0.label>handle</BS_SurtrSword_Persona.tools.0.label>
+	<!-- EN: point -->
+	<BS_SurtrSword_Persona.tools.1.label>point</BS_SurtrSword_Persona.tools.1.label>
+	<!-- EN: edge -->
+	<BS_SurtrSword_Persona.tools.2.label>edge</BS_SurtrSword_Persona.tools.2.label>
+	
+	<!-- EN: handle -->
+	<BS_SkrymirHammer_Persona.tools.0.label>handle</BS_SkrymirHammer_Persona.tools.0.label>
+	<!-- EN: head -->
+	<BS_SkrymirHammer_Persona.tools.1.label>head</BS_SkrymirHammer_Persona.tools.1.label>
+</LanguageData>

@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla XCOM Laser Weapons\Defs\Vanilla XCOM Laser Weapons\Ammo.xml -->
+	<!-- EN: laser -->
+	<AmmoSet_XCOM_Gun_LaserRifle.label>laser</AmmoSet_XCOM_Gun_LaserRifle.label>
+	<!-- EN: laser -->
+	<AmmoSet_XCOM_Gun_LaserSniperRifle.label>laser</AmmoSet_XCOM_Gun_LaserSniperRifle.label>
+	<!-- EN: laser -->
+	<AmmoSet_XCOM_Gun_LaserShotgun.label>laser</AmmoSet_XCOM_Gun_LaserShotgun.label>
+	<!-- EN: laser -->
+	<AmmoSet_XCOM_Gun_LaserCannon.label>laser</AmmoSet_XCOM_Gun_LaserCannon.label>
+	<!-- EN: laser -->
+	<AmmoSet_XCOM_Gun_LaserPistol.label>laser</AmmoSet_XCOM_Gun_LaserPistol.label>
+	<!-- EN: 12mm Railgun -->
+	<AmmoSet_XCOM_Gun_LaserRailgun.label>12mm Railgun</AmmoSet_XCOM_Gun_LaserRailgun.label>
+</LanguageData>

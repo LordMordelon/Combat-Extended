@@ -1,0 +1,107 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\CP_RimmuNation_2_Weapons\RM2_CE_SMG1330.xml -->
+	<!-- EN: stock -->
+	<RNGun_AK74U_SMG.tools.0.label>stock</RNGun_AK74U_SMG.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_AK74U_SMG.tools.1.label>barrel</RNGun_AK74U_SMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_AK74U_SMG.tools.2.label>muzzle</RNGun_AK74U_SMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_MAC11_SMG.tools.0.label>stock</RNGun_MAC11_SMG.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_MAC11_SMG.tools.1.label>barrel</RNGun_MAC11_SMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_MAC11_SMG.tools.2.label>muzzle</RNGun_MAC11_SMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_MP5A2_SMG.tools.0.label>stock</RNGun_MP5A2_SMG.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_MP5A2_SMG.tools.1.label>barrel</RNGun_MP5A2_SMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_MP5A2_SMG.tools.2.label>muzzle</RNGun_MP5A2_SMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_MP7A1_PDW.tools.0.label>stock</RNGun_MP7A1_PDW.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_MP7A1_PDW.tools.1.label>barrel</RNGun_MP7A1_PDW.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_MP7A1_PDW.tools.2.label>muzzle</RNGun_MP7A1_PDW.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_P90_PDW.tools.0.label>stock</RNGun_P90_PDW.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_P90_PDW.tools.1.label>barrel</RNGun_P90_PDW.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_P90_PDW.tools.2.label>muzzle</RNGun_P90_PDW.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_PPSh41_SMG.tools.0.label>stock</RNGun_PPSh41_SMG.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_PPSh41_SMG.tools.1.label>barrel</RNGun_PPSh41_SMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_PPSh41_SMG.tools.2.label>muzzle</RNGun_PPSh41_SMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_SkorpionVZ61_SMG.tools.0.label>stock</RNGun_SkorpionVZ61_SMG.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_SkorpionVZ61_SMG.tools.1.label>barrel</RNGun_SkorpionVZ61_SMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_SkorpionVZ61_SMG.tools.2.label>muzzle</RNGun_SkorpionVZ61_SMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_ThompsonSubmachineGun_SMG.tools.0.label>stock</RNGun_ThompsonSubmachineGun_SMG.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_ThompsonSubmachineGun_SMG.tools.1.label>barrel</RNGun_ThompsonSubmachineGun_SMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_ThompsonSubmachineGun_SMG.tools.2.label>muzzle</RNGun_ThompsonSubmachineGun_SMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_UMP45_SMG.tools.0.label>stock</RNGun_UMP45_SMG.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_UMP45_SMG.tools.1.label>barrel</RNGun_UMP45_SMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_UMP45_SMG.tools.2.label>muzzle</RNGun_UMP45_SMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_PP19_SMG.tools.0.label>stock</RNGun_PP19_SMG.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_PP19_SMG.tools.1.label>barrel</RNGun_PP19_SMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_PP19_SMG.tools.2.label>muzzle</RNGun_PP19_SMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_Uzi_SMG.tools.0.label>stock</RNGun_Uzi_SMG.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_Uzi_SMG.tools.1.label>barrel</RNGun_Uzi_SMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_Uzi_SMG.tools.2.label>muzzle</RNGun_Uzi_SMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_KrissVector_PDW.tools.0.label>stock</RNGun_KrissVector_PDW.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_KrissVector_PDW.tools.1.label>barrel</RNGun_KrissVector_PDW.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_KrissVector_PDW.tools.2.label>muzzle</RNGun_KrissVector_PDW.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_AK7S4U_SMG.tools.0.label>stock</RNGun_AK7S4U_SMG.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_AK7S4U_SMG.tools.1.label>barrel</RNGun_AK7S4U_SMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_AK7S4U_SMG.tools.2.label>muzzle</RNGun_AK7S4U_SMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_P90SD_PDW.tools.0.label>stock</RNGun_P90SD_PDW.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_P90SD_PDW.tools.1.label>barrel</RNGun_P90SD_PDW.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_P90SD_PDW.tools.2.label>muzzle</RNGun_P90SD_PDW.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_MP5SD_SMG.tools.0.label>stock</RNGun_MP5SD_SMG.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_MP5SD_SMG.tools.1.label>barrel</RNGun_MP5SD_SMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_MP5SD_SMG.tools.2.label>muzzle</RNGun_MP5SD_SMG.tools.2.label>
+</LanguageData>

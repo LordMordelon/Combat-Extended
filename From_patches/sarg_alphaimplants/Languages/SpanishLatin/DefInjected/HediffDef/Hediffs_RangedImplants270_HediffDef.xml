@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\sarg_alphaimplants\Hediffs_RangedImplants270.xml -->
+	<!-- EN: petrifying gaze -->
+	<AI_AnimalPetrifyingGaze.comps.0.verbs.0.label>petrifying gaze</AI_AnimalPetrifyingGaze.comps.0.verbs.0.label>
+	<!-- EN: venomous quills -->
+	<AI_AnimalVenomousQuills.comps.0.verbs.0.label>venomous quills</AI_AnimalVenomousQuills.comps.0.verbs.0.label>
+	<!-- EN: wisp breath -->
+	<AI_AnimalWispFire.comps.0.verbs.0.label>wisp breath</AI_AnimalWispFire.comps.0.verbs.0.label>
+	<!-- EN: acidic breath -->
+	<AI_AnimalAcidicBreath.comps.0.verbs.0.label>acidic breath</AI_AnimalAcidicBreath.comps.0.verbs.0.label>
+	<!-- EN: fire breath -->
+	<AI_AnimalFireBreath.comps.0.verbs.0.label>fire breath</AI_AnimalFireBreath.comps.0.verbs.0.label>
+	<!-- EN: toxic breath -->
+	<AI_AnimalToxicBreath.comps.0.verbs.0.label>toxic breath</AI_AnimalToxicBreath.comps.0.verbs.0.label>
+</LanguageData>

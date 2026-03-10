@@ -1,0 +1,30 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Ayameduki_HARSilkiera\Race_Mech1614.xml -->
+	<!-- EN: left blade -->
+	<HAR_SK_Mechanoid_race_a.tools.0.label>left blade</HAR_SK_Mechanoid_race_a.tools.0.label>
+	<!-- EN: left blade -->
+	<HAR_SK_Mechanoid_race_a.tools.1.label>left blade</HAR_SK_Mechanoid_race_a.tools.1.label>
+	<!-- EN: right blade -->
+	<HAR_SK_Mechanoid_race_a.tools.2.label>right blade</HAR_SK_Mechanoid_race_a.tools.2.label>
+	<!-- EN: right blade -->
+	<HAR_SK_Mechanoid_race_a.tools.3.label>right blade</HAR_SK_Mechanoid_race_a.tools.3.label>
+	<!-- EN: head -->
+	<HAR_SK_Mechanoid_race_a.tools.4.label>head</HAR_SK_Mechanoid_race_a.tools.4.label>
+	
+	<!-- EN: left blade -->
+	<HAR_SK_Mechanoid_race_b.tools.0.label>left blade</HAR_SK_Mechanoid_race_b.tools.0.label>
+	<!-- EN: right blade -->
+	<HAR_SK_Mechanoid_race_b.tools.1.label>right blade</HAR_SK_Mechanoid_race_b.tools.1.label>
+	<!-- EN: head -->
+	<HAR_SK_Mechanoid_race_b.tools.2.label>head</HAR_SK_Mechanoid_race_b.tools.2.label>
+	
+	<!-- EN: head -->
+	<HAR_SK_Mechanoid_race_c.tools.0.label>head</HAR_SK_Mechanoid_race_c.tools.0.label>
+	
+	<!-- EN: left blade -->
+	<HAR_SK_Mechanoid_race_e.tools.0.label>left blade</HAR_SK_Mechanoid_race_e.tools.0.label>
+	<!-- EN: right blade -->
+	<HAR_SK_Mechanoid_race_e.tools.1.label>right blade</HAR_SK_Mechanoid_race_e.tools.1.label>
+	<!-- EN: head -->
+	<HAR_SK_Mechanoid_race_e.tools.2.label>head</HAR_SK_Mechanoid_race_e.tools.2.label>
+</LanguageData>

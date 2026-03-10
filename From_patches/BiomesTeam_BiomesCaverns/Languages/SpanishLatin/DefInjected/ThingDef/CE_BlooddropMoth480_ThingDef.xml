@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\BiomesTeam_BiomesCaverns\CE_BlooddropMoth480.xml -->
+	<!-- EN: mandible -->
+	<BMT_BloodropLarvae.tools.0.label>mandible</BMT_BloodropLarvae.tools.0.label>
+	<!-- EN: head -->
+	<BMT_BloodropLarvae.tools.1.label>head</BMT_BloodropLarvae.tools.1.label>
+	
+	<!-- EN: Twitching -->
+	<BMT_BloodropPupa.tools.0.label>Twitching</BMT_BloodropPupa.tools.0.label>
+	
+	<!-- EN: proboscis -->
+	<BMT_BloodropMoth.tools.0.label>proboscis</BMT_BloodropMoth.tools.0.label>
+	<!-- EN: head -->
+	<BMT_BloodropMoth.tools.1.label>head</BMT_BloodropMoth.tools.1.label>
+</LanguageData>

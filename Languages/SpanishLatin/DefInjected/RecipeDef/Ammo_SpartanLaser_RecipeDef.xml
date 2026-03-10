@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Defs\Ammo\Modded\Halo\Ammo_SpartanLaser.xml -->
+	<!-- EN: make laser charge pack x10 -->
+	<MakeAmmo_HeavyLaserChargePack.label>make laser charge pack x10</MakeAmmo_HeavyLaserChargePack.label>
+	<!-- EN: Craft 10 laser charge pack. -->
+	<MakeAmmo_HeavyLaserChargePack.description>Craft 10 laser charge pack.</MakeAmmo_HeavyLaserChargePack.description>
+	<!-- EN: Making laser charge pack. -->
+	<MakeAmmo_HeavyLaserChargePack.jobString>Making laser charge pack.</MakeAmmo_HeavyLaserChargePack.jobString>
+</LanguageData>

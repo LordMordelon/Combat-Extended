@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Mlie_BlackWidows\Patch_Weapons596.xml -->
+	
+	<!-- EN: make steel black widow arrows x10 -->
+	<MakeAmmo_BlackWidowArrow_Steel.label>make steel black widow arrows x10</MakeAmmo_BlackWidowArrow_Steel.label>
+	<!-- EN: Craft 10 steel black widow arrows. -->
+	<MakeAmmo_BlackWidowArrow_Steel.description>Craft 10 steel black widow arrows.</MakeAmmo_BlackWidowArrow_Steel.description>
+	<!-- EN: Making steel black widow arrows. -->
+	<MakeAmmo_BlackWidowArrow_Steel.jobString>Making steel black widow arrows.</MakeAmmo_BlackWidowArrow_Steel.jobString>
+	
+	<!-- EN: make plasteel black widow arrows x10 -->
+	<MakeAmmo_BlackWidowArrow_Plasteel.label>make plasteel black widow arrows x10</MakeAmmo_BlackWidowArrow_Plasteel.label>
+	<!-- EN: Craft 10 plasteel black widow arrows. -->
+	<MakeAmmo_BlackWidowArrow_Plasteel.description>Craft 10 plasteel black widow arrows.</MakeAmmo_BlackWidowArrow_Plasteel.description>
+	<!-- EN: Making plasteel black widow arrows. -->
+	<MakeAmmo_BlackWidowArrow_Plasteel.jobString>Making plasteel black widow arrows.</MakeAmmo_BlackWidowArrow_Plasteel.jobString>
+</LanguageData>

@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- Defs\JobDefs\MechTakeAmmo.xml -->
+	<!-- EN: reloading TargetA. -->
+	<MTA_TakeAmmo.reportString>reloading TargetA.</MTA_TakeAmmo.reportString>
+	<!-- EN: reloading TargetA. -->
+	<MTA_UnloadAmmo.reportString>reloading TargetA.</MTA_UnloadAmmo.reportString>
+</LanguageData>

@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla Weapons Expanded - Non-Lethal\Defs\Vanilla Weapons Expanded - Non-Lethal\40mmLessLethal.xml -->
+	
+	<!-- EN: 40x46mm grenade (CN) -->
+	<Ammo_40x46mmGrenade_CN.label>40x46mm grenade (CN)</Ammo_40x46mmGrenade_CN.label>
+	<!-- EN: Low velocity grenade filled with a non-lethal chemical irritant, intended for crowd control. -->
+	<Ammo_40x46mmGrenade_CN.description>Low velocity grenade filled with a non-lethal chemical irritant, intended for crowd control.</Ammo_40x46mmGrenade_CN.description>
+	
+	<!-- EN: 40x46mm grenade (CN) -->
+	<Bullet_40x46mmGrenade_CN.label>40x46mm grenade (CN)</Bullet_40x46mmGrenade_CN.label>
+</LanguageData>

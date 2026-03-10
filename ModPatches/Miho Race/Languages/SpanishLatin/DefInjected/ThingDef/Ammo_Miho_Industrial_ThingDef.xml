@@ -1,0 +1,99 @@
+<LanguageData>
+	<!-- ModPatches\Miho Race\Defs\Miho Race\Ammo\Ammo_Miho_Industrial.xml -->
+	
+	<!-- EN: 8x22mm Nambu cartridge (AP-IM) -->
+	<Ammo_8x22mmNambu_Miho.label>8x22mm Nambu cartridge (AP-IM)</Ammo_8x22mmNambu_Miho.label>
+	<!-- EN: Low caliber handgun cartridge lacking in stopping power. -->
+	<Ammo_8x22mmNambu_Miho.description>Low caliber handgun cartridge lacking in stopping power.</Ammo_8x22mmNambu_Miho.description>
+	
+	<!-- EN: 6.5x50mmSR cartridge (AP-IM) -->
+	<Ammo_65x50mmSRArisaka_Miho.label>6.5x50mmSR cartridge (AP-IM)</Ammo_65x50mmSRArisaka_Miho.label>
+	<!-- EN: Semi-rimmed, intermediate rifle cartridge found mostly in outdated bolt-action firearms. -->
+	<Ammo_65x50mmSRArisaka_Miho.description>Semi-rimmed, intermediate rifle cartridge found mostly in outdated bolt-action firearms.</Ammo_65x50mmSRArisaka_Miho.description>
+	
+	<!-- EN: 7.7x58mm Arisaka cartridge (AP-IM) -->
+	<Ammo_77x58mmArisaka_Miho.label>7.7x58mm Arisaka cartridge (AP-IM)</Ammo_77x58mmArisaka_Miho.label>
+	<!-- EN: Large rifle bullet found mostly in outdated bolt-action firearms. -->
+	<Ammo_77x58mmArisaka_Miho.description>Large rifle bullet found mostly in outdated bolt-action firearms.</Ammo_77x58mmArisaka_Miho.description>
+	
+	<!-- EN: 13.2x92mmSR TuF cartridge (AP-IM) -->
+	<Ammo_132x92mmSRTuF_Miho.label>13.2x92mmSR TuF cartridge (AP-IM)</Ammo_132x92mmSRTuF_Miho.label>
+	<!-- EN: Outdated large caliber bullet used in anti-materiel rifles. -->
+	<Ammo_132x92mmSRTuF_Miho.description>Outdated large caliber bullet used in anti-materiel rifles.</Ammo_132x92mmSRTuF_Miho.description>
+	
+	<!-- EN: 20x42mm (AP-IM) -->
+	<Ammo_20x42mm_Miho.label>20x42mm (AP-IM)</Ammo_20x42mm_Miho.label>
+	<!-- EN: Specialized cartridge developed for use in shoulder-fired grenade launchers. -->
+	<Ammo_20x42mm_Miho.description>Specialized cartridge developed for use in shoulder-fired grenade launchers.</Ammo_20x42mm_Miho.description>
+	
+	<!-- EN: large fragments -->
+	<Fragment_Large_Miho.label>large fragments</Fragment_Large_Miho.label>
+	
+	<!-- EN: small fragments -->
+	<Fragment_Small_Miho.label>small fragments</Fragment_Small_Miho.label>
+	
+	<!-- EN: 8x22mm Nambu bullet (AP-IM) -->
+	<Bullet_8x22mmNambu_Miho.label>8x22mm Nambu bullet (AP-IM)</Bullet_8x22mmNambu_Miho.label>
+	
+	<!-- EN: 6.5x50mmSR bullet (AP-IM) -->
+	<Bullet_65x50mmSRArisaka_Miho.label>6.5x50mmSR bullet (AP-IM)</Bullet_65x50mmSRArisaka_Miho.label>
+	
+	<!-- EN: 7.7x58mm Arisaka bullet (AP-IM) -->
+	<Bullet_77x58mmArisaka_Miho.label>7.7x58mm Arisaka bullet (AP-IM)</Bullet_77x58mmArisaka_Miho.label>
+	
+	<!-- EN: 13.2x92mmSR TuF bullet (AP-IM) -->
+	<Bullet_132x92mmSRTuF_Miho.label>13.2x92mmSR TuF bullet (AP-IM)</Bullet_132x92mmSRTuF_Miho.label>
+	
+	<!-- EN: 20x42mm bullet (AP-I) -->
+	<Bullet_20x42mm_Miho.label>20x42mm bullet (AP-I)</Bullet_20x42mm_Miho.label>
+	
+	<!-- EN: 47x398mmR cartridge (AP-IM) -->
+	<Ammo_47x398mmR_Miho.label>47x398mmR cartridge (AP-IM)</Ammo_47x398mmR_Miho.label>
+	<!-- EN: Large caliber shell used by tank guns. -->
+	<Ammo_47x398mmR_Miho.description>Large caliber shell used by tank guns.</Ammo_47x398mmR_Miho.description>
+	
+	<!-- EN: 57x280mmR cartridge (Canister) -->
+	<Ammo_57x280mmR_Canister.label>57x280mmR cartridge (Canister)</Ammo_57x280mmR_Canister.label>
+	<!-- EN: Large caliber shell used by tank guns. -->
+	<Ammo_57x280mmR_Canister.description>Large caliber shell used by tank guns.</Ammo_57x280mmR_Canister.description>
+	
+	<!-- EN: 57x280mmR cartridge (Thermobaric) -->
+	<Ammo_57x280mmR_Thermobaric.label>57x280mmR cartridge (Thermobaric)</Ammo_57x280mmR_Thermobaric.label>
+	<!-- EN: Large caliber shell used by tank guns. -->
+	<Ammo_57x280mmR_Thermobaric.description>Large caliber shell used by tank guns.</Ammo_57x280mmR_Thermobaric.description>
+	
+	<!-- EN: 47x398mmR bullet (AP-IM) -->
+	<Bullet_47x398mmR_Miho.label>47x398mmR bullet (AP-IM)</Bullet_47x398mmR_Miho.label>
+	
+	<!-- EN: 57x280mmR canister flechette -->
+	<Bullet_57x280mmR_Canister.label>57x280mmR canister flechette</Bullet_57x280mmR_Canister.label>
+	
+	<!-- EN: 57x280mmR bullet (Thermobaric) -->
+	<Bullet_57x280mmR_Thermobaric.label>57x280mmR bullet (Thermobaric)</Bullet_57x280mmR_Thermobaric.label>
+	
+	<!-- EN: 100mm Artillery Rocket (Incendiary) -->
+	<Ammo_Miho100mm_Incendiary.label>100mm Artillery Rocket (Incendiary)</Ammo_Miho100mm_Incendiary.label>
+	<!-- EN: An unguided rocket equipped with an explosive warhead and a contact fuse. -->
+	<Ammo_Miho100mm_Incendiary.description>An unguided rocket equipped with an explosive warhead and a contact fuse.</Ammo_Miho100mm_Incendiary.description>
+	
+	<!-- EN: 100mm Rocket (Incendiary) -->
+	<Bullet_Miho100mm_Incendiary.label>100mm Rocket (Incendiary)</Bullet_Miho100mm_Incendiary.label>
+	
+	<!-- EN: 57mm Rocket (HE) -->
+	<Bullet_57mmMihoRocket_HE_indirect.label>57mm Rocket (HE)</Bullet_57mmMihoRocket_HE_indirect.label>
+	
+	<!-- EN: 57mm Rocket (HEAT) -->
+	<Bullet_57mmMihoRocket_HEAT_indirect.label>57mm Rocket (HEAT)</Bullet_57mmMihoRocket_HEAT_indirect.label>
+	
+	<!-- EN: 57mm Rocket (Thermobaric) -->
+	<Bullet_57mmMihoRocket_Thermobaric_indirect.label>57mm Rocket (Thermobaric)</Bullet_57mmMihoRocket_Thermobaric_indirect.label>
+	
+	<!-- EN: Miho AP-I Missile -->
+	<Bullet_MihoMMAT.label>Miho AP-I Missile</Bullet_MihoMMAT.label>
+	
+	<!-- EN: Miho AP-I Missile -->
+	<Bullet_MihoMMAT_Barrage.label>Miho AP-I Missile</Bullet_MihoMMAT_Barrage.label>
+	
+	<!-- EN: Miho Plasma Missile -->
+	<Bullet_MihoMPLA.label>Miho Plasma Missile</Bullet_MihoMPLA.label>
+</LanguageData>

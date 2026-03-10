@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- ModPatches\Alpha Animals\Defs\Alpha Animals\Defs_Ammo.xml -->
+	<!-- EN: venomous spit -->
+	<AA_PoisonBolt_V.label>venomous spit</AA_PoisonBolt_V.label>
+	<!-- EN: burning web -->
+	<AA_BurnWeb.label>burning web</AA_BurnWeb.label>
+	<!-- EN: acidic vomit -->
+	<AA_AcidicVomit_CE.label>acidic vomit</AA_AcidicVomit_CE.label>
+	<!-- EN: flame breath -->
+	<AA_FlameBreathAnimated_CE.label>flame breath</AA_FlameBreathAnimated_CE.label>
+	<!-- EN: gaze attack -->
+	<AA_GazeAttack_CE.label>gaze attack</AA_GazeAttack_CE.label>
+	<!-- EN: laser bullet -->
+	<AA_LaserBullet_CE.label>laser bullet</AA_LaserBullet_CE.label>
+</LanguageData>

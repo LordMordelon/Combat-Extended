@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Mlie_XennRace\Xenn_Weps1969.xml -->
+	<!-- EN: stock -->
+	<XennBurnCannon.tools.0.label>stock</XennBurnCannon.tools.0.label>
+	<!-- EN: barrel -->
+	<XennBurnCannon.tools.1.label>barrel</XennBurnCannon.tools.1.label>
+	<!-- EN: muzzle -->
+	<XennBurnCannon.tools.2.label>muzzle</XennBurnCannon.tools.2.label>
+	
+	<!-- EN: stock -->
+	<XennFrostCannon.tools.0.label>stock</XennFrostCannon.tools.0.label>
+	<!-- EN: barrel -->
+	<XennFrostCannon.tools.1.label>barrel</XennFrostCannon.tools.1.label>
+	<!-- EN: muzzle -->
+	<XennFrostCannon.tools.2.label>muzzle</XennFrostCannon.tools.2.label>
+</LanguageData>

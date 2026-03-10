@@ -1,0 +1,43 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Neronix17_Outland_RedburnPact\Redburn_WeaponsMelee1219.xml -->
+	<!-- EN: shaft -->
+	<Outland_PactClub.tools.0.label>shaft</Outland_PactClub.tools.0.label>
+	<!-- EN: head -->
+	<Outland_PactClub.tools.1.label>head</Outland_PactClub.tools.1.label>
+	
+	<!-- EN: shaft -->
+	<Outland_PactSpear.tools.0.label>shaft</Outland_PactSpear.tools.0.label>
+	<!-- EN: shaft -->
+	<Outland_PactSpear.tools.1.label>shaft</Outland_PactSpear.tools.1.label>
+	<!-- EN: head -->
+	<Outland_PactSpear.tools.2.label>head</Outland_PactSpear.tools.2.label>
+	<!-- EN: head -->
+	<Outland_PactSpear.tools.3.label>head</Outland_PactSpear.tools.3.label>
+	
+	<!-- EN: handle -->
+	<Outland_PactAxe.tools.0.label>handle</Outland_PactAxe.tools.0.label>
+	<!-- EN: edge -->
+	<Outland_PactAxe.tools.1.label>edge</Outland_PactAxe.tools.1.label>
+	
+	<!-- EN: handle -->
+	<Outland_PactDagger.tools.0.label>handle</Outland_PactDagger.tools.0.label>
+	<!-- EN: point -->
+	<Outland_PactDagger.tools.1.label>point</Outland_PactDagger.tools.1.label>
+	
+	<!-- EN: handle -->
+	<Outland_PactFork.tools.0.label>handle</Outland_PactFork.tools.0.label>
+	<!-- EN: head -->
+	<Outland_PactFork.tools.1.label>head</Outland_PactFork.tools.1.label>
+	
+	<!-- EN: handle -->
+	<Outland_PactSword.tools.0.label>handle</Outland_PactSword.tools.0.label>
+	<!-- EN: point -->
+	<Outland_PactSword.tools.1.label>point</Outland_PactSword.tools.1.label>
+	<!-- EN: edge -->
+	<Outland_PactSword.tools.2.label>edge</Outland_PactSword.tools.2.label>
+	
+	<!-- EN: edge -->
+	<Outland_ObsidianSword.tools.0.label>edge</Outland_ObsidianSword.tools.0.label>
+	<!-- EN: handle -->
+	<Outland_ObsidianSword.tools.1.label>handle</Outland_ObsidianSword.tools.1.label>
+</LanguageData>

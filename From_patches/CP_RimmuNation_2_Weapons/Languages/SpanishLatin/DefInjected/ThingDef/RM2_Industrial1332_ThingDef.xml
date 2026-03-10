@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\CP_RimmuNation_2_Weapons\RM2_Industrial1332.xml -->
+	<!-- EN: edge -->
+	<RHMelee_ECHO_Chainsaw.tools.1.label>edge</RHMelee_ECHO_Chainsaw.tools.1.label>
+	
+	<!-- EN: handle -->
+	<RNMeleeWeapon_Baseball_Bat.tools.0.label>handle</RNMeleeWeapon_Baseball_Bat.tools.0.label>
+	<!-- EN: barrel -->
+	<RNMeleeWeapon_Baseball_Bat.tools.1.label>barrel</RNMeleeWeapon_Baseball_Bat.tools.1.label>
+	
+	<!-- EN: handle -->
+	<RNMeleeWeapon_BrooklynSmasher_Bat.tools.0.label>handle</RNMeleeWeapon_BrooklynSmasher_Bat.tools.0.label>
+	<!-- EN: barrel -->
+	<RNMeleeWeapon_BrooklynSmasher_Bat.tools.1.label>barrel</RNMeleeWeapon_BrooklynSmasher_Bat.tools.1.label>
+</LanguageData>

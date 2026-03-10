@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Staffs\Staff of Ice_Punched.xml -->
+	<!-- EN: make Empowered Elemental Ice Crystal x5 -->
+	<MakeAmmo_Elemental_Staff_Ice_Punched.label>make Empowered Elemental Ice Crystal x5</MakeAmmo_Elemental_Staff_Ice_Punched.label>
+	<!-- EN: Craft 5 Empowered Elemental Ice Crystals. -->
+	<MakeAmmo_Elemental_Staff_Ice_Punched.description>Craft 5 Empowered Elemental Ice Crystals.</MakeAmmo_Elemental_Staff_Ice_Punched.description>
+	<!-- EN: Making Empowered Elemental Ice Crystals. -->
+	<MakeAmmo_Elemental_Staff_Ice_Punched.jobString>Making Empowered Elemental Ice Crystals.</MakeAmmo_Elemental_Staff_Ice_Punched.jobString>
+</LanguageData>

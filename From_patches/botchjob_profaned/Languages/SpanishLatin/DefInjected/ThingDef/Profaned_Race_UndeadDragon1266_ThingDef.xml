@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\botchjob_profaned\Profaned_Race_UndeadDragon1266.xml -->
+	<!-- EN: DD_Knockback -->
+	<BotchJob_UndeadDragon.tools.0.label>DD_Knockback</BotchJob_UndeadDragon.tools.0.label>
+	<!-- EN: left claw -->
+	<BotchJob_UndeadDragon.tools.1.label>left claw</BotchJob_UndeadDragon.tools.1.label>
+	<!-- EN: right claw -->
+	<BotchJob_UndeadDragon.tools.2.label>right claw</BotchJob_UndeadDragon.tools.2.label>
+	<!-- EN: teeth -->
+	<BotchJob_UndeadDragon.tools.3.label>teeth</BotchJob_UndeadDragon.tools.3.label>
+	<!-- EN: horn -->
+	<BotchJob_UndeadDragon.tools.4.label>horn</BotchJob_UndeadDragon.tools.4.label>
+	<!-- EN: horn -->
+	<BotchJob_UndeadDragon.tools.5.label>horn</BotchJob_UndeadDragon.tools.5.label>
+</LanguageData>

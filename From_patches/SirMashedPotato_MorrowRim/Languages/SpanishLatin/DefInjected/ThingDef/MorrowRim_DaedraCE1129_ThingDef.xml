@@ -1,0 +1,44 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\SirMashedPotato_MorrowRim\MorrowRim_DaedraCE1129.xml -->
+	<!-- EN: left hand claws -->
+	<MorrowRim_Clannfear.tools.0.label>left hand claws</MorrowRim_Clannfear.tools.0.label>
+	<!-- EN: right hand claws -->
+	<MorrowRim_Clannfear.tools.1.label>right hand claws</MorrowRim_Clannfear.tools.1.label>
+	<!-- EN: head -->
+	<MorrowRim_Clannfear.tools.3.label>head</MorrowRim_Clannfear.tools.3.label>
+	
+	<!-- EN: left hand claws -->
+	<MorrowRim_Daedroth.tools.0.label>left hand claws</MorrowRim_Daedroth.tools.0.label>
+	<!-- EN: right hand claws -->
+	<MorrowRim_Daedroth.tools.1.label>right hand claws</MorrowRim_Daedroth.tools.1.label>
+	<!-- EN: head -->
+	<MorrowRim_Daedroth.tools.3.label>head</MorrowRim_Daedroth.tools.3.label>
+	
+	<!-- EN: left fist -->
+	<MorrowRim_Ogrim.tools.0.label>left fist</MorrowRim_Ogrim.tools.0.label>
+	<!-- EN: right fist -->
+	<MorrowRim_Ogrim.tools.1.label>right fist</MorrowRim_Ogrim.tools.1.label>
+	<!-- EN: head -->
+	<MorrowRim_Ogrim.tools.2.label>head</MorrowRim_Ogrim.tools.2.label>
+	
+	<!-- EN: left fist -->
+	<MorrowRim_OgrimSmol.tools.0.label>left fist</MorrowRim_OgrimSmol.tools.0.label>
+	<!-- EN: right fist -->
+	<MorrowRim_OgrimSmol.tools.1.label>right fist</MorrowRim_OgrimSmol.tools.1.label>
+	<!-- EN: head -->
+	<MorrowRim_OgrimSmol.tools.2.label>head</MorrowRim_OgrimSmol.tools.2.label>
+	
+	<!-- EN: left hand claws -->
+	<MorrowRim_Scamp.tools.0.label>left hand claws</MorrowRim_Scamp.tools.0.label>
+	<!-- EN: right hand claws -->
+	<MorrowRim_Scamp.tools.1.label>right hand claws</MorrowRim_Scamp.tools.1.label>
+	<!-- EN: head -->
+	<MorrowRim_Scamp.tools.3.label>head</MorrowRim_Scamp.tools.3.label>
+	
+	<!-- EN: left hand claws -->
+	<MorrowRim_Hunger.tools.0.label>left hand claws</MorrowRim_Hunger.tools.0.label>
+	<!-- EN: right hand claws -->
+	<MorrowRim_Hunger.tools.1.label>right hand claws</MorrowRim_Hunger.tools.1.label>
+	<!-- EN: head -->
+	<MorrowRim_Hunger.tools.3.label>head</MorrowRim_Hunger.tools.3.label>
+</LanguageData>

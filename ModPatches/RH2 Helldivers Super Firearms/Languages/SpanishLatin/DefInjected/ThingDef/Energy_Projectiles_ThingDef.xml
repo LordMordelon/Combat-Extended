@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\RH2 Helldivers Super Firearms\Defs\RH2 Helldivers Super Firearms\Ammo\Energy_Projectiles.xml -->
+	<!-- EN: talon laser pulse -->
+	<Bullet_TalonPulse.label>talon laser pulse</Bullet_TalonPulse.label>
+	<!-- EN: sickle laser pulse -->
+	<Bullet_SicklePulse.label>sickle laser pulse</Bullet_SicklePulse.label>
+	<!-- EN: scorcher plasma pulse -->
+	<Bullet_ScorcherPulse.label>scorcher plasma pulse</Bullet_ScorcherPulse.label>
+	<!-- EN: quasar energy pulse -->
+	<Bullet_QuasarPulse.label>quasar energy pulse</Bullet_QuasarPulse.label>
+</LanguageData>

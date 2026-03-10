@@ -1,0 +1,35 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Killathon_ArtificialBeings_SynCore_Martial\AlienRace_Synstruct_HumanlikeBase94.xml -->
+	<!-- EN: left fist -->
+	<ABF_Thing_Synstruct_Warrior.tools.0.label>left fist</ABF_Thing_Synstruct_Warrior.tools.0.label>
+	<!-- EN: right fist -->
+	<ABF_Thing_Synstruct_Warrior.tools.1.label>right fist</ABF_Thing_Synstruct_Warrior.tools.1.label>
+	<!-- EN: body -->
+	<ABF_Thing_Synstruct_Warrior.tools.2.label>body</ABF_Thing_Synstruct_Warrior.tools.2.label>
+	
+	<!-- EN: manipulator -->
+	<ABF_Thing_Synstruct_Bishop.tools.0.label>manipulator</ABF_Thing_Synstruct_Bishop.tools.0.label>
+	<!-- EN: manipulator -->
+	<ABF_Thing_Synstruct_Bishop.tools.1.label>manipulator</ABF_Thing_Synstruct_Bishop.tools.1.label>
+	<!-- EN: bodyslam -->
+	<ABF_Thing_Synstruct_Bishop.tools.2.label>bodyslam</ABF_Thing_Synstruct_Bishop.tools.2.label>
+	
+	<!-- EN: left hand -->
+	<ABF_Thing_Synstruct_Paladin.tools.0.label>left hand</ABF_Thing_Synstruct_Paladin.tools.0.label>
+	<!-- EN: right hand -->
+	<ABF_Thing_Synstruct_Paladin.tools.1.label>right hand</ABF_Thing_Synstruct_Paladin.tools.1.label>
+	<!-- EN: manipulator -->
+	<ABF_Thing_Synstruct_Paladin.tools.2.label>manipulator</ABF_Thing_Synstruct_Paladin.tools.2.label>
+	<!-- EN: manipulator -->
+	<ABF_Thing_Synstruct_Paladin.tools.3.label>manipulator</ABF_Thing_Synstruct_Paladin.tools.3.label>
+	<!-- EN: bodyslam -->
+	<ABF_Thing_Synstruct_Paladin.tools.4.label>bodyslam</ABF_Thing_Synstruct_Paladin.tools.4.label>
+	
+	<!-- EN: bodyslam -->
+	<ABF_Thing_Synstruct_Jellyman.tools.0.label>bodyslam</ABF_Thing_Synstruct_Jellyman.tools.0.label>
+	
+	<!-- EN: left fist -->
+	<ABF_Thing_Synstruct_Juggernaut.tools.0.label>left fist</ABF_Thing_Synstruct_Juggernaut.tools.0.label>
+	<!-- EN: right fist -->
+	<ABF_Thing_Synstruct_Juggernaut.tools.1.label>right fist</ABF_Thing_Synstruct_Juggernaut.tools.1.label>
+</LanguageData>

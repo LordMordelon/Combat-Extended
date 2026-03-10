@@ -1,0 +1,25 @@
+<LanguageData>
+	<!-- ModPatches\MorrowRim - Bloodmoon\Defs\MorrowRim - Bloodmoon\Hunter_Ammo.xml -->
+	<!-- EN: Hunter arrow (stone) -->
+	<Projectile_HuntardArrow_Stone.label>Hunter arrow (stone)</Projectile_HuntardArrow_Stone.label>
+	<!-- EN: Hunter arrow (steel) -->
+	<Projectile_HuntardArrow_Steel.label>Hunter arrow (steel)</Projectile_HuntardArrow_Steel.label>
+	<!-- EN: Hunter arrow (plasteel) -->
+	<Projectile_HuntardArrow_Plasteel.label>Hunter arrow (plasteel)</Projectile_HuntardArrow_Plasteel.label>
+	<!-- EN: hunter arrow (venom) -->
+	<Projectile_HuntardArrow_Venom.label>hunter arrow (venom)</Projectile_HuntardArrow_Venom.label>
+	<!-- EN: hunter arrow (flame) -->
+	<Projectile_HuntardArrow_Flame.label>hunter arrow (flame)</Projectile_HuntardArrow_Flame.label>
+	<!-- EN: .30-06 Springfield cartridge (FMJ) -->
+	<Bullet_3006Springfield_FMJ_BloodMoon.label>.30-06 Springfield cartridge (FMJ)</Bullet_3006Springfield_FMJ_BloodMoon.label>
+	<!-- EN: .30-06 Springfield cartridge (AP) -->
+	<Bullet_3006Springfield_AP_BloodMoon.label>.30-06 Springfield cartridge (AP)</Bullet_3006Springfield_AP_BloodMoon.label>
+	<!-- EN: .30-06 Springfield cartridge (HP) -->
+	<Bullet_3006Springfield_HP_BloodMoon.label>.30-06 Springfield cartridge (HP)</Bullet_3006Springfield_HP_BloodMoon.label>
+	<!-- EN: .30-06 Springfield bullet (AP-I) -->
+	<Bullet_3006Springfield_Incendiary_BloodMoon.label>.30-06 Springfield bullet (AP-I)</Bullet_3006Springfield_Incendiary_BloodMoon.label>
+	<!-- EN: .30-06 Springfield bullet (AP-HE) -->
+	<Bullet_3006Springfield_HE_BloodMoon.label>.30-06 Springfield bullet (AP-HE)</Bullet_3006Springfield_HE_BloodMoon.label>
+	<!-- EN: .30-06 Springfield bullet (Sabot) -->
+	<Bullet_3006Springfield_Sabot_BloodMoon.label>.30-06 Springfield bullet (Sabot)</Bullet_3006Springfield_Sabot_BloodMoon.label>
+</LanguageData>

@@ -1,0 +1,22 @@
+<LanguageData>
+	<!-- ModPatches\RW Pilas and Bows\Defs\RW Pilas and Bows\Arrows.xml -->
+	<!-- EN: Bownade -->
+	<ArrowGrenade.label>Bownade</ArrowGrenade.label>
+	<!-- EN: Pull the pin and immediately shoot the arrow, or else. -->
+	<ArrowGrenade.description>Pull the pin and immediately shoot the arrow, or else.</ArrowGrenade.description>
+	
+	<!-- EN: Bowlotov -->
+	<ArrowMolotov.label>Bowlotov</ArrowMolotov.label>
+	<!-- EN: No need for accuracy when your arrows explode. -->
+	<ArrowMolotov.description>No need for accuracy when your arrows explode.</ArrowMolotov.description>
+	
+	<!-- EN: BowMP -->
+	<ArrowEMP.label>BowMP</ArrowEMP.label>
+	<!-- EN: Demonic servants of a sleeping god, meet 'demonic servant of a sleeping god'-stopper. -->
+	<ArrowEMP.description>Demonic servants of a sleeping god, meet 'demonic servant of a sleeping god'-stopper.</ArrowEMP.description>
+	
+	<!-- EN: Bowttery -->
+	<ArrowBattery.label>Bowttery</ArrowBattery.label>
+	<!-- EN: When the guns are gone and you can't go on. -->
+	<ArrowBattery.description>When the guns are gone and you can't go on.</ArrowBattery.description>
+</LanguageData>

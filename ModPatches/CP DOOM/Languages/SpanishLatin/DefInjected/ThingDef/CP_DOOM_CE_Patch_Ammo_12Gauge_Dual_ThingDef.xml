@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\CP DOOM\Defs\CP DOOM\CP_DOOM_CE_Patch_Ammo_12Gauge_Dual.xml -->
+	<!-- EN: buckshot pellet -->
+	<Bullet_12Gauge_DoubleBarreled_Buck.label>buckshot pellet</Bullet_12Gauge_DoubleBarreled_Buck.label>
+	<!-- EN: shotgun slug -->
+	<Bullet_12Gauge_DoubleBarreled_Slug.label>shotgun slug</Bullet_12Gauge_DoubleBarreled_Slug.label>
+	<!-- EN: beanbag -->
+	<Bullet_12Gauge_DoubleBarreled_Beanbag.label>beanbag</Bullet_12Gauge_DoubleBarreled_Beanbag.label>
+	<!-- EN: EMP slug -->
+	<Bullet_12Gauge_DoubleBarreled_ElectroSlug.label>EMP slug</Bullet_12Gauge_DoubleBarreled_ElectroSlug.label>
+</LanguageData>

@@ -1,0 +1,43 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Epicfloor_WarcasketMeleeWeapons\Weapons1696.xml -->
+	<!-- EN: handle -->
+	<VFEPUA_WarcasketMeleeWeapon_Spear.tools.0.label>handle</VFEPUA_WarcasketMeleeWeapon_Spear.tools.0.label>
+	<!-- EN: point -->
+	<VFEPUA_WarcasketMeleeWeapon_Spear.tools.1.label>point</VFEPUA_WarcasketMeleeWeapon_Spear.tools.1.label>
+	
+	<!-- EN: handle -->
+	<VFEPUA_WarcasketMeleeWeapon_Axe.tools.0.label>handle</VFEPUA_WarcasketMeleeWeapon_Axe.tools.0.label>
+	<!-- EN: edge -->
+	<VFEPUA_WarcasketMeleeWeapon_Axe.tools.1.label>edge</VFEPUA_WarcasketMeleeWeapon_Axe.tools.1.label>
+	
+	<!-- EN: handle -->
+	<VFEPUA_WarcasketMeleeWeapon_Baton.tools.0.label>handle</VFEPUA_WarcasketMeleeWeapon_Baton.tools.0.label>
+	<!-- EN: head -->
+	<VFEPUA_WarcasketMeleeWeapon_Baton.tools.1.label>head</VFEPUA_WarcasketMeleeWeapon_Baton.tools.1.label>
+	
+	<!-- EN: fist -->
+	<VFEPUA_WarcasketMeleeWeapon_Knuckle.tools.0.label>fist</VFEPUA_WarcasketMeleeWeapon_Knuckle.tools.0.label>
+	
+	<!-- EN: edge -->
+	<VFEPUA_WarcasketMeleeWeapon_Glaive.tools.0.label>edge</VFEPUA_WarcasketMeleeWeapon_Glaive.tools.0.label>
+	<!-- EN: point -->
+	<VFEPUA_WarcasketMeleeWeapon_Glaive.tools.1.label>point</VFEPUA_WarcasketMeleeWeapon_Glaive.tools.1.label>
+	
+	<!-- EN: handle -->
+	<VFEPUA_WarcasketMeleeWeapon_Hammer.tools.0.label>handle</VFEPUA_WarcasketMeleeWeapon_Hammer.tools.0.label>
+	<!-- EN: head -->
+	<VFEPUA_WarcasketMeleeWeapon_Hammer.tools.1.label>head</VFEPUA_WarcasketMeleeWeapon_Hammer.tools.1.label>
+	
+	<!-- EN: fist -->
+	<VFEPUA_WarcasketMeleeWeapon_KineticGauntlet.tools.0.label>fist</VFEPUA_WarcasketMeleeWeapon_KineticGauntlet.tools.0.label>
+	
+	<!-- EN: handle -->
+	<VFEPUA_WarcasketMeleeWeapon_MonoSpear.tools.0.label>handle</VFEPUA_WarcasketMeleeWeapon_MonoSpear.tools.0.label>
+	<!-- EN: point -->
+	<VFEPUA_WarcasketMeleeWeapon_MonoSpear.tools.1.label>point</VFEPUA_WarcasketMeleeWeapon_MonoSpear.tools.1.label>
+	
+	<!-- EN: edge -->
+	<VFEPUA_WarcasketMeleeWeapon_MonoKnife.tools.0.label>edge</VFEPUA_WarcasketMeleeWeapon_MonoKnife.tools.0.label>
+	<!-- EN: point -->
+	<VFEPUA_WarcasketMeleeWeapon_MonoKnife.tools.1.label>point</VFEPUA_WarcasketMeleeWeapon_MonoKnife.tools.1.label>
+</LanguageData>

@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Defs\Ammo\Advanced\12mmRailgun.xml -->
+	<!-- EN: 12mm Railgun (Sabot) -->
+	<Ammo_12mmRailgun_Sabot.label>12mm Railgun (Sabot)</Ammo_12mmRailgun_Sabot.label>
+	<!-- EN: Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for large-caliber railgun weapons. -->
+	<Ammo_12mmRailgun_Sabot.description>Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for large-caliber railgun weapons.</Ammo_12mmRailgun_Sabot.description>
+	<!-- EN: 12mm Railgun bullet (Sabot) -->
+	<Bullet_12mmRailgun_Sabot.label>12mm Railgun bullet (Sabot)</Bullet_12mmRailgun_Sabot.label>
+</LanguageData>

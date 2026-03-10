@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- ModPatches\Censored Armory\Defs\Censored Armory\37x249mmR.xml -->
+	
+	<!-- EN: 37x249mmR cartridge (APHE) -->
+	<Ammo_37x249mmR_HE.label>37x249mmR cartridge (APHE)</Ammo_37x249mmR_HE.label>
+	<!-- EN: Medium caliber cannon shell used by light, quick-firing anti-tank guns. -->
+	<Ammo_37x249mmR_HE.description>Medium caliber cannon shell used by light, quick-firing anti-tank guns.</Ammo_37x249mmR_HE.description>
+	
+	<!-- EN: 37x249mmR cartridge (AP) -->
+	<Ammo_37x249mmR_AP.label>37x249mmR cartridge (AP)</Ammo_37x249mmR_AP.label>
+	<!-- EN: Medium caliber cannon shell used by light, quick-firing anti-tank guns. -->
+	<Ammo_37x249mmR_AP.description>Medium caliber cannon shell used by light, quick-firing anti-tank guns.</Ammo_37x249mmR_AP.description>
+	
+	<!-- EN: 37x249mmR shell (APHE) -->
+	<Bullet_37x249mmR_HE.label>37x249mmR shell (APHE)</Bullet_37x249mmR_HE.label>
+	
+	<!-- EN: 37x249mmR shell (AP) -->
+	<Bullet_37x249mmR_AP.label>37x249mmR shell (AP)</Bullet_37x249mmR_AP.label>
+</LanguageData>

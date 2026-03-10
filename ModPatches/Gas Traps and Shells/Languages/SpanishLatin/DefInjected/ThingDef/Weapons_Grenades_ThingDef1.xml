@@ -1,0 +1,114 @@
+<LanguageData>
+	<!-- ModPatches\Gas Traps and Shells\Defs\Gas Traps and Shells\Weapons_Grenades.xml -->
+	<!-- EN: toxic gas grenade -->
+	<Proj_GrenadeToxic.label>toxic gas grenade</Proj_GrenadeToxic.label>
+	
+	<!-- EN: toxic gas grenade -->
+	<Weapon_GrenadeToxic.label>toxic gas grenade</Weapon_GrenadeToxic.label>
+	<!-- EN: Releases a large cloud of a potent nerve agent harmful to most complex forms of organic life. -->
+	<Weapon_GrenadeToxic.description>Releases a large cloud of a potent nerve agent harmful to most complex forms of organic life.</Weapon_GrenadeToxic.description>
+	<!-- EN: Body -->
+	<Weapon_GrenadeToxic.tools.0.label>Body</Weapon_GrenadeToxic.tools.0.label>
+	<!-- EN: throw toxic gas grenade -->
+	<Weapon_GrenadeToxic.verbs.0.label>throw toxic gas grenade</Weapon_GrenadeToxic.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<Weapon_GrenadeToxic.verbs.CombatExtended.Verb_ShootCEOneUse.label>ㅤ</Weapon_GrenadeToxic.verbs.CombatExtended.Verb_ShootCEOneUse.label>
+	
+	<!-- EN: rage gas grenade -->
+	<Proj_GrenadeRage.label>rage gas grenade</Proj_GrenadeRage.label>
+	
+	<!-- EN: rage gas grenade -->
+	<Weapon_GrenadeRage.label>rage gas grenade</Weapon_GrenadeRage.label>
+	<!-- EN: Releases a large cloud of a specialized airbone agent that induces a blind, uncontrollable rage.. -->
+	<Weapon_GrenadeRage.description>Releases a large cloud of a specialized airbone agent that induces a blind, uncontrollable rage..</Weapon_GrenadeRage.description>
+	<!-- EN: Body -->
+	<Weapon_GrenadeRage.tools.0.label>Body</Weapon_GrenadeRage.tools.0.label>
+	<!-- EN: throw rage gas grenade -->
+	<Weapon_GrenadeRage.verbs.0.label>throw rage gas grenade</Weapon_GrenadeRage.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<Weapon_GrenadeRage.verbs.CombatExtended.Verb_ShootCEOneUse.label>ㅤ</Weapon_GrenadeRage.verbs.CombatExtended.Verb_ShootCEOneUse.label>
+	
+	<!-- EN: tear gas grenade -->
+	<Proj_GrenadeTearGas.label>tear gas grenade</Proj_GrenadeTearGas.label>
+	
+	<!-- EN: tear gas grenade -->
+	<Weapon_GrenadeTearGas.label>tear gas grenade</Weapon_GrenadeTearGas.label>
+	<!-- EN: Releases a large cloud of a specialized airbone agent that attacks the sensitive membranes of the eyes and nose, making it difficult to see or breathe.. -->
+	<Weapon_GrenadeTearGas.description>Releases a large cloud of a specialized airbone agent that attacks the sensitive membranes of the eyes and nose, making it difficult to see or breathe..</Weapon_GrenadeTearGas.description>
+	<!-- EN: Body -->
+	<Weapon_GrenadeTearGas.tools.0.label>Body</Weapon_GrenadeTearGas.tools.0.label>
+	<!-- EN: throw tear gas grenade -->
+	<Weapon_GrenadeTearGas.verbs.0.label>throw tear gas grenade</Weapon_GrenadeTearGas.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<Weapon_GrenadeTearGas.verbs.CombatExtended.Verb_ShootCEOneUse.label>ㅤ</Weapon_GrenadeTearGas.verbs.CombatExtended.Verb_ShootCEOneUse.label>
+	
+	<!-- EN: sleep gas grenade -->
+	<Proj_GrenadeSleep.label>sleep gas grenade</Proj_GrenadeSleep.label>
+	
+	<!-- EN: sleep gas grenade -->
+	<Weapon_GrenadeSleep.label>sleep gas grenade</Weapon_GrenadeSleep.label>
+	<!-- EN: Releases a large cloud of powerful sedatives, capable of knocking unconscious anyone exposed to it. -->
+	<Weapon_GrenadeSleep.description>Releases a large cloud of powerful sedatives, capable of knocking unconscious anyone exposed to it.</Weapon_GrenadeSleep.description>
+	<!-- EN: Body -->
+	<Weapon_GrenadeSleep.tools.0.label>Body</Weapon_GrenadeSleep.tools.0.label>
+	<!-- EN: throw sleep gas grenade -->
+	<Weapon_GrenadeSleep.verbs.0.label>throw sleep gas grenade</Weapon_GrenadeSleep.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<Weapon_GrenadeSleep.verbs.CombatExtended.Verb_ShootCEOneUse.label>ㅤ</Weapon_GrenadeSleep.verbs.CombatExtended.Verb_ShootCEOneUse.label>
+	
+	<!-- EN: fear gas grenade -->
+	<Proj_GrenadeFear.label>fear gas grenade</Proj_GrenadeFear.label>
+	
+	<!-- EN: fear gas grenade -->
+	<Weapon_GrenadeFear.label>fear gas grenade</Weapon_GrenadeFear.label>
+	<!-- EN: Releases a large cloud of a specialized airbone agent that induces an extremely strong feeling of dread and terror. -->
+	<Weapon_GrenadeFear.description>Releases a large cloud of a specialized airbone agent that induces an extremely strong feeling of dread and terror.</Weapon_GrenadeFear.description>
+	<!-- EN: Body -->
+	<Weapon_GrenadeFear.tools.0.label>Body</Weapon_GrenadeFear.tools.0.label>
+	<!-- EN: throw fear gas grenade -->
+	<Weapon_GrenadeFear.verbs.0.label>throw fear gas grenade</Weapon_GrenadeFear.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<Weapon_GrenadeFear.verbs.CombatExtended.Verb_ShootCEOneUse.label>ㅤ</Weapon_GrenadeFear.verbs.CombatExtended.Verb_ShootCEOneUse.label>
+	
+	<!-- EN: corrosive gas grenade -->
+	<Proj_GrenadeAcid.label>corrosive gas grenade</Proj_GrenadeAcid.label>
+	
+	<!-- EN: corrosive gas grenade -->
+	<Weapon_GrenadeAcid.label>corrosive gas grenade</Weapon_GrenadeAcid.label>
+	<!-- EN: Releases a large cloud of an extremely strong acid, capable of quickly burning flesh and metal alike. -->
+	<Weapon_GrenadeAcid.description>Releases a large cloud of an extremely strong acid, capable of quickly burning flesh and metal alike.</Weapon_GrenadeAcid.description>
+	<!-- EN: Body -->
+	<Weapon_GrenadeAcid.tools.0.label>Body</Weapon_GrenadeAcid.tools.0.label>
+	<!-- EN: throw corrosive gas grenade -->
+	<Weapon_GrenadeAcid.verbs.0.label>throw corrosive gas grenade</Weapon_GrenadeAcid.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<Weapon_GrenadeAcid.verbs.CombatExtended.Verb_ShootCEOneUse.label>ㅤ</Weapon_GrenadeAcid.verbs.CombatExtended.Verb_ShootCEOneUse.label>
+	
+	<!-- EN: nanomachine canister -->
+	<Proj_GrenadeMechVirus.label>nanomachine canister</Proj_GrenadeMechVirus.label>
+	
+	<!-- EN: nanomachine canister -->
+	<Weapon_GrenadeMechVirus.label>nanomachine canister</Weapon_GrenadeMechVirus.label>
+	<!-- EN: Releases a large cloud of nanomachines designed to latch onto and wreck havoc on the systems of mechanoids. Ineffective against organic life. -->
+	<Weapon_GrenadeMechVirus.description>Releases a large cloud of nanomachines designed to latch onto and wreck havoc on the systems of mechanoids. Ineffective against organic life.</Weapon_GrenadeMechVirus.description>
+	<!-- EN: Body -->
+	<Weapon_GrenadeMechVirus.tools.0.label>Body</Weapon_GrenadeMechVirus.tools.0.label>
+	<!-- EN: throw nanomachine canister -->
+	<Weapon_GrenadeMechVirus.verbs.0.label>throw nanomachine canister</Weapon_GrenadeMechVirus.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<Weapon_GrenadeMechVirus.verbs.CombatExtended.Verb_ShootCEOneUse.label>ㅤ</Weapon_GrenadeMechVirus.verbs.CombatExtended.Verb_ShootCEOneUse.label>
+	
+	<!-- EN: insecticide gas grenade -->
+	<Proj_GrenadeAntiBug.label>insecticide gas grenade</Proj_GrenadeAntiBug.label>
+	
+	<!-- EN: insecticide gas grenade -->
+	<Weapon_GrenadeAntiBug.label>insecticide gas grenade</Weapon_GrenadeAntiBug.label>
+	<!-- EN: Releases a large cloud of a special aerosol designed to kill insectoids. -->
+	<Weapon_GrenadeAntiBug.description>Releases a large cloud of a special aerosol designed to kill insectoids.</Weapon_GrenadeAntiBug.description>
+	<!-- EN: Body -->
+	<Weapon_GrenadeAntiBug.tools.0.label>Body</Weapon_GrenadeAntiBug.tools.0.label>
+	<!-- EN: throw insecticide gas grenade -->
+	<Weapon_GrenadeAntiBug.verbs.0.label>throw insecticide gas grenade</Weapon_GrenadeAntiBug.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<Weapon_GrenadeAntiBug.verbs.CombatExtended.Verb_ShootCEOneUse.label>ㅤ</Weapon_GrenadeAntiBug.verbs.CombatExtended.Verb_ShootCEOneUse.label>
+</LanguageData>

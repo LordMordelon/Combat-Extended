@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- ModPatches\Rimsenal Core\Defs\Rimsenal Core\Ammo_YP.xml -->
+	<!-- EN: make Light YP cartridge x750 -->
+	<MakeAmmo_RifleYP.label>make Light YP cartridge x750</MakeAmmo_RifleYP.label>
+	<!-- EN: Craft 750 Light YP cartridges. -->
+	<MakeAmmo_RifleYP.description>Craft 750 Light YP cartridges.</MakeAmmo_RifleYP.description>
+	<!-- EN: Making Light YP cartridges. -->
+	<MakeAmmo_RifleYP.jobString>Making Light YP cartridges.</MakeAmmo_RifleYP.jobString>
+	<!-- EN: make Heavy YP cartridge x500 -->
+	<MakeAmmo_SpikeYP.label>make Heavy YP cartridge x500</MakeAmmo_SpikeYP.label>
+	<!-- EN: Craft 500 Heavy YP cartridges. -->
+	<MakeAmmo_SpikeYP.description>Craft 500 Heavy YP cartridges.</MakeAmmo_SpikeYP.description>
+	<!-- EN: Making Heavy YP cartridges. -->
+	<MakeAmmo_SpikeYP.jobString>Making Heavy YP cartridges.</MakeAmmo_SpikeYP.jobString>
+</LanguageData>

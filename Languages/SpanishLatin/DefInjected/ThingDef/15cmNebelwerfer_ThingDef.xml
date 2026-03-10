@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Defs\Ammo\Shell\15cmNebelwerfer.xml -->
+	<!-- EN: 15cm Nebelwerfer rocket (HE) -->
+	<Ammo_15cmNebelwerfer_HE.label>15cm Nebelwerfer rocket (HE)</Ammo_15cmNebelwerfer_HE.label>
+	<!-- EN: 15cm heavy rocket typically used in multi-barrel rocket artillery launchers. -->
+	<Ammo_15cmNebelwerfer_HE.description>15cm heavy rocket typically used in multi-barrel rocket artillery launchers.</Ammo_15cmNebelwerfer_HE.description>
+	<!-- EN: 15cm Nebelwerfer rocket (HE) -->
+	<Bullet_15cmNebelwerfer_HE.label>15cm Nebelwerfer rocket (HE)</Bullet_15cmNebelwerfer_HE.label>
+</LanguageData>

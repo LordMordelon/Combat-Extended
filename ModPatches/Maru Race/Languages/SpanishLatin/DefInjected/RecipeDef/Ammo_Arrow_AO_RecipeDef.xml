@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Maru Race\Defs\Maru Race\Ammo_Arrow_AO.xml -->
+	<!-- EN: make maru heavy arrows x10 -->
+	<MakeAmmo_CPB_AO.label>make maru heavy arrows x10</MakeAmmo_CPB_AO.label>
+	<!-- EN: Craft 10 maru heavy arrows. -->
+	<MakeAmmo_CPB_AO.description>Craft 10 maru heavy arrows.</MakeAmmo_CPB_AO.description>
+	<!-- EN: Making maru heavy arrows. -->
+	<MakeAmmo_CPB_AO.jobString>Making maru heavy arrows.</MakeAmmo_CPB_AO.jobString>
+</LanguageData>

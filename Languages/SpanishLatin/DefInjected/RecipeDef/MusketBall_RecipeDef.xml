@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Defs\Ammo\Medieval\MusketBall.xml -->
+	<!-- EN: make musket ball x100 -->
+	<MakeAmmo_MusketBall.label>make musket ball x100</MakeAmmo_MusketBall.label>
+	<!-- EN: Craft 100 musket balls. -->
+	<MakeAmmo_MusketBall.description>Craft 100 musket balls.</MakeAmmo_MusketBall.description>
+	<!-- EN: Making musket balls. -->
+	<MakeAmmo_MusketBall.jobString>Making musket balls.</MakeAmmo_MusketBall.jobString>
+</LanguageData>

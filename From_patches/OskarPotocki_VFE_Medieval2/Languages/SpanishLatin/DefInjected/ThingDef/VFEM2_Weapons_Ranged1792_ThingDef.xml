@@ -1,0 +1,34 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\OskarPotocki_VFE_Medieval2\VFEM2_Weapons_Ranged1792.xml -->
+	<!-- EN: stock -->
+	<VFEM2_Gun_Arquebus.tools.0.label>stock</VFEM2_Gun_Arquebus.tools.0.label>
+	<!-- EN: barrel -->
+	<VFEM2_Gun_Arquebus.tools.1.label>barrel</VFEM2_Gun_Arquebus.tools.1.label>
+	<!-- EN: muzzle -->
+	<VFEM2_Gun_Arquebus.tools.2.label>muzzle</VFEM2_Gun_Arquebus.tools.2.label>
+	
+	<!-- EN: stock -->
+	<VFEM2_Gun_HandCannon.tools.0.label>stock</VFEM2_Gun_HandCannon.tools.0.label>
+	<!-- EN: barrel -->
+	<VFEM2_Gun_HandCannon.tools.1.label>barrel</VFEM2_Gun_HandCannon.tools.1.label>
+	<!-- EN: muzzle -->
+	<VFEM2_Gun_HandCannon.tools.2.label>muzzle</VFEM2_Gun_HandCannon.tools.2.label>
+	
+	<!-- EN: Volley Shot -->
+	<VFEM2_Warbow.comps.0.underBarrelLabel>Volley Shot</VFEM2_Warbow.comps.0.underBarrelLabel>
+	<!-- EN: Direct Shot -->
+	<VFEM2_Warbow.comps.0.standardLabel>Direct Shot</VFEM2_Warbow.comps.0.standardLabel>
+	
+	<!-- EN: ㅤ -->
+	<VFEM2_Gun_Arquebus.verbs.0.label>ㅤ</VFEM2_Gun_Arquebus.verbs.0.label>
+	
+	<!-- EN: ㅤ -->
+	<VFEM2_Gun_HandCannon.verbs.0.label>ㅤ</VFEM2_Gun_HandCannon.verbs.0.label>
+	
+	<!-- EN: ㅤ -->
+	<VFEM2_ThrowingAxe.verbs.0.label>ㅤ</VFEM2_ThrowingAxe.verbs.0.label>
+	<!-- EN: handle -->
+	<VFEM2_ThrowingAxe.tools.0.label>handle</VFEM2_ThrowingAxe.tools.0.label>
+	<!-- EN: edge -->
+	<VFEM2_ThrowingAxe.tools.1.label>edge</VFEM2_ThrowingAxe.tools.1.label>
+</LanguageData>

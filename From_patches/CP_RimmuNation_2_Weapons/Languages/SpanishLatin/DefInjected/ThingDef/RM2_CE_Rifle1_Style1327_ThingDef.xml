@@ -1,0 +1,37 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\CP_RimmuNation_2_Weapons\RM2_CE_Rifle1_Style1327.xml -->
+	<!-- EN: stock -->
+	<RNGun_AK47_Rifle.tools.0.label>stock</RNGun_AK47_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_AK47_Rifle.tools.1.label>barrel</RNGun_AK47_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_AK47_Rifle.tools.2.label>muzzle</RNGun_AK47_Rifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_AK74_Rifle.tools.0.label>stock</RNGun_AK74_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_AK74_Rifle.tools.1.label>barrel</RNGun_AK74_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_AK74_Rifle.tools.2.label>muzzle</RNGun_AK74_Rifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_AK103_Rifle.tools.0.label>stock</RNGun_AK103_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_AK103_Rifle.tools.1.label>barrel</RNGun_AK103_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_AK103_Rifle.tools.2.label>muzzle</RNGun_AK103_Rifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_ASVAL_Rifle.tools.0.label>stock</RNGun_ASVAL_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_ASVAL_Rifle.tools.1.label>barrel</RNGun_ASVAL_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_ASVAL_Rifle.tools.2.label>muzzle</RNGun_ASVAL_Rifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_Type56_Rifle.tools.0.label>stock</RNGun_Type56_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_Type56_Rifle.tools.1.label>barrel</RNGun_Type56_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_Type56_Rifle.tools.2.label>muzzle</RNGun_Type56_Rifle.tools.2.label>
+</LanguageData>

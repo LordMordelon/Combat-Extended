@@ -1,0 +1,32 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\RH2_Faction_Rangers\Rangers_CE_Patch_Handgun1286.xml -->
+	<!-- EN: grip -->
+	<RNGun_Revolver_RemingtonSingleActionArmy.tools.0.label>grip</RNGun_Revolver_RemingtonSingleActionArmy.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_Revolver_RemingtonSingleActionArmy.tools.1.label>muzzle</RNGun_Revolver_RemingtonSingleActionArmy.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_Revolver_ColtPeacemaker.tools.0.label>grip</RNGun_Revolver_ColtPeacemaker.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_Revolver_ColtPeacemaker.tools.1.label>muzzle</RNGun_Revolver_ColtPeacemaker.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_Revolver_ColtWalker.tools.0.label>grip</RNGun_Revolver_ColtWalker.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_Revolver_ColtWalker.tools.1.label>muzzle</RNGun_Revolver_ColtWalker.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_Revolver_SWModel3R.tools.0.label>grip</RNGun_Revolver_SWModel3R.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_Revolver_SWModel3R.tools.1.label>muzzle</RNGun_Revolver_SWModel3R.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_Revolver_SWModel29R.tools.0.label>grip</RNGun_Revolver_SWModel29R.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_Revolver_SWModel29R.tools.1.label>muzzle</RNGun_Revolver_SWModel29R.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_BrowningHiPower_Pistol.tools.0.label>grip</RNGun_BrowningHiPower_Pistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_BrowningHiPower_Pistol.tools.1.label>muzzle</RNGun_BrowningHiPower_Pistol.tools.1.label>
+</LanguageData>

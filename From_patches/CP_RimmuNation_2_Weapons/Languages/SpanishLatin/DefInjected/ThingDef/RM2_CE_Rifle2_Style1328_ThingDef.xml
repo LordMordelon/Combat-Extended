@@ -1,0 +1,184 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\CP_RimmuNation_2_Weapons\RM2_CE_Rifle2_Style1328.xml -->
+	<!-- EN: stock -->
+	<RNGun_DDM4V11_Rifle.tools.0.label>stock</RNGun_DDM4V11_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_DDM4V11_Rifle.tools.1.label>barrel</RNGun_DDM4V11_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_DDM4V11_Rifle.tools.2.label>muzzle</RNGun_DDM4V11_Rifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_HK416_Rifle.tools.0.label>stock</RNGun_HK416_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_HK416_Rifle.tools.1.label>barrel</RNGun_HK416_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_HK416_Rifle.tools.2.label>muzzle</RNGun_HK416_Rifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_LVOAC_Rifle.tools.0.label>stock</RNGun_LVOAC_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_LVOAC_Rifle.tools.1.label>barrel</RNGun_LVOAC_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_LVOAC_Rifle.tools.2.label>muzzle</RNGun_LVOAC_Rifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_M16A2_Rifle.tools.0.label>stock</RNGun_M16A2_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_M16A2_Rifle.tools.1.label>barrel</RNGun_M16A2_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_M16A2_Rifle.tools.2.label>muzzle</RNGun_M16A2_Rifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_C8CQB_Carbine.tools.0.label>stock</RNGun_C8CQB_Carbine.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_C8CQB_Carbine.tools.1.label>barrel</RNGun_C8CQB_Carbine.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_C8CQB_Carbine.tools.2.label>muzzle</RNGun_C8CQB_Carbine.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_TypeCQ_Rifle.tools.0.label>stock</RNGun_TypeCQ_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_TypeCQ_Rifle.tools.1.label>barrel</RNGun_TypeCQ_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_TypeCQ_Rifle.tools.2.label>muzzle</RNGun_TypeCQ_Rifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_IWIACE52_Rifle.tools.0.label>stock</RNGun_IWIACE52_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_IWIACE52_Rifle.tools.1.label>barrel</RNGun_IWIACE52_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_IWIACE52_Rifle.tools.2.label>muzzle</RNGun_IWIACE52_Rifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_C7A1_Rifle.tools.0.label>stock</RNGun_C7A1_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_C7A1_Rifle.tools.1.label>barrel</RNGun_C7A1_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_C7A1_Rifle.tools.2.label>muzzle</RNGun_C7A1_Rifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_MD97_Rifle.tools.0.label>stock</RNGun_MD97_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_MD97_Rifle.tools.1.label>barrel</RNGun_MD97_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_MD97_Rifle.tools.2.label>muzzle</RNGun_MD97_Rifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_AK5C_Carbine.tools.0.label>stock</RNGun_AK5C_Carbine.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_AK5C_Carbine.tools.1.label>barrel</RNGun_AK5C_Carbine.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_AK5C_Carbine.tools.2.label>muzzle</RNGun_AK5C_Carbine.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_CZ805BrenA2_Rifle.tools.0.label>stock</RNGun_CZ805BrenA2_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_CZ805BrenA2_Rifle.tools.1.label>barrel</RNGun_CZ805BrenA2_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_CZ805BrenA2_Rifle.tools.2.label>muzzle</RNGun_CZ805BrenA2_Rifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_FBBeryl_Rifle.tools.0.label>stock</RNGun_FBBeryl_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_FBBeryl_Rifle.tools.1.label>barrel</RNGun_FBBeryl_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_FBBeryl_Rifle.tools.2.label>muzzle</RNGun_FBBeryl_Rifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_R1Para_Rifle.tools.0.label>stock</RNGun_R1Para_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_R1Para_Rifle.tools.1.label>barrel</RNGun_R1Para_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_R1Para_Rifle.tools.2.label>muzzle</RNGun_R1Para_Rifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_FNFAL_Rifle.tools.0.label>stock</RNGun_FNFAL_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_FNFAL_Rifle.tools.1.label>barrel</RNGun_FNFAL_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_FNFAL_Rifle.tools.2.label>muzzle</RNGun_FNFAL_Rifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_RomatFAL_Rifle.tools.0.label>stock</RNGun_RomatFAL_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_RomatFAL_Rifle.tools.1.label>barrel</RNGun_RomatFAL_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_RomatFAL_Rifle.tools.2.label>muzzle</RNGun_RomatFAL_Rifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_G36K_Rifle.tools.0.label>stock</RNGun_G36K_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_G36K_Rifle.tools.1.label>barrel</RNGun_G36K_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_G36K_Rifle.tools.2.label>muzzle</RNGun_G36K_Rifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_M4A1_Rifle.tools.0.label>stock</RNGun_M4A1_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_M4A1_Rifle.tools.1.label>barrel</RNGun_M4A1_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_M4A1_Rifle.tools.2.label>muzzle</RNGun_M4A1_Rifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_F2000_Rifle.tools.0.label>stock</RNGun_F2000_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_F2000_Rifle.tools.1.label>barrel</RNGun_F2000_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_F2000_Rifle.tools.2.label>muzzle</RNGun_F2000_Rifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_G3A2_Rifle.tools.0.label>stock</RNGun_G3A2_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_G3A2_Rifle.tools.1.label>barrel</RNGun_G3A2_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_G3A2_Rifle.tools.2.label>muzzle</RNGun_G3A2_Rifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_ACR_Rifle.tools.0.label>stock</RNGun_ACR_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_ACR_Rifle.tools.1.label>barrel</RNGun_ACR_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_ACR_Rifle.tools.2.label>muzzle</RNGun_ACR_Rifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_TAR-21_Rifle.tools.0.label>stock</RNGun_TAR-21_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_TAR-21_Rifle.tools.1.label>barrel</RNGun_TAR-21_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_TAR-21_Rifle.tools.2.label>muzzle</RNGun_TAR-21_Rifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_M4A1DEVGRU_Rifle.tools.0.label>stock</RNGun_M4A1DEVGRU_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_M4A1DEVGRU_Rifle.tools.1.label>barrel</RNGun_M4A1DEVGRU_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_M4A1DEVGRU_Rifle.tools.2.label>muzzle</RNGun_M4A1DEVGRU_Rifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_AKMSD_Rifle.tools.0.label>stock</RNGun_AKMSD_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_AKMSD_Rifle.tools.1.label>barrel</RNGun_AKMSD_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_AKMSD_Rifle.tools.2.label>muzzle</RNGun_AKMSD_Rifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_ACRSD_Rifle.tools.0.label>stock</RNGun_ACRSD_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_ACRSD_Rifle.tools.1.label>barrel</RNGun_ACRSD_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_ACRSD_Rifle.tools.2.label>muzzle</RNGun_ACRSD_Rifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_FNFALTatiana_Rifle.tools.0.label>stock</RNGun_FNFALTatiana_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_FNFALTatiana_Rifle.tools.1.label>barrel</RNGun_FNFALTatiana_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_FNFALTatiana_Rifle.tools.2.label>muzzle</RNGun_FNFALTatiana_Rifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_SCARLSD_Rifle.tools.0.label>stock</RNGun_SCARLSD_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_SCARLSD_Rifle.tools.1.label>barrel</RNGun_SCARLSD_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_SCARLSD_Rifle.tools.2.label>muzzle</RNGun_SCARLSD_Rifle.tools.2.label>
+</LanguageData>

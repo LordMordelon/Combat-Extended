@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\sarg_alphaanimals\AlphaAnimals_CE_Patch_Race_Blizzarisk149.xml -->
+	<!-- EN: left first leg -->
+	<AA_Blizzarisk.tools.0.label>left first leg</AA_Blizzarisk.tools.0.label>
+	<!-- EN: right first leg -->
+	<AA_Blizzarisk.tools.1.label>right first leg</AA_Blizzarisk.tools.1.label>
+	<!-- EN: head -->
+	<AA_Blizzarisk.tools.3.label>head</AA_Blizzarisk.tools.3.label>
+	
+	<!-- EN: left first leg -->
+	<AA_BlizzariskClutchMother.tools.0.label>left first leg</AA_BlizzariskClutchMother.tools.0.label>
+	<!-- EN: right first leg -->
+	<AA_BlizzariskClutchMother.tools.1.label>right first leg</AA_BlizzariskClutchMother.tools.1.label>
+	<!-- EN: head -->
+	<AA_BlizzariskClutchMother.tools.3.label>head</AA_BlizzariskClutchMother.tools.3.label>
+</LanguageData>

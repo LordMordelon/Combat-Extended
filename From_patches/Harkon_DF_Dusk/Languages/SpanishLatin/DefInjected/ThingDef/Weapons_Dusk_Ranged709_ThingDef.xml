@@ -1,0 +1,42 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Harkon_DF_Dusk\Weapons_Dusk_Ranged709.xml -->
+	<!-- EN: grip -->
+	<DF_Dusk_Enforcer.tools.0.label>grip</DF_Dusk_Enforcer.tools.0.label>
+	<!-- EN: muzzle -->
+	<DF_Dusk_Enforcer.tools.1.label>muzzle</DF_Dusk_Enforcer.tools.1.label>
+	
+	<!-- EN: stock -->
+	<DF_Dusk_Carbine.tools.0.label>stock</DF_Dusk_Carbine.tools.0.label>
+	<!-- EN: barrel -->
+	<DF_Dusk_Carbine.tools.1.label>barrel</DF_Dusk_Carbine.tools.1.label>
+	<!-- EN: muzzle -->
+	<DF_Dusk_Carbine.tools.2.label>muzzle</DF_Dusk_Carbine.tools.2.label>
+	
+	<!-- EN: stock -->
+	<DF_Dusk_Launcher.tools.0.label>stock</DF_Dusk_Launcher.tools.0.label>
+	<!-- EN: barrel -->
+	<DF_Dusk_Launcher.tools.1.label>barrel</DF_Dusk_Launcher.tools.1.label>
+	<!-- EN: muzzle -->
+	<DF_Dusk_Launcher.tools.2.label>muzzle</DF_Dusk_Launcher.tools.2.label>
+	
+	<!-- EN: stock -->
+	<DF_Dusk_MAG.tools.0.label>stock</DF_Dusk_MAG.tools.0.label>
+	<!-- EN: barrel -->
+	<DF_Dusk_MAG.tools.1.label>barrel</DF_Dusk_MAG.tools.1.label>
+	<!-- EN: muzzle -->
+	<DF_Dusk_MAG.tools.2.label>muzzle</DF_Dusk_MAG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<DF_Dusk_SMG.tools.0.label>stock</DF_Dusk_SMG.tools.0.label>
+	<!-- EN: barrel -->
+	<DF_Dusk_SMG.tools.1.label>barrel</DF_Dusk_SMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<DF_Dusk_SMG.tools.2.label>muzzle</DF_Dusk_SMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<DF_Dusk_Striker.tools.0.label>stock</DF_Dusk_Striker.tools.0.label>
+	<!-- EN: barrel -->
+	<DF_Dusk_Striker.tools.1.label>barrel</DF_Dusk_Striker.tools.1.label>
+	<!-- EN: muzzle -->
+	<DF_Dusk_Striker.tools.2.label>muzzle</DF_Dusk_Striker.tools.2.label>
+</LanguageData>

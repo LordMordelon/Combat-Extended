@@ -1,0 +1,20 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VWETB\Ranged_Neolithic1918.xml -->
+	<!-- EN: Body -->
+	<VWE_Sling.tools.0.label>Body</VWE_Sling.tools.0.label>
+	
+	<!-- EN: shard -->
+	<VWE_FlyingShard.label>shard</VWE_FlyingShard.label>
+	
+	<!-- EN: Throw shard -->
+	<VWE_Throwing_Shards.Properties.label>Throw shard</VWE_Throwing_Shards.Properties.label>
+	<!-- EN: handle -->
+	<VWE_Throwing_Shards.tools.0.label>handle</VWE_Throwing_Shards.tools.0.label>
+	<!-- EN: point -->
+	<VWE_Throwing_Shards.tools.1.label>point</VWE_Throwing_Shards.tools.1.label>
+	
+	<!-- EN: throw firebomb -->
+	<VWE_Weapon_FireBomb.Properties.label>throw firebomb</VWE_Weapon_FireBomb.Properties.label>
+	<!-- EN: Body -->
+	<VWE_Weapon_FireBomb.tools.0.label>Body</VWE_Weapon_FireBomb.tools.0.label>
+</LanguageData>

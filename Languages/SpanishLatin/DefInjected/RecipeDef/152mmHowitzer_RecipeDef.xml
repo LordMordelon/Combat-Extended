@@ -1,0 +1,45 @@
+<LanguageData>
+	<!-- Defs\Ammo\Shell\152mmHowitzer.xml -->
+	
+	<!-- EN: make 152mm (HE) howitzer shells x1 -->
+	<MakeAmmo_152mmHowitzerShell_HE.label>make 152mm (HE) howitzer shells x1</MakeAmmo_152mmHowitzerShell_HE.label>
+	<!-- EN: Craft a 152mm (HE) howitzer shell. -->
+	<MakeAmmo_152mmHowitzerShell_HE.description>Craft a 152mm (HE) howitzer shell.</MakeAmmo_152mmHowitzerShell_HE.description>
+	<!-- EN: Making 152mm (HE) howitzer shells. -->
+	<MakeAmmo_152mmHowitzerShell_HE.jobString>Making 152mm (HE) howitzer shells.</MakeAmmo_152mmHowitzerShell_HE.jobString>
+	
+	<!-- EN: make 152mm (Airburst) howitzer shells x1 -->
+	<MakeAmmo_152mmHowitzerShell_HE_HFuzed.label>make 152mm (Airburst) howitzer shells x1</MakeAmmo_152mmHowitzerShell_HE_HFuzed.label>
+	<!-- EN: Craft a 152mm (Airburst) howitzer shell. -->
+	<MakeAmmo_152mmHowitzerShell_HE_HFuzed.description>Craft a 152mm (Airburst) howitzer shell.</MakeAmmo_152mmHowitzerShell_HE_HFuzed.description>
+	<!-- EN: Making 152mm (Airburst) howitzer shells. -->
+	<MakeAmmo_152mmHowitzerShell_HE_HFuzed.jobString>Making 152mm (Airburst) howitzer shells.</MakeAmmo_152mmHowitzerShell_HE_HFuzed.jobString>
+	
+	<!-- EN: make 152mm (HEAT) howitzer shells x1 -->
+	<MakeAmmo_152mmHowitzerShell_HEAT.label>make 152mm (HEAT) howitzer shells x1</MakeAmmo_152mmHowitzerShell_HEAT.label>
+	<!-- EN: Craft a 152mm (HEAT) howitzer shell. -->
+	<MakeAmmo_152mmHowitzerShell_HEAT.description>Craft a 152mm (HEAT) howitzer shell.</MakeAmmo_152mmHowitzerShell_HEAT.description>
+	<!-- EN: Making 152mm (HEAT) howitzer shells. -->
+	<MakeAmmo_152mmHowitzerShell_HEAT.jobString>Making 152mm (HEAT) howitzer shells.</MakeAmmo_152mmHowitzerShell_HEAT.jobString>
+	
+	<!-- EN: make 152mm (Incendiary) howitzer shells x1 -->
+	<MakeAmmo_152mmHowitzerShell_Incendiary.label>make 152mm (Incendiary) howitzer shells x1</MakeAmmo_152mmHowitzerShell_Incendiary.label>
+	<!-- EN: Craft a 152mm (Incendiary) Howitzer shell. -->
+	<MakeAmmo_152mmHowitzerShell_Incendiary.description>Craft a 152mm (Incendiary) Howitzer shell.</MakeAmmo_152mmHowitzerShell_Incendiary.description>
+	<!-- EN: Making 152mm (Incendiary) Howitzer shell. -->
+	<MakeAmmo_152mmHowitzerShell_Incendiary.jobString>Making 152mm (Incendiary) Howitzer shell.</MakeAmmo_152mmHowitzerShell_Incendiary.jobString>
+	
+	<!-- EN: make 152mm (EMP) howitzer shells x1 -->
+	<MakeAmmo_152mmHowitzerShell_EMP.label>make 152mm (EMP) howitzer shells x1</MakeAmmo_152mmHowitzerShell_EMP.label>
+	<!-- EN: Craft a 152mm (EMP) Howitzer shell. -->
+	<MakeAmmo_152mmHowitzerShell_EMP.description>Craft a 152mm (EMP) Howitzer shell.</MakeAmmo_152mmHowitzerShell_EMP.description>
+	<!-- EN: Making 152mm (EMP) Howitzer shells. -->
+	<MakeAmmo_152mmHowitzerShell_EMP.jobString>Making 152mm (EMP) Howitzer shells.</MakeAmmo_152mmHowitzerShell_EMP.jobString>
+	
+	<!-- EN: make 152mm (Smoke) howitzer shells x1 -->
+	<MakeAmmo_152mmHowitzerShell_Smoke.label>make 152mm (Smoke) howitzer shells x1</MakeAmmo_152mmHowitzerShell_Smoke.label>
+	<!-- EN: Craft 152mm (Smoke) Howitzer shell. -->
+	<MakeAmmo_152mmHowitzerShell_Smoke.description>Craft 152mm (Smoke) Howitzer shell.</MakeAmmo_152mmHowitzerShell_Smoke.description>
+	<!-- EN: Making 152mm (Smoke) Howitzer shell. -->
+	<MakeAmmo_152mmHowitzerShell_Smoke.jobString>Making 152mm (Smoke) Howitzer shell.</MakeAmmo_152mmHowitzerShell_Smoke.jobString>
+</LanguageData>

@@ -1,0 +1,29 @@
+<LanguageData>
+	<!-- ModPatches\Ion Weaponry\Defs\Ion Weaponry\Ammo.xml -->
+	<!-- EN: 4mm Railgun cartridge (Discharge) -->
+	<Ammo_4mmRailgun_Ion.label>4mm Railgun cartridge (Discharge)</Ammo_4mmRailgun_Ion.label>
+	<!-- EN: Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for railgun rifles. Features an ionized particle payload. -->
+	<Ammo_4mmRailgun_Ion.description>Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for railgun rifles. Features an ionized particle payload.</Ammo_4mmRailgun_Ion.description>
+	<!-- EN: 6mm Railgun cartridge (Discharge) -->
+	<Ammo_6mmRailgun_Ion.label>6mm Railgun cartridge (Discharge)</Ammo_6mmRailgun_Ion.label>
+	<!-- EN: Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for railgun rifles. Features an ionized particle payload. -->
+	<Ammo_6mmRailgun_Ion.description>Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for railgun rifles. Features an ionized particle payload.</Ammo_6mmRailgun_Ion.description>
+	<!-- EN: 8mm Railgun cartridge (Discharge) -->
+	<Ammo_8mmRailgun_Ion.label>8mm Railgun cartridge (Discharge)</Ammo_8mmRailgun_Ion.label>
+	<!-- EN: Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for railgun rifles. Features an ionized particle payload. -->
+	<Ammo_8mmRailgun_Ion.description>Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for railgun rifles. Features an ionized particle payload.</Ammo_8mmRailgun_Ion.description>
+	<!-- EN: 12mm Railgun cartridge (Discharge) -->
+	<Ammo_12mmRailgun_Ion.label>12mm Railgun cartridge (Discharge)</Ammo_12mmRailgun_Ion.label>
+	<!-- EN: Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for railgun rifles. Features an ionized particle payload. -->
+	<Ammo_12mmRailgun_Ion.description>Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for railgun rifles. Features an ionized particle payload.</Ammo_12mmRailgun_Ion.description>
+	<!-- EN: 4mm Railgun bullet (Discharge) -->
+	<Bullet_4mmRailgun_Ion.label>4mm Railgun bullet (Discharge)</Bullet_4mmRailgun_Ion.label>
+	<!-- EN: 6mm Railgun bullet (Discharge) -->
+	<Bullet_6mmRailgun_Ion.label>6mm Railgun bullet (Discharge)</Bullet_6mmRailgun_Ion.label>
+	<!-- EN: 8mm Railgun bullet (Discharge) -->
+	<Bullet_8mmRailgun_Ion.label>8mm Railgun bullet (Discharge)</Bullet_8mmRailgun_Ion.label>
+	<!-- EN: 12mm Railgun bullet (Discharge) -->
+	<Bullet_12mmRailgun_Ion_Lance.label>12mm Railgun bullet (Discharge)</Bullet_12mmRailgun_Ion_Lance.label>
+	<!-- EN: Ion Blast -->
+	<Bullet_12mmRailgun_Ion_Blast.label>Ion Blast</Bullet_12mmRailgun_Ion_Blast.label>
+</LanguageData>

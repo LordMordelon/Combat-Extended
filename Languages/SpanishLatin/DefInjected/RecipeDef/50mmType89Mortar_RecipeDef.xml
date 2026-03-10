@@ -1,0 +1,31 @@
+<LanguageData>
+	<!-- Defs\Ammo\Shell\50mmType89Mortar.xml -->
+	
+	<!-- EN: make 50mm type 89 (HE) mortar shells x5 -->
+	<MakeAmmo_50mmType89MortarShell_HE.label>make 50mm type 89 (HE) mortar shells x5</MakeAmmo_50mmType89MortarShell_HE.label>
+	<!-- EN: Craft 5 50mm type 89 (HE) mortar shells. -->
+	<MakeAmmo_50mmType89MortarShell_HE.description>Craft 5 50mm type 89 (HE) mortar shells.</MakeAmmo_50mmType89MortarShell_HE.description>
+	<!-- EN: Making 50mm type 89 (HE) mortar shells. -->
+	<MakeAmmo_50mmType89MortarShell_HE.jobString>Making 50mm type 89 (HE) mortar shells.</MakeAmmo_50mmType89MortarShell_HE.jobString>
+	
+	<!-- EN: make 50mm type 89 (Incendiary) mortar shells x5 -->
+	<MakeAmmo_50mmType89MortarShell_Incendiary.label>make 50mm type 89 (Incendiary) mortar shells x5</MakeAmmo_50mmType89MortarShell_Incendiary.label>
+	<!-- EN: Craft 5 50mm type 89 (Incendiary) mortar shells. -->
+	<MakeAmmo_50mmType89MortarShell_Incendiary.description>Craft 5 50mm type 89 (Incendiary) mortar shells.</MakeAmmo_50mmType89MortarShell_Incendiary.description>
+	<!-- EN: Making 50mm type 89 (Incendiary) mortar shells. -->
+	<MakeAmmo_50mmType89MortarShell_Incendiary.jobString>Making 50mm type 89 (Incendiary) mortar shells.</MakeAmmo_50mmType89MortarShell_Incendiary.jobString>
+	
+	<!-- EN: make 50mm type 89 (EMP) mortar shells x5 -->
+	<MakeAmmo_50mmType89MortarShell_EMP.label>make 50mm type 89 (EMP) mortar shells x5</MakeAmmo_50mmType89MortarShell_EMP.label>
+	<!-- EN: Craft 5 50mm type 89 (EMP) mortar shells. -->
+	<MakeAmmo_50mmType89MortarShell_EMP.description>Craft 5 50mm type 89 (EMP) mortar shells.</MakeAmmo_50mmType89MortarShell_EMP.description>
+	<!-- EN: Making 50mm type 89 (EMP) mortar shells. -->
+	<MakeAmmo_50mmType89MortarShell_EMP.jobString>Making 50mm type 89 (EMP) mortar shells.</MakeAmmo_50mmType89MortarShell_EMP.jobString>
+	
+	<!-- EN: make 50mm type 89 (Smoke) mortar shells x5 -->
+	<MakeAmmo_50mmType89MortarShell_Smoke.label>make 50mm type 89 (Smoke) mortar shells x5</MakeAmmo_50mmType89MortarShell_Smoke.label>
+	<!-- EN: Craft 5 50mm type 89 (Smoke) mortar shells. -->
+	<MakeAmmo_50mmType89MortarShell_Smoke.description>Craft 5 50mm type 89 (Smoke) mortar shells.</MakeAmmo_50mmType89MortarShell_Smoke.description>
+	<!-- EN: Making 50mm type 89 (Smoke) mortar shells. -->
+	<MakeAmmo_50mmType89MortarShell_Smoke.jobString>Making 50mm type 89 (Smoke) mortar shells.</MakeAmmo_50mmType89MortarShell_Smoke.jobString>
+</LanguageData>

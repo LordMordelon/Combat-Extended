@@ -1,0 +1,66 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Sierra_RF_HouseDoyle\Patch_RFDoyle_Melee1451.xml -->
+	<!-- EN: handle -->
+	<RF_MeleeWeapon_ArmingSword_Doyle.tools.0.label>handle</RF_MeleeWeapon_ArmingSword_Doyle.tools.0.label>
+	<!-- EN: point -->
+	<RF_MeleeWeapon_ArmingSword_Doyle.tools.1.label>point</RF_MeleeWeapon_ArmingSword_Doyle.tools.1.label>
+	<!-- EN: edge -->
+	<RF_MeleeWeapon_ArmingSword_Doyle.tools.2.label>edge</RF_MeleeWeapon_ArmingSword_Doyle.tools.2.label>
+	
+	<!-- EN: handle -->
+	<RF_MeleeWeapon_Greatsword_Doyle.tools.0.label>handle</RF_MeleeWeapon_Greatsword_Doyle.tools.0.label>
+	<!-- EN: point -->
+	<RF_MeleeWeapon_Greatsword_Doyle.tools.1.label>point</RF_MeleeWeapon_Greatsword_Doyle.tools.1.label>
+	<!-- EN: edge -->
+	<RF_MeleeWeapon_Greatsword_Doyle.tools.2.label>edge</RF_MeleeWeapon_Greatsword_Doyle.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<RF_MeleeWeapon_FightingAxe_Doyle.tools.0.label>shaft</RF_MeleeWeapon_FightingAxe_Doyle.tools.0.label>
+	<!-- EN: head -->
+	<RF_MeleeWeapon_FightingAxe_Doyle.tools.1.label>head</RF_MeleeWeapon_FightingAxe_Doyle.tools.1.label>
+	<!-- EN: edge -->
+	<RF_MeleeWeapon_FightingAxe_Doyle.tools.2.label>edge</RF_MeleeWeapon_FightingAxe_Doyle.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<RF_MeleeWeapon_Longaxe_Doyle.tools.0.label>shaft</RF_MeleeWeapon_Longaxe_Doyle.tools.0.label>
+	<!-- EN: head -->
+	<RF_MeleeWeapon_Longaxe_Doyle.tools.1.label>head</RF_MeleeWeapon_Longaxe_Doyle.tools.1.label>
+	<!-- EN: edge -->
+	<RF_MeleeWeapon_Longaxe_Doyle.tools.2.label>edge</RF_MeleeWeapon_Longaxe_Doyle.tools.2.label>
+	
+	<!-- EN: handle -->
+	<RF_MeleeWeapon_MorningStar_Doyle.tools.0.label>handle</RF_MeleeWeapon_MorningStar_Doyle.tools.0.label>
+	<!-- EN: head -->
+	<RF_MeleeWeapon_MorningStar_Doyle.tools.1.label>head</RF_MeleeWeapon_MorningStar_Doyle.tools.1.label>
+	
+	<!-- EN: handle -->
+	<RF_MeleeWeapon_TwoHandedFlangedMace_Doyle.tools.0.label>handle</RF_MeleeWeapon_TwoHandedFlangedMace_Doyle.tools.0.label>
+	<!-- EN: head -->
+	<RF_MeleeWeapon_TwoHandedFlangedMace_Doyle.tools.1.label>head</RF_MeleeWeapon_TwoHandedFlangedMace_Doyle.tools.1.label>
+	
+	<!-- EN: shaft -->
+	<RF_MeleeWeapon_Warhammer_Doyle.tools.0.label>shaft</RF_MeleeWeapon_Warhammer_Doyle.tools.0.label>
+	<!-- EN: head -->
+	<RF_MeleeWeapon_Warhammer_Doyle.tools.1.label>head</RF_MeleeWeapon_Warhammer_Doyle.tools.1.label>
+	<!-- EN: head -->
+	<RF_MeleeWeapon_Warhammer_Doyle.tools.2.label>head</RF_MeleeWeapon_Warhammer_Doyle.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<RF_MeleeWeapon_Polehammer_Doyle.tools.0.label>shaft</RF_MeleeWeapon_Polehammer_Doyle.tools.0.label>
+	<!-- EN: head -->
+	<RF_MeleeWeapon_Polehammer_Doyle.tools.1.label>head</RF_MeleeWeapon_Polehammer_Doyle.tools.1.label>
+	<!-- EN: head -->
+	<RF_MeleeWeapon_Polehammer_Doyle.tools.2.label>head</RF_MeleeWeapon_Polehammer_Doyle.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<RF_MeleeWeapon_FightingSpear_Doyle.tools.0.label>shaft</RF_MeleeWeapon_FightingSpear_Doyle.tools.0.label>
+	<!-- EN: shaft -->
+	<RF_MeleeWeapon_FightingSpear_Doyle.tools.1.label>shaft</RF_MeleeWeapon_FightingSpear_Doyle.tools.1.label>
+	<!-- EN: head -->
+	<RF_MeleeWeapon_FightingSpear_Doyle.tools.2.label>head</RF_MeleeWeapon_FightingSpear_Doyle.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<RF_MeleeWeapon_Pike_Doyle.tools.0.label>shaft</RF_MeleeWeapon_Pike_Doyle.tools.0.label>
+	<!-- EN: point -->
+	<RF_MeleeWeapon_Pike_Doyle.tools.1.label>point</RF_MeleeWeapon_Pike_Doyle.tools.1.label>
+</LanguageData>

@@ -1,0 +1,37 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\RH2_Faction_Rangers\Rangers_CE_Patch_Rifle1288.xml -->
+	<!-- EN: stock -->
+	<RNGun_AR10_Rifle.tools.0.label>stock</RNGun_AR10_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_AR10_Rifle.tools.1.label>barrel</RNGun_AR10_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_AR10_Rifle.tools.2.label>muzzle</RNGun_AR10_Rifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_T48_Rifle.tools.0.label>stock</RNGun_T48_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_T48_Rifle.tools.1.label>barrel</RNGun_T48_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_T48_Rifle.tools.2.label>muzzle</RNGun_T48_Rifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_BattleRifle_M1Garand.tools.0.label>stock</RNGun_BattleRifle_M1Garand.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_BattleRifle_M1Garand.tools.1.label>barrel</RNGun_BattleRifle_M1Garand.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_BattleRifle_M1Garand.tools.2.label>muzzle</RNGun_BattleRifle_M1Garand.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_BattleRifle_M1Carbine.tools.0.label>stock</RNGun_BattleRifle_M1Carbine.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_BattleRifle_M1Carbine.tools.1.label>barrel</RNGun_BattleRifle_M1Carbine.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_BattleRifle_M1Carbine.tools.2.label>muzzle</RNGun_BattleRifle_M1Carbine.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_HenryRepeatingRifle_Rifle.tools.0.label>stock</RNGun_HenryRepeatingRifle_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_HenryRepeatingRifle_Rifle.tools.1.label>barrel</RNGun_HenryRepeatingRifle_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_HenryRepeatingRifle_Rifle.tools.2.label>muzzle</RNGun_HenryRepeatingRifle_Rifle.tools.2.label>
+</LanguageData>

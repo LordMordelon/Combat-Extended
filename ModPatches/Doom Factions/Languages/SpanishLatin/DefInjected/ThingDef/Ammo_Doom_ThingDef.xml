@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- ModPatches\Doom Factions\Defs\Doom Factions\Ammo_Doom.xml -->
+	<!-- EN: Plasma -->
+	<Bullet_UACPlasmaCellPistol.label>Plasma</Bullet_UACPlasmaCellPistol.label>
+	<!-- EN: Plasma -->
+	<Bullet_UACPlasmaRifle.label>Plasma</Bullet_UACPlasmaRifle.label>
+	<!-- EN: Plasma -->
+	<Bullet_UACVortexRiflePlasma.label>Plasma</Bullet_UACVortexRiflePlasma.label>
+	<!-- EN: Plasma -->
+	<Bullet_UACHellshotBolt.label>Plasma</Bullet_UACHellshotBolt.label>
+	<!-- EN: Gauss Cannon Flechette -->
+	<Bullet_UACGaussCannonFlechette.label>Gauss Cannon Flechette</Bullet_UACGaussCannonFlechette.label>
+	<!-- EN: BFG Plasma -->
+	<Bullet_UACBFG.label>BFG Plasma</Bullet_UACBFG.label>
+</LanguageData>

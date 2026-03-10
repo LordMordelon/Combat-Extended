@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\Alpha Vehicles\Neolithic\Defs\Neolithic\Ammo_Hwacha.xml -->
+	
+	<!-- EN: hwacha rocket arrow -->
+	<Ammo_GreatArrow_ExplosiveArrow.label>hwacha rocket arrow</Ammo_GreatArrow_ExplosiveArrow.label>
+	<!-- EN: Heavy arrow designed to be fired from a great bow. -->
+	<Ammo_GreatArrow_ExplosiveArrow.description>Heavy arrow designed to be fired from a great bow.</Ammo_GreatArrow_ExplosiveArrow.description>
+	
+	<!-- EN: hwacha rocket arrow -->
+	<Projectile_GreatArrow_ExplosiveArrow.label>hwacha rocket arrow</Projectile_GreatArrow_ExplosiveArrow.label>
+</LanguageData>

@@ -1,0 +1,43 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\TheSimpleDude42_ToolsOPlenty\ToolsOPLentySimpleCE1676.xml -->
+	<!-- EN: handle -->
+	<Cleaver.tools.0.label>handle</Cleaver.tools.0.label>
+	<!-- EN: blade -->
+	<Cleaver.tools.1.label>blade</Cleaver.tools.1.label>
+	<!-- EN: head -->
+	<Spatula.tools.0.label>head</Spatula.tools.0.label>
+	<!-- EN: handle -->
+	<Hammer.tools.0.label>handle</Hammer.tools.0.label>
+	<!-- EN: head -->
+	<Hammer.tools.1.label>head</Hammer.tools.1.label>
+	<!-- EN: handle -->
+	<Hammer_And_Chisel.tools.0.label>handle</Hammer_And_Chisel.tools.0.label>
+	<!-- EN: point -->
+	<Hammer_And_Chisel.tools.1.label>point</Hammer_And_Chisel.tools.1.label>
+	<!-- EN: point -->
+	<Medical_Instruments.tools.0.label>point</Medical_Instruments.tools.0.label>
+	<!-- EN: handle -->
+	<Pick.tools.0.label>handle</Pick.tools.0.label>
+	<!-- EN: point -->
+	<Pick.tools.1.label>point</Pick.tools.1.label>
+	<!-- EN: handle -->
+	<Axe.tools.0.label>handle</Axe.tools.0.label>
+	<!-- EN: edge -->
+	<Axe.tools.1.label>edge</Axe.tools.1.label>
+	<!-- EN: handle -->
+	<Basic_Tool_Set.tools.0.label>handle</Basic_Tool_Set.tools.0.label>
+	<!-- EN: point -->
+	<Basic_Tool_Set.tools.1.label>point</Basic_Tool_Set.tools.1.label>
+	<!-- EN: handle -->
+	<Technical_Documents.tools.0.label>handle</Technical_Documents.tools.0.label>
+	<!-- EN: handle -->
+	<Broom.tools.0.label>handle</Broom.tools.0.label>
+	<!-- EN: blade -->
+	<Shears.tools.0.label>blade</Shears.tools.0.label>
+	<!-- EN: point -->
+	<Shears.tools.1.label>point</Shears.tools.1.label>
+	<!-- EN: handle -->
+	<Medical_bag.tools.0.label>handle</Medical_bag.tools.0.label>
+	<!-- EN: head -->
+	<Beaker.tools.0.label>head</Beaker.tools.0.label>
+</LanguageData>

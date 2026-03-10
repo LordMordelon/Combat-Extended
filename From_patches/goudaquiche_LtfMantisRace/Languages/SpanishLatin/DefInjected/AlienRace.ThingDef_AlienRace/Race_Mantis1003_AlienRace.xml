@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\goudaquiche_LtfMantisRace\Race_Mantis1003.xml -->
+	<!-- EN: left fist -->
+	<Alien_Mantis.tools.0.label>left fist</Alien_Mantis.tools.0.label>
+	<!-- EN: right fist -->
+	<Alien_Mantis.tools.1.label>right fist</Alien_Mantis.tools.1.label>
+	<!-- EN: left claw -->
+	<Alien_Mantis.tools.2.label>left claw</Alien_Mantis.tools.2.label>
+	<!-- EN: right claw -->
+	<Alien_Mantis.tools.3.label>right claw</Alien_Mantis.tools.3.label>
+	<!-- EN: teeth -->
+	<Alien_Mantis.tools.4.label>teeth</Alien_Mantis.tools.4.label>
+	<!-- EN: head -->
+	<Alien_Mantis.tools.5.label>head</Alien_Mantis.tools.5.label>
+</LanguageData>

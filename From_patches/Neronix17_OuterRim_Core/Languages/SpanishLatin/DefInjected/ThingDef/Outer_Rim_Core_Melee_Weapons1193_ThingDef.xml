@@ -1,0 +1,43 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Neronix17_OuterRim_Core\Outer_Rim_Core_Melee_Weapons1193.xml -->
+	<!-- EN: head -->
+	<OuterRim_GaderffiiStick.tools.0.label>head</OuterRim_GaderffiiStick.tools.0.label>
+	<!-- EN: point -->
+	<OuterRim_GaderffiiStick.tools.1.label>point</OuterRim_GaderffiiStick.tools.1.label>
+	
+	<!-- EN: handle -->
+	<OuterRim_VibroAxe.tools.0.label>handle</OuterRim_VibroAxe.tools.0.label>
+	<!-- EN: edge -->
+	<OuterRim_VibroAxe.tools.1.label>edge</OuterRim_VibroAxe.tools.1.label>
+	
+	<!-- EN: handle -->
+	<OuterRim_VibroBlade.tools.0.label>handle</OuterRim_VibroBlade.tools.0.label>
+	<!-- EN: edge -->
+	<OuterRim_VibroBlade.tools.1.label>edge</OuterRim_VibroBlade.tools.1.label>
+	<!-- EN: point -->
+	<OuterRim_VibroBlade.tools.2.label>point</OuterRim_VibroBlade.tools.2.label>
+	
+	<!-- EN: handle -->
+	<OuterRim_VibroCleaver.tools.0.label>handle</OuterRim_VibroCleaver.tools.0.label>
+	<!-- EN: edge -->
+	<OuterRim_VibroCleaver.tools.1.label>edge</OuterRim_VibroCleaver.tools.1.label>
+	
+	<!-- EN: handle -->
+	<OuterRim_VibroDagger.tools.0.label>handle</OuterRim_VibroDagger.tools.0.label>
+	<!-- EN: edge -->
+	<OuterRim_VibroDagger.tools.1.label>edge</OuterRim_VibroDagger.tools.1.label>
+	<!-- EN: point -->
+	<OuterRim_VibroDagger.tools.2.label>point</OuterRim_VibroDagger.tools.2.label>
+	
+	<!-- EN: edge -->
+	<OuterRim_VibroDoubleBlade.tools.0.label>edge</OuterRim_VibroDoubleBlade.tools.0.label>
+	<!-- EN: point -->
+	<OuterRim_VibroDoubleBlade.tools.1.label>point</OuterRim_VibroDoubleBlade.tools.1.label>
+	
+	<!-- EN: handle -->
+	<OuterRim_VibroGlaive.tools.0.label>handle</OuterRim_VibroGlaive.tools.0.label>
+	<!-- EN: edge -->
+	<OuterRim_VibroGlaive.tools.1.label>edge</OuterRim_VibroGlaive.tools.1.label>
+	<!-- EN: point -->
+	<OuterRim_VibroGlaive.tools.2.label>point</OuterRim_VibroGlaive.tools.2.label>
+</LanguageData>

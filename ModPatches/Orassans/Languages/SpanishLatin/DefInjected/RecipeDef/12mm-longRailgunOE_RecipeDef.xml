@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Orassans\Defs\Orassans\Ammo\12mm-longRailgunOE.xml -->
+	<!-- EN: make 12mm Railgun cartridge (Sabot:OE) x200 -->
+	<MakeAmmo_12mmRailgun_SabotOE.label>make 12mm Railgun cartridge (Sabot:OE) x200</MakeAmmo_12mmRailgun_SabotOE.label>
+	<!-- EN: Craft 200 12mm Railgun (Sabot:OE) cartridges. -->
+	<MakeAmmo_12mmRailgun_SabotOE.description>Craft 200 12mm Railgun (Sabot:OE) cartridges.</MakeAmmo_12mmRailgun_SabotOE.description>
+	<!-- EN: Making 12mm Railgun (Sabot:OE) cartridges. -->
+	<MakeAmmo_12mmRailgun_SabotOE.jobString>Making 12mm Railgun (Sabot:OE) cartridges.</MakeAmmo_12mmRailgun_SabotOE.jobString>
+</LanguageData>

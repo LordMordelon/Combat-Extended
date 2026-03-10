@@ -1,0 +1,42 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Pratt_RaW_WWIIWeaponsPackVanilla\PWW2_CE_Patch_Weapons_Ranged_JPN1250.xml -->
+	<!-- EN: stock -->
+	<Gun_Type99ArisakaR.tools.0.label>stock</Gun_Type99ArisakaR.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_Type99ArisakaR.tools.1.label>barrel</Gun_Type99ArisakaR.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_Type99ArisakaR.tools.2.label>muzzle</Gun_Type99ArisakaR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_Type99ArisakascopedSR.tools.0.label>stock</Gun_Type99ArisakascopedSR.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_Type99ArisakascopedSR.tools.1.label>barrel</Gun_Type99ArisakascopedSR.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_Type99ArisakascopedSR.tools.2.label>muzzle</Gun_Type99ArisakascopedSR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_Type11LMG.tools.0.label>stock</Gun_Type11LMG.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_Type11LMG.tools.1.label>barrel</Gun_Type11LMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_Type11LMG.tools.2.label>muzzle</Gun_Type11LMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_Type99LMG.tools.0.label>stock</Gun_Type99LMG.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_Type99LMG.tools.1.label>barrel</Gun_Type99LMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_Type99LMG.tools.2.label>muzzle</Gun_Type99LMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_Type100SMG.tools.0.label>stock</Gun_Type100SMG.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_Type100SMG.tools.1.label>barrel</Gun_Type100SMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_Type100SMG.tools.2.label>muzzle</Gun_Type100SMG.tools.2.label>
+	
+	<!-- EN: grip -->
+	<Gun_Type14NambuP.tools.0.label>grip</Gun_Type14NambuP.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_Type14NambuP.tools.1.label>muzzle</Gun_Type14NambuP.tools.1.label>
+</LanguageData>

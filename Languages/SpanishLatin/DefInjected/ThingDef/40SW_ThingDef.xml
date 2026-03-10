@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- Defs\Ammo\Pistols\40SW.xml -->
+	
+	<!-- EN: .40 S&amp;W (FMJ) -->
+	<Ammo_40SW_FMJ.label>.40 S&amp;W (FMJ)</Ammo_40SW_FMJ.label>
+	<!-- EN: A pistol cartridge designed to match the performance of .38 Special +P in an automatic. -->
+	<Ammo_40SW_FMJ.description>A pistol cartridge designed to match the performance of .38 Special +P in an automatic.</Ammo_40SW_FMJ.description>
+	
+	<!-- EN: .40 S&amp;W (AP) -->
+	<Ammo_40SW_AP.label>.40 S&amp;W (AP)</Ammo_40SW_AP.label>
+	<!-- EN: A pistol cartridge designed to match the performance of .38 Special +P in an automatic. -->
+	<Ammo_40SW_AP.description>A pistol cartridge designed to match the performance of .38 Special +P in an automatic.</Ammo_40SW_AP.description>
+	
+	<!-- EN: .40 S&amp;W (HP) -->
+	<Ammo_40SW_HP.label>.40 S&amp;W (HP)</Ammo_40SW_HP.label>
+	<!-- EN: A pistol cartridge designed to match the performance of .38 Special +P in an automatic. -->
+	<Ammo_40SW_HP.description>A pistol cartridge designed to match the performance of .38 Special +P in an automatic.</Ammo_40SW_HP.description>
+	
+	<!-- EN: .40 SW bullet (FMJ) -->
+	<Bullet_40SW_FMJ.label>.40 SW bullet (FMJ)</Bullet_40SW_FMJ.label>
+	
+	<!-- EN: .40 SW bullet (AP) -->
+	<Bullet_40SW_AP.label>.40 SW bullet (AP)</Bullet_40SW_AP.label>
+	
+	<!-- EN: .40 SW bullet (HP) -->
+	<Bullet_40SW_HP.label>.40 SW bullet (HP)</Bullet_40SW_HP.label>
+</LanguageData>

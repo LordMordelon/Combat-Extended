@@ -1,0 +1,32 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VanillaAnimalsExpanded\Desert_Animals1706.xml -->
+	<!-- EN: beak -->
+	<AEXP_DesertTortoise.tools.0.label>beak</AEXP_DesertTortoise.tools.0.label>
+	<!-- EN: head -->
+	<AEXP_DesertTortoise.tools.1.label>head</AEXP_DesertTortoise.tools.1.label>
+	
+	<!-- EN: left claw -->
+	<AEXP_GilaMonster.tools.0.label>left claw</AEXP_GilaMonster.tools.0.label>
+	<!-- EN: right claw -->
+	<AEXP_GilaMonster.tools.1.label>right claw</AEXP_GilaMonster.tools.1.label>
+	<!-- EN: ToxicBite -->
+	<AEXP_GilaMonster.tools.2.label>ToxicBite</AEXP_GilaMonster.tools.2.label>
+	<!-- EN: head -->
+	<AEXP_GilaMonster.tools.3.label>head</AEXP_GilaMonster.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<AEXP_Hyena.tools.0.label>left claw</AEXP_Hyena.tools.0.label>
+	<!-- EN: right claw -->
+	<AEXP_Hyena.tools.1.label>right claw</AEXP_Hyena.tools.1.label>
+	<!-- EN: bite -->
+	<AEXP_Hyena.tools.2.label>bite</AEXP_Hyena.tools.2.label>
+	<!-- EN: head -->
+	<AEXP_Hyena.tools.3.label>head</AEXP_Hyena.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<AEXP_Lion.tools.0.label>left claw</AEXP_Lion.tools.0.label>
+	<!-- EN: right claw -->
+	<AEXP_Lion.tools.1.label>right claw</AEXP_Lion.tools.1.label>
+	<!-- EN: head -->
+	<AEXP_Lion.tools.3.label>head</AEXP_Lion.tools.3.label>
+</LanguageData>

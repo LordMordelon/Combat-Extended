@@ -1,0 +1,31 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\zal_vfeieq\Weapons_Spacer1695.xml -->
+	<!-- EN: grip -->
+	<VFE_Gun_Plasmacutter.tools.0.label>grip</VFE_Gun_Plasmacutter.tools.0.label>
+	<!-- EN: muzzle -->
+	<VFE_Gun_Plasmacutter.tools.1.label>muzzle</VFE_Gun_Plasmacutter.tools.1.label>
+	
+	<!-- EN: stock -->
+	<VFE_Gun_PlasmaScattergun.tools.0.label>stock</VFE_Gun_PlasmaScattergun.tools.0.label>
+	<!-- EN: barrel -->
+	<VFE_Gun_PlasmaScattergun.tools.1.label>barrel</VFE_Gun_PlasmaScattergun.tools.1.label>
+	<!-- EN: muzzle -->
+	<VFE_Gun_PlasmaScattergun.tools.2.label>muzzle</VFE_Gun_PlasmaScattergun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<VFE_Gun_Plasmapiercer.tools.0.label>stock</VFE_Gun_Plasmapiercer.tools.0.label>
+	<!-- EN: barrel -->
+	<VFE_Gun_Plasmapiercer.tools.1.label>barrel</VFE_Gun_Plasmapiercer.tools.1.label>
+	<!-- EN: muzzle -->
+	<VFE_Gun_Plasmapiercer.tools.2.label>muzzle</VFE_Gun_Plasmapiercer.tools.2.label>
+	
+	<!-- EN: stock -->
+	<VFE_Gun_PlasmabeamRifle.tools.0.label>stock</VFE_Gun_PlasmabeamRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<VFE_Gun_PlasmabeamRifle.tools.1.label>barrel</VFE_Gun_PlasmabeamRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<VFE_Gun_PlasmabeamRifle.tools.2.label>muzzle</VFE_Gun_PlasmabeamRifle.tools.2.label>
+	
+	<!-- EN: plasma chain -->
+	<VFE_Plasmasaw.tools.0.label>plasma chain</VFE_Plasmasaw.tools.0.label>
+</LanguageData>

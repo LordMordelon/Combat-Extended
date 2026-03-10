@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\Rimsenal Enhanced Vanilla\Defs\Rimsenal Enhanced Vanilla\Ammo_EnhancedVanilla_Lasers.xml -->
+	<!-- EN: grazer charge -->
+	<AmmoSet_RSBeamCarbine.label>grazer charge</AmmoSet_RSBeamCarbine.label>
+	<!-- EN: grazer charge -->
+	<AmmoSet_RSBeamPistol.label>grazer charge</AmmoSet_RSBeamPistol.label>
+	<!-- EN: grazer charge -->
+	<AmmoSet_RSBeamShotgun.label>grazer charge</AmmoSet_RSBeamShotgun.label>
+	<!-- EN: grazer charge -->
+	<AmmoSet_RSBeamSniper.label>grazer charge</AmmoSet_RSBeamSniper.label>
+</LanguageData>

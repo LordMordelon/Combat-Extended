@@ -1,0 +1,104 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Kyrrisayo_WeaponsPlus\WeaponsPlus_MeleeWeapons1965.xml -->
+	<!-- EN: handle -->
+	<MeleeWeapon_Great_Axe.tools.0.label>handle</MeleeWeapon_Great_Axe.tools.0.label>
+	<!-- EN: edge -->
+	<MeleeWeapon_Great_Axe.tools.1.label>edge</MeleeWeapon_Great_Axe.tools.1.label>
+	
+	<!-- EN: head -->
+	<MeleeWeapon_Flail.tools.0.label>head</MeleeWeapon_Flail.tools.0.label>
+	
+	<!-- EN: head -->
+	<MeleeWeapon_Nunchaku.tools.0.label>head</MeleeWeapon_Nunchaku.tools.0.label>
+	
+	<!-- EN: head -->
+	<MeleeWeapon_Maul.tools.0.label>head</MeleeWeapon_Maul.tools.0.label>
+	
+	<!-- EN: handle -->
+	<MeleeWeapon_Morning_Star.tools.0.label>handle</MeleeWeapon_Morning_Star.tools.0.label>
+	<!-- EN: head -->
+	<MeleeWeapon_Morning_Star.tools.1.label>head</MeleeWeapon_Morning_Star.tools.1.label>
+	
+	<!-- EN: handle -->
+	<MeleeWeapon_Primitive_Knife.tools.0.label>handle</MeleeWeapon_Primitive_Knife.tools.0.label>
+	<!-- EN: edge -->
+	<MeleeWeapon_Primitive_Knife.tools.1.label>edge</MeleeWeapon_Primitive_Knife.tools.1.label>
+	<!-- EN: point -->
+	<MeleeWeapon_Primitive_Knife.tools.2.label>point</MeleeWeapon_Primitive_Knife.tools.2.label>
+	
+	<!-- EN: handle -->
+	<MeleeWeapon_Kukri.tools.0.label>handle</MeleeWeapon_Kukri.tools.0.label>
+	<!-- EN: edge -->
+	<MeleeWeapon_Kukri.tools.1.label>edge</MeleeWeapon_Kukri.tools.1.label>
+	<!-- EN: point -->
+	<MeleeWeapon_Kukri.tools.2.label>point</MeleeWeapon_Kukri.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<MeleeWeapon_Bardiche.tools.0.label>shaft</MeleeWeapon_Bardiche.tools.0.label>
+	<!-- EN: point -->
+	<MeleeWeapon_Bardiche.tools.1.label>point</MeleeWeapon_Bardiche.tools.1.label>
+	<!-- EN: edge -->
+	<MeleeWeapon_Bardiche.tools.2.label>edge</MeleeWeapon_Bardiche.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<MeleeWeapon_Glaive.tools.0.label>shaft</MeleeWeapon_Glaive.tools.0.label>
+	<!-- EN: edge -->
+	<MeleeWeapon_Glaive.tools.1.label>edge</MeleeWeapon_Glaive.tools.1.label>
+	<!-- EN: point -->
+	<MeleeWeapon_Glaive.tools.2.label>point</MeleeWeapon_Glaive.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<MeleeWeapon_Bo_Staff.tools.0.label>shaft</MeleeWeapon_Bo_Staff.tools.0.label>
+	<!-- EN: end -->
+	<MeleeWeapon_Bo_Staff.tools.1.label>end</MeleeWeapon_Bo_Staff.tools.1.label>
+	
+	<!-- EN: shaft -->
+	<MeleeWeapon_Scythe.tools.0.label>shaft</MeleeWeapon_Scythe.tools.0.label>
+	<!-- EN: edge -->
+	<MeleeWeapon_Scythe.tools.1.label>edge</MeleeWeapon_Scythe.tools.1.label>
+	<!-- EN: blade -->
+	<MeleeWeapon_Scythe.tools.2.label>blade</MeleeWeapon_Scythe.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<MeleeWeapon_Naginata.tools.0.label>shaft</MeleeWeapon_Naginata.tools.0.label>
+	<!-- EN: edge -->
+	<MeleeWeapon_Naginata.tools.1.label>edge</MeleeWeapon_Naginata.tools.1.label>
+	<!-- EN: point -->
+	<MeleeWeapon_Naginata.tools.2.label>point</MeleeWeapon_Naginata.tools.2.label>
+	
+	<!-- EN: knuckles -->
+	<MeleeWeapon_Brass_Knuckles.tools.0.label>knuckles</MeleeWeapon_Brass_Knuckles.tools.0.label>
+	
+	<!-- EN: end -->
+	<MeleeWeapon_Tonfa.tools.0.label>end</MeleeWeapon_Tonfa.tools.0.label>
+	<!-- EN: side -->
+	<MeleeWeapon_Tonfa.tools.1.label>side</MeleeWeapon_Tonfa.tools.1.label>
+	
+	<!-- EN: handle -->
+	<MeleeWeapon_Katana.tools.0.label>handle</MeleeWeapon_Katana.tools.0.label>
+	<!-- EN: point -->
+	<MeleeWeapon_Katana.tools.1.label>point</MeleeWeapon_Katana.tools.1.label>
+	<!-- EN: edge -->
+	<MeleeWeapon_Katana.tools.2.label>edge</MeleeWeapon_Katana.tools.2.label>
+	
+	<!-- EN: handle -->
+	<MeleeWeapon_Claymore.tools.0.label>handle</MeleeWeapon_Claymore.tools.0.label>
+	<!-- EN: point -->
+	<MeleeWeapon_Claymore.tools.1.label>point</MeleeWeapon_Claymore.tools.1.label>
+	<!-- EN: edge -->
+	<MeleeWeapon_Claymore.tools.2.label>edge</MeleeWeapon_Claymore.tools.2.label>
+	
+	<!-- EN: handle -->
+	<MeleeWeapon_Zweihander.tools.0.label>handle</MeleeWeapon_Zweihander.tools.0.label>
+	<!-- EN: point -->
+	<MeleeWeapon_Zweihander.tools.1.label>point</MeleeWeapon_Zweihander.tools.1.label>
+	<!-- EN: edge -->
+	<MeleeWeapon_Zweihander.tools.2.label>edge</MeleeWeapon_Zweihander.tools.2.label>
+	
+	<!-- EN: handle -->
+	<MeleeWeapon_Sabre.tools.0.label>handle</MeleeWeapon_Sabre.tools.0.label>
+	<!-- EN: point -->
+	<MeleeWeapon_Sabre.tools.1.label>point</MeleeWeapon_Sabre.tools.1.label>
+	<!-- EN: edge -->
+	<MeleeWeapon_Sabre.tools.2.label>edge</MeleeWeapon_Sabre.tools.2.label>
+</LanguageData>

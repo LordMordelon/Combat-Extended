@@ -1,0 +1,45 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Neronix17_Outland_MotzCoalition\MotzWeapons_Patch1216.xml -->
+	<!-- EN: handle -->
+	<Outland_DorySpear.tools.0.label>handle</Outland_DorySpear.tools.0.label>
+	<!-- EN: point -->
+	<Outland_DorySpear.tools.1.label>point</Outland_DorySpear.tools.1.label>
+	<!-- EN: edge -->
+	<Outland_DorySpear.tools.2.label>edge</Outland_DorySpear.tools.2.label>
+	
+	<!-- EN: handle -->
+	<Outland_EpsilonAxe.tools.0.label>handle</Outland_EpsilonAxe.tools.0.label>
+	<!-- EN: edge -->
+	<Outland_EpsilonAxe.tools.1.label>edge</Outland_EpsilonAxe.tools.1.label>
+	
+	<!-- EN: handle -->
+	<Outland_Kopis.tools.0.label>handle</Outland_Kopis.tools.0.label>
+	<!-- EN: point -->
+	<Outland_Kopis.tools.1.label>point</Outland_Kopis.tools.1.label>
+	<!-- EN: edge -->
+	<Outland_Kopis.tools.2.label>edge</Outland_Kopis.tools.2.label>
+	
+	<!-- EN: handle -->
+	<Outland_LabrysAxe.tools.0.label>handle</Outland_LabrysAxe.tools.0.label>
+	<!-- EN: edge -->
+	<Outland_LabrysAxe.tools.1.label>edge</Outland_LabrysAxe.tools.1.label>
+	
+	<!-- EN: handle -->
+	<Outland_Machaira.tools.0.label>handle</Outland_Machaira.tools.0.label>
+	<!-- EN: point -->
+	<Outland_Machaira.tools.1.label>point</Outland_Machaira.tools.1.label>
+	<!-- EN: edge -->
+	<Outland_Machaira.tools.2.label>edge</Outland_Machaira.tools.2.label>
+	
+	<!-- EN: handle -->
+	<Outland_Rapier.tools.0.label>handle</Outland_Rapier.tools.0.label>
+	<!-- EN: point -->
+	<Outland_Rapier.tools.1.label>point</Outland_Rapier.tools.1.label>
+	<!-- EN: edge -->
+	<Outland_Rapier.tools.2.label>edge</Outland_Rapier.tools.2.label>
+	
+	<!-- EN: handle -->
+	<Outland_Xiphos.tools.0.label>handle</Outland_Xiphos.tools.0.label>
+	<!-- EN: edge -->
+	<Outland_Xiphos.tools.1.label>edge</Outland_Xiphos.tools.1.label>
+</LanguageData>

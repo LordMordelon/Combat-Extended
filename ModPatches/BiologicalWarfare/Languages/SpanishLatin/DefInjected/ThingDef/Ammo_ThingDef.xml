@@ -1,0 +1,171 @@
+<LanguageData>
+	<!-- ModPatches\BiologicalWarfare\Defs\Ammo.xml -->
+	
+	<!-- EN: 40x46mm grenade (flesh-breaker) -->
+	<Ammo_40x46mmGrenade_FleshBreaker.label>40x46mm grenade (flesh-breaker)</Ammo_40x46mmGrenade_FleshBreaker.label>
+	<!-- EN: Low velocity grenade fired from handheld grenade launchers. -->
+	<Ammo_40x46mmGrenade_FleshBreaker.description>Low velocity grenade fired from handheld grenade launchers.</Ammo_40x46mmGrenade_FleshBreaker.description>
+	
+	<!-- EN: 40x46mm grenade (flesh-breaker) -->
+	<Bullet_40x46mmGrenade_FleshBreaker.label>40x46mm grenade (flesh-breaker)</Bullet_40x46mmGrenade_FleshBreaker.label>
+	
+	<!-- EN: 81mm mortar shell (flesh-breaker) -->
+	<Ammo_81mmMortarShell_FleshBreaker.label>81mm mortar shell (flesh-breaker)</Ammo_81mmMortarShell_FleshBreaker.label>
+	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+	<Ammo_81mmMortarShell_FleshBreaker.description>Low-velocity shell designed to be fired from a mortar.</Ammo_81mmMortarShell_FleshBreaker.description>
+	
+	<!-- EN: 81mm mortar shell (flesh-breaker) -->
+	<Bullet_81mmMortarShell_FleshBreaker.label>81mm mortar shell (flesh-breaker)</Bullet_81mmMortarShell_FleshBreaker.label>
+	
+	<!-- EN: 50mm rocket (flesh-breaker) -->
+	<Ammo_50mmRocket_FleshBreaker.label>50mm rocket (flesh-breaker)</Ammo_50mmRocket_FleshBreaker.label>
+	<!-- EN: An unguided rocket equipped with an explosive warhead and a contact fuse. -->
+	<Ammo_50mmRocket_FleshBreaker.description>An unguided rocket equipped with an explosive warhead and a contact fuse.</Ammo_50mmRocket_FleshBreaker.description>
+	
+	<!-- EN: 50mm rocket (flesh-breaker) -->
+	<Bullet_50mmRocket_FleshBreaker.label>50mm rocket (flesh-breaker)</Bullet_50mmRocket_FleshBreaker.label>
+	
+	<!-- EN: 40x46mm grenade (flu) -->
+	<Ammo_40x46mmGrenade_Flu.label>40x46mm grenade (flu)</Ammo_40x46mmGrenade_Flu.label>
+	<!-- EN: Low velocity grenade fired from handheld grenade launchers. -->
+	<Ammo_40x46mmGrenade_Flu.description>Low velocity grenade fired from handheld grenade launchers.</Ammo_40x46mmGrenade_Flu.description>
+	
+	<!-- EN: 40x46mm grenade (flu) -->
+	<Bullet_40x46mmGrenade_Flu.label>40x46mm grenade (flu)</Bullet_40x46mmGrenade_Flu.label>
+	
+	<!-- EN: 81mm mortar shell (flu) -->
+	<Ammo_81mmMortarShell_Flu.label>81mm mortar shell (flu)</Ammo_81mmMortarShell_Flu.label>
+	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+	<Ammo_81mmMortarShell_Flu.description>Low-velocity shell designed to be fired from a mortar.</Ammo_81mmMortarShell_Flu.description>
+	
+	<!-- EN: 81mm mortar shell (flu) -->
+	<Bullet_81mmMortarShell_Flu.label>81mm mortar shell (flu)</Bullet_81mmMortarShell_Flu.label>
+	
+	<!-- EN: 50mm rocket (flu) -->
+	<Ammo_50mmRocket_Flu.label>50mm rocket (flu)</Ammo_50mmRocket_Flu.label>
+	<!-- EN: An unguided rocket equipped with an explosive warhead and a contact fuse. -->
+	<Ammo_50mmRocket_Flu.description>An unguided rocket equipped with an explosive warhead and a contact fuse.</Ammo_50mmRocket_Flu.description>
+	
+	<!-- EN: 50mm rocket (flu) -->
+	<Bullet_50mmRocket_Flu.label>50mm rocket (flu)</Bullet_50mmRocket_Flu.label>
+	
+	<!-- EN: 40x46mm grenade (malaria) -->
+	<Ammo_40x46mmGrenade_Malaria.label>40x46mm grenade (malaria)</Ammo_40x46mmGrenade_Malaria.label>
+	<!-- EN: Low velocity grenade fired from handheld grenade launchers. -->
+	<Ammo_40x46mmGrenade_Malaria.description>Low velocity grenade fired from handheld grenade launchers.</Ammo_40x46mmGrenade_Malaria.description>
+	
+	<!-- EN: 40x46mm grenade (malaria) -->
+	<Bullet_40x46mmGrenade_Malaria.label>40x46mm grenade (malaria)</Bullet_40x46mmGrenade_Malaria.label>
+	
+	<!-- EN: 81mm mortar shell (malaria) -->
+	<Ammo_81mmMortarShell_Malaria.label>81mm mortar shell (malaria)</Ammo_81mmMortarShell_Malaria.label>
+	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+	<Ammo_81mmMortarShell_Malaria.description>Low-velocity shell designed to be fired from a mortar.</Ammo_81mmMortarShell_Malaria.description>
+	
+	<!-- EN: 81mm mortar shell (malaria) -->
+	<Bullet_81mmMortarShell_Malaria.label>81mm mortar shell (malaria)</Bullet_81mmMortarShell_Malaria.label>
+	
+	<!-- EN: 50mm rocket (malaria) -->
+	<Ammo_50mmRocket_Malaria.label>50mm rocket (malaria)</Ammo_50mmRocket_Malaria.label>
+	<!-- EN: An unguided rocket equipped with an explosive warhead and a contact fuse. -->
+	<Ammo_50mmRocket_Malaria.description>An unguided rocket equipped with an explosive warhead and a contact fuse.</Ammo_50mmRocket_Malaria.description>
+	
+	<!-- EN: 50mm rocket (malaria) -->
+	<Bullet_50mmRocket_Malaria.label>50mm rocket (malaria)</Bullet_50mmRocket_Malaria.label>
+	
+	<!-- EN: 40x46mm grenade (necroa) -->
+	<Ammo_40x46mmGrenade_Necroa.label>40x46mm grenade (necroa)</Ammo_40x46mmGrenade_Necroa.label>
+	<!-- EN: Low velocity grenade fired from handheld grenade launchers. -->
+	<Ammo_40x46mmGrenade_Necroa.description>Low velocity grenade fired from handheld grenade launchers.</Ammo_40x46mmGrenade_Necroa.description>
+	
+	<!-- EN: 40x46mm grenade (necroa) -->
+	<Bullet_40x46mmGrenade_Necroa.label>40x46mm grenade (necroa)</Bullet_40x46mmGrenade_Necroa.label>
+	
+	<!-- EN: 81mm mortar shell (necroa) -->
+	<Ammo_81mmMortarShell_Necroa.label>81mm mortar shell (necroa)</Ammo_81mmMortarShell_Necroa.label>
+	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+	<Ammo_81mmMortarShell_Necroa.description>Low-velocity shell designed to be fired from a mortar.</Ammo_81mmMortarShell_Necroa.description>
+	
+	<!-- EN: 81mm mortar shell (necroa) -->
+	<Bullet_81mmMortarShell_Necroa.label>81mm mortar shell (necroa)</Bullet_81mmMortarShell_Necroa.label>
+	
+	<!-- EN: 50mm rocket (necroa) -->
+	<Ammo_50mmRocket_Necroa.label>50mm rocket (necroa)</Ammo_50mmRocket_Necroa.label>
+	<!-- EN: An unguided rocket equipped with an explosive warhead and a contact fuse. -->
+	<Ammo_50mmRocket_Necroa.description>An unguided rocket equipped with an explosive warhead and a contact fuse.</Ammo_50mmRocket_Necroa.description>
+	
+	<!-- EN: 50mm rocket (necroa) -->
+	<Bullet_50mmRocket_Necroa.label>50mm rocket (necroa)</Bullet_50mmRocket_Necroa.label>
+	
+	<!-- EN: 40x46mm grenade (plague) -->
+	<Ammo_40x46mmGrenade_Plague.label>40x46mm grenade (plague)</Ammo_40x46mmGrenade_Plague.label>
+	<!-- EN: Low velocity grenade fired from handheld grenade launchers. -->
+	<Ammo_40x46mmGrenade_Plague.description>Low velocity grenade fired from handheld grenade launchers.</Ammo_40x46mmGrenade_Plague.description>
+	
+	<!-- EN: 40x46mm grenade (plague) -->
+	<Bullet_40x46mmGrenade_Plague.label>40x46mm grenade (plague)</Bullet_40x46mmGrenade_Plague.label>
+	
+	<!-- EN: 81mm mortar shell (plague) -->
+	<Ammo_81mmMortarShell_Plague.label>81mm mortar shell (plague)</Ammo_81mmMortarShell_Plague.label>
+	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+	<Ammo_81mmMortarShell_Plague.description>Low-velocity shell designed to be fired from a mortar.</Ammo_81mmMortarShell_Plague.description>
+	
+	<!-- EN: 81mm mortar shell (plague) -->
+	<Bullet_81mmMortarShell_Plague.label>81mm mortar shell (plague)</Bullet_81mmMortarShell_Plague.label>
+	
+	<!-- EN: 50mm rocket (plague) -->
+	<Ammo_50mmRocket_Plague.label>50mm rocket (plague)</Ammo_50mmRocket_Plague.label>
+	<!-- EN: An unguided rocket equipped with an explosive warhead and a contact fuse. -->
+	<Ammo_50mmRocket_Plague.description>An unguided rocket equipped with an explosive warhead and a contact fuse.</Ammo_50mmRocket_Plague.description>
+	
+	<!-- EN: 50mm rocket (plague) -->
+	<Bullet_50mmRocket_Plague.label>50mm rocket (plague)</Bullet_50mmRocket_Plague.label>
+	
+	<!-- EN: 40x46mm grenade (scaria) -->
+	<Ammo_40x46mmGrenade_Scaria.label>40x46mm grenade (scaria)</Ammo_40x46mmGrenade_Scaria.label>
+	<!-- EN: Low velocity grenade fired from handheld grenade launchers. -->
+	<Ammo_40x46mmGrenade_Scaria.description>Low velocity grenade fired from handheld grenade launchers.</Ammo_40x46mmGrenade_Scaria.description>
+	
+	<!-- EN: 40x46mm grenade (scaria) -->
+	<Bullet_40x46mmGrenade_Scaria.label>40x46mm grenade (scaria)</Bullet_40x46mmGrenade_Scaria.label>
+	
+	<!-- EN: 81mm mortar shell (scaria) -->
+	<Ammo_81mmMortarShell_Scaria.label>81mm mortar shell (scaria)</Ammo_81mmMortarShell_Scaria.label>
+	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+	<Ammo_81mmMortarShell_Scaria.description>Low-velocity shell designed to be fired from a mortar.</Ammo_81mmMortarShell_Scaria.description>
+	
+	<!-- EN: 81mm mortar shell (scaria) -->
+	<Bullet_81mmMortarShell_Scaria.label>81mm mortar shell (scaria)</Bullet_81mmMortarShell_Scaria.label>
+	
+	<!-- EN: 50mm rocket (scaria) -->
+	<Ammo_50mmRocket_Scaria.label>50mm rocket (scaria)</Ammo_50mmRocket_Scaria.label>
+	<!-- EN: An unguided rocket equipped with an explosive warhead and a contact fuse. -->
+	<Ammo_50mmRocket_Scaria.description>An unguided rocket equipped with an explosive warhead and a contact fuse.</Ammo_50mmRocket_Scaria.description>
+	
+	<!-- EN: 50mm rocket (scaria) -->
+	<Bullet_50mmRocket_Scaria.label>50mm rocket (scaria)</Bullet_50mmRocket_Scaria.label>
+	
+	<!-- EN: 40x46mm grenade (sleeping sickness) -->
+	<Ammo_40x46mmGrenade_SleepingSickness.label>40x46mm grenade (sleeping sickness)</Ammo_40x46mmGrenade_SleepingSickness.label>
+	<!-- EN: Low velocity grenade fired from handheld grenade launchers. -->
+	<Ammo_40x46mmGrenade_SleepingSickness.description>Low velocity grenade fired from handheld grenade launchers.</Ammo_40x46mmGrenade_SleepingSickness.description>
+	
+	<!-- EN: 40x46mm grenade (sleeping sickness) -->
+	<Bullet_40x46mmGrenade_SleepingSickness.label>40x46mm grenade (sleeping sickness)</Bullet_40x46mmGrenade_SleepingSickness.label>
+	
+	<!-- EN: 81mm mortar shell (sleeping sickness) -->
+	<Ammo_81mmMortarShell_SleepingSickness.label>81mm mortar shell (sleeping sickness)</Ammo_81mmMortarShell_SleepingSickness.label>
+	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+	<Ammo_81mmMortarShell_SleepingSickness.description>Low-velocity shell designed to be fired from a mortar.</Ammo_81mmMortarShell_SleepingSickness.description>
+	
+	<!-- EN: 81mm mortar shell (sleeping sickness) -->
+	<Bullet_81mmMortarShell_SleepingSickness.label>81mm mortar shell (sleeping sickness)</Bullet_81mmMortarShell_SleepingSickness.label>
+	
+	<!-- EN: 50mm rocket (sleeping sickness) -->
+	<Ammo_50mmRocket_SleepingSickness.label>50mm rocket (sleeping sickness)</Ammo_50mmRocket_SleepingSickness.label>
+	<!-- EN: An unguided rocket equipped with an explosive warhead and a contact fuse. -->
+	<Ammo_50mmRocket_SleepingSickness.description>An unguided rocket equipped with an explosive warhead and a contact fuse.</Ammo_50mmRocket_SleepingSickness.description>
+	
+	<!-- EN: 50mm rocket (sleeping sickness) -->
+	<Bullet_50mmRocket_SleepingSickness.label>50mm rocket (sleeping sickness)</Bullet_50mmRocket_SleepingSickness.label>
+</LanguageData>

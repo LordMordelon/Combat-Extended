@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\MiscTurrets\Defs\MiscTurrets\Patch_Ammo.xml -->
+	<!-- EN: make Nanobots (MT) cartridge x50 -->
+	<MakeAmmo_NanobotsMicroTurret.label>make Nanobots (MT) cartridge x50</MakeAmmo_NanobotsMicroTurret.label>
+	<!-- EN: Craft 50 Nanobots (MT) cartridges. -->
+	<MakeAmmo_NanobotsMicroTurret.description>Craft 50 Nanobots (MT) cartridges.</MakeAmmo_NanobotsMicroTurret.description>
+	<!-- EN: Making Nanobots (MT) cartridges. -->
+	<MakeAmmo_NanobotsMicroTurret.jobString>Making Nanobots (MT) cartridges.</MakeAmmo_NanobotsMicroTurret.jobString>
+</LanguageData>

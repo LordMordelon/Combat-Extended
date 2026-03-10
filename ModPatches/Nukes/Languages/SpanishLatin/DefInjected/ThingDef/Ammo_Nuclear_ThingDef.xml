@@ -1,0 +1,23 @@
+<LanguageData>
+	<!-- ModPatches\Nukes\Defs\Nukes\Ammo_Nuclear.xml -->
+	
+	<!-- EN: fusion warhead -->
+	<Ammo_FusionBomb.label>fusion warhead</Ammo_FusionBomb.label>
+	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+	<Ammo_FusionBomb.description>Low-velocity shell designed to be fired from a mortar.</Ammo_FusionBomb.description>
+	
+	<!-- EN: large nuclear warhead -->
+	<Ammo_LargeNuclearBomb.label>large nuclear warhead</Ammo_LargeNuclearBomb.label>
+	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+	<Ammo_LargeNuclearBomb.description>Low-velocity shell designed to be fired from a mortar.</Ammo_LargeNuclearBomb.description>
+	
+	<!-- EN: small nuclear warhead -->
+	<Ammo_SmallNuclearBomb.label>small nuclear warhead</Ammo_SmallNuclearBomb.label>
+	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+	<Ammo_SmallNuclearBomb.description>Low-velocity shell designed to be fired from a mortar.</Ammo_SmallNuclearBomb.description>
+	
+	<!-- EN: dirty nuclear warhead -->
+	<Ammo_DirtyNuclearBomb.label>dirty nuclear warhead</Ammo_DirtyNuclearBomb.label>
+	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+	<Ammo_DirtyNuclearBomb.description>Low-velocity shell designed to be fired from a mortar.</Ammo_DirtyNuclearBomb.description>
+</LanguageData>

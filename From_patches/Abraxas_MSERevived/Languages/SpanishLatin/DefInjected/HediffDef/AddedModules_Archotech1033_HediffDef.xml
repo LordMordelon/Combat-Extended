@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Abraxas_MSERevived\AddedModules_Archotech1033.xml -->
+	<!-- EN: fist -->
+	<MSE_ArchotechArmModule.comps.0.tools.0.label>fist</MSE_ArchotechArmModule.comps.0.tools.0.label>
+	<!-- EN: claw -->
+	<MSE_ArchotechHandModule.comps.0.tools.0.label>claw</MSE_ArchotechHandModule.comps.0.tools.0.label>
+	<!-- EN: stinger -->
+	<MSE_ArchotechFingerModule.comps.0.tools.0.label>stinger</MSE_ArchotechFingerModule.comps.0.tools.0.label>
+</LanguageData>

@@ -1,0 +1,25 @@
+<LanguageData>
+	<!-- ModPatches\Rim-Effect Renegade Core\Defs\Rim-Effect Renegade Core\ME_Projectile_Damage_Ammoclass.xml -->
+	<!-- EN: Thermal Clip -->
+	<AmmoSet_Ymir.label>Thermal Clip</AmmoSet_Ymir.label>
+	<!-- EN: Thermal Clip -->
+	<AmmoSet_ME_Cannon.label>Thermal Clip</AmmoSet_ME_Cannon.label>
+	<!-- EN: Thermal Clip -->
+	<AmmoSet_M8.label>Thermal Clip</AmmoSet_M8.label>
+	<!-- EN: Thermal Clip -->
+	<AmmoSet_M15.label>Thermal Clip</AmmoSet_M15.label>
+	<!-- EN: Thermal Clip -->
+	<AmmoSet_Katana.label>Thermal Clip</AmmoSet_Katana.label>
+	<!-- EN: Thermal Clip -->
+	<AmmoSet_Hydrashotty.label>Thermal Clip</AmmoSet_Hydrashotty.label>
+	<!-- EN: Thermal Clip -->
+	<AmmoSet_M98.label>Thermal Clip</AmmoSet_M98.label>
+	<!-- EN: Thermal Clip -->
+	<AmmoSet_Mantis.label>Thermal Clip</AmmoSet_Mantis.label>
+	<!-- EN: Thermal Clip -->
+	<AmmoSet_Tempest.label>Thermal Clip</AmmoSet_Tempest.label>
+	<!-- EN: Thermal Clip -->
+	<AmmoSet_Predator.label>Thermal Clip</AmmoSet_Predator.label>
+	<!-- EN: Thermal Clip -->
+	<AmmoSet_Phalanx.label>Thermal Clip</AmmoSet_Phalanx.label>
+</LanguageData>

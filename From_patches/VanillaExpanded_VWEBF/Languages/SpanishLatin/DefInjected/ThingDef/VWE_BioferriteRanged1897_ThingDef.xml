@@ -1,0 +1,45 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VWEBF\VWE_BioferriteRanged1897.xml -->
+	<!-- EN: stock -->
+	<VWEB_Gun_FlarestrikeRifle.tools.0.label>stock</VWEB_Gun_FlarestrikeRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<VWEB_Gun_FlarestrikeRifle.tools.1.label>barrel</VWEB_Gun_FlarestrikeRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<VWEB_Gun_FlarestrikeRifle.tools.2.label>muzzle</VWEB_Gun_FlarestrikeRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<VWEB_Gun_FirestormShotgun.tools.0.label>stock</VWEB_Gun_FirestormShotgun.tools.0.label>
+	<!-- EN: barrel -->
+	<VWEB_Gun_FirestormShotgun.tools.1.label>barrel</VWEB_Gun_FirestormShotgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<VWEB_Gun_FirestormShotgun.tools.2.label>muzzle</VWEB_Gun_FirestormShotgun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<VWEB_Gun_CycloneMinigun.tools.0.label>stock</VWEB_Gun_CycloneMinigun.tools.0.label>
+	<!-- EN: barrel -->
+	<VWEB_Gun_CycloneMinigun.tools.1.label>barrel</VWEB_Gun_CycloneMinigun.tools.1.label>
+	<!-- EN: muzzle -->
+	<VWEB_Gun_CycloneMinigun.tools.2.label>muzzle</VWEB_Gun_CycloneMinigun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<VWEB_Gun_PiercerRifle.tools.0.label>stock</VWEB_Gun_PiercerRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<VWEB_Gun_PiercerRifle.tools.1.label>barrel</VWEB_Gun_PiercerRifle.tools.1.label>
+	<!-- EN: bayonet -->
+	<VWEB_Gun_PiercerRifle.tools.2.label>bayonet</VWEB_Gun_PiercerRifle.tools.2.label>
+	
+	<!-- EN: switch to rifle -->
+	<VWEB_Gun_FlarestrikeRifle.comps.0.standardLabel>switch to rifle</VWEB_Gun_FlarestrikeRifle.comps.0.standardLabel>
+	<!-- EN: switch to flaregun -->
+	<VWEB_Gun_FlarestrikeRifle.comps.0.underBarrelLabel>switch to flaregun</VWEB_Gun_FlarestrikeRifle.comps.0.underBarrelLabel>
+	
+	<!-- EN: switch to shotgun -->
+	<VWEB_Gun_FirestormShotgun.comps.0.standardLabel>switch to shotgun</VWEB_Gun_FirestormShotgun.comps.0.standardLabel>
+	<!-- EN: switch to flamethrower -->
+	<VWEB_Gun_FirestormShotgun.comps.0.underBarrelLabel>switch to flamethrower</VWEB_Gun_FirestormShotgun.comps.0.underBarrelLabel>
+	
+	<!-- EN: switch to normal fire -->
+	<VWEB_Gun_CycloneMinigun.comps.0.standardLabel>switch to normal fire</VWEB_Gun_CycloneMinigun.comps.0.standardLabel>
+	<!-- EN: switch to cyclone engine -->
+	<VWEB_Gun_CycloneMinigun.comps.0.underBarrelLabel>switch to cyclone engine</VWEB_Gun_CycloneMinigun.comps.0.underBarrelLabel>
+</LanguageData>

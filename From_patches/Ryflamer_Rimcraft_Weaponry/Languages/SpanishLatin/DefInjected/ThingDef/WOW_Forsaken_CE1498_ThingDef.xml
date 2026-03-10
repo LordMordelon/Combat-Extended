@@ -1,0 +1,44 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Ryflamer_Rimcraft_Weaponry\WOW_Forsaken_CE1498.xml -->
+	<!-- EN: handle -->
+	<WoWM_Forsaken_Cleaver.tools.0.label>handle</WoWM_Forsaken_Cleaver.tools.0.label>
+	<!-- EN: edge -->
+	<WoWM_Forsaken_Cleaver.tools.1.label>edge</WoWM_Forsaken_Cleaver.tools.1.label>
+	
+	<!-- EN: handle -->
+	<WoWM_Forsaken_Dirk.tools.0.label>handle</WoWM_Forsaken_Dirk.tools.0.label>
+	<!-- EN: point -->
+	<WoWM_Forsaken_Dirk.tools.1.label>point</WoWM_Forsaken_Dirk.tools.1.label>
+	<!-- EN: edge -->
+	<WoWM_Forsaken_Dirk.tools.2.label>edge</WoWM_Forsaken_Dirk.tools.2.label>
+	
+	<!-- EN: handle -->
+	<WoWM_Forsaken_Blade.tools.0.label>handle</WoWM_Forsaken_Blade.tools.0.label>
+	<!-- EN: point -->
+	<WoWM_Forsaken_Blade.tools.1.label>point</WoWM_Forsaken_Blade.tools.1.label>
+	<!-- EN: edge -->
+	<WoWM_Forsaken_Blade.tools.2.label>edge</WoWM_Forsaken_Blade.tools.2.label>
+	
+	<!-- EN: handle -->
+	<WoWM_Forsaken_Greatsword.tools.0.label>handle</WoWM_Forsaken_Greatsword.tools.0.label>
+	<!-- EN: point -->
+	<WoWM_Forsaken_Greatsword.tools.1.label>point</WoWM_Forsaken_Greatsword.tools.1.label>
+	<!-- EN: edge -->
+	<WoWM_Forsaken_Greatsword.tools.2.label>edge</WoWM_Forsaken_Greatsword.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<WoWM_Forsaken_Halberd.tools.0.label>shaft</WoWM_Forsaken_Halberd.tools.0.label>
+	<!-- EN: shaft -->
+	<WoWM_Forsaken_Halberd.tools.1.label>shaft</WoWM_Forsaken_Halberd.tools.1.label>
+	<!-- EN: point -->
+	<WoWM_Forsaken_Halberd.tools.2.label>point</WoWM_Forsaken_Halberd.tools.2.label>
+	<!-- EN: edge -->
+	<WoWM_Forsaken_Halberd.tools.3.label>edge</WoWM_Forsaken_Halberd.tools.3.label>
+	
+	<!-- EN: handle -->
+	<WoWM_Forsaken_CrescentBlade.tools.0.label>handle</WoWM_Forsaken_CrescentBlade.tools.0.label>
+	<!-- EN: point -->
+	<WoWM_Forsaken_CrescentBlade.tools.1.label>point</WoWM_Forsaken_CrescentBlade.tools.1.label>
+	<!-- EN: edge -->
+	<WoWM_Forsaken_CrescentBlade.tools.2.label>edge</WoWM_Forsaken_CrescentBlade.tools.2.label>
+</LanguageData>

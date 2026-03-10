@@ -1,0 +1,95 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Rimsenal_Spacer\Weapons_Smart_CE1528.xml -->
+	<!-- EN: grip -->
+	<Gun_SmartRevolver.tools.0.label>grip</Gun_SmartRevolver.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_SmartRevolver.tools.1.label>muzzle</Gun_SmartRevolver.tools.1.label>
+	
+	<!-- EN: grip -->
+	<Gun_SmartAutoPistol.tools.0.label>grip</Gun_SmartAutoPistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_SmartAutoPistol.tools.1.label>muzzle</Gun_SmartAutoPistol.tools.1.label>
+	
+	<!-- EN: grip -->
+	<Gun_SmartMachinePistol.tools.0.label>grip</Gun_SmartMachinePistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_SmartMachinePistol.tools.1.label>muzzle</Gun_SmartMachinePistol.tools.1.label>
+	
+	<!-- EN: stock -->
+	<Gun_SmartBoltActionRifle.tools.0.label>stock</Gun_SmartBoltActionRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_SmartBoltActionRifle.tools.1.label>barrel</Gun_SmartBoltActionRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_SmartBoltActionRifle.tools.2.label>muzzle</Gun_SmartBoltActionRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_SmartPumpShotgun.tools.0.label>stock</Gun_SmartPumpShotgun.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_SmartPumpShotgun.tools.1.label>barrel</Gun_SmartPumpShotgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_SmartPumpShotgun.tools.2.label>muzzle</Gun_SmartPumpShotgun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_SmartChainShotgun.tools.0.label>stock</Gun_SmartChainShotgun.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_SmartChainShotgun.tools.1.label>barrel</Gun_SmartChainShotgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_SmartChainShotgun.tools.2.label>muzzle</Gun_SmartChainShotgun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_SmartHeavySMG.tools.0.label>stock</Gun_SmartHeavySMG.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_SmartHeavySMG.tools.1.label>barrel</Gun_SmartHeavySMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_SmartHeavySMG.tools.2.label>muzzle</Gun_SmartHeavySMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_SmartLMG.tools.0.label>stock</Gun_SmartLMG.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_SmartLMG.tools.1.label>barrel</Gun_SmartLMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_SmartLMG.tools.2.label>muzzle</Gun_SmartLMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_SmartAssaultRifle.tools.0.label>stock</Gun_SmartAssaultRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_SmartAssaultRifle.tools.1.label>barrel</Gun_SmartAssaultRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_SmartAssaultRifle.tools.2.label>muzzle</Gun_SmartAssaultRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_SniperRifleSmart.tools.0.label>stock</Gun_SniperRifleSmart.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_SniperRifleSmart.tools.1.label>barrel</Gun_SniperRifleSmart.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_SniperRifleSmart.tools.2.label>muzzle</Gun_SniperRifleSmart.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_SmartChargeRifle.tools.0.label>stock</Gun_SmartChargeRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_SmartChargeRifle.tools.1.label>barrel</Gun_SmartChargeRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_SmartChargeRifle.tools.2.label>muzzle</Gun_SmartChargeRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_SmartChargeLance.tools.0.label>stock</Gun_SmartChargeLance.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_SmartChargeLance.tools.1.label>barrel</Gun_SmartChargeLance.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_SmartChargeLance.tools.2.label>muzzle</Gun_SmartChargeLance.tools.2.label>
+	
+	<!-- EN: barrels -->
+	<Gun_SmartMinigun.tools.0.label>barrels</Gun_SmartMinigun.tools.0.label>
+	
+	<!-- EN: handle -->
+	<MeleeWeapon_SmartSword.tools.0.label>handle</MeleeWeapon_SmartSword.tools.0.label>
+	<!-- EN: edge -->
+	<MeleeWeapon_SmartSword.tools.1.label>edge</MeleeWeapon_SmartSword.tools.1.label>
+	<!-- EN: point -->
+	<MeleeWeapon_SmartSword.tools.2.label>point</MeleeWeapon_SmartSword.tools.2.label>
+	
+	<!-- EN: handle -->
+	<MeleeWeapon_StunProd.tools.0.label>handle</MeleeWeapon_StunProd.tools.0.label>
+	<!-- EN: head -->
+	<MeleeWeapon_StunProd.tools.1.label>head</MeleeWeapon_StunProd.tools.1.label>
+</LanguageData>

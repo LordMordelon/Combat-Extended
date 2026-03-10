@@ -1,0 +1,12 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\veltaris_mechtech\RoyalLancerWeapons442.xml -->
+	<!-- EN: barrel -->
+	<AV_Gun_ChargeLance.tools.0.label>barrel</AV_Gun_ChargeLance.tools.0.label>
+	
+	<!-- EN: Handle -->
+	<AV_Gun_ChargeLance_BladesMode.tools.0.label>Handle</AV_Gun_ChargeLance_BladesMode.tools.0.label>
+	<!-- EN: point -->
+	<AV_Gun_ChargeLance_BladesMode.tools.1.label>point</AV_Gun_ChargeLance_BladesMode.tools.1.label>
+	<!-- EN: edge -->
+	<AV_Gun_ChargeLance_BladesMode.tools.2.label>edge</AV_Gun_ChargeLance_BladesMode.tools.2.label>
+</LanguageData>

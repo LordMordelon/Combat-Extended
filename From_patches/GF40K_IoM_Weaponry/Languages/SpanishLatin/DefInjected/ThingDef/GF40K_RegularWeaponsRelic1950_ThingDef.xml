@@ -1,0 +1,40 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\GF40K_IoM_Weaponry\GF40K_RegularWeaponsRelic1950.xml -->
+	<!-- EN: backside -->
+	<GF40K_RelicChainSword.tools.0.label>backside</GF40K_RelicChainSword.tools.0.label>
+	<!-- EN: chain -->
+	<GF40K_RelicChainSword.tools.1.label>chain</GF40K_RelicChainSword.tools.1.label>
+	<!-- EN: handle -->
+	<GF40K_RelicChainSword.tools.2.label>handle</GF40K_RelicChainSword.tools.2.label>
+	
+	<!-- EN: chain -->
+	<GF40K_RelicChainAxe.tools.0.label>chain</GF40K_RelicChainAxe.tools.0.label>
+	<!-- EN: handle -->
+	<GF40K_RelicChainAxe.tools.1.label>handle</GF40K_RelicChainAxe.tools.1.label>
+	
+	<!-- EN: backside -->
+	<GF40K_RelicEviscerator.tools.0.label>backside</GF40K_RelicEviscerator.tools.0.label>
+	<!-- EN: chain -->
+	<GF40K_RelicEviscerator.tools.1.label>chain</GF40K_RelicEviscerator.tools.1.label>
+	<!-- EN: handle -->
+	<GF40K_RelicEviscerator.tools.2.label>handle</GF40K_RelicEviscerator.tools.2.label>
+	
+	<!-- EN: chain -->
+	<GF40K_RelicChainSpear.tools.0.label>chain</GF40K_RelicChainSpear.tools.0.label>
+	<!-- EN: handle -->
+	<GF40K_RelicChainSpear.tools.1.label>handle</GF40K_RelicChainSpear.tools.1.label>
+	
+	<!-- EN: point -->
+	<GF40K_RelicPowerSabre.tools.0.label>point</GF40K_RelicPowerSabre.tools.0.label>
+	<!-- EN: blade -->
+	<GF40K_RelicPowerSabre.tools.1.label>blade</GF40K_RelicPowerSabre.tools.1.label>
+	<!-- EN: handle -->
+	<GF40K_RelicPowerSabre.tools.2.label>handle</GF40K_RelicPowerSabre.tools.2.label>
+	
+	<!-- EN: point -->
+	<GF40K_RelicPowerSword.tools.0.label>point</GF40K_RelicPowerSword.tools.0.label>
+	<!-- EN: blade -->
+	<GF40K_RelicPowerSword.tools.1.label>blade</GF40K_RelicPowerSword.tools.1.label>
+	<!-- EN: handle -->
+	<GF40K_RelicPowerSword.tools.2.label>handle</GF40K_RelicPowerSword.tools.2.label>
+</LanguageData>

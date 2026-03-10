@@ -1,0 +1,31 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Goob_Kobolds\Melee_Kobold966.xml -->
+	<!-- EN: handle -->
+	<Kobold_Bone.tools.0.label>handle</Kobold_Bone.tools.0.label>
+	<!-- EN: head -->
+	<Kobold_Bone.tools.1.label>head</Kobold_Bone.tools.1.label>
+	
+	<!-- EN: handle -->
+	<Kobold_BoneDagger.tools.0.label>handle</Kobold_BoneDagger.tools.0.label>
+	<!-- EN: point -->
+	<Kobold_BoneDagger.tools.1.label>point</Kobold_BoneDagger.tools.1.label>
+	
+	<!-- EN: handle -->
+	<Kobold_Dagger.tools.0.label>handle</Kobold_Dagger.tools.0.label>
+	<!-- EN: blade -->
+	<Kobold_Dagger.tools.1.label>blade</Kobold_Dagger.tools.1.label>
+	<!-- EN: point -->
+	<Kobold_Dagger.tools.2.label>point</Kobold_Dagger.tools.2.label>
+	
+	<!-- EN: handle -->
+	<Kobold_BoneSword.tools.0.label>handle</Kobold_BoneSword.tools.0.label>
+	<!-- EN: point -->
+	<Kobold_BoneSword.tools.1.label>point</Kobold_BoneSword.tools.1.label>
+	<!-- EN: edge -->
+	<Kobold_BoneSword.tools.2.label>edge</Kobold_BoneSword.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<Kobold_Spear.tools.0.label>shaft</Kobold_Spear.tools.0.label>
+	<!-- EN: head -->
+	<Kobold_Spear.tools.1.label>head</Kobold_Spear.tools.1.label>
+</LanguageData>

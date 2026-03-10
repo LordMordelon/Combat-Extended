@@ -1,0 +1,20 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\peptide_androidsexpanded\AlienRace_Droids353.xml -->
+	<!-- EN: left fist -->
+	<ChjSpacerDroid.tools.0.label>left fist</ChjSpacerDroid.tools.0.label>
+	<!-- EN: right fist -->
+	<ChjSpacerDroid.tools.1.label>right fist</ChjSpacerDroid.tools.1.label>
+	<!-- EN: head -->
+	<ChjSpacerDroid.tools.2.label>head</ChjSpacerDroid.tools.2.label>
+	
+	<!-- EN: left razor-fist -->
+	<ChjSpacerBattleDroid.tools.0.label>left razor-fist</ChjSpacerBattleDroid.tools.0.label>
+	<!-- EN: right razor-fist -->
+	<ChjSpacerBattleDroid.tools.1.label>right razor-fist</ChjSpacerBattleDroid.tools.1.label>
+	<!-- EN: lower left razor-fist -->
+	<ChjSpacerBattleDroid.tools.2.label>lower left razor-fist</ChjSpacerBattleDroid.tools.2.label>
+	<!-- EN: lower right razor-fist -->
+	<ChjSpacerBattleDroid.tools.3.label>lower right razor-fist</ChjSpacerBattleDroid.tools.3.label>
+	<!-- EN: head -->
+	<ChjSpacerBattleDroid.tools.4.label>head</ChjSpacerBattleDroid.tools.4.label>
+</LanguageData>

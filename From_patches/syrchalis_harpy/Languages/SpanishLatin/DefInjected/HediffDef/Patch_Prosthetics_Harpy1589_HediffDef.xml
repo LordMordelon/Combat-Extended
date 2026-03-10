@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\syrchalis_harpy\Patch_Prosthetics_Harpy1589.xml -->
+	<!-- EN: steel harpy claw -->
+	<SteelHarpyClaw.comps.0.tools.0.label>steel harpy claw</SteelHarpyClaw.comps.0.tools.0.label>
+	<!-- EN: steel harpy claw -->
+	<SteelHarpyClaw.comps.0.tools.1.label>steel harpy claw</SteelHarpyClaw.comps.0.tools.1.label>
+	
+	<!-- EN: plasteel harpy claw -->
+	<PlasteelHarpyClaw.comps.0.tools.0.label>plasteel harpy claw</PlasteelHarpyClaw.comps.0.tools.0.label>
+	<!-- EN: plasteel harpy claw -->
+	<PlasteelHarpyClaw.comps.0.tools.1.label>plasteel harpy claw</PlasteelHarpyClaw.comps.0.tools.1.label>
+	
+	<!-- EN: harpy monoclaw -->
+	<HarpyMonoClaw.comps.0.tools.0.label>harpy monoclaw</HarpyMonoClaw.comps.0.tools.0.label>
+	<!-- EN: harpy monoclaw -->
+	<HarpyMonoClaw.comps.0.tools.1.label>harpy monoclaw</HarpyMonoClaw.comps.0.tools.1.label>
+	
+	<!-- EN: harpy venonmclaw -->
+	<HarpyVenomClaw.comps.0.tools.0.label>harpy venonmclaw</HarpyVenomClaw.comps.0.tools.0.label>
+	<!-- EN: harpy venonmclaw -->
+	<HarpyVenomClaw.comps.0.tools.1.label>harpy venonmclaw</HarpyVenomClaw.comps.0.tools.1.label>
+	
+	<!-- EN: harpy work claw -->
+	<HarpyWorkClaw.comps.0.tools.0.label>harpy work claw</HarpyWorkClaw.comps.0.tools.0.label>
+	<!-- EN: harpy work claw -->
+	<HarpyWorkClaw.comps.0.tools.1.label>harpy work claw</HarpyWorkClaw.comps.0.tools.1.label>
+</LanguageData>

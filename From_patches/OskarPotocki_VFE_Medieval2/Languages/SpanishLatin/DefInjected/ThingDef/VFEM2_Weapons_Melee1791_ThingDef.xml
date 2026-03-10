@@ -1,0 +1,50 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\OskarPotocki_VFE_Medieval2\VFEM2_Weapons_Melee1791.xml -->
+	<!-- EN: handle -->
+	<VFEM2_MeleeWeapon_HeavyMace.tools.0.label>handle</VFEM2_MeleeWeapon_HeavyMace.tools.0.label>
+	<!-- EN: head -->
+	<VFEM2_MeleeWeapon_HeavyMace.tools.1.label>head</VFEM2_MeleeWeapon_HeavyMace.tools.1.label>
+	
+	<!-- EN: shaft -->
+	<VFEM2_MeleeWeapon_DaneAxe.tools.0.label>shaft</VFEM2_MeleeWeapon_DaneAxe.tools.0.label>
+	<!-- EN: head -->
+	<VFEM2_MeleeWeapon_DaneAxe.tools.1.label>head</VFEM2_MeleeWeapon_DaneAxe.tools.1.label>
+	<!-- EN: edge -->
+	<VFEM2_MeleeWeapon_DaneAxe.tools.2.label>edge</VFEM2_MeleeWeapon_DaneAxe.tools.2.label>
+	
+	<!-- EN: handle -->
+	<VFEM2_MeleeWeapon_Claymore.tools.0.label>handle</VFEM2_MeleeWeapon_Claymore.tools.0.label>
+	<!-- EN: point -->
+	<VFEM2_MeleeWeapon_Claymore.tools.1.label>point</VFEM2_MeleeWeapon_Claymore.tools.1.label>
+	<!-- EN: edge -->
+	<VFEM2_MeleeWeapon_Claymore.tools.2.label>edge</VFEM2_MeleeWeapon_Claymore.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<VFEM2_MeleeWeapon_Halberd.tools.0.label>shaft</VFEM2_MeleeWeapon_Halberd.tools.0.label>
+	<!-- EN: edge -->
+	<VFEM2_MeleeWeapon_Halberd.tools.1.label>edge</VFEM2_MeleeWeapon_Halberd.tools.1.label>
+	<!-- EN: point -->
+	<VFEM2_MeleeWeapon_Halberd.tools.2.label>point</VFEM2_MeleeWeapon_Halberd.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<VFEM2_MeleeWeapon_Standard.tools.0.label>shaft</VFEM2_MeleeWeapon_Standard.tools.0.label>
+	<!-- EN: point -->
+	<VFEM2_MeleeWeapon_Standard.tools.1.label>point</VFEM2_MeleeWeapon_Standard.tools.1.label>
+	
+	<!-- EN: shaft -->
+	<VFEM2_MeleeWeapon_Pike.tools.0.label>shaft</VFEM2_MeleeWeapon_Pike.tools.0.label>
+	<!-- EN: point -->
+	<VFEM2_MeleeWeapon_Pike.tools.1.label>point</VFEM2_MeleeWeapon_Pike.tools.1.label>
+	
+	<!-- EN: handle -->
+	<VFEM2_MeleeWeapon_Shortsword.tools.0.label>handle</VFEM2_MeleeWeapon_Shortsword.tools.0.label>
+	<!-- EN: point -->
+	<VFEM2_MeleeWeapon_Shortsword.tools.1.label>point</VFEM2_MeleeWeapon_Shortsword.tools.1.label>
+	<!-- EN: edge -->
+	<VFEM2_MeleeWeapon_Shortsword.tools.2.label>edge</VFEM2_MeleeWeapon_Shortsword.tools.2.label>
+	
+	<!-- EN: handle -->
+	<VFEM2_MeleeWeapon_Flail.tools.0.label>handle</VFEM2_MeleeWeapon_Flail.tools.0.label>
+	<!-- EN: head -->
+	<VFEM2_MeleeWeapon_Flail.tools.1.label>head</VFEM2_MeleeWeapon_Flail.tools.1.label>
+</LanguageData>

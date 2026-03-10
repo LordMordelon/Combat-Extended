@@ -1,0 +1,23 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\neronix17_mechadroids\Race_Mechadroids1022.xml -->
+	<!-- EN: left fist -->
+	<O21_Alien_MechadroidAlpha.tools.0.label>left fist</O21_Alien_MechadroidAlpha.tools.0.label>
+	<!-- EN: right fist -->
+	<O21_Alien_MechadroidAlpha.tools.1.label>right fist</O21_Alien_MechadroidAlpha.tools.1.label>
+	<!-- EN: head -->
+	<O21_Alien_MechadroidAlpha.tools.2.label>head</O21_Alien_MechadroidAlpha.tools.2.label>
+	
+	<!-- EN: left fist -->
+	<O21_Alien_MechadroidGamma.tools.0.label>left fist</O21_Alien_MechadroidGamma.tools.0.label>
+	<!-- EN: right fist -->
+	<O21_Alien_MechadroidGamma.tools.1.label>right fist</O21_Alien_MechadroidGamma.tools.1.label>
+	<!-- EN: head -->
+	<O21_Alien_MechadroidGamma.tools.2.label>head</O21_Alien_MechadroidGamma.tools.2.label>
+	
+	<!-- EN: left fist -->
+	<O21_Alien_MechadroidDelta.tools.0.label>left fist</O21_Alien_MechadroidDelta.tools.0.label>
+	<!-- EN: right fist -->
+	<O21_Alien_MechadroidDelta.tools.1.label>right fist</O21_Alien_MechadroidDelta.tools.1.label>
+	<!-- EN: head -->
+	<O21_Alien_MechadroidDelta.tools.2.label>head</O21_Alien_MechadroidDelta.tools.2.label>
+</LanguageData>

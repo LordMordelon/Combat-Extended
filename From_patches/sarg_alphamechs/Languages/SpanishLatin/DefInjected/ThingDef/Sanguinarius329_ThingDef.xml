@@ -1,0 +1,12 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\sarg_alphamechs\Sanguinarius329.xml -->
+	<!-- EN: front left leg -->
+	<AM_Mech_Sanguinarius.tools.0.label>front left leg</AM_Mech_Sanguinarius.tools.0.label>
+	<!-- EN: front right leg -->
+	<AM_Mech_Sanguinarius.tools.1.label>front right leg</AM_Mech_Sanguinarius.tools.1.label>
+	<!-- EN: head -->
+	<AM_Mech_Sanguinarius.tools.2.label>head</AM_Mech_Sanguinarius.tools.2.label>
+	
+	<!-- EN: barrel -->
+	<AM_Gun_BloodBelcher.tools.0.label>barrel</AM_Gun_BloodBelcher.tools.0.label>
+</LanguageData>

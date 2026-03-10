@@ -1,0 +1,114 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Nemonian_MY\Weapons1146.xml -->
+	<!-- EN: handle -->
+	<Moyo_Wrench.tools.0.label>handle</Moyo_Wrench.tools.0.label>
+	<!-- EN: head -->
+	<Moyo_Wrench.tools.1.label>head</Moyo_Wrench.tools.1.label>
+	
+	<!-- EN: handle -->
+	<Moyo_Knife.tools.0.label>handle</Moyo_Knife.tools.0.label>
+	<!-- EN: point -->
+	<Moyo_Knife.tools.1.label>point</Moyo_Knife.tools.1.label>
+	<!-- EN: edge -->
+	<Moyo_Knife.tools.2.label>edge</Moyo_Knife.tools.2.label>
+	
+	<!-- EN: blade -->
+	<Moyo_Spear.tools.0.label>blade</Moyo_Spear.tools.0.label>
+	<!-- EN: handle -->
+	<Moyo_Spear.tools.1.label>handle</Moyo_Spear.tools.1.label>
+	
+	<!-- EN: blade -->
+	<Moyo_GDSpear.tools.0.label>blade</Moyo_GDSpear.tools.0.label>
+	<!-- EN: handle -->
+	<Moyo_GDSpear.tools.1.label>handle</Moyo_GDSpear.tools.1.label>
+	
+	<!-- EN: body -->
+	<Moyo_Piledriver.tools.0.label>body</Moyo_Piledriver.tools.0.label>
+	<!-- EN: Stake -->
+	<Moyo_Piledriver.tools.1.label>Stake</Moyo_Piledriver.tools.1.label>
+	
+	<!-- EN: Fist -->
+	<Moyo_PowerFist.tools.0.label>Fist</Moyo_PowerFist.tools.0.label>
+	<!-- EN: Body -->
+	<Moyo_PowerFist.tools.1.label>Body</Moyo_PowerFist.tools.1.label>
+	
+	<!-- EN: Fist -->
+	<Moyo_GDPowerFist.tools.0.label>Fist</Moyo_GDPowerFist.tools.0.label>
+	<!-- EN: Body -->
+	<Moyo_GDPowerFist.tools.1.label>Body</Moyo_GDPowerFist.tools.1.label>
+	
+	<!-- EN: stock -->
+	<Moyo_CryoBlaster.tools.0.label>stock</Moyo_CryoBlaster.tools.0.label>
+	<!-- EN: barrel -->
+	<Moyo_CryoBlaster.tools.1.label>barrel</Moyo_CryoBlaster.tools.1.label>
+	<!-- EN: muzzle -->
+	<Moyo_CryoBlaster.tools.2.label>muzzle</Moyo_CryoBlaster.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Moyo_HeavyAutoCannon.tools.0.label>stock</Moyo_HeavyAutoCannon.tools.0.label>
+	<!-- EN: barrel -->
+	<Moyo_HeavyAutoCannon.tools.1.label>barrel</Moyo_HeavyAutoCannon.tools.1.label>
+	<!-- EN: muzzle -->
+	<Moyo_HeavyAutoCannon.tools.2.label>muzzle</Moyo_HeavyAutoCannon.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Moyo_HeavyChargeRifle.tools.0.label>stock</Moyo_HeavyChargeRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Moyo_HeavyChargeRifle.tools.1.label>barrel</Moyo_HeavyChargeRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Moyo_HeavyChargeRifle.tools.2.label>muzzle</Moyo_HeavyChargeRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Moyo_HeavyBoltCaster.tools.0.label>stock</Moyo_HeavyBoltCaster.tools.0.label>
+	<!-- EN: barrel -->
+	<Moyo_HeavyBoltCaster.tools.1.label>barrel</Moyo_HeavyBoltCaster.tools.1.label>
+	<!-- EN: muzzle -->
+	<Moyo_HeavyBoltCaster.tools.2.label>muzzle</Moyo_HeavyBoltCaster.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Moyo_BoltCaster.tools.0.label>stock</Moyo_BoltCaster.tools.0.label>
+	<!-- EN: barrel -->
+	<Moyo_BoltCaster.tools.1.label>barrel</Moyo_BoltCaster.tools.1.label>
+	<!-- EN: muzzle -->
+	<Moyo_BoltCaster.tools.2.label>muzzle</Moyo_BoltCaster.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Moyo_PrecisionRifle.tools.0.label>stock</Moyo_PrecisionRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Moyo_PrecisionRifle.tools.1.label>barrel</Moyo_PrecisionRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Moyo_PrecisionRifle.tools.2.label>muzzle</Moyo_PrecisionRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Moyo_AutoCannon.tools.0.label>stock</Moyo_AutoCannon.tools.0.label>
+	<!-- EN: barrel -->
+	<Moyo_AutoCannon.tools.1.label>barrel</Moyo_AutoCannon.tools.1.label>
+	<!-- EN: muzzle -->
+	<Moyo_AutoCannon.tools.2.label>muzzle</Moyo_AutoCannon.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Moyo_ChargeRifle.tools.0.label>stock</Moyo_ChargeRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Moyo_ChargeRifle.tools.1.label>barrel</Moyo_ChargeRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Moyo_ChargeRifle.tools.2.label>muzzle</Moyo_ChargeRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Moyo_ChargeSMG.tools.0.label>stock</Moyo_ChargeSMG.tools.0.label>
+	<!-- EN: barrel -->
+	<Moyo_ChargeSMG.tools.1.label>barrel</Moyo_ChargeSMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<Moyo_ChargeSMG.tools.2.label>muzzle</Moyo_ChargeSMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Moyo_WarpedRifle.tools.0.label>stock</Moyo_WarpedRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Moyo_WarpedRifle.tools.1.label>barrel</Moyo_WarpedRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Moyo_WarpedRifle.tools.2.label>muzzle</Moyo_WarpedRifle.tools.2.label>
+	
+	<!-- EN: grip -->
+	<Moyo_Pistol.tools.0.label>grip</Moyo_Pistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<Moyo_Pistol.tools.1.label>muzzle</Moyo_Pistol.tools.1.label>
+</LanguageData>

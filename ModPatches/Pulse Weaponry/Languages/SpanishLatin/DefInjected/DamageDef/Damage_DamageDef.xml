@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- ModPatches\Pulse Weaponry\Defs\Pulse Weaponry\Damage.xml -->
+	<!-- EN: shock -->
+	<PW_Taser.label>shock</PW_Taser.label>
+	<!-- EN: {0} has been shocked to death. -->
+	<PW_Taser.deathMessage>{0} has been shocked to death.</PW_Taser.deathMessage>
+</LanguageData>

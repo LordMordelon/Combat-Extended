@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\zawodroshen_pandora_frontier_remake\PFR_Human_Melee1222.xml -->
+	<!-- EN: handle -->
+	<PF_RDA_Knife.tools.0.label>handle</PF_RDA_Knife.tools.0.label>
+	<!-- EN: blade -->
+	<PF_RDA_Knife.tools.1.label>blade</PF_RDA_Knife.tools.1.label>
+	<!-- EN: point -->
+	<PF_RDA_Knife.tools.2.label>point</PF_RDA_Knife.tools.2.label>
+	
+	<!-- EN: handle -->
+	<PF_Falcatas.tools.0.label>handle</PF_Falcatas.tools.0.label>
+	<!-- EN: point -->
+	<PF_Falcatas.tools.1.label>point</PF_Falcatas.tools.1.label>
+	<!-- EN: edge -->
+	<PF_Falcatas.tools.2.label>edge</PF_Falcatas.tools.2.label>
+</LanguageData>

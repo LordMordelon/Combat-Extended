@@ -1,0 +1,31 @@
+<LanguageData>
+	<!-- ModPatches\Alpha Genes\Defs\Alpha Genes\Ammo\Forsakens_Ammo_ProjReskin.xml -->
+	<!-- EN: 8x35mm Charged bullet -->
+	<Bullet_8x35mmCharged_ForsakenSniper.label>8x35mm Charged bullet</Bullet_8x35mmCharged_ForsakenSniper.label>
+	<!-- EN: 8x35mm Charged bullet -->
+	<Bullet_8x35mmCharged_AP_ForsakenSniper.label>8x35mm Charged bullet</Bullet_8x35mmCharged_AP_ForsakenSniper.label>
+	<!-- EN: 8x35mm Charged bullet -->
+	<Bullet_8x35mmCharged_Ion_ForsakenSniper.label>8x35mm Charged bullet</Bullet_8x35mmCharged_Ion_ForsakenSniper.label>
+	<!-- EN: charge shot pellet -->
+	<Bullet_12GaugeCharged_ForsakenShotGun.label>charge shot pellet</Bullet_12GaugeCharged_ForsakenShotGun.label>
+	<!-- EN: charge shot (Slug) -->
+	<Bullet_12GaugeCharged_Slug_ForsakenShotGun.label>charge shot (Slug)</Bullet_12GaugeCharged_Slug_ForsakenShotGun.label>
+	<!-- EN: charge shot (Ion slug) -->
+	<Bullet_12GaugeCharged_Ion_ForsakenShotGun.label>charge shot (Ion slug)</Bullet_12GaugeCharged_Ion_ForsakenShotGun.label>
+	<!-- EN: 5x35mm Charged bullet -->
+	<Bullet_5x35mmCharged_ForsakenAR.label>5x35mm Charged bullet</Bullet_5x35mmCharged_ForsakenAR.label>
+	<!-- EN: forsakens arrow -->
+	<Ammo_ForsakensArrows.label>forsakens arrow</Ammo_ForsakensArrows.label>
+	<!-- EN: Heavy arrow designed to be fired from a forsaken bow. -->
+	<Ammo_ForsakensArrows.description>Heavy arrow designed to be fired from a forsaken bow.</Ammo_ForsakensArrows.description>
+	<!-- EN: forsakens arrow -->
+	<Projectile_ForsakensArrows.label>forsakens arrow</Projectile_ForsakensArrows.label>
+	<!-- EN: great arrow (stone) -->
+	<Projectile_GreatArrow_StoneFO.label>great arrow (stone)</Projectile_GreatArrow_StoneFO.label>
+	<!-- EN: great arrow (steel) -->
+	<Projectile_GreatArrow_SteelFO.label>great arrow (steel)</Projectile_GreatArrow_SteelFO.label>
+	<!-- EN: great arrow (plasteel) -->
+	<Projectile_GreatArrow_PlasteelFO.label>great arrow (plasteel)</Projectile_GreatArrow_PlasteelFO.label>
+	<!-- EN: great arrow (venom) -->
+	<Projectile_GreatArrow_VenomFO.label>great arrow (venom)</Projectile_GreatArrow_VenomFO.label>
+</LanguageData>

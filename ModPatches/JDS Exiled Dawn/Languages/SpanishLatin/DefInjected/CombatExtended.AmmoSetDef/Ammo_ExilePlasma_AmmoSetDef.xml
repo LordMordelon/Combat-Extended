@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\JDS Exiled Dawn\Defs\JDS Exiled Dawn\Ammo\Ammo_ExilePlasma.xml -->
+	<!-- EN: Light Plasma Cell -->
+	<AmmoSet_ExileLight.label>Light Plasma Cell</AmmoSet_ExileLight.label>
+	<!-- EN: Rifle Plasma Cell -->
+	<AmmoSet_ExileMid.label>Rifle Plasma Cell</AmmoSet_ExileMid.label>
+	<!-- EN: Rifle Plasma Cell (Accelerated) -->
+	<AmmoSet_ExileRifle.label>Rifle Plasma Cell (Accelerated)</AmmoSet_ExileRifle.label>
+	<!-- EN: Heavy Plasma Cell -->
+	<AmmoSet_ExileAccelerated.label>Heavy Plasma Cell</AmmoSet_ExileAccelerated.label>
+</LanguageData>

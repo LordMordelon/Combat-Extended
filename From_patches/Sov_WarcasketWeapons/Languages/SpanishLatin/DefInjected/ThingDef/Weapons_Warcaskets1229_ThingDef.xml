@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Sov_WarcasketWeapons\Weapons_Warcaskets1229.xml -->
+	<!-- EN: point -->
+	<GS_Kyokatana.tools.0.label>point</GS_Kyokatana.tools.0.label>
+	<!-- EN: blade -->
+	<GS_Kyokatana.tools.1.label>blade</GS_Kyokatana.tools.1.label>
+	<!-- EN: head -->
+	<GS_bifurcator.tools.0.label>head</GS_bifurcator.tools.0.label>
+	<!-- EN: point -->
+	<GS_Voltrender.tools.0.label>point</GS_Voltrender.tools.0.label>
+	<!-- EN: blade -->
+	<GS_Voltrender.tools.1.label>blade</GS_Voltrender.tools.1.label>
+	<!-- EN: head -->
+	<GS_crustbreaker.tools.0.label>head</GS_crustbreaker.tools.0.label>
+</LanguageData>

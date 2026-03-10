@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Defs\Ammo\Advanced\5x16mmCharged.xml -->
+	<!-- EN: 5x16mm Charged -->
+	<Ammo_5x16mmCharged.label>5x16mm Charged</Ammo_5x16mmCharged.label>
+	<!-- EN: Mechanoid-built charged shot ammo used in short range low caliber weapons. -->
+	<Ammo_5x16mmCharged.description>Mechanoid-built charged shot ammo used in short range low caliber weapons.</Ammo_5x16mmCharged.description>
+	<!-- EN: 5x16mm Charged bullet -->
+	<Bullet_5x16mmCharged.label>5x16mm Charged bullet</Bullet_5x16mmCharged.label>
+</LanguageData>

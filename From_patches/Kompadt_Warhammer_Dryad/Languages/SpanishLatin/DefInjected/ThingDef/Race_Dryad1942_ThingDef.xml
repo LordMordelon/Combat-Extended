@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Kompadt_Warhammer_Dryad\Race_Dryad1942.xml -->
+	
+	<!-- EN: left branch -->
+	<DryadWillowAspect.tools.0.label>left branch</DryadWillowAspect.tools.0.label>
+	<!-- EN: right branch -->
+	<DryadWillowAspect.tools.1.label>right branch</DryadWillowAspect.tools.1.label>
+	
+	<!-- EN: left branch -->
+	<DryadOakAspect.tools.0.label>left branch</DryadOakAspect.tools.0.label>
+	<!-- EN: right branch -->
+	<DryadOakAspect.tools.1.label>right branch</DryadOakAspect.tools.1.label>
+</LanguageData>

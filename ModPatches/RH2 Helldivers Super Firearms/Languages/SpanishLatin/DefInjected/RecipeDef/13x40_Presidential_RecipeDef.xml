@@ -1,0 +1,24 @@
+<LanguageData>
+	<!-- ModPatches\RH2 Helldivers Super Firearms\Defs\RH2 Helldivers Super Firearms\Ammo\13x40_Presidential.xml -->
+	
+	<!-- EN: make 13x40mm Presidential (FMJ) cartridge x500 -->
+	<MakeAmmo_13x40Prez_FMJ.label>make 13x40mm Presidential (FMJ) cartridge x500</MakeAmmo_13x40Prez_FMJ.label>
+	<!-- EN: Craft 500 13x40mm Presidential (FMJ) cartridges. -->
+	<MakeAmmo_13x40Prez_FMJ.description>Craft 500 13x40mm Presidential (FMJ) cartridges.</MakeAmmo_13x40Prez_FMJ.description>
+	<!-- EN: Making 13x40mm Presidential (FMJ) cartridges. -->
+	<MakeAmmo_13x40Prez_FMJ.jobString>Making 13x40mm Presidential (FMJ) cartridges.</MakeAmmo_13x40Prez_FMJ.jobString>
+	
+	<!-- EN: make 13x40mm Presidential (AP) cartridge x500 -->
+	<MakeAmmo_13x40Prez_AP.label>make 13x40mm Presidential (AP) cartridge x500</MakeAmmo_13x40Prez_AP.label>
+	<!-- EN: Craft 500 13x40mm Presidential (AP) cartridges. -->
+	<MakeAmmo_13x40Prez_AP.description>Craft 500 13x40mm Presidential (AP) cartridges.</MakeAmmo_13x40Prez_AP.description>
+	<!-- EN: Making 13x40mm Presidential (AP) cartridges. -->
+	<MakeAmmo_13x40Prez_AP.jobString>Making 13x40mm Presidential (AP) cartridges.</MakeAmmo_13x40Prez_AP.jobString>
+	
+	<!-- EN: make 13x40mm Presidential (HP) cartridge x500 -->
+	<MakeAmmo_13x40Prez_HP.label>make 13x40mm Presidential (HP) cartridge x500</MakeAmmo_13x40Prez_HP.label>
+	<!-- EN: Craft 500 13x40mm Presidential (HP) cartridges. -->
+	<MakeAmmo_13x40Prez_HP.description>Craft 500 13x40mm Presidential (HP) cartridges.</MakeAmmo_13x40Prez_HP.description>
+	<!-- EN: Making 13x40mm Presidential (HP) cartridges. -->
+	<MakeAmmo_13x40Prez_HP.jobString>Making 13x40mm Presidential (HP) cartridges.</MakeAmmo_13x40Prez_HP.jobString>
+</LanguageData>

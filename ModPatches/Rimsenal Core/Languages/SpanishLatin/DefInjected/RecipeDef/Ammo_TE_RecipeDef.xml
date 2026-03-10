@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Rimsenal Core\Defs\Rimsenal Core\Ammo_TE.xml -->
+	<!-- EN: make TE Universal Power Cell x500 -->
+	<MakeAmmo_TEPowerCell.label>make TE Universal Power Cell x500</MakeAmmo_TEPowerCell.label>
+	<!-- EN: Craft 500 TE Universal Power Cell. -->
+	<MakeAmmo_TEPowerCell.description>Craft 500 TE Universal Power Cell.</MakeAmmo_TEPowerCell.description>
+	<!-- EN: Making TE Universal Power Cell. -->
+	<MakeAmmo_TEPowerCell.jobString>Making TE Universal Power Cell.</MakeAmmo_TEPowerCell.jobString>
+</LanguageData>

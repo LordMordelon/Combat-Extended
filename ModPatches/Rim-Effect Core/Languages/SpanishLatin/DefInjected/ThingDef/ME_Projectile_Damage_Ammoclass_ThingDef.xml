@@ -1,0 +1,171 @@
+<LanguageData>
+	<!-- ModPatches\Rim-Effect Core\Defs\Rim-Effect Core\ME_Projectile_Damage_Ammoclass.xml -->
+	<!-- EN: Basic Thermal clip -->
+	<Ammo_ME.label>Basic Thermal clip</Ammo_ME.label>
+	<!-- EN: Thermal clips designed to fit almost all mass accelerator weapons. It allows mass accelerator weapons to fire continuously without needing to slow down in order to cool. It is best not to question where the projectile itself comes from. -->
+	<Ammo_ME.description>Thermal clips designed to fit almost all mass accelerator weapons. It allows mass accelerator weapons to fire continuously without needing to slow down in order to cool. It is best not to question where the projectile itself comes from.</Ammo_ME.description>
+	<!-- EN: AP Thermal clip -->
+	<Ammo_ME_AP.label>AP Thermal clip</Ammo_ME_AP.label>
+	<!-- EN: Thermal clips designed to fit almost all mass accelerator weapons. This one penetrates armour better. -->
+	<Ammo_ME_AP.description>Thermal clips designed to fit almost all mass accelerator weapons. This one penetrates armour better.</Ammo_ME_AP.description>
+	<!-- EN: Cryo Thermal clip -->
+	<Ammo_ME_Cryo.label>Cryo Thermal clip</Ammo_ME_Cryo.label>
+	<!-- EN: Thermal clips designed to fit almost all mass accelerator weapons. This one makes your enemy slow and cumberson. -->
+	<Ammo_ME_Cryo.description>Thermal clips designed to fit almost all mass accelerator weapons. This one makes your enemy slow and cumberson.</Ammo_ME_Cryo.description>
+	<!-- EN: HE Thermal clip -->
+	<Ammo_ME_HE.label>HE Thermal clip</Ammo_ME_HE.label>
+	<!-- EN: Thermal clips designed to fit almost all mass accelerator weapons. -->
+	<Ammo_ME_HE.description>Thermal clips designed to fit almost all mass accelerator weapons.</Ammo_ME_HE.description>
+	<!-- EN: incendiary Thermal clip -->
+	<Ammo_ME_FI.label>incendiary Thermal clip</Ammo_ME_FI.label>
+	<!-- EN: Thermal clips designed to fit almost all mass accelerator weapons. Set enemy on fire. -->
+	<Ammo_ME_FI.description>Thermal clips designed to fit almost all mass accelerator weapons. Set enemy on fire.</Ammo_ME_FI.description>
+	<!-- EN: Disruptor Thermal clip -->
+	<Ammo_ME_Ion.label>Disruptor Thermal clip</Ammo_ME_Ion.label>
+	<!-- EN: Thermal clips designed to fit almost all mass accelerator weapons. This one makes your enemy combust. -->
+	<Ammo_ME_Ion.description>Thermal clips designed to fit almost all mass accelerator weapons. This one makes your enemy combust.</Ammo_ME_Ion.description>
+	<!-- EN: Toxin Thermal clip -->
+	<Ammo_ME_Toxic.label>Toxin Thermal clip</Ammo_ME_Toxic.label>
+	<!-- EN: Thermal clips designed to fit almost all mass accelerator weapons. -->
+	<Ammo_ME_Toxic.description>Thermal clips designed to fit almost all mass accelerator weapons.</Ammo_ME_Toxic.description>
+	<!-- EN: small fragments -->
+	<Fragment_ME.label>small fragments</Fragment_ME.label>
+	<!-- EN: ML77 Missile -->
+	<VFE_Bullet_ML77CE.label>ML77 Missile</VFE_Bullet_ML77CE.label>
+	<!-- EN: Mass accelerator cannon -->
+	<RE_YmirBullet.label>Mass accelerator cannon</RE_YmirBullet.label>
+	<!-- EN: Cannon Slug -->
+	<ME_Bullet_Cannon.label>Cannon Slug</ME_Bullet_Cannon.label>
+	<!-- EN: Cannon Slug -->
+	<ME_Bullet_Cannon_FI.label>Cannon Slug</ME_Bullet_Cannon_FI.label>
+	<!-- EN: HE Cannon Slug -->
+	<ME_Bullet_Cannon_HE.label>HE Cannon Slug</ME_Bullet_Cannon_HE.label>
+	<!-- EN: Disruptor Cannon Slug -->
+	<ME_Bullet_Cannon_Ion.label>Disruptor Cannon Slug</ME_Bullet_Cannon_Ion.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_M8_Basic.label>accelerated shot</Bullet_M8_Basic.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_M8_AP.label>accelerated shot</Bullet_M8_AP.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_M8_HE.label>accelerated shot</Bullet_M8_HE.label>
+	<!-- EN: accelerated incendiary shot -->
+	<Bullet_M8_FI.label>accelerated incendiary shot</Bullet_M8_FI.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_M8_Cryo.label>accelerated shot</Bullet_M8_Cryo.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_M8_Toxic.label>accelerated shot</Bullet_M8_Toxic.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_M8_Ion.label>accelerated shot</Bullet_M8_Ion.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_M15_Basic.label>accelerated shot</Bullet_M15_Basic.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_M15_AP.label>accelerated shot</Bullet_M15_AP.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_M15_HE.label>accelerated shot</Bullet_M15_HE.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_M15_Cryo.label>accelerated shot</Bullet_M15_Cryo.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_M15_Toxic.label>accelerated shot</Bullet_M15_Toxic.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_M15_Ion.label>accelerated shot</Bullet_M15_Ion.label>
+	<!-- EN: accelerated incendiary shot -->
+	<Bullet_M15_FI.label>accelerated incendiary shot</Bullet_M15_FI.label>
+	<!-- EN: accelerated blast -->
+	<Bullet_Katana.label>accelerated blast</Bullet_Katana.label>
+	<!-- EN: accelerated blast -->
+	<Bullet_Katana_AP.label>accelerated blast</Bullet_Katana_AP.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Katana_HE.label>accelerated shot</Bullet_Katana_HE.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Katana_Ion.label>accelerated shot</Bullet_Katana_Ion.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Katana_Cryo.label>accelerated shot</Bullet_Katana_Cryo.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Katana_Toxic.label>accelerated shot</Bullet_Katana_Toxic.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Katana_FI.label>accelerated shot</Bullet_Katana_FI.label>
+	<!-- EN: accelerated blast -->
+	<Bullet_Hydra.label>accelerated blast</Bullet_Hydra.label>
+	<!-- EN: accelerated blast -->
+	<Bullet_Hydra_AP.label>accelerated blast</Bullet_Hydra_AP.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Hydra_HE.label>accelerated shot</Bullet_Hydra_HE.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Hydra_Cryo.label>accelerated shot</Bullet_Hydra_Cryo.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Hydra_Toxic.label>accelerated shot</Bullet_Hydra_Toxic.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Hydra_FI.label>accelerated shot</Bullet_Hydra_FI.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Hydra_Ion.label>accelerated shot</Bullet_Hydra_Ion.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_M98_Basic.label>accelerated shot</Bullet_M98_Basic.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_M98_AP.label>accelerated shot</Bullet_M98_AP.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_M98_HE.label>accelerated shot</Bullet_M98_HE.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_M98_Cryo.label>accelerated shot</Bullet_M98_Cryo.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_M98_Toxic.label>accelerated shot</Bullet_M98_Toxic.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_M98_FI.label>accelerated shot</Bullet_M98_FI.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_M98_Ion.label>accelerated shot</Bullet_M98_Ion.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Mantis.label>accelerated shot</Bullet_Mantis.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Mantis_AP.label>accelerated shot</Bullet_Mantis_AP.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Mantis_Cryo.label>accelerated shot</Bullet_Mantis_Cryo.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Mantis_HE.label>accelerated shot</Bullet_Mantis_HE.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Mantis_Toxic.label>accelerated shot</Bullet_Mantis_Toxic.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Mantis_FI.label>accelerated shot</Bullet_Mantis_FI.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Mantis_Ion.label>accelerated shot</Bullet_Mantis_Ion.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Tempest.label>accelerated shot</Bullet_Tempest.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Tempest_AP.label>accelerated shot</Bullet_Tempest_AP.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Tempest_HE.label>accelerated shot</Bullet_Tempest_HE.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Tempest_Cryo.label>accelerated shot</Bullet_Tempest_Cryo.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Tempest_Toxic.label>accelerated shot</Bullet_Tempest_Toxic.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Tempest_FI.label>accelerated shot</Bullet_Tempest_FI.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Tempest_Ion.label>accelerated shot</Bullet_Tempest_Ion.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Predator.label>accelerated shot</Bullet_Predator.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Predator_AP.label>accelerated shot</Bullet_Predator_AP.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Predator_HE.label>accelerated shot</Bullet_Predator_HE.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Predator_Cryo.label>accelerated shot</Bullet_Predator_Cryo.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Predator_Toxic.label>accelerated shot</Bullet_Predator_Toxic.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Predator_FI.label>accelerated shot</Bullet_Predator_FI.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Predator_Ion.label>accelerated shot</Bullet_Predator_Ion.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Phalanx.label>accelerated shot</Bullet_Phalanx.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Phalanx_AP.label>accelerated shot</Bullet_Phalanx_AP.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Phalanx_HE.label>accelerated shot</Bullet_Phalanx_HE.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Phalanx_Cryo.label>accelerated shot</Bullet_Phalanx_Cryo.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Phalanx_Toxic.label>accelerated shot</Bullet_Phalanx_Toxic.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Phalanx_FI.label>accelerated shot</Bullet_Phalanx_FI.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Phalanx_Ion.label>accelerated shot</Bullet_Phalanx_Ion.label>
+</LanguageData>

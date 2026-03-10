@@ -1,0 +1,31 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\polonium_RorenRaceMod\Weapons_Roren_Old1581.xml -->
+	<!-- EN: stock -->
+	<Roren_OldShotgun.tools.0.label>stock</Roren_OldShotgun.tools.0.label>
+	<!-- EN: barrel -->
+	<Roren_OldShotgun.tools.1.label>barrel</Roren_OldShotgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<Roren_OldShotgun.tools.2.label>muzzle</Roren_OldShotgun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Roren_OldRifle.tools.0.label>stock</Roren_OldRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Roren_OldRifle.tools.1.label>barrel</Roren_OldRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Roren_OldRifle.tools.2.label>muzzle</Roren_OldRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Roren_OldMarksmanRifle.tools.0.label>stock</Roren_OldMarksmanRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Roren_OldMarksmanRifle.tools.1.label>barrel</Roren_OldMarksmanRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Roren_OldMarksmanRifle.tools.2.label>muzzle</Roren_OldMarksmanRifle.tools.2.label>
+	
+	<!-- EN: grip -->
+	<Roren_OldPistol.tools.0.label>grip</Roren_OldPistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<Roren_OldPistol.tools.1.label>muzzle</Roren_OldPistol.tools.1.label>
+	
+	<!-- EN: throw frag grenade -->
+	<Roren_Hand_Grenade.Properties.label>throw frag grenade</Roren_Hand_Grenade.Properties.label>
+</LanguageData>

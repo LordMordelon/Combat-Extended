@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\BiomesTeam_BiomesCaverns\CE_RoyalRhino525.xml -->
+	<!-- EN: mandibles -->
+	<BMT_RoyalRhinoLarvae.tools.0.label>mandibles</BMT_RoyalRhinoLarvae.tools.0.label>
+	<!-- EN: head -->
+	<BMT_RoyalRhinoLarvae.tools.1.label>head</BMT_RoyalRhinoLarvae.tools.1.label>
+	
+	<!-- EN: Twitching -->
+	<BMT_RoyalRhinoPupa.tools.0.label>Twitching</BMT_RoyalRhinoPupa.tools.0.label>
+	
+	<!-- EN: Horn -->
+	<BMT_RoyalRhino.tools.0.label>Horn</BMT_RoyalRhino.tools.0.label>
+	<!-- EN: head -->
+	<BMT_RoyalRhino.tools.1.label>head</BMT_RoyalRhino.tools.1.label>
+	<!-- EN: Mandibles -->
+	<BMT_RoyalRhino.tools.2.label>Mandibles</BMT_RoyalRhino.tools.2.label>
+</LanguageData>

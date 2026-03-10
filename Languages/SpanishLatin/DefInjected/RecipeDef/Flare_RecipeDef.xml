@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- Defs\Ammo\Other\Flare.xml -->
+	<!-- EN: make flare x200 -->
+	<MakeAmmo_Flare.label>make flare x200</MakeAmmo_Flare.label>
+	<!-- EN: Craft 200 flare shells. -->
+	<MakeAmmo_Flare.description>Craft 200 flare shells.</MakeAmmo_Flare.description>
+	<!-- EN: Making flare shells. -->
+	<MakeAmmo_Flare.jobString>Making flare shells.</MakeAmmo_Flare.jobString>
+	<!-- EN: make bioferrite flare x200 -->
+	<MakeAmmo_FlareBioferrite.label>make bioferrite flare x200</MakeAmmo_FlareBioferrite.label>
+	<!-- EN: Craft 200 bioferrite flare shells. -->
+	<MakeAmmo_FlareBioferrite.description>Craft 200 bioferrite flare shells.</MakeAmmo_FlareBioferrite.description>
+	<!-- EN: Making bioferrite flare shells. -->
+	<MakeAmmo_FlareBioferrite.jobString>Making bioferrite flare shells.</MakeAmmo_FlareBioferrite.jobString>
+</LanguageData>

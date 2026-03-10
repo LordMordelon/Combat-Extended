@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Medieval Overhaul\Defs\Medieval Overhaul\Ammo\MO_Ammo_Catapult.xml -->
+	<!-- EN: tarred boulder -->
+	<Catapult_TarBoulder.label>tarred boulder</Catapult_TarBoulder.label>
+	<!-- EN: tarred boulder -->
+	<Catapult_TarBoulder.labelShort>tarred boulder</Catapult_TarBoulder.labelShort>
+	<!-- EN: A large, heavy boulder covered in tar. -->
+	<Catapult_TarBoulder.description>A large, heavy boulder covered in tar.</Catapult_TarBoulder.description>
+</LanguageData>

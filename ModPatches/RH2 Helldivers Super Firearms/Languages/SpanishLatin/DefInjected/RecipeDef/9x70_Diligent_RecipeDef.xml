@@ -1,0 +1,45 @@
+<LanguageData>
+	<!-- ModPatches\RH2 Helldivers Super Firearms\Defs\RH2 Helldivers Super Firearms\Ammo\9x70_Diligent.xml -->
+	
+	<!-- EN: make 9x70mm Diligent (FMJ) cartridge x500 -->
+	<MakeAmmo_9x70mmDiligent_FMJ.label>make 9x70mm Diligent (FMJ) cartridge x500</MakeAmmo_9x70mmDiligent_FMJ.label>
+	<!-- EN: Craft 500 9x70mm Diligent (FMJ) cartridges. -->
+	<MakeAmmo_9x70mmDiligent_FMJ.description>Craft 500 9x70mm Diligent (FMJ) cartridges.</MakeAmmo_9x70mmDiligent_FMJ.description>
+	<!-- EN: Making 9x70mm Diligent (FMJ) cartridges. -->
+	<MakeAmmo_9x70mmDiligent_FMJ.jobString>Making 9x70mm Diligent (FMJ) cartridges.</MakeAmmo_9x70mmDiligent_FMJ.jobString>
+	
+	<!-- EN: make 9x70mm Diligent (AP) cartridge x500 -->
+	<MakeAmmo_9x70mmDiligent_AP.label>make 9x70mm Diligent (AP) cartridge x500</MakeAmmo_9x70mmDiligent_AP.label>
+	<!-- EN: Craft 500 9x70mm Diligent (AP) cartridges. -->
+	<MakeAmmo_9x70mmDiligent_AP.description>Craft 500 9x70mm Diligent (AP) cartridges.</MakeAmmo_9x70mmDiligent_AP.description>
+	<!-- EN: Making 9x70mm Diligent (AP) cartridges. -->
+	<MakeAmmo_9x70mmDiligent_AP.jobString>Making 9x70mm Diligent (AP) cartridges.</MakeAmmo_9x70mmDiligent_AP.jobString>
+	
+	<!-- EN: make 9x70mm Diligent (HP) cartridge x500 -->
+	<MakeAmmo_9x70mmDiligent_HP.label>make 9x70mm Diligent (HP) cartridge x500</MakeAmmo_9x70mmDiligent_HP.label>
+	<!-- EN: Craft 500 9x70mm Diligent (HP) cartridges. -->
+	<MakeAmmo_9x70mmDiligent_HP.description>Craft 500 9x70mm Diligent (HP) cartridges.</MakeAmmo_9x70mmDiligent_HP.description>
+	<!-- EN: Making 9x70mm Diligent (HP) cartridges. -->
+	<MakeAmmo_9x70mmDiligent_HP.jobString>Making 9x70mm Diligent (HP) cartridges.</MakeAmmo_9x70mmDiligent_HP.jobString>
+	
+	<!-- EN: make 9x70mm Diligent (AP-I) cartridge x500 -->
+	<MakeAmmo_9x70mmDiligent_Incendiary.label>make 9x70mm Diligent (AP-I) cartridge x500</MakeAmmo_9x70mmDiligent_Incendiary.label>
+	<!-- EN: Craft 500 9x70mm Diligent (AP-I) cartridges. -->
+	<MakeAmmo_9x70mmDiligent_Incendiary.description>Craft 500 9x70mm Diligent (AP-I) cartridges.</MakeAmmo_9x70mmDiligent_Incendiary.description>
+	<!-- EN: Making 9x70mm Diligent (AP-I) cartridges. -->
+	<MakeAmmo_9x70mmDiligent_Incendiary.jobString>Making 9x70mm Diligent (AP-I) cartridges.</MakeAmmo_9x70mmDiligent_Incendiary.jobString>
+	
+	<!-- EN: make 9x70mm Diligent (AP-HE) cartridge x500 -->
+	<MakeAmmo_9x70mmDiligent_HE.label>make 9x70mm Diligent (AP-HE) cartridge x500</MakeAmmo_9x70mmDiligent_HE.label>
+	<!-- EN: Craft 500 9x70mm Diligent (AP-HE) cartridges. -->
+	<MakeAmmo_9x70mmDiligent_HE.description>Craft 500 9x70mm Diligent (AP-HE) cartridges.</MakeAmmo_9x70mmDiligent_HE.description>
+	<!-- EN: Making 9x70mm Diligent (AP-HE) cartridges. -->
+	<MakeAmmo_9x70mmDiligent_HE.jobString>Making 9x70mm Diligent (AP-HE) cartridges.</MakeAmmo_9x70mmDiligent_HE.jobString>
+	
+	<!-- EN: make 9x70mm Diligent (Sabot) cartridge x500 -->
+	<MakeAmmo_9x70mmDiligent_Sabot.label>make 9x70mm Diligent (Sabot) cartridge x500</MakeAmmo_9x70mmDiligent_Sabot.label>
+	<!-- EN: Craft 500 9x70mm Diligent (Sabot) cartridges. -->
+	<MakeAmmo_9x70mmDiligent_Sabot.description>Craft 500 9x70mm Diligent (Sabot) cartridges.</MakeAmmo_9x70mmDiligent_Sabot.description>
+	<!-- EN: Making 9x70mm Diligent (Sabot) cartridges. -->
+	<MakeAmmo_9x70mmDiligent_Sabot.jobString>Making 9x70mm Diligent (Sabot) cartridges.</MakeAmmo_9x70mmDiligent_Sabot.jobString>
+</LanguageData>

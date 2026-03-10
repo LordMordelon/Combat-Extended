@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\EL_IonWeaponry\Damages918.xml -->
+	<!-- EN: Ion Discharge -->
+	<IW_IonBullet.label>Ion Discharge</IW_IonBullet.label>
+	<!-- EN: {0} has been killed. -->
+	<IW_IonBullet.deathMessage>{0} has been killed.</IW_IonBullet.deathMessage>
+</LanguageData>

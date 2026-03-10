@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\DankPyon_Medieval_Overhaul\MO_CE_Patch_Alp1060.xml -->
+	<!-- EN: left claw -->
+	<DankPyon_Alp.tools.0.label>left claw</DankPyon_Alp.tools.0.label>
+	<!-- EN: right claw -->
+	<DankPyon_Alp.tools.1.label>right claw</DankPyon_Alp.tools.1.label>
+	<!-- EN: teeth -->
+	<DankPyon_Alp.tools.2.label>teeth</DankPyon_Alp.tools.2.label>
+	<!-- EN: head -->
+	<DankPyon_Alp.tools.3.label>head</DankPyon_Alp.tools.3.label>
+	<!-- EN: alp sleep -->
+	<DankPyon_Alp.verbs.0.label>alp sleep</DankPyon_Alp.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<DankPyon_Alp.verbs.CombatExtended.Verb_ShootCE.label>ㅤ</DankPyon_Alp.verbs.CombatExtended.Verb_ShootCE.label>
+</LanguageData>

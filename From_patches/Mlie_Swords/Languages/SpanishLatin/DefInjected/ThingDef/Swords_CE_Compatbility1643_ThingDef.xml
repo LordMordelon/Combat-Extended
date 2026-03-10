@@ -1,0 +1,99 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Mlie_Swords\Swords_CE_Compatbility1643.xml -->
+	<!-- EN: handle -->
+	<LS_CloudSword.tools.0.label>handle</LS_CloudSword.tools.0.label>
+	<!-- EN: cleave -->
+	<LS_CloudSword.tools.1.label>cleave</LS_CloudSword.tools.1.label>
+	<!-- EN: maw -->
+	<LS_CloudSword.tools.2.label>maw</LS_CloudSword.tools.2.label>
+	<!-- EN: tornado -->
+	<LS_CloudSword.tools.3.label>tornado</LS_CloudSword.tools.3.label>
+	<!-- EN: storm -->
+	<LS_CloudSword.tools.4.label>storm</LS_CloudSword.tools.4.label>
+	<!-- EN: blade -->
+	<LS_CloudSword.tools.5.label>blade</LS_CloudSword.tools.5.label>
+	<!-- EN: trinity -->
+	<LS_CloudSword.tools.6.label>trinity</LS_CloudSword.tools.6.label>
+	<!-- EN: assault -->
+	<LS_CloudSword.tools.7.label>assault</LS_CloudSword.tools.7.label>
+	<!-- EN: flashback -->
+	<LS_CloudSword.tools.8.label>flashback</LS_CloudSword.tools.8.label>
+	<!-- EN: strife -->
+	<LS_CloudSword.tools.9.label>strife</LS_CloudSword.tools.9.label>
+	
+	<!-- EN: handle -->
+	<LS_Nightfall.tools.0.label>handle</LS_Nightfall.tools.0.label>
+	<!-- EN: cleave -->
+	<LS_Nightfall.tools.1.label>cleave</LS_Nightfall.tools.1.label>
+	<!-- EN: maw -->
+	<LS_Nightfall.tools.2.label>maw</LS_Nightfall.tools.2.label>
+	<!-- EN: vanish -->
+	<LS_Nightfall.tools.3.label>vanish</LS_Nightfall.tools.3.label>
+	<!-- EN: venom -->
+	<LS_Nightfall.tools.4.label>venom</LS_Nightfall.tools.4.label>
+	<!-- EN: shadows -->
+	<LS_Nightfall.tools.5.label>shadows</LS_Nightfall.tools.5.label>
+	<!-- EN: blade -->
+	<LS_Nightfall.tools.6.label>blade</LS_Nightfall.tools.6.label>
+	<!-- EN: impale -->
+	<LS_Nightfall.tools.7.label>impale</LS_Nightfall.tools.7.label>
+	<!-- EN: void -->
+	<LS_Nightfall.tools.8.label>void</LS_Nightfall.tools.8.label>
+	
+	<!-- EN: handle -->
+	<LS_Executioner.tools.0.label>handle</LS_Executioner.tools.0.label>
+	<!-- EN: cleave -->
+	<LS_Executioner.tools.1.label>cleave</LS_Executioner.tools.1.label>
+	<!-- EN: maw -->
+	<LS_Executioner.tools.2.label>maw</LS_Executioner.tools.2.label>
+	<!-- EN: freeze -->
+	<LS_Executioner.tools.3.label>freeze</LS_Executioner.tools.3.label>
+	<!-- EN: wind -->
+	<LS_Executioner.tools.4.label>wind</LS_Executioner.tools.4.label>
+	<!-- EN: slide -->
+	<LS_Executioner.tools.5.label>slide</LS_Executioner.tools.5.label>
+	<!-- EN: blade -->
+	<LS_Executioner.tools.6.label>blade</LS_Executioner.tools.6.label>
+	<!-- EN: throatcutter -->
+	<LS_Executioner.tools.7.label>throatcutter</LS_Executioner.tools.7.label>
+	<!-- EN: behead -->
+	<LS_Executioner.tools.8.label>behead</LS_Executioner.tools.8.label>
+	
+	<!-- EN: handle -->
+	<LS_Deathbringer.tools.0.label>handle</LS_Deathbringer.tools.0.label>
+	<!-- EN: cleave -->
+	<LS_Deathbringer.tools.1.label>cleave</LS_Deathbringer.tools.1.label>
+	<!-- EN: maw -->
+	<LS_Deathbringer.tools.2.label>maw</LS_Deathbringer.tools.2.label>
+	<!-- EN: strike -->
+	<LS_Deathbringer.tools.3.label>strike</LS_Deathbringer.tools.3.label>
+	<!-- EN: dismantle -->
+	<LS_Deathbringer.tools.4.label>dismantle</LS_Deathbringer.tools.4.label>
+	<!-- EN: counter -->
+	<LS_Deathbringer.tools.5.label>counter</LS_Deathbringer.tools.5.label>
+	<!-- EN: blade -->
+	<LS_Deathbringer.tools.6.label>blade</LS_Deathbringer.tools.6.label>
+	<!-- EN: riposte -->
+	<LS_Deathbringer.tools.7.label>riposte</LS_Deathbringer.tools.7.label>
+	<!-- EN: blood rain -->
+	<LS_Deathbringer.tools.8.label>blood rain</LS_Deathbringer.tools.8.label>
+	
+	<!-- EN: handle -->
+	<LS_RedQueen.tools.0.label>handle</LS_RedQueen.tools.0.label>
+	<!-- EN: cleave -->
+	<LS_RedQueen.tools.1.label>cleave</LS_RedQueen.tools.1.label>
+	<!-- EN: maw -->
+	<LS_RedQueen.tools.2.label>maw</LS_RedQueen.tools.2.label>
+	<!-- EN: strike -->
+	<LS_RedQueen.tools.3.label>strike</LS_RedQueen.tools.3.label>
+	<!-- EN: dismantle -->
+	<LS_RedQueen.tools.4.label>dismantle</LS_RedQueen.tools.4.label>
+	<!-- EN: counter -->
+	<LS_RedQueen.tools.5.label>counter</LS_RedQueen.tools.5.label>
+	<!-- EN: blade -->
+	<LS_RedQueen.tools.6.label>blade</LS_RedQueen.tools.6.label>
+	<!-- EN: riposte -->
+	<LS_RedQueen.tools.7.label>riposte</LS_RedQueen.tools.7.label>
+	<!-- EN: blood rain -->
+	<LS_RedQueen.tools.8.label>blood rain</LS_RedQueen.tools.8.label>
+</LanguageData>

@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- ModPatches\Big and Small Genes\Defs\Big and Small Genes\Weapons\ThingDef_Ammo.xml -->
+	<!-- EN: Shrink Ray Power Cell -->
+	<AmmoSet_ShrinkRay.label>Shrink Ray Power Cell</AmmoSet_ShrinkRay.label>
+	<!-- EN: Growth Ray Power Cell -->
+	<AmmoSet_GrowthRay.label>Growth Ray Power Cell</AmmoSet_GrowthRay.label>
+</LanguageData>

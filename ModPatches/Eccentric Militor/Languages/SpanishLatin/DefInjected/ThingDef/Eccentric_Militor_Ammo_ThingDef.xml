@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\Eccentric Militor\Defs\Eccentric Militor\Eccentric_Militor_Ammo.xml -->
+	<!-- EN: buckshot pellet -->
+	<Bullet_12Gauge_Eccentric_Militor_Double_Buck.label>buckshot pellet</Bullet_12Gauge_Eccentric_Militor_Double_Buck.label>
+	<!-- EN: shotgun slug -->
+	<Bullet_12Gauge_Eccentric_Militor_Double_Slug.label>shotgun slug</Bullet_12Gauge_Eccentric_Militor_Double_Slug.label>
+	<!-- EN: beanbag -->
+	<Bullet_12Gauge_Eccentric_Militor_Double_Beanbag.label>beanbag</Bullet_12Gauge_Eccentric_Militor_Double_Beanbag.label>
+	<!-- EN: EMP slug -->
+	<Bullet_12Gauge_Eccentric_Militor_Double_ElectroSlug.label>EMP slug</Bullet_12Gauge_Eccentric_Militor_Double_ElectroSlug.label>
+</LanguageData>

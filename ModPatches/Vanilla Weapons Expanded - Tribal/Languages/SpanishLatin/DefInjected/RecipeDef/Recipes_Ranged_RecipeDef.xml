@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla Weapons Expanded - Tribal\Defs\Vanilla Weapons Expanded - Tribal\Recipes_Ranged.xml -->
+	<!-- EN: make throwing shards x10 -->
+	<MakeVWEThrowingShard.label>make throwing shards x10</MakeVWEThrowingShard.label>
+	<!-- EN: Craft 10 throwing shards. -->
+	<MakeVWEThrowingShard.description>Craft 10 throwing shards.</MakeVWEThrowingShard.description>
+	<!-- EN: Making throwing shards. -->
+	<MakeVWEThrowingShard.jobString>Making throwing shards.</MakeVWEThrowingShard.jobString>
+	
+	<!-- EN: make fire bombs x10 -->
+	<MakeFireBomb.label>make fire bombs x10</MakeFireBomb.label>
+	<!-- EN: Craft 10 fire bombs. -->
+	<MakeFireBomb.description>Craft 10 fire bombs.</MakeFireBomb.description>
+	<!-- EN: Making fire bombs. -->
+	<MakeFireBomb.jobString>Making fire bombs.</MakeFireBomb.jobString>
+</LanguageData>

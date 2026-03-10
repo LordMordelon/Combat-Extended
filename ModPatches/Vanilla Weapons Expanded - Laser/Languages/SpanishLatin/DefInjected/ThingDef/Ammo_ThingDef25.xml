@@ -1,0 +1,25 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla Weapons Expanded - Laser\Defs\Vanilla Weapons Expanded - Laser\Ammo.xml -->
+	<!-- EN: laser beam -->
+	<Bullet_Laser_SalvagedLaserPistol.label>laser beam</Bullet_Laser_SalvagedLaserPistol.label>
+	<!-- EN: laser beam -->
+	<Bullet_Laser_LaserPistol.label>laser beam</Bullet_Laser_LaserPistol.label>
+	<!-- EN: laser beam -->
+	<Bullet_Laser_LaserSMG.label>laser beam</Bullet_Laser_LaserSMG.label>
+	<!-- EN: laser beam -->
+	<Bullet_Laser_SalvagedLaserRifle.label>laser beam</Bullet_Laser_SalvagedLaserRifle.label>
+	<!-- EN: laser beam -->
+	<Bullet_Laser_LaserRifle.label>laser beam</Bullet_Laser_LaserRifle.label>
+	<!-- EN: rifle beam -->
+	<Bullet_Laser_SalvagedLaserShotgun.label>rifle beam</Bullet_Laser_SalvagedLaserShotgun.label>
+	<!-- EN: laser beam -->
+	<Bullet_Laser_LaserShotgun.label>laser beam</Bullet_Laser_LaserShotgun.label>
+	<!-- EN: laser beam -->
+	<Bullet_Laser_SalvagedLaserSniperRifle.label>laser beam</Bullet_Laser_SalvagedLaserSniperRifle.label>
+	<!-- EN: laser beam -->
+	<Bullet_Laser_LaserSniperRifle.label>laser beam</Bullet_Laser_LaserSniperRifle.label>
+	<!-- EN: laser beam -->
+	<Bullet_Laser_LaserMiniGun.label>laser beam</Bullet_Laser_LaserMiniGun.label>
+	<!-- EN: arc discharge -->
+	<Bullet_Laser_TeslaGun.label>arc discharge</Bullet_Laser_TeslaGun.label>
+</LanguageData>

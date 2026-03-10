@@ -1,0 +1,28 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\zal_kitvfeweapons\Plasma_Weapons965.xml -->
+	<!-- EN: stock -->
+	<KIT_Gun_PlasmaSniper.tools.0.label>stock</KIT_Gun_PlasmaSniper.tools.0.label>
+	<!-- EN: barrel -->
+	<KIT_Gun_PlasmaSniper.tools.1.label>barrel</KIT_Gun_PlasmaSniper.tools.1.label>
+	<!-- EN: muzzle -->
+	<KIT_Gun_PlasmaSniper.tools.2.label>muzzle</KIT_Gun_PlasmaSniper.tools.2.label>
+	
+	<!-- EN: stock -->
+	<KIT_Gun_PlasmaSMG.tools.0.label>stock</KIT_Gun_PlasmaSMG.tools.0.label>
+	<!-- EN: barrel -->
+	<KIT_Gun_PlasmaSMG.tools.1.label>barrel</KIT_Gun_PlasmaSMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<KIT_Gun_PlasmaSMG.tools.2.label>muzzle</KIT_Gun_PlasmaSMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<KIT_Gun_PlasmaRifle.tools.0.label>stock</KIT_Gun_PlasmaRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<KIT_Gun_PlasmaRifle.tools.1.label>barrel</KIT_Gun_PlasmaRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<KIT_Gun_PlasmaRifle.tools.2.label>muzzle</KIT_Gun_PlasmaRifle.tools.2.label>
+	
+	<!-- EN: grip -->
+	<KIT_Gun_PlasmaPistol.tools.0.label>grip</KIT_Gun_PlasmaPistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<KIT_Gun_PlasmaPistol.tools.1.label>muzzle</KIT_Gun_PlasmaPistol.tools.1.label>
+</LanguageData>

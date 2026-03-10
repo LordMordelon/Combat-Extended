@@ -1,0 +1,51 @@
+<LanguageData>
+	<!-- Defs\Ammo\Rifle\473x33mmCaseless.xml -->
+	
+	<!-- EN: 4.73x33mm Caseless (FMJ) -->
+	<Ammo_473x33mmCaseless_FMJ.label>4.73x33mm Caseless (FMJ)</Ammo_473x33mmCaseless_FMJ.label>
+	<!-- EN: Caseless bullet with a solid propellant enveloping the projectile. -->
+	<Ammo_473x33mmCaseless_FMJ.description>Caseless bullet with a solid propellant enveloping the projectile.</Ammo_473x33mmCaseless_FMJ.description>
+	
+	<!-- EN: 4.73x33mm Caseless (AP) -->
+	<Ammo_473x33mmCaseless_AP.label>4.73x33mm Caseless (AP)</Ammo_473x33mmCaseless_AP.label>
+	<!-- EN: Caseless bullet with a solid propellant enveloping the projectile. -->
+	<Ammo_473x33mmCaseless_AP.description>Caseless bullet with a solid propellant enveloping the projectile.</Ammo_473x33mmCaseless_AP.description>
+	
+	<!-- EN: 4.73x33mm Caseless (HP) -->
+	<Ammo_473x33mmCaseless_HP.label>4.73x33mm Caseless (HP)</Ammo_473x33mmCaseless_HP.label>
+	<!-- EN: Caseless bullet with a solid propellant enveloping the projectile. -->
+	<Ammo_473x33mmCaseless_HP.description>Caseless bullet with a solid propellant enveloping the projectile.</Ammo_473x33mmCaseless_HP.description>
+	
+	<!-- EN: 4.73x33mm Caseless (AP-I) -->
+	<Ammo_473x33mmCaseless_Incendiary.label>4.73x33mm Caseless (AP-I)</Ammo_473x33mmCaseless_Incendiary.label>
+	<!-- EN: Caseless bullet with a solid propellant enveloping the projectile. -->
+	<Ammo_473x33mmCaseless_Incendiary.description>Caseless bullet with a solid propellant enveloping the projectile.</Ammo_473x33mmCaseless_Incendiary.description>
+	
+	<!-- EN: 4.73x33mm Caseless (AP-HE) -->
+	<Ammo_473x33mmCaseless_HE.label>4.73x33mm Caseless (AP-HE)</Ammo_473x33mmCaseless_HE.label>
+	<!-- EN: Caseless bullet with a solid propellant enveloping the projectile. -->
+	<Ammo_473x33mmCaseless_HE.description>Caseless bullet with a solid propellant enveloping the projectile.</Ammo_473x33mmCaseless_HE.description>
+	
+	<!-- EN: 4.73x33mm Caseless (Sabot) -->
+	<Ammo_473x33mmCaseless_Sabot.label>4.73x33mm Caseless (Sabot)</Ammo_473x33mmCaseless_Sabot.label>
+	<!-- EN: Caseless bullet with a solid propellant enveloping the projectile. -->
+	<Ammo_473x33mmCaseless_Sabot.description>Caseless bullet with a solid propellant enveloping the projectile.</Ammo_473x33mmCaseless_Sabot.description>
+	
+	<!-- EN: 4.73mm Caseless bullet (FMJ) -->
+	<Bullet_473x33mmCaseless_FMJ.label>4.73mm Caseless bullet (FMJ)</Bullet_473x33mmCaseless_FMJ.label>
+	
+	<!-- EN: 4.73mm Caseless bullet (AP) -->
+	<Bullet_473x33mmCaseless_AP.label>4.73mm Caseless bullet (AP)</Bullet_473x33mmCaseless_AP.label>
+	
+	<!-- EN: 4.73mm Caseless bullet (HP) -->
+	<Bullet_473x33mmCaseless_HP.label>4.73mm Caseless bullet (HP)</Bullet_473x33mmCaseless_HP.label>
+	
+	<!-- EN: 4.73mm Caseless bullet (AP-I) -->
+	<Bullet_473x33mmCaseless_Incendiary.label>4.73mm Caseless bullet (AP-I)</Bullet_473x33mmCaseless_Incendiary.label>
+	
+	<!-- EN: 4.73mm Caseless bullet (AP-HE) -->
+	<Bullet_473x33mmCaseless_HE.label>4.73mm Caseless bullet (AP-HE)</Bullet_473x33mmCaseless_HE.label>
+	
+	<!-- EN: 4.73mm Caseless bullet (Sabot) -->
+	<Bullet_473x33mmCaseless_Sabot.label>4.73mm Caseless bullet (Sabot)</Bullet_473x33mmCaseless_Sabot.label>
+</LanguageData>

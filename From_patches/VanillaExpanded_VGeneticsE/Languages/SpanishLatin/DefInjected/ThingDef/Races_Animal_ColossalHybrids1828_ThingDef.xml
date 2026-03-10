@@ -1,0 +1,91 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VGeneticsE\Races_Animal_ColossalHybrids1828.xml -->
+	<!-- EN: horn -->
+	<GR_Thrumbear.tools.0.label>horn</GR_Thrumbear.tools.0.label>
+	<!-- EN: Smash! -->
+	<GR_Thrumbear.tools.1.label>Smash!</GR_Thrumbear.tools.1.label>
+	<!-- EN: Smash! -->
+	<GR_Thrumbear.tools.2.label>Smash!</GR_Thrumbear.tools.2.label>
+	<!-- EN: head -->
+	<GR_Thrumbear.tools.4.label>head</GR_Thrumbear.tools.4.label>
+	
+	<!-- EN: horn -->
+	<GR_Thrumbalope.tools.0.label>horn</GR_Thrumbalope.tools.0.label>
+	<!-- EN: left foot -->
+	<GR_Thrumbalope.tools.1.label>left foot</GR_Thrumbalope.tools.1.label>
+	<!-- EN: right foot -->
+	<GR_Thrumbalope.tools.2.label>right foot</GR_Thrumbalope.tools.2.label>
+	<!-- EN: head -->
+	<GR_Thrumbalope.tools.4.label>head</GR_Thrumbalope.tools.4.label>
+	
+	<!-- EN: horn -->
+	<GR_Thrumbochicken.tools.0.label>horn</GR_Thrumbochicken.tools.0.label>
+	<!-- EN: head -->
+	<GR_Thrumbochicken.tools.2.label>head</GR_Thrumbochicken.tools.2.label>
+	
+	<!-- EN: horn -->
+	<GR_Thrumffalo.tools.0.label>horn</GR_Thrumffalo.tools.0.label>
+	<!-- EN: left hoof -->
+	<GR_Thrumffalo.tools.1.label>left hoof</GR_Thrumffalo.tools.1.label>
+	<!-- EN: right hoof -->
+	<GR_Thrumffalo.tools.2.label>right hoof</GR_Thrumffalo.tools.2.label>
+	<!-- EN: head -->
+	<GR_Thrumffalo.tools.3.label>head</GR_Thrumffalo.tools.3.label>
+	
+	<!-- EN: horn -->
+	<GR_Thrumwolf.tools.0.label>horn</GR_Thrumwolf.tools.0.label>
+	<!-- EN: left foot -->
+	<GR_Thrumwolf.tools.1.label>left foot</GR_Thrumwolf.tools.1.label>
+	<!-- EN: right foot -->
+	<GR_Thrumwolf.tools.2.label>right foot</GR_Thrumwolf.tools.2.label>
+	<!-- EN: head -->
+	<GR_Thrumwolf.tools.4.label>head</GR_Thrumwolf.tools.4.label>
+	
+	<!-- EN: horn -->
+	<GR_Thrumbocat.tools.0.label>horn</GR_Thrumbocat.tools.0.label>
+	<!-- EN: left foot -->
+	<GR_Thrumbocat.tools.1.label>left foot</GR_Thrumbocat.tools.1.label>
+	<!-- EN: right foot -->
+	<GR_Thrumbocat.tools.2.label>right foot</GR_Thrumbocat.tools.2.label>
+	<!-- EN: head -->
+	<GR_Thrumbocat.tools.4.label>head</GR_Thrumbocat.tools.4.label>
+	
+	<!-- EN: horn -->
+	<GR_Thrumborat.tools.0.label>horn</GR_Thrumborat.tools.0.label>
+	<!-- EN: left paw -->
+	<GR_Thrumborat.tools.1.label>left paw</GR_Thrumborat.tools.1.label>
+	<!-- EN: right paw -->
+	<GR_Thrumborat.tools.2.label>right paw</GR_Thrumborat.tools.2.label>
+	<!-- EN: head -->
+	<GR_Thrumborat.tools.4.label>head</GR_Thrumborat.tools.4.label>
+	
+	<!-- EN: horn -->
+	<GR_Thrumhorse.tools.0.label>horn</GR_Thrumhorse.tools.0.label>
+	<!-- EN: horn -->
+	<GR_Thrumhorse.tools.1.label>horn</GR_Thrumhorse.tools.1.label>
+	<!-- EN: left foot -->
+	<GR_Thrumhorse.tools.2.label>left foot</GR_Thrumhorse.tools.2.label>
+	<!-- EN: right foot -->
+	<GR_Thrumhorse.tools.3.label>right foot</GR_Thrumhorse.tools.3.label>
+	<!-- EN: head -->
+	<GR_Thrumhorse.tools.4.label>head</GR_Thrumhorse.tools.4.label>
+	
+	<!-- EN: head -->
+	<GR_Thrumbospider.tools.1.label>head</GR_Thrumbospider.tools.1.label>
+	
+	<!-- EN: horn -->
+	<GR_Thrumbolizard.tools.1.label>horn</GR_Thrumbolizard.tools.1.label>
+	<!-- EN: head -->
+	<GR_Thrumbolizard.tools.2.label>head</GR_Thrumbolizard.tools.2.label>
+	
+	<!-- EN: horn -->
+	<GR_Thrumboman.tools.0.label>horn</GR_Thrumboman.tools.0.label>
+	<!-- EN: horn -->
+	<GR_Thrumboman.tools.1.label>horn</GR_Thrumboman.tools.1.label>
+	<!-- EN: left foot -->
+	<GR_Thrumboman.tools.2.label>left foot</GR_Thrumboman.tools.2.label>
+	<!-- EN: right foot -->
+	<GR_Thrumboman.tools.3.label>right foot</GR_Thrumboman.tools.3.label>
+	<!-- EN: head -->
+	<GR_Thrumboman.tools.5.label>head</GR_Thrumboman.tools.5.label>
+</LanguageData>

@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- ModPatches\Cursed Guns\Defs\Cursed Guns\Ammo_Cursed.xml -->
+	
+	<!-- EN: make 40x46mm Rubber grenades x100 -->
+	<MakeAmmo_40x46mmGrenade_Rubber.label>make 40x46mm Rubber grenades x100</MakeAmmo_40x46mmGrenade_Rubber.label>
+	<!-- EN: Craft 100 40x46mm Rubber grenades. -->
+	<MakeAmmo_40x46mmGrenade_Rubber.description>Craft 100 40x46mm Rubber grenades.</MakeAmmo_40x46mmGrenade_Rubber.description>
+	<!-- EN: Making 40x46mm Rubber grenades. -->
+	<MakeAmmo_40x46mmGrenade_Rubber.jobString>Making 40x46mm Rubber grenades.</MakeAmmo_40x46mmGrenade_Rubber.jobString>
+	
+	<!-- EN: make kniper blades x10 -->
+	<MakeAmmo_kniper_blade.label>make kniper blades x10</MakeAmmo_kniper_blade.label>
+	<!-- EN: Craft 10 kniper blades. -->
+	<MakeAmmo_kniper_blade.description>Craft 10 kniper blades.</MakeAmmo_kniper_blade.description>
+	<!-- EN: Making kniper blades. -->
+	<MakeAmmo_kniper_blade.jobString>Making kniper blades.</MakeAmmo_kniper_blade.jobString>
+</LanguageData>

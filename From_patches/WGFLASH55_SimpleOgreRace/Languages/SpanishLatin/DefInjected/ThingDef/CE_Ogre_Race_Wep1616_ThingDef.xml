@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\WGFLASH55_SimpleOgreRace\CE_Ogre_Race_Wep1616.xml -->
+	<!-- EN: handle -->
+	<FP_OGRE_meleeone.tools.1.label>handle</FP_OGRE_meleeone.tools.1.label>
+	<!-- EN: handle -->
+	<FP_OGRE_meleetwo.tools.1.label>handle</FP_OGRE_meleetwo.tools.1.label>
+	<!-- EN: ㅤ -->
+	<FPOGRE_Rock.verbs.0.label>ㅤ</FPOGRE_Rock.verbs.0.label>
+	<!-- EN: rock -->
+	<FPOGRE_Rock.tools.0.label>rock</FPOGRE_Rock.tools.0.label>
+</LanguageData>

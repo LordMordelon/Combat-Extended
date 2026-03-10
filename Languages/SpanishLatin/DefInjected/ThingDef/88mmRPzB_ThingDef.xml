@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Defs\Ammo\Rocket\88mmRPzB.xml -->
+	<!-- EN: 88mm RPzB Rocket (HEAT) -->
+	<Ammo_88mmRPzB_HEAT.label>88mm RPzB Rocket (HEAT)</Ammo_88mmRPzB_HEAT.label>
+	<!-- EN: Outdated 88mm rocket. -->
+	<Ammo_88mmRPzB_HEAT.description>Outdated 88mm rocket.</Ammo_88mmRPzB_HEAT.description>
+	<!-- EN: 88mm RPzB rocket (HEAT) -->
+	<Bullet_88mmRPzB_HEAT.label>88mm RPzB rocket (HEAT)</Bullet_88mmRPzB_HEAT.label>
+</LanguageData>

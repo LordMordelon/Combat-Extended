@@ -1,0 +1,50 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\HappyPurging_AgeofDarkness\CE_Patch_Melee_Weapons824.xml -->
+	<!-- EN: handle -->
+	<GW_AOD_Chainsword.tools.0.label>handle</GW_AOD_Chainsword.tools.0.label>
+	<!-- EN: edge -->
+	<GW_AOD_Chainsword.tools.1.label>edge</GW_AOD_Chainsword.tools.1.label>
+	
+	<!-- EN: handle -->
+	<GW_AOD_Relic_Chainsword.tools.0.label>handle</GW_AOD_Relic_Chainsword.tools.0.label>
+	<!-- EN: edge -->
+	<GW_AOD_Relic_Chainsword.tools.1.label>edge</GW_AOD_Relic_Chainsword.tools.1.label>
+	
+	<!-- EN: handle -->
+	<GW_AOD_Powersword.tools.0.label>handle</GW_AOD_Powersword.tools.0.label>
+	<!-- EN: edge -->
+	<GW_AOD_Powersword.tools.1.label>edge</GW_AOD_Powersword.tools.1.label>
+	
+	<!-- EN: handle -->
+	<GW_AOD_Relic_Powersword.tools.0.label>handle</GW_AOD_Relic_Powersword.tools.0.label>
+	<!-- EN: edge -->
+	<GW_AOD_Relic_Powersword.tools.1.label>edge</GW_AOD_Relic_Powersword.tools.1.label>
+	
+	<!-- EN: handle -->
+	<GW_AOD_TermSword.tools.0.label>handle</GW_AOD_TermSword.tools.0.label>
+	<!-- EN: edge -->
+	<GW_AOD_TermSword.tools.1.label>edge</GW_AOD_TermSword.tools.1.label>
+	<!-- EN: point -->
+	<GW_AOD_TermSword.tools.2.label>point</GW_AOD_TermSword.tools.2.label>
+	
+	<!-- EN: Fist -->
+	<GW_AOD_Powerfist.tools.0.label>Fist</GW_AOD_Powerfist.tools.0.label>
+	
+	<!-- EN: Fist -->
+	<GW_AOD_TermPowerFist.tools.0.label>Fist</GW_AOD_TermPowerFist.tools.0.label>
+	
+	<!-- EN: handle -->
+	<GW_AOD_ThunderHammer.tools.0.label>handle</GW_AOD_ThunderHammer.tools.0.label>
+	<!-- EN: head -->
+	<GW_AOD_ThunderHammer.tools.1.label>head</GW_AOD_ThunderHammer.tools.1.label>
+	
+	<!-- EN: handle -->
+	<GW_AOD_Term_Thunder1hHammer.tools.0.label>handle</GW_AOD_Term_Thunder1hHammer.tools.0.label>
+	<!-- EN: head -->
+	<GW_AOD_Term_Thunder1hHammer.tools.1.label>head</GW_AOD_Term_Thunder1hHammer.tools.1.label>
+	
+	<!-- EN: handle -->
+	<GW_AOD_CombatKnife.tools.0.label>handle</GW_AOD_CombatKnife.tools.0.label>
+	<!-- EN: edge -->
+	<GW_AOD_CombatKnife.tools.1.label>edge</GW_AOD_CombatKnife.tools.1.label>
+</LanguageData>

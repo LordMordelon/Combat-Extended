@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- ModPatches\Nyaron\Defs\Nyaron\Ammo\Ammo_Nyaron.xml -->
+	<!-- EN: Cell -->
+	<NyaronCell.label>Cell</NyaronCell.label>
+	<!-- EN: Energy based weapon. -->
+	<NyaronCell.description>Energy based weapon.</NyaronCell.description>
+</LanguageData>

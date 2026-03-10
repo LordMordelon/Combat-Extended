@@ -1,0 +1,10 @@
+<LanguageData>
+	<!-- ModPatches\Rim-Effect Extended Cut\Defs\Rim-Effect Extended Cut\ME_Plasma_Recipe_ExtendedCut.xml -->
+	
+	<!-- EN: make plasma cells -->
+	<MakeAmmo_ME_Plasma.label>make plasma cells</MakeAmmo_ME_Plasma.label>
+	<!-- EN: Craft 50 shots' worth of plasma cells. -->
+	<MakeAmmo_ME_Plasma.description>Craft 50 shots' worth of plasma cells.</MakeAmmo_ME_Plasma.description>
+	<!-- EN: Making plasma cells. -->
+	<MakeAmmo_ME_Plasma.jobString>Making plasma cells.</MakeAmmo_ME_Plasma.jobString>
+</LanguageData>

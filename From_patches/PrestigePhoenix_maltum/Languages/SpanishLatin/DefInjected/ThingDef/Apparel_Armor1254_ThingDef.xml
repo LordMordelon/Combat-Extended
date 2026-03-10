@@ -1,0 +1,12 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\PrestigePhoenix_maltum\Apparel_Armor1254.xml -->
+	<!-- EN: launch 30x29mm grenade -->
+	<Apparel_ArmorGrenadierPrestige.verbs.0.label>launch 30x29mm grenade</Apparel_ArmorGrenadierPrestige.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<Apparel_ArmorGrenadierPrestige.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>ㅤ</Apparel_ArmorGrenadierPrestige.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>
+	
+	<!-- EN: launch 30x64mm incendiary -->
+	<Apparel_ArmorPhoenixPrestige.verbs.0.label>launch 30x64mm incendiary</Apparel_ArmorPhoenixPrestige.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<Apparel_ArmorPhoenixPrestige.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>ㅤ</Apparel_ArmorPhoenixPrestige.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>
+</LanguageData>

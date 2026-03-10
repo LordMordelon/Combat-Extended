@@ -1,0 +1,10 @@
+<LanguageData>
+	<!-- ModPatches\Crypto Arsenal\Defs\Crypto Arsenal\Ammo_CryoHarpoon.xml -->
+	
+	<!-- EN: make Heavy Cryo x25 -->
+	<MakeAmmo_CryoHarpoon.label>make Heavy Cryo x25</MakeAmmo_CryoHarpoon.label>
+	<!-- EN: Craft 25 Cryo Harpoon. -->
+	<MakeAmmo_CryoHarpoon.description>Craft 25 Cryo Harpoon.</MakeAmmo_CryoHarpoon.description>
+	<!-- EN: Making Cryo Harpoon. -->
+	<MakeAmmo_CryoHarpoon.jobString>Making Cryo Harpoon.</MakeAmmo_CryoHarpoon.jobString>
+</LanguageData>

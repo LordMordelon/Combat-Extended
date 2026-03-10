@@ -1,0 +1,58 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\SirMashedPotato_DarkDescent\Patch_Races1568.xml -->
+	<!-- EN: left claw -->
+	<DarkDescent_Grunt.tools.0.label>left claw</DarkDescent_Grunt.tools.0.label>
+	<!-- EN: right fist -->
+	<DarkDescent_Grunt.tools.1.label>right fist</DarkDescent_Grunt.tools.1.label>
+	<!-- EN: head -->
+	<DarkDescent_Grunt.tools.2.label>head</DarkDescent_Grunt.tools.2.label>
+	
+	<!-- EN: grafted blade -->
+	<DarkDescent_Brute.tools.0.label>grafted blade</DarkDescent_Brute.tools.0.label>
+	<!-- EN: right fist -->
+	<DarkDescent_Brute.tools.1.label>right fist</DarkDescent_Brute.tools.1.label>
+	<!-- EN: head -->
+	<DarkDescent_Brute.tools.2.label>head</DarkDescent_Brute.tools.2.label>
+	
+	<!-- EN: grafted blade -->
+	<DarkDescent_Goliath.tools.0.label>grafted blade</DarkDescent_Goliath.tools.0.label>
+	<!-- EN: right fist -->
+	<DarkDescent_Goliath.tools.1.label>right fist</DarkDescent_Goliath.tools.1.label>
+	<!-- EN: head -->
+	<DarkDescent_Goliath.tools.2.label>head</DarkDescent_Goliath.tools.2.label>
+	
+	<!-- EN: left fist -->
+	<DarkDescent_Tesla.tools.0.label>left fist</DarkDescent_Tesla.tools.0.label>
+	<!-- EN: right fist -->
+	<DarkDescent_Tesla.tools.1.label>right fist</DarkDescent_Tesla.tools.1.label>
+	<!-- EN: head -->
+	<DarkDescent_Tesla.tools.2.label>head</DarkDescent_Tesla.tools.2.label>
+	
+	<!-- EN: left fist -->
+	<DarkDescent_Wretch.tools.0.label>left fist</DarkDescent_Wretch.tools.0.label>
+	<!-- EN: right fist -->
+	<DarkDescent_Wretch.tools.1.label>right fist</DarkDescent_Wretch.tools.1.label>
+	<!-- EN: head -->
+	<DarkDescent_Wretch.tools.2.label>head</DarkDescent_Wretch.tools.2.label>
+	
+	<!-- EN: left fist -->
+	<DarkDescent_Engineer.tools.0.label>left fist</DarkDescent_Engineer.tools.0.label>
+	<!-- EN: right fist -->
+	<DarkDescent_Engineer.tools.1.label>right fist</DarkDescent_Engineer.tools.1.label>
+	<!-- EN: head -->
+	<DarkDescent_Engineer.tools.2.label>head</DarkDescent_Engineer.tools.2.label>
+	
+	<!-- EN: left hand -->
+	<DarkDescent_Harvester.tools.0.label>left hand</DarkDescent_Harvester.tools.0.label>
+	<!-- EN: left hand -->
+	<DarkDescent_Harvester.tools.1.label>left hand</DarkDescent_Harvester.tools.1.label>
+	<!-- EN: head -->
+	<DarkDescent_Harvester.tools.2.label>head</DarkDescent_Harvester.tools.2.label>
+	
+	<!-- EN: left claw -->
+	<DarkDescent_Hound.tools.0.label>left claw</DarkDescent_Hound.tools.0.label>
+	<!-- EN: right claw -->
+	<DarkDescent_Hound.tools.1.label>right claw</DarkDescent_Hound.tools.1.label>
+	<!-- EN: head -->
+	<DarkDescent_Hound.tools.3.label>head</DarkDescent_Hound.tools.3.label>
+</LanguageData>

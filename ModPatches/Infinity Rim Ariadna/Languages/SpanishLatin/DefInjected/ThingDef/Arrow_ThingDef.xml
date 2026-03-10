@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\Infinity Rim Ariadna\Defs\Infinity Rim Ariadna\Ammo\Arrow.xml -->
+	
+	<!-- EN: great arrow (Teseum) -->
+	<Ammo_GreatArrow_Teseum.label>great arrow (Teseum)</Ammo_GreatArrow_Teseum.label>
+	<!-- EN: Heavy arrow designed to be fired from a great bow. -->
+	<Ammo_GreatArrow_Teseum.description>Heavy arrow designed to be fired from a great bow.</Ammo_GreatArrow_Teseum.description>
+	
+	<!-- EN: great arrow (Teseum) -->
+	<Projectile_GreatArrow_Teseum.label>great arrow (Teseum)</Projectile_GreatArrow_Teseum.label>
+</LanguageData>

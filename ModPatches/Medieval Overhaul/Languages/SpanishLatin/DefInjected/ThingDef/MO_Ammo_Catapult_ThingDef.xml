@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\Medieval Overhaul\Defs\Medieval Overhaul\Ammo\MO_Ammo_Catapult.xml -->
+	
+	<!-- EN: tarred boulder -->
+	<Ammo_Catapult_TarBoulder.label>tarred boulder</Ammo_Catapult_TarBoulder.label>
+	<!-- EN: A heavy stone, cut to an appropriate size and shape to be thrown by a siege engine. \n\nCovered with tar, which can be lit once ready to be thrown. -->
+	<Ammo_Catapult_TarBoulder.description>A heavy stone, cut to an appropriate size and shape to be thrown by a siege engine. \n\nCovered with tar, which can be lit once ready to be thrown.</Ammo_Catapult_TarBoulder.description>
+	
+	<!-- EN: tar covered boulder -->
+	<Projectile_CatapultBullet_TarBoulder.label>tar covered boulder</Projectile_CatapultBullet_TarBoulder.label>
+</LanguageData>

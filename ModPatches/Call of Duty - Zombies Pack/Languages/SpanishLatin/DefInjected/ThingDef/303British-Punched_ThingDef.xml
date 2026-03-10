@@ -1,0 +1,51 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Recipe\303British-Punched.xml -->
+	
+	<!-- EN: .303 British cartridge (FMJ) (Punched) -->
+	<Ammo_303British_FMJ_Punched.label>.303 British cartridge (FMJ) (Punched)</Ammo_303British_FMJ_Punched.label>
+	<!-- EN: Large rifle bullet found mostly in outdated bolt-action firearms. -->
+	<Ammo_303British_FMJ_Punched.description>Large rifle bullet found mostly in outdated bolt-action firearms.</Ammo_303British_FMJ_Punched.description>
+	
+	<!-- EN: .303 British cartridge (AP) (Punched) -->
+	<Ammo_303British_AP_Punched.label>.303 British cartridge (AP) (Punched)</Ammo_303British_AP_Punched.label>
+	<!-- EN: Large rifle bullet found mostly in outdated bolt-action firearms. -->
+	<Ammo_303British_AP_Punched.description>Large rifle bullet found mostly in outdated bolt-action firearms.</Ammo_303British_AP_Punched.description>
+	
+	<!-- EN: .303 British cartridge (HP) (Punched) -->
+	<Ammo_303British_HP_Punched.label>.303 British cartridge (HP) (Punched)</Ammo_303British_HP_Punched.label>
+	<!-- EN: Large rifle bullet found mostly in outdated bolt-action firearms. -->
+	<Ammo_303British_HP_Punched.description>Large rifle bullet found mostly in outdated bolt-action firearms.</Ammo_303British_HP_Punched.description>
+	
+	<!-- EN: .303 British cartridge (AP-I) (Punched) -->
+	<Ammo_303British_Incendiary_Punched.label>.303 British cartridge (AP-I) (Punched)</Ammo_303British_Incendiary_Punched.label>
+	<!-- EN: Large rifle bullet found mostly in outdated bolt-action firearms. -->
+	<Ammo_303British_Incendiary_Punched.description>Large rifle bullet found mostly in outdated bolt-action firearms.</Ammo_303British_Incendiary_Punched.description>
+	
+	<!-- EN: .303 British cartridge (HE) (Punched) -->
+	<Ammo_303British_HE_Punched.label>.303 British cartridge (HE) (Punched)</Ammo_303British_HE_Punched.label>
+	<!-- EN: Large rifle bullet found mostly in outdated bolt-action firearms. -->
+	<Ammo_303British_HE_Punched.description>Large rifle bullet found mostly in outdated bolt-action firearms.</Ammo_303British_HE_Punched.description>
+	
+	<!-- EN: .303 British cartridge (Sabot) (Punched) -->
+	<Ammo_303British_Sabot_Punched.label>.303 British cartridge (Sabot) (Punched)</Ammo_303British_Sabot_Punched.label>
+	<!-- EN: Large rifle bullet found mostly in outdated bolt-action firearms. -->
+	<Ammo_303British_Sabot_Punched.description>Large rifle bullet found mostly in outdated bolt-action firearms.</Ammo_303British_Sabot_Punched.description>
+	
+	<!-- EN: .303 British bullet (FMJ) (Punched) -->
+	<Bullet_303British_FMJ_Punched.label>.303 British bullet (FMJ) (Punched)</Bullet_303British_FMJ_Punched.label>
+	
+	<!-- EN: .303 British bullet (AP) (Punched) -->
+	<Bullet_303British_AP_Punched.label>.303 British bullet (AP) (Punched)</Bullet_303British_AP_Punched.label>
+	
+	<!-- EN: .303 British bullet (HP) (Punched) -->
+	<Bullet_303British_HP_Punched.label>.303 British bullet (HP) (Punched)</Bullet_303British_HP_Punched.label>
+	
+	<!-- EN: .303 British bullet (AP-I) (Punched) -->
+	<Bullet_303British_Incendiary_Punched.label>.303 British bullet (AP-I) (Punched)</Bullet_303British_Incendiary_Punched.label>
+	
+	<!-- EN: .303 British bullet (HE) (Punched) -->
+	<Bullet_303British_HE_Punched.label>.303 British bullet (HE) (Punched)</Bullet_303British_HE_Punched.label>
+	
+	<!-- EN: .303 British bullet (Sabot) (Punched) -->
+	<Bullet_303British_Sabot_Punched.label>.303 British bullet (Sabot) (Punched)</Bullet_303British_Sabot_Punched.label>
+</LanguageData>

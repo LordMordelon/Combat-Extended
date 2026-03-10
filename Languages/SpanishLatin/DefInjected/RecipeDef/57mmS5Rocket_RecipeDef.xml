@@ -1,0 +1,21 @@
+<LanguageData>
+	<!-- Defs\Ammo\Rocket\57mmS5Rocket.xml -->
+	<!-- EN: make 57mm (HE) rockets x5 -->
+	<MakeAmmo_57mmRocket_HE.label>make 57mm (HE) rockets x5</MakeAmmo_57mmRocket_HE.label>
+	<!-- EN: Craft 5 57mm (HE) rockets. -->
+	<MakeAmmo_57mmRocket_HE.description>Craft 5 57mm (HE) rockets.</MakeAmmo_57mmRocket_HE.description>
+	<!-- EN: Making 57mm (HE) rockets. -->
+	<MakeAmmo_57mmRocket_HE.jobString>Making 57mm (HE) rockets.</MakeAmmo_57mmRocket_HE.jobString>
+	<!-- EN: make 57mm (HEAT) rockets x5 -->
+	<MakeAmmo_57mmRocket_HEAT.label>make 57mm (HEAT) rockets x5</MakeAmmo_57mmRocket_HEAT.label>
+	<!-- EN: Craft 5 57mm (HEAT) rockets. -->
+	<MakeAmmo_57mmRocket_HEAT.description>Craft 5 57mm (HEAT) rockets.</MakeAmmo_57mmRocket_HEAT.description>
+	<!-- EN: Making 57mm (HEAT) rockets. -->
+	<MakeAmmo_57mmRocket_HEAT.jobString>Making 57mm (HEAT) rockets.</MakeAmmo_57mmRocket_HEAT.jobString>
+	<!-- EN: make 57mm (Thermobaric) rockets x5 -->
+	<MakeAmmo_57mmRocket_Thermobaric.label>make 57mm (Thermobaric) rockets x5</MakeAmmo_57mmRocket_Thermobaric.label>
+	<!-- EN: Craft 5 57mm (Thermobaric) rockets. -->
+	<MakeAmmo_57mmRocket_Thermobaric.description>Craft 5 57mm (Thermobaric) rockets.</MakeAmmo_57mmRocket_Thermobaric.description>
+	<!-- EN: Making 57mm (Thermobaric) rockets. -->
+	<MakeAmmo_57mmRocket_Thermobaric.jobString>Making 57mm (Thermobaric) rockets.</MakeAmmo_57mmRocket_Thermobaric.jobString>
+</LanguageData>

@@ -1,0 +1,29 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Ryflamer_Rimcraft_Weaponry\WOW_Draenei_CE - Copy1497.xml -->
+	<!-- EN: handle -->
+	<WoWM_Draenei_Gavel.tools.0.label>handle</WoWM_Draenei_Gavel.tools.0.label>
+	<!-- EN: head -->
+	<WoWM_Draenei_Gavel.tools.1.label>head</WoWM_Draenei_Gavel.tools.1.label>
+	
+	<!-- EN: handle -->
+	<WoWM_Draenei_Mace.tools.0.label>handle</WoWM_Draenei_Mace.tools.0.label>
+	<!-- EN: head -->
+	<WoWM_Draenei_Mace.tools.1.label>head</WoWM_Draenei_Mace.tools.1.label>
+	
+	<!-- EN: handle -->
+	<WoWM_Draenei_Hammer.tools.0.label>handle</WoWM_Draenei_Hammer.tools.0.label>
+	<!-- EN: head -->
+	<WoWM_Draenei_Hammer.tools.1.label>head</WoWM_Draenei_Hammer.tools.1.label>
+	
+	<!-- EN: handle -->
+	<WoWM_Draenei_GreatHammer.tools.0.label>handle</WoWM_Draenei_GreatHammer.tools.0.label>
+	<!-- EN: head -->
+	<WoWM_Draenei_GreatHammer.tools.1.label>head</WoWM_Draenei_GreatHammer.tools.1.label>
+	
+	<!-- EN: handle -->
+	<WoWM_Draenei_Claymore.tools.0.label>handle</WoWM_Draenei_Claymore.tools.0.label>
+	<!-- EN: point -->
+	<WoWM_Draenei_Claymore.tools.1.label>point</WoWM_Draenei_Claymore.tools.1.label>
+	<!-- EN: edge -->
+	<WoWM_Draenei_Claymore.tools.2.label>edge</WoWM_Draenei_Claymore.tools.2.label>
+</LanguageData>

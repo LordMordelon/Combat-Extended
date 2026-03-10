@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- ModPatches\Cursed Guns\Defs\Cursed Guns\Recipes_Cursed.xml -->
+	<!-- EN: make Yeep 22 -->
+	<MakeZipTwoTwoThrown.label>make Yeep 22</MakeZipTwoTwoThrown.label>
+	<!-- EN: Craft 10 Yeep 22. -->
+	<MakeZipTwoTwoThrown.description>Craft 10 Yeep 22.</MakeZipTwoTwoThrown.description>
+	<!-- EN: Making Yeep 22. -->
+	<MakeZipTwoTwoThrown.jobString>Making Yeep 22.</MakeZipTwoTwoThrown.jobString>
+	
+	<!-- EN: make Yeep 22 x10 -->
+	<MakeZipTwoTwoThrownX10.label>make Yeep 22 x10</MakeZipTwoTwoThrownX10.label>
+	<!-- EN: Craft 10 Yeep 22s. -->
+	<MakeZipTwoTwoThrownX10.description>Craft 10 Yeep 22s.</MakeZipTwoTwoThrownX10.description>
+	<!-- EN: Making Yeep 22s. -->
+	<MakeZipTwoTwoThrownX10.jobString>Making Yeep 22s.</MakeZipTwoTwoThrownX10.jobString>
+</LanguageData>

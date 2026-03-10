@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Rimsenal_Harana\Apparel_Harana_CE1564.xml -->
+	<!-- EN: launch microwave grenade -->
+	<Apparel_Shocksuit.verbs.0.label>launch microwave grenade</Apparel_Shocksuit.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<Apparel_Shocksuit.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>ㅤ</Apparel_Shocksuit.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>
+</LanguageData>

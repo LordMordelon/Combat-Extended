@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\mlie_reinforcedmechanoid2\RM_PlasmaWeaponry1387.xml -->
+	<!-- EN: head -->
+	<RM_MeleeWeapon_GravitonMace.tools.0.label>head</RM_MeleeWeapon_GravitonMace.tools.0.label>
+	<!-- EN: blade -->
+	<RM_MeleeWeapon_GravitonMace.tools.1.label>blade</RM_MeleeWeapon_GravitonMace.tools.1.label>
+	<!-- EN: handle -->
+	<RM_MeleeWeapon_GravitonMace.tools.2.label>handle</RM_MeleeWeapon_GravitonMace.tools.2.label>
+	
+	<!-- EN: barrel -->
+	<RM_Gun_PlasmaImmolator.tools.0.label>barrel</RM_Gun_PlasmaImmolator.tools.0.label>
+	<!-- EN: shielding -->
+	<RM_Gun_PlasmaImmolator.tools.1.label>shielding</RM_Gun_PlasmaImmolator.tools.1.label>
+	
+	<!-- EN: throw immolator grenade -->
+	<RM_Weapon_GrenadePlasmaImmolator.Properties.label>throw immolator grenade</RM_Weapon_GrenadePlasmaImmolator.Properties.label>
+</LanguageData>

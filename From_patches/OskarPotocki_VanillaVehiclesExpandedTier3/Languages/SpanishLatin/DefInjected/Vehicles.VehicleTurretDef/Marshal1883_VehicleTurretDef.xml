@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\OskarPotocki_VanillaVehiclesExpandedTier3\Marshal1883.xml -->
+	<!-- EN: Single -->
+	<Marshal_MountedTurret.fireModes.0.label>Single</Marshal_MountedTurret.fireModes.0.label>
+	<!-- EN: Burst -->
+	<Marshal_MountedTurret.fireModes.1.label>Burst</Marshal_MountedTurret.fireModes.1.label>
+	<!-- EN: Auto -->
+	<Marshal_MountedTurret.fireModes.2.label>Auto</Marshal_MountedTurret.fireModes.2.label>
+</LanguageData>

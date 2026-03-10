@@ -1,0 +1,47 @@
+<LanguageData>
+	<!-- ModPatches\Rim-Effect Extended Cut\Defs\Rim-Effect Extended Cut\ME_Projectile_ExtendedCut.xml -->
+	<!-- EN: accelerated shot -->
+	<Bullet_Chakram_Basic.label>accelerated shot</Bullet_Chakram_Basic.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Chakram_AP.label>accelerated shot</Bullet_Chakram_AP.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Chakram_HE.label>accelerated shot</Bullet_Chakram_HE.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Chakram_Cryo.label>accelerated shot</Bullet_Chakram_Cryo.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Chakram_Toxic.label>accelerated shot</Bullet_Chakram_Toxic.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Chakram_Ion.label>accelerated shot</Bullet_Chakram_Ion.label>
+	<!-- EN: accelerated incendiary shot -->
+	<Bullet_Chakram_FI.label>accelerated incendiary shot</Bullet_Chakram_FI.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_L89_Basic.label>accelerated shot</Bullet_L89_Basic.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_L89_AP.label>accelerated shot</Bullet_L89_AP.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_L89_HE.label>accelerated shot</Bullet_L89_HE.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_L89_Cryo.label>accelerated shot</Bullet_L89_Cryo.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_L89_Toxic.label>accelerated shot</Bullet_L89_Toxic.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_L89_Ion.label>accelerated shot</Bullet_L89_Ion.label>
+	<!-- EN: accelerated incendiary shot -->
+	<Bullet_L89_FI.label>accelerated incendiary shot</Bullet_L89_FI.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_M29_Basic.label>accelerated shot</Bullet_M29_Basic.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_M29_AP.label>accelerated shot</Bullet_M29_AP.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_M29_Cryo.label>accelerated shot</Bullet_M29_Cryo.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_M29_Toxic.label>accelerated shot</Bullet_M29_Toxic.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_M29_HE.label>accelerated shot</Bullet_M29_HE.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_M29_FI.label>accelerated shot</Bullet_M29_FI.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_M29_Ion.label>accelerated shot</Bullet_M29_Ion.label>
+	<!-- EN: Plasma shot -->
+	<Bullet_M19_Basic.label>Plasma shot</Bullet_M19_Basic.label>
+</LanguageData>

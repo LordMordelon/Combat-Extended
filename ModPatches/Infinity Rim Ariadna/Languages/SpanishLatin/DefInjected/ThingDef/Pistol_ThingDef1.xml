@@ -1,0 +1,29 @@
+<LanguageData>
+	<!-- ModPatches\Infinity Rim Ariadna\Defs\Infinity Rim Ariadna\Ammo\Pistol.xml -->
+	
+	<!-- EN: 9x19mm Para cartridge (Teseum) -->
+	<Ammo_9x19mmPara_Teseum.label>9x19mm Para cartridge (Teseum)</Ammo_9x19mmPara_Teseum.label>
+	<!-- EN: Common pistol cartridge used by a variety of handguns and SMGs. -->
+	<Ammo_9x19mmPara_Teseum.description>Common pistol cartridge used by a variety of handguns and SMGs.</Ammo_9x19mmPara_Teseum.description>
+	
+	<!-- EN: pistol cartridge (Teseum) -->
+	<Ammo_Pistol_Teseum.label>pistol cartridge (Teseum)</Ammo_Pistol_Teseum.label>
+	<!-- EN: Common pistol cartridge used by a variety of handguns and SMGs. -->
+	<Ammo_Pistol_Teseum.description>Common pistol cartridge used by a variety of handguns and SMGs.</Ammo_Pistol_Teseum.description>
+	
+	<!-- EN: 9mm Para bullet (Teseum) -->
+	<Bullet_9x19mmPara_Teseum.label>9mm Para bullet (Teseum)</Bullet_9x19mmPara_Teseum.label>
+	
+	<!-- EN: .44 Magnum cartridge (Teseum) -->
+	<Ammo_44Magnum_Teseum.label>.44 Magnum cartridge (Teseum)</Ammo_44Magnum_Teseum.label>
+	<!-- EN: Ancient pistol cartridge originally designed for revolvers. -->
+	<Ammo_44Magnum_Teseum.description>Ancient pistol cartridge originally designed for revolvers.</Ammo_44Magnum_Teseum.description>
+	
+	<!-- EN: magnum pistol cartridge (Teseum) -->
+	<Ammo_PistolMagnum_Teseum.label>magnum pistol cartridge (Teseum)</Ammo_PistolMagnum_Teseum.label>
+	<!-- EN: Powerful pistol cartridge designed primarily for revolvers. -->
+	<Ammo_PistolMagnum_Teseum.description>Powerful pistol cartridge designed primarily for revolvers.</Ammo_PistolMagnum_Teseum.description>
+	
+	<!-- EN: .44 Magnum bullet (Teseum) -->
+	<Bullet_44Magnum_Teseum.label>.44 Magnum bullet (Teseum)</Bullet_44Magnum_Teseum.label>
+</LanguageData>

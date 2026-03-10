@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VGeneticsE\Hediffs_Local_Implants_Animals1816.xml -->
+	<!-- EN: animal Implant: bear leg -->
+	<GR_BearLeg.comps.0.tools.0.label>animal Implant: bear leg</GR_BearLeg.comps.0.tools.0.label>
+	<!-- EN: animal Implant: lizard leg -->
+	<GR_LizardLeg.comps.0.tools.0.label>animal Implant: lizard leg</GR_LizardLeg.comps.0.tools.0.label>
+	<!-- EN: animal Implant: thrumbo leg -->
+	<GR_ThrumboLeg.comps.0.tools.0.label>animal Implant: thrumbo leg</GR_ThrumboLeg.comps.0.tools.0.label>
+	<!-- EN: animal Implant: scyther tail -->
+	<GR_ScytherTail.comps.0.tools.0.label>animal Implant: scyther tail</GR_ScytherTail.comps.0.tools.0.label>
+	<!-- EN: animal Implant: mechanoid tail -->
+	<GR_MechaTail.comps.0.tools.0.label>animal Implant: mechanoid tail</GR_MechaTail.comps.0.tools.0.label>
+	<!-- EN: animal Implant: miniature thrumbo horn (tier 3) -->
+	<GR_MiniatureThrumboHorn.comps.0.tools.0.label>animal Implant: miniature thrumbo horn (tier 3)</GR_MiniatureThrumboHorn.comps.0.tools.0.label>
+	<!-- EN: animal Implant: insect mandibles -->
+	<GR_InsectMandibles.comps.0.tools.0.label>animal Implant: insect mandibles</GR_InsectMandibles.comps.0.tools.0.label>
+	<!-- EN: animal Implant: bionic thrumbo jaws -->
+	<GR_ThrumboJaws.comps.0.tools.0.label>animal Implant: bionic thrumbo jaws</GR_ThrumboJaws.comps.0.tools.0.label>
+</LanguageData>

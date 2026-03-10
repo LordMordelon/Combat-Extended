@@ -1,0 +1,14 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\CP_DOOM\CP_DOOM_CE_Patch_MeleeDOOM_Weapons604.xml -->
+	<!-- EN: blade -->
+	<RHMelee_DOOM_Chainsaw.tools.0.label>blade</RHMelee_DOOM_Chainsaw.tools.0.label>
+	<!-- EN: point -->
+	<RHMelee_DOOM_Chainsaw.tools.1.label>point</RHMelee_DOOM_Chainsaw.tools.1.label>
+	
+	<!-- EN: handle -->
+	<RHMelee_DOOMCrucible.tools.0.label>handle</RHMelee_DOOMCrucible.tools.0.label>
+	<!-- EN: edge -->
+	<RHMelee_DOOMCrucible.tools.1.label>edge</RHMelee_DOOMCrucible.tools.1.label>
+	<!-- EN: point -->
+	<RHMelee_DOOMCrucible.tools.2.label>point</RHMelee_DOOMCrucible.tools.2.label>
+</LanguageData>

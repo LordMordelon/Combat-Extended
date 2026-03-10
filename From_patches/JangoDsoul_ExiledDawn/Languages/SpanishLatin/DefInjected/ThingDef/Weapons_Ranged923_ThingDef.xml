@@ -1,0 +1,42 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\JangoDsoul_ExiledDawn\Weapons_Ranged923.xml -->
+	<!-- EN: stock -->
+	<JDSExiledDawn_Reforged_Plasma_Shortstop.tools.0.label>stock</JDSExiledDawn_Reforged_Plasma_Shortstop.tools.0.label>
+	<!-- EN: barrel -->
+	<JDSExiledDawn_Reforged_Plasma_Shortstop.tools.1.label>barrel</JDSExiledDawn_Reforged_Plasma_Shortstop.tools.1.label>
+	<!-- EN: muzzle -->
+	<JDSExiledDawn_Reforged_Plasma_Shortstop.tools.2.label>muzzle</JDSExiledDawn_Reforged_Plasma_Shortstop.tools.2.label>
+	
+	<!-- EN: stock -->
+	<JDSExiledDawn_Reforged_Plasma_Shooter.tools.0.label>stock</JDSExiledDawn_Reforged_Plasma_Shooter.tools.0.label>
+	<!-- EN: barrel -->
+	<JDSExiledDawn_Reforged_Plasma_Shooter.tools.1.label>barrel</JDSExiledDawn_Reforged_Plasma_Shooter.tools.1.label>
+	<!-- EN: muzzle -->
+	<JDSExiledDawn_Reforged_Plasma_Shooter.tools.2.label>muzzle</JDSExiledDawn_Reforged_Plasma_Shooter.tools.2.label>
+	
+	<!-- EN: stock -->
+	<JDSExiledDawn_Reforged_Plasma_Rifle.tools.0.label>stock</JDSExiledDawn_Reforged_Plasma_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<JDSExiledDawn_Reforged_Plasma_Rifle.tools.1.label>barrel</JDSExiledDawn_Reforged_Plasma_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<JDSExiledDawn_Reforged_Plasma_Rifle.tools.2.label>muzzle</JDSExiledDawn_Reforged_Plasma_Rifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<JDSExiledDawn_Reforged_Plasma_Rail.tools.0.label>stock</JDSExiledDawn_Reforged_Plasma_Rail.tools.0.label>
+	<!-- EN: barrel -->
+	<JDSExiledDawn_Reforged_Plasma_Rail.tools.1.label>barrel</JDSExiledDawn_Reforged_Plasma_Rail.tools.1.label>
+	<!-- EN: muzzle -->
+	<JDSExiledDawn_Reforged_Plasma_Rail.tools.2.label>muzzle</JDSExiledDawn_Reforged_Plasma_Rail.tools.2.label>
+	
+	<!-- EN: stock -->
+	<JDSExiledDawn_Reforged_Cannon.tools.0.label>stock</JDSExiledDawn_Reforged_Cannon.tools.0.label>
+	<!-- EN: barrel -->
+	<JDSExiledDawn_Reforged_Cannon.tools.1.label>barrel</JDSExiledDawn_Reforged_Cannon.tools.1.label>
+	<!-- EN: muzzle -->
+	<JDSExiledDawn_Reforged_Cannon.tools.2.label>muzzle</JDSExiledDawn_Reforged_Cannon.tools.2.label>
+	
+	<!-- EN: barrel -->
+	<JDSExiledDawn_Reforged_Plasma_Minigun.tools.0.label>barrel</JDSExiledDawn_Reforged_Plasma_Minigun.tools.0.label>
+	<!-- EN: muzzle -->
+	<JDSExiledDawn_Reforged_Plasma_Minigun.tools.1.label>muzzle</JDSExiledDawn_Reforged_Plasma_Minigun.tools.1.label>
+</LanguageData>

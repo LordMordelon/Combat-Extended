@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Defs\Ammo\Rocket\M74.xml -->
+	<!-- EN: make M74 (Incendiary) rockets x4 -->
+	<MakeAmmo_M74_Incendiary.label>make M74 (Incendiary) rockets x4</MakeAmmo_M74_Incendiary.label>
+	<!-- EN: Craft 4 M74 (Incendiary) rockets. -->
+	<MakeAmmo_M74_Incendiary.description>Craft 4 M74 (Incendiary) rockets.</MakeAmmo_M74_Incendiary.description>
+	<!-- EN: Making M74 (Incendiary) rockets. -->
+	<MakeAmmo_M74_Incendiary.jobString>Making M74 (Incendiary) rockets.</MakeAmmo_M74_Incendiary.jobString>
+</LanguageData>

@@ -1,0 +1,24 @@
+<LanguageData>
+	<!-- Defs\Ammo\Pistols\45Schofield.xml -->
+	
+	<!-- EN: make .45 Schofield (FMJ) cartridge x500 -->
+	<MakeAmmo_45Schofield_FMJ.label>make .45 Schofield (FMJ) cartridge x500</MakeAmmo_45Schofield_FMJ.label>
+	<!-- EN: Craft 500 .45 Schofield (FMJ) cartridges. -->
+	<MakeAmmo_45Schofield_FMJ.description>Craft 500 .45 Schofield (FMJ) cartridges.</MakeAmmo_45Schofield_FMJ.description>
+	<!-- EN: Making .45 Schofield (FMJ) cartridges. -->
+	<MakeAmmo_45Schofield_FMJ.jobString>Making .45 Schofield (FMJ) cartridges.</MakeAmmo_45Schofield_FMJ.jobString>
+	
+	<!-- EN: make .45 Schofield (AP) cartridge x500 -->
+	<MakeAmmo_45Schofield_AP.label>make .45 Schofield (AP) cartridge x500</MakeAmmo_45Schofield_AP.label>
+	<!-- EN: Craft 500 .45 Schofield (AP) cartridges. -->
+	<MakeAmmo_45Schofield_AP.description>Craft 500 .45 Schofield (AP) cartridges.</MakeAmmo_45Schofield_AP.description>
+	<!-- EN: Making .45 Schofield (AP) cartridges. -->
+	<MakeAmmo_45Schofield_AP.jobString>Making .45 Schofield (AP) cartridges.</MakeAmmo_45Schofield_AP.jobString>
+	
+	<!-- EN: make .45 Schofield (HP) cartridge x500 -->
+	<MakeAmmo_45Schofield_HP.label>make .45 Schofield (HP) cartridge x500</MakeAmmo_45Schofield_HP.label>
+	<!-- EN: Craft 500 .45 Schofield (HP) cartridges. -->
+	<MakeAmmo_45Schofield_HP.description>Craft 500 .45 Schofield (HP) cartridges.</MakeAmmo_45Schofield_HP.description>
+	<!-- EN: Making .45 Schofield (HP) cartridges. -->
+	<MakeAmmo_45Schofield_HP.jobString>Making .45 Schofield (HP) cartridges.</MakeAmmo_45Schofield_HP.jobString>
+</LanguageData>

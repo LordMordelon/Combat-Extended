@@ -1,0 +1,35 @@
+<LanguageData>
+	<!-- ModPatches\Miho Race\Defs\Miho Race\Ammo\57x280mmR.xml -->
+	
+	<!-- EN: 57x280mmR cartridge (AP) -->
+	<Ammo_57x280mmR_AP.label>57x280mmR cartridge (AP)</Ammo_57x280mmR_AP.label>
+	<!-- EN: Large caliber shell used by tank guns. -->
+	<Ammo_57x280mmR_AP.description>Large caliber shell used by tank guns.</Ammo_57x280mmR_AP.description>
+	
+	<!-- EN: 57x280mmR cartridge (HE) -->
+	<Ammo_57x280mmR_HE.label>57x280mmR cartridge (HE)</Ammo_57x280mmR_HE.label>
+	<!-- EN: Large caliber shell used by tank guns. -->
+	<Ammo_57x280mmR_HE.description>Large caliber shell used by tank guns.</Ammo_57x280mmR_HE.description>
+	
+	<!-- EN: 57x280mmR cartridge (HEAT) -->
+	<Ammo_57x280mmR_HEAT.label>57x280mmR cartridge (HEAT)</Ammo_57x280mmR_HEAT.label>
+	<!-- EN: Large caliber shell used by tank guns. -->
+	<Ammo_57x280mmR_HEAT.description>Large caliber shell used by tank guns.</Ammo_57x280mmR_HEAT.description>
+	
+	<!-- EN: 57x280mmR cartridge (EMP) -->
+	<Ammo_57x280mmR_EMP.label>57x280mmR cartridge (EMP)</Ammo_57x280mmR_EMP.label>
+	<!-- EN: Large caliber shell used by tank guns. -->
+	<Ammo_57x280mmR_EMP.description>Large caliber shell used by tank guns.</Ammo_57x280mmR_EMP.description>
+	
+	<!-- EN: 57x280mmR bullet (AP) -->
+	<Bullet_57x280mmR_AP.label>57x280mmR bullet (AP)</Bullet_57x280mmR_AP.label>
+	
+	<!-- EN: 57x280mmR bullet (HE) -->
+	<Bullet_57x280mmR_HE.label>57x280mmR bullet (HE)</Bullet_57x280mmR_HE.label>
+	
+	<!-- EN: 57x280mmR bullet (HEAT) -->
+	<Bullet_57x280mmR_HEAT.label>57x280mmR bullet (HEAT)</Bullet_57x280mmR_HEAT.label>
+	
+	<!-- EN: 57x280mmR bullet (EMP) -->
+	<Bullet_57x280mmR_EMP.label>57x280mmR bullet (EMP)</Bullet_57x280mmR_EMP.label>
+</LanguageData>

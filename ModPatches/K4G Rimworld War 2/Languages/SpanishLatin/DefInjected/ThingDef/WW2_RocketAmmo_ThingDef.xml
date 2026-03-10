@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- ModPatches\K4G Rimworld War 2\Defs\K4G Rimworld War 2\AmmoDefs\WW2_RocketAmmo.xml -->
+	<!-- EN: Type 74mm Rocket (HEAT) -->
+	<Ammo_K4GType74mm_HEAT.label>Type 74mm Rocket (HEAT)</Ammo_K4GType74mm_HEAT.label>
+	<!-- EN: Outdated 74mm rocket-propelled grenade designed for the Type-4 74mm Rocket Launcher. -->
+	<Ammo_K4GType74mm_HEAT.description>Outdated 74mm rocket-propelled grenade designed for the Type-4 74mm Rocket Launcher.</Ammo_K4GType74mm_HEAT.description>
+	<!-- EN: Panzerfaust 60 rocket -->
+	<Bullet_K4GPanzerFaust60_HEAT.label>Panzerfaust 60 rocket</Bullet_K4GPanzerFaust60_HEAT.label>
+	<!-- EN: Panzerfaust 50 rocket -->
+	<Bullet_K4GPanzerFaust50_HEAT.label>Panzerfaust 50 rocket</Bullet_K4GPanzerFaust50_HEAT.label>
+	<!-- EN: Type 74mm Rocket (HEAT) -->
+	<Bullet_K4GType74mm_HEAT.label>Type 74mm Rocket (HEAT)</Bullet_K4GType74mm_HEAT.label>
+</LanguageData>

@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Abraxas_MSERevived\AddedModules_Bionic1035.xml -->
+	<!-- EN: fist -->
+	<MSE_BionicArmModule.comps.0.tools.0.label>fist</MSE_BionicArmModule.comps.0.tools.0.label>
+	<!-- EN: claw -->
+	<MSE_BionicHandModule.comps.0.tools.0.label>claw</MSE_BionicHandModule.comps.0.tools.0.label>
+	<!-- EN: stinger -->
+	<MSE_BionicFingerModule.comps.0.tools.0.label>stinger</MSE_BionicFingerModule.comps.0.tools.0.label>
+</LanguageData>

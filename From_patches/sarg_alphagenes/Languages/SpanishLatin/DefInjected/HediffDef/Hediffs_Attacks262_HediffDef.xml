@@ -1,0 +1,21 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\sarg_alphagenes\Hediffs_Attacks262.xml -->
+	<!-- EN: horn -->
+	<AG_HornAttack.comps.0.tools.0.label>horn</AG_HornAttack.comps.0.tools.0.label>
+	<!-- EN: chainsaw -->
+	<AG_ChainsawHands.comps.0.tools.0.label>chainsaw</AG_ChainsawHands.comps.0.tools.0.label>
+	<!-- EN: scyther blade -->
+	<AG_ScytherHands.comps.0.tools.0.label>scyther blade</AG_ScytherHands.comps.0.tools.0.label>
+	<!-- EN: clawed hand -->
+	<AG_ClawedHands.comps.0.tools.0.label>clawed hand</AG_ClawedHands.comps.0.tools.0.label>
+	<!-- EN: claw -->
+	<AG_CrabClaw.comps.0.tools.0.label>claw</AG_CrabClaw.comps.0.tools.0.label>
+	<!-- EN: venom fangs -->
+	<AG_VenomFangs.comps.0.tools.0.label>venom fangs</AG_VenomFangs.comps.0.tools.0.label>
+	<!-- EN: acid fangs -->
+	<AG_AcidFangs.comps.0.tools.0.label>acid fangs</AG_AcidFangs.comps.0.tools.0.label>
+	<!-- EN: venom gland -->
+	<AG_VFEI_VenomGland.comps.0.tools.0.label>venom gland</AG_VFEI_VenomGland.comps.0.tools.0.label>
+	<!-- EN: claw -->
+	<AG_VFEI_PneumaticClaw.comps.0.tools.0.label>claw</AG_VFEI_PneumaticClaw.comps.0.tools.0.label>
+</LanguageData>

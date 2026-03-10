@@ -1,0 +1,72 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\CAT_MonoPack\Weapons_Mono_Bladelink1144.xml -->
+	<!-- EN: handle -->
+	<CAT_MonoChargeLanceBladelink.tools.0.label>handle</CAT_MonoChargeLanceBladelink.tools.0.label>
+	<!-- EN: point -->
+	<CAT_MonoChargeLanceBladelink.tools.1.label>point</CAT_MonoChargeLanceBladelink.tools.1.label>
+	<!-- EN: edge -->
+	<CAT_MonoChargeLanceBladelink.tools.2.label>edge</CAT_MonoChargeLanceBladelink.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<CAT_MonoWhipClawBladelink.tools.0.label>shaft</CAT_MonoWhipClawBladelink.tools.0.label>
+	<!-- EN: point -->
+	<CAT_MonoWhipClawBladelink.tools.1.label>point</CAT_MonoWhipClawBladelink.tools.1.label>
+	<!-- EN: edge -->
+	<CAT_MonoWhipClawBladelink.tools.2.label>edge</CAT_MonoWhipClawBladelink.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<CAT_MonoGlaiveBladelink.tools.0.label>shaft</CAT_MonoGlaiveBladelink.tools.0.label>
+	<!-- EN: point -->
+	<CAT_MonoGlaiveBladelink.tools.1.label>point</CAT_MonoGlaiveBladelink.tools.1.label>
+	<!-- EN: edge -->
+	<CAT_MonoGlaiveBladelink.tools.2.label>edge</CAT_MonoGlaiveBladelink.tools.2.label>
+	
+	<!-- EN: handle -->
+	<CAT_MonoBastardSwordBladelink.tools.0.label>handle</CAT_MonoBastardSwordBladelink.tools.0.label>
+	<!-- EN: point -->
+	<CAT_MonoBastardSwordBladelink.tools.1.label>point</CAT_MonoBastardSwordBladelink.tools.1.label>
+	<!-- EN: edge -->
+	<CAT_MonoBastardSwordBladelink.tools.2.label>edge</CAT_MonoBastardSwordBladelink.tools.2.label>
+	
+	<!-- EN: handle -->
+	<CAT_MonoBusterSwordBladelink.tools.0.label>handle</CAT_MonoBusterSwordBladelink.tools.0.label>
+	<!-- EN: point -->
+	<CAT_MonoBusterSwordBladelink.tools.1.label>point</CAT_MonoBusterSwordBladelink.tools.1.label>
+	<!-- EN: edge -->
+	<CAT_MonoBusterSwordBladelink.tools.2.label>edge</CAT_MonoBusterSwordBladelink.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<CAT_MonoWarSpearBladelink.tools.0.label>shaft</CAT_MonoWarSpearBladelink.tools.0.label>
+	<!-- EN: point -->
+	<CAT_MonoWarSpearBladelink.tools.1.label>point</CAT_MonoWarSpearBladelink.tools.1.label>
+	<!-- EN: edge -->
+	<CAT_MonoWarSpearBladelink.tools.2.label>edge</CAT_MonoWarSpearBladelink.tools.2.label>
+	
+	<!-- EN: handle -->
+	<CAT_MonoOdachiBladelink.tools.0.label>handle</CAT_MonoOdachiBladelink.tools.0.label>
+	<!-- EN: point -->
+	<CAT_MonoOdachiBladelink.tools.1.label>point</CAT_MonoOdachiBladelink.tools.1.label>
+	<!-- EN: edge -->
+	<CAT_MonoOdachiBladelink.tools.2.label>edge</CAT_MonoOdachiBladelink.tools.2.label>
+	
+	<!-- EN: handle -->
+	<CAT_MonoGreatswordBladelink.tools.0.label>handle</CAT_MonoGreatswordBladelink.tools.0.label>
+	<!-- EN: point -->
+	<CAT_MonoGreatswordBladelink.tools.1.label>point</CAT_MonoGreatswordBladelink.tools.1.label>
+	<!-- EN: edge -->
+	<CAT_MonoGreatswordBladelink.tools.2.label>edge</CAT_MonoGreatswordBladelink.tools.2.label>
+	
+	<!-- EN: handle -->
+	<CAT_MonoStellicSwordBladelink.tools.0.label>handle</CAT_MonoStellicSwordBladelink.tools.0.label>
+	<!-- EN: point -->
+	<CAT_MonoStellicSwordBladelink.tools.1.label>point</CAT_MonoStellicSwordBladelink.tools.1.label>
+	<!-- EN: edge -->
+	<CAT_MonoStellicSwordBladelink.tools.2.label>edge</CAT_MonoStellicSwordBladelink.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<CAT_MonoStellicSpearBladelink.tools.0.label>shaft</CAT_MonoStellicSpearBladelink.tools.0.label>
+	<!-- EN: point -->
+	<CAT_MonoStellicSpearBladelink.tools.1.label>point</CAT_MonoStellicSpearBladelink.tools.1.label>
+	<!-- EN: edge -->
+	<CAT_MonoStellicSpearBladelink.tools.2.label>edge</CAT_MonoStellicSpearBladelink.tools.2.label>
+</LanguageData>

@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Frontline - Trenches\Defs\Frontline - Trenches\FrontlineTrenches_AmmoPatch.xml -->
+	<!-- EN: TR Mortar Grenade -->
+	<AmmoTRMortarGrenades.label>TR Mortar Grenade</AmmoTRMortarGrenades.label>
+	<!-- EN: TRHowitzer Shell -->
+	<AmmoTRHowitzerShells.label>TRHowitzer Shell</AmmoTRHowitzerShells.label>
+	<!-- EN: TRPAK Shell -->
+	<AmmoTRPAKShells.label>TRPAK Shell</AmmoTRPAKShells.label>
+</LanguageData>

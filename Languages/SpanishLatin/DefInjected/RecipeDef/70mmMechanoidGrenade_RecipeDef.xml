@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- Defs\Ammo\Advanced\70mmMechanoidGrenade.xml -->
+	
+	<!-- EN: make 70mm Mechanoid HE Grenade x5 -->
+	<MakeAmmo_70mmMechanoidGrenade_HE.label>make 70mm Mechanoid HE Grenade x5</MakeAmmo_70mmMechanoidGrenade_HE.label>
+	<!-- EN: Craft 5 70mm Mechanoid HE Grenades. -->
+	<MakeAmmo_70mmMechanoidGrenade_HE.description>Craft 5 70mm Mechanoid HE Grenades.</MakeAmmo_70mmMechanoidGrenade_HE.description>
+	<!-- EN: Making 70mm Mechanoid HE Grenades. -->
+	<MakeAmmo_70mmMechanoidGrenade_HE.jobString>Making 70mm Mechanoid HE Grenades.</MakeAmmo_70mmMechanoidGrenade_HE.jobString>
+	
+	<!-- EN: make 70mm Mechanoid EMP Grenade x5 -->
+	<MakeAmmo_70mmMechanoidGrenade_EMP.label>make 70mm Mechanoid EMP Grenade x5</MakeAmmo_70mmMechanoidGrenade_EMP.label>
+	<!-- EN: Craft 5 70mm Mechanoid EMP Grenades. -->
+	<MakeAmmo_70mmMechanoidGrenade_EMP.description>Craft 5 70mm Mechanoid EMP Grenades.</MakeAmmo_70mmMechanoidGrenade_EMP.description>
+	<!-- EN: Making 70mm Mechanoid EMP Grenades. -->
+	<MakeAmmo_70mmMechanoidGrenade_EMP.jobString>Making 70mm Mechanoid EMP Grenades.</MakeAmmo_70mmMechanoidGrenade_EMP.jobString>
+</LanguageData>

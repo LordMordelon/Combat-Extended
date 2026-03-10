@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla Weapons Expanded\Defs\Vanilla Weapons Expanded\Ammo\Recipes.xml -->
+	<!-- EN: make throwing rocks x10 -->
+	<MakeThrowingRocks.label>make throwing rocks x10</MakeThrowingRocks.label>
+	<!-- EN: Craft 10 throwing rocks. -->
+	<MakeThrowingRocks.description>Craft 10 throwing rocks.</MakeThrowingRocks.description>
+	<!-- EN: Making throwing rocks. -->
+	<MakeThrowingRocks.jobString>Making throwing rocks.</MakeThrowingRocks.jobString>
+	
+	<!-- EN: make throwing knives x10 -->
+	<MakeVWEThrowingKnives.label>make throwing knives x10</MakeVWEThrowingKnives.label>
+	<!-- EN: Craft 10 throwing knives. -->
+	<MakeVWEThrowingKnives.description>Craft 10 throwing knives.</MakeVWEThrowingKnives.description>
+	<!-- EN: Making throwing knives. -->
+	<MakeVWEThrowingKnives.jobString>Making throwing knives.</MakeVWEThrowingKnives.jobString>
+</LanguageData>

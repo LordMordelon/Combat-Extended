@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\Reinforced Mechanoid 2\Defs\Reinforced Mechanoid 2\RM_Grenade.xml -->
+	<!-- EN: immolator grenade -->
+	<RM_Weapon_GrenadePlasmaImmolator_CE.label>immolator grenade</RM_Weapon_GrenadePlasmaImmolator_CE.label>
+	<!-- EN: A stack of antipersonnel plasma pulse grenades. The resulting explosion will ignite anything nearby. -->
+	<RM_Weapon_GrenadePlasmaImmolator_CE.description>A stack of antipersonnel plasma pulse grenades. The resulting explosion will ignite anything nearby.</RM_Weapon_GrenadePlasmaImmolator_CE.description>
+	<!-- EN: throw immolator grenade -->
+	<RM_Weapon_GrenadePlasmaImmolator_CE.verbs.0.label>throw immolator grenade</RM_Weapon_GrenadePlasmaImmolator_CE.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<RM_Weapon_GrenadePlasmaImmolator_CE.verbs.Verb_LaunchProjectile.label>ㅤ</RM_Weapon_GrenadePlasmaImmolator_CE.verbs.Verb_LaunchProjectile.label>
+</LanguageData>

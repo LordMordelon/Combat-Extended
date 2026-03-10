@@ -1,0 +1,10 @@
+<LanguageData>
+	<!-- ModPatches\Rimedieval - Medieval Royalty\Defs\Rimedieval - Medieval Royalty\Ammo_FirepotBomb.xml -->
+	
+	<!-- EN: make firepot bombs x10 -->
+	<MakeFirePotBomb.label>make firepot bombs x10</MakeFirePotBomb.label>
+	<!-- EN: Craft 10 fire bombs. -->
+	<MakeFirePotBomb.description>Craft 10 fire bombs.</MakeFirePotBomb.description>
+	<!-- EN: Making fire bombs. -->
+	<MakeFirePotBomb.jobString>Making fire bombs.</MakeFirePotBomb.jobString>
+</LanguageData>

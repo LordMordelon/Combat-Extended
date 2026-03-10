@@ -1,0 +1,184 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\CP_RimmuNation_Weapons\RNW_CE_Patch_RangedIndustrial_M_BoltAction1510.xml -->
+	<!-- EN: stock -->
+	<RNGun_AW50Sn.tools.0.label>stock</RNGun_AW50Sn.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_AW50Sn.tools.1.label>barrel</RNGun_AW50Sn.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_AW50Sn.tools.2.label>muzzle</RNGun_AW50Sn.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_C14TimberwolfSn.tools.0.label>stock</RNGun_C14TimberwolfSn.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_C14TimberwolfSn.tools.1.label>barrel</RNGun_C14TimberwolfSn.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_C14TimberwolfSn.tools.2.label>muzzle</RNGun_C14TimberwolfSn.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_C3A1Sn.tools.0.label>stock</RNGun_C3A1Sn.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_C3A1Sn.tools.1.label>barrel</RNGun_C3A1Sn.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_C3A1Sn.tools.2.label>muzzle</RNGun_C3A1Sn.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_CDX33PatriotLiteSn.tools.0.label>stock</RNGun_CDX33PatriotLiteSn.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_CDX33PatriotLiteSn.tools.1.label>barrel</RNGun_CDX33PatriotLiteSn.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_CDX33PatriotLiteSn.tools.2.label>muzzle</RNGun_CDX33PatriotLiteSn.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_CSLR4Sn.tools.0.label>stock</RNGun_CSLR4Sn.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_CSLR4Sn.tools.1.label>barrel</RNGun_CSLR4Sn.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_CSLR4Sn.tools.2.label>muzzle</RNGun_CSLR4Sn.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_DesertTechHTISn.tools.0.label>stock</RNGun_DesertTechHTISn.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_DesertTechHTISn.tools.1.label>barrel</RNGun_DesertTechHTISn.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_DesertTechHTISn.tools.2.label>muzzle</RNGun_DesertTechHTISn.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_DesertTechSRS.tools.0.label>stock</RNGun_DesertTechSRS.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_DesertTechSRS.tools.1.label>barrel</RNGun_DesertTechSRS.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_DesertTechSRS.tools.2.label>muzzle</RNGun_DesertTechSRS.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_FNBallista.tools.0.label>stock</RNGun_FNBallista.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_FNBallista.tools.1.label>barrel</RNGun_FNBallista.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_FNBallista.tools.2.label>muzzle</RNGun_FNBallista.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_GOLMagnumSn.tools.0.label>stock</RNGun_GOLMagnumSn.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_GOLMagnumSn.tools.1.label>barrel</RNGun_GOLMagnumSn.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_GOLMagnumSn.tools.2.label>muzzle</RNGun_GOLMagnumSn.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_HaenelRS9Sn.tools.0.label>stock</RNGun_HaenelRS9Sn.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_HaenelRS9Sn.tools.1.label>barrel</RNGun_HaenelRS9Sn.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_HaenelRS9Sn.tools.2.label>muzzle</RNGun_HaenelRS9Sn.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_InterventionSn.tools.0.label>stock</RNGun_InterventionSn.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_InterventionSn.tools.1.label>barrel</RNGun_InterventionSn.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_InterventionSn.tools.2.label>muzzle</RNGun_InterventionSn.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_Kar98k.tools.0.label>stock</RNGun_Kar98k.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_Kar98k.tools.1.label>barrel</RNGun_Kar98k.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_Kar98k.tools.2.label>muzzle</RNGun_Kar98k.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_L115A3Sn.tools.0.label>stock</RNGun_L115A3Sn.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_L115A3Sn.tools.1.label>barrel</RNGun_L115A3Sn.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_L115A3Sn.tools.2.label>muzzle</RNGun_L115A3Sn.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_L96A1Sn.tools.0.label>stock</RNGun_L96A1Sn.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_L96A1Sn.tools.1.label>barrel</RNGun_L96A1Sn.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_L96A1Sn.tools.2.label>muzzle</RNGun_L96A1Sn.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_LeeEnfield.tools.0.label>stock</RNGun_LeeEnfield.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_LeeEnfield.tools.1.label>barrel</RNGun_LeeEnfield.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_LeeEnfield.tools.2.label>muzzle</RNGun_LeeEnfield.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_M24A2SDSn.tools.0.label>stock</RNGun_M24A2SDSn.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_M24A2SDSn.tools.1.label>barrel</RNGun_M24A2SDSn.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_M24A2SDSn.tools.2.label>muzzle</RNGun_M24A2SDSn.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_M24A2Sn.tools.0.label>stock</RNGun_M24A2Sn.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_M24A2Sn.tools.1.label>barrel</RNGun_M24A2Sn.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_M24A2Sn.tools.2.label>muzzle</RNGun_M24A2Sn.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_M40A3Sn.tools.0.label>stock</RNGun_M40A3Sn.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_M40A3Sn.tools.1.label>barrel</RNGun_M40A3Sn.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_M40A3Sn.tools.2.label>muzzle</RNGun_M40A3Sn.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_MosinNagant.tools.0.label>stock</RNGun_MosinNagant.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_MosinNagant.tools.1.label>barrel</RNGun_MosinNagant.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_MosinNagant.tools.2.label>muzzle</RNGun_MosinNagant.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_R700Sn.tools.0.label>stock</RNGun_R700Sn.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_R700Sn.tools.1.label>barrel</RNGun_R700Sn.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_R700Sn.tools.2.label>muzzle</RNGun_R700Sn.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_RemingtonMSR.tools.0.label>stock</RNGun_RemingtonMSR.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_RemingtonMSR.tools.1.label>barrel</RNGun_RemingtonMSR.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_RemingtonMSR.tools.2.label>muzzle</RNGun_RemingtonMSR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_SNIPEXM75Sn.tools.0.label>stock</RNGun_SNIPEXM75Sn.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_SNIPEXM75Sn.tools.1.label>barrel</RNGun_SNIPEXM75Sn.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_SNIPEXM75Sn.tools.2.label>muzzle</RNGun_SNIPEXM75Sn.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_SSG08Sn.tools.0.label>stock</RNGun_SSG08Sn.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_SSG08Sn.tools.1.label>barrel</RNGun_SSG08Sn.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_SSG08Sn.tools.2.label>muzzle</RNGun_SSG08Sn.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_SV98Sn.tools.0.label>stock</RNGun_SV98Sn.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_SV98Sn.tools.1.label>barrel</RNGun_SV98Sn.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_SV98Sn.tools.2.label>muzzle</RNGun_SV98Sn.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_TAC50Sn.tools.0.label>stock</RNGun_TAC50Sn.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_TAC50Sn.tools.1.label>barrel</RNGun_TAC50Sn.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_TAC50Sn.tools.2.label>muzzle</RNGun_TAC50Sn.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_ZastavaM07Sn.tools.0.label>stock</RNGun_ZastavaM07Sn.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_ZastavaM07Sn.tools.1.label>barrel</RNGun_ZastavaM07Sn.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_ZastavaM07Sn.tools.2.label>muzzle</RNGun_ZastavaM07Sn.tools.2.label>
+</LanguageData>

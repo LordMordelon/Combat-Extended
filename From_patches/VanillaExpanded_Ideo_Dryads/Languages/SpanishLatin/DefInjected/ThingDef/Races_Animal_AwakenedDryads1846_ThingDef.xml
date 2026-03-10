@@ -1,0 +1,72 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_Ideo_Dryads\Races_Animal_AwakenedDryads1846.xml -->
+	<!-- EN: left claw -->
+	<VDE_AwakenedDryad_Carrier.tools.0.label>left claw</VDE_AwakenedDryad_Carrier.tools.0.label>
+	<!-- EN: right claw -->
+	<VDE_AwakenedDryad_Carrier.tools.1.label>right claw</VDE_AwakenedDryad_Carrier.tools.1.label>
+	<!-- EN: head -->
+	<VDE_AwakenedDryad_Carrier.tools.3.label>head</VDE_AwakenedDryad_Carrier.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<VDE_AwakenedDryad_Clawer.tools.0.label>left claw</VDE_AwakenedDryad_Clawer.tools.0.label>
+	<!-- EN: right claw -->
+	<VDE_AwakenedDryad_Clawer.tools.1.label>right claw</VDE_AwakenedDryad_Clawer.tools.1.label>
+	<!-- EN: head -->
+	<VDE_AwakenedDryad_Clawer.tools.3.label>head</VDE_AwakenedDryad_Clawer.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<VDE_AwakenedDryad_Barkskin.tools.0.label>left claw</VDE_AwakenedDryad_Barkskin.tools.0.label>
+	<!-- EN: right claw -->
+	<VDE_AwakenedDryad_Barkskin.tools.1.label>right claw</VDE_AwakenedDryad_Barkskin.tools.1.label>
+	<!-- EN: head -->
+	<VDE_AwakenedDryad_Barkskin.tools.3.label>head</VDE_AwakenedDryad_Barkskin.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<VDE_AwakenedDryad_Woodmaker.tools.0.label>left claw</VDE_AwakenedDryad_Woodmaker.tools.0.label>
+	<!-- EN: right claw -->
+	<VDE_AwakenedDryad_Woodmaker.tools.1.label>right claw</VDE_AwakenedDryad_Woodmaker.tools.1.label>
+	<!-- EN: head -->
+	<VDE_AwakenedDryad_Woodmaker.tools.3.label>head</VDE_AwakenedDryad_Woodmaker.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<VDE_AwakenedDryad_Medicinemaker.tools.0.label>left claw</VDE_AwakenedDryad_Medicinemaker.tools.0.label>
+	<!-- EN: right claw -->
+	<VDE_AwakenedDryad_Medicinemaker.tools.1.label>right claw</VDE_AwakenedDryad_Medicinemaker.tools.1.label>
+	<!-- EN: head -->
+	<VDE_AwakenedDryad_Medicinemaker.tools.3.label>head</VDE_AwakenedDryad_Medicinemaker.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<VDE_AwakenedDryad_Berrymaker.tools.0.label>left claw</VDE_AwakenedDryad_Berrymaker.tools.0.label>
+	<!-- EN: right claw -->
+	<VDE_AwakenedDryad_Berrymaker.tools.1.label>right claw</VDE_AwakenedDryad_Berrymaker.tools.1.label>
+	<!-- EN: head -->
+	<VDE_AwakenedDryad_Berrymaker.tools.3.label>head</VDE_AwakenedDryad_Berrymaker.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<VDE_AwakenedDryad_Stonedigger.tools.0.label>left claw</VDE_AwakenedDryad_Stonedigger.tools.0.label>
+	<!-- EN: right claw -->
+	<VDE_AwakenedDryad_Stonedigger.tools.1.label>right claw</VDE_AwakenedDryad_Stonedigger.tools.1.label>
+	<!-- EN: head -->
+	<VDE_AwakenedDryad_Stonedigger.tools.3.label>head</VDE_AwakenedDryad_Stonedigger.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<VDE_AwakenedDryad_Nectarmaker.tools.0.label>left claw</VDE_AwakenedDryad_Nectarmaker.tools.0.label>
+	<!-- EN: right claw -->
+	<VDE_AwakenedDryad_Nectarmaker.tools.1.label>right claw</VDE_AwakenedDryad_Nectarmaker.tools.1.label>
+	<!-- EN: head -->
+	<VDE_AwakenedDryad_Nectarmaker.tools.3.label>head</VDE_AwakenedDryad_Nectarmaker.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<VDE_AwakenedDryad_Spitter.tools.0.label>left claw</VDE_AwakenedDryad_Spitter.tools.0.label>
+	<!-- EN: right claw -->
+	<VDE_AwakenedDryad_Spitter.tools.1.label>right claw</VDE_AwakenedDryad_Spitter.tools.1.label>
+	<!-- EN: head -->
+	<VDE_AwakenedDryad_Spitter.tools.3.label>head</VDE_AwakenedDryad_Spitter.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<VDE_AwakenedDryad_Gaubricmaker.tools.0.label>left claw</VDE_AwakenedDryad_Gaubricmaker.tools.0.label>
+	<!-- EN: right claw -->
+	<VDE_AwakenedDryad_Gaubricmaker.tools.1.label>right claw</VDE_AwakenedDryad_Gaubricmaker.tools.1.label>
+	<!-- EN: head -->
+	<VDE_AwakenedDryad_Gaubricmaker.tools.3.label>head</VDE_AwakenedDryad_Gaubricmaker.tools.3.label>
+</LanguageData>

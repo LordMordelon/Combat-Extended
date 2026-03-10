@@ -1,0 +1,40 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\GF40K_IoM_Weaponry\GF40K_RegularWeapons1949.xml -->
+	<!-- EN: backside -->
+	<GF40K_ChainSword.tools.0.label>backside</GF40K_ChainSword.tools.0.label>
+	<!-- EN: chain -->
+	<GF40K_ChainSword.tools.1.label>chain</GF40K_ChainSword.tools.1.label>
+	<!-- EN: handle -->
+	<GF40K_ChainSword.tools.2.label>handle</GF40K_ChainSword.tools.2.label>
+	
+	<!-- EN: chain -->
+	<GF40K_ChainAxe.tools.0.label>chain</GF40K_ChainAxe.tools.0.label>
+	<!-- EN: handle -->
+	<GF40K_ChainAxe.tools.1.label>handle</GF40K_ChainAxe.tools.1.label>
+	
+	<!-- EN: backside -->
+	<GF40K_Eviscerator.tools.0.label>backside</GF40K_Eviscerator.tools.0.label>
+	<!-- EN: chain -->
+	<GF40K_Eviscerator.tools.1.label>chain</GF40K_Eviscerator.tools.1.label>
+	<!-- EN: handle -->
+	<GF40K_Eviscerator.tools.2.label>handle</GF40K_Eviscerator.tools.2.label>
+	
+	<!-- EN: chain -->
+	<GF40K_Chainspear.tools.0.label>chain</GF40K_Chainspear.tools.0.label>
+	<!-- EN: handle -->
+	<GF40K_Chainspear.tools.1.label>handle</GF40K_Chainspear.tools.1.label>
+	
+	<!-- EN: point -->
+	<GF40K_PowerSabre.tools.0.label>point</GF40K_PowerSabre.tools.0.label>
+	<!-- EN: blade -->
+	<GF40K_PowerSabre.tools.1.label>blade</GF40K_PowerSabre.tools.1.label>
+	<!-- EN: handle -->
+	<GF40K_PowerSabre.tools.2.label>handle</GF40K_PowerSabre.tools.2.label>
+	
+	<!-- EN: point -->
+	<GF40K_PowerSword.tools.0.label>point</GF40K_PowerSword.tools.0.label>
+	<!-- EN: blade -->
+	<GF40K_PowerSword.tools.1.label>blade</GF40K_PowerSword.tools.1.label>
+	<!-- EN: handle -->
+	<GF40K_PowerSword.tools.2.label>handle</GF40K_PowerSword.tools.2.label>
+</LanguageData>

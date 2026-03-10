@@ -1,0 +1,41 @@
+<LanguageData>
+	<!-- ModPatches\Outer Rim - Core\Defs\Outer Rim - Core\Outer_Rim_Core_Ammo.xml -->
+	<!-- EN: Pistol Plasma Gas Cartridges (Imperial/Sith) -->
+	<AmmoSet_PlasmaGasCartridgeRed_Pistol.label>Pistol Plasma Gas Cartridges (Imperial/Sith)</AmmoSet_PlasmaGasCartridgeRed_Pistol.label>
+	<!-- EN: Rifle Plasma Gas Cartridges (Imperial/Sith) -->
+	<AmmoSet_PlasmaGasCartridgeRed_Rifle.label>Rifle Plasma Gas Cartridges (Imperial/Sith)</AmmoSet_PlasmaGasCartridgeRed_Rifle.label>
+	<!-- EN: Heavy Plasma Gas Cartridges (Imperial/Sith) -->
+	<AmmoSet_PlasmaGasCartridgeRed_Sniper.label>Heavy Plasma Gas Cartridges (Imperial/Sith)</AmmoSet_PlasmaGasCartridgeRed_Sniper.label>
+	<!-- EN: Pistol Plasma Gas Cartridges (Rebel/Old Republic) -->
+	<AmmoSet_PlasmaGasCartridgeGreen_Pistol.label>Pistol Plasma Gas Cartridges (Rebel/Old Republic)</AmmoSet_PlasmaGasCartridgeGreen_Pistol.label>
+	<!-- EN: Rifle Plasma Gas Cartridges (Rebel/Old Republic) -->
+	<AmmoSet_PlasmaGasCartridgeGreen_Rifle.label>Rifle Plasma Gas Cartridges (Rebel/Old Republic)</AmmoSet_PlasmaGasCartridgeGreen_Rifle.label>
+	<!-- EN: Heavy Plasma Gas Cartridges (Rebel/Old Republic) -->
+	<AmmoSet_PlasmaGasCartridgeGreen_Sniper.label>Heavy Plasma Gas Cartridges (Rebel/Old Republic)</AmmoSet_PlasmaGasCartridgeGreen_Sniper.label>
+	<!-- EN: Plasma Gas Cartridges (Galactic Republic) -->
+	<AmmoSet_PlasmaGasCartridgeBlue_Pistol.label>Plasma Gas Cartridges (Galactic Republic)</AmmoSet_PlasmaGasCartridgeBlue_Pistol.label>
+	<!-- EN: Rifle Plasma Gas Cartridges (Galactic Republic) -->
+	<AmmoSet_PlasmaGasCartridgeBlue_Rifle.label>Rifle Plasma Gas Cartridges (Galactic Republic)</AmmoSet_PlasmaGasCartridgeBlue_Rifle.label>
+	<!-- EN: Heavy Plasma Gas Cartridges (Galactic Republic) -->
+	<AmmoSet_PlasmaGasCartridgeBlue_Sniper.label>Heavy Plasma Gas Cartridges (Galactic Republic)</AmmoSet_PlasmaGasCartridgeBlue_Sniper.label>
+	<!-- EN: Pistol Plasma Gas Cartridges (Chiss/Mandalorian) -->
+	<AmmoSet_PlasmaGasCartridgeYellow_Pistol.label>Pistol Plasma Gas Cartridges (Chiss/Mandalorian)</AmmoSet_PlasmaGasCartridgeYellow_Pistol.label>
+	<!-- EN: Rifle Plasma Gas Cartridges (Chiss/Mandalorian) -->
+	<AmmoSet_PlasmaGasCartridgeYellow_Rifle.label>Rifle Plasma Gas Cartridges (Chiss/Mandalorian)</AmmoSet_PlasmaGasCartridgeYellow_Rifle.label>
+	<!-- EN: Heavy Plasma Gas Cartridges (Chiss/Mandalorian) -->
+	<AmmoSet_PlasmaGasCartridgeYellow_Sniper.label>Heavy Plasma Gas Cartridges (Chiss/Mandalorian)</AmmoSet_PlasmaGasCartridgeYellow_Sniper.label>
+	<!-- EN: Scatterblaster Plasma Gas Cartridges -->
+	<AmmoSet_PlasmaGasCartridge_Scatter.label>Scatterblaster Plasma Gas Cartridges</AmmoSet_PlasmaGasCartridge_Scatter.label>
+	<!-- EN: Dual Shot Plasma Gas Cartridges -->
+	<AmmoSet_PlasmaGasCartridge_DualShot.label>Dual Shot Plasma Gas Cartridges</AmmoSet_PlasmaGasCartridge_DualShot.label>
+	<!-- EN: Ionized Pistol Plasma Gas Cartridges -->
+	<AmmoSet_PlasmaGasCartridgeIon_Pistol.label>Ionized Pistol Plasma Gas Cartridges</AmmoSet_PlasmaGasCartridgeIon_Pistol.label>
+	<!-- EN: Ionized Rifle Plasma Gas Cartridges -->
+	<AmmoSet_PlasmaGasCartridgeIon_Rifle.label>Ionized Rifle Plasma Gas Cartridges</AmmoSet_PlasmaGasCartridgeIon_Rifle.label>
+	<!-- EN: Heavy Ionized Plasma Gas Cartridges -->
+	<AmmoSet_PlasmaGasCartridgeIon_Sniper.label>Heavy Ionized Plasma Gas Cartridges</AmmoSet_PlasmaGasCartridgeIon_Sniper.label>
+	<!-- EN: antipersonnel rockets -->
+	<AmmoSet_OuterRimMiniRockets.label>antipersonnel rockets</AmmoSet_OuterRimMiniRockets.label>
+	<!-- EN: RPS-6 Rockets -->
+	<AmmoSet_OuterRimRockets.label>RPS-6 Rockets</AmmoSet_OuterRimRockets.label>
+</LanguageData>

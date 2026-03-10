@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\rimsenal_federation\Fed_Explosives1542.xml -->
+	<!-- EN: plasma grenade -->
+	<AD_FedPlasmaGrenades.label>plasma grenade</AD_FedPlasmaGrenades.label>
+	<!-- EN: throw plasma grenade -->
+	<AD_FedPlasmaGrenades.Properties.label>throw plasma grenade</AD_FedPlasmaGrenades.Properties.label>
+	
+	<!-- EN: fusion device -->
+	<Bullet_PBomb.label>fusion device</Bullet_PBomb.label>
+	
+	<!-- EN: plasma bomb -->
+	<AD_PBomb.label>plasma bomb</AD_PBomb.label>
+	<!-- EN: A portable plasma reactor converted to suicide bombing. -->
+	<AD_PBomb.description>A portable plasma reactor converted to suicide bombing.</AD_PBomb.description>
+	<!-- EN: Body -->
+	<AD_PBomb.tools.0.label>Body</AD_PBomb.tools.0.label>
+	<!-- EN: detonate suicide vest -->
+	<AD_PBomb.verbs.0.label>detonate suicide vest</AD_PBomb.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<AD_PBomb.verbs.CombatExtended.Verb_ShootCEOneUse.label>ㅤ</AD_PBomb.verbs.CombatExtended.Verb_ShootCEOneUse.label>
+	
+	<!-- EN: Body -->
+	<AD_FedPlasmaGrenades.tools.0.label>Body</AD_FedPlasmaGrenades.tools.0.label>
+	
+	<!-- EN: Body -->
+	<AD_PBomb.tools.0.label>Body</AD_PBomb.tools.0.label>
+</LanguageData>

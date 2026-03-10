@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Defs\Ammo\Advanced\PlasmaCellPistol.xml -->
+	<!-- EN: plasma pistol power cell -->
+	<Ammo_PlasmaCellPistol.label>plasma pistol power cell</Ammo_PlasmaCellPistol.label>
+	<!-- EN: Plasma containment power cell optimized for pistols -->
+	<Ammo_PlasmaCellPistol.description>Plasma containment power cell optimized for pistols</Ammo_PlasmaCellPistol.description>
+	<!-- EN: Plasma Bolt -->
+	<Bullet_PlasmaCellPistol.label>Plasma Bolt</Bullet_PlasmaCellPistol.label>
+</LanguageData>

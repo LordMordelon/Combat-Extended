@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- ModPatches\RH2 Helldivers Super Firearms\Defs\RH2 Helldivers Super Firearms\Ammo\13x40_Presidential.xml -->
+	
+	<!-- EN: 13x40mm Presidential (FMJ) -->
+	<Ammo_13x40Prez_FMJ.label>13x40mm Presidential (FMJ)</Ammo_13x40Prez_FMJ.label>
+	<!-- EN: Designed for big game hunting, this is one of the most powerful handgun cartridges ever designed. It is reserved for the heavy-framed Senator revolver. -->
+	<Ammo_13x40Prez_FMJ.description>Designed for big game hunting, this is one of the most powerful handgun cartridges ever designed. It is reserved for the heavy-framed Senator revolver.</Ammo_13x40Prez_FMJ.description>
+	
+	<!-- EN: 13x40mm Presidential (AP) -->
+	<Ammo_13x40Prez_AP.label>13x40mm Presidential (AP)</Ammo_13x40Prez_AP.label>
+	<!-- EN: Designed for big game hunting, this is one of the most powerful handgun cartridges ever designed. It is reserved for the heavy-framed Senator revolver. -->
+	<Ammo_13x40Prez_AP.description>Designed for big game hunting, this is one of the most powerful handgun cartridges ever designed. It is reserved for the heavy-framed Senator revolver.</Ammo_13x40Prez_AP.description>
+	
+	<!-- EN: 13x40mm Presidential (HP) -->
+	<Ammo_13x40Prez_HP.label>13x40mm Presidential (HP)</Ammo_13x40Prez_HP.label>
+	<!-- EN: Designed for big game hunting, this is one of the most powerful handgun cartridges ever designed. It is reserved for the heavy-framed Senator revolver. -->
+	<Ammo_13x40Prez_HP.description>Designed for big game hunting, this is one of the most powerful handgun cartridges ever designed. It is reserved for the heavy-framed Senator revolver.</Ammo_13x40Prez_HP.description>
+	
+	<!-- EN: .500 Smith Wessen Magnum bullet (FMJ) -->
+	<Bullet_13x40Prez_FMJ.label>.500 Smith Wessen Magnum bullet (FMJ)</Bullet_13x40Prez_FMJ.label>
+	
+	<!-- EN: .500 Smith Wessen Magnum bullet (AP) -->
+	<Bullet_13x40Prez_AP.label>.500 Smith Wessen Magnum bullet (AP)</Bullet_13x40Prez_AP.label>
+	
+	<!-- EN: .500 Smith Wessen Magnum bullet (HP) -->
+	<Bullet_13x40Prez_HP.label>.500 Smith Wessen Magnum bullet (HP)</Bullet_13x40Prez_HP.label>
+</LanguageData>

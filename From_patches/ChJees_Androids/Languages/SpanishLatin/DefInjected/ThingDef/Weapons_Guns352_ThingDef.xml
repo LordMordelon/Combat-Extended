@@ -1,0 +1,21 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\ChJees_Androids\Weapons_Guns352.xml -->
+	<!-- EN: stock -->
+	<Gun_ChjCoreLauncher.tools.0.label>stock</Gun_ChjCoreLauncher.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_ChjCoreLauncher.tools.1.label>barrel</Gun_ChjCoreLauncher.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_ChjCoreLauncher.tools.2.label>muzzle</Gun_ChjCoreLauncher.tools.2.label>
+	
+	<!-- EN: stock -->
+	<ChjAndroidGun_RebelRifle.tools.0.label>stock</ChjAndroidGun_RebelRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<ChjAndroidGun_RebelRifle.tools.1.label>barrel</ChjAndroidGun_RebelRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<ChjAndroidGun_RebelRifle.tools.2.label>muzzle</ChjAndroidGun_RebelRifle.tools.2.label>
+	
+	<!-- EN: grip -->
+	<ChjAndroidGun_Rebelpistol.tools.0.label>grip</ChjAndroidGun_Rebelpistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<ChjAndroidGun_Rebelpistol.tools.1.label>muzzle</ChjAndroidGun_Rebelpistol.tools.1.label>
+</LanguageData>

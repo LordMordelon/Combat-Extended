@@ -1,0 +1,100 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\CP_RimmuNation_2_Weapons\RM2_CE_DMR1322.xml -->
+	<!-- EN: stock -->
+	<RNGun_DragunovSVD_DMR.tools.0.label>stock</RNGun_DragunovSVD_DMR.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_DragunovSVD_DMR.tools.1.label>barrel</RNGun_DragunovSVD_DMR.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_DragunovSVD_DMR.tools.2.label>muzzle</RNGun_DragunovSVD_DMR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_PSL54_DMR.tools.0.label>stock</RNGun_PSL54_DMR.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_PSL54_DMR.tools.1.label>barrel</RNGun_PSL54_DMR.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_PSL54_DMR.tools.2.label>muzzle</RNGun_PSL54_DMR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_G28_DMR.tools.0.label>stock</RNGun_G28_DMR.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_G28_DMR.tools.1.label>barrel</RNGun_G28_DMR.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_G28_DMR.tools.2.label>muzzle</RNGun_G28_DMR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_L129A1_DMR.tools.0.label>stock</RNGun_L129A1_DMR.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_L129A1_DMR.tools.1.label>barrel</RNGun_L129A1_DMR.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_L129A1_DMR.tools.2.label>muzzle</RNGun_L129A1_DMR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_M14_DMR.tools.0.label>stock</RNGun_M14_DMR.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_M14_DMR.tools.1.label>barrel</RNGun_M14_DMR.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_M14_DMR.tools.2.label>muzzle</RNGun_M14_DMR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_M82A1_AMR.tools.0.label>stock</RNGun_M82A1_AMR.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_M82A1_AMR.tools.1.label>barrel</RNGun_M82A1_AMR.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_M82A1_AMR.tools.2.label>muzzle</RNGun_M82A1_AMR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_PSG1_DMR.tools.0.label>stock</RNGun_PSG1_DMR.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_PSG1_DMR.tools.1.label>barrel</RNGun_PSG1_DMR.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_PSG1_DMR.tools.2.label>muzzle</RNGun_PSG1_DMR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_VSSVintorez_DMR.tools.0.label>stock</RNGun_VSSVintorez_DMR.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_VSSVintorez_DMR.tools.1.label>barrel</RNGun_VSSVintorez_DMR.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_VSSVintorez_DMR.tools.2.label>muzzle</RNGun_VSSVintorez_DMR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_WA2000_DMR.tools.0.label>stock</RNGun_WA2000_DMR.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_WA2000_DMR.tools.1.label>barrel</RNGun_WA2000_DMR.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_WA2000_DMR.tools.2.label>muzzle</RNGun_WA2000_DMR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_SVU_DMR.tools.0.label>stock</RNGun_SVU_DMR.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_SVU_DMR.tools.1.label>barrel</RNGun_SVU_DMR.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_SVU_DMR.tools.2.label>muzzle</RNGun_SVU_DMR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_Mk14Mod0_DMR.tools.0.label>stock</RNGun_Mk14Mod0_DMR.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_Mk14Mod0_DMR.tools.1.label>barrel</RNGun_Mk14Mod0_DMR.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_Mk14Mod0_DMR.tools.2.label>muzzle</RNGun_Mk14Mod0_DMR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_SKSModern_DMR.tools.0.label>stock</RNGun_SKSModern_DMR.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_SKSModern_DMR.tools.1.label>barrel</RNGun_SKSModern_DMR.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_SKSModern_DMR.tools.2.label>muzzle</RNGun_SKSModern_DMR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_DesertTechSRS_DMR.tools.0.label>stock</RNGun_DesertTechSRS_DMR.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_DesertTechSRS_DMR.tools.1.label>barrel</RNGun_DesertTechSRS_DMR.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_DesertTechSRS_DMR.tools.2.label>muzzle</RNGun_DesertTechSRS_DMR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_Mk14EBRSD_DMR.tools.0.label>stock</RNGun_Mk14EBRSD_DMR.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_Mk14EBRSD_DMR.tools.1.label>barrel</RNGun_Mk14EBRSD_DMR.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_Mk14EBRSD_DMR.tools.2.label>muzzle</RNGun_Mk14EBRSD_DMR.tools.2.label>
+</LanguageData>

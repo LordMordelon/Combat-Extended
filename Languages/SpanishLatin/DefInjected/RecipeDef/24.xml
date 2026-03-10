@@ -1,0 +1,88 @@
+<LanguageData>
+	<!-- Defs\Ammo\Rifle\6.5Creedmoor.xml -->
+	
+	<!-- EN: make 6.5mm Creedmoor (FMJ) cartridge x500 -->
+	<MakeAmmo_65x48mmCreedmoor_FMJ.label>make 6.5mm Creedmoor (FMJ) cartridge x500</MakeAmmo_65x48mmCreedmoor_FMJ.label>
+	<!-- EN: Craft 500 6.5mm Creedmoor (FMJ) cartridges. -->
+	<MakeAmmo_65x48mmCreedmoor_FMJ.description>Craft 500 6.5mm Creedmoor (FMJ) cartridges.</MakeAmmo_65x48mmCreedmoor_FMJ.description>
+	<!-- EN: Making 6.5mm Creedmoor (FMJ) cartridges. -->
+	<MakeAmmo_65x48mmCreedmoor_FMJ.jobString>Making 6.5mm Creedmoor (FMJ) cartridges.</MakeAmmo_65x48mmCreedmoor_FMJ.jobString>
+	
+	<!-- EN: make 6.5mm Creedmoor (AP) cartridge x500 -->
+	<MakeAmmo_65x48mmCreedmoor_AP.label>make 6.5mm Creedmoor (AP) cartridge x500</MakeAmmo_65x48mmCreedmoor_AP.label>
+	<!-- EN: Craft 500 6.5mm Creedmoor (AP) cartridges. -->
+	<MakeAmmo_65x48mmCreedmoor_AP.description>Craft 500 6.5mm Creedmoor (AP) cartridges.</MakeAmmo_65x48mmCreedmoor_AP.description>
+	<!-- EN: Making 6.5mm Creedmoor (AP) cartridges. -->
+	<MakeAmmo_65x48mmCreedmoor_AP.jobString>Making 6.5mm Creedmoor (AP) cartridges.</MakeAmmo_65x48mmCreedmoor_AP.jobString>
+	
+	<!-- EN: make 6.5mm Creedmoor (HP) cartridge x500 -->
+	<MakeAmmo_65x48mmCreedmoor_HP.label>make 6.5mm Creedmoor (HP) cartridge x500</MakeAmmo_65x48mmCreedmoor_HP.label>
+	<!-- EN: Craft 500 6.5mm Creedmoor (HP) cartridges. -->
+	<MakeAmmo_65x48mmCreedmoor_HP.description>Craft 500 6.5mm Creedmoor (HP) cartridges.</MakeAmmo_65x48mmCreedmoor_HP.description>
+	<!-- EN: Making 6.5mm Creedmoor (HP) cartridges. -->
+	<MakeAmmo_65x48mmCreedmoor_HP.jobString>Making 6.5mm Creedmoor (HP) cartridges.</MakeAmmo_65x48mmCreedmoor_HP.jobString>
+	
+	<!-- EN: make 6.5mm Creedmoor (AP-I) cartridge x500 -->
+	<MakeAmmo_65x48mmCreedmoor_Incendiary.label>make 6.5mm Creedmoor (AP-I) cartridge x500</MakeAmmo_65x48mmCreedmoor_Incendiary.label>
+	<!-- EN: Craft 500 6.5mm Creedmoor (AP-I) cartridges. -->
+	<MakeAmmo_65x48mmCreedmoor_Incendiary.description>Craft 500 6.5mm Creedmoor (AP-I) cartridges.</MakeAmmo_65x48mmCreedmoor_Incendiary.description>
+	<!-- EN: Making 6.5mm Creedmoor (AP-I) cartridges. -->
+	<MakeAmmo_65x48mmCreedmoor_Incendiary.jobString>Making 6.5mm Creedmoor (AP-I) cartridges.</MakeAmmo_65x48mmCreedmoor_Incendiary.jobString>
+	
+	<!-- EN: make 6.5mm Creedmoor (AP-HE) cartridge x500 -->
+	<MakeAmmo_65x48mmCreedmoor_HE.label>make 6.5mm Creedmoor (AP-HE) cartridge x500</MakeAmmo_65x48mmCreedmoor_HE.label>
+	<!-- EN: Craft 500 6.5mm Creedmoor (AP-HE) cartridges. -->
+	<MakeAmmo_65x48mmCreedmoor_HE.description>Craft 500 6.5mm Creedmoor (AP-HE) cartridges.</MakeAmmo_65x48mmCreedmoor_HE.description>
+	<!-- EN: Making 6.5mm Creedmoor (AP-HE) cartridges. -->
+	<MakeAmmo_65x48mmCreedmoor_HE.jobString>Making 6.5mm Creedmoor (AP-HE) cartridges.</MakeAmmo_65x48mmCreedmoor_HE.jobString>
+	
+	<!-- EN: make 6.5mm Creedmoor (Sabot) cartridge x500 -->
+	<MakeAmmo_65x48mmCreedmoor_Sabot.label>make 6.5mm Creedmoor (Sabot) cartridge x500</MakeAmmo_65x48mmCreedmoor_Sabot.label>
+	<!-- EN: Craft 500 6.5mm Creedmoor (Sabot) cartridges. -->
+	<MakeAmmo_65x48mmCreedmoor_Sabot.description>Craft 500 6.5mm Creedmoor (Sabot) cartridges.</MakeAmmo_65x48mmCreedmoor_Sabot.description>
+	<!-- EN: Making 6.5mm Creedmoor (Sabot) cartridges. -->
+	<MakeAmmo_65x48mmCreedmoor_Sabot.jobString>Making 6.5mm Creedmoor (Sabot) cartridges.</MakeAmmo_65x48mmCreedmoor_Sabot.jobString>
+	<!-- Defs\Ammo\Rifle\6.5x52mm Carcano.xml -->
+	
+	<!-- EN: make 6.5x52mm Carcano (FMJ) cartridge x500 -->
+	<MakeAmmo_65x52mmCarcano_FMJ.label>make 6.5x52mm Carcano (FMJ) cartridge x500</MakeAmmo_65x52mmCarcano_FMJ.label>
+	<!-- EN: Craft 500 6.5x52mm Carcano (FMJ) cartridges. -->
+	<MakeAmmo_65x52mmCarcano_FMJ.description>Craft 500 6.5x52mm Carcano (FMJ) cartridges.</MakeAmmo_65x52mmCarcano_FMJ.description>
+	<!-- EN: Making 6.5x52mm Carcano (FMJ) cartridges. -->
+	<MakeAmmo_65x52mmCarcano_FMJ.jobString>Making 6.5x52mm Carcano (FMJ) cartridges.</MakeAmmo_65x52mmCarcano_FMJ.jobString>
+	
+	<!-- EN: make 6.5x52mm Carcano (AP) cartridge x500 -->
+	<MakeAmmo_65x52mmCarcano_AP.label>make 6.5x52mm Carcano (AP) cartridge x500</MakeAmmo_65x52mmCarcano_AP.label>
+	<!-- EN: Craft 500 6.5x52mm Carcano (AP) cartridges. -->
+	<MakeAmmo_65x52mmCarcano_AP.description>Craft 500 6.5x52mm Carcano (AP) cartridges.</MakeAmmo_65x52mmCarcano_AP.description>
+	<!-- EN: Making 6.5x52mm Carcano (AP) cartridges. -->
+	<MakeAmmo_65x52mmCarcano_AP.jobString>Making 6.5x52mm Carcano (AP) cartridges.</MakeAmmo_65x52mmCarcano_AP.jobString>
+	
+	<!-- EN: make 6.5x52mm Carcano (HP) cartridge x500 -->
+	<MakeAmmo_65x52mmCarcano_HP.label>make 6.5x52mm Carcano (HP) cartridge x500</MakeAmmo_65x52mmCarcano_HP.label>
+	<!-- EN: Craft 500 6.5x52mm Carcano (HP) cartridges. -->
+	<MakeAmmo_65x52mmCarcano_HP.description>Craft 500 6.5x52mm Carcano (HP) cartridges.</MakeAmmo_65x52mmCarcano_HP.description>
+	<!-- EN: Making 6.5x52mm Carcano (HP) cartridges. -->
+	<MakeAmmo_65x52mmCarcano_HP.jobString>Making 6.5x52mm Carcano (HP) cartridges.</MakeAmmo_65x52mmCarcano_HP.jobString>
+	
+	<!-- EN: make 6.5x52mm Carcano (AP-I) cartridge x500 -->
+	<MakeAmmo_65x52mmCarcano_Incendiary.label>make 6.5x52mm Carcano (AP-I) cartridge x500</MakeAmmo_65x52mmCarcano_Incendiary.label>
+	<!-- EN: Craft 500 6.5x52mm Carcano (AP-I) cartridges. -->
+	<MakeAmmo_65x52mmCarcano_Incendiary.description>Craft 500 6.5x52mm Carcano (AP-I) cartridges.</MakeAmmo_65x52mmCarcano_Incendiary.description>
+	<!-- EN: Making 6.5x52mm Carcano (AP-I) cartridges. -->
+	<MakeAmmo_65x52mmCarcano_Incendiary.jobString>Making 6.5x52mm Carcano (AP-I) cartridges.</MakeAmmo_65x52mmCarcano_Incendiary.jobString>
+	
+	<!-- EN: make 6.5x52mm Carcano (AP-HE) cartridge x500 -->
+	<MakeAmmo_65x52mmCarcano_HE.label>make 6.5x52mm Carcano (AP-HE) cartridge x500</MakeAmmo_65x52mmCarcano_HE.label>
+	<!-- EN: Craft 500 6.5x52mm Carcano (AP-HE) cartridges. -->
+	<MakeAmmo_65x52mmCarcano_HE.description>Craft 500 6.5x52mm Carcano (AP-HE) cartridges.</MakeAmmo_65x52mmCarcano_HE.description>
+	<!-- EN: Making 6.5x52mm Carcano (AP-HE) cartridges. -->
+	<MakeAmmo_65x52mmCarcano_HE.jobString>Making 6.5x52mm Carcano (AP-HE) cartridges.</MakeAmmo_65x52mmCarcano_HE.jobString>
+	
+	<!-- EN: make 6.5x52mm Carcano (Sabot) cartridge x500 -->
+	<MakeAmmo_65x52mmCarcano_Sabot.label>make 6.5x52mm Carcano (Sabot) cartridge x500</MakeAmmo_65x52mmCarcano_Sabot.label>
+	<!-- EN: Craft 500 6.5x52mm Carcano (Sabot) cartridges. -->
+	<MakeAmmo_65x52mmCarcano_Sabot.description>Craft 500 6.5x52mm Carcano (Sabot) cartridges.</MakeAmmo_65x52mmCarcano_Sabot.description>
+	<!-- EN: Making 6.5x52mm Carcano (Sabot) cartridges. -->
+	<MakeAmmo_65x52mmCarcano_Sabot.jobString>Making 6.5x52mm Carcano (Sabot) cartridges.</MakeAmmo_65x52mmCarcano_Sabot.jobString>
+</LanguageData>

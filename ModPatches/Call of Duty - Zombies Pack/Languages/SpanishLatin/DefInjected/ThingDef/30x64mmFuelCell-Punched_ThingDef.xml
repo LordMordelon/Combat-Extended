@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Recipe\30x64mmFuelCell-Punched.xml -->
+	
+	<!-- EN: 30x64mm fuel cell (Incendiary) (Punched) -->
+	<Ammo_30x64mmFuel_Incendiary_Punched.label>30x64mm fuel cell (Incendiary) (Punched)</Ammo_30x64mmFuel_Incendiary_Punched.label>
+	<!-- EN: Container holding fuel for incendiary shot firearms. -->
+	<Ammo_30x64mmFuel_Incendiary_Punched.description>Container holding fuel for incendiary shot firearms.</Ammo_30x64mmFuel_Incendiary_Punched.description>
+	
+	<!-- EN: 30x64mm fuel cell (Thermobaric) (Punched) -->
+	<Ammo_30x64mmFuel_Thermobaric_Punched.label>30x64mm fuel cell (Thermobaric) (Punched)</Ammo_30x64mmFuel_Thermobaric_Punched.label>
+	<!-- EN: Container holding fuel for incendiary shot firearms. -->
+	<Ammo_30x64mmFuel_Thermobaric_Punched.description>Container holding fuel for incendiary shot firearms.</Ammo_30x64mmFuel_Thermobaric_Punched.description>
+	
+	<!-- EN: 30x64mm fuel cell (Foam) (Punched) -->
+	<Ammo_30x64mmFuel_Foam_Punched.label>30x64mm fuel cell (Foam) (Punched)</Ammo_30x64mmFuel_Foam_Punched.label>
+	<!-- EN: Container holding fuel for incendiary shot firearms. -->
+	<Ammo_30x64mmFuel_Foam_Punched.description>Container holding fuel for incendiary shot firearms.</Ammo_30x64mmFuel_Foam_Punched.description>
+	
+	<!-- EN: incendiary bolt (Punched) -->
+	<Bullet_30x64mmFuel_Incendiary_Punched.label>incendiary bolt (Punched)</Bullet_30x64mmFuel_Incendiary_Punched.label>
+	
+	<!-- EN: thermobaric bolt (Punched) -->
+	<Bullet_30x64mmFuel_Thermobaric_Punched.label>thermobaric bolt (Punched)</Bullet_30x64mmFuel_Thermobaric_Punched.label>
+	
+	<!-- EN: foam bolt (Punched) -->
+	<Bullet_30x64mmFuel_Foam_Punched.label>foam bolt (Punched)</Bullet_30x64mmFuel_Foam_Punched.label>
+</LanguageData>

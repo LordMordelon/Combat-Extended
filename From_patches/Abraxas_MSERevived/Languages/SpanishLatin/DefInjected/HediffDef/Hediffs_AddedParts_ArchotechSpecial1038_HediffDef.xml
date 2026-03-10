@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Abraxas_MSERevived\Hediffs_AddedParts_ArchotechSpecial1038.xml -->
+	<!-- EN: fist -->
+	<AdvancedPowerArm.comps.0.tools.0.label>fist</AdvancedPowerArm.comps.0.tools.0.label>
+	<!-- EN: blade -->
+	<MSE_AdvancedPowerBlade.comps.0.tools.0.label>blade</MSE_AdvancedPowerBlade.comps.0.tools.0.label>
+	<!-- EN: blade -->
+	<MSE_AdvancedPowerBlade.comps.0.tools.1.label>blade</MSE_AdvancedPowerBlade.comps.0.tools.1.label>
+	<!-- EN: claw -->
+	<AdvancedPowerClaw.comps.0.tools.0.label>claw</AdvancedPowerClaw.comps.0.tools.0.label>
+</LanguageData>

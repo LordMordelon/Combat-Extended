@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- Defs\Ammo\Rifle\22Hornet.xml -->
+	
+	<!-- EN: .22 Hornet (FMJ) -->
+	<Ammo_22Hornet_FMJ.label>.22 Hornet (FMJ)</Ammo_22Hornet_FMJ.label>
+	<!-- EN: One of the earliest and fastest .22 caliber centerfire cartridges. -->
+	<Ammo_22Hornet_FMJ.description>One of the earliest and fastest .22 caliber centerfire cartridges.</Ammo_22Hornet_FMJ.description>
+	
+	<!-- EN: .22 Hornet (AP) -->
+	<Ammo_22Hornet_AP.label>.22 Hornet (AP)</Ammo_22Hornet_AP.label>
+	<!-- EN: One of the earliest and fastest .22 caliber centerfire cartridges. -->
+	<Ammo_22Hornet_AP.description>One of the earliest and fastest .22 caliber centerfire cartridges.</Ammo_22Hornet_AP.description>
+	
+	<!-- EN: .22 Hornet (HP) -->
+	<Ammo_22Hornet_HP.label>.22 Hornet (HP)</Ammo_22Hornet_HP.label>
+	<!-- EN: One of the earliest and fastest .22 caliber centerfire cartridges. -->
+	<Ammo_22Hornet_HP.description>One of the earliest and fastest .22 caliber centerfire cartridges.</Ammo_22Hornet_HP.description>
+	
+	<!-- EN: .22 Hornet bullet (FMJ) -->
+	<Bullet_22Hornet_FMJ.label>.22 Hornet bullet (FMJ)</Bullet_22Hornet_FMJ.label>
+	
+	<!-- EN: .22 Hornet bullet (AP) -->
+	<Bullet_22Hornet_AP.label>.22 Hornet bullet (AP)</Bullet_22Hornet_AP.label>
+	
+	<!-- EN: .22 Hornet bullet (HP) -->
+	<Bullet_22Hornet_HP.label>.22 Hornet bullet (HP)</Bullet_22Hornet_HP.label>
+</LanguageData>

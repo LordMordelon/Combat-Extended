@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Infinity Rim Ariadna\Defs\Infinity Rim Ariadna\Ammo\MicroMissile.xml -->
+	<!-- EN: Ariadnan micro missile (HE) -->
+	<Ammo_AriadnanMicroMissile_HE.label>Ariadnan micro missile (HE)</Ammo_AriadnanMicroMissile_HE.label>
+	<!-- EN: Ariadnan micro missiles that is small enough to be carried by the missile launcher. -->
+	<Ammo_AriadnanMicroMissile_HE.description>Ariadnan micro missiles that is small enough to be carried by the missile launcher.</Ammo_AriadnanMicroMissile_HE.description>
+	<!-- EN: Ariadnan micro missile (HE) -->
+	<Bullet_BaseAriadnanMicroMissile_HE.label>Ariadnan micro missile (HE)</Bullet_BaseAriadnanMicroMissile_HE.label>
+</LanguageData>

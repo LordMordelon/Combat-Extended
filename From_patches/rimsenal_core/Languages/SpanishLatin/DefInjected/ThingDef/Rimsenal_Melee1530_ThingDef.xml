@@ -1,0 +1,31 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\rimsenal_core\Rimsenal_Melee1530.xml -->
+	<!-- EN: handle -->
+	<MeleeWeapon_TorchSword.tools.0.label>handle</MeleeWeapon_TorchSword.tools.0.label>
+	<!-- EN: point -->
+	<MeleeWeapon_TorchSword.tools.1.label>point</MeleeWeapon_TorchSword.tools.1.label>
+	<!-- EN: edge -->
+	<MeleeWeapon_TorchSword.tools.2.label>edge</MeleeWeapon_TorchSword.tools.2.label>
+	
+	<!-- EN: handle -->
+	<GD_Sabertooth.tools.0.label>handle</GD_Sabertooth.tools.0.label>
+	<!-- EN: edge -->
+	<GD_Sabertooth.tools.1.label>edge</GD_Sabertooth.tools.1.label>
+	
+	<!-- EN: handle -->
+	<YP_BingJu.tools.0.label>handle</YP_BingJu.tools.0.label>
+	<!-- EN: blade -->
+	<YP_BingJu.tools.1.label>blade</YP_BingJu.tools.1.label>
+	<!-- EN: point -->
+	<YP_BingJu.tools.2.label>point</YP_BingJu.tools.2.label>
+	
+	<!-- EN: handle -->
+	<JI_Ormbane.tools.0.label>handle</JI_Ormbane.tools.0.label>
+	<!-- EN: head -->
+	<JI_Ormbane.tools.1.label>head</JI_Ormbane.tools.1.label>
+	
+	<!-- EN: knuckle -->
+	<TE_Eris.tools.0.label>knuckle</TE_Eris.tools.0.label>
+	<!-- EN: discharger -->
+	<TE_Eris.tools.1.label>discharger</TE_Eris.tools.1.label>
+</LanguageData>

@@ -1,0 +1,75 @@
+<LanguageData>
+	<!-- ModPatches\Rimsenal Core\Defs\Rimsenal Core\Ammo_GD.xml -->
+	<!-- EN: 6.6mm GD Caseless (FMJ) -->
+	<Ammo_66Greydale_FMJ.label>6.6mm GD Caseless (FMJ)</Ammo_66Greydale_FMJ.label>
+	<!-- EN: Caseless bullet with a solid propellant enveloping the projectile. -->
+	<Ammo_66Greydale_FMJ.description>Caseless bullet with a solid propellant enveloping the projectile.</Ammo_66Greydale_FMJ.description>
+	<!-- EN: 6.6mm GD Caseless (AP) -->
+	<Ammo_66Greydale_AP.label>6.6mm GD Caseless (AP)</Ammo_66Greydale_AP.label>
+	<!-- EN: Caseless bullet with a solid propellant enveloping the projectile. -->
+	<Ammo_66Greydale_AP.description>Caseless bullet with a solid propellant enveloping the projectile.</Ammo_66Greydale_AP.description>
+	<!-- EN: 6.6mm GD Caseless (HP) -->
+	<Ammo_66Greydale_HP.label>6.6mm GD Caseless (HP)</Ammo_66Greydale_HP.label>
+	<!-- EN: Caseless bullet with a solid propellant enveloping the projectile. -->
+	<Ammo_66Greydale_HP.description>Caseless bullet with a solid propellant enveloping the projectile.</Ammo_66Greydale_HP.description>
+	<!-- EN: 6.6mm GD Caseless (AP-I) -->
+	<Ammo_66Greydale_Incendiary.label>6.6mm GD Caseless (AP-I)</Ammo_66Greydale_Incendiary.label>
+	<!-- EN: Caseless bullet with a solid propellant enveloping the projectile. -->
+	<Ammo_66Greydale_Incendiary.description>Caseless bullet with a solid propellant enveloping the projectile.</Ammo_66Greydale_Incendiary.description>
+	<!-- EN: 6.6mm GD Caseless (AP-HE) -->
+	<Ammo_66Greydale_HE.label>6.6mm GD Caseless (AP-HE)</Ammo_66Greydale_HE.label>
+	<!-- EN: Caseless bullet with a solid propellant enveloping the projectile. -->
+	<Ammo_66Greydale_HE.description>Caseless bullet with a solid propellant enveloping the projectile.</Ammo_66Greydale_HE.description>
+	<!-- EN: 6.6mm GD Caseless (Sabot) -->
+	<Ammo_66Greydale_Sabot.label>6.6mm GD Caseless (Sabot)</Ammo_66Greydale_Sabot.label>
+	<!-- EN: Caseless bullet with a solid propellant enveloping the projectile. -->
+	<Ammo_66Greydale_Sabot.description>Caseless bullet with a solid propellant enveloping the projectile.</Ammo_66Greydale_Sabot.description>
+	<!-- EN: 6.6mm GD Caseless bullet (FMJ) -->
+	<Bullet_66Greydale_FMJ.label>6.6mm GD Caseless bullet (FMJ)</Bullet_66Greydale_FMJ.label>
+	<!-- EN: 6.6mm GD Caseless bullet (AP) -->
+	<Bullet_66Greydale_AP.label>6.6mm GD Caseless bullet (AP)</Bullet_66Greydale_AP.label>
+	<!-- EN: 6.6mm GD Caseless bullet (HP) -->
+	<Bullet_66Greydale_HP.label>6.6mm GD Caseless bullet (HP)</Bullet_66Greydale_HP.label>
+	<!-- EN: 6.6mm GD Caseless bullet (AP-I) -->
+	<Bullet_66Greydale_Incendiary.label>6.6mm GD Caseless bullet (AP-I)</Bullet_66Greydale_Incendiary.label>
+	<!-- EN: 6.6mm GD Caseless bullet (AP-HE) -->
+	<Bullet_66Greydale_HE.label>6.6mm GD Caseless bullet (AP-HE)</Bullet_66Greydale_HE.label>
+	<!-- EN: 6.6mm GD Caseless bullet (Sabot) -->
+	<Bullet_66Greydale_Sabot.label>6.6mm GD Caseless bullet (Sabot)</Bullet_66Greydale_Sabot.label>
+	<!-- EN: 6.6mm GD Caseless bullet (FMJ) -->
+	<Bullet_66Greydale_FMJ_SB.label>6.6mm GD Caseless bullet (FMJ)</Bullet_66Greydale_FMJ_SB.label>
+	<!-- EN: 6.6mm GD Caseless bullet (AP) -->
+	<Bullet_66Greydale_AP_SB.label>6.6mm GD Caseless bullet (AP)</Bullet_66Greydale_AP_SB.label>
+	<!-- EN: 6.6mm GD Caseless bullet (HP) -->
+	<Bullet_66Greydale_HP_SB.label>6.6mm GD Caseless bullet (HP)</Bullet_66Greydale_HP_SB.label>
+	<!-- EN: 6.6mm GD Caseless bullet (AP-I) -->
+	<Bullet_66Greydale_Incendiary_SB.label>6.6mm GD Caseless bullet (AP-I)</Bullet_66Greydale_Incendiary_SB.label>
+	<!-- EN: 6.6mm GD Caseless bullet (HE) -->
+	<Bullet_66Greydale_HE_SB.label>6.6mm GD Caseless bullet (HE)</Bullet_66Greydale_HE_SB.label>
+	<!-- EN: 6.6mm GD Caseless bullet (Sabot) -->
+	<Bullet_66Greydale_Sabot_SB.label>6.6mm GD Caseless bullet (Sabot)</Bullet_66Greydale_Sabot_SB.label>
+	<!-- EN: 6.6mm GD Caseless bullet (FMJ) -->
+	<Bullet_66Greydale_FMJ_Pistol.label>6.6mm GD Caseless bullet (FMJ)</Bullet_66Greydale_FMJ_Pistol.label>
+	<!-- EN: 6.6mm GD Caseless bullet (AP) -->
+	<Bullet_66Greydale_AP_Pistol.label>6.6mm GD Caseless bullet (AP)</Bullet_66Greydale_AP_Pistol.label>
+	<!-- EN: 6.6mm GD Caseless bullet (HP) -->
+	<Bullet_66Greydale_HP_Pistol.label>6.6mm GD Caseless bullet (HP)</Bullet_66Greydale_HP_Pistol.label>
+	<!-- EN: 6.6mm GD Caseless bullet (AP-I) -->
+	<Bullet_66Greydale_Incendiary_Pistol.label>6.6mm GD Caseless bullet (AP-I)</Bullet_66Greydale_Incendiary_Pistol.label>
+	<!-- EN: 6.6mm GD Caseless bullet (HE) -->
+	<Bullet_66Greydale_HE_Pistol.label>6.6mm GD Caseless bullet (HE)</Bullet_66Greydale_HE_Pistol.label>
+	<!-- EN: 6.6mm GD Caseless bullet (Sabot) -->
+	<Bullet_66Greydale_Sabot_Pistol.label>6.6mm GD Caseless bullet (Sabot)</Bullet_66Greydale_Sabot_Pistol.label>
+	<!-- EN: 6.6mm GD Caseless bullet (FMJ) -->
+	<Bullet_66Greydale_FMJ_Hybrid.label>6.6mm GD Caseless bullet (FMJ)</Bullet_66Greydale_FMJ_Hybrid.label>
+	<!-- EN: 6.6mm GD Caseless bullet (AP) -->
+	<Bullet_66Greydale_AP_Hybrid.label>6.6mm GD Caseless bullet (AP)</Bullet_66Greydale_AP_Hybrid.label>
+	<!-- EN: 6.6mm GD Caseless bullet (HP) -->
+	<Bullet_66Greydale_HP_Hybrid.label>6.6mm GD Caseless bullet (HP)</Bullet_66Greydale_HP_Hybrid.label>
+	<!-- EN: 6.6mm GD Caseless bullet (AP-I) -->
+	<Bullet_66Greydale_Incendiary_Hybrid.label>6.6mm GD Caseless bullet (AP-I)</Bullet_66Greydale_Incendiary_Hybrid.label>
+	<!-- EN: 6.6mm GD Caseless bullet (HE) -->
+	<Bullet_66Greydale_HE_Hybrid.label>6.6mm GD Caseless bullet (HE)</Bullet_66Greydale_HE_Hybrid.label>
+	<!-- EN: 6.6mm GD Caseless bullet (Sabot) -->
+	<Bullet_66Greydale_Sabot_Hybrid.label>6.6mm GD Caseless bullet (Sabot)</Bullet_66Greydale_Sabot_Hybrid.label>
+</LanguageData>

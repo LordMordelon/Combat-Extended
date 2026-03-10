@@ -1,0 +1,100 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\CP_RimmuNation_2_Weapons\RM2_CE_BoltAction1320.xml -->
+	<!-- EN: stock -->
+	<RNGun_C14Timberwolf_Sniper.tools.0.label>stock</RNGun_C14Timberwolf_Sniper.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_C14Timberwolf_Sniper.tools.1.label>barrel</RNGun_C14Timberwolf_Sniper.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_C14Timberwolf_Sniper.tools.2.label>muzzle</RNGun_C14Timberwolf_Sniper.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_DesertTechHTI_AMR.tools.0.label>stock</RNGun_DesertTechHTI_AMR.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_DesertTechHTI_AMR.tools.1.label>barrel</RNGun_DesertTechHTI_AMR.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_DesertTechHTI_AMR.tools.2.label>muzzle</RNGun_DesertTechHTI_AMR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_GOLMagnum_Sniper.tools.0.label>stock</RNGun_GOLMagnum_Sniper.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_GOLMagnum_Sniper.tools.1.label>barrel</RNGun_GOLMagnum_Sniper.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_GOLMagnum_Sniper.tools.2.label>muzzle</RNGun_GOLMagnum_Sniper.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_MannlicherUltraLight_Sniper.tools.0.label>stock</RNGun_MannlicherUltraLight_Sniper.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_MannlicherUltraLight_Sniper.tools.1.label>barrel</RNGun_MannlicherUltraLight_Sniper.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_MannlicherUltraLight_Sniper.tools.2.label>muzzle</RNGun_MannlicherUltraLight_Sniper.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_MannlicherSchoenauer_Sniper.tools.0.label>stock</RNGun_MannlicherSchoenauer_Sniper.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_MannlicherSchoenauer_Sniper.tools.1.label>barrel</RNGun_MannlicherSchoenauer_Sniper.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_MannlicherSchoenauer_Sniper.tools.2.label>muzzle</RNGun_MannlicherSchoenauer_Sniper.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_L96A1_Sniper.tools.0.label>stock</RNGun_L96A1_Sniper.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_L96A1_Sniper.tools.1.label>barrel</RNGun_L96A1_Sniper.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_L96A1_Sniper.tools.2.label>muzzle</RNGun_L96A1_Sniper.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_LeeEnfield_BoltAction.tools.0.label>stock</RNGun_LeeEnfield_BoltAction.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_LeeEnfield_BoltAction.tools.1.label>barrel</RNGun_LeeEnfield_BoltAction.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_LeeEnfield_BoltAction.tools.2.label>muzzle</RNGun_LeeEnfield_BoltAction.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_M24A2_Sniper.tools.0.label>stock</RNGun_M24A2_Sniper.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_M24A2_Sniper.tools.1.label>barrel</RNGun_M24A2_Sniper.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_M24A2_Sniper.tools.2.label>muzzle</RNGun_M24A2_Sniper.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_M40A5_Sniper.tools.0.label>stock</RNGun_M40A5_Sniper.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_M40A5_Sniper.tools.1.label>barrel</RNGun_M40A5_Sniper.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_M40A5_Sniper.tools.2.label>muzzle</RNGun_M40A5_Sniper.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_SV98_Sniper.tools.0.label>stock</RNGun_SV98_Sniper.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_SV98_Sniper.tools.1.label>barrel</RNGun_SV98_Sniper.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_SV98_Sniper.tools.2.label>muzzle</RNGun_SV98_Sniper.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_M200Intervention_AMR.tools.0.label>stock</RNGun_M200Intervention_AMR.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_M200Intervention_AMR.tools.1.label>barrel</RNGun_M200Intervention_AMR.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_M200Intervention_AMR.tools.2.label>muzzle</RNGun_M200Intervention_AMR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_Kar98k.tools.0.label>stock</RNGun_Kar98k.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_Kar98k.tools.1.label>barrel</RNGun_Kar98k.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_Kar98k.tools.2.label>muzzle</RNGun_Kar98k.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_MosinNagant.tools.0.label>stock</RNGun_MosinNagant.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_MosinNagant.tools.1.label>barrel</RNGun_MosinNagant.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_MosinNagant.tools.2.label>muzzle</RNGun_MosinNagant.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_M700SAICS_Sniper.tools.0.label>stock</RNGun_M700SAICS_Sniper.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_M700SAICS_Sniper.tools.1.label>barrel</RNGun_M700SAICS_Sniper.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_M700SAICS_Sniper.tools.2.label>muzzle</RNGun_M700SAICS_Sniper.tools.2.label>
+</LanguageData>

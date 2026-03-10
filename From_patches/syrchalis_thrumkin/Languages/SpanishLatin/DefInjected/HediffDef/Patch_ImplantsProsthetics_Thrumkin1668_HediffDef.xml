@@ -1,0 +1,12 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\syrchalis_thrumkin\Patch_ImplantsProsthetics_Thrumkin1668.xml -->
+	<!-- EN: steel horn -->
+	<SteelThrumkinHorn.comps.0.tools.0.label>steel horn</SteelThrumkinHorn.comps.0.tools.0.label>
+	<!-- EN: steel horn -->
+	<SteelThrumkinHorn.comps.0.tools.1.label>steel horn</SteelThrumkinHorn.comps.0.tools.1.label>
+	
+	<!-- EN: enhanced horn -->
+	<EnhancementThrumkinHorn.comps.0.tools.0.label>enhanced horn</EnhancementThrumkinHorn.comps.0.tools.0.label>
+	<!-- EN: enhanced horn -->
+	<EnhancementThrumkinHorn.comps.0.tools.1.label>enhanced horn</EnhancementThrumkinHorn.comps.0.tools.1.label>
+</LanguageData>

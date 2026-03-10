@@ -1,0 +1,21 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\mlie_reinforcedmechanoid2\RM_ARCWeaponry1382.xml -->
+	<!-- EN: stock -->
+	<RM_Gun_ARCPistol.tools.0.label>stock</RM_Gun_ARCPistol.tools.0.label>
+	<!-- EN: barrel -->
+	<RM_Gun_ARCPistol.tools.1.label>barrel</RM_Gun_ARCPistol.tools.1.label>
+	<!-- EN: coil -->
+	<RM_Gun_ARCPistol.tools.2.label>coil</RM_Gun_ARCPistol.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RM_ARCRifle.tools.0.label>stock</RM_ARCRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RM_ARCRifle.tools.1.label>barrel</RM_ARCRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RM_ARCRifle.tools.2.label>muzzle</RM_ARCRifle.tools.2.label>
+	
+	<!-- EN: barrel -->
+	<RM_Gun_ARCThrower.tools.0.label>barrel</RM_Gun_ARCThrower.tools.0.label>
+	<!-- EN: coil -->
+	<RM_Gun_ARCThrower.tools.1.label>coil</RM_Gun_ARCThrower.tools.1.label>
+</LanguageData>

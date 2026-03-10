@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Defs\Ammo\Advanced\5x50mmCaseless.xml -->
+	<!-- EN: make 5x50mm Caseless (Sabot) cartridge x500 -->
+	<MakeAmmo_5x50mmCaseless_Sabot.label>make 5x50mm Caseless (Sabot) cartridge x500</MakeAmmo_5x50mmCaseless_Sabot.label>
+	<!-- EN: Craft 500 5x50mm Caseless (Sabot) cartridges. -->
+	<MakeAmmo_5x50mmCaseless_Sabot.description>Craft 500 5x50mm Caseless (Sabot) cartridges.</MakeAmmo_5x50mmCaseless_Sabot.description>
+	<!-- EN: Making 5x50mm Caseless (Sabot) cartridges. -->
+	<MakeAmmo_5x50mmCaseless_Sabot.jobString>Making 5x50mm Caseless (Sabot) cartridges.</MakeAmmo_5x50mmCaseless_Sabot.jobString>
+</LanguageData>

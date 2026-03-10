@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- ModPatches\Warhammer 40.000 - Imperium Weaponry\Defs\Warhammer 40.000 - Imperium Weaponry\GF40K_Ammo_Radium.xml -->
+	
+	<!-- EN: 10x18mm Charged (Tox) -->
+	<Ammo_RadiumPistol_Tox.label>10x18mm Charged (Tox)</Ammo_RadiumPistol_Tox.label>
+	<!-- EN: Charged shot ammo used by low velocity, high power charge weapons. -->
+	<Ammo_RadiumPistol_Tox.description>Charged shot ammo used by low velocity, high power charge weapons.</Ammo_RadiumPistol_Tox.description>
+	
+	<!-- EN: 8x35mm Charged (Tox) -->
+	<Ammo_RadiumCarbine_Tox.label>8x35mm Charged (Tox)</Ammo_RadiumCarbine_Tox.label>
+	<!-- EN: Charged shot ammo used by advanced assault rifle designs. -->
+	<Ammo_RadiumCarbine_Tox.description>Charged shot ammo used by advanced assault rifle designs.</Ammo_RadiumCarbine_Tox.description>
+	
+	<!-- EN: 10x18mm Charged bullet (Tox) -->
+	<Bullet_RadiumPistol_Tox.label>10x18mm Charged bullet (Tox)</Bullet_RadiumPistol_Tox.label>
+	
+	<!-- EN: 8x35mm Charged bullet (Tox) -->
+	<Bullet_RadiumCarbine_Tox.label>8x35mm Charged bullet (Tox)</Bullet_RadiumCarbine_Tox.label>
+</LanguageData>

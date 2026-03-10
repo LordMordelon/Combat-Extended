@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Mlie_ApexRimworldLegends\ApexRimworldLegends_Weapons_Grenades413.xml -->
+	<!-- EN: Arc Star -->
+	<ARL_ChargeGrenade.label>Arc Star</ARL_ChargeGrenade.label>
+	<!-- EN: handle -->
+	<ARL_ChargeGrenade.tools.0.label>handle</ARL_ChargeGrenade.tools.0.label>
+	
+	<!-- EN: Bangalore Smoke Grenade -->
+	<ARL_SmokeGrenade.label>Bangalore Smoke Grenade</ARL_SmokeGrenade.label>
+	<!-- EN: throw Smoke grenade -->
+	<ARL_SmokeGrenade.Properties.label>throw Smoke grenade</ARL_SmokeGrenade.Properties.label>
+	
+	<!-- EN: Caustic Nox Grenade -->
+	<ARL_ToxicGrenade.label>Caustic Nox Grenade</ARL_ToxicGrenade.label>
+	<!-- EN: throw toxic grenade -->
+	<ARL_ToxicGrenade.Properties.label>throw toxic grenade</ARL_ToxicGrenade.Properties.label>
+</LanguageData>

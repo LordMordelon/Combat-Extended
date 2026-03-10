@@ -1,0 +1,43 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\ReGrowth_BOTR_ExtinctAnimalsPack\Extinct_Mammals1378.xml -->
+	<!-- EN: tusk -->
+	<RG_WoollyMammoth.tools.0.label>tusk</RG_WoollyMammoth.tools.0.label>
+	<!-- EN: left foot -->
+	<RG_WoollyMammoth.tools.1.label>left foot</RG_WoollyMammoth.tools.1.label>
+	<!-- EN: right foot -->
+	<RG_WoollyMammoth.tools.2.label>right foot</RG_WoollyMammoth.tools.2.label>
+	<!-- EN: head -->
+	<RG_WoollyMammoth.tools.3.label>head</RG_WoollyMammoth.tools.3.label>
+	
+	<!-- EN: horn -->
+	<RG_WoollyRhinoceros.tools.0.label>horn</RG_WoollyRhinoceros.tools.0.label>
+	<!-- EN: horn -->
+	<RG_WoollyRhinoceros.tools.1.label>horn</RG_WoollyRhinoceros.tools.1.label>
+	<!-- EN: head -->
+	<RG_WoollyRhinoceros.tools.3.label>head</RG_WoollyRhinoceros.tools.3.label>
+	
+	<!-- EN: head -->
+	<RG_WoollyStegosaurus.tools.0.label>head</RG_WoollyStegosaurus.tools.0.label>
+	<!-- EN: left foot -->
+	<RG_WoollyStegosaurus.tools.2.label>left foot</RG_WoollyStegosaurus.tools.2.label>
+	<!-- EN: right foot -->
+	<RG_WoollyStegosaurus.tools.3.label>right foot</RG_WoollyStegosaurus.tools.3.label>
+	<!-- EN: tail spikes -->
+	<RG_WoollyStegosaurus.tools.4.label>tail spikes</RG_WoollyStegosaurus.tools.4.label>
+	
+	<!-- EN: left hoof -->
+	<RG_Synthetion.tools.0.label>left hoof</RG_Synthetion.tools.0.label>
+	<!-- EN: right hoof -->
+	<RG_Synthetion.tools.1.label>right hoof</RG_Synthetion.tools.1.label>
+	<!-- EN: horn -->
+	<RG_Synthetion.tools.2.label>horn</RG_Synthetion.tools.2.label>
+	<!-- EN: head -->
+	<RG_Synthetion.tools.4.label>head</RG_Synthetion.tools.4.label>
+	
+	<!-- EN: left claw -->
+	<RG_SabertoothTiger.tools.0.label>left claw</RG_SabertoothTiger.tools.0.label>
+	<!-- EN: right claw -->
+	<RG_SabertoothTiger.tools.1.label>right claw</RG_SabertoothTiger.tools.1.label>
+	<!-- EN: head -->
+	<RG_SabertoothTiger.tools.3.label>head</RG_SabertoothTiger.tools.3.label>
+</LanguageData>

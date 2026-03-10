@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\OskarPotocki_VanillaVehiclesExpandedTier3\Goliath1882.xml -->
+	<!-- EN: Single -->
+	<Goliath_MilitaryTurret.fireModes.0.label>Single</Goliath_MilitaryTurret.fireModes.0.label>
+	<!-- EN: Burst -->
+	<Goliath_MilitaryTurret.fireModes.1.label>Burst</Goliath_MilitaryTurret.fireModes.1.label>
+	<!-- EN: Auto -->
+	<Goliath_MilitaryTurret.fireModes.2.label>Auto</Goliath_MilitaryTurret.fireModes.2.label>
+</LanguageData>

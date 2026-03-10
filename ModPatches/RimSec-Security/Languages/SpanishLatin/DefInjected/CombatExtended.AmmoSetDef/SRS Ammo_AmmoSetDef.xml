@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\RimSec-Security\Defs\RimSec-Security\Ammo\SRS Ammo.xml -->
+	<!-- EN: 6x24mm Charged Bullet (DLG) -->
+	<AmmoSet_6x24mmSRS.label>6x24mm Charged Bullet (DLG)</AmmoSet_6x24mmSRS.label>
+	<!-- EN: 6x18mm Charged Bullet (EHG) -->
+	<AmmoSet_6x18mmSRS.label>6x18mm Charged Bullet (EHG)</AmmoSet_6x18mmSRS.label>
+	<!-- EN: 8x35mm Charged Bullet (HLT) -->
+	<AmmoSet_8x35mmSRS.label>8x35mm Charged Bullet (HLT)</AmmoSet_8x35mmSRS.label>
+</LanguageData>

@@ -1,0 +1,10 @@
+<LanguageData>
+	<!-- ModPatches\Maru Race\Defs\Maru Race\Ammo_Arrow_BO.xml -->
+	
+	<!-- EN: make maru bomb arrows x10 -->
+	<MakeAmmo_CPB_BO.label>make maru bomb arrows x10</MakeAmmo_CPB_BO.label>
+	<!-- EN: Craft 10 maru bomb arrows. -->
+	<MakeAmmo_CPB_BO.description>Craft 10 maru bomb arrows.</MakeAmmo_CPB_BO.description>
+	<!-- EN: Making maru bomb arrows. -->
+	<MakeAmmo_CPB_BO.jobString>Making maru bomb arrows.</MakeAmmo_CPB_BO.jobString>
+</LanguageData>

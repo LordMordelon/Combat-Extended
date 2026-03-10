@@ -1,0 +1,31 @@
+<LanguageData>
+	<!-- Defs\Ammo\Shotgun\10Gauge.xml -->
+	
+	<!-- EN: make 10 gauge (Buck) shell x200 -->
+	<MakeAmmo_10Gauge_Buck.label>make 10 gauge (Buck) shell x200</MakeAmmo_10Gauge_Buck.label>
+	<!-- EN: Craft 200 10 gauge (Buck) shells. -->
+	<MakeAmmo_10Gauge_Buck.description>Craft 200 10 gauge (Buck) shells.</MakeAmmo_10Gauge_Buck.description>
+	<!-- EN: Making 10 gauge (Buck) shells. -->
+	<MakeAmmo_10Gauge_Buck.jobString>Making 10 gauge (Buck) shells.</MakeAmmo_10Gauge_Buck.jobString>
+	
+	<!-- EN: make 10 gauge (Slug) shell x200 -->
+	<MakeAmmo_10Gauge_Slug.label>make 10 gauge (Slug) shell x200</MakeAmmo_10Gauge_Slug.label>
+	<!-- EN: Craft 200 10 gauge (Slug) shells. -->
+	<MakeAmmo_10Gauge_Slug.description>Craft 200 10 gauge (Slug) shells.</MakeAmmo_10Gauge_Slug.description>
+	<!-- EN: Making 10 gauge (Slug) shells. -->
+	<MakeAmmo_10Gauge_Slug.jobString>Making 10 gauge (Slug) shells.</MakeAmmo_10Gauge_Slug.jobString>
+	
+	<!-- EN: make 10 gauge (Beanbag) shell x200 -->
+	<MakeAmmo_10Gauge_Beanbag.label>make 10 gauge (Beanbag) shell x200</MakeAmmo_10Gauge_Beanbag.label>
+	<!-- EN: Craft 200 10 gauge (Beanbag) shells. -->
+	<MakeAmmo_10Gauge_Beanbag.description>Craft 200 10 gauge (Beanbag) shells.</MakeAmmo_10Gauge_Beanbag.description>
+	<!-- EN: Making 10 gauge (Beanbag) shells. -->
+	<MakeAmmo_10Gauge_Beanbag.jobString>Making 10 gauge (Beanbag) shells.</MakeAmmo_10Gauge_Beanbag.jobString>
+	
+	<!-- EN: make 10 gauge (EMP) shell x200 -->
+	<MakeAmmo_10Gauge_ElectroSlug.label>make 10 gauge (EMP) shell x200</MakeAmmo_10Gauge_ElectroSlug.label>
+	<!-- EN: Craft 200 10 gauge (EMP) shells. -->
+	<MakeAmmo_10Gauge_ElectroSlug.description>Craft 200 10 gauge (EMP) shells.</MakeAmmo_10Gauge_ElectroSlug.description>
+	<!-- EN: Making 10 gauge (EMP) shells. -->
+	<MakeAmmo_10Gauge_ElectroSlug.jobString>Making 10 gauge (EMP) shells.</MakeAmmo_10Gauge_ElectroSlug.jobString>
+</LanguageData>

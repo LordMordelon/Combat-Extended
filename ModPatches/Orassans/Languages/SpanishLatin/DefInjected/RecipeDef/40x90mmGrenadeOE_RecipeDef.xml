@@ -1,0 +1,31 @@
+<LanguageData>
+	<!-- ModPatches\Orassans\Defs\Orassans\Ammo\40x90mmGrenadeOE.xml -->
+	
+	<!-- EN: make 40x90mm OE HE grenades x100 -->
+	<MakeAmmo_40x90mmGrenadeOE_HE.label>make 40x90mm OE HE grenades x100</MakeAmmo_40x90mmGrenadeOE_HE.label>
+	<!-- EN: Craft 100 40x90mm OE HE grenades. -->
+	<MakeAmmo_40x90mmGrenadeOE_HE.description>Craft 100 40x90mm OE HE grenades.</MakeAmmo_40x90mmGrenadeOE_HE.description>
+	<!-- EN: Making 40x90mm OE HE grenades. -->
+	<MakeAmmo_40x90mmGrenadeOE_HE.jobString>Making 40x90mm OE HE grenades.</MakeAmmo_40x90mmGrenadeOE_HE.jobString>
+	
+	<!-- EN: make 40x90mm OE HEAT grenades x100 -->
+	<MakeAmmo_40x90mmGrenadeOE_HEAT.label>make 40x90mm OE HEAT grenades x100</MakeAmmo_40x90mmGrenadeOE_HEAT.label>
+	<!-- EN: Craft 100 40x90mm OE HEAT grenades. -->
+	<MakeAmmo_40x90mmGrenadeOE_HEAT.description>Craft 100 40x90mm OE HEAT grenades.</MakeAmmo_40x90mmGrenadeOE_HEAT.description>
+	<!-- EN: Making 40x90mm OE HEAT grenades. -->
+	<MakeAmmo_40x90mmGrenadeOE_HEAT.jobString>Making 40x90mm OE HEAT grenades.</MakeAmmo_40x90mmGrenadeOE_HEAT.jobString>
+	
+	<!-- EN: make 40x90mm OE EMP grenades x100 -->
+	<MakeAmmo_40x90mmGrenadeOE_EMP.label>make 40x90mm OE EMP grenades x100</MakeAmmo_40x90mmGrenadeOE_EMP.label>
+	<!-- EN: Craft 100 40x90mm OE EMP grenades. -->
+	<MakeAmmo_40x90mmGrenadeOE_EMP.description>Craft 100 40x90mm OE EMP grenades.</MakeAmmo_40x90mmGrenadeOE_EMP.description>
+	<!-- EN: Making 40x90mm OE EMP grenades. -->
+	<MakeAmmo_40x90mmGrenadeOE_EMP.jobString>Making 40x90mm OE EMP grenades.</MakeAmmo_40x90mmGrenadeOE_EMP.jobString>
+	
+	<!-- EN: make 40x90mm OE Smoke grenades x100 -->
+	<MakeAmmo_40x90mmGrenadeOE_Smoke.label>make 40x90mm OE Smoke grenades x100</MakeAmmo_40x90mmGrenadeOE_Smoke.label>
+	<!-- EN: Craft 100 40x90mm OE Smoke grenades. -->
+	<MakeAmmo_40x90mmGrenadeOE_Smoke.description>Craft 100 40x90mm OE Smoke grenades.</MakeAmmo_40x90mmGrenadeOE_Smoke.description>
+	<!-- EN: Making 40x90mm OE Smoke grenades. -->
+	<MakeAmmo_40x90mmGrenadeOE_Smoke.jobString>Making 40x90mm OE Smoke grenades.</MakeAmmo_40x90mmGrenadeOE_Smoke.jobString>
+</LanguageData>

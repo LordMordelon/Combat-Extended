@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\Possessed Weapons\Defs\PossessedWeapons_Ammo.xml -->
+	<!-- EN: great arrows -->
+	<AmmoSet_DragonFireArrow.label>great arrows</AmmoSet_DragonFireArrow.label>
+	<!-- EN: verdant arrows -->
+	<AmmoSet_VerdantArrow.label>verdant arrows</AmmoSet_VerdantArrow.label>
+	<!-- EN: verdant arrows -->
+	<AmmoSet_VerdantMOArrow.label>verdant arrows</AmmoSet_VerdantMOArrow.label>
+	<!-- EN: musket ball -->
+	<AmmoSet_GhostFlintlock_MusketBall.label>musket ball</AmmoSet_GhostFlintlock_MusketBall.label>
+</LanguageData>

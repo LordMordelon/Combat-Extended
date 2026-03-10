@@ -1,0 +1,12 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Fenn_floodrace\Sentinel_Laser_CE1409.xml -->
+	<!-- EN: grip -->
+	<Sentinelbeam.tools.0.label>grip</Sentinelbeam.tools.0.label>
+	<!-- EN: muzzle -->
+	<Sentinelbeam.tools.1.label>muzzle</Sentinelbeam.tools.1.label>
+	
+	<!-- EN: grip -->
+	<SentinelMajorbeam.tools.0.label>grip</SentinelMajorbeam.tools.0.label>
+	<!-- EN: muzzle -->
+	<SentinelMajorbeam.tools.1.label>muzzle</SentinelMajorbeam.tools.1.label>
+</LanguageData>

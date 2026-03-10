@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Defs\Ammo\Medieval\BlunderbussShot.xml -->
+	<!-- EN: blunderbuss shot -->
+	<Ammo_BlunderbussShot.label>blunderbuss shot</Ammo_BlunderbussShot.label>
+	<!-- EN: A paper cartridge sealed with wax containing several round projectiles and black powder, fired by early, smoothbore blunderbusses. -->
+	<Ammo_BlunderbussShot.description>A paper cartridge sealed with wax containing several round projectiles and black powder, fired by early, smoothbore blunderbusses.</Ammo_BlunderbussShot.description>
+	<!-- EN: blunderbuss pellet -->
+	<Bullet_BlunderbussShot.label>blunderbuss pellet</Bullet_BlunderbussShot.label>
+</LanguageData>

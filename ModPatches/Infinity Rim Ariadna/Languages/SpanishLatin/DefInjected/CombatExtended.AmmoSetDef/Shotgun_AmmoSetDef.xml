@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\Infinity Rim Ariadna\Defs\Infinity Rim Ariadna\Ammo\Shotgun.xml -->
+	<!-- EN: 12 Gauge Ariadnan -->
+	<AmmoSet_12GaugeTeseum.label>12 Gauge Ariadnan</AmmoSet_12GaugeTeseum.label>
+	
+	<!-- EN: shotgun shell -->
+	<AmmoSet_12GaugeTeseumGeneric.label>shotgun shell</AmmoSet_12GaugeTeseumGeneric.label>
+	
+	<!-- EN: Ariadnan chain rifle -->
+	<AmmoSet_AriadnanChainGun.label>Ariadnan chain rifle</AmmoSet_AriadnanChainGun.label>
+</LanguageData>

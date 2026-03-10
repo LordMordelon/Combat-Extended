@@ -1,0 +1,52 @@
+<LanguageData>
+	<!-- ModPatches\The GiantRace\Defs\Ammo_Giant.xml -->
+	
+	<!-- EN: make limestone jackstones x10 -->
+	<Make_GI_Jackstones_limestone.label>make limestone jackstones x10</Make_GI_Jackstones_limestone.label>
+	<!-- EN: Craft 10 limestone jackstones. -->
+	<Make_GI_Jackstones_limestone.description>Craft 10 limestone jackstones.</Make_GI_Jackstones_limestone.description>
+	<!-- EN: Making limestone jackstones. -->
+	<Make_GI_Jackstones_limestone.jobString>Making limestone jackstones.</Make_GI_Jackstones_limestone.jobString>
+	
+	<!-- EN: make granite jackstones x10 -->
+	<Make_GI_Jackstones_granite.label>make granite jackstones x10</Make_GI_Jackstones_granite.label>
+	<!-- EN: Craft 10 granite jackstones. -->
+	<Make_GI_Jackstones_granite.description>Craft 10 granite jackstones.</Make_GI_Jackstones_granite.description>
+	<!-- EN: Making granite jackstones. -->
+	<Make_GI_Jackstones_granite.jobString>Making granite jackstones.</Make_GI_Jackstones_granite.jobString>
+	
+	<!-- EN: make giant javelin x10 -->
+	<Make_GI_Javelin.label>make giant javelin x10</Make_GI_Javelin.label>
+	<!-- EN: Craft 10 giant javelins. -->
+	<Make_GI_Javelin.description>Craft 10 giant javelins.</Make_GI_Javelin.description>
+	<!-- EN: Making giant javelins. -->
+	<Make_GI_Javelin.jobString>Making giant javelins.</Make_GI_Javelin.jobString>
+	
+	<!-- EN: make scrapmetal bundle x25 -->
+	<Make_GI_Scrapmetal.label>make scrapmetal bundle x25</Make_GI_Scrapmetal.label>
+	<!-- EN: Craft 10 scrapmetal bundles. -->
+	<Make_GI_Scrapmetal.description>Craft 10 scrapmetal bundles.</Make_GI_Scrapmetal.description>
+	<!-- EN: Making scrapmetal bundles. -->
+	<Make_GI_Scrapmetal.jobString>Making scrapmetal bundles.</Make_GI_Scrapmetal.jobString>
+	
+	<!-- EN: make granite rockpillar x25 -->
+	<Make_Rockpillar_granite.label>make granite rockpillar x25</Make_Rockpillar_granite.label>
+	<!-- EN: Craft 10 granite rockpillars. -->
+	<Make_Rockpillar_granite.description>Craft 10 granite rockpillars.</Make_Rockpillar_granite.description>
+	<!-- EN: Making granite rockpillars. -->
+	<Make_Rockpillar_granite.jobString>Making granite rockpillars.</Make_Rockpillar_granite.jobString>
+	
+	<!-- EN: make marble rockpillar x25 -->
+	<Make_Rockpillar_marble.label>make marble rockpillar x25</Make_Rockpillar_marble.label>
+	<!-- EN: Craft 25 marble rockpillars. -->
+	<Make_Rockpillar_marble.description>Craft 25 marble rockpillars.</Make_Rockpillar_marble.description>
+	<!-- EN: Making marble rockpillars. -->
+	<Make_Rockpillar_marble.jobString>Making marble rockpillars.</Make_Rockpillar_marble.jobString>
+	
+	<!-- EN: make lightning javelin x10 -->
+	<Make_GI_Lightningjavelin.label>make lightning javelin x10</Make_GI_Lightningjavelin.label>
+	<!-- EN: Craft 10 lightning javelins. -->
+	<Make_GI_Lightningjavelin.description>Craft 10 lightning javelins.</Make_GI_Lightningjavelin.description>
+	<!-- EN: Making lightning javelins. -->
+	<Make_GI_Lightningjavelin.jobString>Making lightning javelins.</Make_GI_Lightningjavelin.jobString>
+</LanguageData>

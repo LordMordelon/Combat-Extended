@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- ModPatches\Pulse Weaponry\Defs\Pulse Weaponry\Ammo.xml -->
+	<!-- EN: combine pulse pack -->
+	<Ammo_DEpulsePack.label>combine pulse pack</Ammo_DEpulsePack.label>
+	<!-- EN: A universal charge pack for various laser weapons. -->
+	<Ammo_DEpulsePack.description>A universal charge pack for various laser weapons.</Ammo_DEpulsePack.description>
+	<!-- EN: Pulse projectile -->
+	<Bullet_DV_PulseSMG_CE.label>Pulse projectile</Bullet_DV_PulseSMG_CE.label>
+	<!-- EN: Pulse projectile -->
+	<Bullet_DV_PulseRifle_CE.label>Pulse projectile</Bullet_DV_PulseRifle_CE.label>
+	<!-- EN: Pulse projectile -->
+	<Bullet_DV_PulseSuppressor_CE.label>Pulse projectile</Bullet_DV_PulseSuppressor_CE.label>
+	<!-- EN: Pulse projectile -->
+	<Bullet_DV_PulseRifle_UBGL_CE.label>Pulse projectile</Bullet_DV_PulseRifle_UBGL_CE.label>
+</LanguageData>

@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Wunders\Wunders.xml -->
+	<!-- EN: Wunder Electrical Volt -->
+	<Bullet_Wunder.label>Wunder Electrical Volt</Bullet_Wunder.label>
+	<!-- EN: Wunderwaffe DG-2 Bulbs -->
+	<Ammo_Wunder.label>Wunderwaffe DG-2 Bulbs</Ammo_Wunder.label>
+	<!-- EN: A large compressed air Bulbs used for the Wundergun -->
+	<Ammo_Wunder.description>A large compressed air Bulbs used for the Wundergun</Ammo_Wunder.description>
+</LanguageData>

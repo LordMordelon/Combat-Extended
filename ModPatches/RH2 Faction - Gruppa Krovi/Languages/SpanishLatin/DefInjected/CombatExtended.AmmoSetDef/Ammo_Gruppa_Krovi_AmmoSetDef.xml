@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- ModPatches\RH2 Faction - Gruppa Krovi\Defs\Ammo_Gruppa_Krovi.xml -->
+	<!-- EN: tesla coil power cell -->
+	<AmmoSet_RNTeslaCharge.label>tesla coil power cell</AmmoSet_RNTeslaCharge.label>
+	<!-- EN: plasma cannon power cell -->
+	<AmmoSet_RNPlasmaCharge.label>plasma cannon power cell</AmmoSet_RNPlasmaCharge.label>
+</LanguageData>

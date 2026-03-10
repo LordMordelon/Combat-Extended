@@ -1,0 +1,31 @@
+<LanguageData>
+	<!-- Defs\Ammo\Rocket\SPG9.xml -->
+	
+	<!-- EN: make SPG-9 (HEAT) rockets x5 -->
+	<MakeAmmo_SPG9Rocket_HEAT.label>make SPG-9 (HEAT) rockets x5</MakeAmmo_SPG9Rocket_HEAT.label>
+	<!-- EN: Craft 5 SPG-9 (HEAT) rockets. -->
+	<MakeAmmo_SPG9Rocket_HEAT.description>Craft 5 SPG-9 (HEAT) rockets.</MakeAmmo_SPG9Rocket_HEAT.description>
+	<!-- EN: Making SPG-9 (HEAT) rockets. -->
+	<MakeAmmo_SPG9Rocket_HEAT.jobString>Making SPG-9 (HEAT) rockets.</MakeAmmo_SPG9Rocket_HEAT.jobString>
+	
+	<!-- EN: make SPG-9 (Thermobaric) rockets x5 -->
+	<MakeAmmo_SPG9Rocket_Thermobaric.label>make SPG-9 (Thermobaric) rockets x5</MakeAmmo_SPG9Rocket_Thermobaric.label>
+	<!-- EN: Craft 5 SPG-9 (Thermobaric) rockets. -->
+	<MakeAmmo_SPG9Rocket_Thermobaric.description>Craft 5 SPG-9 (Thermobaric) rockets.</MakeAmmo_SPG9Rocket_Thermobaric.description>
+	<!-- EN: Making SPG-9 (Thermobaric) rockets. -->
+	<MakeAmmo_SPG9Rocket_Thermobaric.jobString>Making SPG-9 (Thermobaric) rockets.</MakeAmmo_SPG9Rocket_Thermobaric.jobString>
+	
+	<!-- EN: make SPG-9 (HE) rockets x5 -->
+	<MakeAmmo_SPG9Rocket_Frag.label>make SPG-9 (HE) rockets x5</MakeAmmo_SPG9Rocket_Frag.label>
+	<!-- EN: Craft 5 SPG-9 (HE) rockets. -->
+	<MakeAmmo_SPG9Rocket_Frag.description>Craft 5 SPG-9 (HE) rockets.</MakeAmmo_SPG9Rocket_Frag.description>
+	<!-- EN: Making SPG-9 (HE) rockets. -->
+	<MakeAmmo_SPG9Rocket_Frag.jobString>Making SPG-9 (HE) rockets.</MakeAmmo_SPG9Rocket_Frag.jobString>
+	
+	<!-- EN: make SPG-9 (EMP) rockets x5 -->
+	<MakeAmmo_SPG9Rocket_EMP.label>make SPG-9 (EMP) rockets x5</MakeAmmo_SPG9Rocket_EMP.label>
+	<!-- EN: Craft 5 SPG-9 (EMP) rockets. -->
+	<MakeAmmo_SPG9Rocket_EMP.description>Craft 5 SPG-9 (EMP) rockets.</MakeAmmo_SPG9Rocket_EMP.description>
+	<!-- EN: Making SPG-9 (EMP) rockets. -->
+	<MakeAmmo_SPG9Rocket_EMP.jobString>Making SPG-9 (EMP) rockets.</MakeAmmo_SPG9Rocket_EMP.jobString>
+</LanguageData>

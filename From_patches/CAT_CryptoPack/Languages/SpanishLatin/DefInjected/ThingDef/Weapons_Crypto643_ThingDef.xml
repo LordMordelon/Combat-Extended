@@ -1,0 +1,47 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\CAT_CryptoPack\Weapons_Crypto643.xml -->
+	<!-- EN: handle -->
+	<CAT_CryptoBardiche.tools.0.label>handle</CAT_CryptoBardiche.tools.0.label>
+	<!-- EN: pommel -->
+	<CAT_CryptoBardiche.tools.1.label>pommel</CAT_CryptoBardiche.tools.1.label>
+	<!-- EN: head -->
+	<CAT_CryptoBardiche.tools.2.label>head</CAT_CryptoBardiche.tools.2.label>
+	
+	<!-- EN: handle -->
+	<CAT_CryptoBattleaxe.tools.0.label>handle</CAT_CryptoBattleaxe.tools.0.label>
+	<!-- EN: head -->
+	<CAT_CryptoBattleaxe.tools.1.label>head</CAT_CryptoBattleaxe.tools.1.label>
+	
+	<!-- EN: shaft -->
+	<CAT_CryptoBident.tools.0.label>shaft</CAT_CryptoBident.tools.0.label>
+	<!-- EN: head -->
+	<CAT_CryptoBident.tools.1.label>head</CAT_CryptoBident.tools.1.label>
+	<!-- EN: point -->
+	<CAT_CryptoBident.tools.2.label>point</CAT_CryptoBident.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<CAT_CryptoCleaver.tools.0.label>shaft</CAT_CryptoCleaver.tools.0.label>
+	<!-- EN: head -->
+	<CAT_CryptoCleaver.tools.1.label>head</CAT_CryptoCleaver.tools.1.label>
+	<!-- EN: point -->
+	<CAT_CryptoCleaver.tools.2.label>point</CAT_CryptoCleaver.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<CAT_CryptoGreatsword.tools.0.label>shaft</CAT_CryptoGreatsword.tools.0.label>
+	<!-- EN: head -->
+	<CAT_CryptoGreatsword.tools.1.label>head</CAT_CryptoGreatsword.tools.1.label>
+	<!-- EN: point -->
+	<CAT_CryptoGreatsword.tools.2.label>point</CAT_CryptoGreatsword.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<CAT_CryptoSword.tools.0.label>shaft</CAT_CryptoSword.tools.0.label>
+	<!-- EN: head -->
+	<CAT_CryptoSword.tools.1.label>head</CAT_CryptoSword.tools.1.label>
+	<!-- EN: point -->
+	<CAT_CryptoSword.tools.2.label>point</CAT_CryptoSword.tools.2.label>
+	
+	<!-- EN: handle -->
+	<CAT_CryptoMace.tools.0.label>handle</CAT_CryptoMace.tools.0.label>
+	<!-- EN: edge -->
+	<CAT_CryptoMace.tools.1.label>edge</CAT_CryptoMace.tools.1.label>
+</LanguageData>

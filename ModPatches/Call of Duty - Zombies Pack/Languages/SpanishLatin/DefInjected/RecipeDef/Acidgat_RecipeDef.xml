@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Blunders\Acidgat.xml -->
+	
+	<!-- EN: make Acidgat (Buck) shell x20 -->
+	<MakeAmmo_Acidgat_Buck.label>make Acidgat (Buck) shell x20</MakeAmmo_Acidgat_Buck.label>
+	<!-- EN: Craft 20 Acidgat (Buck) shells . -->
+	<MakeAmmo_Acidgat_Buck.description>Craft 20 Acidgat (Buck) shells .</MakeAmmo_Acidgat_Buck.description>
+	<!-- EN: Making Acidgat (Buck) shells. -->
+	<MakeAmmo_Acidgat_Buck.jobString>Making Acidgat (Buck) shells.</MakeAmmo_Acidgat_Buck.jobString>
+	
+	<!-- EN: make Acidgat (Slug) shell x20 -->
+	<MakeAmmo_Acidgat_Slug.label>make Acidgat (Slug) shell x20</MakeAmmo_Acidgat_Slug.label>
+	<!-- EN: Craft 20 Acidgat (Slug) shells . -->
+	<MakeAmmo_Acidgat_Slug.description>Craft 20 Acidgat (Slug) shells .</MakeAmmo_Acidgat_Slug.description>
+	<!-- EN: Making Acidgat (Slug) shells. -->
+	<MakeAmmo_Acidgat_Slug.jobString>Making Acidgat (Slug) shells.</MakeAmmo_Acidgat_Slug.jobString>
+</LanguageData>

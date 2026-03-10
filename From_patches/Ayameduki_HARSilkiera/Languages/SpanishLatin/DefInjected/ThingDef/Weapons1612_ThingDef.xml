@@ -1,0 +1,33 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Ayameduki_HARSilkiera\Weapons1612.xml -->
+	<!-- EN: shaft -->
+	<HAR_SK_Weapon_a.tools.0.label>shaft</HAR_SK_Weapon_a.tools.0.label>
+	<!-- EN: edge -->
+	<HAR_SK_Weapon_a.tools.1.label>edge</HAR_SK_Weapon_a.tools.1.label>
+	<!-- EN: point -->
+	<HAR_SK_Weapon_a.tools.2.label>point</HAR_SK_Weapon_a.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<HAR_SK_Weapon_b.tools.0.label>shaft</HAR_SK_Weapon_b.tools.0.label>
+	<!-- EN: shaft -->
+	<HAR_SK_Weapon_b.tools.1.label>shaft</HAR_SK_Weapon_b.tools.1.label>
+	<!-- EN: head -->
+	<HAR_SK_Weapon_b.tools.2.label>head</HAR_SK_Weapon_b.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_AssaultRifle_SK.tools.0.label>stock</Gun_AssaultRifle_SK.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_AssaultRifle_SK.tools.1.label>barrel</Gun_AssaultRifle_SK.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_AssaultRifle_SK.tools.2.label>muzzle</Gun_AssaultRifle_SK.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_IncendiaryLauncher_SK.tools.0.label>stock</Gun_IncendiaryLauncher_SK.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_IncendiaryLauncher_SK.tools.1.label>barrel</Gun_IncendiaryLauncher_SK.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_IncendiaryLauncher_SK.tools.2.label>muzzle</Gun_IncendiaryLauncher_SK.tools.2.label>
+	
+	<!-- EN: neck -->
+	<HAR_SK_Meal_c.tools.1.label>neck</HAR_SK_Meal_c.tools.1.label>
+</LanguageData>

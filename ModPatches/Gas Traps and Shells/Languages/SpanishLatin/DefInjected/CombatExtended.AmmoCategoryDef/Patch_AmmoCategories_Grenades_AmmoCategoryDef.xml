@@ -1,0 +1,37 @@
+<LanguageData>
+	<!-- ModPatches\Gas Traps and Shells\Defs\Gas Traps and Shells\Patch_AmmoCategories_Grenades.xml -->
+	<!-- EN: Rage gas -->
+	<Rage.label>Rage gas</Rage.label>
+	<!-- EN: Filled with a specialized airbone agent that induces a blind, uncontrollable rage. -->
+	<Rage.description>Filled with a specialized airbone agent that induces a blind, uncontrollable rage.</Rage.description>
+	
+	<!-- EN: Tear gas -->
+	<TearGas.label>Tear gas</TearGas.label>
+	<!-- EN: Filled with a specialized airbone agent that attacks the sensitive membranes of the eyes and nose, making it difficult to see or breathe. -->
+	<TearGas.description>Filled with a specialized airbone agent that attacks the sensitive membranes of the eyes and nose, making it difficult to see or breathe.</TearGas.description>
+	
+	<!-- EN: Sleep gas -->
+	<Sleep.label>Sleep gas</Sleep.label>
+	<!-- EN: Filled with a powerful sedative, capable of knocking unconscious anyone exposed to it. -->
+	<Sleep.description>Filled with a powerful sedative, capable of knocking unconscious anyone exposed to it.</Sleep.description>
+	
+	<!-- EN: Fear gas -->
+	<Fear.label>Fear gas</Fear.label>
+	<!-- EN: Filled with a specialized airbone agent that induces an extremely strong feeling of dread and terror. -->
+	<Fear.description>Filled with a specialized airbone agent that induces an extremely strong feeling of dread and terror.</Fear.description>
+	
+	<!-- EN: Corrosive gas -->
+	<Acid.label>Corrosive gas</Acid.label>
+	<!-- EN: Filled with an extremely strong acid, capable of quickly burning flesh and metal alike. -->
+	<Acid.description>Filled with an extremely strong acid, capable of quickly burning flesh and metal alike.</Acid.description>
+	
+	<!-- EN: Nanomachine -->
+	<MechVirus.label>Nanomachine</MechVirus.label>
+	<!-- EN: Contains nanomachines designed to latch onto and wreck havoc on the systems of mechanoids. Ineffective against organic life. -->
+	<MechVirus.description>Contains nanomachines designed to latch onto and wreck havoc on the systems of mechanoids. Ineffective against organic life.</MechVirus.description>
+	
+	<!-- EN: Insecticide -->
+	<AntiInsect.label>Insecticide</AntiInsect.label>
+	<!-- EN: Filled with a special aerosol designed to kill insectoids. -->
+	<AntiInsect.description>Filled with a special aerosol designed to kill insectoids.</AntiInsect.description>
+</LanguageData>

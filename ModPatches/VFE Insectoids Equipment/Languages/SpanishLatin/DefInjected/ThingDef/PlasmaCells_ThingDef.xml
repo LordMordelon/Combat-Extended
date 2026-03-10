@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\VFE Insectoids Equipment\Defs\VFE Insectoids Equipment\Ammo\PlasmaCells.xml -->
+	<!-- EN: plasma shot -->
+	<Bullet_VFEI_PlasmaCutter.label>plasma shot</Bullet_VFEI_PlasmaCutter.label>
+	<!-- EN: plasma shot -->
+	<Bullet_VFEI_PlasmaScatter.label>plasma shot</Bullet_VFEI_PlasmaScatter.label>
+	<!-- EN: plasma beam -->
+	<Bullet_VFEI_PlasmaRifle.label>plasma beam</Bullet_VFEI_PlasmaRifle.label>
+	<!-- EN: plasma bolt -->
+	<Bullet_VFEI_PlasmaPiercer.label>plasma bolt</Bullet_VFEI_PlasmaPiercer.label>
+</LanguageData>

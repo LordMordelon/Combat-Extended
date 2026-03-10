@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- ModPatches\Orassans\Defs\Orassans\Ammo\RailShotgunAmmo.xml -->
+	
+	<!-- EN: make railgun (Buck:OE) shell x200 -->
+	<MakeAmmo_Railgun_BuckOE.label>make railgun (Buck:OE) shell x200</MakeAmmo_Railgun_BuckOE.label>
+	<!-- EN: Craft 200 12 gauge (Buck:OE) shells. -->
+	<MakeAmmo_Railgun_BuckOE.description>Craft 200 12 gauge (Buck:OE) shells.</MakeAmmo_Railgun_BuckOE.description>
+	<!-- EN: Making 12 gauge (Buck:OE) shells. -->
+	<MakeAmmo_Railgun_BuckOE.jobString>Making 12 gauge (Buck:OE) shells.</MakeAmmo_Railgun_BuckOE.jobString>
+	
+	<!-- EN: make railgun (Slug:OE) shell x200 -->
+	<MakeAmmo_Railgun_SlugOE.label>make railgun (Slug:OE) shell x200</MakeAmmo_Railgun_SlugOE.label>
+	<!-- EN: Craft 200 railgun (Slug:OE) shells. -->
+	<MakeAmmo_Railgun_SlugOE.description>Craft 200 railgun (Slug:OE) shells.</MakeAmmo_Railgun_SlugOE.description>
+	<!-- EN: Making railgun (Slug:OE) shells. -->
+	<MakeAmmo_Railgun_SlugOE.jobString>Making railgun (Slug:OE) shells.</MakeAmmo_Railgun_SlugOE.jobString>
+</LanguageData>

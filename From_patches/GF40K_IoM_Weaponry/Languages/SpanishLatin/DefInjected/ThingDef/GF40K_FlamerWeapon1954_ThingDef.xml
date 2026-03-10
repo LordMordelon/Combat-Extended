@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\GF40K_IoM_Weaponry\GF40K_FlamerWeapon1954.xml -->
+	<!-- EN: stock -->
+	<GF40K_Flamer.tools.0.label>stock</GF40K_Flamer.tools.0.label>
+	<!-- EN: barrel -->
+	<GF40K_Flamer.tools.1.label>barrel</GF40K_Flamer.tools.1.label>
+	<!-- EN: muzzle -->
+	<GF40K_Flamer.tools.2.label>muzzle</GF40K_Flamer.tools.2.label>
+	
+	<!-- EN: stock -->
+	<GF40K_RelicFlamer.tools.0.label>stock</GF40K_RelicFlamer.tools.0.label>
+	<!-- EN: barrel -->
+	<GF40K_RelicFlamer.tools.1.label>barrel</GF40K_RelicFlamer.tools.1.label>
+	<!-- EN: muzzle -->
+	<GF40K_RelicFlamer.tools.2.label>muzzle</GF40K_RelicFlamer.tools.2.label>
+</LanguageData>

@@ -1,0 +1,21 @@
+<LanguageData>
+	<!-- Defs\ThingDefs_Items\Items_Unfinished.xml -->
+	<!-- EN: Unfinished ammo batch -->
+	<UnfinishedAmmo.label>Unfinished ammo batch</UnfinishedAmmo.label>
+	<!-- EN: Unfinished arrow batch -->
+	<UnfinishedArrows.label>Unfinished arrow batch</UnfinishedArrows.label>
+	<!-- EN: Unfinished turret gun -->
+	<UnfinishedTurretGun.label>Unfinished turret gun</UnfinishedTurretGun.label>
+	<!-- EN: Unfinished shield -->
+	<UnfinishedShield.label>Unfinished shield</UnfinishedShield.label>
+	<!-- EN: unfinished hard metal armor -->
+	<UnfinishedSteeledTechArmor.label>unfinished hard metal armor</UnfinishedSteeledTechArmor.label>
+	<!-- EN: An unfinished piece of hard metal armor. -->
+	<UnfinishedSteeledTechArmor.description>An unfinished piece of hard metal armor.</UnfinishedSteeledTechArmor.description>
+	<!-- EN: unfinished armored apparel -->
+	<UnfinishedArmoredApparel.label>unfinished armored apparel</UnfinishedArmoredApparel.label>
+	<!-- EN: An unfinished piece of an armored apparel. -->
+	<UnfinishedArmoredApparel.description>An unfinished piece of an armored apparel.</UnfinishedArmoredApparel.description>
+	<!-- EN: improvised turret -->
+	<MinifiedTurretGun.label>improvised turret</MinifiedTurretGun.label>
+</LanguageData>

@@ -1,0 +1,67 @@
+<LanguageData>
+	<!-- Defs\Ammo\HighCaliber\14.5x114mmSoviet.xml -->
+	
+	<!-- EN: make 14.5x114mm (FMJ) cartridge x200 -->
+	<MakeAmmo_145x114mm_FMJ.label>make 14.5x114mm (FMJ) cartridge x200</MakeAmmo_145x114mm_FMJ.label>
+	<!-- EN: Craft 200 14.5x114mm (FMJ) cartridges. -->
+	<MakeAmmo_145x114mm_FMJ.description>Craft 200 14.5x114mm (FMJ) cartridges.</MakeAmmo_145x114mm_FMJ.description>
+	<!-- EN: Making 14.5x114mm (FMJ) cartridges. -->
+	<MakeAmmo_145x114mm_FMJ.jobString>Making 14.5x114mm (FMJ) cartridges.</MakeAmmo_145x114mm_FMJ.jobString>
+	
+	<!-- EN: make 14.5x114mm (AP) cartridge x200 -->
+	<MakeAmmo_145x114mm_AP.label>make 14.5x114mm (AP) cartridge x200</MakeAmmo_145x114mm_AP.label>
+	<!-- EN: Craft 200 14.5x114mm (AP) cartridges. -->
+	<MakeAmmo_145x114mm_AP.description>Craft 200 14.5x114mm (AP) cartridges.</MakeAmmo_145x114mm_AP.description>
+	<!-- EN: Making 14.5x114mm (AP) cartridges. -->
+	<MakeAmmo_145x114mm_AP.jobString>Making 14.5x114mm (AP) cartridges.</MakeAmmo_145x114mm_AP.jobString>
+	
+	<!-- EN: make 14.5x114mm (AP-I) cartridge x200 -->
+	<MakeAmmo_145x114mm_Incendiary.label>make 14.5x114mm (AP-I) cartridge x200</MakeAmmo_145x114mm_Incendiary.label>
+	<!-- EN: Craft 200 14.5x114mm (AP-I) cartridges. -->
+	<MakeAmmo_145x114mm_Incendiary.description>Craft 200 14.5x114mm (AP-I) cartridges.</MakeAmmo_145x114mm_Incendiary.description>
+	<!-- EN: Making 14.5x114mm (AP-I) cartridges. -->
+	<MakeAmmo_145x114mm_Incendiary.jobString>Making 14.5x114mm (AP-I) cartridges.</MakeAmmo_145x114mm_Incendiary.jobString>
+	
+	<!-- EN: make 14.5x114mm (AP-HE) cartridge x200 -->
+	<MakeAmmo_145x114mm_HE.label>make 14.5x114mm (AP-HE) cartridge x200</MakeAmmo_145x114mm_HE.label>
+	<!-- EN: Craft 200 14.5x114mm (AP-HE) cartridges. -->
+	<MakeAmmo_145x114mm_HE.description>Craft 200 14.5x114mm (AP-HE) cartridges.</MakeAmmo_145x114mm_HE.description>
+	<!-- EN: Making 14.5x114mm (AP-HE) cartridges. -->
+	<MakeAmmo_145x114mm_HE.jobString>Making 14.5x114mm (AP-HE) cartridges.</MakeAmmo_145x114mm_HE.jobString>
+	
+	<!-- EN: make 14.5x114mm (Sabot) cartridge x200 -->
+	<MakeAmmo_145x114mm_Sabot.label>make 14.5x114mm (Sabot) cartridge x200</MakeAmmo_145x114mm_Sabot.label>
+	<!-- EN: Craft 200 14.5x114mm (Sabot) cartridges. -->
+	<MakeAmmo_145x114mm_Sabot.description>Craft 200 14.5x114mm (Sabot) cartridges.</MakeAmmo_145x114mm_Sabot.description>
+	<!-- EN: Making 14.5x114mm (Sabot) cartridges. -->
+	<MakeAmmo_145x114mm_Sabot.jobString>Making 14.5x114mm (Sabot) cartridges.</MakeAmmo_145x114mm_Sabot.jobString>
+	<!-- Defs\Ammo\Modded\Halo\14.5x114mmUNSC.xml -->
+	
+	<!-- EN: make 14.5x114mmUNSC (FMJ) cartridge x200 -->
+	<MakeAmmo_145x114mmUNSC_FMJ.label>make 14.5x114mmUNSC (FMJ) cartridge x200</MakeAmmo_145x114mmUNSC_FMJ.label>
+	<!-- EN: Craft 200 14.5x114mmUNSC (FMJ) cartridges. -->
+	<MakeAmmo_145x114mmUNSC_FMJ.description>Craft 200 14.5x114mmUNSC (FMJ) cartridges.</MakeAmmo_145x114mmUNSC_FMJ.description>
+	<!-- EN: Making 14.5x114mmUNSC (FMJ) cartridges. -->
+	<MakeAmmo_145x114mmUNSC_FMJ.jobString>Making 14.5x114mmUNSC (FMJ) cartridges.</MakeAmmo_145x114mmUNSC_FMJ.jobString>
+	
+	<!-- EN: make 14.5x114mmUNSC (AP-I) cartridge x200 -->
+	<MakeAmmo_145x114mmUNSC_Incendiary.label>make 14.5x114mmUNSC (AP-I) cartridge x200</MakeAmmo_145x114mmUNSC_Incendiary.label>
+	<!-- EN: Craft 200 14.5x114mmUNSC (AP-I) cartridges. -->
+	<MakeAmmo_145x114mmUNSC_Incendiary.description>Craft 200 14.5x114mmUNSC (AP-I) cartridges.</MakeAmmo_145x114mmUNSC_Incendiary.description>
+	<!-- EN: Making 14.5x114mmUNSC (AP-I) cartridges. -->
+	<MakeAmmo_145x114mmUNSC_Incendiary.jobString>Making 14.5x114mmUNSC (AP-I) cartridges.</MakeAmmo_145x114mmUNSC_Incendiary.jobString>
+	
+	<!-- EN: make 14.5x114mmUNSC (HE) cartridge x200 -->
+	<MakeAmmo_145x114mmUNSC_HE.label>make 14.5x114mmUNSC (HE) cartridge x200</MakeAmmo_145x114mmUNSC_HE.label>
+	<!-- EN: Craft 200 14.5x114mmUNSC (HE) cartridges. -->
+	<MakeAmmo_145x114mmUNSC_HE.description>Craft 200 14.5x114mmUNSC (HE) cartridges.</MakeAmmo_145x114mmUNSC_HE.description>
+	<!-- EN: Making 14.5x114mmUNSC (HE) cartridges. -->
+	<MakeAmmo_145x114mmUNSC_HE.jobString>Making 14.5x114mmUNSC (HE) cartridges.</MakeAmmo_145x114mmUNSC_HE.jobString>
+	
+	<!-- EN: make 14.5x114mmUNSC (Sabot) cartridge x200 -->
+	<MakeAmmo_145x114mmUNSC_Sabot.label>make 14.5x114mmUNSC (Sabot) cartridge x200</MakeAmmo_145x114mmUNSC_Sabot.label>
+	<!-- EN: Craft 200 14.5x114mmUNSC (Sabot) cartridges. -->
+	<MakeAmmo_145x114mmUNSC_Sabot.description>Craft 200 14.5x114mmUNSC (Sabot) cartridges.</MakeAmmo_145x114mmUNSC_Sabot.description>
+	<!-- EN: Making 14.5x114mmUNSC (Sabot) cartridges. -->
+	<MakeAmmo_145x114mmUNSC_Sabot.jobString>Making 14.5x114mmUNSC (Sabot) cartridges.</MakeAmmo_145x114mmUNSC_Sabot.jobString>
+</LanguageData>

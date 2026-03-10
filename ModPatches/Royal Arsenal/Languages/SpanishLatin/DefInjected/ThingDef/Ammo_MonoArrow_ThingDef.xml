@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- ModPatches\Royal Arsenal\Defs\Royal Arsenal\Ammo\Ammo_MonoArrow.xml -->
+	
+	<!-- EN: Mono Arrow (Bodkin) -->
+	<Ammo_MonoArrow.label>Mono Arrow (Bodkin)</Ammo_MonoArrow.label>
+	<!-- EN: Specilized plasteel arrows that can be sharpened to a mono-molecular edge before being fired by a mono-longbow. -->
+	<Ammo_MonoArrow.description>Specilized plasteel arrows that can be sharpened to a mono-molecular edge before being fired by a mono-longbow.</Ammo_MonoArrow.description>
+	
+	<!-- EN: Mono Arrow (Broadhead) -->
+	<Ammo_MonoArrow_Broad.label>Mono Arrow (Broadhead)</Ammo_MonoArrow_Broad.label>
+	<!-- EN: Specilized plasteel arrows that can be sharpened to a mono-molecular edge before being fired by a mono-longbow. -->
+	<Ammo_MonoArrow_Broad.description>Specilized plasteel arrows that can be sharpened to a mono-molecular edge before being fired by a mono-longbow.</Ammo_MonoArrow_Broad.description>
+	
+	<!-- EN: mono-bodkin arrow -->
+	<Projectile_MonoArrow.label>mono-bodkin arrow</Projectile_MonoArrow.label>
+	
+	<!-- EN: mono-broadhead arrow -->
+	<Projectile_MonoArrow_Broad.label>mono-broadhead arrow</Projectile_MonoArrow_Broad.label>
+</LanguageData>

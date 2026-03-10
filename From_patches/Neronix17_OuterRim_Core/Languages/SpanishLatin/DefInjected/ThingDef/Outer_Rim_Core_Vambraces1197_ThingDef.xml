@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Neronix17_OuterRim_Core\Outer_Rim_Core_Vambraces1197.xml -->
+	<!-- EN: fire knockout dart -->
+	<OuterRim_Vambrace_KnockoutDart.verbs.0.label>fire knockout dart</OuterRim_Vambrace_KnockoutDart.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<OuterRim_Vambrace_KnockoutDart.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>ㅤ</OuterRim_Vambrace_KnockoutDart.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>
+	<!-- EN: dart -->
+	<OuterRim_Vambrace_KnockoutDart.comps.CompApparelReloadable.chargeNoun>dart</OuterRim_Vambrace_KnockoutDart.comps.CompApparelReloadable.chargeNoun>
+	<!-- EN: on reload -->
+	<OuterRim_Vambrace_KnockoutDart.comps.CompApparelReloadable.cooldownGerund>on reload</OuterRim_Vambrace_KnockoutDart.comps.CompApparelReloadable.cooldownGerund>
+</LanguageData>

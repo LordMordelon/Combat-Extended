@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\OskarPotocki_VanillaVehiclesExpandedTier3\Badger1880.xml -->
+	<!-- EN: Single -->
+	<Badger_MainTurret.fireModes.0.label>Single</Badger_MainTurret.fireModes.0.label>
+	<!-- EN: Burst -->
+	<Badger_MainTurret.fireModes.1.label>Burst</Badger_MainTurret.fireModes.1.label>
+	<!-- EN: Auto -->
+	<Badger_MainTurret.fireModes.2.label>Auto</Badger_MainTurret.fireModes.2.label>
+</LanguageData>

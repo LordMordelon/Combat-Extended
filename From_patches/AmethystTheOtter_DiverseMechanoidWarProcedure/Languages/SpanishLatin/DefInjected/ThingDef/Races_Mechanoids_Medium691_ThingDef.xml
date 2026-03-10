@@ -1,0 +1,38 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\AmethystTheOtter_DiverseMechanoidWarProcedure\Races_Mechanoids_Medium691.xml -->
+	<!-- EN: shield -->
+	<Mech_Knight.tools.0.label>shield</Mech_Knight.tools.0.label>
+	<!-- EN: blade -->
+	<Mech_Knight.tools.1.label>blade</Mech_Knight.tools.1.label>
+	<!-- EN: blade -->
+	<Mech_Knight.tools.2.label>blade</Mech_Knight.tools.2.label>
+	<!-- EN: head -->
+	<Mech_Knight.tools.3.label>head</Mech_Knight.tools.3.label>
+	
+	<!-- EN: front left leg -->
+	<Mech_Pikeman_Defender.tools.0.label>front left leg</Mech_Pikeman_Defender.tools.0.label>
+	<!-- EN: front right leg -->
+	<Mech_Pikeman_Defender.tools.1.label>front right leg</Mech_Pikeman_Defender.tools.1.label>
+	<!-- EN: head -->
+	<Mech_Pikeman_Defender.tools.2.label>head</Mech_Pikeman_Defender.tools.2.label>
+	
+	<!-- EN: front left leg -->
+	<Mech_Pikeman_Commander.tools.0.label>front left leg</Mech_Pikeman_Commander.tools.0.label>
+	<!-- EN: front right leg -->
+	<Mech_Pikeman_Commander.tools.1.label>front right leg</Mech_Pikeman_Commander.tools.1.label>
+	<!-- EN: head -->
+	<Mech_Pikeman_Commander.tools.2.label>head</Mech_Pikeman_Commander.tools.2.label>
+	
+	<!-- EN: head -->
+	<Mech_Termite_Shocker.tools.0.label>head</Mech_Termite_Shocker.tools.0.label>
+	
+	<!-- EN: head -->
+	<Mech_Termite_Toxer.tools.0.label>head</Mech_Termite_Toxer.tools.0.label>
+	
+	<!-- EN: front left leg -->
+	<Mech_Washer.tools.0.label>front left leg</Mech_Washer.tools.0.label>
+	<!-- EN: front right leg -->
+	<Mech_Washer.tools.1.label>front right leg</Mech_Washer.tools.1.label>
+	<!-- EN: head -->
+	<Mech_Washer.tools.2.label>head</Mech_Washer.tools.2.label>
+</LanguageData>

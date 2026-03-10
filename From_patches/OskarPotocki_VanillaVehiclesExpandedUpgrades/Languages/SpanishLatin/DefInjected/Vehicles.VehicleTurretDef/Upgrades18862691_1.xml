@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\OskarPotocki_VanillaVehiclesExpandedUpgrades\Bunsen_Upgrades1886.xml -->
+	<!-- EN: Burst -->
+	<VVE_Bunsen_MainTurret_Long.fireModes.0.label>Burst</VVE_Bunsen_MainTurret_Long.fireModes.0.label>
+	<!-- EN: Auto -->
+	<VVE_Bunsen_MainTurret_Long.fireModes.1.label>Auto</VVE_Bunsen_MainTurret_Long.fireModes.1.label>
+	
+	<!-- EN: Single -->
+	<VVE_Bunsen_MainTurret_Launcher.fireModes.0.label>Single</VVE_Bunsen_MainTurret_Launcher.fireModes.0.label>
+	<!-- EN: Burst -->
+	<VVE_Bunsen_MainTurret_Launcher.fireModes.1.label>Burst</VVE_Bunsen_MainTurret_Launcher.fireModes.1.label>
+	
+	<!-- EN: Burst -->
+	<VVE_Bunsen_MainTurret_Short.fireModes.0.label>Burst</VVE_Bunsen_MainTurret_Short.fireModes.0.label>
+	<!-- EN: Auto -->
+	<VVE_Bunsen_MainTurret_Short.fireModes.1.label>Auto</VVE_Bunsen_MainTurret_Short.fireModes.1.label>
+</LanguageData>

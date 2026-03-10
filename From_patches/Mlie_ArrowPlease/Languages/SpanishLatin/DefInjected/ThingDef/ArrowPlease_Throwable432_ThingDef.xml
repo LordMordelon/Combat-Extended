@@ -1,0 +1,18 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Mlie_ArrowPlease\ArrowPlease_Throwable432.xml -->
+	<!-- EN: handle -->
+	<Ranged_Tomahawk.tools.0.label>handle</Ranged_Tomahawk.tools.0.label>
+	<!-- EN: edge -->
+	<Ranged_Tomahawk.tools.1.label>edge</Ranged_Tomahawk.tools.1.label>
+	<!-- EN: throw tomahawk -->
+	<Ranged_Tomahawk.Properties.label>throw tomahawk</Ranged_Tomahawk.Properties.label>
+	
+	<!-- EN: stick -->
+	<Ranged_Torch.tools.0.label>stick</Ranged_Torch.tools.0.label>
+	<!-- EN: fire -->
+	<Ranged_Torch.tools.1.label>fire</Ranged_Torch.tools.1.label>
+	<!-- EN: fire -->
+	<Ranged_Torch.tools.2.label>fire</Ranged_Torch.tools.2.label>
+	<!-- EN: throw torch -->
+	<Ranged_Torch.Properties.label>throw torch</Ranged_Torch.Properties.label>
+</LanguageData>

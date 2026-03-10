@@ -1,0 +1,23 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\riprusse_rfPalmCats\ThingDefs_Races1221.xml -->
+	<!-- EN: left claw -->
+	<Leoplicant.tools.0.label>left claw</Leoplicant.tools.0.label>
+	<!-- EN: right claw -->
+	<Leoplicant.tools.1.label>right claw</Leoplicant.tools.1.label>
+	<!-- EN: head -->
+	<Leoplicant.tools.3.label>head</Leoplicant.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<MalmTiger.tools.0.label>left claw</MalmTiger.tools.0.label>
+	<!-- EN: right claw -->
+	<MalmTiger.tools.1.label>right claw</MalmTiger.tools.1.label>
+	<!-- EN: head -->
+	<MalmTiger.tools.3.label>head</MalmTiger.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<PalmCat.tools.0.label>left claw</PalmCat.tools.0.label>
+	<!-- EN: right claw -->
+	<PalmCat.tools.1.label>right claw</PalmCat.tools.1.label>
+	<!-- EN: head -->
+	<PalmCat.tools.3.label>head</PalmCat.tools.3.label>
+</LanguageData>

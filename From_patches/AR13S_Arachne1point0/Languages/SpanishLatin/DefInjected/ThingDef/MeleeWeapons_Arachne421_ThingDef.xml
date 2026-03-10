@@ -1,0 +1,12 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\AR13S_Arachne1point0\MeleeWeapons_Arachne421.xml -->
+	<!-- EN: handle -->
+	<Arachne_Sword.tools.0.label>handle</Arachne_Sword.tools.0.label>
+	<!-- EN: edge -->
+	<Arachne_Sword.tools.1.label>edge</Arachne_Sword.tools.1.label>
+	
+	<!-- EN: handle -->
+	<Arachne_Scythe.tools.0.label>handle</Arachne_Scythe.tools.0.label>
+	<!-- EN: edge -->
+	<Arachne_Scythe.tools.1.label>edge</Arachne_Scythe.tools.1.label>
+</LanguageData>

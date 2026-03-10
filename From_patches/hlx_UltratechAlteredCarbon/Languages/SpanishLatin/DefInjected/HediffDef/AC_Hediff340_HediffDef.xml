@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\hlx_UltratechAlteredCarbon\AC_Hediff340.xml -->
+	<!-- EN: edge -->
+	<AC_RogianArmBlade_Mono.comps.0.tools.0.label>edge</AC_RogianArmBlade_Mono.comps.0.tools.0.label>
+	<!-- EN: point -->
+	<AC_RogianArmBlade_Mono.comps.0.tools.1.label>point</AC_RogianArmBlade_Mono.comps.0.tools.1.label>
+	
+	<!-- EN: edge -->
+	<AC_RogianArmBlade_Plasma.comps.0.tools.0.label>edge</AC_RogianArmBlade_Plasma.comps.0.tools.0.label>
+	<!-- EN: point -->
+	<AC_RogianArmBlade_Plasma.comps.0.tools.1.label>point</AC_RogianArmBlade_Plasma.comps.0.tools.1.label>
+	
+	<!-- EN: edge -->
+	<AC_RogianArmBlade_Zeus.comps.0.tools.0.label>edge</AC_RogianArmBlade_Zeus.comps.0.tools.0.label>
+	<!-- EN: point -->
+	<AC_RogianArmBlade_Zeus.comps.0.tools.1.label>point</AC_RogianArmBlade_Zeus.comps.0.tools.1.label>
+</LanguageData>

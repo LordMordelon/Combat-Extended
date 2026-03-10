@@ -1,0 +1,21 @@
+<LanguageData>
+	<!-- ModPatches\Crypto Weapon Restored\Defs\Crypto Weapon Restored\Ammo_CryptoWeapons.xml -->
+	<!-- EN: make crypto rifle cartridge x500 -->
+	<MakeAmmo_CryptoRifle.label>make crypto rifle cartridge x500</MakeAmmo_CryptoRifle.label>
+	<!-- EN: Craft 500 crypto rifle cartridge cartridges. -->
+	<MakeAmmo_CryptoRifle.description>Craft 500 crypto rifle cartridge cartridges.</MakeAmmo_CryptoRifle.description>
+	<!-- EN: Making crypto rifle cartridge cartridges. -->
+	<MakeAmmo_CryptoRifle.jobString>Making crypto rifle cartridge cartridges.</MakeAmmo_CryptoRifle.jobString>
+	<!-- EN: make crypto pistol cartridge x500 -->
+	<MakeAmmo_CryptoPistol.label>make crypto pistol cartridge x500</MakeAmmo_CryptoPistol.label>
+	<!-- EN: Craft 500 crypto pistol cartridges. -->
+	<MakeAmmo_CryptoPistol.description>Craft 500 crypto pistol cartridges.</MakeAmmo_CryptoPistol.description>
+	<!-- EN: Making crypto pistol cartridges. -->
+	<MakeAmmo_CryptoPistol.jobString>Making crypto pistol cartridges.</MakeAmmo_CryptoPistol.jobString>
+	<!-- EN: make crypto shotgun shell x200 -->
+	<MakeAmmo_CryptoShotgun.label>make crypto shotgun shell x200</MakeAmmo_CryptoShotgun.label>
+	<!-- EN: Craft 200 Crypto Shotgun shells. -->
+	<MakeAmmo_CryptoShotgun.description>Craft 200 Crypto Shotgun shells.</MakeAmmo_CryptoShotgun.description>
+	<!-- EN: Making Crypto Shotgun shells. -->
+	<MakeAmmo_CryptoShotgun.jobString>Making Crypto Shotgun shells.</MakeAmmo_CryptoShotgun.jobString>
+</LanguageData>

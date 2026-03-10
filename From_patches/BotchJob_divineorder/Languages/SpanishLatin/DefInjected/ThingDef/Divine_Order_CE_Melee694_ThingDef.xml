@@ -1,0 +1,38 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\BotchJob_divineorder\Divine_Order_CE_Melee694.xml -->
+	<!-- EN: handle -->
+	<BotchJob_DivineOrderMace.tools.0.label>handle</BotchJob_DivineOrderMace.tools.0.label>
+	<!-- EN: head -->
+	<BotchJob_DivineOrderMace.tools.1.label>head</BotchJob_DivineOrderMace.tools.1.label>
+	
+	<!-- EN: handle -->
+	<BotchJob_DivineOrderShortsword.tools.0.label>handle</BotchJob_DivineOrderShortsword.tools.0.label>
+	<!-- EN: point -->
+	<BotchJob_DivineOrderShortsword.tools.1.label>point</BotchJob_DivineOrderShortsword.tools.1.label>
+	<!-- EN: edge -->
+	<BotchJob_DivineOrderShortsword.tools.2.label>edge</BotchJob_DivineOrderShortsword.tools.2.label>
+	
+	<!-- EN: handle -->
+	<BotchJob_DivineOrderLongsword.tools.0.label>handle</BotchJob_DivineOrderLongsword.tools.0.label>
+	<!-- EN: point -->
+	<BotchJob_DivineOrderLongsword.tools.1.label>point</BotchJob_DivineOrderLongsword.tools.1.label>
+	<!-- EN: edge -->
+	<BotchJob_DivineOrderLongsword.tools.2.label>edge</BotchJob_DivineOrderLongsword.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<BotchJob_DivineOrderBattleStandard.tools.0.label>shaft</BotchJob_DivineOrderBattleStandard.tools.0.label>
+	<!-- EN: point -->
+	<BotchJob_DivineOrderBattleStandard.tools.1.label>point</BotchJob_DivineOrderBattleStandard.tools.1.label>
+	
+	<!-- EN: handle -->
+	<BotchJob_DivineOrderGreatsword.tools.0.label>handle</BotchJob_DivineOrderGreatsword.tools.0.label>
+	<!-- EN: point -->
+	<BotchJob_DivineOrderGreatsword.tools.1.label>point</BotchJob_DivineOrderGreatsword.tools.1.label>
+	<!-- EN: edge -->
+	<BotchJob_DivineOrderGreatsword.tools.2.label>edge</BotchJob_DivineOrderGreatsword.tools.2.label>
+	
+	<!-- EN: handle -->
+	<BotchJob_DivineOrderWarhammer.tools.0.label>handle</BotchJob_DivineOrderWarhammer.tools.0.label>
+	<!-- EN: head -->
+	<BotchJob_DivineOrderWarhammer.tools.1.label>head</BotchJob_DivineOrderWarhammer.tools.1.label>
+</LanguageData>

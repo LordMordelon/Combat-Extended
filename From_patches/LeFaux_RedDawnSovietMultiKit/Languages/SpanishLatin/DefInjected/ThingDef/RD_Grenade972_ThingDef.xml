@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\LeFaux_RedDawnSovietMultiKit\RD_Grenade972.xml -->
+	<!-- EN: throw grenade -->
+	<Weapon_RGD5Grenade.Properties.label>throw grenade</Weapon_RGD5Grenade.Properties.label>
+	<!-- EN: throw grenade -->
+	<Weapon_RGNGrenade.Properties.label>throw grenade</Weapon_RGNGrenade.Properties.label>
+	<!-- EN: throw grenade -->
+	<Weapon_RGOGrenade.Properties.label>throw grenade</Weapon_RGOGrenade.Properties.label>
+	<!-- EN: throw grenade -->
+	<Weapon_F1Grenade.Properties.label>throw grenade</Weapon_F1Grenade.Properties.label>
+	<!-- EN: throw an AT grenade -->
+	<Weapon_RKGATGrenade.Properties.label>throw an AT grenade</Weapon_RKGATGrenade.Properties.label>
+</LanguageData>

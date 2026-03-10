@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- ModPatches\Eltex Weaponry\Defs\Eltex Weaponry\EW_Ammo_CE.xml -->
+	<!-- EN: eltex capacitor -->
+	<Ammo_EltexCap.label>eltex capacitor</Ammo_EltexCap.label>
+	<!-- EN: Single use psychic capacitors, designed to focus psychic energy into a concentrated blast before being fired from eltex weaponry. -->
+	<Ammo_EltexCap.description>Single use psychic capacitors, designed to focus psychic energy into a concentrated blast before being fired from eltex weaponry.</Ammo_EltexCap.description>
+	<!-- EN: light eltex bolt -->
+	<Bullet_EltexLight.label>light eltex bolt</Bullet_EltexLight.label>
+	<!-- EN: eltex bolt -->
+	<Bullet_EltexMedium.label>eltex bolt</Bullet_EltexMedium.label>
+	<!-- EN: heavy eltex bolt -->
+	<Bullet_EltexHeavy.label>heavy eltex bolt</Bullet_EltexHeavy.label>
+</LanguageData>

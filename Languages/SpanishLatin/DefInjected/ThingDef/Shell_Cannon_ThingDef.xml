@@ -1,0 +1,53 @@
+<LanguageData>
+	<!-- Defs\Ammo\Generic\Shell_Cannon.xml -->
+	
+	<!-- EN: light cannon shell (AP) -->
+	<Ammo_LightCannonShell_AP.label>light cannon shell (AP)</Ammo_LightCannonShell_AP.label>
+	<!-- EN: Large caliber shell used by autocannons and anti-aircraft cannons. -->
+	<Ammo_LightCannonShell_AP.description>Large caliber shell used by autocannons and anti-aircraft cannons.</Ammo_LightCannonShell_AP.description>
+	
+	<!-- EN: light cannon shell (HE) -->
+	<Ammo_LightCannonShell_HE.label>light cannon shell (HE)</Ammo_LightCannonShell_HE.label>
+	<!-- EN: Large caliber shell used by autocannons and anti-aircraft cannons. -->
+	<Ammo_LightCannonShell_HE.description>Large caliber shell used by autocannons and anti-aircraft cannons.</Ammo_LightCannonShell_HE.description>
+	
+	<!-- EN: light cannon shell (HE Time Fuzed) -->
+	<Ammo_LightCannonShell_HE_TFuzed.label>light cannon shell (HE Time Fuzed)</Ammo_LightCannonShell_HE_TFuzed.label>
+	<!-- EN: Large caliber shell used by autocannons and anti-aircraft cannons. -->
+	<Ammo_LightCannonShell_HE_TFuzed.description>Large caliber shell used by autocannons and anti-aircraft cannons.</Ammo_LightCannonShell_HE_TFuzed.description>
+	
+	<!-- EN: light cannon shell (Sabot) -->
+	<Ammo_LightCannonShell_Sabot.label>light cannon shell (Sabot)</Ammo_LightCannonShell_Sabot.label>
+	<!-- EN: Large caliber shell used by autocannons and anti-aircraft cannons. -->
+	<Ammo_LightCannonShell_Sabot.description>Large caliber shell used by autocannons and anti-aircraft cannons.</Ammo_LightCannonShell_Sabot.description>
+	
+	<!-- EN: heavy cannon shell (HEAT) -->
+	<Ammo_HeavyCannonShell_HEAT.label>heavy cannon shell (HEAT)</Ammo_HeavyCannonShell_HEAT.label>
+	<!-- EN: High-caliber cannon shell typically used by anti-armor weaponry. -->
+	<Ammo_HeavyCannonShell_HEAT.description>High-caliber cannon shell typically used by anti-armor weaponry.</Ammo_HeavyCannonShell_HEAT.description>
+	
+	<!-- EN: heavy cannon shell (AP) -->
+	<Ammo_HeavyCannonShell_AP.label>heavy cannon shell (AP)</Ammo_HeavyCannonShell_AP.label>
+	<!-- EN: Relatively small cannon shell. -->
+	<Ammo_HeavyCannonShell_AP.description>Relatively small cannon shell.</Ammo_HeavyCannonShell_AP.description>
+	
+	<!-- EN: heavy cannon shell (HE) -->
+	<Ammo_HeavyCannonShell_HE.label>heavy cannon shell (HE)</Ammo_HeavyCannonShell_HE.label>
+	<!-- EN: Relatively small cannon shell. -->
+	<Ammo_HeavyCannonShell_HE.description>Relatively small cannon shell.</Ammo_HeavyCannonShell_HE.description>
+	
+	<!-- EN: heavy cannon shell (HE Time-Fuzed) -->
+	<Ammo_HeavyCannonShell_HE_TFuzed.label>heavy cannon shell (HE Time-Fuzed)</Ammo_HeavyCannonShell_HE_TFuzed.label>
+	<!-- EN: Relatively small cannon shell. -->
+	<Ammo_HeavyCannonShell_HE_TFuzed.description>Relatively small cannon shell.</Ammo_HeavyCannonShell_HE_TFuzed.description>
+	
+	<!-- EN: heavy cannon shell (APCR) -->
+	<Ammo_HeavyCannonShell_APCR.label>heavy cannon shell (APCR)</Ammo_HeavyCannonShell_APCR.label>
+	<!-- EN: Relatively small cannon shell. -->
+	<Ammo_HeavyCannonShell_APCR.description>Relatively small cannon shell.</Ammo_HeavyCannonShell_APCR.description>
+	
+	<!-- EN: heavy cannon shell (EMP) -->
+	<Ammo_HeavyCannonShell_EMP.label>heavy cannon shell (EMP)</Ammo_HeavyCannonShell_EMP.label>
+	<!-- EN: Relatively small cannon shell. -->
+	<Ammo_HeavyCannonShell_EMP.description>Relatively small cannon shell.</Ammo_HeavyCannonShell_EMP.description>
+</LanguageData>

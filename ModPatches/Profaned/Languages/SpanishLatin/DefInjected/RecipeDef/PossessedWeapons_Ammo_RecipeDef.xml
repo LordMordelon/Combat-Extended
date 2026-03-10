@@ -1,0 +1,10 @@
+<LanguageData>
+	<!-- ModPatches\Profaned\Defs\Profaned\PossessedWeapons_Ammo.xml -->
+	
+	<!-- EN: make rot stink arrows x10 -->
+	<MakeAmmo_ProfanedGreatbowArrow.label>make rot stink arrows x10</MakeAmmo_ProfanedGreatbowArrow.label>
+	<!-- EN: Craft 10 rot stink great arrows. -->
+	<MakeAmmo_ProfanedGreatbowArrow.description>Craft 10 rot stink great arrows.</MakeAmmo_ProfanedGreatbowArrow.description>
+	<!-- EN: Making rot stink great arrows. -->
+	<MakeAmmo_ProfanedGreatbowArrow.jobString>Making rot stink great arrows.</MakeAmmo_ProfanedGreatbowArrow.jobString>
+</LanguageData>

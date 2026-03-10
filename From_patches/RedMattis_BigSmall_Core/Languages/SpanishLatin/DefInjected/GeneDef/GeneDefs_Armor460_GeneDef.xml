@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\RedMattis_BigSmall_Core\GeneDefs_Armor460.xml -->
+	<!-- EN: +0.5 mm natural sharp armor -->
+	<BS_ToughSkin.customEffectDescriptions.0>+0.5 mm natural sharp armor</BS_ToughSkin.customEffectDescriptions.0>
+	<!-- EN: +1.0 mPA natural blunt armor -->
+	<BS_ToughSkin.customEffectDescriptions.1>+1.0 mPA natural blunt armor</BS_ToughSkin.customEffectDescriptions.1>
+	
+	<!-- EN: +2 mm natural sharp armor -->
+	<BS_NaturalArmor.customEffectDescriptions.0>+2 mm natural sharp armor</BS_NaturalArmor.customEffectDescriptions.0>
+	<!-- EN: +4 mPA natural blunt armor -->
+	<BS_NaturalArmor.customEffectDescriptions.1>+4 mPA natural blunt armor</BS_NaturalArmor.customEffectDescriptions.1>
+	
+	<!-- EN: +3 mm natural sharp armor -->
+	<BS_NaturalArmor_Great.customEffectDescriptions.0>+3 mm natural sharp armor</BS_NaturalArmor_Great.customEffectDescriptions.0>
+	<!-- EN: +9 mPA natural blunt armor -->
+	<BS_NaturalArmor_Great.customEffectDescriptions.1>+9 mPA natural blunt armor</BS_NaturalArmor_Great.customEffectDescriptions.1>
+</LanguageData>

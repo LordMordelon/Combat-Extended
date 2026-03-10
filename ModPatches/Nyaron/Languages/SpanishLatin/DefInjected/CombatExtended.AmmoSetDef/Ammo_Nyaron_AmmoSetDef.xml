@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- ModPatches\Nyaron\Defs\Nyaron\Ammo\Ammo_Nyaron.xml -->
+	<!-- EN: Energy Ball -->
+	<AmmoSet_NyaronCellBall.label>Energy Ball</AmmoSet_NyaronCellBall.label>
+	<!-- EN: Energy Ball -->
+	<AmmoSet_NyaronCellBullet.label>Energy Ball</AmmoSet_NyaronCellBullet.label>
+	<!-- EN: Energy Ball -->
+	<AmmoSet_NyaronCellLaser.label>Energy Ball</AmmoSet_NyaronCellLaser.label>
+	<!-- EN: great arrows -->
+	<AmmoSet_GreatArrowNyaron.label>great arrows</AmmoSet_GreatArrowNyaron.label>
+	<!-- EN: NyaronFlak Grenades -->
+	<AmmoSet_NyaronFlakGrenade.label>NyaronFlak Grenades</AmmoSet_NyaronFlakGrenade.label>
+</LanguageData>

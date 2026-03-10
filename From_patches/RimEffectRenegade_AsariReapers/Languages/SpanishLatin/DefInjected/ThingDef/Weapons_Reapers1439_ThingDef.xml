@@ -1,0 +1,22 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\RimEffectRenegade_AsariReapers\Weapons_Reapers1439.xml -->
+	<!-- EN: stock -->
+	<RE_Gun_CannibalCaster.tools.0.label>stock</RE_Gun_CannibalCaster.tools.0.label>
+	<!-- EN: barrel -->
+	<RE_Gun_CannibalCaster.tools.1.label>barrel</RE_Gun_CannibalCaster.tools.1.label>
+	<!-- EN: muzzle -->
+	<RE_Gun_CannibalCaster.tools.2.label>muzzle</RE_Gun_CannibalCaster.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RE_Gun_MarauderRifle.tools.0.label>stock</RE_Gun_MarauderRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RE_Gun_MarauderRifle.tools.1.label>barrel</RE_Gun_MarauderRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RE_Gun_MarauderRifle.tools.2.label>muzzle</RE_Gun_MarauderRifle.tools.2.label>
+	
+	<!-- EN: barrel -->
+	<RE_Gun_GoliathCannon.tools.0.label>barrel</RE_Gun_GoliathCannon.tools.0.label>
+	
+	<!-- EN: barrel -->
+	<RE_Gun_ColossusArtillery.tools.0.label>barrel</RE_Gun_ColossusArtillery.tools.0.label>
+</LanguageData>

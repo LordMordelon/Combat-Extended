@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- ModPatches\Moyo Cartel\Defs\Moyo Cartel\Ammo\Ammo_Moyo.xml -->
+	<!-- EN: 6x18mm Charged bullet -->
+	<Bullet_6x18mmCMoyo.label>6x18mm Charged bullet</Bullet_6x18mmCMoyo.label>
+	<!-- EN: 6x18mm Charged bullet (Conc.) -->
+	<Bullet_6x18mmCMoyo_AP.label>6x18mm Charged bullet (Conc.)</Bullet_6x18mmCMoyo_AP.label>
+	<!-- EN: 6x18mm Charged bullet (Ion) -->
+	<Bullet_6x18mmCMoyo_Ion.label>6x18mm Charged bullet (Ion)</Bullet_6x18mmCMoyo_Ion.label>
+	<!-- EN: 6x24mm Charged bullet -->
+	<Bullet_6x24mmCMoyo.label>6x24mm Charged bullet</Bullet_6x24mmCMoyo.label>
+	<!-- EN: 6x24mm Charged bullet (Conc.) -->
+	<Bullet_6x24mmCMoyo_AP.label>6x24mm Charged bullet (Conc.)</Bullet_6x24mmCMoyo_AP.label>
+	<!-- EN: 6x24mm Charged bullet (Ion) -->
+	<Bullet_6x24mmCMoyo_Ion.label>6x24mm Charged bullet (Ion)</Bullet_6x24mmCMoyo_Ion.label>
+	<!-- EN: 10x18mm Charged bullet -->
+	<Bullet_10x18mmCMoyo.label>10x18mm Charged bullet</Bullet_10x18mmCMoyo.label>
+	<!-- EN: 10x18mm Charged bullet (Conc.) -->
+	<Bullet_10x18mmCMoyo_AP.label>10x18mm Charged bullet (Conc.)</Bullet_10x18mmCMoyo_AP.label>
+	<!-- EN: 10x18mm Charged bullet (Ion) -->
+	<Bullet_10x18mmCMoyo_Ion.label>10x18mm Charged bullet (Ion)</Bullet_10x18mmCMoyo_Ion.label>
+	<!-- EN: 8x50mm Charged bullet -->
+	<Bullet_8x50mmCMoyo.label>8x50mm Charged bullet</Bullet_8x50mmCMoyo.label>
+	<!-- EN: 8x50mm Charged bullet (Conc.) -->
+	<Bullet_8x50mmCMoyo_AP.label>8x50mm Charged bullet (Conc.)</Bullet_8x50mmCMoyo_AP.label>
+	<!-- EN: 8x50mm Charged bullet (Ion) -->
+	<Bullet_8x50mmCMoyo_Ion.label>8x50mm Charged bullet (Ion)</Bullet_8x50mmCMoyo_Ion.label>
+</LanguageData>

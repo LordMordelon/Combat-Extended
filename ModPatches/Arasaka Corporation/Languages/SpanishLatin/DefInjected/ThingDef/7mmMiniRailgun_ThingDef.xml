@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Arasaka Corporation\Defs\Arasaka Corporation\7mmMiniRailgun.xml -->
+	<!-- EN: 7mm Railgun cartridge (Sabot) -->
+	<Ammo_7mmMiniRailgun_Sabot.label>7mm Railgun cartridge (Sabot)</Ammo_7mmMiniRailgun_Sabot.label>
+	<!-- EN: Powerful tungsten carbide penetrator with discarding sabot, designed for railgun pistols. -->
+	<Ammo_7mmMiniRailgun_Sabot.description>Powerful tungsten carbide penetrator with discarding sabot, designed for railgun pistols.</Ammo_7mmMiniRailgun_Sabot.description>
+	<!-- EN: 7mm Railgun bullet (Sabot) -->
+	<Bullet_7mmMiniRailgun_Sabot.label>7mm Railgun bullet (Sabot)</Bullet_7mmMiniRailgun_Sabot.label>
+</LanguageData>

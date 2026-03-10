@@ -1,0 +1,24 @@
+<LanguageData>
+	<!-- Defs\Ammo\Grenade\83mmPIATGrenade.xml -->
+	
+	<!-- EN: make 83mm PIAT HEAT grenades x5 -->
+	<MakeAmmo_83mmPIATGrenade_HEAT.label>make 83mm PIAT HEAT grenades x5</MakeAmmo_83mmPIATGrenade_HEAT.label>
+	<!-- EN: Craft 5 83mm PIAT HEAT grenades. -->
+	<MakeAmmo_83mmPIATGrenade_HEAT.description>Craft 5 83mm PIAT HEAT grenades.</MakeAmmo_83mmPIATGrenade_HEAT.description>
+	<!-- EN: Making 83mm PIAT HEAT grenades. -->
+	<MakeAmmo_83mmPIATGrenade_HEAT.jobString>Making 83mm PIAT HEAT grenades.</MakeAmmo_83mmPIATGrenade_HEAT.jobString>
+	
+	<!-- EN: make 83mm PIAT HE grenades x5 -->
+	<MakeAmmo_83mmPIATGrenade_HE.label>make 83mm PIAT HE grenades x5</MakeAmmo_83mmPIATGrenade_HE.label>
+	<!-- EN: Craft 5 83mm PIAT HE grenades. -->
+	<MakeAmmo_83mmPIATGrenade_HE.description>Craft 5 83mm PIAT HE grenades.</MakeAmmo_83mmPIATGrenade_HE.description>
+	<!-- EN: Making 83mm PIAT HE grenades. -->
+	<MakeAmmo_83mmPIATGrenade_HE.jobString>Making 83mm PIAT HE grenades.</MakeAmmo_83mmPIATGrenade_HE.jobString>
+	
+	<!-- EN: make 83mm PIAT EMP grenades x5 -->
+	<MakeAmmo_83mmPIATGrenade_EMP.label>make 83mm PIAT EMP grenades x5</MakeAmmo_83mmPIATGrenade_EMP.label>
+	<!-- EN: Craft 5 83mm PIAT EMP grenades. -->
+	<MakeAmmo_83mmPIATGrenade_EMP.description>Craft 5 83mm PIAT EMP grenades.</MakeAmmo_83mmPIATGrenade_EMP.description>
+	<!-- EN: Making 83mm PIAT EMP grenades. -->
+	<MakeAmmo_83mmPIATGrenade_EMP.jobString>Making 83mm PIAT EMP grenades.</MakeAmmo_83mmPIATGrenade_EMP.jobString>
+</LanguageData>

@@ -1,0 +1,63 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\SirMashedPotato_MorrowRim\MorrowRim_Reptile_PantherCE1132.xml -->
+	<!-- EN: claws -->
+	<MorrowRim_Guar.tools.0.label>claws</MorrowRim_Guar.tools.0.label>
+	<!-- EN: head -->
+	<MorrowRim_Guar.tools.2.label>head</MorrowRim_Guar.tools.2.label>
+	
+	<!-- EN: claws -->
+	<MorrowRim_AlbinoGuar.tools.0.label>claws</MorrowRim_AlbinoGuar.tools.0.label>
+	<!-- EN: head -->
+	<MorrowRim_AlbinoGuar.tools.2.label>head</MorrowRim_AlbinoGuar.tools.2.label>
+	
+	<!-- EN: claws -->
+	<MorrowRim_Alit.tools.0.label>claws</MorrowRim_Alit.tools.0.label>
+	<!-- EN: head -->
+	<MorrowRim_Alit.tools.2.label>head</MorrowRim_Alit.tools.2.label>
+	
+	<!-- EN: tusk -->
+	<MorrowRim_Kagouti.tools.0.label>tusk</MorrowRim_Kagouti.tools.0.label>
+	<!-- EN: claws -->
+	<MorrowRim_Kagouti.tools.1.label>claws</MorrowRim_Kagouti.tools.1.label>
+	<!-- EN: head -->
+	<MorrowRim_Kagouti.tools.3.label>head</MorrowRim_Kagouti.tools.3.label>
+	
+	<!-- EN: tusk -->
+	<MorrowRim_Durzog.tools.0.label>tusk</MorrowRim_Durzog.tools.0.label>
+	<!-- EN: head -->
+	<MorrowRim_Durzog.tools.2.label>head</MorrowRim_Durzog.tools.2.label>
+	
+	<!-- EN: tail -->
+	<MorrowRim_CliffRacer.tools.0.label>tail</MorrowRim_CliffRacer.tools.0.label>
+	<!-- EN: beak -->
+	<MorrowRim_CliffRacer.tools.1.label>beak</MorrowRim_CliffRacer.tools.1.label>
+	<!-- EN: head -->
+	<MorrowRim_CliffRacer.tools.2.label>head</MorrowRim_CliffRacer.tools.2.label>
+	
+	<!-- EN: claws -->
+	<MorrowRim_TigerGuar.tools.0.label>claws</MorrowRim_TigerGuar.tools.0.label>
+	<!-- EN: head -->
+	<MorrowRim_TigerGuar.tools.2.label>head</MorrowRim_TigerGuar.tools.2.label>
+	
+	<!-- EN: claws -->
+	<MorrowRim_BantamGuar.tools.0.label>claws</MorrowRim_BantamGuar.tools.0.label>
+	<!-- EN: head -->
+	<MorrowRim_BantamGuar.tools.2.label>head</MorrowRim_BantamGuar.tools.2.label>
+	
+	<!-- EN: claws -->
+	<MorrowRim_Wormmouth.tools.0.label>claws</MorrowRim_Wormmouth.tools.0.label>
+	<!-- EN: head -->
+	<MorrowRim_Wormmouth.tools.2.label>head</MorrowRim_Wormmouth.tools.2.label>
+	
+	<!-- EN: claws -->
+	<MorrowRim_Scuttler.tools.0.label>claws</MorrowRim_Scuttler.tools.0.label>
+	<!-- EN: head -->
+	<MorrowRim_Scuttler.tools.2.label>head</MorrowRim_Scuttler.tools.2.label>
+	
+	<!-- EN: left claw -->
+	<MorrowRim_AshPanther.tools.0.label>left claw</MorrowRim_AshPanther.tools.0.label>
+	<!-- EN: right claw -->
+	<MorrowRim_AshPanther.tools.1.label>right claw</MorrowRim_AshPanther.tools.1.label>
+	<!-- EN: head -->
+	<MorrowRim_AshPanther.tools.3.label>head</MorrowRim_AshPanther.tools.3.label>
+</LanguageData>

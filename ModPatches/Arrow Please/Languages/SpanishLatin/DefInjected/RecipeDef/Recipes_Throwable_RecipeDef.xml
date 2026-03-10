@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- ModPatches\Arrow Please\Defs\Arrow Please\Recipes_Throwable.xml -->
+	<!-- EN: make tomahawk x10 -->
+	<Make_Ranged_Tomahawk_CE.label>make tomahawk x10</Make_Ranged_Tomahawk_CE.label>
+	<!-- EN: Craft 10 tomahawks. -->
+	<Make_Ranged_Tomahawk_CE.description>Craft 10 tomahawks.</Make_Ranged_Tomahawk_CE.description>
+	<!-- EN: Making tomahawk. -->
+	<Make_Ranged_Tomahawk_CE.jobString>Making tomahawk.</Make_Ranged_Tomahawk_CE.jobString>
+	
+	<!-- EN: make torch x10 -->
+	<Make_Torch_Torch.label>make torch x10</Make_Torch_Torch.label>
+	<!-- EN: Craft 10 torches. -->
+	<Make_Torch_Torch.description>Craft 10 torches.</Make_Torch_Torch.description>
+	<!-- EN: Making torch. -->
+	<Make_Torch_Torch.jobString>Making torch.</Make_Torch_Torch.jobString>
+</LanguageData>

@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Miho Race\Defs\Miho Race\Ammo\Ammo_Miho_Industrial.xml -->
+	<!-- EN: armor-piercing incendiary (Miholic) -->
+	<IncendiaryMiho.label>armor-piercing incendiary (Miholic)</IncendiaryMiho.label>
+	<!-- EN: AP-IM -->
+	<IncendiaryMiho.labelShort>AP-IM</IncendiaryMiho.labelShort>
+	<!-- EN: Filled with an high intensity incendiary compound that ignites on impact, burning the target, increasing armor penetration and comprimising the structure of the target. -->
+	<IncendiaryMiho.description>Filled with an high intensity incendiary compound that ignites on impact, burning the target, increasing armor penetration and comprimising the structure of the target.</IncendiaryMiho.description>
+</LanguageData>

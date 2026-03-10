@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Zaps\Zapguns Punched.xml -->
+	<!-- EN: Porter's X2 Zapgun cartridge -->
+	<Ammo_Zapgun_Punched.label>Porter's X2 Zapgun cartridge</Ammo_Zapgun_Punched.label>
+	<!-- EN: A electrical battery that is used for both the blue and red zap guns -->
+	<Ammo_Zapgun_Punched.description>A electrical battery that is used for both the blue and red zap guns</Ammo_Zapgun_Punched.description>
+	<!-- EN: Max Wave Blast -->
+	<Bullet_Wavegun_Punched.label>Max Wave Blast</Bullet_Wavegun_Punched.label>
+</LanguageData>

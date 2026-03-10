@@ -1,0 +1,49 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\rimsenal_EVP\Weapons_Charge_CE1537.xml -->
+	<!-- EN: grip -->
+	<Gun_ChargeSidearm.tools.0.label>grip</Gun_ChargeSidearm.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_ChargeSidearm.tools.1.label>muzzle</Gun_ChargeSidearm.tools.1.label>
+	
+	<!-- EN: stock -->
+	<Gun_ScatterCharger.tools.0.label>stock</Gun_ScatterCharger.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_ScatterCharger.tools.1.label>barrel</Gun_ScatterCharger.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_ScatterCharger.tools.2.label>muzzle</Gun_ScatterCharger.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_ChargeDriver.tools.0.label>stock</Gun_ChargeDriver.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_ChargeDriver.tools.1.label>barrel</Gun_ChargeDriver.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_ChargeDriver.tools.2.label>muzzle</Gun_ChargeDriver.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_EMPRifle.tools.0.label>stock</Gun_EMPRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_EMPRifle.tools.1.label>barrel</Gun_EMPRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_EMPRifle.tools.2.label>muzzle</Gun_EMPRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_AssaultCharger.tools.0.label>stock</Gun_AssaultCharger.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_AssaultCharger.tools.1.label>barrel</Gun_AssaultCharger.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_AssaultCharger.tools.2.label>muzzle</Gun_AssaultCharger.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_BurstCharger.tools.0.label>stock</Gun_BurstCharger.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_BurstCharger.tools.1.label>barrel</Gun_BurstCharger.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_BurstCharger.tools.2.label>muzzle</Gun_BurstCharger.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_CFR.tools.0.label>stock</Gun_CFR.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_CFR.tools.1.label>barrel</Gun_CFR.tools.1.label>
+	<!-- EN: bayonet -->
+	<Gun_CFR.tools.2.label>bayonet</Gun_CFR.tools.2.label>
+</LanguageData>

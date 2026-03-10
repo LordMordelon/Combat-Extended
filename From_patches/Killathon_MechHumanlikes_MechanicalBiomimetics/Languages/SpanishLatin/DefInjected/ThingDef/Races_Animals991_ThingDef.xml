@@ -1,0 +1,28 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Killathon_MechHumanlikes_MechanicalBiomimetics\Races_Animals991.xml -->
+	<!-- EN: left wing -->
+	<ATB_MicroScyther.tools.0.label>left wing</ATB_MicroScyther.tools.0.label>
+	<!-- EN: right wing -->
+	<ATB_MicroScyther.tools.1.label>right wing</ATB_MicroScyther.tools.1.label>
+	<!-- EN: head -->
+	<ATB_MicroScyther.tools.2.label>head</ATB_MicroScyther.tools.2.label>
+	
+	<!-- EN: head -->
+	<ATB_DroneChemUnit.tools.0.label>head</ATB_DroneChemUnit.tools.0.label>
+	
+	<!-- EN: head -->
+	<ATB_DroneMineralUnit.tools.0.label>head</ATB_DroneMineralUnit.tools.0.label>
+	
+	<!-- EN: head -->
+	<ATB_DroneNutritionUnit.tools.0.label>head</ATB_DroneNutritionUnit.tools.0.label>
+	
+	<!-- EN: head -->
+	<ATB_DroneTORT.tools.0.label>head</ATB_DroneTORT.tools.0.label>
+	
+	<!-- EN: left claw -->
+	<ATB_DroneWatchdog.tools.0.label>left claw</ATB_DroneWatchdog.tools.0.label>
+	<!-- EN: right claw -->
+	<ATB_DroneWatchdog.tools.1.label>right claw</ATB_DroneWatchdog.tools.1.label>
+	<!-- EN: head -->
+	<ATB_DroneWatchdog.tools.3.label>head</ATB_DroneWatchdog.tools.3.label>
+</LanguageData>

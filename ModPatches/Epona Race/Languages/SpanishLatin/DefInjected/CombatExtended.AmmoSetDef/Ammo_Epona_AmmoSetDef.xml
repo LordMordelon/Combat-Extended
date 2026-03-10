@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- ModPatches\Epona Race\Defs\Epona Race\Ammo\Ammo_Epona.xml -->
+	<!-- EN: toxic pulse -->
+	<AmmoSet_Epona_Shock.label>toxic pulse</AmmoSet_Epona_Shock.label>
+	<!-- EN: shard pulse -->
+	<AmmoSet_Epona_Shard.label>shard pulse</AmmoSet_Epona_Shard.label>
+	<!-- EN: plasma pulse -->
+	<AmmoSet_Epona_Molten.label>plasma pulse</AmmoSet_Epona_Molten.label>
+	<!-- EN: shard pulse -->
+	<AmmoSet_Epona_Plasma.label>shard pulse</AmmoSet_Epona_Plasma.label>
+	<!-- EN: Thermal Shot -->
+	<AmmoSet_NuckelaveeShotgun.label>Thermal Shot</AmmoSet_NuckelaveeShotgun.label>
+	<!-- EN: 6mm Railgun -->
+	<AmmoSet_6mmEponaShock.label>6mm Railgun</AmmoSet_6mmEponaShock.label>
+</LanguageData>

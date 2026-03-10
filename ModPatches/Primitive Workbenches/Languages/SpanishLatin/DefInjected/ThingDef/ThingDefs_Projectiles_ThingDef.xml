@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Primitive Workbenches\Defs\Primitive Workbenches\ThingDefs_Projectiles.xml -->
+	<!-- EN: rock -->
+	<VBY_ThrownRockProjectile_CE.label>rock</VBY_ThrownRockProjectile_CE.label>
+	<!-- EN: rabbit stick -->
+	<VBY_RabbitStick_Projectile_CE.label>rabbit stick</VBY_RabbitStick_Projectile_CE.label>
+	<!-- EN: boomerang -->
+	<VBY_BoomerangProjectile_CE.label>boomerang</VBY_BoomerangProjectile_CE.label>
+</LanguageData>

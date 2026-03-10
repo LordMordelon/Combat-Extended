@@ -1,0 +1,23 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Grimworld_RegimentsOfRenown\Regiments_Melee839.xml -->
+	<!-- EN: handle -->
+	<GW_AM_MeleeWeapon_CatachanFang.tools.0.label>handle</GW_AM_MeleeWeapon_CatachanFang.tools.0.label>
+	<!-- EN: point -->
+	<GW_AM_MeleeWeapon_CatachanFang.tools.1.label>point</GW_AM_MeleeWeapon_CatachanFang.tools.1.label>
+	<!-- EN: edge -->
+	<GW_AM_MeleeWeapon_CatachanFang.tools.2.label>edge</GW_AM_MeleeWeapon_CatachanFang.tools.2.label>
+	
+	<!-- EN: handle -->
+	<GW_HOI_ROR_Melee_PowerSaber.tools.0.label>handle</GW_HOI_ROR_Melee_PowerSaber.tools.0.label>
+	<!-- EN: edge -->
+	<GW_HOI_ROR_Melee_PowerSaber.tools.1.label>edge</GW_HOI_ROR_Melee_PowerSaber.tools.1.label>
+	<!-- EN: point -->
+	<GW_HOI_ROR_Melee_PowerSaber.tools.2.label>point</GW_HOI_ROR_Melee_PowerSaber.tools.2.label>
+	
+	<!-- EN: handle -->
+	<GW_HOI_ROR_Melee_PowerGlaive.tools.0.label>handle</GW_HOI_ROR_Melee_PowerGlaive.tools.0.label>
+	<!-- EN: edge -->
+	<GW_HOI_ROR_Melee_PowerGlaive.tools.1.label>edge</GW_HOI_ROR_Melee_PowerGlaive.tools.1.label>
+	<!-- EN: point -->
+	<GW_HOI_ROR_Melee_PowerGlaive.tools.2.label>point</GW_HOI_ROR_Melee_PowerGlaive.tools.2.label>
+</LanguageData>

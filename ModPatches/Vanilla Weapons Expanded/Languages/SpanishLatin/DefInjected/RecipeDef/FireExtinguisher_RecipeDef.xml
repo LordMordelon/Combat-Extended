@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla Weapons Expanded\Defs\Vanilla Weapons Expanded\Ammo\FireExtinguisher.xml -->
+	<!-- EN: make firefoam x500 -->
+	<MakeAmmo_VWE_Extinguisher.label>make firefoam x500</MakeAmmo_VWE_Extinguisher.label>
+	<!-- EN: Craft 500 units of firefoam. -->
+	<MakeAmmo_VWE_Extinguisher.description>Craft 500 units of firefoam.</MakeAmmo_VWE_Extinguisher.description>
+	<!-- EN: Making firefoam. -->
+	<MakeAmmo_VWE_Extinguisher.jobString>Making firefoam.</MakeAmmo_VWE_Extinguisher.jobString>
+</LanguageData>

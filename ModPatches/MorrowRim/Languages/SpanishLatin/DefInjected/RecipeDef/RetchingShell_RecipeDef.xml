@@ -1,0 +1,10 @@
+<LanguageData>
+	<!-- ModPatches\MorrowRim\Defs\MorrowRim\RetchingShell.xml -->
+	
+	<!-- EN: make 81mm netch foam mortar shell x3 -->
+	<MakeMorrowRim_RetchingNetchShell.label>make 81mm netch foam mortar shell x3</MakeMorrowRim_RetchingNetchShell.label>
+	<!-- EN: Craft 3 netch firefoam shells from netch body mucus. -->
+	<MakeMorrowRim_RetchingNetchShell.description>Craft 3 netch firefoam shells from netch body mucus.</MakeMorrowRim_RetchingNetchShell.description>
+	<!-- EN: Making 81mm netch firefoam shells. -->
+	<MakeMorrowRim_RetchingNetchShell.jobString>Making 81mm netch firefoam shells.</MakeMorrowRim_RetchingNetchShell.jobString>
+</LanguageData>

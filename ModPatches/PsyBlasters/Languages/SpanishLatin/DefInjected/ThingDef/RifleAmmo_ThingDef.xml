@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- ModPatches\PsyBlasters\Defs\PsyBlasters\RifleAmmo.xml -->
+	
+	<!-- EN: 6x24mm psychic -->
+	<Ammo_6x24mmPsychic.label>6x24mm psychic</Ammo_6x24mmPsychic.label>
+	<!-- EN: Charged shot ammo used by psychically enhanced assault rifle designs. -->
+	<Ammo_6x24mmPsychic.description>Charged shot ammo used by psychically enhanced assault rifle designs.</Ammo_6x24mmPsychic.description>
+	
+	<!-- EN: 6x24mm psychic (Focus) -->
+	<Ammo_6x24mmPsychic_Focus.label>6x24mm psychic (Focus)</Ammo_6x24mmPsychic_Focus.label>
+	<!-- EN: Charged shot ammo used by psychically enhanced assault rifle designs. -->
+	<Ammo_6x24mmPsychic_Focus.description>Charged shot ammo used by psychically enhanced assault rifle designs.</Ammo_6x24mmPsychic_Focus.description>
+	
+	<!-- EN: 6x24mm psychic (Neuro) -->
+	<Ammo_6x24mmPsychic_Neuro.label>6x24mm psychic (Neuro)</Ammo_6x24mmPsychic_Neuro.label>
+	<!-- EN: Charged shot ammo used by psychically enhanced assault rifle designs. -->
+	<Ammo_6x24mmPsychic_Neuro.description>Charged shot ammo used by psychically enhanced assault rifle designs.</Ammo_6x24mmPsychic_Neuro.description>
+	
+	<!-- EN: 6x24mm Psychic bullet -->
+	<Bullet_6x24mmPsychic.label>6x24mm Psychic bullet</Bullet_6x24mmPsychic.label>
+	
+	<!-- EN: 6x24mm Psychic bullet (Focus) -->
+	<Bullet_6x24mmPsychic_Focus.label>6x24mm Psychic bullet (Focus)</Bullet_6x24mmPsychic_Focus.label>
+	
+	<!-- EN: 6x24mm Psychic bullet (Neuro) -->
+	<Bullet_6x24mmPsychic_Neuro.label>6x24mm Psychic bullet (Neuro)</Bullet_6x24mmPsychic_Neuro.label>
+</LanguageData>

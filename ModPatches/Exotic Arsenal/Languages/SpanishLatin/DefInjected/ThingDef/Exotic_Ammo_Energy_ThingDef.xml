@@ -1,0 +1,51 @@
+<LanguageData>
+	<!-- ModPatches\Exotic Arsenal\Defs\Exotic Arsenal\Exotic_Ammo_Energy.xml -->
+	<!-- EN: Exotic energy cells -->
+	<Ammo_Exotic_Energy.label>Exotic energy cells</Ammo_Exotic_Energy.label>
+	<!-- EN: Exotic energy cell used by rare glitterworld energy weapons. -->
+	<Ammo_Exotic_Energy.description>Exotic energy cell used by rare glitterworld energy weapons.</Ammo_Exotic_Energy.description>
+	<!-- EN: Overcharged Exotic energy cells -->
+	<Ammo_Exotic_Energy_HI.label>Overcharged Exotic energy cells</Ammo_Exotic_Energy_HI.label>
+	<!-- EN: Exotic energy cell used by rare glitterworld energy weapons. These cells in particular, exudes big dick energy. -->
+	<Ammo_Exotic_Energy_HI.description>Exotic energy cell used by rare glitterworld energy weapons. These cells in particular, exudes big dick energy.</Ammo_Exotic_Energy_HI.description>
+	<!-- EN: Equilibrium shot -->
+	<Bullet_Equilibrium_CE.label>Equilibrium shot</Bullet_Equilibrium_CE.label>
+	<!-- EN: equilibrium shot -->
+	<Bullet_Equilibrium_HI.label>equilibrium shot</Bullet_Equilibrium_HI.label>
+	<!-- EN: aesa p40 shot -->
+	<Bullet_Aesa_CE.label>aesa p40 shot</Bullet_Aesa_CE.label>
+	<!-- EN: aesa p40 shot -->
+	<Bullet_Aesa_HI.label>aesa p40 shot</Bullet_Aesa_HI.label>
+	<!-- EN: frostmourne shot -->
+	<Bullet_Shiver_CE.label>frostmourne shot</Bullet_Shiver_CE.label>
+	<!-- EN: frostmourne shot -->
+	<Bullet_Shiver_HI.label>frostmourne shot</Bullet_Shiver_HI.label>
+	<!-- EN: Slashfire bullet -->
+	<Bullet_Slashfire_CE.label>Slashfire bullet</Bullet_Slashfire_CE.label>
+	<!-- EN: Slashfire bullet -->
+	<Bullet_Slashfire_HI.label>Slashfire bullet</Bullet_Slashfire_HI.label>
+	<!-- EN: Slashfire bullet -->
+	<Bullet_GlacialSF_CE.label>Slashfire bullet</Bullet_GlacialSF_CE.label>
+	<!-- EN: Slashfire bullet -->
+	<Bullet_GlacialSF_HI.label>Slashfire bullet</Bullet_GlacialSF_HI.label>
+	<!-- EN: plasma blast -->
+	<Bullet_celsius_CE.label>plasma blast</Bullet_celsius_CE.label>
+	<!-- EN: stasis blast -->
+	<Bullet_celsius_HI.label>stasis blast</Bullet_celsius_HI.label>
+	<!-- EN: Oberon Toxin Bolt -->
+	<Bullet_Oberon_CE.label>Oberon Toxin Bolt</Bullet_Oberon_CE.label>
+	<!-- EN: Oberon Toxin Bolt -->
+	<Bullet_Oberon_HI.label>Oberon Toxin Bolt</Bullet_Oberon_HI.label>
+	<!-- EN: mox8 paladin javelin shot -->
+	<Bullet_Paladin_CE.label>mox8 paladin javelin shot</Bullet_Paladin_CE.label>
+	<!-- EN: mox8 paladin javelin shot -->
+	<Bullet_Paladin_HI.label>mox8 paladin javelin shot</Bullet_Paladin_HI.label>
+	<!-- EN: blinding faith plasma -->
+	<Bullet_BFaith_CE.label>blinding faith plasma</Bullet_BFaith_CE.label>
+	<!-- EN: blinding faith plasma -->
+	<Bullet_BFaith_HI.label>blinding faith plasma</Bullet_BFaith_HI.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Unleashed_CE.label>accelerated shot</Bullet_Unleashed_CE.label>
+	<!-- EN: accelerated shot -->
+	<Bullet_Unleashed_HI.label>accelerated shot</Bullet_Unleashed_HI.label>
+</LanguageData>

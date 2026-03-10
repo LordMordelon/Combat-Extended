@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\sarg_alphaanimals\AlphaAnimals_CE_Patch_Race_TarGuzzler242.xml -->
+	<!-- EN: left claw -->
+	<AA_TarGuzzler.tools.0.label>left claw</AA_TarGuzzler.tools.0.label>
+	<!-- EN: right claw -->
+	<AA_TarGuzzler.tools.1.label>right claw</AA_TarGuzzler.tools.1.label>
+	<!-- EN: gaping maw -->
+	<AA_TarGuzzler.tools.2.label>gaping maw</AA_TarGuzzler.tools.2.label>
+	<!-- EN: head -->
+	<AA_TarGuzzler.tools.3.label>head</AA_TarGuzzler.tools.3.label>
+</LanguageData>

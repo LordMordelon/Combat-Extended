@@ -1,0 +1,10 @@
+<LanguageData>
+	<!-- ModPatches\CP DOOM\Defs\CP DOOM\CP_DOOM_CE_Patch_Ammo_BfgCell.xml -->
+	
+	<!-- EN: make UAC BFG Cells x25 -->
+	<MakeAmmo_Doom2016BfgCell.label>make UAC BFG Cells x25</MakeAmmo_Doom2016BfgCell.label>
+	<!-- EN: Craft 25 UAC BFG Cells. -->
+	<MakeAmmo_Doom2016BfgCell.description>Craft 25 UAC BFG Cells.</MakeAmmo_Doom2016BfgCell.description>
+	<!-- EN: Making UAC BFG Cells. -->
+	<MakeAmmo_Doom2016BfgCell.jobString>Making UAC BFG Cells.</MakeAmmo_Doom2016BfgCell.jobString>
+</LanguageData>

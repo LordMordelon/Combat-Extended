@@ -1,0 +1,87 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla XCOM Plasma Weapons\Defs\Vanilla XCOM Plasma Weapons\Ammo.xml -->
+	
+	<!-- EN: make Standard Plasma Pistol Cells -->
+	<MakeAmmo_XCOM_PlasmaCellPistolStandard.label>make Standard Plasma Pistol Cells</MakeAmmo_XCOM_PlasmaCellPistolStandard.label>
+	<!-- EN: Craft 500 shots' worth of Standard Plasma Pistol Cells. -->
+	<MakeAmmo_XCOM_PlasmaCellPistolStandard.description>Craft 500 shots' worth of Standard Plasma Pistol Cells.</MakeAmmo_XCOM_PlasmaCellPistolStandard.description>
+	<!-- EN: Making Plasma Pistol Cells. -->
+	<MakeAmmo_XCOM_PlasmaCellPistolStandard.jobString>Making Plasma Pistol Cells.</MakeAmmo_XCOM_PlasmaCellPistolStandard.jobString>
+	
+	<!-- EN: make Light Plasma Pistol Cells -->
+	<MakeAmmo_XCOM_PlasmaCellPistolLight.label>make Light Plasma Pistol Cells</MakeAmmo_XCOM_PlasmaCellPistolLight.label>
+	<!-- EN: Craft 500 shots' worth of Light Plasma Pistol Cells. -->
+	<MakeAmmo_XCOM_PlasmaCellPistolLight.description>Craft 500 shots' worth of Light Plasma Pistol Cells.</MakeAmmo_XCOM_PlasmaCellPistolLight.description>
+	<!-- EN: Making Plasma Pistol Cells. -->
+	<MakeAmmo_XCOM_PlasmaCellPistolLight.jobString>Making Plasma Pistol Cells.</MakeAmmo_XCOM_PlasmaCellPistolLight.jobString>
+	
+	<!-- EN: make Heavy Plasma Pistol Cells -->
+	<MakeAmmo_XCOM_PlasmaCellPistolDense.label>make Heavy Plasma Pistol Cells</MakeAmmo_XCOM_PlasmaCellPistolDense.label>
+	<!-- EN: Craft 500 shots' worth of Heavy Plasma Pistol Cells. -->
+	<MakeAmmo_XCOM_PlasmaCellPistolDense.description>Craft 500 shots' worth of Heavy Plasma Pistol Cells.</MakeAmmo_XCOM_PlasmaCellPistolDense.description>
+	<!-- EN: Making Plasma Pistol Cells. -->
+	<MakeAmmo_XCOM_PlasmaCellPistolDense.jobString>Making Plasma Pistol Cells.</MakeAmmo_XCOM_PlasmaCellPistolDense.jobString>
+	
+	<!-- EN: make Unstable Plasma Pistol Cells -->
+	<MakeAmmo_XCOM_PlasmaCellPistolUnstable.label>make Unstable Plasma Pistol Cells</MakeAmmo_XCOM_PlasmaCellPistolUnstable.label>
+	<!-- EN: Craft 500 shots' worth of Unstable Plasma Pistol Cells. -->
+	<MakeAmmo_XCOM_PlasmaCellPistolUnstable.description>Craft 500 shots' worth of Unstable Plasma Pistol Cells.</MakeAmmo_XCOM_PlasmaCellPistolUnstable.description>
+	<!-- EN: Making Plasma Pistol Cells. -->
+	<MakeAmmo_XCOM_PlasmaCellPistolUnstable.jobString>Making Plasma Pistol Cells.</MakeAmmo_XCOM_PlasmaCellPistolUnstable.jobString>
+	
+	<!-- EN: make Standard Plasma Rifle Cells -->
+	<MakeAmmo_XCOM_PlasmaCellRifleStandard.label>make Standard Plasma Rifle Cells</MakeAmmo_XCOM_PlasmaCellRifleStandard.label>
+	<!-- EN: Craft 500 shots' worth of Standard Plasma Rifle Cells. -->
+	<MakeAmmo_XCOM_PlasmaCellRifleStandard.description>Craft 500 shots' worth of Standard Plasma Rifle Cells.</MakeAmmo_XCOM_PlasmaCellRifleStandard.description>
+	<!-- EN: Making Plasma Rifle Cells. -->
+	<MakeAmmo_XCOM_PlasmaCellRifleStandard.jobString>Making Plasma Rifle Cells.</MakeAmmo_XCOM_PlasmaCellRifleStandard.jobString>
+	
+	<!-- EN: make Light Plasma Rifle Cells -->
+	<MakeAmmo_XCOM_PlasmaCellRifleLight.label>make Light Plasma Rifle Cells</MakeAmmo_XCOM_PlasmaCellRifleLight.label>
+	<!-- EN: Craft 500 shots' worth of Light Plasma Rifle Cells. -->
+	<MakeAmmo_XCOM_PlasmaCellRifleLight.description>Craft 500 shots' worth of Light Plasma Rifle Cells.</MakeAmmo_XCOM_PlasmaCellRifleLight.description>
+	<!-- EN: Making Plasma Rifle Cells. -->
+	<MakeAmmo_XCOM_PlasmaCellRifleLight.jobString>Making Plasma Rifle Cells.</MakeAmmo_XCOM_PlasmaCellRifleLight.jobString>
+	
+	<!-- EN: make Dense Plasma Rifle Cells -->
+	<MakeAmmo_XCOM_PlasmaCellRifleDense.label>make Dense Plasma Rifle Cells</MakeAmmo_XCOM_PlasmaCellRifleDense.label>
+	<!-- EN: Craft 500 shots' worth of Dense Plasma Rifle Cells. -->
+	<MakeAmmo_XCOM_PlasmaCellRifleDense.description>Craft 500 shots' worth of Dense Plasma Rifle Cells.</MakeAmmo_XCOM_PlasmaCellRifleDense.description>
+	<!-- EN: Making Plasma Rifle Cells. -->
+	<MakeAmmo_XCOM_PlasmaCellRifleDense.jobString>Making Plasma Rifle Cells.</MakeAmmo_XCOM_PlasmaCellRifleDense.jobString>
+	
+	<!-- EN: make Unstable Plasma Rifle Cells -->
+	<MakeAmmo_XCOM_PlasmaCellRifleUnstable.label>make Unstable Plasma Rifle Cells</MakeAmmo_XCOM_PlasmaCellRifleUnstable.label>
+	<!-- EN: Craft 500 shots' worth of Unstable Plasma Rifle Cells. -->
+	<MakeAmmo_XCOM_PlasmaCellRifleUnstable.description>Craft 500 shots' worth of Unstable Plasma Rifle Cells.</MakeAmmo_XCOM_PlasmaCellRifleUnstable.description>
+	<!-- EN: Making Plasma Rifle Cells. -->
+	<MakeAmmo_XCOM_PlasmaCellRifleUnstable.jobString>Making Plasma Rifle Cells.</MakeAmmo_XCOM_PlasmaCellRifleUnstable.jobString>
+	
+	<!-- EN: make Standard Plasma Heavy Cells -->
+	<MakeAmmo_XCOM_PlasmaCellHeavyStandard.label>make Standard Plasma Heavy Cells</MakeAmmo_XCOM_PlasmaCellHeavyStandard.label>
+	<!-- EN: Craft 75 shots' worth of Standard Plasma Heavy Cells. -->
+	<MakeAmmo_XCOM_PlasmaCellHeavyStandard.description>Craft 75 shots' worth of Standard Plasma Heavy Cells.</MakeAmmo_XCOM_PlasmaCellHeavyStandard.description>
+	<!-- EN: Making Plasma Heavy Cells. -->
+	<MakeAmmo_XCOM_PlasmaCellHeavyStandard.jobString>Making Plasma Heavy Cells.</MakeAmmo_XCOM_PlasmaCellHeavyStandard.jobString>
+	
+	<!-- EN: make Light Plasma Heavy Cells -->
+	<MakeAmmo_XCOM_PlasmaCellHeavyLight.label>make Light Plasma Heavy Cells</MakeAmmo_XCOM_PlasmaCellHeavyLight.label>
+	<!-- EN: Craft 75 shots' worth of Light Plasma Heavy Cells. -->
+	<MakeAmmo_XCOM_PlasmaCellHeavyLight.description>Craft 75 shots' worth of Light Plasma Heavy Cells.</MakeAmmo_XCOM_PlasmaCellHeavyLight.description>
+	<!-- EN: Making Plasma Heavy Cells. -->
+	<MakeAmmo_XCOM_PlasmaCellHeavyLight.jobString>Making Plasma Heavy Cells.</MakeAmmo_XCOM_PlasmaCellHeavyLight.jobString>
+	
+	<!-- EN: make Dense Plasma Heavy Cells -->
+	<MakeAmmo_XCOM_PlasmaCellHeavyDense.label>make Dense Plasma Heavy Cells</MakeAmmo_XCOM_PlasmaCellHeavyDense.label>
+	<!-- EN: Craft 75 shots' worth of Dense Plasma Heavy Cells. -->
+	<MakeAmmo_XCOM_PlasmaCellHeavyDense.description>Craft 75 shots' worth of Dense Plasma Heavy Cells.</MakeAmmo_XCOM_PlasmaCellHeavyDense.description>
+	<!-- EN: Making Plasma Heavy Cells. -->
+	<MakeAmmo_XCOM_PlasmaCellHeavyDense.jobString>Making Plasma Heavy Cells.</MakeAmmo_XCOM_PlasmaCellHeavyDense.jobString>
+	
+	<!-- EN: make Unstable Plasma Heavy Cells -->
+	<MakeAmmo_XCOM_PlasmaCellHeavyUnstable.label>make Unstable Plasma Heavy Cells</MakeAmmo_XCOM_PlasmaCellHeavyUnstable.label>
+	<!-- EN: Craft 75 shots' worth of Unstable Plasma Heavy Cells. -->
+	<MakeAmmo_XCOM_PlasmaCellHeavyUnstable.description>Craft 75 shots' worth of Unstable Plasma Heavy Cells.</MakeAmmo_XCOM_PlasmaCellHeavyUnstable.description>
+	<!-- EN: Making Plasma Heavy Cells. -->
+	<MakeAmmo_XCOM_PlasmaCellHeavyUnstable.jobString>Making Plasma Heavy Cells.</MakeAmmo_XCOM_PlasmaCellHeavyUnstable.jobString>
+</LanguageData>

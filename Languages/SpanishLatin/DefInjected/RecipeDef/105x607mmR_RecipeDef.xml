@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- Defs\Ammo\Shell\105x607mmR.xml -->
+	
+	<!-- EN: make 105x607mmR (HEAT) shells x2 -->
+	<MakeAmmo_105x607mmRShell_HEAT.label>make 105x607mmR (HEAT) shells x2</MakeAmmo_105x607mmRShell_HEAT.label>
+	<!-- EN: Craft 2 105x607mmR (HEAT) shells. -->
+	<MakeAmmo_105x607mmRShell_HEAT.description>Craft 2 105x607mmR (HEAT) shells.</MakeAmmo_105x607mmRShell_HEAT.description>
+	<!-- EN: Making 105x607mmR (HEAT) shells. -->
+	<MakeAmmo_105x607mmRShell_HEAT.jobString>Making 105x607mmR (HEAT) shells.</MakeAmmo_105x607mmRShell_HEAT.jobString>
+	
+	<!-- EN: make 105x607mmR (HE) shells x2 -->
+	<MakeAmmo_105x607mmRShell_HE.label>make 105x607mmR (HE) shells x2</MakeAmmo_105x607mmRShell_HE.label>
+	<!-- EN: Craft 2 105x607mmR (HE) shells. -->
+	<MakeAmmo_105x607mmRShell_HE.description>Craft 2 105x607mmR (HE) shells.</MakeAmmo_105x607mmRShell_HE.description>
+	<!-- EN: Making 105x607mmR (HE) shells. -->
+	<MakeAmmo_105x607mmRShell_HE.jobString>Making 105x607mmR (HE) shells.</MakeAmmo_105x607mmRShell_HE.jobString>
+</LanguageData>

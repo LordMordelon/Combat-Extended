@@ -1,0 +1,45 @@
+<LanguageData>
+	<!-- Defs\Ammo\Rifle\762x39mmSoviet.xml -->
+	
+	<!-- EN: make 7.62x39mm Soviet (FMJ) cartridge x500 -->
+	<MakeAmmo_762x39mmSoviet_FMJ.label>make 7.62x39mm Soviet (FMJ) cartridge x500</MakeAmmo_762x39mmSoviet_FMJ.label>
+	<!-- EN: Craft 500 7.62x39mm Soviet (FMJ) cartridges. -->
+	<MakeAmmo_762x39mmSoviet_FMJ.description>Craft 500 7.62x39mm Soviet (FMJ) cartridges.</MakeAmmo_762x39mmSoviet_FMJ.description>
+	<!-- EN: Making 7.62x39mm Soviet (FMJ) cartridges. -->
+	<MakeAmmo_762x39mmSoviet_FMJ.jobString>Making 7.62x39mm Soviet (FMJ) cartridges.</MakeAmmo_762x39mmSoviet_FMJ.jobString>
+	
+	<!-- EN: make 7.62x39mm Soviet (AP) cartridge x500 -->
+	<MakeAmmo_762x39mmSoviet_AP.label>make 7.62x39mm Soviet (AP) cartridge x500</MakeAmmo_762x39mmSoviet_AP.label>
+	<!-- EN: Craft 500 7.62x39mm Soviet (AP) cartridges. -->
+	<MakeAmmo_762x39mmSoviet_AP.description>Craft 500 7.62x39mm Soviet (AP) cartridges.</MakeAmmo_762x39mmSoviet_AP.description>
+	<!-- EN: Making 7.62x39mm Soviet (AP) cartridges. -->
+	<MakeAmmo_762x39mmSoviet_AP.jobString>Making 7.62x39mm Soviet (AP) cartridges.</MakeAmmo_762x39mmSoviet_AP.jobString>
+	
+	<!-- EN: make 7.62x39mm Soviet (HP) cartridge x500 -->
+	<MakeAmmo_762x39mmSoviet_HP.label>make 7.62x39mm Soviet (HP) cartridge x500</MakeAmmo_762x39mmSoviet_HP.label>
+	<!-- EN: Craft 500 7.62x39mm Soviet (HP) cartridges. -->
+	<MakeAmmo_762x39mmSoviet_HP.description>Craft 500 7.62x39mm Soviet (HP) cartridges.</MakeAmmo_762x39mmSoviet_HP.description>
+	<!-- EN: Making 7.62x39mm Soviet (HP) cartridges. -->
+	<MakeAmmo_762x39mmSoviet_HP.jobString>Making 7.62x39mm Soviet (HP) cartridges.</MakeAmmo_762x39mmSoviet_HP.jobString>
+	
+	<!-- EN: make 7.62x39mm Soviet (AP-I) cartridge x500 -->
+	<MakeAmmo_762x39mmSoviet_Incendiary.label>make 7.62x39mm Soviet (AP-I) cartridge x500</MakeAmmo_762x39mmSoviet_Incendiary.label>
+	<!-- EN: Craft 500 7.62x39mm Soviet (AP-I) cartridges. -->
+	<MakeAmmo_762x39mmSoviet_Incendiary.description>Craft 500 7.62x39mm Soviet (AP-I) cartridges.</MakeAmmo_762x39mmSoviet_Incendiary.description>
+	<!-- EN: Making 7.62x39mm Soviet (AP-I) cartridges. -->
+	<MakeAmmo_762x39mmSoviet_Incendiary.jobString>Making 7.62x39mm Soviet (AP-I) cartridges.</MakeAmmo_762x39mmSoviet_Incendiary.jobString>
+	
+	<!-- EN: make 7.62x39mm Soviet (AP-HE) cartridge x500 -->
+	<MakeAmmo_762x39mmSoviet_HE.label>make 7.62x39mm Soviet (AP-HE) cartridge x500</MakeAmmo_762x39mmSoviet_HE.label>
+	<!-- EN: Craft 500 7.62x39mm Soviet (AP-HE) cartridges. -->
+	<MakeAmmo_762x39mmSoviet_HE.description>Craft 500 7.62x39mm Soviet (AP-HE) cartridges.</MakeAmmo_762x39mmSoviet_HE.description>
+	<!-- EN: Making 7.62x39mm Soviet (AP-HE) cartridges. -->
+	<MakeAmmo_762x39mmSoviet_HE.jobString>Making 7.62x39mm Soviet (AP-HE) cartridges.</MakeAmmo_762x39mmSoviet_HE.jobString>
+	
+	<!-- EN: make 7.62x39mm Soviet (Sabot) cartridge x500 -->
+	<MakeAmmo_762x39mmSoviet_Sabot.label>make 7.62x39mm Soviet (Sabot) cartridge x500</MakeAmmo_762x39mmSoviet_Sabot.label>
+	<!-- EN: Craft 500 7.62x39mm Soviet (Sabot) cartridges. -->
+	<MakeAmmo_762x39mmSoviet_Sabot.description>Craft 500 7.62x39mm Soviet (Sabot) cartridges.</MakeAmmo_762x39mmSoviet_Sabot.description>
+	<!-- EN: Making 7.62x39mm Soviet (Sabot) cartridges. -->
+	<MakeAmmo_762x39mmSoviet_Sabot.jobString>Making 7.62x39mm Soviet (Sabot) cartridges.</MakeAmmo_762x39mmSoviet_Sabot.jobString>
+</LanguageData>

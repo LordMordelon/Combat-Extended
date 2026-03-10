@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla Factions Expanded - Mechanoids\Defs\Vanilla Factions Expanded - Mechanoids\ThingDefs_Misc\ThingDefs_MechWeapons.xml -->
+	<!-- EN: advanced thermal bolt projector -->
+	<VFE_AdvancedThermalBoltProjector.label>advanced thermal bolt projector</VFE_AdvancedThermalBoltProjector.label>
+	<!-- EN: A medium-velocity, low-trajectory fire support system deployed by mechanoids. The advanced variant features a triple shot system, permitting saturation bombardment. -->
+	<VFE_AdvancedThermalBoltProjector.description>A medium-velocity, low-trajectory fire support system deployed by mechanoids. The advanced variant features a triple shot system, permitting saturation bombardment.</VFE_AdvancedThermalBoltProjector.description>
+	<!-- EN: ㅤ -->
+	<VFE_AdvancedThermalBoltProjector.verbs.0.label>ㅤ</VFE_AdvancedThermalBoltProjector.verbs.0.label>
+	<!-- EN: barrel -->
+	<VFE_AdvancedThermalBoltProjector.tools.0.label>barrel</VFE_AdvancedThermalBoltProjector.tools.0.label>
+</LanguageData>

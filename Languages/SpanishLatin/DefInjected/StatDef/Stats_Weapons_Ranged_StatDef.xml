@@ -1,0 +1,87 @@
+<LanguageData>
+	<!-- Defs\Stats\Stats_Weapons_Ranged.xml -->
+	<!-- EN: sights efficiency -->
+	<SightsEfficiency.label>sights efficiency</SightsEfficiency.label>
+	<!-- EN: How good the sights on this weapon are. Quality sights reduce range errors and improve target leading. This is multiplied against the aiming accuracy of the shooter to calculate the amount of range and lead error.\n\nThe final modifier is calculated via this formula:\n(1.5 - aiming accuracy) / aiming efficiency\n\nLead error is calculated by multiplying this factor against total lead distance in cells. Range error is calculated by multiplying it against the total distance to the target divided by 4. -->
+	<SightsEfficiency.description>How good the sights on this weapon are. Quality sights reduce range errors and improve target leading. This is multiplied against the aiming accuracy of the shooter to calculate the amount of range and lead error.\n\nThe final modifier is calculated via this formula:\n(1.5 - aiming accuracy) / aiming efficiency\n\nLead error is calculated by multiplying this factor against total lead distance in cells. Range error is calculated by multiplying it against the total distance to the target divided by 4.</SightsEfficiency.description>
+	
+	<!-- EN: One-handed weapon -->
+	<OneHandedness.label>One-handed weapon</OneHandedness.label>
+	<!-- EN: Whether or not the weapon can be used with shields -->
+	<OneHandedness.description>Whether or not the weapon can be used with shields</OneHandedness.description>
+	
+	<!-- EN: Additional weapon info -->
+	<UBGLInfo.label>Additional weapon info</UBGLInfo.label>
+	<!-- EN: Information about under/over barrel or otherwise mounted weapons -->
+	<UBGLInfo.description>Information about under/over barrel or otherwise mounted weapons</UBGLInfo.description>
+	
+	<!-- EN: spread -->
+	<ShotSpread.label>spread</ShotSpread.label>
+	<!-- EN: Inherent projectile spread. This represents the inherent inaccuracy of the gun and causes random conical deviation that is not influenced by skill. -->
+	<ShotSpread.description>Inherent projectile spread. This represents the inherent inaccuracy of the gun and causes random conical deviation that is not influenced by skill.</ShotSpread.description>
+	
+	<!-- EN: weapon sway -->
+	<SwayFactor.label>weapon sway</SwayFactor.label>
+	<!-- EN: How difficult the gun is to keep steady. \n\nThe total sway is calculated as:\n(4.5 - shooting accuracy) * weapon sway factor\n\nAiming accuracy influences the sway reduction during aimed shots. For example, at 75% aiming accuracy sway will be reduced to 25%. -->
+	<SwayFactor.description>How difficult the gun is to keep steady. \n\nThe total sway is calculated as:\n(4.5 - shooting accuracy) * weapon sway factor\n\nAiming accuracy influences the sway reduction during aimed shots. For example, at 75% aiming accuracy sway will be reduced to 25%.</SwayFactor.description>
+	
+	<!-- EN: muzzle flash -->
+	<MuzzleFlash.label>muzzle flash</MuzzleFlash.label>
+	<!-- EN: How bright the muzzle flash is.\n\nMuzzle flashes will illuminate a shooter's position in darkness, exposing them to more accurate return fire. Brighter muzzle flashes are easier to target.\n\nPawns will remember the position of the muzzle flash for 5-10 seconds. -->
+	<MuzzleFlash.description>How bright the muzzle flash is.\n\nMuzzle flashes will illuminate a shooter's position in darkness, exposing them to more accurate return fire. Brighter muzzle flashes are easier to target.\n\nPawns will remember the position of the muzzle flash for 5-10 seconds.</MuzzleFlash.description>
+	
+	<!-- EN: caliber -->
+	<Caliber.label>caliber</Caliber.label>
+	<!-- EN: The types of ammo this gun accepts. -->
+	<Caliber.description>The types of ammo this gun accepts.</Caliber.description>
+	
+	<!-- EN: Bipod stats -->
+	<BipodStats.label>Bipod stats</BipodStats.label>
+	<!-- EN: Stats with bipod deployed and undeployed. -->
+	<BipodStats.description>Stats with bipod deployed and undeployed.</BipodStats.description>
+	
+	<!-- EN: fire rate -->
+	<TicksBetweenBurstShots.label>fire rate</TicksBetweenBurstShots.label>
+	<!-- EN: The speed at this weapon launch projectiles. -->
+	<TicksBetweenBurstShots.description>The speed at this weapon launch projectiles.</TicksBetweenBurstShots.description>
+	
+	<!-- EN: burst shot count -->
+	<BurstShotCount.label>burst shot count</BurstShotCount.label>
+	<!-- EN: How many projectiles this weapon launch in one burst. -->
+	<BurstShotCount.description>How many projectiles this weapon launch in one burst.</BurstShotCount.description>
+	
+	<!-- EN: recoil amount -->
+	<Recoil.label>recoil amount</Recoil.label>
+	<!-- EN: How much will this weapon recoil upon firing. -->
+	<Recoil.description>How much will this weapon recoil upon firing.</Recoil.description>
+	
+	<!-- EN: recoil multiplier -->
+	<CE_RangedWeapon_RecoilMultiplier.label>recoil multiplier</CE_RangedWeapon_RecoilMultiplier.label>
+	<!-- EN: A multiplier applied to this weapon's recoil. -->
+	<CE_RangedWeapon_RecoilMultiplier.description>A multiplier applied to this weapon's recoil.</CE_RangedWeapon_RecoilMultiplier.description>
+	
+	<!-- EN: magazine capacity -->
+	<MagazineCapacity.label>magazine capacity</MagazineCapacity.label>
+	<!-- EN: How many projectiles this weapon's magazine holds and how long it takes to reload it. -->
+	<MagazineCapacity.description>How many projectiles this weapon's magazine holds and how long it takes to reload it.</MagazineCapacity.description>
+	
+	<!-- EN: reload time -->
+	<ReloadTime.label>reload time</ReloadTime.label>
+	<!-- EN: How long should this weapon take to reload. -->
+	<ReloadTime.description>How long should this weapon take to reload.</ReloadTime.description>
+	
+	<!-- EN: reload time multiplier -->
+	<CE_RangedWeapon_ReloadFactor.label>reload time multiplier</CE_RangedWeapon_ReloadFactor.label>
+	<!-- EN: A multiplier applied to this weapon's reload time. -->
+	<CE_RangedWeapon_ReloadFactor.description>A multiplier applied to this weapon's reload time.</CE_RangedWeapon_ReloadFactor.description>
+	
+	<!-- EN: ammo consumed per shot -->
+	<ammoConsumedPerShotCount.label>ammo consumed per shot</ammoConsumedPerShotCount.label>
+	<!-- EN: How many units of ammunition this gun consumes for each individual shot.\n\nThis applies to guns with multiple barrels that fire simultaneously with each pull of the trigger, or exotic energy weapons that use up different amounts of energy from a power cell. -->
+	<ammoConsumedPerShotCount.description>How many units of ammunition this gun consumes for each individual shot.\n\nThis applies to guns with multiple barrels that fire simultaneously with each pull of the trigger, or exotic energy weapons that use up different amounts of energy from a power cell.</ammoConsumedPerShotCount.description>
+	
+	<!-- EN: ammo generation per magazine override -->
+	<AmmoGenPerMagOverride.label>ammo generation per magazine override</AmmoGenPerMagOverride.label>
+	<!-- EN: How many units of ammunition per magazine specified in pawnKindDef should a pawn bring.\n\nPurely used in pawn generation. You should not be able to read this in game. -->
+	<AmmoGenPerMagOverride.description>How many units of ammunition per magazine specified in pawnKindDef should a pawn bring.\n\nPurely used in pawn generation. You should not be able to read this in game.</AmmoGenPerMagOverride.description>
+</LanguageData>

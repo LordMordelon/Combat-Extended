@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Recipe\45ACP-Punched.xml -->
+	
+	<!-- EN: .45 ACP cartridge (FMJ) (Punched) -->
+	<Ammo_45ACP_FMJ_Punched.label>.45 ACP cartridge (FMJ) (Punched)</Ammo_45ACP_FMJ_Punched.label>
+	<!-- EN: Pistol cartridge favoured for its above average stopping power. -->
+	<Ammo_45ACP_FMJ_Punched.description>Pistol cartridge favoured for its above average stopping power.</Ammo_45ACP_FMJ_Punched.description>
+	
+	<!-- EN: .45 ACP cartridge (AP) (Punched) -->
+	<Ammo_45ACP_AP_Punched.label>.45 ACP cartridge (AP) (Punched)</Ammo_45ACP_AP_Punched.label>
+	<!-- EN: Pistol cartridge favoured for its above average stopping power. -->
+	<Ammo_45ACP_AP_Punched.description>Pistol cartridge favoured for its above average stopping power.</Ammo_45ACP_AP_Punched.description>
+	
+	<!-- EN: .45 ACP cartridge (HP) (Punched) -->
+	<Ammo_45ACP_HP_Punched.label>.45 ACP cartridge (HP) (Punched)</Ammo_45ACP_HP_Punched.label>
+	<!-- EN: Pistol cartridge favoured for its above average stopping power. -->
+	<Ammo_45ACP_HP_Punched.description>Pistol cartridge favoured for its above average stopping power.</Ammo_45ACP_HP_Punched.description>
+	
+	<!-- EN: .45 ACP bullet (FMJ) (Punched) -->
+	<Bullet_45ACP_FMJ_Punched.label>.45 ACP bullet (FMJ) (Punched)</Bullet_45ACP_FMJ_Punched.label>
+	
+	<!-- EN: .45 ACP bullet (AP) (Punched) -->
+	<Bullet_45ACP_AP_Punched.label>.45 ACP bullet (AP) (Punched)</Bullet_45ACP_AP_Punched.label>
+	
+	<!-- EN: .45 ACP bullet (HP) (Punched) -->
+	<Bullet_45ACP_HP_Punched.label>.45 ACP bullet (HP) (Punched)</Bullet_45ACP_HP_Punched.label>
+</LanguageData>

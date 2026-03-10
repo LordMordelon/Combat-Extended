@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Roren Race\Defs\Roren Race\203_Roren.xml -->
+	<!-- EN: 20.3cm SK cannon shell (HE) -->
+	<Ammo_203cmskCannonShell_HE.label>20.3cm SK cannon shell (HE)</Ammo_203cmskCannonShell_HE.label>
+	<!-- EN: High-caliber artillery shell, typically used by heavy crusiers. -->
+	<Ammo_203cmskCannonShell_HE.description>High-caliber artillery shell, typically used by heavy crusiers.</Ammo_203cmskCannonShell_HE.description>
+	<!-- EN: 203cmsk cannon shell (HE) -->
+	<Bullet_203cmskCannonShell_HE.label>203cmsk cannon shell (HE)</Bullet_203cmskCannonShell_HE.label>
+</LanguageData>

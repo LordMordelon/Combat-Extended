@@ -1,0 +1,58 @@
+<LanguageData>
+	<!-- ModPatches\Gas Traps and Shells\Defs\Gas Traps and Shells\Recipes_81mm.xml -->
+	<!-- EN: make 81mm toxic gas mortar shells x5 -->
+	<MakeShell_GasToxic.label>make 81mm toxic gas mortar shells x5</MakeShell_GasToxic.label>
+	<!-- EN: Craft 5 81mm toxic gas mortar shells. -->
+	<MakeShell_GasToxic.description>Craft 5 81mm toxic gas mortar shells.</MakeShell_GasToxic.description>
+	<!-- EN: Making 81mm toxic gas mortar shells. -->
+	<MakeShell_GasToxic.jobString>Making 81mm toxic gas mortar shells.</MakeShell_GasToxic.jobString>
+	
+	<!-- EN: make 81mm rage gas mortar shells x5 -->
+	<MakeShell_GasRage.label>make 81mm rage gas mortar shells x5</MakeShell_GasRage.label>
+	<!-- EN: Craft 5 81mm rage gas mortar shells. -->
+	<MakeShell_GasRage.description>Craft 5 81mm rage gas mortar shells.</MakeShell_GasRage.description>
+	<!-- EN: Making 81mm rage gas mortar shells. -->
+	<MakeShell_GasRage.jobString>Making 81mm rage gas mortar shells.</MakeShell_GasRage.jobString>
+	
+	<!-- EN: make 81mm tear gas mortar shells x5 -->
+	<MakeShell_GasTear.label>make 81mm tear gas mortar shells x5</MakeShell_GasTear.label>
+	<!-- EN: Craft 5 81mm tear gas mortar shells. -->
+	<MakeShell_GasTear.description>Craft 5 81mm tear gas mortar shells.</MakeShell_GasTear.description>
+	<!-- EN: Making 81mm tear gas mortar shells. -->
+	<MakeShell_GasTear.jobString>Making 81mm tear gas mortar shells.</MakeShell_GasTear.jobString>
+	
+	<!-- EN: make 81mm sleep gas mortar shells x5 -->
+	<MakeShell_GasSleep.label>make 81mm sleep gas mortar shells x5</MakeShell_GasSleep.label>
+	<!-- EN: Craft 5 81mm sleep gas mortar shells. -->
+	<MakeShell_GasSleep.description>Craft 5 81mm sleep gas mortar shells.</MakeShell_GasSleep.description>
+	<!-- EN: Making 81mm sleep gas mortar shells. -->
+	<MakeShell_GasSleep.jobString>Making 81mm sleep gas mortar shells.</MakeShell_GasSleep.jobString>
+	
+	<!-- EN: make 81mm fear gas mortar shells x5 -->
+	<MakeShell_GasFear.label>make 81mm fear gas mortar shells x5</MakeShell_GasFear.label>
+	<!-- EN: Craft 5 81mm fear gas mortar shells. -->
+	<MakeShell_GasFear.description>Craft 5 81mm fear gas mortar shells.</MakeShell_GasFear.description>
+	<!-- EN: Making 81mm fear gas mortar shells. -->
+	<MakeShell_GasFear.jobString>Making 81mm fear gas mortar shells.</MakeShell_GasFear.jobString>
+	
+	<!-- EN: make 81mm corrosive acid mortar shells x5 -->
+	<MakeShell_GasAcid.label>make 81mm corrosive acid mortar shells x5</MakeShell_GasAcid.label>
+	<!-- EN: Craft 5 81mm corrosive acid mortar shells. -->
+	<MakeShell_GasAcid.description>Craft 5 81mm corrosive acid mortar shells.</MakeShell_GasAcid.description>
+	<!-- EN: Making 81mm corrosive acid mortar shells. -->
+	<MakeShell_GasAcid.jobString>Making 81mm corrosive acid mortar shells.</MakeShell_GasAcid.jobString>
+	
+	<!-- EN: make 81mm nanomachines mortar shells x5 -->
+	<MakeShell_MechVirus.label>make 81mm nanomachines mortar shells x5</MakeShell_MechVirus.label>
+	<!-- EN: Craft 5 81mm nanomachines mortar shells. -->
+	<MakeShell_MechVirus.description>Craft 5 81mm nanomachines mortar shells.</MakeShell_MechVirus.description>
+	<!-- EN: Making 81mm nanomachines mortar shells. -->
+	<MakeShell_MechVirus.jobString>Making 81mm nanomachines mortar shells.</MakeShell_MechVirus.jobString>
+	
+	<!-- EN: make 81mm insecticide mortar shells x5 -->
+	<MakeShell_GasAntiBug.label>make 81mm insecticide mortar shells x5</MakeShell_GasAntiBug.label>
+	<!-- EN: Craft 5 81mm insecticide mortar shells. -->
+	<MakeShell_GasAntiBug.description>Craft 5 81mm insecticide mortar shells.</MakeShell_GasAntiBug.description>
+	<!-- EN: Making 81mm insecticide mortar shells. -->
+	<MakeShell_GasAntiBug.jobString>Making 81mm insecticide mortar shells.</MakeShell_GasAntiBug.jobString>
+</LanguageData>

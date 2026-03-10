@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- Defs\Ammo\Medieval\MusketBall.xml -->
+	<!-- EN: musket ball -->
+	<Ammo_MusketBall.label>musket ball</Ammo_MusketBall.label>
+	<!-- EN: A paper cartridge sealed with wax containing a round projectile and black powder, fired by early, smoothbore firearms. -->
+	<Ammo_MusketBall.description>A paper cartridge sealed with wax containing a round projectile and black powder, fired by early, smoothbore firearms.</Ammo_MusketBall.description>
+	<!-- EN: musket ball -->
+	<Bullet_FastMusketBall.label>musket ball</Bullet_FastMusketBall.label>
+	<!-- EN: musket ball -->
+	<Bullet_SlowMusketBall.label>musket ball</Bullet_SlowMusketBall.label>
+</LanguageData>

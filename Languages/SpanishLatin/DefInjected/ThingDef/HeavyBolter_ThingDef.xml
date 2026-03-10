@@ -1,0 +1,43 @@
+<LanguageData>
+	<!-- Defs\Ammo\Modded\Warhammer 40k\HeavyBolter.xml -->
+	
+	<!-- EN: .998 cal bolter shell (Standard) -->
+	<Ammo_Bolter998_Standard.label>.998 cal bolter shell (Standard)</Ammo_Bolter998_Standard.label>
+	<!-- EN: A .998 caliber, gryojet-stabilized projectile with an explosive charge and hardened tip, fired from most patterns of Astartes heavy bolters. -->
+	<Ammo_Bolter998_Standard.description>A .998 caliber, gryojet-stabilized projectile with an explosive charge and hardened tip, fired from most patterns of Astartes heavy bolters.</Ammo_Bolter998_Standard.description>
+	
+	<!-- EN: .998 cal bolter shell (Inferno) -->
+	<Ammo_Bolter998_Inferno.label>.998 cal bolter shell (Inferno)</Ammo_Bolter998_Inferno.label>
+	<!-- EN: A .998 caliber, gryojet-stabilized projectile with an explosive charge and hardened tip, fired from most patterns of Astartes heavy bolters. -->
+	<Ammo_Bolter998_Inferno.description>A .998 caliber, gryojet-stabilized projectile with an explosive charge and hardened tip, fired from most patterns of Astartes heavy bolters.</Ammo_Bolter998_Inferno.description>
+	
+	<!-- EN: .998 cal bolter shell (Metal Storm) -->
+	<Ammo_Bolter998_MetalStorm.label>.998 cal bolter shell (Metal Storm)</Ammo_Bolter998_MetalStorm.label>
+	<!-- EN: A .998 caliber, gryojet-stabilized projectile with an explosive charge and hardened tip, fired from most patterns of Astartes heavy bolters. -->
+	<Ammo_Bolter998_MetalStorm.description>A .998 caliber, gryojet-stabilized projectile with an explosive charge and hardened tip, fired from most patterns of Astartes heavy bolters.</Ammo_Bolter998_MetalStorm.description>
+	
+	<!-- EN: .998 cal bolter shell (Kraken) -->
+	<Ammo_Bolter998_Kraken.label>.998 cal bolter shell (Kraken)</Ammo_Bolter998_Kraken.label>
+	<!-- EN: A .998 caliber, gryojet-stabilized projectile with an explosive charge and hardened tip, fired from most patterns of Astartes heavy bolters. -->
+	<Ammo_Bolter998_Kraken.description>A .998 caliber, gryojet-stabilized projectile with an explosive charge and hardened tip, fired from most patterns of Astartes heavy bolters.</Ammo_Bolter998_Kraken.description>
+	
+	<!-- EN: .998 cal bolter shell (Tempest) -->
+	<Ammo_Bolter998_Tempest.label>.998 cal bolter shell (Tempest)</Ammo_Bolter998_Tempest.label>
+	<!-- EN: A .998 caliber, gryojet-stabilized projectile with an explosive charge and hardened tip, fired from most patterns of Astartes heavy bolters. -->
+	<Ammo_Bolter998_Tempest.description>A .998 caliber, gryojet-stabilized projectile with an explosive charge and hardened tip, fired from most patterns of Astartes heavy bolters.</Ammo_Bolter998_Tempest.description>
+	
+	<!-- EN: .998 cal bolt (Standard) -->
+	<Bullet_Bolter998_Standard.label>.998 cal bolt (Standard)</Bullet_Bolter998_Standard.label>
+	
+	<!-- EN: .998 cal bolt (Inferno) -->
+	<Bullet_Bolter998_Inferno.label>.998 cal bolt (Inferno)</Bullet_Bolter998_Inferno.label>
+	
+	<!-- EN: .998 cal bolt (Metal Storm) -->
+	<Bullet_Bolter998_MetalStorm.label>.998 cal bolt (Metal Storm)</Bullet_Bolter998_MetalStorm.label>
+	
+	<!-- EN: .998 cal bolt (Kraken) -->
+	<Bullet_Bolter998_Kraken.label>.998 cal bolt (Kraken)</Bullet_Bolter998_Kraken.label>
+	
+	<!-- EN: .998 cal bolt (Tempest) -->
+	<Bullet_Bolter998_Tempest.label>.998 cal bolt (Tempest)</Bullet_Bolter998_Tempest.label>
+</LanguageData>

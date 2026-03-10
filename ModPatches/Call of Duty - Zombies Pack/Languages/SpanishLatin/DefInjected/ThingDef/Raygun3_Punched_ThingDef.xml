@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Rayguns\Raygun3_Punched.xml -->
+	<!-- EN: Eris Cartridge -->
+	<Ammo_Raygun_three_Punched.label>Eris Cartridge</Ammo_Raygun_three_Punched.label>
+	<!-- EN: Pistol cartridge favoured for its above average stopping power. -->
+	<Ammo_Raygun_three_Punched.description>Pistol cartridge favoured for its above average stopping power.</Ammo_Raygun_three_Punched.description>
+	<!-- EN: Eris Plasma -->
+	<Bullet_Raygun_three_Punched.label>Eris Plasma</Bullet_Raygun_three_Punched.label>
+</LanguageData>

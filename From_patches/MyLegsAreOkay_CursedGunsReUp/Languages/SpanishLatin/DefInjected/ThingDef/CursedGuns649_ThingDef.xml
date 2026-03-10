@@ -1,0 +1,149 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\MyLegsAreOkay_CursedGunsReUp\CursedGuns649.xml -->
+	<!-- EN: stock -->
+	<CursedGun_MacSixTeen.tools.0.label>stock</CursedGun_MacSixTeen.tools.0.label>
+	<!-- EN: barrel -->
+	<CursedGun_MacSixTeen.tools.1.label>barrel</CursedGun_MacSixTeen.tools.1.label>
+	<!-- EN: muzzle -->
+	<CursedGun_MacSixTeen.tools.2.label>muzzle</CursedGun_MacSixTeen.tools.2.label>
+	
+	<!-- EN: stock -->
+	<CursedGun_Lugernikov.tools.0.label>stock</CursedGun_Lugernikov.tools.0.label>
+	<!-- EN: barrel -->
+	<CursedGun_Lugernikov.tools.1.label>barrel</CursedGun_Lugernikov.tools.1.label>
+	<!-- EN: muzzle -->
+	<CursedGun_Lugernikov.tools.2.label>muzzle</CursedGun_Lugernikov.tools.2.label>
+	
+	<!-- EN: stock -->
+	<CursedGun_PKMini.tools.0.label>stock</CursedGun_PKMini.tools.0.label>
+	<!-- EN: barrel -->
+	<CursedGun_PKMini.tools.1.label>barrel</CursedGun_PKMini.tools.1.label>
+	<!-- EN: muzzle -->
+	<CursedGun_PKMini.tools.2.label>muzzle</CursedGun_PKMini.tools.2.label>
+	
+	<!-- EN: stock -->
+	<CursedGun_GSTFourFour.tools.0.label>stock</CursedGun_GSTFourFour.tools.0.label>
+	<!-- EN: barrel -->
+	<CursedGun_GSTFourFour.tools.1.label>barrel</CursedGun_GSTFourFour.tools.1.label>
+	<!-- EN: muzzle -->
+	<CursedGun_GSTFourFour.tools.2.label>muzzle</CursedGun_GSTFourFour.tools.2.label>
+	
+	<!-- EN: stock -->
+	<CursedGun_AmericanNinety.tools.0.label>stock</CursedGun_AmericanNinety.tools.0.label>
+	<!-- EN: barrel -->
+	<CursedGun_AmericanNinety.tools.1.label>barrel</CursedGun_AmericanNinety.tools.1.label>
+	<!-- EN: muzzle -->
+	<CursedGun_AmericanNinety.tools.2.label>muzzle</CursedGun_AmericanNinety.tools.2.label>
+	
+	<!-- EN: stock -->
+	<CursedGun_TomNine.tools.0.label>stock</CursedGun_TomNine.tools.0.label>
+	<!-- EN: barrel -->
+	<CursedGun_TomNine.tools.1.label>barrel</CursedGun_TomNine.tools.1.label>
+	<!-- EN: muzzle -->
+	<CursedGun_TomNine.tools.2.label>muzzle</CursedGun_TomNine.tools.2.label>
+	
+	<!-- EN: stock -->
+	<CursedGun_PPCyka.tools.0.label>stock</CursedGun_PPCyka.tools.0.label>
+	<!-- EN: barrel -->
+	<CursedGun_PPCyka.tools.1.label>barrel</CursedGun_PPCyka.tools.1.label>
+	<!-- EN: muzzle -->
+	<CursedGun_PPCyka.tools.2.label>muzzle</CursedGun_PPCyka.tools.2.label>
+	
+	<!-- EN: stock -->
+	<CursedGun_Khaukhat.tools.0.label>stock</CursedGun_Khaukhat.tools.0.label>
+	<!-- EN: barrel -->
+	<CursedGun_Khaukhat.tools.1.label>barrel</CursedGun_Khaukhat.tools.1.label>
+	<!-- EN: muzzle -->
+	<CursedGun_Khaukhat.tools.2.label>muzzle</CursedGun_Khaukhat.tools.2.label>
+	
+	<!-- EN: stock -->
+	<CursedGun_KammyGun.tools.0.label>stock</CursedGun_KammyGun.tools.0.label>
+	<!-- EN: barrel -->
+	<CursedGun_KammyGun.tools.1.label>barrel</CursedGun_KammyGun.tools.1.label>
+	<!-- EN: muzzle -->
+	<CursedGun_KammyGun.tools.2.label>muzzle</CursedGun_KammyGun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<CursedGun_ASFAL.tools.0.label>stock</CursedGun_ASFAL.tools.0.label>
+	<!-- EN: barrel -->
+	<CursedGun_ASFAL.tools.1.label>barrel</CursedGun_ASFAL.tools.1.label>
+	<!-- EN: muzzle -->
+	<CursedGun_ASFAL.tools.2.label>muzzle</CursedGun_ASFAL.tools.2.label>
+	
+	<!-- EN: stock -->
+	<CursedGun_Bossmerg.tools.0.label>stock</CursedGun_Bossmerg.tools.0.label>
+	<!-- EN: barrel -->
+	<CursedGun_Bossmerg.tools.1.label>barrel</CursedGun_Bossmerg.tools.1.label>
+	<!-- EN: muzzle -->
+	<CursedGun_Bossmerg.tools.2.label>muzzle</CursedGun_Bossmerg.tools.2.label>
+	
+	<!-- EN: stock -->
+	<CursedGun_Fringspield.tools.0.label>stock</CursedGun_Fringspield.tools.0.label>
+	<!-- EN: barrel -->
+	<CursedGun_Fringspield.tools.1.label>barrel</CursedGun_Fringspield.tools.1.label>
+	<!-- EN: muzzle -->
+	<CursedGun_Fringspield.tools.2.label>muzzle</CursedGun_Fringspield.tools.2.label>
+	
+	<!-- EN: grip -->
+	<CursedGun_Deaglov.tools.0.label>grip</CursedGun_Deaglov.tools.0.label>
+	<!-- EN: muzzle -->
+	<CursedGun_Deaglov.tools.1.label>muzzle</CursedGun_Deaglov.tools.1.label>
+	
+	<!-- EN: grip -->
+	<CursedGun_MPZweiundvierzig.tools.0.label>grip</CursedGun_MPZweiundvierzig.tools.0.label>
+	<!-- EN: muzzle -->
+	<CursedGun_MPZweiundvierzig.tools.1.label>muzzle</CursedGun_MPZweiundvierzig.tools.1.label>
+	
+	<!-- EN: grip -->
+	<CursedGun_SaigaEleven.tools.0.label>grip</CursedGun_SaigaEleven.tools.0.label>
+	<!-- EN: muzzle -->
+	<CursedGun_SaigaEleven.tools.1.label>muzzle</CursedGun_SaigaEleven.tools.1.label>
+	
+	<!-- EN: grip -->
+	<CursedGun_Obrez.tools.0.label>grip</CursedGun_Obrez.tools.0.label>
+	<!-- EN: muzzle -->
+	<CursedGun_Obrez.tools.1.label>muzzle</CursedGun_Obrez.tools.1.label>
+	
+	<!-- EN: grip -->
+	<CursedGun_ZipTwoTwo.tools.0.label>grip</CursedGun_ZipTwoTwo.tools.0.label>
+	<!-- EN: muzzle -->
+	<CursedGun_ZipTwoTwo.tools.1.label>muzzle</CursedGun_ZipTwoTwo.tools.1.label>
+	
+	<!-- EN: grip -->
+	<CursedGun_ZipTwoTwoThrown.tools.0.label>grip</CursedGun_ZipTwoTwoThrown.tools.0.label>
+	<!-- EN: muzzle -->
+	<CursedGun_ZipTwoTwoThrown.tools.1.label>muzzle</CursedGun_ZipTwoTwoThrown.tools.1.label>
+	
+	<!-- EN: grip -->
+	<CursedGun_SawPoint.tools.0.label>grip</CursedGun_SawPoint.tools.0.label>
+	<!-- EN: muzzle -->
+	<CursedGun_SawPoint.tools.1.label>muzzle</CursedGun_SawPoint.tools.1.label>
+	
+	<!-- EN: grip -->
+	<CursedGun_Makeagle.tools.0.label>grip</CursedGun_Makeagle.tools.0.label>
+	<!-- EN: muzzle -->
+	<CursedGun_Makeagle.tools.1.label>muzzle</CursedGun_Makeagle.tools.1.label>
+	
+	<!-- EN: grip -->
+	<CursedGun_Gluger.tools.0.label>grip</CursedGun_Gluger.tools.0.label>
+	<!-- EN: muzzle -->
+	<CursedGun_Gluger.tools.1.label>muzzle</CursedGun_Gluger.tools.1.label>
+	
+	<!-- EN: grip -->
+	<CursedGun_Llock.tools.0.label>grip</CursedGun_Llock.tools.0.label>
+	<!-- EN: muzzle -->
+	<CursedGun_Llock.tools.1.label>muzzle</CursedGun_Llock.tools.1.label>
+	
+	<!-- EN: grip -->
+	<CursedGun_ScopedPistol.tools.0.label>grip</CursedGun_ScopedPistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<CursedGun_ScopedPistol.tools.1.label>muzzle</CursedGun_ScopedPistol.tools.1.label>
+	
+	<!-- EN: grip -->
+	<CursedGun_Kniper.tools.0.label>grip</CursedGun_Kniper.tools.0.label>
+	<!-- EN: blade -->
+	<CursedGun_Kniper.tools.1.label>blade</CursedGun_Kniper.tools.1.label>
+	
+	<!-- EN: Throw Zip 22 -->
+	<CursedGun_ZipTwoTwoThrown.Properties.label>Throw Zip 22</CursedGun_ZipTwoTwoThrown.Properties.label>
+</LanguageData>

@@ -1,0 +1,39 @@
+<LanguageData>
+	<!-- ModPatches\Rimsenal Core\Defs\Rimsenal Core\Ammo_GD.xml -->
+	<!-- EN: make 6.6mm GD Caseless (FMJ) cartridge x500 -->
+	<MakeAmmo_66Greydale_FMJ.label>make 6.6mm GD Caseless (FMJ) cartridge x500</MakeAmmo_66Greydale_FMJ.label>
+	<!-- EN: Craft 500 6.6mm GD Caseless (FMJ) cartridges. -->
+	<MakeAmmo_66Greydale_FMJ.description>Craft 500 6.6mm GD Caseless (FMJ) cartridges.</MakeAmmo_66Greydale_FMJ.description>
+	<!-- EN: Making 6.6mm GD Caseless (FMJ) cartridges. -->
+	<MakeAmmo_66Greydale_FMJ.jobString>Making 6.6mm GD Caseless (FMJ) cartridges.</MakeAmmo_66Greydale_FMJ.jobString>
+	<!-- EN: make 6.6mm GD Caseless (AP) cartridge x500 -->
+	<MakeAmmo_66Greydale_AP.label>make 6.6mm GD Caseless (AP) cartridge x500</MakeAmmo_66Greydale_AP.label>
+	<!-- EN: Craft 500 6.6mm GD Caseless (AP) cartridges. -->
+	<MakeAmmo_66Greydale_AP.description>Craft 500 6.6mm GD Caseless (AP) cartridges.</MakeAmmo_66Greydale_AP.description>
+	<!-- EN: Making 6.6mm GD Caseless (AP) cartridges. -->
+	<MakeAmmo_66Greydale_AP.jobString>Making 6.6mm GD Caseless (AP) cartridges.</MakeAmmo_66Greydale_AP.jobString>
+	<!-- EN: make 6.6mm GD Caseless (HP) cartridge x500 -->
+	<MakeAmmo_66Greydale_HP.label>make 6.6mm GD Caseless (HP) cartridge x500</MakeAmmo_66Greydale_HP.label>
+	<!-- EN: Craft 500 6.6mm GD Caseless (HP) cartridges. -->
+	<MakeAmmo_66Greydale_HP.description>Craft 500 6.6mm GD Caseless (HP) cartridges.</MakeAmmo_66Greydale_HP.description>
+	<!-- EN: Making 6.6mm GD Caseless (HP) cartridges. -->
+	<MakeAmmo_66Greydale_HP.jobString>Making 6.6mm GD Caseless (HP) cartridges.</MakeAmmo_66Greydale_HP.jobString>
+	<!-- EN: make 6.6mm GD Caseless (AP-I) cartridge x500 -->
+	<MakeAmmo_66Greydale_Incendiary.label>make 6.6mm GD Caseless (AP-I) cartridge x500</MakeAmmo_66Greydale_Incendiary.label>
+	<!-- EN: Craft 500 6.6mm GD Caseless (AP-I) cartridges. -->
+	<MakeAmmo_66Greydale_Incendiary.description>Craft 500 6.6mm GD Caseless (AP-I) cartridges.</MakeAmmo_66Greydale_Incendiary.description>
+	<!-- EN: Making 6.6mm GD Caseless (AP-I) cartridges. -->
+	<MakeAmmo_66Greydale_Incendiary.jobString>Making 6.6mm GD Caseless (AP-I) cartridges.</MakeAmmo_66Greydale_Incendiary.jobString>
+	<!-- EN: make 6.6mm GD Caseless (AP-HE) cartridge x500 -->
+	<MakeAmmo_66Greydale_HE.label>make 6.6mm GD Caseless (AP-HE) cartridge x500</MakeAmmo_66Greydale_HE.label>
+	<!-- EN: Craft 500 6.6mm GD Caseless (AP-HE) cartridges. -->
+	<MakeAmmo_66Greydale_HE.description>Craft 500 6.6mm GD Caseless (AP-HE) cartridges.</MakeAmmo_66Greydale_HE.description>
+	<!-- EN: Making 6.6mm GD Caseless (AP-HE) cartridges. -->
+	<MakeAmmo_66Greydale_HE.jobString>Making 6.6mm GD Caseless (AP-HE) cartridges.</MakeAmmo_66Greydale_HE.jobString>
+	<!-- EN: make 6.6mm GD Caseless (Sabot) cartridge x500 -->
+	<MakeAmmo_66Greydale_Sabot.label>make 6.6mm GD Caseless (Sabot) cartridge x500</MakeAmmo_66Greydale_Sabot.label>
+	<!-- EN: Craft 500 6.6mm GD Caseless (Sabot) cartridges. -->
+	<MakeAmmo_66Greydale_Sabot.description>Craft 500 6.6mm GD Caseless (Sabot) cartridges.</MakeAmmo_66Greydale_Sabot.description>
+	<!-- EN: Making 6.6mm GD Caseless (Sabot) cartridges. -->
+	<MakeAmmo_66Greydale_Sabot.jobString>Making 6.6mm GD Caseless (Sabot) cartridges.</MakeAmmo_66Greydale_Sabot.jobString>
+</LanguageData>

@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Buffsboy474_SMWarcaskets_Ideology_Testing\Melee_Astartes1940.xml -->
+	<!-- EN: point -->
+	<HP_WarcasketMeleeWeapon_PowerSword.tools.0.label>point</HP_WarcasketMeleeWeapon_PowerSword.tools.0.label>
+	<!-- EN: blade -->
+	<HP_WarcasketMeleeWeapon_PowerSword.tools.1.label>blade</HP_WarcasketMeleeWeapon_PowerSword.tools.1.label>
+	
+	<!-- EN: point -->
+	<HP_WarcasketMeleeWeapon_ChainSword.tools.0.label>point</HP_WarcasketMeleeWeapon_ChainSword.tools.0.label>
+	<!-- EN: HP_Power_Cut -->
+	<HP_WarcasketMeleeWeapon_ChainSword.tools.1.label>HP_Power_Cut</HP_WarcasketMeleeWeapon_ChainSword.tools.1.label>
+	
+	<!-- EN: head -->
+	<HP_WarcasketMeleeWeapon_ThunderHammer.tools.0.label>head</HP_WarcasketMeleeWeapon_ThunderHammer.tools.0.label>
+	<!-- EN: handle -->
+	<HP_WarcasketMeleeWeapon_ThunderHammer.tools.1.label>handle</HP_WarcasketMeleeWeapon_ThunderHammer.tools.1.label>
+</LanguageData>

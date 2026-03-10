@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- Defs\Ammo\Pistols\762x25mmTokarev.xml -->
+	
+	<!-- EN: 7.62x25mm Tokarev (FMJ) -->
+	<Ammo_762x25mmTokarev_FMJ.label>7.62x25mm Tokarev (FMJ)</Ammo_762x25mmTokarev_FMJ.label>
+	<!-- EN: Common pistol cartridge used by a variety of handguns and SMGs. -->
+	<Ammo_762x25mmTokarev_FMJ.description>Common pistol cartridge used by a variety of handguns and SMGs.</Ammo_762x25mmTokarev_FMJ.description>
+	
+	<!-- EN: 7.62x25mm Tokarev (AP) -->
+	<Ammo_762x25mmTokarev_AP.label>7.62x25mm Tokarev (AP)</Ammo_762x25mmTokarev_AP.label>
+	<!-- EN: Common pistol cartridge used by a variety of handguns and SMGs. -->
+	<Ammo_762x25mmTokarev_AP.description>Common pistol cartridge used by a variety of handguns and SMGs.</Ammo_762x25mmTokarev_AP.description>
+	
+	<!-- EN: 7.62x25mm Tokarev (HP) -->
+	<Ammo_762x25mmTokarev_HP.label>7.62x25mm Tokarev (HP)</Ammo_762x25mmTokarev_HP.label>
+	<!-- EN: Common pistol cartridge used by a variety of handguns and SMGs. -->
+	<Ammo_762x25mmTokarev_HP.description>Common pistol cartridge used by a variety of handguns and SMGs.</Ammo_762x25mmTokarev_HP.description>
+	
+	<!-- EN: 7.62mm Tokarev bullet (FMJ) -->
+	<Bullet_762x25mmTokarev_FMJ.label>7.62mm Tokarev bullet (FMJ)</Bullet_762x25mmTokarev_FMJ.label>
+	
+	<!-- EN: 7.62mm Tokarev bullet (AP) -->
+	<Bullet_762x25mmTokarev_AP.label>7.62mm Tokarev bullet (AP)</Bullet_762x25mmTokarev_AP.label>
+	
+	<!-- EN: 7.62mm Tokarev bullet (HP) -->
+	<Bullet_762x25mmTokarev_HP.label>7.62mm Tokarev bullet (HP)</Bullet_762x25mmTokarev_HP.label>
+</LanguageData>

@@ -1,0 +1,37 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VGeneticsE\Races_Animal_FelineHybrids1831.xml -->
+	<!-- EN: left claw -->
+	<GR_Catbear.tools.0.label>left claw</GR_Catbear.tools.0.label>
+	<!-- EN: right claw -->
+	<GR_Catbear.tools.1.label>right claw</GR_Catbear.tools.1.label>
+	
+	<!-- EN: head -->
+	<GR_Catalope.tools.1.label>head</GR_Catalope.tools.1.label>
+	
+	<!-- EN: head -->
+	<GR_Catchicken.tools.1.label>head</GR_Catchicken.tools.1.label>
+	
+	<!-- EN: head -->
+	<GR_Catffalo.tools.1.label>head</GR_Catffalo.tools.1.label>
+	
+	<!-- EN: left claw -->
+	<GR_Catrabbit.tools.0.label>left claw</GR_Catrabbit.tools.0.label>
+	<!-- EN: right claw -->
+	<GR_Catrabbit.tools.1.label>right claw</GR_Catrabbit.tools.1.label>
+	<!-- EN: head -->
+	<GR_Catrabbit.tools.3.label>head</GR_Catrabbit.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<GR_Catwolf.tools.0.label>left claw</GR_Catwolf.tools.0.label>
+	<!-- EN: right claw -->
+	<GR_Catwolf.tools.1.label>right claw</GR_Catwolf.tools.1.label>
+	<!-- EN: head -->
+	<GR_Catwolf.tools.3.label>head</GR_Catwolf.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<GR_Catman.tools.0.label>left claw</GR_Catman.tools.0.label>
+	<!-- EN: right claw -->
+	<GR_Catman.tools.1.label>right claw</GR_Catman.tools.1.label>
+	<!-- EN: head -->
+	<GR_Catman.tools.3.label>head</GR_Catman.tools.3.label>
+</LanguageData>

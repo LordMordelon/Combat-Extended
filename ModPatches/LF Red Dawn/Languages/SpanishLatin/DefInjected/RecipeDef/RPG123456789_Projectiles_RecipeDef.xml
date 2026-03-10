@@ -1,0 +1,59 @@
+<LanguageData>
+	<!-- ModPatches\LF Red Dawn\Defs\LF Red Dawn\RPG123456789_Projectiles.xml -->
+	
+	<!-- EN: make RPG18 LAW launchers x5 -->
+	<MakeGun_RPG18D.label>make RPG18 LAW launchers x5</MakeGun_RPG18D.label>
+	<!-- EN: Craft 5 RPG18 launchers. -->
+	<MakeGun_RPG18D.description>Craft 5 RPG18 launchers.</MakeGun_RPG18D.description>
+	<!-- EN: Making RPG 18 LAW launchers. -->
+	<MakeGun_RPG18D.jobString>Making RPG 18 LAW launchers.</MakeGun_RPG18D.jobString>
+	
+	<!-- EN: make RPG18 LAW launchers x1 -->
+	<MakeGun_RPG18D_x1.label>make RPG18 LAW launchers x1</MakeGun_RPG18D_x1.label>
+	<!-- EN: Craft one RPG18 launcher. -->
+	<MakeGun_RPG18D_x1.description>Craft one RPG18 launcher.</MakeGun_RPG18D_x1.description>
+	<!-- EN: Making RPG 18 LAW launcher. -->
+	<MakeGun_RPG18D_x1.jobString>Making RPG 18 LAW launcher.</MakeGun_RPG18D_x1.jobString>
+	
+	<!-- EN: make RPG22 x5 -->
+	<MakeGun_RPG22D.label>make RPG22 x5</MakeGun_RPG22D.label>
+	<!-- EN: Craft 5 RPG22 launchers. -->
+	<MakeGun_RPG22D.description>Craft 5 RPG22 launchers.</MakeGun_RPG22D.description>
+	<!-- EN: Making RPG22 launchers. -->
+	<MakeGun_RPG22D.jobString>Making RPG22 launchers.</MakeGun_RPG22D.jobString>
+	
+	<!-- EN: make RPG22 x1 -->
+	<MakeGun_RPG22D_x1.label>make RPG22 x1</MakeGun_RPG22D_x1.label>
+	<!-- EN: Craft one RPG22 launcher. -->
+	<MakeGun_RPG22D_x1.description>Craft one RPG22 launcher.</MakeGun_RPG22D_x1.description>
+	<!-- EN: Making RPG22 launcher. -->
+	<MakeGun_RPG22D_x1.jobString>Making RPG22 launcher.</MakeGun_RPG22D_x1.jobString>
+	
+	<!-- EN: make RPG26 x5 -->
+	<MakeGun_RPG26D.label>make RPG26 x5</MakeGun_RPG26D.label>
+	<!-- EN: Craft 5 RPG26 launchers. -->
+	<MakeGun_RPG26D.description>Craft 5 RPG26 launchers.</MakeGun_RPG26D.description>
+	<!-- EN: Making RPG26 launchers. -->
+	<MakeGun_RPG26D.jobString>Making RPG26 launchers.</MakeGun_RPG26D.jobString>
+	
+	<!-- EN: make RPG26 x1 -->
+	<MakeGun_RPG26D_x1.label>make RPG26 x1</MakeGun_RPG26D_x1.label>
+	<!-- EN: Craft one RPG26 launcher. -->
+	<MakeGun_RPG26D_x1.description>Craft one RPG26 launcher.</MakeGun_RPG26D_x1.description>
+	<!-- EN: Making RPG26 launcher. -->
+	<MakeGun_RPG26D_x1.jobString>Making RPG26 launcher.</MakeGun_RPG26D_x1.jobString>
+	
+	<!-- EN: make RPG27 x5 -->
+	<MakeGun_RPG27D.label>make RPG27 x5</MakeGun_RPG27D.label>
+	<!-- EN: Craft 5 RPG27 launchers. -->
+	<MakeGun_RPG27D.description>Craft 5 RPG27 launchers.</MakeGun_RPG27D.description>
+	<!-- EN: Making RPG27 launchers. -->
+	<MakeGun_RPG27D.jobString>Making RPG27 launchers.</MakeGun_RPG27D.jobString>
+	
+	<!-- EN: make RPG27 x1 -->
+	<MakeGun_RPG27D_x1.label>make RPG27 x1</MakeGun_RPG27D_x1.label>
+	<!-- EN: Craft one RPG27 launcher. -->
+	<MakeGun_RPG27D_x1.description>Craft one RPG27 launcher.</MakeGun_RPG27D_x1.description>
+	<!-- EN: Making RPG27 launcher. -->
+	<MakeGun_RPG27D_x1.jobString>Making RPG27 launcher.</MakeGun_RPG27D_x1.jobString>
+</LanguageData>

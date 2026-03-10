@@ -1,0 +1,93 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\K4G_Core\WeaponsRanged931.xml -->
+	<!-- EN: grip -->
+	<K4G_Gun_Snubgun.tools.0.label>grip</K4G_Gun_Snubgun.tools.0.label>
+	<!-- EN: muzzle -->
+	<K4G_Gun_Snubgun.tools.1.label>muzzle</K4G_Gun_Snubgun.tools.1.label>
+	
+	<!-- EN: grip -->
+	<K4G_Gun_Bolter.tools.0.label>grip</K4G_Gun_Bolter.tools.0.label>
+	<!-- EN: muzzle -->
+	<K4G_Gun_Bolter.tools.1.label>muzzle</K4G_Gun_Bolter.tools.1.label>
+	
+	<!-- EN: grip -->
+	<K4G_Gun_AdvancedAutopistol.tools.0.label>grip</K4G_Gun_AdvancedAutopistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<K4G_Gun_AdvancedAutopistol.tools.1.label>muzzle</K4G_Gun_AdvancedAutopistol.tools.1.label>
+	
+	<!-- EN: grip -->
+	<K4G_Gun_PrecisionPistol.tools.0.label>grip</K4G_Gun_PrecisionPistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<K4G_Gun_PrecisionPistol.tools.1.label>muzzle</K4G_Gun_PrecisionPistol.tools.1.label>
+	
+	<!-- EN: grip -->
+	<K4G_Gun_ComradePistol.tools.0.label>grip</K4G_Gun_ComradePistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<K4G_Gun_ComradePistol.tools.1.label>muzzle</K4G_Gun_ComradePistol.tools.1.label>
+	
+	<!-- EN: grip -->
+	<K4G_Gun_Shortbarrel.tools.0.label>grip</K4G_Gun_Shortbarrel.tools.0.label>
+	<!-- EN: muzzle -->
+	<K4G_Gun_Shortbarrel.tools.1.label>muzzle</K4G_Gun_Shortbarrel.tools.1.label>
+	
+	<!-- EN: grip -->
+	<K4G_Gun_Nailgun.tools.0.label>grip</K4G_Gun_Nailgun.tools.0.label>
+	<!-- EN: muzzle -->
+	<K4G_Gun_Nailgun.tools.1.label>muzzle</K4G_Gun_Nailgun.tools.1.label>
+	
+	<!-- EN: stock -->
+	<K4G_Gun_LongGun.tools.0.label>stock</K4G_Gun_LongGun.tools.0.label>
+	<!-- EN: barrel -->
+	<K4G_Gun_LongGun.tools.1.label>barrel</K4G_Gun_LongGun.tools.1.label>
+	<!-- EN: muzzle -->
+	<K4G_Gun_LongGun.tools.2.label>muzzle</K4G_Gun_LongGun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<K4G_Gun_Carbiner.tools.0.label>stock</K4G_Gun_Carbiner.tools.0.label>
+	<!-- EN: barrel -->
+	<K4G_Gun_Carbiner.tools.1.label>barrel</K4G_Gun_Carbiner.tools.1.label>
+	<!-- EN: muzzle -->
+	<K4G_Gun_Carbiner.tools.2.label>muzzle</K4G_Gun_Carbiner.tools.2.label>
+	
+	<!-- EN: stock -->
+	<K4G_Gun_DuneRifle.tools.0.label>stock</K4G_Gun_DuneRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<K4G_Gun_DuneRifle.tools.1.label>barrel</K4G_Gun_DuneRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<K4G_Gun_DuneRifle.tools.2.label>muzzle</K4G_Gun_DuneRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<K4G_Gun_HeavyShotgun.tools.0.label>stock</K4G_Gun_HeavyShotgun.tools.0.label>
+	<!-- EN: barrel -->
+	<K4G_Gun_HeavyShotgun.tools.1.label>barrel</K4G_Gun_HeavyShotgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<K4G_Gun_HeavyShotgun.tools.2.label>muzzle</K4G_Gun_HeavyShotgun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<K4G_Gun_LightSMG.tools.0.label>stock</K4G_Gun_LightSMG.tools.0.label>
+	<!-- EN: barrel -->
+	<K4G_Gun_LightSMG.tools.1.label>barrel</K4G_Gun_LightSMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<K4G_Gun_LightSMG.tools.2.label>muzzle</K4G_Gun_LightSMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<K4G_Gun_AdvancedSMG.tools.0.label>stock</K4G_Gun_AdvancedSMG.tools.0.label>
+	<!-- EN: barrel -->
+	<K4G_Gun_AdvancedSMG.tools.1.label>barrel</K4G_Gun_AdvancedSMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<K4G_Gun_AdvancedSMG.tools.2.label>muzzle</K4G_Gun_AdvancedSMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<K4G_Gun_BattleRifle.tools.0.label>stock</K4G_Gun_BattleRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<K4G_Gun_BattleRifle.tools.1.label>barrel</K4G_Gun_BattleRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<K4G_Gun_BattleRifle.tools.2.label>muzzle</K4G_Gun_BattleRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<K4G_Gun_DrumRifle.tools.0.label>stock</K4G_Gun_DrumRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<K4G_Gun_DrumRifle.tools.1.label>barrel</K4G_Gun_DrumRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<K4G_Gun_DrumRifle.tools.2.label>muzzle</K4G_Gun_DrumRifle.tools.2.label>
+</LanguageData>

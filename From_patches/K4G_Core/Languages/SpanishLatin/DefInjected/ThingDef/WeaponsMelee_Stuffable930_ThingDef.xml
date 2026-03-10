@@ -1,0 +1,86 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\K4G_Core\WeaponsMelee_Stuffable930.xml -->
+	<!-- EN: handle -->
+	<K4G_MeleeWeapon_Sabre.tools.0.label>handle</K4G_MeleeWeapon_Sabre.tools.0.label>
+	<!-- EN: point -->
+	<K4G_MeleeWeapon_Sabre.tools.1.label>point</K4G_MeleeWeapon_Sabre.tools.1.label>
+	<!-- EN: edge -->
+	<K4G_MeleeWeapon_Sabre.tools.2.label>edge</K4G_MeleeWeapon_Sabre.tools.2.label>
+	
+	<!-- EN: handle -->
+	<K4G_MeleeWeapon_Katana.tools.0.label>handle</K4G_MeleeWeapon_Katana.tools.0.label>
+	<!-- EN: point -->
+	<K4G_MeleeWeapon_Katana.tools.1.label>point</K4G_MeleeWeapon_Katana.tools.1.label>
+	<!-- EN: edge -->
+	<K4G_MeleeWeapon_Katana.tools.2.label>edge</K4G_MeleeWeapon_Katana.tools.2.label>
+	
+	<!-- EN: handle -->
+	<K4G_MeleeWeapon_Cleaver.tools.0.label>handle</K4G_MeleeWeapon_Cleaver.tools.0.label>
+	<!-- EN: point -->
+	<K4G_MeleeWeapon_Cleaver.tools.1.label>point</K4G_MeleeWeapon_Cleaver.tools.1.label>
+	<!-- EN: edge -->
+	<K4G_MeleeWeapon_Cleaver.tools.2.label>edge</K4G_MeleeWeapon_Cleaver.tools.2.label>
+	
+	<!-- EN: handle -->
+	<K4G_MeleeWeapon_Scimitar.tools.0.label>handle</K4G_MeleeWeapon_Scimitar.tools.0.label>
+	<!-- EN: point -->
+	<K4G_MeleeWeapon_Scimitar.tools.1.label>point</K4G_MeleeWeapon_Scimitar.tools.1.label>
+	<!-- EN: edge -->
+	<K4G_MeleeWeapon_Scimitar.tools.2.label>edge</K4G_MeleeWeapon_Scimitar.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<K4G_MeleeWeapon_Glaive.tools.0.label>shaft</K4G_MeleeWeapon_Glaive.tools.0.label>
+	<!-- EN: edge -->
+	<K4G_MeleeWeapon_Glaive.tools.1.label>edge</K4G_MeleeWeapon_Glaive.tools.1.label>
+	<!-- EN: point -->
+	<K4G_MeleeWeapon_Glaive.tools.2.label>point</K4G_MeleeWeapon_Glaive.tools.2.label>
+	
+	<!-- EN: handle -->
+	<K4G_MeleeWeapon_Baton.tools.0.label>handle</K4G_MeleeWeapon_Baton.tools.0.label>
+	<!-- EN: head -->
+	<K4G_MeleeWeapon_Baton.tools.1.label>head</K4G_MeleeWeapon_Baton.tools.1.label>
+	
+	<!-- EN: shaft -->
+	<K4G_MeleeWeapon_Staff.tools.0.label>shaft</K4G_MeleeWeapon_Staff.tools.0.label>
+	<!-- EN: shaft -->
+	<K4G_MeleeWeapon_Staff.tools.1.label>shaft</K4G_MeleeWeapon_Staff.tools.1.label>
+	
+	<!-- EN: head -->
+	<K4G_MeleeWeapon_NobleCane.tools.0.label>head</K4G_MeleeWeapon_NobleCane.tools.0.label>
+	<!-- EN: head -->
+	<K4G_MeleeWeapon_NobleCane.tools.1.label>head</K4G_MeleeWeapon_NobleCane.tools.1.label>
+	
+	<!-- EN: shaft -->
+	<K4G_MeleeWeapon_Pickaxe.tools.0.label>shaft</K4G_MeleeWeapon_Pickaxe.tools.0.label>
+	<!-- EN: point -->
+	<K4G_MeleeWeapon_Pickaxe.tools.1.label>point</K4G_MeleeWeapon_Pickaxe.tools.1.label>
+	<!-- EN: blade -->
+	<K4G_MeleeWeapon_Pickaxe.tools.2.label>blade</K4G_MeleeWeapon_Pickaxe.tools.2.label>
+	
+	<!-- EN: handle -->
+	<K4G_MeleeWeapon_Shovel.tools.0.label>handle</K4G_MeleeWeapon_Shovel.tools.0.label>
+	<!-- EN: head -->
+	<K4G_MeleeWeapon_Shovel.tools.1.label>head</K4G_MeleeWeapon_Shovel.tools.1.label>
+	
+	<!-- EN: brand -->
+	<K4G_MeleeWeapon_BrandingIron.tools.0.label>brand</K4G_MeleeWeapon_BrandingIron.tools.0.label>
+	<!-- EN: handle -->
+	<K4G_MeleeWeapon_BrandingIron.tools.1.label>handle</K4G_MeleeWeapon_BrandingIron.tools.1.label>
+	
+	<!-- EN: shaft -->
+	<K4G_MeleeWeapon_Pitchfork.tools.0.label>shaft</K4G_MeleeWeapon_Pitchfork.tools.0.label>
+	<!-- EN: head -->
+	<K4G_MeleeWeapon_Pitchfork.tools.1.label>head</K4G_MeleeWeapon_Pitchfork.tools.1.label>
+	
+	<!-- EN: cutting edge -->
+	<K4G_MeleeWeapon_Rock.tools.0.label>cutting edge</K4G_MeleeWeapon_Rock.tools.0.label>
+	<!-- EN: edge -->
+	<K4G_MeleeWeapon_Rock.tools.1.label>edge</K4G_MeleeWeapon_Rock.tools.1.label>
+	
+	<!-- EN: shaft -->
+	<K4G_MeleeWeapon_IceAxe.tools.0.label>shaft</K4G_MeleeWeapon_IceAxe.tools.0.label>
+	<!-- EN: blade -->
+	<K4G_MeleeWeapon_IceAxe.tools.1.label>blade</K4G_MeleeWeapon_IceAxe.tools.1.label>
+	<!-- EN: spike -->
+	<K4G_MeleeWeapon_IceAxe.tools.2.label>spike</K4G_MeleeWeapon_IceAxe.tools.2.label>
+</LanguageData>

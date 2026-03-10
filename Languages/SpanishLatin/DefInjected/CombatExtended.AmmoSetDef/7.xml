@@ -1,0 +1,21 @@
+<LanguageData>
+	<!-- Defs\Ammo\HighCaliber\7.92x94mm Patronen.xml -->
+	
+	<!-- EN: 7.92x94mm Patronen -->
+	<AmmoSet_792x94mmPatronen.label>7.92x94mm Patronen</AmmoSet_792x94mmPatronen.label>
+	<!-- Defs\Ammo\Modded\Halo\7.62x51mmUNSC.xml -->
+	<!-- EN: 7.62x51mm UNSC -->
+	<AmmoSet_762x51mmUNSC.label>7.62x51mm UNSC</AmmoSet_762x51mmUNSC.label>
+	<!-- EN: 7.62x51mm UNSC -->
+	<AmmoSet_762x51mmUNSC_DMR.label>7.62x51mm UNSC</AmmoSet_762x51mmUNSC_DMR.label>
+	<!-- EN: 7.62x51mm UNSC Extra -->
+	<AmmoSet_762x51mmExtra.label>7.62x51mm UNSC Extra</AmmoSet_762x51mmExtra.label>
+	<!-- Defs\Ammo\Pistols\7.5FK.xml -->
+	
+	<!-- EN: 7.5 FK -->
+	<AmmoSet_75FK.label>7.5 FK</AmmoSet_75FK.label>
+	<!-- Defs\Ammo\Rifle\7.92x57mmMauser.xml -->
+	
+	<!-- EN: 7.92x57mm Mauser -->
+	<AmmoSet_792x57mmMauser.label>7.92x57mm Mauser</AmmoSet_792x57mmMauser.label>
+</LanguageData>

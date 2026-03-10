@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Staffs\Staff of Ice.xml -->
+	<!-- EN: make Elemental Ice Crystal x5 -->
+	<MakeAmmo_Elemental_Staff_Ice.label>make Elemental Ice Crystal x5</MakeAmmo_Elemental_Staff_Ice.label>
+	<!-- EN: Craft 5 Elemental Ice Crystals. -->
+	<MakeAmmo_Elemental_Staff_Ice.description>Craft 5 Elemental Ice Crystals.</MakeAmmo_Elemental_Staff_Ice.description>
+	<!-- EN: Making Elemental Ice Crystals. -->
+	<MakeAmmo_Elemental_Staff_Ice.jobString>Making Elemental Ice Crystals.</MakeAmmo_Elemental_Staff_Ice.jobString>
+</LanguageData>

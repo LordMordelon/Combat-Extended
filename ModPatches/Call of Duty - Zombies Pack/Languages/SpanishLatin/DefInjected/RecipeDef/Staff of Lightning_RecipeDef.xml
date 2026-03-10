@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Staffs\Staff of Lightning.xml -->
+	<!-- EN: make Elemental Lightning Crystal x5 -->
+	<MakeAmmo_Elemental_Staff_Lightning.label>make Elemental Lightning Crystal x5</MakeAmmo_Elemental_Staff_Lightning.label>
+	<!-- EN: Craft 5 Elemental Lightning Crystals. -->
+	<MakeAmmo_Elemental_Staff_Lightning.description>Craft 5 Elemental Lightning Crystals.</MakeAmmo_Elemental_Staff_Lightning.description>
+	<!-- EN: Making Elemental Lightning Crystals. -->
+	<MakeAmmo_Elemental_Staff_Lightning.jobString>Making Elemental Lightning Crystals.</MakeAmmo_Elemental_Staff_Lightning.jobString>
+</LanguageData>

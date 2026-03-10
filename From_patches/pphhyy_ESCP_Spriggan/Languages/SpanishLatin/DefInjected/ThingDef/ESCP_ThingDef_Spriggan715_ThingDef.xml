@@ -1,0 +1,69 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\pphhyy_ESCP_Spriggan\ESCP_ThingDef_Spriggan715.xml -->
+	<!-- EN: left claw -->
+	<ESCP_Spriggan.tools.0.label>left claw</ESCP_Spriggan.tools.0.label>
+	<!-- EN: right claw -->
+	<ESCP_Spriggan.tools.1.label>right claw</ESCP_Spriggan.tools.1.label>
+	<!-- EN: head -->
+	<ESCP_Spriggan.tools.2.label>head</ESCP_Spriggan.tools.2.label>
+	
+	<!-- EN: left claw -->
+	<ESCP_Spriggan_Anima.tools.0.label>left claw</ESCP_Spriggan_Anima.tools.0.label>
+	<!-- EN: right claw -->
+	<ESCP_Spriggan_Anima.tools.1.label>right claw</ESCP_Spriggan_Anima.tools.1.label>
+	<!-- EN: head -->
+	<ESCP_Spriggan_Anima.tools.2.label>head</ESCP_Spriggan_Anima.tools.2.label>
+	
+	<!-- EN: left claw -->
+	<ESCP_Spriggan_Parasol.tools.0.label>left claw</ESCP_Spriggan_Parasol.tools.0.label>
+	<!-- EN: right claw -->
+	<ESCP_Spriggan_Parasol.tools.1.label>right claw</ESCP_Spriggan_Parasol.tools.1.label>
+	<!-- EN: head -->
+	<ESCP_Spriggan_Parasol.tools.2.label>head</ESCP_Spriggan_Parasol.tools.2.label>
+	
+	<!-- EN: left claw -->
+	<ESCP_Spriggan_Bog.tools.0.label>left claw</ESCP_Spriggan_Bog.tools.0.label>
+	<!-- EN: right claw -->
+	<ESCP_Spriggan_Bog.tools.1.label>right claw</ESCP_Spriggan_Bog.tools.1.label>
+	<!-- EN: head -->
+	<ESCP_Spriggan_Bog.tools.2.label>head</ESCP_Spriggan_Bog.tools.2.label>
+	
+	<!-- EN: left claw -->
+	<ESCP_Spriggan_Burnt.tools.0.label>left claw</ESCP_Spriggan_Burnt.tools.0.label>
+	<!-- EN: right claw -->
+	<ESCP_Spriggan_Burnt.tools.1.label>right claw</ESCP_Spriggan_Burnt.tools.1.label>
+	<!-- EN: head -->
+	<ESCP_Spriggan_Burnt.tools.2.label>head</ESCP_Spriggan_Burnt.tools.2.label>
+	<!-- EN: spriggan fireball -->
+	<ESCP_Spriggan_Burnt.verbs.0.label>spriggan fireball</ESCP_Spriggan_Burnt.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<ESCP_Spriggan_Burnt.verbs.CombatExtended.Verb_ShootCE.label>ㅤ</ESCP_Spriggan_Burnt.verbs.CombatExtended.Verb_ShootCE.label>
+	
+	<!-- EN: left claw -->
+	<ESCP_Spriggan_EarthMother.tools.0.label>left claw</ESCP_Spriggan_EarthMother.tools.0.label>
+	<!-- EN: right claw -->
+	<ESCP_Spriggan_EarthMother.tools.1.label>right claw</ESCP_Spriggan_EarthMother.tools.1.label>
+	<!-- EN: head -->
+	<ESCP_Spriggan_EarthMother.tools.3.label>head</ESCP_Spriggan_EarthMother.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<ESCP_Spriggan_Matron.tools.0.label>left claw</ESCP_Spriggan_Matron.tools.0.label>
+	<!-- EN: right claw -->
+	<ESCP_Spriggan_Matron.tools.1.label>right claw</ESCP_Spriggan_Matron.tools.1.label>
+	<!-- EN: head -->
+	<ESCP_Spriggan_Matron.tools.3.label>head</ESCP_Spriggan_Matron.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<ESCP_Spriggan_Thorni.tools.0.label>left claw</ESCP_Spriggan_Thorni.tools.0.label>
+	<!-- EN: right claw -->
+	<ESCP_Spriggan_Thorni.tools.1.label>right claw</ESCP_Spriggan_Thorni.tools.1.label>
+	<!-- EN: head -->
+	<ESCP_Spriggan_Thorni.tools.3.label>head</ESCP_Spriggan_Thorni.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<ESCP_Spriggan_Tundra.tools.0.label>left claw</ESCP_Spriggan_Tundra.tools.0.label>
+	<!-- EN: right claw -->
+	<ESCP_Spriggan_Tundra.tools.1.label>right claw</ESCP_Spriggan_Tundra.tools.1.label>
+	<!-- EN: head -->
+	<ESCP_Spriggan_Tundra.tools.2.label>head</ESCP_Spriggan_Tundra.tools.2.label>
+</LanguageData>

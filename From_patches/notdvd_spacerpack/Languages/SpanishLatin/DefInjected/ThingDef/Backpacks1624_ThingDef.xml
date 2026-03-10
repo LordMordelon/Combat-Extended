@@ -1,0 +1,12 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\notdvd_spacerpack\Backpacks1624.xml -->
+	<!-- EN: launch ripper rack -->
+	<dvd_minerpack.verbs.0.label>launch ripper rack</dvd_minerpack.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<dvd_minerpack.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>ㅤ</dvd_minerpack.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>
+	
+	<!-- EN: archotech skipbolt -->
+	<dvd_archopack.verbs.0.label>archotech skipbolt</dvd_archopack.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<dvd_archopack.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>ㅤ</dvd_archopack.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>
+</LanguageData>

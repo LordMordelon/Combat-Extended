@@ -1,0 +1,94 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\botchjob_profaned\Profaned_Weapons_Melee1260.xml -->
+	<!-- EN: shaft -->
+	<BotchJob_ProfanedWarAxe.tools.0.label>shaft</BotchJob_ProfanedWarAxe.tools.0.label>
+	<!-- EN: head -->
+	<BotchJob_ProfanedWarAxe.tools.1.label>head</BotchJob_ProfanedWarAxe.tools.1.label>
+	<!-- EN: edge -->
+	<BotchJob_ProfanedWarAxe.tools.2.label>edge</BotchJob_ProfanedWarAxe.tools.2.label>
+	
+	<!-- EN: handle -->
+	<BotchJob_ProfanedScimitar.tools.0.label>handle</BotchJob_ProfanedScimitar.tools.0.label>
+	<!-- EN: point -->
+	<BotchJob_ProfanedScimitar.tools.1.label>point</BotchJob_ProfanedScimitar.tools.1.label>
+	<!-- EN: edge -->
+	<BotchJob_ProfanedScimitar.tools.2.label>edge</BotchJob_ProfanedScimitar.tools.2.label>
+	
+	<!-- EN: handle -->
+	<BotchJob_ProfanedShotel.tools.0.label>handle</BotchJob_ProfanedShotel.tools.0.label>
+	<!-- EN: point -->
+	<BotchJob_ProfanedShotel.tools.1.label>point</BotchJob_ProfanedShotel.tools.1.label>
+	<!-- EN: edge -->
+	<BotchJob_ProfanedShotel.tools.2.label>edge</BotchJob_ProfanedShotel.tools.2.label>
+	
+	<!-- EN: handle -->
+	<BotchJob_ProfanedClub.tools.0.label>handle</BotchJob_ProfanedClub.tools.0.label>
+	<!-- EN: head -->
+	<BotchJob_ProfanedClub.tools.1.label>head</BotchJob_ProfanedClub.tools.1.label>
+	
+	<!-- EN: handle -->
+	<BotchJob_ScourgeknightGreatsword.tools.0.label>handle</BotchJob_ScourgeknightGreatsword.tools.0.label>
+	<!-- EN: point -->
+	<BotchJob_ScourgeknightGreatsword.tools.1.label>point</BotchJob_ScourgeknightGreatsword.tools.1.label>
+	<!-- EN: edge -->
+	<BotchJob_ScourgeknightGreatsword.tools.2.label>edge</BotchJob_ScourgeknightGreatsword.tools.2.label>
+	
+	<!-- EN: handle -->
+	<BotchJob_GraspingDeadGreatsword.tools.0.label>handle</BotchJob_GraspingDeadGreatsword.tools.0.label>
+	<!-- EN: point -->
+	<BotchJob_GraspingDeadGreatsword.tools.1.label>point</BotchJob_GraspingDeadGreatsword.tools.1.label>
+	<!-- EN: edge -->
+	<BotchJob_GraspingDeadGreatsword.tools.2.label>edge</BotchJob_GraspingDeadGreatsword.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<BotchJob_ScourgeknightGreataxe.tools.0.label>shaft</BotchJob_ScourgeknightGreataxe.tools.0.label>
+	<!-- EN: head -->
+	<BotchJob_ScourgeknightGreataxe.tools.1.label>head</BotchJob_ScourgeknightGreataxe.tools.1.label>
+	<!-- EN: edge -->
+	<BotchJob_ScourgeknightGreataxe.tools.2.label>edge</BotchJob_ScourgeknightGreataxe.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<BotchJob_FrostboundGreataxe.tools.0.label>shaft</BotchJob_FrostboundGreataxe.tools.0.label>
+	<!-- EN: head -->
+	<BotchJob_FrostboundGreataxe.tools.1.label>head</BotchJob_FrostboundGreataxe.tools.1.label>
+	<!-- EN: edge -->
+	<BotchJob_FrostboundGreataxe.tools.2.label>edge</BotchJob_FrostboundGreataxe.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<BotchJob_ProfanedScythe.tools.0.label>shaft</BotchJob_ProfanedScythe.tools.0.label>
+	<!-- EN: blade -->
+	<BotchJob_ProfanedScythe.tools.1.label>blade</BotchJob_ProfanedScythe.tools.1.label>
+	<!-- EN: edge -->
+	<BotchJob_ProfanedScythe.tools.2.label>edge</BotchJob_ProfanedScythe.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<BotchJob_FadingSoulScythe.tools.0.label>shaft</BotchJob_FadingSoulScythe.tools.0.label>
+	<!-- EN: blade -->
+	<BotchJob_FadingSoulScythe.tools.1.label>blade</BotchJob_FadingSoulScythe.tools.1.label>
+	<!-- EN: edge -->
+	<BotchJob_FadingSoulScythe.tools.2.label>edge</BotchJob_FadingSoulScythe.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<BotchJob_ProfanedGlaive.tools.0.label>shaft</BotchJob_ProfanedGlaive.tools.0.label>
+	<!-- EN: blade -->
+	<BotchJob_ProfanedGlaive.tools.1.label>blade</BotchJob_ProfanedGlaive.tools.1.label>
+	<!-- EN: edge -->
+	<BotchJob_ProfanedGlaive.tools.2.label>edge</BotchJob_ProfanedGlaive.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<BotchJob_AbyssalGlaive.tools.0.label>shaft</BotchJob_AbyssalGlaive.tools.0.label>
+	<!-- EN: blade -->
+	<BotchJob_AbyssalGlaive.tools.1.label>blade</BotchJob_AbyssalGlaive.tools.1.label>
+	<!-- EN: edge -->
+	<BotchJob_AbyssalGlaive.tools.2.label>edge</BotchJob_AbyssalGlaive.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<BotchJob_ProfanedStaff.tools.0.label>shaft</BotchJob_ProfanedStaff.tools.0.label>
+	
+	<!-- EN: shaft -->
+	<BotchJob_BloodflameStaff.tools.0.label>shaft</BotchJob_BloodflameStaff.tools.0.label>
+	<!-- EN: bloodflame surge -->
+	<BotchJob_BloodflameStaff.verbs.0.label>bloodflame surge</BotchJob_BloodflameStaff.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<BotchJob_BloodflameStaff.verbs.Verb_LaunchProjectile.label>ㅤ</BotchJob_BloodflameStaff.verbs.Verb_LaunchProjectile.label>
+</LanguageData>

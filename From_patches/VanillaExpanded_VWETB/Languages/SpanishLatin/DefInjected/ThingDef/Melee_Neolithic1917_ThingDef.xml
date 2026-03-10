@@ -1,0 +1,22 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VWETB\Melee_Neolithic1917.xml -->
+	<!-- EN: handle -->
+	<VWE_MeleeWeapon_HeavyClub.tools.0.label>handle</VWE_MeleeWeapon_HeavyClub.tools.0.label>
+	<!-- EN: head -->
+	<VWE_MeleeWeapon_HeavyClub.tools.1.label>head</VWE_MeleeWeapon_HeavyClub.tools.1.label>
+	
+	<!-- EN: handle -->
+	<VWE_MeleeWeapon_LightClub.tools.0.label>handle</VWE_MeleeWeapon_LightClub.tools.0.label>
+	<!-- EN: head -->
+	<VWE_MeleeWeapon_LightClub.tools.1.label>head</VWE_MeleeWeapon_LightClub.tools.1.label>
+	
+	<!-- EN: handle -->
+	<VWE_MeleeWeapon_TribalAxe.tools.0.label>handle</VWE_MeleeWeapon_TribalAxe.tools.0.label>
+	<!-- EN: edge -->
+	<VWE_MeleeWeapon_TribalAxe.tools.1.label>edge</VWE_MeleeWeapon_TribalAxe.tools.1.label>
+	
+	<!-- EN: handle -->
+	<VWE_MeleeWeapon_Shiv.tools.0.label>handle</VWE_MeleeWeapon_Shiv.tools.0.label>
+	<!-- EN: point -->
+	<VWE_MeleeWeapon_Shiv.tools.1.label>point</VWE_MeleeWeapon_Shiv.tools.1.label>
+</LanguageData>

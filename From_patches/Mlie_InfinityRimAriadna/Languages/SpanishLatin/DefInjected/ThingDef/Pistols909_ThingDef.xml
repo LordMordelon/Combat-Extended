@@ -1,0 +1,12 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Mlie_InfinityRimAriadna\Pistols909.xml -->
+	<!-- EN: grip -->
+	<Gun_HeavyPistol.tools.0.label>grip</Gun_HeavyPistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_HeavyPistol.tools.1.label>muzzle</Gun_HeavyPistol.tools.1.label>
+	
+	<!-- EN: grip -->
+	<Gun_AssaultPistol.tools.0.label>grip</Gun_AssaultPistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_AssaultPistol.tools.1.label>muzzle</Gun_AssaultPistol.tools.1.label>
+</LanguageData>

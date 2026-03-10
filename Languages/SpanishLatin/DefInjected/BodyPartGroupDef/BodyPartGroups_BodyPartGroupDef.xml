@@ -1,0 +1,49 @@
+<LanguageData>
+	<!-- Defs\Bodies\BodyPartGroups.xml -->
+	<!-- EN: covered by natural armor -->
+	<CoveredByNaturalArmor.label>covered by natural armor</CoveredByNaturalArmor.label>
+	<!-- EN: left arm -->
+	<LeftArm.label>left arm</LeftArm.label>
+	<!-- EN: right arm -->
+	<RightArm.label>right arm</RightArm.label>
+	<!-- EN: left shoulder -->
+	<LeftShoulder.label>left shoulder</LeftShoulder.label>
+	<!-- EN: right shoulder -->
+	<RightShoulder.label>right shoulder</RightShoulder.label>
+	<!-- EN: base -->
+	<Base.label>base</Base.label>
+	<!-- EN: blade -->
+	<Blade.label>blade</Blade.label>
+	<!-- EN: edge -->
+	<Edge.label>edge</Edge.label>
+	<!-- EN: handle -->
+	<Handle.label>handle</Handle.label>
+	<!-- EN: head -->
+	<Head.label>head</Head.label>
+	<!-- EN: neck -->
+	<Neck.label>neck</Neck.label>
+	<!-- EN: point -->
+	<Point.label>point</Point.label>
+	<!-- EN: shaft -->
+	<Shaft.label>shaft</Shaft.label>
+	<!-- EN: barrel -->
+	<Barrel.label>barrel</Barrel.label>
+	<!-- EN: muzzle -->
+	<Muzzle.label>muzzle</Muzzle.label>
+	<!-- EN: barrels -->
+	<Barrels.label>barrels</Barrels.label>
+	<!-- EN: grip -->
+	<Grip.label>grip</Grip.label>
+	<!-- EN: magazine -->
+	<Magazine.label>magazine</Magazine.label>
+	<!-- EN: stock -->
+	<Stock.label>stock</Stock.label>
+	<!-- EN: front left leg -->
+	<FrontLeftLeg_2.label>front left leg</FrontLeftLeg_2.label>
+	<!-- EN: front right leg -->
+	<FrontRightLeg_2.label>front right leg</FrontRightLeg_2.label>
+	<!-- EN: tusks -->
+	<TuskAttackTool_2.label>tusks</TuskAttackTool_2.label>
+	<!-- EN: horn -->
+	<HornAttackTool_2.label>horn</HornAttackTool_2.label>
+</LanguageData>

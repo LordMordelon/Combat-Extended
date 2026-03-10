@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Kaiser Armory\Defs\Kaiser Armory\KaiserArmory_GrenadeRecipe.xml -->
+	<!-- EN: make M1915 grenades x10 -->
+	<MakeM1915Grenade.label>make M1915 grenades x10</MakeM1915Grenade.label>
+	<!-- EN: Craft 10 M1915 grenades. -->
+	<MakeM1915Grenade.description>Craft 10 M1915 grenades.</MakeM1915Grenade.description>
+	<!-- EN: Making M1915 grenades. -->
+	<MakeM1915Grenade.jobString>Making M1915 grenades.</MakeM1915Grenade.jobString>
+</LanguageData>

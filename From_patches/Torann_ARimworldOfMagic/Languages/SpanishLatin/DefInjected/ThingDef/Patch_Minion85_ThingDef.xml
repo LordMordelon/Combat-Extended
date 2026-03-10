@@ -1,0 +1,12 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Torann_ARimworldOfMagic\Patch_Minion85.xml -->
+	<!-- EN: horns -->
+	<TM_MinionR.tools.0.label>horns</TM_MinionR.tools.0.label>
+	<!-- EN: bite -->
+	<TM_MinionR.tools.1.label>bite</TM_MinionR.tools.1.label>
+	
+	<!-- EN: horns -->
+	<TM_GreaterMinionR.tools.0.label>horns</TM_GreaterMinionR.tools.0.label>
+	<!-- EN: bite -->
+	<TM_GreaterMinionR.tools.1.label>bite</TM_GreaterMinionR.tools.1.label>
+</LanguageData>

@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\KavaCaligula_VFClassicMechs\Mech_MachineGun1925.xml -->
+	<!-- EN: Single -->
+	<HighMacs_MachineGun.fireModes.0.label>Single</HighMacs_MachineGun.fireModes.0.label>
+	<!-- EN: Burst -->
+	<HighMacs_MachineGun.fireModes.1.label>Burst</HighMacs_MachineGun.fireModes.1.label>
+	<!-- EN: Auto -->
+	<HighMacs_MachineGun.fireModes.2.label>Auto</HighMacs_MachineGun.fireModes.2.label>
+</LanguageData>

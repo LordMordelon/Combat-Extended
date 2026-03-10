@@ -1,0 +1,110 @@
+<LanguageData>
+	<!-- Defs\Ammo\AmmoCategoryDefs\AmmoCategories_Neolithic.xml -->
+	<!-- EN: javelin -->
+	<Javelin.label>javelin</Javelin.label>
+	<!-- EN: A heavy steel tip attached to a long wooden pole, packing a very strong punch against scarcely armored targets. -->
+	<Javelin.description>A heavy steel tip attached to a long wooden pole, packing a very strong punch against scarcely armored targets.</Javelin.description>
+	
+	<!-- EN: kunai -->
+	<Kunai.label>kunai</Kunai.label>
+	<!-- EN: Originally a Japanese farming instrument, similar in use to a hand-shovel, the kunai is a multi-purpose tool useful in both ranged and melee combat. -->
+	<Kunai.description>Originally a Japanese farming instrument, similar in use to a hand-shovel, the kunai is a multi-purpose tool useful in both ranged and melee combat.</Kunai.description>
+	
+	<!-- EN: stone arrow -->
+	<StoneArrow.label>stone arrow</StoneArrow.label>
+	<!-- EN: stone -->
+	<StoneArrow.labelShort>stone</StoneArrow.labelShort>
+	<!-- EN: A sharpened stone is attached as an arrow head. Cuts exposed tissue fairly well but is ineffective against any kind of armor. -->
+	<StoneArrow.description>A sharpened stone is attached as an arrow head. Cuts exposed tissue fairly well but is ineffective against any kind of armor.</StoneArrow.description>
+	
+	<!-- EN: steel arrow -->
+	<SteelArrow.label>steel arrow</SteelArrow.label>
+	<!-- EN: steel -->
+	<SteelArrow.labelShort>steel</SteelArrow.labelShort>
+	<!-- EN: The arrow head is made from steel to enhance armor penetration. -->
+	<SteelArrow.description>The arrow head is made from steel to enhance armor penetration.</SteelArrow.description>
+	
+	<!-- EN: plasteel arrow -->
+	<PlasteelArrow.label>plasteel arrow</PlasteelArrow.label>
+	<!-- EN: plasteel -->
+	<PlasteelArrow.labelShort>plasteel</PlasteelArrow.labelShort>
+	<!-- EN: Fitted with a plasteel head to maximize armor penetration. -->
+	<PlasteelArrow.description>Fitted with a plasteel head to maximize armor penetration.</PlasteelArrow.description>
+	
+	<!-- EN: stone sling bullet -->
+	<StoneSlingBullet.label>stone sling bullet</StoneSlingBullet.label>
+	<!-- EN: stone -->
+	<StoneSlingBullet.labelShort>stone</StoneSlingBullet.labelShort>
+	<!-- EN: A streamlined stone designed to fly far and hit hard. Not particularly effective against armor. -->
+	<StoneSlingBullet.description>A streamlined stone designed to fly far and hit hard. Not particularly effective against armor.</StoneSlingBullet.description>
+	
+	<!-- EN: steel sling bullet -->
+	<SteelSlingBullet.label>steel sling bullet</SteelSlingBullet.label>
+	<!-- EN: steel -->
+	<SteelSlingBullet.labelShort>steel</SteelSlingBullet.labelShort>
+	<!-- EN: A refined sling bullet made out of steel to enhance armor penetration. -->
+	<SteelSlingBullet.description>A refined sling bullet made out of steel to enhance armor penetration.</SteelSlingBullet.description>
+	
+	<!-- EN: plasteel sling bullet -->
+	<PlasteelSlingBullet.label>plasteel sling bullet</PlasteelSlingBullet.label>
+	<!-- EN: plasteel -->
+	<PlasteelSlingBullet.labelShort>plasteel</PlasteelSlingBullet.labelShort>
+	<!-- EN: A highly-refined sling bullet made out of plasteel to maximize penetration. -->
+	<PlasteelSlingBullet.description>A highly-refined sling bullet made out of plasteel to maximize penetration.</PlasteelSlingBullet.description>
+	
+	<!-- EN: stone crossbow bolt -->
+	<StoneCrossbowBolt.label>stone crossbow bolt</StoneCrossbowBolt.label>
+	<!-- EN: stone -->
+	<StoneCrossbowBolt.labelShort>stone</StoneCrossbowBolt.labelShort>
+	<!-- EN: A sharpened stone is attached to a wooden shaft. Cuts exposed tissue fairly well but isn't very effective against armor. -->
+	<StoneCrossbowBolt.description>A sharpened stone is attached to a wooden shaft. Cuts exposed tissue fairly well but isn't very effective against armor.</StoneCrossbowBolt.description>
+	
+	<!-- EN: steel crossbow bolt -->
+	<SteelCrossbowBolt.label>steel crossbow bolt</SteelCrossbowBolt.label>
+	<!-- EN: steel -->
+	<SteelCrossbowBolt.labelShort>steel</SteelCrossbowBolt.labelShort>
+	<!-- EN: The head of the crossbow bolt is made from steel to enhance armor penetration. -->
+	<SteelCrossbowBolt.description>The head of the crossbow bolt is made from steel to enhance armor penetration.</SteelCrossbowBolt.description>
+	
+	<!-- EN: plasteel crossbow bolt -->
+	<PlasteelCrossbowBolt.label>plasteel crossbow bolt</PlasteelCrossbowBolt.label>
+	<!-- EN: plasteel -->
+	<PlasteelCrossbowBolt.labelShort>plasteel</PlasteelCrossbowBolt.labelShort>
+	<!-- EN: The head of the crossbow bolt is made from plasteel to maximize armor penetration. -->
+	<PlasteelCrossbowBolt.description>The head of the crossbow bolt is made from plasteel to maximize armor penetration.</PlasteelCrossbowBolt.description>
+	
+	<!-- EN: venom arrow -->
+	<VenomArrow.label>venom arrow</VenomArrow.label>
+	<!-- EN: venom -->
+	<VenomArrow.labelShort>venom</VenomArrow.labelShort>
+	<!-- EN: The arrow head is made from steel and coated in toxin. -->
+	<VenomArrow.description>The arrow head is made from steel and coated in toxin.</VenomArrow.description>
+	
+	<!-- EN: flame arrow -->
+	<FlameArrow.label>flame arrow</FlameArrow.label>
+	<!-- EN: flame -->
+	<FlameArrow.labelShort>flame</FlameArrow.labelShort>
+	<!-- EN: Steel open cage arrowhead containing incendiary components for setting targets alight. -->
+	<FlameArrow.description>Steel open cage arrowhead containing incendiary components for setting targets alight.</FlameArrow.description>
+	
+	<!-- EN: venom crossbow bolt -->
+	<VenomCrossbowBolt.label>venom crossbow bolt</VenomCrossbowBolt.label>
+	<!-- EN: venom -->
+	<VenomCrossbowBolt.labelShort>venom</VenomCrossbowBolt.labelShort>
+	<!-- EN: The head of the crossbow bolt is made from steel and coated in toxin. -->
+	<VenomCrossbowBolt.description>The head of the crossbow bolt is made from steel and coated in toxin.</VenomCrossbowBolt.description>
+	
+	<!-- EN: flame crossbow bolt -->
+	<FlameCrossbowBolt.label>flame crossbow bolt</FlameCrossbowBolt.label>
+	<!-- EN: flame -->
+	<FlameCrossbowBolt.labelShort>flame</FlameCrossbowBolt.labelShort>
+	<!-- EN: Steel open cage crossbow bolt head containing incendiary components for setting targets alight. -->
+	<FlameCrossbowBolt.description>Steel open cage crossbow bolt head containing incendiary components for setting targets alight.</FlameCrossbowBolt.description>
+	
+	<!-- EN: nerve -->
+	<Nerve.label>nerve</Nerve.label>
+	<!-- EN: nerve -->
+	<Nerve.labelShort>nerve</Nerve.labelShort>
+	<!-- EN: The projectile is coated with a potent bioferrite-based biotoxin that stuns organic targets and disrupts regeneration. -->
+	<Nerve.description>The projectile is coated with a potent bioferrite-based biotoxin that stuns organic targets and disrupts regeneration.</Nerve.description>
+</LanguageData>

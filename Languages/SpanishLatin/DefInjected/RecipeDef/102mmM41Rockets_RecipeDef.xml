@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- Defs\Ammo\Modded\Halo\102mmM41Rockets.xml -->
+	
+	<!-- EN: make M19 HEAT rockets x5 -->
+	<MakeAmmo_M41Rocket_HEAT.label>make M19 HEAT rockets x5</MakeAmmo_M41Rocket_HEAT.label>
+	<!-- EN: Craft 5 M19 HEAT rockets. -->
+	<MakeAmmo_M41Rocket_HEAT.description>Craft 5 M19 HEAT rockets.</MakeAmmo_M41Rocket_HEAT.description>
+	<!-- EN: Making M19 HEAT rockets. -->
+	<MakeAmmo_M41Rocket_HEAT.jobString>Making M19 HEAT rockets.</MakeAmmo_M41Rocket_HEAT.jobString>
+	
+	<!-- EN: make M21 Anti-personnel rockets x5 -->
+	<MakeAmmo_M41Rocket_HE.label>make M21 Anti-personnel rockets x5</MakeAmmo_M41Rocket_HE.label>
+	<!-- EN: Craft 5 M21 Anti-personnel rockets. -->
+	<MakeAmmo_M41Rocket_HE.description>Craft 5 M21 Anti-personnel rockets.</MakeAmmo_M41Rocket_HE.description>
+	<!-- EN: Making M21 Anti-personnel rockets. -->
+	<MakeAmmo_M41Rocket_HE.jobString>Making M21 Anti-personnel rockets.</MakeAmmo_M41Rocket_HE.jobString>
+</LanguageData>

@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- Defs\Ammo\Advanced\LaserChargePack.xml -->
+	
+	<!-- EN: laser charge pack -->
+	<Ammo_LaserChargePack.label>laser charge pack</Ammo_LaserChargePack.label>
+	<!-- EN: A universal charge pack for various laser weapons. -->
+	<Ammo_LaserChargePack.description>A universal charge pack for various laser weapons.</Ammo_LaserChargePack.description>
+	
+	<!-- EN: mechanoid laser pack -->
+	<Ammo_LaserChargePack_Mech.label>mechanoid laser pack</Ammo_LaserChargePack_Mech.label>
+	<!-- EN: A mechanoid manufactured charge pack for laser weapons. -->
+	<Ammo_LaserChargePack_Mech.description>A mechanoid manufactured charge pack for laser weapons.</Ammo_LaserChargePack_Mech.description>
+</LanguageData>

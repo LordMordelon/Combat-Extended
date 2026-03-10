@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Big and Small Genes\Defs\Big and Small Genes\Weapons\ThingDef_Ammo.xml -->
+	<!-- EN: make giant javeln -->
+	<MakeAmmo_BS_JotunJavelin.label>make giant javeln</MakeAmmo_BS_JotunJavelin.label>
+	<!-- EN: Craft a giant javelin. -->
+	<MakeAmmo_BS_JotunJavelin.description>Craft a giant javelin.</MakeAmmo_BS_JotunJavelin.description>
+	<!-- EN: Making a giant javelin. -->
+	<MakeAmmo_BS_JotunJavelin.jobString>Making a giant javelin.</MakeAmmo_BS_JotunJavelin.jobString>
+</LanguageData>

@@ -1,0 +1,24 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\SirMashedPotato_MorrowRim_AshSwamp\SwampInsec1136.xml -->
+	<!-- EN: head -->
+	<MorrowRim_SwampStrider.tools.0.label>head</MorrowRim_SwampStrider.tools.0.label>
+	<!-- EN: left scythed arm -->
+	<MorrowRim_SwampStrider.tools.1.label>left scythed arm</MorrowRim_SwampStrider.tools.1.label>
+	<!-- EN: right scythed arm -->
+	<MorrowRim_SwampStrider.tools.2.label>right scythed arm</MorrowRim_SwampStrider.tools.2.label>
+	
+	<!-- EN: head -->
+	<MorrowRim_Thunderbug.tools.0.label>head</MorrowRim_Thunderbug.tools.0.label>
+	<!-- EN: mandibles -->
+	<MorrowRim_Thunderbug.tools.1.label>mandibles</MorrowRim_Thunderbug.tools.1.label>
+	
+	<!-- EN: head -->
+	<MorrowRim_Hoarvor.tools.0.label>head</MorrowRim_Hoarvor.tools.0.label>
+	<!-- EN: mandibles -->
+	<MorrowRim_Hoarvor.tools.1.label>mandibles</MorrowRim_Hoarvor.tools.1.label>
+	
+	<!-- EN: head -->
+	<MorrowRim_Mudcrab.tools.0.label>head</MorrowRim_Mudcrab.tools.0.label>
+	<!-- EN: pincers -->
+	<MorrowRim_Mudcrab.tools.1.label>pincers</MorrowRim_Mudcrab.tools.1.label>
+</LanguageData>

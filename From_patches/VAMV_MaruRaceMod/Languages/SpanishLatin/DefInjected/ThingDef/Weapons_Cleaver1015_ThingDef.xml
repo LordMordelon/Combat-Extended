@@ -1,0 +1,23 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VAMV_MaruRaceMod\Weapons_Cleaver1015.xml -->
+	<!-- EN: edge -->
+	<MR_C_O.tools.0.label>edge</MR_C_O.tools.0.label>
+	<!-- EN: edge -->
+	<MR_C_AO.tools.0.label>edge</MR_C_AO.tools.0.label>
+	<!-- EN: edge -->
+	<MR_C_AT.tools.0.label>edge</MR_C_AT.tools.0.label>
+	<!-- EN: edge -->
+	<MR_C_ATT.tools.0.label>edge</MR_C_ATT.tools.0.label>
+	<!-- EN: edge -->
+	<MR_C_BO.tools.0.label>edge</MR_C_BO.tools.0.label>
+	<!-- EN: edge -->
+	<MR_C_BT.tools.0.label>edge</MR_C_BT.tools.0.label>
+	<!-- EN: edge -->
+	<MR_C_BTT.tools.0.label>edge</MR_C_BTT.tools.0.label>
+	<!-- EN: smoke shell -->
+	<MR_Bullet_Smoke.label>smoke shell</MR_Bullet_Smoke.label>
+	<!-- EN: edge -->
+	<MR_C_CO.tools.0.label>edge</MR_C_CO.tools.0.label>
+	<!-- EN: edge -->
+	<MR_C_CT.tools.0.label>edge</MR_C_CT.tools.0.label>
+</LanguageData>

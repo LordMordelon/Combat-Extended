@@ -1,0 +1,38 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\KIT_IndustrialWeapons\KitsIndustrial_Guns959.xml -->
+	<!-- EN: grip -->
+	<KIT_Gun_SemiAutomaticPistol.tools.0.label>grip</KIT_Gun_SemiAutomaticPistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<KIT_Gun_SemiAutomaticPistol.tools.1.label>muzzle</KIT_Gun_SemiAutomaticPistol.tools.1.label>
+	
+	<!-- EN: stock -->
+	<KIT_Gun_PrecisionLMG.tools.0.label>stock</KIT_Gun_PrecisionLMG.tools.0.label>
+	<!-- EN: barrel -->
+	<KIT_Gun_PrecisionLMG.tools.1.label>barrel</KIT_Gun_PrecisionLMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<KIT_Gun_PrecisionLMG.tools.2.label>muzzle</KIT_Gun_PrecisionLMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<KIT_Gun_BoltSMG.tools.0.label>stock</KIT_Gun_BoltSMG.tools.0.label>
+	<!-- EN: barrel -->
+	<KIT_Gun_BoltSMG.tools.1.label>barrel</KIT_Gun_BoltSMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<KIT_Gun_BoltSMG.tools.2.label>muzzle</KIT_Gun_BoltSMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<KIT_Gun_AntiqueSniperRifle.tools.0.label>stock</KIT_Gun_AntiqueSniperRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<KIT_Gun_AntiqueSniperRifle.tools.1.label>barrel</KIT_Gun_AntiqueSniperRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<KIT_Gun_AntiqueSniperRifle.tools.2.label>muzzle</KIT_Gun_AntiqueSniperRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<KIT_Gun_BayonetRifle.tools.0.label>stock</KIT_Gun_BayonetRifle.tools.0.label>
+	<!-- EN: bayonet -->
+	<KIT_Gun_BayonetRifle.tools.1.label>bayonet</KIT_Gun_BayonetRifle.tools.1.label>
+	<!-- EN: bayonet -->
+	<KIT_Gun_BayonetRifle.tools.2.label>bayonet</KIT_Gun_BayonetRifle.tools.2.label>
+	
+	<!-- EN: barrel -->
+	<KIT_Bazooka.tools.0.label>barrel</KIT_Bazooka.tools.0.label>
+</LanguageData>

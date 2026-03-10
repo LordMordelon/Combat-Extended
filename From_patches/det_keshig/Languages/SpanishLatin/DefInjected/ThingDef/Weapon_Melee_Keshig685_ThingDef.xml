@@ -1,0 +1,14 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\det_keshig\Weapon_Melee_Keshig685.xml -->
+	<!-- EN: handle -->
+	<DV_MeleeWeapon_SerratedScimitar.tools.0.label>handle</DV_MeleeWeapon_SerratedScimitar.tools.0.label>
+	<!-- EN: point -->
+	<DV_MeleeWeapon_SerratedScimitar.tools.1.label>point</DV_MeleeWeapon_SerratedScimitar.tools.1.label>
+	<!-- EN: edge -->
+	<DV_MeleeWeapon_SerratedScimitar.tools.2.label>edge</DV_MeleeWeapon_SerratedScimitar.tools.2.label>
+	
+	<!-- EN: point -->
+	<DV_MeleeWeapon_CeremonialBlade.tools.0.label>point</DV_MeleeWeapon_CeremonialBlade.tools.0.label>
+	<!-- EN: edge -->
+	<DV_MeleeWeapon_CeremonialBlade.tools.1.label>edge</DV_MeleeWeapon_CeremonialBlade.tools.1.label>
+</LanguageData>

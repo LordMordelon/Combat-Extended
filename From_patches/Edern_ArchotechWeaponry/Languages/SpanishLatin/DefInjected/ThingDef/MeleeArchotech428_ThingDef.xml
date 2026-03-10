@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Edern_ArchotechWeaponry\MeleeArchotech428.xml -->
+	<!-- EN: handle -->
+	<AW_ArchotechSword.tools.0.label>handle</AW_ArchotechSword.tools.0.label>
+	<!-- EN: point -->
+	<AW_ArchotechSword.tools.1.label>point</AW_ArchotechSword.tools.1.label>
+	<!-- EN: blade -->
+	<AW_ArchotechSword.tools.2.label>blade</AW_ArchotechSword.tools.2.label>
+	
+	<!-- EN: handle -->
+	<AW_ArchotechHeavySword.tools.0.label>handle</AW_ArchotechHeavySword.tools.0.label>
+	<!-- EN: point -->
+	<AW_ArchotechHeavySword.tools.1.label>point</AW_ArchotechHeavySword.tools.1.label>
+	<!-- EN: blade -->
+	<AW_ArchotechHeavySword.tools.2.label>blade</AW_ArchotechHeavySword.tools.2.label>
+</LanguageData>

@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Defs\Ammo\Rocket\M6.xml -->
+	<!-- EN: M6 Rocket (HEAT) -->
+	<Ammo_M6_HEAT.label>M6 Rocket (HEAT)</Ammo_M6_HEAT.label>
+	<!-- EN: Outdated 60mm rocket-propelled grenade designed for the M1 Bazooka. -->
+	<Ammo_M6_HEAT.description>Outdated 60mm rocket-propelled grenade designed for the M1 Bazooka.</Ammo_M6_HEAT.description>
+	<!-- EN: M6 rocket (HEAT) -->
+	<Bullet_M6_HEAT.label>M6 rocket (HEAT)</Bullet_M6_HEAT.label>
+</LanguageData>

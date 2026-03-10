@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Recipe\44Magnum-Punched.xml -->
+	
+	<!-- EN: .44 Magnum cartridge (FMJ) (Punched) -->
+	<Ammo_44Magnum_FMJ_Punched.label>.44 Magnum cartridge (FMJ) (Punched)</Ammo_44Magnum_FMJ_Punched.label>
+	<!-- EN: Ancient pistol cartridge originally designed for revolvers. -->
+	<Ammo_44Magnum_FMJ_Punched.description>Ancient pistol cartridge originally designed for revolvers.</Ammo_44Magnum_FMJ_Punched.description>
+	
+	<!-- EN: .44 Magnum cartridge (AP) (Punched) -->
+	<Ammo_44Magnum_AP_Punched.label>.44 Magnum cartridge (AP) (Punched)</Ammo_44Magnum_AP_Punched.label>
+	<!-- EN: Ancient pistol cartridge originally designed for revolvers. -->
+	<Ammo_44Magnum_AP_Punched.description>Ancient pistol cartridge originally designed for revolvers.</Ammo_44Magnum_AP_Punched.description>
+	
+	<!-- EN: .44 Magnum cartridge (HP) (Punched) -->
+	<Ammo_44Magnum_HP_Punched.label>.44 Magnum cartridge (HP) (Punched)</Ammo_44Magnum_HP_Punched.label>
+	<!-- EN: Ancient pistol cartridge originally designed for revolvers. -->
+	<Ammo_44Magnum_HP_Punched.description>Ancient pistol cartridge originally designed for revolvers.</Ammo_44Magnum_HP_Punched.description>
+	
+	<!-- EN: .44 Magnum bullet (FMJ) (Punched) -->
+	<Bullet_44Magnum_FMJ_Punched.label>.44 Magnum bullet (FMJ) (Punched)</Bullet_44Magnum_FMJ_Punched.label>
+	
+	<!-- EN: .44 Magnum bullet (AP) (Punched) -->
+	<Bullet_44Magnum_AP_Punched.label>.44 Magnum bullet (AP) (Punched)</Bullet_44Magnum_AP_Punched.label>
+	
+	<!-- EN: .44 Magnum bullet (HP) (Punched) -->
+	<Bullet_44Magnum_HP_Punched.label>.44 Magnum bullet (HP) (Punched)</Bullet_44Magnum_HP_Punched.label>
+</LanguageData>

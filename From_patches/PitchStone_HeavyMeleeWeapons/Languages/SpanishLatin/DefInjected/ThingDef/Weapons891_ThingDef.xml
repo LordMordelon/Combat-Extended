@@ -1,0 +1,59 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\PitchStone_HeavyMeleeWeapons\Weapons891.xml -->
+	<!-- EN: handle -->
+	<HMW_MeleeWeapon_PsychicWarhammer.tools.0.label>handle</HMW_MeleeWeapon_PsychicWarhammer.tools.0.label>
+	<!-- EN: head -->
+	<HMW_MeleeWeapon_PsychicWarhammer.tools.1.label>head</HMW_MeleeWeapon_PsychicWarhammer.tools.1.label>
+	
+	<!-- EN: handle -->
+	<HMW_MeleeWeapon_PersonaPsychicWarhammer.tools.0.label>handle</HMW_MeleeWeapon_PersonaPsychicWarhammer.tools.0.label>
+	<!-- EN: head -->
+	<HMW_MeleeWeapon_PersonaPsychicWarhammer.tools.1.label>head</HMW_MeleeWeapon_PersonaPsychicWarhammer.tools.1.label>
+	
+	<!-- EN: handle -->
+	<HMW_MeleeWeapon_HeavyMonoSword.tools.0.label>handle</HMW_MeleeWeapon_HeavyMonoSword.tools.0.label>
+	<!-- EN: point -->
+	<HMW_MeleeWeapon_HeavyMonoSword.tools.1.label>point</HMW_MeleeWeapon_HeavyMonoSword.tools.1.label>
+	<!-- EN: edge -->
+	<HMW_MeleeWeapon_HeavyMonoSword.tools.2.label>edge</HMW_MeleeWeapon_HeavyMonoSword.tools.2.label>
+	
+	<!-- EN: handle -->
+	<HMW_MeleeWeapon_PersonaHeavyMonoSword.tools.0.label>handle</HMW_MeleeWeapon_PersonaHeavyMonoSword.tools.0.label>
+	<!-- EN: point -->
+	<HMW_MeleeWeapon_PersonaHeavyMonoSword.tools.1.label>point</HMW_MeleeWeapon_PersonaHeavyMonoSword.tools.1.label>
+	<!-- EN: edge -->
+	<HMW_MeleeWeapon_PersonaHeavyMonoSword.tools.2.label>edge</HMW_MeleeWeapon_PersonaHeavyMonoSword.tools.2.label>
+	
+	<!-- EN: Point -->
+	<HMW_MeleeWeapon_ZeusSword.tools.0.label>Point</HMW_MeleeWeapon_ZeusSword.tools.0.label>
+	<!-- EN: blade -->
+	<HMW_MeleeWeapon_ZeusSword.tools.1.label>blade</HMW_MeleeWeapon_ZeusSword.tools.1.label>
+	<!-- EN: handle -->
+	<HMW_MeleeWeapon_ZeusSword.tools.2.label>handle</HMW_MeleeWeapon_ZeusSword.tools.2.label>
+	
+	<!-- EN: Point -->
+	<HMW_MeleeWeapon_PersonaZeusSword.tools.0.label>Point</HMW_MeleeWeapon_PersonaZeusSword.tools.0.label>
+	<!-- EN: blade -->
+	<HMW_MeleeWeapon_PersonaZeusSword.tools.1.label>blade</HMW_MeleeWeapon_PersonaZeusSword.tools.1.label>
+	<!-- EN: handle -->
+	<HMW_MeleeWeapon_PersonaZeusSword.tools.2.label>handle</HMW_MeleeWeapon_PersonaZeusSword.tools.2.label>
+	
+	<!-- EN: Point -->
+	<HMW_MeleeWeapon_FlameLance.tools.0.label>Point</HMW_MeleeWeapon_FlameLance.tools.0.label>
+	<!-- EN: blade -->
+	<HMW_MeleeWeapon_FlameLance.tools.1.label>blade</HMW_MeleeWeapon_FlameLance.tools.1.label>
+	<!-- EN: handle -->
+	<HMW_MeleeWeapon_FlameLance.tools.2.label>handle</HMW_MeleeWeapon_FlameLance.tools.2.label>
+	
+	<!-- EN: Point -->
+	<HMW_MeleeWeapon_PersonaFlameLance.tools.0.label>Point</HMW_MeleeWeapon_PersonaFlameLance.tools.0.label>
+	<!-- EN: blade -->
+	<HMW_MeleeWeapon_PersonaFlameLance.tools.1.label>blade</HMW_MeleeWeapon_PersonaFlameLance.tools.1.label>
+	<!-- EN: handle -->
+	<HMW_MeleeWeapon_PersonaFlameLance.tools.2.label>handle</HMW_MeleeWeapon_PersonaFlameLance.tools.2.label>
+	
+	<!-- EN: handle -->
+	<HMW_MeleeWeapon_HeavyZeushammer.tools.0.label>handle</HMW_MeleeWeapon_HeavyZeushammer.tools.0.label>
+	<!-- EN: head -->
+	<HMW_MeleeWeapon_HeavyZeushammer.tools.1.label>head</HMW_MeleeWeapon_HeavyZeushammer.tools.1.label>
+</LanguageData>

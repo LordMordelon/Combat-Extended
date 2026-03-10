@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\SirMashedPotato_MorrowRim_AshSwamp\MorrowRim_Lizard1135.xml -->
+	<!-- EN: left hand claws -->
+	<MorrowRim_ArgoBehemoth.tools.0.label>left hand claws</MorrowRim_ArgoBehemoth.tools.0.label>
+	<!-- EN: right hand claws -->
+	<MorrowRim_ArgoBehemoth.tools.1.label>right hand claws</MorrowRim_ArgoBehemoth.tools.1.label>
+	<!-- EN: head -->
+	<MorrowRim_ArgoBehemoth.tools.3.label>head</MorrowRim_ArgoBehemoth.tools.3.label>
+	
+	<!-- EN: left hand claws -->
+	<MorrowRim_Wamasu.tools.0.label>left hand claws</MorrowRim_Wamasu.tools.0.label>
+	<!-- EN: right hand claws -->
+	<MorrowRim_Wamasu.tools.1.label>right hand claws</MorrowRim_Wamasu.tools.1.label>
+	<!-- EN: head -->
+	<MorrowRim_Wamasu.tools.3.label>head</MorrowRim_Wamasu.tools.3.label>
+</LanguageData>

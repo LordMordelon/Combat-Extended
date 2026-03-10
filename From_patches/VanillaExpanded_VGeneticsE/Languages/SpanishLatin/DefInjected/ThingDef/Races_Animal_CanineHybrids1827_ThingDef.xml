@@ -1,0 +1,45 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VGeneticsE\Races_Animal_CanineHybrids1827.xml -->
+	<!-- EN: left claw -->
+	<GR_Wolfbear.tools.0.label>left claw</GR_Wolfbear.tools.0.label>
+	<!-- EN: right claw -->
+	<GR_Wolfbear.tools.1.label>right claw</GR_Wolfbear.tools.1.label>
+	
+	<!-- EN: left claw -->
+	<GR_Wolfalope.tools.0.label>left claw</GR_Wolfalope.tools.0.label>
+	<!-- EN: right claw -->
+	<GR_Wolfalope.tools.1.label>right claw</GR_Wolfalope.tools.1.label>
+	<!-- EN: head -->
+	<GR_Wolfalope.tools.3.label>head</GR_Wolfalope.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<GR_Wolfchicken.tools.0.label>left claw</GR_Wolfchicken.tools.0.label>
+	<!-- EN: right claw -->
+	<GR_Wolfchicken.tools.1.label>right claw</GR_Wolfchicken.tools.1.label>
+	<!-- EN: head -->
+	<GR_Wolfchicken.tools.3.label>head</GR_Wolfchicken.tools.3.label>
+	
+	<!-- EN: head -->
+	<GR_Wolffalo.tools.1.label>head</GR_Wolffalo.tools.1.label>
+	
+	<!-- EN: left claw -->
+	<GR_Wolfbeaver.tools.0.label>left claw</GR_Wolfbeaver.tools.0.label>
+	<!-- EN: right claw -->
+	<GR_Wolfbeaver.tools.1.label>right claw</GR_Wolfbeaver.tools.1.label>
+	<!-- EN: head -->
+	<GR_Wolfbeaver.tools.3.label>head</GR_Wolfbeaver.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<GR_Wolfcat.tools.0.label>left claw</GR_Wolfcat.tools.0.label>
+	<!-- EN: right claw -->
+	<GR_Wolfcat.tools.1.label>right claw</GR_Wolfcat.tools.1.label>
+	<!-- EN: head -->
+	<GR_Wolfcat.tools.3.label>head</GR_Wolfcat.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<GR_Dogman.tools.0.label>left claw</GR_Dogman.tools.0.label>
+	<!-- EN: right claw -->
+	<GR_Dogman.tools.1.label>right claw</GR_Dogman.tools.1.label>
+	<!-- EN: head -->
+	<GR_Dogman.tools.3.label>head</GR_Dogman.tools.3.label>
+</LanguageData>

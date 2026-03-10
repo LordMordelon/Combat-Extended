@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Profaned\Defs\Profaned\PossessedWeapons_Ammo.xml -->
+	<!-- EN: rot stink arrow -->
+	<Profaned_RotStinkArrow.label>rot stink arrow</Profaned_RotStinkArrow.label>
+	<!-- EN: rot stink -->
+	<Profaned_RotStinkArrow.labelShort>rot stink</Profaned_RotStinkArrow.labelShort>
+	<!-- EN: The arrow head is made from steel to enhance armor penetration. Attached is rotting meat to inflict dangerous infection. -->
+	<Profaned_RotStinkArrow.description>The arrow head is made from steel to enhance armor penetration. Attached is rotting meat to inflict dangerous infection.</Profaned_RotStinkArrow.description>
+</LanguageData>

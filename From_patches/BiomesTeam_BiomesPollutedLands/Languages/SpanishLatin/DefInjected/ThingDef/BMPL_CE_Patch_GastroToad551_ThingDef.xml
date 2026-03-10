@@ -1,0 +1,12 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\BiomesTeam_BiomesPollutedLands\BMPL_CE_Patch_GastroToad551.xml -->
+	<!-- EN: head -->
+	<BMT_Polluwog.tools.1.label>head</BMT_Polluwog.tools.1.label>
+	
+	<!-- EN: left claw -->
+	<BMT_GastroToad.tools.0.label>left claw</BMT_GastroToad.tools.0.label>
+	<!-- EN: right claw -->
+	<BMT_GastroToad.tools.1.label>right claw</BMT_GastroToad.tools.1.label>
+	<!-- EN: head -->
+	<BMT_GastroToad.tools.3.label>head</BMT_GastroToad.tools.3.label>
+</LanguageData>

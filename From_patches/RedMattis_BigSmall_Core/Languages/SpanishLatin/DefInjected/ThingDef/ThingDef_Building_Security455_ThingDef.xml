@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\RedMattis_BigSmall_Core\ThingDef_Building_Security455.xml -->
+	<!-- EN: A portable automatic turret with shrink ray attached. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+	<BMAD_ShrinkTurret.description>A portable automatic turret with shrink ray attached. Its dumb AI brain can't be directly controlled, so beware of friendly fire.</BMAD_ShrinkTurret.description>
+	<!-- EN: A portable automatic turret with growth ray attached. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+	<BMAD_GrowthTurret.description>A portable automatic turret with growth ray attached. Its dumb AI brain can't be directly controlled, so beware of friendly fire.</BMAD_GrowthTurret.description>
+	<!-- EN: ㅤ -->
+	<BMAD_Gun_GrowthTurret.verbs.0.label>ㅤ</BMAD_Gun_GrowthTurret.verbs.0.label>
+</LanguageData>

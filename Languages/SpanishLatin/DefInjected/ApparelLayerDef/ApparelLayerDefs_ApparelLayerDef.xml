@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- Defs\ApparelLayerDefs\ApparelLayerDefs.xml -->
+	<!-- EN: webbing -->
+	<Webbing.label>webbing</Webbing.label>
+	<!-- EN: backpack -->
+	<Backpack.label>backpack</Backpack.label>
+	<!-- EN: shield -->
+	<Shield.label>shield</Shield.label>
+	<!-- EN: skin (head) -->
+	<OnHead.label>skin (head)</OnHead.label>
+	<!-- EN: strapped (head) -->
+	<StrappedHead.label>strapped (head)</StrappedHead.label>
+</LanguageData>

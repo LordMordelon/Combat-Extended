@@ -1,0 +1,43 @@
+<LanguageData>
+	<!-- ModPatches\Rim-Effect Core\Defs\Rim-Effect Core\ME_Projectile_Damage_Ammoclass.xml -->
+	<!-- EN: Acccelerator slug -->
+	<ME_FMJ.label>Acccelerator slug</ME_FMJ.label>
+	<!-- EN: Accelerator slug -->
+	<ME_FMJ.labelShort>Accelerator slug</ME_FMJ.labelShort>
+	<!-- EN: Minature pellets generated from a weapon's internal ammunition block, which are first reduced to near weightlessness by a mass effect field and then propelled to lethal speed by magnetic forces. -->
+	<ME_FMJ.description>Minature pellets generated from a weapon's internal ammunition block, which are first reduced to near weightlessness by a mass effect field and then propelled to lethal speed by magnetic forces.</ME_FMJ.description>
+	<!-- EN: Armor-Piercing acccelerator slug -->
+	<ME_AP.label>Armor-Piercing acccelerator slug</ME_AP.label>
+	<!-- EN: AP -->
+	<ME_AP.labelShort>AP</ME_AP.labelShort>
+	<!-- EN: Features a hardened tungsten carbide penetrator core for increased armor penetration. Causes less internal tissue damage. -->
+	<ME_AP.description>Features a hardened tungsten carbide penetrator core for increased armor penetration. Causes less internal tissue damage.</ME_AP.description>
+	<!-- EN: Cryo acccelerator slug -->
+	<ME_Cryo.label>Cryo acccelerator slug</ME_Cryo.label>
+	<!-- EN: Cryo -->
+	<ME_Cryo.labelShort>Cryo</ME_Cryo.labelShort>
+	<!-- EN: Filled with cryogenic agents that freezes your enemies in place upon impact. -->
+	<ME_Cryo.description>Filled with cryogenic agents that freezes your enemies in place upon impact.</ME_Cryo.description>
+	<!-- EN: High Explosive acccelerator slug -->
+	<ME_HE.label>High Explosive acccelerator slug</ME_HE.label>
+	<!-- EN: HE -->
+	<ME_HE.labelShort>HE</ME_HE.labelShort>
+	<!-- EN: Filled with high explosive agent that detonate upon impact. -->
+	<ME_HE.description>Filled with high explosive agent that detonate upon impact.</ME_HE.description>
+	<!-- EN: Incendiary -->
+	<ME_FI.label>Incendiary</ME_FI.label>
+	<!-- EN: Filled with incendiary agent that ignites after impact. -->
+	<ME_FI.description>Filled with incendiary agent that ignites after impact.</ME_FI.description>
+	<!-- EN: Disruptor -->
+	<ME_Ion.label>Disruptor</ME_Ion.label>
+	<!-- EN: Disruptor -->
+	<ME_Ion.labelShort>Disruptor</ME_Ion.labelShort>
+	<!-- EN: Designed to combat mechanoids and shielding, the round creates an electrical current on impact, disrupting electronic systems temporarily. -->
+	<ME_Ion.description>Designed to combat mechanoids and shielding, the round creates an electrical current on impact, disrupting electronic systems temporarily.</ME_Ion.description>
+	<!-- EN: Toxin -->
+	<ME_Toxic.label>Toxin</ME_Toxic.label>
+	<!-- EN: Toxin -->
+	<ME_Toxic.labelShort>Toxin</ME_Toxic.labelShort>
+	<!-- EN: Designed to combat organic targets, injects the target with a painful neuratoxin upon penetration. Inflicts extreme nausea and neuro paralysis to the victim. -->
+	<ME_Toxic.description>Designed to combat organic targets, injects the target with a painful neuratoxin upon penetration. Inflicts extreme nausea and neuro paralysis to the victim.</ME_Toxic.description>
+</LanguageData>

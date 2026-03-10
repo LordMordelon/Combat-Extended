@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla Factions Expanded - Empire\Defs\Vanilla Factions Expanded - Empire\Ammo\ChargeThumperRound.xml -->
+	<!-- EN: make 40x68mm charge cell (Demolition) x50 -->
+	<MakeAmmo_40x68mmDemo_Thump.label>make 40x68mm charge cell (Demolition) x50</MakeAmmo_40x68mmDemo_Thump.label>
+	<!-- EN: Craft 50 40x68mm demolition charge cells. -->
+	<MakeAmmo_40x68mmDemo_Thump.description>Craft 50 40x68mm demolition charge cells.</MakeAmmo_40x68mmDemo_Thump.description>
+	<!-- EN: Making demolition charge cell. -->
+	<MakeAmmo_40x68mmDemo_Thump.jobString>Making demolition charge cell.</MakeAmmo_40x68mmDemo_Thump.jobString>
+</LanguageData>

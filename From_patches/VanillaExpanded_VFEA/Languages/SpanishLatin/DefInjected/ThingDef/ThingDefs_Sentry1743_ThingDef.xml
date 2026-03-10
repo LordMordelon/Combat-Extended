@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VFEA\ThingDefs_Sentry1743.xml -->
+	<!-- EN: HoldCloseInProjectilesFire -->
+	<VFEA_Gun_AncientPointDefenseTurret.verbs.0.holdFireLabel>HoldCloseInProjectilesFire</VFEA_Gun_AncientPointDefenseTurret.verbs.0.holdFireLabel>
+	<!-- EN: ㅤ -->
+	<VFEA_Gun_AncientPointDefenseTurret.verbs.0.label>ㅤ</VFEA_Gun_AncientPointDefenseTurret.verbs.0.label>
+	<!-- EN: HoldCloseInSkyfallersFire -->
+	<VFEA_Gun_AncientPointDefenseTurret.verbs.1.holdFireLabel>HoldCloseInSkyfallersFire</VFEA_Gun_AncientPointDefenseTurret.verbs.1.holdFireLabel>
+	<!-- EN: ㅤ -->
+	<VFEA_Gun_AncientPointDefenseTurret.verbs.1.label>ㅤ</VFEA_Gun_AncientPointDefenseTurret.verbs.1.label>
+</LanguageData>

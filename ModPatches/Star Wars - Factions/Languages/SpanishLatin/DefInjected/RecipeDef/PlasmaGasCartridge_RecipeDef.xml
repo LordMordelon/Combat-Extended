@@ -1,0 +1,21 @@
+<LanguageData>
+	<!-- ModPatches\Star Wars - Factions\Defs\Star Wars - Factions\PlasmaGasCartridge.xml -->
+	<!-- EN: make Plasma Gas Cartridges x100 -->
+	<MakeAmmo_SWPlasmaGasCartridge.label>make Plasma Gas Cartridges x100</MakeAmmo_SWPlasmaGasCartridge.label>
+	<!-- EN: Craft 100 Plasma Gas Cartridges . -->
+	<MakeAmmo_SWPlasmaGasCartridge.description>Craft 100 Plasma Gas Cartridges .</MakeAmmo_SWPlasmaGasCartridge.description>
+	<!-- EN: Making Plasma Gas Cartridges . -->
+	<MakeAmmo_SWPlasmaGasCartridge.jobString>Making Plasma Gas Cartridges .</MakeAmmo_SWPlasmaGasCartridge.jobString>
+	<!-- EN: make Plasma Gas Cartridges (Conc.) x100 -->
+	<MakeAmmo_SWPlasmaGasCartridge_AP.label>make Plasma Gas Cartridges (Conc.) x100</MakeAmmo_SWPlasmaGasCartridge_AP.label>
+	<!-- EN: Craft 100 Plasma Gas Cartridges (Conc.) . -->
+	<MakeAmmo_SWPlasmaGasCartridge_AP.description>Craft 100 Plasma Gas Cartridges (Conc.) .</MakeAmmo_SWPlasmaGasCartridge_AP.description>
+	<!-- EN: Making Plasma Gas Cartridges (Conc.) . -->
+	<MakeAmmo_SWPlasmaGasCartridge_AP.jobString>Making Plasma Gas Cartridges (Conc.) .</MakeAmmo_SWPlasmaGasCartridge_AP.jobString>
+	<!-- EN: make Plasma Gas Cartridges (Ion) x100 -->
+	<MakeAmmo_SWPlasmaGasCartridge_Ion.label>make Plasma Gas Cartridges (Ion) x100</MakeAmmo_SWPlasmaGasCartridge_Ion.label>
+	<!-- EN: Craft 100 SWPlasmaGas Cartridges (Ion) . -->
+	<MakeAmmo_SWPlasmaGasCartridge_Ion.description>Craft 100 SWPlasmaGas Cartridges (Ion) .</MakeAmmo_SWPlasmaGasCartridge_Ion.description>
+	<!-- EN: Making Plasma Gas Cartridges (Ion) . -->
+	<MakeAmmo_SWPlasmaGasCartridge_Ion.jobString>Making Plasma Gas Cartridges (Ion) .</MakeAmmo_SWPlasmaGasCartridge_Ion.jobString>
+</LanguageData>

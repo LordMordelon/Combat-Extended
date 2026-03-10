@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\Rim-Effect Asari and Reapers\Defs\Rim-Effect Asari and Reapers\Ammo_Projectile_Asari.xml -->
+	<!-- EN: Micromunition -->
+	<Micromunition.label>Micromunition</Micromunition.label>
+	<!-- EN: {0} has been shot to death. -->
+	<Micromunition.deathMessage>{0} has been shot to death.</Micromunition.deathMessage>
+	<!-- EN: Micromunition -->
+	<MicromunitionD.label>Micromunition</MicromunitionD.label>
+	<!-- EN: {0} has been shot to death. -->
+	<MicromunitionD.deathMessage>{0} has been shot to death.</MicromunitionD.deathMessage>
+</LanguageData>

@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Spino_Megafauna\Items_Resource_Megafauna_Items1087.xml -->
+	<!-- EN: A mammoth's tusk. Very durable and valuable. Too unwieldy to be used as a weapon. -->
+	<MammothTusk.description>A mammoth's tusk. Very durable and valuable. Too unwieldy to be used as a weapon.</MammothTusk.description>
+	<!-- EN: An elasmotherium's horn. Too unwieldy to be used as a weapon. -->
+	<ElasmotheriumHorn.description>An elasmotherium's horn. Too unwieldy to be used as a weapon.</ElasmotheriumHorn.description>
+	<!-- EN: A dead smilodon's pair of canines.A fantastic trophy. -->
+	<SmilodonFangs.description>A dead smilodon's pair of canines.A fantastic trophy.</SmilodonFangs.description>
+	<!-- EN: A deinotherium's tusk. Very durable and valuable. Too unwieldy to be used as a weapon. -->
+	<DeinotheriumTusk.description>A deinotherium's tusk. Very durable and valuable. Too unwieldy to be used as a weapon.</DeinotheriumTusk.description>
+	<!-- EN: A platybelodon's tusk. Somewhat small, compared to those of other proboscidea. Very valuable. -->
+	<PlatybelodonTusk.description>A platybelodon's tusk. Somewhat small, compared to those of other proboscidea. Very valuable.</PlatybelodonTusk.description>
+</LanguageData>

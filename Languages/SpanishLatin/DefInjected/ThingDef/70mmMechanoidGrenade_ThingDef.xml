@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- Defs\Ammo\Advanced\70mmMechanoidGrenade.xml -->
+	
+	<!-- EN: 70mm mechanoid grenade (HE) -->
+	<Ammo_70mmMechanoidGrenade_HE.label>70mm mechanoid grenade (HE)</Ammo_70mmMechanoidGrenade_HE.label>
+	<!-- EN: Low velocity, large bore grenade fired from mechanoid grenade launchers. -->
+	<Ammo_70mmMechanoidGrenade_HE.description>Low velocity, large bore grenade fired from mechanoid grenade launchers.</Ammo_70mmMechanoidGrenade_HE.description>
+	
+	<!-- EN: 70mm mechanoid grenade (EMP) -->
+	<Ammo_70mmMechanoidGrenade_EMP.label>70mm mechanoid grenade (EMP)</Ammo_70mmMechanoidGrenade_EMP.label>
+	<!-- EN: Low velocity, large bore grenade fired from mechanoid grenade launchers. -->
+	<Ammo_70mmMechanoidGrenade_EMP.description>Low velocity, large bore grenade fired from mechanoid grenade launchers.</Ammo_70mmMechanoidGrenade_EMP.description>
+	
+	<!-- EN: 70mm mechanoid grenade (HE) -->
+	<Bullet_70mmMechanoidGrenade_HE.label>70mm mechanoid grenade (HE)</Bullet_70mmMechanoidGrenade_HE.label>
+	
+	<!-- EN: 70mm mechanoid grenade (EMP) -->
+	<Bullet_70mmMechanoidGrenade_EMP.label>70mm mechanoid grenade (EMP)</Bullet_70mmMechanoidGrenade_EMP.label>
+</LanguageData>

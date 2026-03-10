@@ -1,0 +1,50 @@
+<LanguageData>
+	<!-- ModPatches\Gas Traps and Shells\Defs\Gas Traps and Shells\Ammo_60mm.xml -->
+	<!-- EN: 60mm mortar shell (Toxic) -->
+	<Shell_60mmMortar_ToxicGas.label>60mm mortar shell (Toxic)</Shell_60mmMortar_ToxicGas.label>
+	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+	<Shell_60mmMortar_ToxicGas.description>Low-velocity shell designed to be fired from a mortar.</Shell_60mmMortar_ToxicGas.description>
+	
+	<!-- EN: 60mm mortar shell (Rage) -->
+	<Shell_60mmMortar_RageGas.label>60mm mortar shell (Rage)</Shell_60mmMortar_RageGas.label>
+	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+	<Shell_60mmMortar_RageGas.description>Low-velocity shell designed to be fired from a mortar.</Shell_60mmMortar_RageGas.description>
+	
+	<!-- EN: 60mm mortar shell (Tear) -->
+	<Shell_60mmMortar_TearGas.label>60mm mortar shell (Tear)</Shell_60mmMortar_TearGas.label>
+	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+	<Shell_60mmMortar_TearGas.description>Low-velocity shell designed to be fired from a mortar.</Shell_60mmMortar_TearGas.description>
+	
+	<!-- EN: 60mm mortar shell (Sleep) -->
+	<Shell_60mmMortar_SleepGas.label>60mm mortar shell (Sleep)</Shell_60mmMortar_SleepGas.label>
+	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+	<Shell_60mmMortar_SleepGas.description>Low-velocity shell designed to be fired from a mortar.</Shell_60mmMortar_SleepGas.description>
+	
+	<!-- EN: 60mm mortar shell (Fear) -->
+	<Shell_60mmMortar_FearGas.label>60mm mortar shell (Fear)</Shell_60mmMortar_FearGas.label>
+	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+	<Shell_60mmMortar_FearGas.description>Low-velocity shell designed to be fired from a mortar.</Shell_60mmMortar_FearGas.description>
+	
+	<!-- EN: 60mm mortar shell (Acid) -->
+	<Shell_60mmMortar_AcidGas.label>60mm mortar shell (Acid)</Shell_60mmMortar_AcidGas.label>
+	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+	<Shell_60mmMortar_AcidGas.description>Low-velocity shell designed to be fired from a mortar.</Shell_60mmMortar_AcidGas.description>
+	
+	<!-- EN: 60mm mortar shell (Toxic) -->
+	<Bullet_60mmMortarShell_60mmMortar_ToxicGas.label>60mm mortar shell (Toxic)</Bullet_60mmMortarShell_60mmMortar_ToxicGas.label>
+	
+	<!-- EN: 60mm mortar shell (Rage) -->
+	<Bullet_60mmMortarShell_60mmMortar_RageGas.label>60mm mortar shell (Rage)</Bullet_60mmMortarShell_60mmMortar_RageGas.label>
+	
+	<!-- EN: 60mm mortar shell (Tear) -->
+	<Bullet_60mmMortarShell_60mmMortar_TearGas.label>60mm mortar shell (Tear)</Bullet_60mmMortarShell_60mmMortar_TearGas.label>
+	
+	<!-- EN: 60mm mortar shell (Sleep) -->
+	<Bullet_60mmMortarShell_60mmMortar_SleepGas.label>60mm mortar shell (Sleep)</Bullet_60mmMortarShell_60mmMortar_SleepGas.label>
+	
+	<!-- EN: 60mm mortar shell (Fear) -->
+	<Bullet_60mmMortarShell_60mmMortar_FearGas.label>60mm mortar shell (Fear)</Bullet_60mmMortarShell_60mmMortar_FearGas.label>
+	
+	<!-- EN: 60mm mortar shell (Acid) -->
+	<Bullet_60mmMortarShell_60mmMortar_AcidGas.label>60mm mortar shell (Acid)</Bullet_60mmMortarShell_60mmMortar_AcidGas.label>
+</LanguageData>

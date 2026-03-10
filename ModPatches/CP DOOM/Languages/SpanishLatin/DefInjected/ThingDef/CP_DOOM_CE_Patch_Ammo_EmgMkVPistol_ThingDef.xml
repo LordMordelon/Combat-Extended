@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\CP DOOM\Defs\CP DOOM\CP_DOOM_CE_Patch_Ammo_EmgMkVPistol.xml -->
+	
+	<!-- EN: UAC EMG Cell -->
+	<Ammo_Doom2016EmgMkVPistol.label>UAC EMG Cell</Ammo_Doom2016EmgMkVPistol.label>
+	<!-- EN: Plasma containment power cell developed by the Union Aerospace Corporation for directed-energy sidearms, utilizing the compression of Argent energy into a kinetic slug -->
+	<Ammo_Doom2016EmgMkVPistol.description>Plasma containment power cell developed by the Union Aerospace Corporation for directed-energy sidearms, utilizing the compression of Argent energy into a kinetic slug</Ammo_Doom2016EmgMkVPistol.description>
+	
+	<!-- EN: EMG Bolt -->
+	<Bullet_Doom2016EmgMkVPistol.label>EMG Bolt</Bullet_Doom2016EmgMkVPistol.label>
+</LanguageData>

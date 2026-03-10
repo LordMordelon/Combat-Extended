@@ -1,0 +1,33 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\EV_all_tech_melee\Weapons_ATM_Ultratech115.xml -->
+	<!-- EN: handle -->
+	<ATM_MeleeWeapon_UltratechGladius.tools.0.label>handle</ATM_MeleeWeapon_UltratechGladius.tools.0.label>
+	<!-- EN: point -->
+	<ATM_MeleeWeapon_UltratechGladius.tools.1.label>point</ATM_MeleeWeapon_UltratechGladius.tools.1.label>
+	<!-- EN: edge -->
+	<ATM_MeleeWeapon_UltratechGladius.tools.2.label>edge</ATM_MeleeWeapon_UltratechGladius.tools.2.label>
+	
+	<!-- EN: handle -->
+	<ATM_MeleeWeapon_UltratechHammer.tools.0.label>handle</ATM_MeleeWeapon_UltratechHammer.tools.0.label>
+	<!-- EN: head -->
+	<ATM_MeleeWeapon_UltratechHammer.tools.1.label>head</ATM_MeleeWeapon_UltratechHammer.tools.1.label>
+	
+	<!-- EN: handle -->
+	<ATM_MeleeWeapon_UltratechSledgehammer.tools.0.label>handle</ATM_MeleeWeapon_UltratechSledgehammer.tools.0.label>
+	<!-- EN: head -->
+	<ATM_MeleeWeapon_UltratechSledgehammer.tools.1.label>head</ATM_MeleeWeapon_UltratechSledgehammer.tools.1.label>
+	
+	<!-- EN: shaft -->
+	<ATM_MeleeWeapon_UltratechSpear.tools.0.label>shaft</ATM_MeleeWeapon_UltratechSpear.tools.0.label>
+	<!-- EN: shaft -->
+	<ATM_MeleeWeapon_UltratechSpear.tools.1.label>shaft</ATM_MeleeWeapon_UltratechSpear.tools.1.label>
+	<!-- EN: head -->
+	<ATM_MeleeWeapon_UltratechSpear.tools.2.label>head</ATM_MeleeWeapon_UltratechSpear.tools.2.label>
+	
+	<!-- EN: handle -->
+	<ATM_MeleeWeapon_UltratechLongsword.tools.0.label>handle</ATM_MeleeWeapon_UltratechLongsword.tools.0.label>
+	<!-- EN: point -->
+	<ATM_MeleeWeapon_UltratechLongsword.tools.1.label>point</ATM_MeleeWeapon_UltratechLongsword.tools.1.label>
+	<!-- EN: edge -->
+	<ATM_MeleeWeapon_UltratechLongsword.tools.2.label>edge</ATM_MeleeWeapon_UltratechLongsword.tools.2.label>
+</LanguageData>

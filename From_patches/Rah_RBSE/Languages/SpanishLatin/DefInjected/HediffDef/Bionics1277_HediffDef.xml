@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Rah_RBSE\Bionics1277.xml -->
+	<!-- EN: fist -->
+	<SimpleProstheticHand.comps.0.tools.0.label>fist</SimpleProstheticHand.comps.0.tools.0.label>
+	<!-- EN: bionic fist -->
+	<BionicHand.comps.0.tools.0.label>bionic fist</BionicHand.comps.0.tools.0.label>
+	<!-- EN: bionic fist -->
+	<PowerArm.comps.0.tools.0.label>bionic fist</PowerArm.comps.0.tools.0.label>
+	<!-- EN: bionic fist -->
+	<AdvancedPowerArm.comps.0.tools.0.label>bionic fist</AdvancedPowerArm.comps.0.tools.0.label>
+	<!-- EN: bionic fist -->
+	<AdvancedBionicArm.comps.0.tools.0.label>bionic fist</AdvancedBionicArm.comps.0.tools.0.label>
+	<!-- EN: bionic fist -->
+	<AdvancedBionicHand.comps.0.tools.0.label>bionic fist</AdvancedBionicHand.comps.0.tools.0.label>
+</LanguageData>

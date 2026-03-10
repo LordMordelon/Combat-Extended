@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\sarg_alphaanimals\AlphaAnimals_CE_Patch_Race_Behemoth147.xml -->
+	<!-- EN: left dragonclaw -->
+	<AA_Behemoth.tools.0.label>left dragonclaw</AA_Behemoth.tools.0.label>
+	<!-- EN: Right dragonclaw -->
+	<AA_Behemoth.tools.1.label>Right dragonclaw</AA_Behemoth.tools.1.label>
+	<!-- EN: razorfangs -->
+	<AA_Behemoth.tools.2.label>razorfangs</AA_Behemoth.tools.2.label>
+	<!-- EN: devour -->
+	<AA_Behemoth.tools.3.label>devour</AA_Behemoth.tools.3.label>
+</LanguageData>

@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- Defs\Ammo\Modded\Warhammer 40k\LasGun.xml -->
+	<!-- EN: lasgun power pack -->
+	<Ammo_LasgunPowerPack.label>lasgun power pack</Ammo_LasgunPowerPack.label>
+	<!-- EN: A universal power pack for lasguns. -->
+	<Ammo_LasgunPowerPack.description>A universal power pack for lasguns.</Ammo_LasgunPowerPack.description>
+	<!-- EN: laser beam -->
+	<Bullet_Lasgun_Pistol.label>laser beam</Bullet_Lasgun_Pistol.label>
+	<!-- EN: laser beam -->
+	<Bullet_Lasgun_Rifle.label>laser beam</Bullet_Lasgun_Rifle.label>
+	<!-- EN: laser beam -->
+	<Bullet_Lasgun_HellGun.label>laser beam</Bullet_Lasgun_HellGun.label>
+	<!-- EN: laser beam -->
+	<Bullet_Lasgun_Cannon.label>laser beam</Bullet_Lasgun_Cannon.label>
+</LanguageData>

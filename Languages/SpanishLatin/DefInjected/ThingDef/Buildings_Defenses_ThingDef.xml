@@ -1,0 +1,12 @@
+<LanguageData>
+	<!-- Defs\ThingDefs_Buildings\Buildings_Defenses.xml -->
+	<!-- EN: barbed wire -->
+	<CE_BarbedWire.label>barbed wire</CE_BarbedWire.label>
+	<!-- EN: Cheap defence system that slows down enemies. -->
+	<CE_BarbedWire.description>Cheap defence system that slows down enemies.</CE_BarbedWire.description>
+	
+	<!-- EN: embrasure -->
+	<CE_Embrasure.label>embrasure</CE_Embrasure.label>
+	<!-- EN: A wall with a firing port to allow shooting from relative safety. -->
+	<CE_Embrasure.description>A wall with a firing port to allow shooting from relative safety.</CE_Embrasure.description>
+</LanguageData>

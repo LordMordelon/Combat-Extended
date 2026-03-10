@@ -1,0 +1,10 @@
+<LanguageData>
+	<!-- ModPatches\Alpha Vehicles\Neolithic\Defs\Neolithic\Ammo_Hwacha.xml -->
+	
+	<!-- EN: make hwacha explosive arrows x10 -->
+	<MakeAmmo_GreatArrow_ExplosiveArrow.label>make hwacha explosive arrows x10</MakeAmmo_GreatArrow_ExplosiveArrow.label>
+	<!-- EN: Craft 10 hwacha explosive arrows. -->
+	<MakeAmmo_GreatArrow_ExplosiveArrow.description>Craft 10 hwacha explosive arrows.</MakeAmmo_GreatArrow_ExplosiveArrow.description>
+	<!-- EN: Making hwacha rocket arrows. -->
+	<MakeAmmo_GreatArrow_ExplosiveArrow.jobString>Making hwacha rocket arrows.</MakeAmmo_GreatArrow_ExplosiveArrow.jobString>
+</LanguageData>

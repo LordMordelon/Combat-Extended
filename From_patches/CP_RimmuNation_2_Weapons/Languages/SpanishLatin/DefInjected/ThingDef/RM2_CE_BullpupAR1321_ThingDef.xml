@@ -1,0 +1,23 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\CP_RimmuNation_2_Weapons\RM2_CE_BullpupAR1321.xml -->
+	<!-- EN: stock -->
+	<RNGun_AUGA1_Rifle.tools.0.label>stock</RNGun_AUGA1_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_AUGA1_Rifle.tools.1.label>barrel</RNGun_AUGA1_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_AUGA1_Rifle.tools.2.label>muzzle</RNGun_AUGA1_Rifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_FAMAS_Rifle.tools.0.label>stock</RNGun_FAMAS_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_FAMAS_Rifle.tools.1.label>barrel</RNGun_FAMAS_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_FAMAS_Rifle.tools.2.label>muzzle</RNGun_FAMAS_Rifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_SA80A2_Rifle.tools.0.label>stock</RNGun_SA80A2_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_SA80A2_Rifle.tools.1.label>barrel</RNGun_SA80A2_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_SA80A2_Rifle.tools.2.label>muzzle</RNGun_SA80A2_Rifle.tools.2.label>
+</LanguageData>

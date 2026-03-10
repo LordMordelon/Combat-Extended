@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- ModPatches\Kijin 3.0\Defs\Kijin 3.0\Ammo\Projectiles_Kijin.xml -->
+	<!-- EN: dark matter -->
+	<Projectile_CE_KijinDarkmatter.label>dark matter</Projectile_CE_KijinDarkmatter.label>
+	<!-- EN: Blazing Orb -->
+	<Bullet_CE_KijinFlame.label>Blazing Orb</Bullet_CE_KijinFlame.label>
+</LanguageData>

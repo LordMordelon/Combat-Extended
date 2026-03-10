@@ -1,0 +1,37 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\RH2_Faction_VOID\Races1295.xml -->
+	<!-- EN: left claw -->
+	<RH_DF_Mother.tools.0.label>left claw</RH_DF_Mother.tools.0.label>
+	<!-- EN: right claw -->
+	<RH_DF_Mother.tools.1.label>right claw</RH_DF_Mother.tools.1.label>
+	<!-- EN: head -->
+	<RH_DF_Mother.tools.2.label>head</RH_DF_Mother.tools.2.label>
+	
+	<!-- EN: left fist -->
+	<RH_DF_Titan.tools.0.label>left fist</RH_DF_Titan.tools.0.label>
+	<!-- EN: right fist -->
+	<RH_DF_Titan.tools.1.label>right fist</RH_DF_Titan.tools.1.label>
+	<!-- EN: head -->
+	<RH_DF_Titan.tools.2.label>head</RH_DF_Titan.tools.2.label>
+	
+	<!-- EN: tentacle -->
+	<RH_DF_Wraith.tools.0.label>tentacle</RH_DF_Wraith.tools.0.label>
+	<!-- EN: tentacle -->
+	<RH_DF_Wraith.tools.1.label>tentacle</RH_DF_Wraith.tools.1.label>
+	<!-- EN: head -->
+	<RH_DF_Wraith.tools.2.label>head</RH_DF_Wraith.tools.2.label>
+	
+	<!-- EN: left claw -->
+	<RH_DF_GiantSpider.tools.0.label>left claw</RH_DF_GiantSpider.tools.0.label>
+	<!-- EN: right claw -->
+	<RH_DF_GiantSpider.tools.1.label>right claw</RH_DF_GiantSpider.tools.1.label>
+	<!-- EN: head -->
+	<RH_DF_GiantSpider.tools.2.label>head</RH_DF_GiantSpider.tools.2.label>
+	
+	<!-- EN: left claw -->
+	<RH_DF2_Stalker.tools.0.label>left claw</RH_DF2_Stalker.tools.0.label>
+	<!-- EN: right fist -->
+	<RH_DF2_Stalker.tools.1.label>right fist</RH_DF2_Stalker.tools.1.label>
+	<!-- EN: head -->
+	<RH_DF2_Stalker.tools.2.label>head</RH_DF2_Stalker.tools.2.label>
+</LanguageData>

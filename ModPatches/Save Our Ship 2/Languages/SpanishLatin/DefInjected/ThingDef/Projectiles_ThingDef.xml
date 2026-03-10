@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- ModPatches\Save Our Ship 2\Defs\Save Our Ship 2\Projectiles.xml -->
+	<!-- EN: plasma toroid -->
+	<Bullet_Shuttle_Plasma_CE.label>plasma toroid</Bullet_Shuttle_Plasma_CE.label>
+	<!-- EN: laser beam -->
+	<Bullet_Shuttle_Laser_CE.label>laser beam</Bullet_Shuttle_Laser_CE.label>
+	<!-- EN: plasma toroid -->
+	<Bullet_SOS2_Plasma_CE.label>plasma toroid</Bullet_SOS2_Plasma_CE.label>
+	<!-- EN: slug -->
+	<Bullet_SOS2_Kinetic_CE.label>slug</Bullet_SOS2_Kinetic_CE.label>
+	<!-- EN: laser beam -->
+	<Bullet_SOS2_Laser_CE.label>laser beam</Bullet_SOS2_Laser_CE.label>
+	<!-- EN: Autocannon Slug -->
+	<Bullet_SOS2_ACI_CE.label>Autocannon Slug</Bullet_SOS2_ACI_CE.label>
+</LanguageData>

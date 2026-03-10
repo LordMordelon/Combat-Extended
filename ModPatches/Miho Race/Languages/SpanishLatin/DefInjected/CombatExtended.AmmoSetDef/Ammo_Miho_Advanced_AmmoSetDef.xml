@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- ModPatches\Miho Race\Defs\Miho Race\Ammo\Ammo_Miho_Advanced.xml -->
+	<!-- EN: Rifle Plasma Cell -->
+	<AmmoSet_MihoPlasma.label>Rifle Plasma Cell</AmmoSet_MihoPlasma.label>
+	<!-- EN: Rifle Plasma Cell -->
+	<AmmoSet_MihoPlasmaSniper.label>Rifle Plasma Cell</AmmoSet_MihoPlasmaSniper.label>
+	<!-- EN: Thermobaric -->
+	<AmmoSet_MihoPlasmaThermo.label>Thermobaric</AmmoSet_MihoPlasmaThermo.label>
+	<!-- EN: Psychic Shot -->
+	<AmmoSet_MechPsyShot.label>Psychic Shot</AmmoSet_MechPsyShot.label>
+	<!-- EN: Psychic Shot -->
+	<AmmoSet_MechPsyRifle.label>Psychic Shot</AmmoSet_MechPsyRifle.label>
+</LanguageData>

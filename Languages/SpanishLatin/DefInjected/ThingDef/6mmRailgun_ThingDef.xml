@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Defs\Ammo\Advanced\6mmRailgun.xml -->
+	<!-- EN: 6mm Railgun (Sabot) -->
+	<Ammo_6mmRailgun_Sabot.label>6mm Railgun (Sabot)</Ammo_6mmRailgun_Sabot.label>
+	<!-- EN: Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for railgun rifles. -->
+	<Ammo_6mmRailgun_Sabot.description>Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for railgun rifles.</Ammo_6mmRailgun_Sabot.description>
+	<!-- EN: 6mm Railgun bullet (Sabot) -->
+	<Bullet_6mmRailgun_Sabot.label>6mm Railgun bullet (Sabot)</Bullet_6mmRailgun_Sabot.label>
+</LanguageData>

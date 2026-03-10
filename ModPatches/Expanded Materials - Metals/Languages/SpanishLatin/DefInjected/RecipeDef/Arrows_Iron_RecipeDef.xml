@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- ModPatches\Expanded Materials - Metals\Defs\Expanded Materials - Metals\Arrows_Iron.xml -->
+	
+	<!-- EN: make iron arrows x10 -->
+	<MakeAmmo_Arrow_Iron.label>make iron arrows x10</MakeAmmo_Arrow_Iron.label>
+	<!-- EN: Craft 10 iron arrows. -->
+	<MakeAmmo_Arrow_Iron.description>Craft 10 iron arrows.</MakeAmmo_Arrow_Iron.description>
+	<!-- EN: Making iron arrows. -->
+	<MakeAmmo_Arrow_Iron.jobString>Making iron arrows.</MakeAmmo_Arrow_Iron.jobString>
+	
+	<!-- EN: make steel great arrows x10 -->
+	<MakeAmmo_GreatArrow_Iron.label>make steel great arrows x10</MakeAmmo_GreatArrow_Iron.label>
+	<!-- EN: Craft 10 steel great arrows. -->
+	<MakeAmmo_GreatArrow_Iron.description>Craft 10 steel great arrows.</MakeAmmo_GreatArrow_Iron.description>
+	<!-- EN: Making steel great arrows. -->
+	<MakeAmmo_GreatArrow_Iron.jobString>Making steel great arrows.</MakeAmmo_GreatArrow_Iron.jobString>
+</LanguageData>

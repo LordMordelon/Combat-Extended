@@ -1,0 +1,24 @@
+<LanguageData>
+	<!-- ModPatches\Censored Armory\Defs\Censored Armory\30mm Rifle Grenade.xml -->
+	
+	<!-- EN: make 30mm rifleHE grenades x100 -->
+	<MakeAmmo_30mmRifleGrenade_HE.label>make 30mm rifleHE grenades x100</MakeAmmo_30mmRifleGrenade_HE.label>
+	<!-- EN: Craft 100 30mm rifleHE grenades. -->
+	<MakeAmmo_30mmRifleGrenade_HE.description>Craft 100 30mm rifleHE grenades.</MakeAmmo_30mmRifleGrenade_HE.description>
+	<!-- EN: Making 30mm rifleHE grenades. -->
+	<MakeAmmo_30mmRifleGrenade_HE.jobString>Making 30mm rifleHE grenades.</MakeAmmo_30mmRifleGrenade_HE.jobString>
+	
+	<!-- EN: make 30mm rifleEMP grenades x100 -->
+	<MakeAmmo_30mmRifleGrenade_EMP.label>make 30mm rifleEMP grenades x100</MakeAmmo_30mmRifleGrenade_EMP.label>
+	<!-- EN: Craft 100 30mm rifleEMP grenades. -->
+	<MakeAmmo_30mmRifleGrenade_EMP.description>Craft 100 30mm rifleEMP grenades.</MakeAmmo_30mmRifleGrenade_EMP.description>
+	<!-- EN: Making 30mm rifleEMP grenades. -->
+	<MakeAmmo_30mmRifleGrenade_EMP.jobString>Making 30mm rifleEMP grenades.</MakeAmmo_30mmRifleGrenade_EMP.jobString>
+	
+	<!-- EN: make 30mm riflesmoke grenades x100 -->
+	<MakeAmmo_30mmRifleGrenade_Smoke.label>make 30mm riflesmoke grenades x100</MakeAmmo_30mmRifleGrenade_Smoke.label>
+	<!-- EN: Craft 100 30mm riflesmoke grenades. -->
+	<MakeAmmo_30mmRifleGrenade_Smoke.description>Craft 100 30mm riflesmoke grenades.</MakeAmmo_30mmRifleGrenade_Smoke.description>
+	<!-- EN: Making 30mm riflesmoke grenades. -->
+	<MakeAmmo_30mmRifleGrenade_Smoke.jobString>Making 30mm riflesmoke grenades.</MakeAmmo_30mmRifleGrenade_Smoke.jobString>
+</LanguageData>

@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Eltex Weaponry\Defs\Eltex Weaponry\EW_Ammo_CE.xml -->
+	<!-- EN: Eltex (Pistol) -->
+	<AmmoSet_EltexLight.label>Eltex (Pistol)</AmmoSet_EltexLight.label>
+	<!-- EN: Eltex (Rifle) -->
+	<AmmoSet_EltexMedium.label>Eltex (Rifle)</AmmoSet_EltexMedium.label>
+	<!-- EN: Eltex (Lance) -->
+	<AmmoSet_EltexHeavy.label>Eltex (Lance)</AmmoSet_EltexHeavy.label>
+</LanguageData>

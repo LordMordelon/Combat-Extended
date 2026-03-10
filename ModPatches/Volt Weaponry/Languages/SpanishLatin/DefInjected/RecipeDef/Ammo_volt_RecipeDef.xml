@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Volt Weaponry\Defs\Volt Weaponry\Ammo_volt.xml -->
+	<!-- EN: make volt laser cell x500 -->
+	<MakeAmmo_VoltLaserCellPack.label>make volt laser cell x500</MakeAmmo_VoltLaserCellPack.label>
+	<!-- EN: Craft 500 volt laser cell. -->
+	<MakeAmmo_VoltLaserCellPack.description>Craft 500 volt laser cell.</MakeAmmo_VoltLaserCellPack.description>
+	<!-- EN: Making volt laser cell. -->
+	<MakeAmmo_VoltLaserCellPack.jobString>Making volt laser cell.</MakeAmmo_VoltLaserCellPack.jobString>
+</LanguageData>

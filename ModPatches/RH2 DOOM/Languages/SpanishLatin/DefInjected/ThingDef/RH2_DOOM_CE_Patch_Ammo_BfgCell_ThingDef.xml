@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\RH2 DOOM\Defs\RH2 DOOM\RH2_DOOM_CE_Patch_Ammo_BfgCell.xml -->
+	
+	<!-- EN: UAC BFG Cell -->
+	<Ammo_Doom2016BfgCell.label>UAC BFG Cell</Ammo_Doom2016BfgCell.label>
+	<!-- EN: Plasma containment power cell developed by the Union Aerospace Corporation for the BFG 9000, utilizing the compression of Argent energy -->
+	<Ammo_Doom2016BfgCell.description>Plasma containment power cell developed by the Union Aerospace Corporation for the BFG 9000, utilizing the compression of Argent energy</Ammo_Doom2016BfgCell.description>
+	
+	<!-- EN: BFG Plasma Shot -->
+	<Bullet_Doom2016Bfg9000Gun.label>BFG Plasma Shot</Bullet_Doom2016Bfg9000Gun.label>
+</LanguageData>

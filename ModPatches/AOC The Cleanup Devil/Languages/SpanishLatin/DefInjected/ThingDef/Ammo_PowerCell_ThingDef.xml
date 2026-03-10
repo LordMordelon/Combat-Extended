@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- ModPatches\AOC The Cleanup Devil\Defs\AOC The Cleanup Devil\Ammo_PowerCell.xml -->
+	
+	<!-- EN: AOC PowerCell (HEAT) -->
+	<Ammo_AOCPowerCell_HEAT.label>AOC PowerCell (HEAT)</Ammo_AOCPowerCell_HEAT.label>
+	<!-- EN: Power cells used as ammunition for the AOC Suvi Buster. -->
+	<Ammo_AOCPowerCell_HEAT.description>Power cells used as ammunition for the AOC Suvi Buster.</Ammo_AOCPowerCell_HEAT.description>
+	
+	<!-- EN: AOC PowerCell (Thermobaric) -->
+	<Ammo_AOCPowerCell_Thermobaric.label>AOC PowerCell (Thermobaric)</Ammo_AOCPowerCell_Thermobaric.label>
+	<!-- EN: Power cells used as ammunition for the AOC Suvi Buster. -->
+	<Ammo_AOCPowerCell_Thermobaric.description>Power cells used as ammunition for the AOC Suvi Buster.</Ammo_AOCPowerCell_Thermobaric.description>
+	
+	<!-- EN: AOC PowerCell (EMP) -->
+	<Ammo_AOCPowerCell_EMP.label>AOC PowerCell (EMP)</Ammo_AOCPowerCell_EMP.label>
+	<!-- EN: Power cells used as ammunition for the AOC Suvi Buster. -->
+	<Ammo_AOCPowerCell_EMP.description>Power cells used as ammunition for the AOC Suvi Buster.</Ammo_AOCPowerCell_EMP.description>
+	
+	<!-- EN: AOC PowerCell (HEAT) -->
+	<Bullet_AOCPowerCell_HEAT.label>AOC PowerCell (HEAT)</Bullet_AOCPowerCell_HEAT.label>
+	
+	<!-- EN: AOC PowerCell (Thermobaric) -->
+	<Bullet_AOCPowerCell_Thermobaric.label>AOC PowerCell (Thermobaric)</Bullet_AOCPowerCell_Thermobaric.label>
+	
+	<!-- EN: AOC PowerCell (EMP) -->
+	<Bullet_AOCPowerCell_EMP.label>AOC PowerCell (EMP)</Bullet_AOCPowerCell_EMP.label>
+</LanguageData>

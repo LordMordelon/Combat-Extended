@@ -1,0 +1,24 @@
+<LanguageData>
+	<!-- Defs\Ammo\Pistols\38Super.xml -->
+	
+	<!-- EN: make .38 Super (FMJ) cartridge x500 -->
+	<MakeAmmo_38Super_FMJ.label>make .38 Super (FMJ) cartridge x500</MakeAmmo_38Super_FMJ.label>
+	<!-- EN: Craft 500 .38 Super (FMJ) cartridges. -->
+	<MakeAmmo_38Super_FMJ.description>Craft 500 .38 Super (FMJ) cartridges.</MakeAmmo_38Super_FMJ.description>
+	<!-- EN: Making .38 Super (FMJ) cartridges. -->
+	<MakeAmmo_38Super_FMJ.jobString>Making .38 Super (FMJ) cartridges.</MakeAmmo_38Super_FMJ.jobString>
+	
+	<!-- EN: make .38 Super (AP) cartridge x500 -->
+	<MakeAmmo_38Super_AP.label>make .38 Super (AP) cartridge x500</MakeAmmo_38Super_AP.label>
+	<!-- EN: Craft 500 .38 Super (AP) cartridges. -->
+	<MakeAmmo_38Super_AP.description>Craft 500 .38 Super (AP) cartridges.</MakeAmmo_38Super_AP.description>
+	<!-- EN: Making .38 Super (AP) cartridges. -->
+	<MakeAmmo_38Super_AP.jobString>Making .38 Super (AP) cartridges.</MakeAmmo_38Super_AP.jobString>
+	
+	<!-- EN: make .38 Super (HP) cartridge x500 -->
+	<MakeAmmo_38Super_HP.label>make .38 Super (HP) cartridge x500</MakeAmmo_38Super_HP.label>
+	<!-- EN: Craft 500 .38 Super (HP) cartridges. -->
+	<MakeAmmo_38Super_HP.description>Craft 500 .38 Super (HP) cartridges.</MakeAmmo_38Super_HP.description>
+	<!-- EN: Making .38 Super (HP) cartridges. -->
+	<MakeAmmo_38Super_HP.jobString>Making .38 Super (HP) cartridges.</MakeAmmo_38Super_HP.jobString>
+</LanguageData>

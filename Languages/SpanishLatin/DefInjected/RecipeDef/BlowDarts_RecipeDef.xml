@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Defs\Ammo\Neolithic\BlowDarts.xml -->
+	<!-- EN: make venom darts x10 -->
+	<MakeAmmo_Dart_Venom.label>make venom darts x10</MakeAmmo_Dart_Venom.label>
+	<!-- EN: Craft 10 venom darts for use with blowguns. -->
+	<MakeAmmo_Dart_Venom.description>Craft 10 venom darts for use with blowguns.</MakeAmmo_Dart_Venom.description>
+	<!-- EN: Making venom darts. -->
+	<MakeAmmo_Dart_Venom.jobString>Making venom darts.</MakeAmmo_Dart_Venom.jobString>
+</LanguageData>

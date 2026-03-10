@@ -1,0 +1,10 @@
+<LanguageData>
+	<!-- ModPatches\Sergal\Defs\Sergal\Ammo_Sergal_LeadBall.xml -->
+	
+	<!-- EN: make lead balls x100 -->
+	<MakeAmmo_Sergal_LeadBall.label>make lead balls x100</MakeAmmo_Sergal_LeadBall.label>
+	<!-- EN: Craft 100 lead balls. -->
+	<MakeAmmo_Sergal_LeadBall.description>Craft 100 lead balls.</MakeAmmo_Sergal_LeadBall.description>
+	<!-- EN: Making lead balls. -->
+	<MakeAmmo_Sergal_LeadBall.jobString>Making lead balls.</MakeAmmo_Sergal_LeadBall.jobString>
+</LanguageData>

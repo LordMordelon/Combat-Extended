@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Outer Rim - Core\Defs\Outer Rim - Core\Outer_Rim_Core_Ammo.xml -->
+	<!-- EN: Plasma Gas Cartridges -->
+	<AmmoPlasmaGasCartridge.label>Plasma Gas Cartridges</AmmoPlasmaGasCartridge.label>
+	<!-- EN: Mini Rockets -->
+	<AmmoOuterRimMiniRocket.label>Mini Rockets</AmmoOuterRimMiniRocket.label>
+	<!-- EN: RPS-6 Rockets -->
+	<AmmoOuterRimRocket.label>RPS-6 Rockets</AmmoOuterRimRocket.label>
+</LanguageData>

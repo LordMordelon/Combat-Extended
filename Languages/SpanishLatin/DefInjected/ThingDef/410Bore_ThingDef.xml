@@ -1,0 +1,35 @@
+<LanguageData>
+	<!-- Defs\Ammo\Shotgun\410Bore.xml -->
+	<!-- EN: .410 Bore shell (Buck) -->
+	<Ammo_410Bore_Buck.label>.410 Bore shell (Buck)</Ammo_410Bore_Buck.label>
+	<!-- EN: Low caliber shotgun shell. Its small diameter allows it to be fired from many of the same firearms as the .45 Colt cartridge. -->
+	<Ammo_410Bore_Buck.description>Low caliber shotgun shell. Its small diameter allows it to be fired from many of the same firearms as the .45 Colt cartridge.</Ammo_410Bore_Buck.description>
+	<!-- EN: .410 Bore shell (Slug) -->
+	<Ammo_410Bore_Slug.label>.410 Bore shell (Slug)</Ammo_410Bore_Slug.label>
+	<!-- EN: Low caliber shotgun shell. Its small diameter allows it to be fired from many of the same firearms as the .45 Colt cartridge. -->
+	<Ammo_410Bore_Slug.description>Low caliber shotgun shell. Its small diameter allows it to be fired from many of the same firearms as the .45 Colt cartridge.</Ammo_410Bore_Slug.description>
+	<!-- EN: .410 Bore shell (Bean) -->
+	<Ammo_410Bore_Beanbag.label>.410 Bore shell (Bean)</Ammo_410Bore_Beanbag.label>
+	<!-- EN: Low caliber shotgun shell. Its small diameter allows it to be fired from many of the same firearms as the .45 Colt cartridge. -->
+	<Ammo_410Bore_Beanbag.description>Low caliber shotgun shell. Its small diameter allows it to be fired from many of the same firearms as the .45 Colt cartridge.</Ammo_410Bore_Beanbag.description>
+	<!-- EN: .410 Bore shell (EMP) -->
+	<Ammo_410Bore_ElectroSlug.label>.410 Bore shell (EMP)</Ammo_410Bore_ElectroSlug.label>
+	<!-- EN: Low caliber shotgun shell. Its small diameter allows it to be fired from many of the same firearms as the .45 Colt cartridge. -->
+	<Ammo_410Bore_ElectroSlug.description>Low caliber shotgun shell. Its small diameter allows it to be fired from many of the same firearms as the .45 Colt cartridge.</Ammo_410Bore_ElectroSlug.description>
+	<!-- EN: buckshot pellet -->
+	<Bullet_410Bore_Buck.label>buckshot pellet</Bullet_410Bore_Buck.label>
+	<!-- EN: shotgun slug -->
+	<Bullet_410Bore_Slug.label>shotgun slug</Bullet_410Bore_Slug.label>
+	<!-- EN: beanbag -->
+	<Bullet_410Bore_Beanbag.label>beanbag</Bullet_410Bore_Beanbag.label>
+	<!-- EN: EMP slug -->
+	<Bullet_410Bore_ElectroSlug.label>EMP slug</Bullet_410Bore_ElectroSlug.label>
+	<!-- EN: buckshot pellet -->
+	<Bullet_410Bore_Buck_SB.label>buckshot pellet</Bullet_410Bore_Buck_SB.label>
+	<!-- EN: shotgun slug -->
+	<Bullet_410Bore_Slug_SB.label>shotgun slug</Bullet_410Bore_Slug_SB.label>
+	<!-- EN: beanbag -->
+	<Bullet_410Bore_Beanbag_SB.label>beanbag</Bullet_410Bore_Beanbag_SB.label>
+	<!-- EN: EMP slug -->
+	<Bullet_410Bore_ElectroSlug_SB.label>EMP slug</Bullet_410Bore_ElectroSlug_SB.label>
+</LanguageData>

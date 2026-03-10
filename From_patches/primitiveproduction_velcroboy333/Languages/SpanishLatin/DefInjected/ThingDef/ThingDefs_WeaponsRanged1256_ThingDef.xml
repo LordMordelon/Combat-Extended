@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\primitiveproduction_velcroboy333\ThingDefs_WeaponsRanged1256.xml -->
+	<!-- EN: Throw boomerang -->
+	<VBY_Boomerang.Properties.label>Throw boomerang</VBY_Boomerang.Properties.label>
+	<!-- EN: boomerang -->
+	<VBY_Boomerang.tools.0.label>boomerang</VBY_Boomerang.tools.0.label>
+	
+	<!-- EN: Throw boomerang -->
+	<VBY_RabbitStick.Properties.label>Throw boomerang</VBY_RabbitStick.Properties.label>
+	<!-- EN: rabbit stick -->
+	<VBY_RabbitStick.tools.0.label>rabbit stick</VBY_RabbitStick.tools.0.label>
+	
+	<!-- EN: Throw rock -->
+	<VBY_ThrowingRocks.Properties.label>Throw rock</VBY_ThrowingRocks.Properties.label>
+	<!-- EN: rabbit stick -->
+	<VBY_ThrowingRocks.tools.0.label>rabbit stick</VBY_ThrowingRocks.tools.0.label>
+</LanguageData>

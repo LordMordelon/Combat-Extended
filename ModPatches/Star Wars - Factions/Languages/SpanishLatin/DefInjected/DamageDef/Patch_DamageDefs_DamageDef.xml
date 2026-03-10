@@ -1,0 +1,12 @@
+<LanguageData>
+	<!-- ModPatches\Star Wars - Factions\Defs\Star Wars - Factions\Patch_DamageDefs.xml -->
+	<!-- EN: Blaster bolt -->
+	<PJ_BlasterDam.label>Blaster bolt</PJ_BlasterDam.label>
+	<!-- EN: {0} has been blasted! -->
+	<PJ_BlasterDam.deathMessage>{0} has been blasted!</PJ_BlasterDam.deathMessage>
+	
+	<!-- EN: stun -->
+	<SW_Stun_Damage.label>stun</SW_Stun_Damage.label>
+	<!-- EN: {0} has been shocked to death. -->
+	<SW_Stun_Damage.deathMessage>{0} has been shocked to death.</SW_Stun_Damage.deathMessage>
+</LanguageData>

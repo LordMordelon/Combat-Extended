@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Races_Humanlike32.xml -->
+	<!-- EN: left fist -->
+	<Human.tools.0.label>left fist</Human.tools.0.label>
+	<!-- EN: right fist -->
+	<Human.tools.1.label>right fist</Human.tools.1.label>
+	<!-- EN: teeth -->
+	<Human.tools.2.label>teeth</Human.tools.2.label>
+	<!-- EN: head -->
+	<Human.tools.3.label>head</Human.tools.3.label>
+</LanguageData>

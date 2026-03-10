@@ -1,0 +1,29 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Mlie_ApexRimworldLegends\ApexRimworldLegends_Weapons_SMG418.xml -->
+	<!-- EN: Alternator SMG -->
+	<ARL_LightSMG.label>Alternator SMG</ARL_LightSMG.label>
+	<!-- EN: grip -->
+	<ARL_LightSMG.tools.0.label>grip</ARL_LightSMG.tools.0.label>
+	<!-- EN: barrel -->
+	<ARL_LightSMG.tools.1.label>barrel</ARL_LightSMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<ARL_LightSMG.tools.2.label>muzzle</ARL_LightSMG.tools.2.label>
+	
+	<!-- EN: R-99 SMG -->
+	<ARL_CompactSMG.label>R-99 SMG</ARL_CompactSMG.label>
+	<!-- EN: grip -->
+	<ARL_CompactSMG.tools.0.label>grip</ARL_CompactSMG.tools.0.label>
+	<!-- EN: barrel -->
+	<ARL_CompactSMG.tools.1.label>barrel</ARL_CompactSMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<ARL_CompactSMG.tools.2.label>muzzle</ARL_CompactSMG.tools.2.label>
+	
+	<!-- EN: Prowler Burst PDW -->
+	<ARL_ChargeSMG.label>Prowler Burst PDW</ARL_ChargeSMG.label>
+	<!-- EN: stock -->
+	<ARL_ChargeSMG.tools.0.label>stock</ARL_ChargeSMG.tools.0.label>
+	<!-- EN: barrel -->
+	<ARL_ChargeSMG.tools.1.label>barrel</ARL_ChargeSMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<ARL_ChargeSMG.tools.2.label>muzzle</ARL_ChargeSMG.tools.2.label>
+</LanguageData>

@@ -1,0 +1,40 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Scurvyez_Bastyon\BetaAnimals_CE_Patch_VerbShootCE1635.xml -->
+	<!-- EN: ㅤ -->
+	<Bast_Alluvium.verbs.0.label>ㅤ</Bast_Alluvium.verbs.0.label>
+	
+	<!-- EN: critter spike -->
+	<Bast_Critter.verbs.0.label>critter spike</Bast_Critter.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<Bast_Critter.verbs.CombatExtended.Verb_ShootCE.label>ㅤ</Bast_Critter.verbs.CombatExtended.Verb_ShootCE.label>
+	
+	<!-- EN: spider web -->
+	<Bast_Gray_Terror.verbs.0.label>spider web</Bast_Gray_Terror.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<Bast_Gray_Terror.verbs.CombatExtended.Verb_ShootCE.label>ㅤ</Bast_Gray_Terror.verbs.CombatExtended.Verb_ShootCE.label>
+	
+	<!-- EN: eternal fire -->
+	<Bast_Scire.verbs.0.label>eternal fire</Bast_Scire.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<Bast_Scire.verbs.CombatExtended.Verb_ShootCE.label>ㅤ</Bast_Scire.verbs.CombatExtended.Verb_ShootCE.label>
+	
+	<!-- EN: acid stream -->
+	<Bast_Snipping_Snail.verbs.0.label>acid stream</Bast_Snipping_Snail.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<Bast_Snipping_Snail.verbs.CombatExtended.Verb_ShootCE.label>ㅤ</Bast_Snipping_Snail.verbs.CombatExtended.Verb_ShootCE.label>
+	
+	<!-- EN: blistering wind -->
+	<Bast_Soul_Eater.verbs.0.label>blistering wind</Bast_Soul_Eater.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<Bast_Soul_Eater.verbs.CombatExtended.Verb_ShootCE.label>ㅤ</Bast_Soul_Eater.verbs.CombatExtended.Verb_ShootCE.label>
+	
+	<!-- EN: lightning bolt -->
+	<Bast_Lightning_Elemental.verbs.0.label>lightning bolt</Bast_Lightning_Elemental.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<Bast_Lightning_Elemental.verbs.CombatExtended.Verb_ShootCE.label>ㅤ</Bast_Lightning_Elemental.verbs.CombatExtended.Verb_ShootCE.label>
+	
+	<!-- EN: searing fire -->
+	<Bast_Svarog.verbs.0.label>searing fire</Bast_Svarog.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<Bast_Svarog.verbs.Verb_Shoot.label>ㅤ</Bast_Svarog.verbs.Verb_Shoot.label>
+</LanguageData>

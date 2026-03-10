@@ -1,0 +1,43 @@
+<LanguageData>
+	<!-- Defs\Ammo\HighCaliber\338NormaMagnum.xml -->
+	
+	<!-- EN: .338 Norma Magnum (FMJ) -->
+	<Ammo_338Norma_FMJ.label>.338 Norma Magnum (FMJ)</Ammo_338Norma_FMJ.label>
+	<!-- EN: Wildcat cartridge designed for long-range sport shooting. -->
+	<Ammo_338Norma_FMJ.description>Wildcat cartridge designed for long-range sport shooting.</Ammo_338Norma_FMJ.description>
+	
+	<!-- EN: .338 Norma Magnum (AP) -->
+	<Ammo_338Norma_AP.label>.338 Norma Magnum (AP)</Ammo_338Norma_AP.label>
+	<!-- EN: Wildcat cartridge designed for long-range sport shooting. -->
+	<Ammo_338Norma_AP.description>Wildcat cartridge designed for long-range sport shooting.</Ammo_338Norma_AP.description>
+	
+	<!-- EN: .338 Norma Magnum (AP-I) -->
+	<Ammo_338Norma_Incendiary.label>.338 Norma Magnum (AP-I)</Ammo_338Norma_Incendiary.label>
+	<!-- EN: Wildcat cartridge designed for long-range sport shooting. -->
+	<Ammo_338Norma_Incendiary.description>Wildcat cartridge designed for long-range sport shooting.</Ammo_338Norma_Incendiary.description>
+	
+	<!-- EN: .338 Norma Magnum (AP-HE) -->
+	<Ammo_338Norma_HE.label>.338 Norma Magnum (AP-HE)</Ammo_338Norma_HE.label>
+	<!-- EN: Wildcat cartridge designed for long-range sport shooting. -->
+	<Ammo_338Norma_HE.description>Wildcat cartridge designed for long-range sport shooting.</Ammo_338Norma_HE.description>
+	
+	<!-- EN: .338 Norma Magnum (Sabot) -->
+	<Ammo_338Norma_Sabot.label>.338 Norma Magnum (Sabot)</Ammo_338Norma_Sabot.label>
+	<!-- EN: Wildcat cartridge designed for long-range sport shooting. -->
+	<Ammo_338Norma_Sabot.description>Wildcat cartridge designed for long-range sport shooting.</Ammo_338Norma_Sabot.description>
+	
+	<!-- EN: .338 Norma Magnum bullet (FMJ) -->
+	<Bullet_338Norma_FMJ.label>.338 Norma Magnum bullet (FMJ)</Bullet_338Norma_FMJ.label>
+	
+	<!-- EN: .338 Norma Magnum bullet (AP) -->
+	<Bullet_338Norma_AP.label>.338 Norma Magnum bullet (AP)</Bullet_338Norma_AP.label>
+	
+	<!-- EN: .338 Norma Magnum bullet (AP-I) -->
+	<Bullet_338Norma_Incendiary.label>.338 Norma Magnum bullet (AP-I)</Bullet_338Norma_Incendiary.label>
+	
+	<!-- EN: .338 Norma Magnum bullet (AP-HE) -->
+	<Bullet_338Norma_HE.label>.338 Norma Magnum bullet (AP-HE)</Bullet_338Norma_HE.label>
+	
+	<!-- EN: .338 Norma Magnum bullet (Sabot) -->
+	<Bullet_338Norma_Sabot.label>.338 Norma Magnum bullet (Sabot)</Bullet_338Norma_Sabot.label>
+</LanguageData>

@@ -1,0 +1,94 @@
+<LanguageData>
+	<!-- ModPatches\Rimsenal Enhanced Vanilla\Defs\Rimsenal Enhanced Vanilla\Ammo_EnhancedVanilla.xml -->
+	
+	<!-- EN: make compound arrows x10 -->
+	<MakeAmmo_CompoundArrow_Broadhead.label>make compound arrows x10</MakeAmmo_CompoundArrow_Broadhead.label>
+	<!-- EN: Craft 10 compound arrows. -->
+	<MakeAmmo_CompoundArrow_Broadhead.description>Craft 10 compound arrows.</MakeAmmo_CompoundArrow_Broadhead.description>
+	<!-- EN: Making compound arrows. -->
+	<MakeAmmo_CompoundArrow_Broadhead.jobString>Making compound arrows.</MakeAmmo_CompoundArrow_Broadhead.jobString>
+	
+	<!-- EN: make throwing club x5 -->
+	<MakeAmmo_Gun_ThrowingClub.label>make throwing club x5</MakeAmmo_Gun_ThrowingClub.label>
+	<!-- EN: Craft 5 throwing clubs. -->
+	<MakeAmmo_Gun_ThrowingClub.description>Craft 5 throwing clubs.</MakeAmmo_Gun_ThrowingClub.description>
+	<!-- EN: Making throwing clubs. -->
+	<MakeAmmo_Gun_ThrowingClub.jobString>Making throwing clubs.</MakeAmmo_Gun_ThrowingClub.jobString>
+	
+	<!-- EN: make throwing axe x5 -->
+	<MakeAmmo_Gun_ThrowingAxes.label>make throwing axe x5</MakeAmmo_Gun_ThrowingAxes.label>
+	<!-- EN: Craft 5 throwing axes. -->
+	<MakeAmmo_Gun_ThrowingAxes.description>Craft 5 throwing axes.</MakeAmmo_Gun_ThrowingAxes.description>
+	<!-- EN: Making throwing axes. -->
+	<MakeAmmo_Gun_ThrowingAxes.jobString>Making throwing axes.</MakeAmmo_Gun_ThrowingAxes.jobString>
+	
+	<!-- EN: make 25mm HE rockets x100 -->
+	<MakeAmmo_25mmRocket_HE.label>make 25mm HE rockets x100</MakeAmmo_25mmRocket_HE.label>
+	<!-- EN: Craft 100 25mm HE rockets. -->
+	<MakeAmmo_25mmRocket_HE.description>Craft 100 25mm HE rockets.</MakeAmmo_25mmRocket_HE.description>
+	<!-- EN: Making 25mm HE rockets. -->
+	<MakeAmmo_25mmRocket_HE.jobString>Making 25mm HE rockets.</MakeAmmo_25mmRocket_HE.jobString>
+	
+	<!-- EN: make 25mm HE Time-Fuzed rockets x100 -->
+	<MakeAmmo_25mmRocket_HE_TFuzed.label>make 25mm HE Time-Fuzed rockets x100</MakeAmmo_25mmRocket_HE_TFuzed.label>
+	<!-- EN: Craft 100 25mm HE Time-Fuzed rockets. -->
+	<MakeAmmo_25mmRocket_HE_TFuzed.description>Craft 100 25mm HE Time-Fuzed rockets.</MakeAmmo_25mmRocket_HE_TFuzed.description>
+	<!-- EN: Making 25mm HE Time-Fuzed rockets. -->
+	<MakeAmmo_25mmRocket_HE_TFuzed.jobString>Making 25mm HE Time-Fuzed rockets.</MakeAmmo_25mmRocket_HE_TFuzed.jobString>
+	
+	<!-- EN: make 25mm HEDP rockets x100 -->
+	<MakeAmmo_25mmRocket_HEDP.label>make 25mm HEDP rockets x100</MakeAmmo_25mmRocket_HEDP.label>
+	<!-- EN: Craft 100 25mm HEDP rockets. -->
+	<MakeAmmo_25mmRocket_HEDP.description>Craft 100 25mm HEDP rockets.</MakeAmmo_25mmRocket_HEDP.description>
+	<!-- EN: Making 25mm HEDP rockets. -->
+	<MakeAmmo_25mmRocket_HEDP.jobString>Making 25mm HEDP rockets.</MakeAmmo_25mmRocket_HEDP.jobString>
+	
+	<!-- EN: make 25mm EMP rockets x100 -->
+	<MakeAmmo_25mmRocket_EMP.label>make 25mm EMP rockets x100</MakeAmmo_25mmRocket_EMP.label>
+	<!-- EN: Craft 100 25mm EMP rockets. -->
+	<MakeAmmo_25mmRocket_EMP.description>Craft 100 25mm EMP rockets.</MakeAmmo_25mmRocket_EMP.description>
+	<!-- EN: Making 25mm EMP rockets. -->
+	<MakeAmmo_25mmRocket_EMP.jobString>Making 25mm EMP rockets.</MakeAmmo_25mmRocket_EMP.jobString>
+	
+	<!-- EN: make 25mm smoke rockets x100 -->
+	<MakeAmmo_25mmRocket_Smoke.label>make 25mm smoke rockets x100</MakeAmmo_25mmRocket_Smoke.label>
+	<!-- EN: Craft 100 25mm smoke rockets. -->
+	<MakeAmmo_25mmRocket_Smoke.description>Craft 100 25mm smoke rockets.</MakeAmmo_25mmRocket_Smoke.description>
+	<!-- EN: Making 25mm smoke rockets. -->
+	<MakeAmmo_25mmRocket_Smoke.jobString>Making 25mm smoke rockets.</MakeAmmo_25mmRocket_Smoke.jobString>
+	
+	<!-- EN: make 40mm HE rockets x100 -->
+	<MakeAmmo_40mmRocket_HE.label>make 40mm HE rockets x100</MakeAmmo_40mmRocket_HE.label>
+	<!-- EN: Craft 100 40mm HE rockets. -->
+	<MakeAmmo_40mmRocket_HE.description>Craft 100 40mm HE rockets.</MakeAmmo_40mmRocket_HE.description>
+	<!-- EN: Making 40mm HE rockets. -->
+	<MakeAmmo_40mmRocket_HE.jobString>Making 40mm HE rockets.</MakeAmmo_40mmRocket_HE.jobString>
+	
+	<!-- EN: make 40mm HE Time-Fuzed rockets x100 -->
+	<MakeAmmo_40mmRocket_HE_TFuzed.label>make 40mm HE Time-Fuzed rockets x100</MakeAmmo_40mmRocket_HE_TFuzed.label>
+	<!-- EN: Craft 100 40mm HE Time-Fuzed rockets. -->
+	<MakeAmmo_40mmRocket_HE_TFuzed.description>Craft 100 40mm HE Time-Fuzed rockets.</MakeAmmo_40mmRocket_HE_TFuzed.description>
+	<!-- EN: Making 40mm HE Time-Fuzed rockets. -->
+	<MakeAmmo_40mmRocket_HE_TFuzed.jobString>Making 40mm HE Time-Fuzed rockets.</MakeAmmo_40mmRocket_HE_TFuzed.jobString>
+	
+	<!-- EN: make 40mm HEDP rockets x100 -->
+	<MakeAmmo_40mmRocket_HEDP.label>make 40mm HEDP rockets x100</MakeAmmo_40mmRocket_HEDP.label>
+	<!-- EN: Craft 100 40mm HEDP rockets. -->
+	<MakeAmmo_40mmRocket_HEDP.description>Craft 100 40mm HEDP rockets.</MakeAmmo_40mmRocket_HEDP.description>
+	<!-- EN: Making 40mm HEDP rockets. -->
+	<MakeAmmo_40mmRocket_HEDP.jobString>Making 40mm HEDP rockets.</MakeAmmo_40mmRocket_HEDP.jobString>
+	
+	<!-- EN: make 40mm EMP rockets x100 -->
+	<MakeAmmo_40mmRocket_EMP.label>make 40mm EMP rockets x100</MakeAmmo_40mmRocket_EMP.label>
+	<!-- EN: Craft 100 40mm EMP rockets. -->
+	<MakeAmmo_40mmRocket_EMP.description>Craft 100 40mm EMP rockets.</MakeAmmo_40mmRocket_EMP.description>
+	<!-- EN: Making 40mm EMP rockets. -->
+	<MakeAmmo_40mmRocket_EMP.jobString>Making 40mm EMP rockets.</MakeAmmo_40mmRocket_EMP.jobString>
+	
+	<!-- EN: make 40mm smoke rockets x100 -->
+	<MakeAmmo_40mmRocket_Smoke.label>make 40mm smoke rockets x100</MakeAmmo_40mmRocket_Smoke.label>
+	<!-- EN: Craft 100 40mm smoke rockets. -->
+	<MakeAmmo_40mmRocket_Smoke.description>Craft 100 40mm smoke rockets.</MakeAmmo_40mmRocket_Smoke.description>
+	<!-- EN: Making 40mm smoke rockets. -->
+	<MakeAmmo_40mmRocket_Smoke.jobString>Making 40mm smoke rockets.</MakeAmmo_40mmRocket_Smoke.jobString>
+</LanguageData>

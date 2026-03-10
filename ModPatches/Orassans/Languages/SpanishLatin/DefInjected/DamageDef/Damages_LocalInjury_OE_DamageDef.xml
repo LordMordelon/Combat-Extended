@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- ModPatches\Orassans\Defs\Orassans\Ammo\Damages_LocalInjury_OE.xml -->
+	<!-- EN: accelerated prometheum flame -->
+	<AprometheumFlame.label>accelerated prometheum flame</AprometheumFlame.label>
+	<!-- EN: {0} has burned to death. -->
+	<AprometheumFlame.deathMessage>{0} has burned to death.</AprometheumFlame.deathMessage>
+</LanguageData>

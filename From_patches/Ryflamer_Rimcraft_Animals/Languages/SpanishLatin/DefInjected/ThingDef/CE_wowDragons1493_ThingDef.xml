@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Ryflamer_Rimcraft_Animals\CE_wowDragons1493.xml -->
+	<!-- EN: claws -->
+	<WoW_Animal_Dragonhawk.tools.0.label>claws</WoW_Animal_Dragonhawk.tools.0.label>
+	<!-- EN: beak -->
+	<WoW_Animal_Dragonhawk.tools.1.label>beak</WoW_Animal_Dragonhawk.tools.1.label>
+	<!-- EN: head -->
+	<WoW_Animal_Dragonhawk.tools.2.label>head</WoW_Animal_Dragonhawk.tools.2.label>
+	
+	<!-- EN: claws -->
+	<WoW_Animal_FairyDragon.tools.0.label>claws</WoW_Animal_FairyDragon.tools.0.label>
+	<!-- EN: beak -->
+	<WoW_Animal_FairyDragon.tools.1.label>beak</WoW_Animal_FairyDragon.tools.1.label>
+	<!-- EN: head -->
+	<WoW_Animal_FairyDragon.tools.2.label>head</WoW_Animal_FairyDragon.tools.2.label>
+</LanguageData>

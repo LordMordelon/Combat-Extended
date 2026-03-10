@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- Defs\Ammo\Advanced\6x24mmCharged.xml -->
+	
+	<!-- EN: 6x24mm Charged -->
+	<Ammo_6x24mmCharged.label>6x24mm Charged</Ammo_6x24mmCharged.label>
+	<!-- EN: Charged shot ammo used by advanced assault rifle designs. -->
+	<Ammo_6x24mmCharged.description>Charged shot ammo used by advanced assault rifle designs.</Ammo_6x24mmCharged.description>
+	
+	<!-- EN: 6x24mm Charged (Conc.) -->
+	<Ammo_6x24mmCharged_AP.label>6x24mm Charged (Conc.)</Ammo_6x24mmCharged_AP.label>
+	<!-- EN: Charged shot ammo used by advanced assault rifle designs. -->
+	<Ammo_6x24mmCharged_AP.description>Charged shot ammo used by advanced assault rifle designs.</Ammo_6x24mmCharged_AP.description>
+	
+	<!-- EN: 6x24mm Charged (Ion) -->
+	<Ammo_6x24mmCharged_Ion.label>6x24mm Charged (Ion)</Ammo_6x24mmCharged_Ion.label>
+	<!-- EN: Charged shot ammo used by advanced assault rifle designs. -->
+	<Ammo_6x24mmCharged_Ion.description>Charged shot ammo used by advanced assault rifle designs.</Ammo_6x24mmCharged_Ion.description>
+	
+	<!-- EN: 6x24mm Charged bullet -->
+	<Bullet_6x24mmCharged.label>6x24mm Charged bullet</Bullet_6x24mmCharged.label>
+	
+	<!-- EN: 6x24mm Charged bullet (Conc.) -->
+	<Bullet_6x24mmCharged_AP.label>6x24mm Charged bullet (Conc.)</Bullet_6x24mmCharged_AP.label>
+	
+	<!-- EN: 6x24mm Charged bullet (Ion) -->
+	<Bullet_6x24mmCharged_Ion.label>6x24mm Charged bullet (Ion)</Bullet_6x24mmCharged_Ion.label>
+</LanguageData>

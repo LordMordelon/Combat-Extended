@@ -1,0 +1,35 @@
+<LanguageData>
+	<!-- ModPatches\Archotech Weaponry\Defs\Archotech Weaponry\ArchoNotAmmo.xml -->
+	<!-- EN: Archo charge pack -->
+	<Ammo_ArchoChargePack.label>Archo charge pack</Ammo_ArchoChargePack.label>
+	<!-- EN: A universal charge pack for various Archo weapons. -->
+	<Ammo_ArchoChargePack.description>A universal charge pack for various Archo weapons.</Ammo_ArchoChargePack.description>
+	<!-- EN: archotech pistol bullet -->
+	<AW_Bullet_ArchotechPistol_CE_NL.label>archotech pistol bullet</AW_Bullet_ArchotechPistol_CE_NL.label>
+	<!-- EN: archotech pistol bullet -->
+	<AW_Bullet_ArchotechPistol_CE_L.label>archotech pistol bullet</AW_Bullet_ArchotechPistol_CE_L.label>
+	<!-- EN: archotech sniper bullet -->
+	<AW_Bullet_ArchotechSniper_CE_NL.label>archotech sniper bullet</AW_Bullet_ArchotechSniper_CE_NL.label>
+	<!-- EN: archotech sniper bullet -->
+	<AW_Bullet_ArchotechSniper_CE_L.label>archotech sniper bullet</AW_Bullet_ArchotechSniper_CE_L.label>
+	<!-- EN: archotech rifle bullet -->
+	<AW_Bullet_ArchotechRifle_CE_NL.label>archotech rifle bullet</AW_Bullet_ArchotechRifle_CE_NL.label>
+	<!-- EN: archotech rifle bullet -->
+	<AW_Bullet_ArchotechRifle_CE_L.label>archotech rifle bullet</AW_Bullet_ArchotechRifle_CE_L.label>
+	<!-- EN: archotech MG bullet -->
+	<AW_Bullet_ArchotechMG_CE_NL.label>archotech MG bullet</AW_Bullet_ArchotechMG_CE_NL.label>
+	<!-- EN: archotech MG bullet -->
+	<AW_Bullet_ArchotechMG_CE_L.label>archotech MG bullet</AW_Bullet_ArchotechMG_CE_L.label>
+	<!-- EN: archotech bullet -->
+	<AW_Bullet_ArchotechShotgun_CE_NL.label>archotech bullet</AW_Bullet_ArchotechShotgun_CE_NL.label>
+	<!-- EN: archotech bullet -->
+	<AW_Bullet_ArchotechShotgun_CE_L.label>archotech bullet</AW_Bullet_ArchotechShotgun_CE_L.label>
+	<!-- EN: archotech bow arrow -->
+	<AW_Bullet_ArchotechBow_CE_NL.label>archotech bow arrow</AW_Bullet_ArchotechBow_CE_NL.label>
+	<!-- EN: archotech bow arrow -->
+	<AW_Bullet_ArchotechBow_CE_L.label>archotech bow arrow</AW_Bullet_ArchotechBow_CE_L.label>
+	<!-- EN: archotech crossbow bolt -->
+	<AW_Bullet_ArchotechCrossbow_CE_NL.label>archotech crossbow bolt</AW_Bullet_ArchotechCrossbow_CE_NL.label>
+	<!-- EN: archotech crossbow bolt -->
+	<AW_Bullet_ArchotechCrossbow_CE_L.label>archotech crossbow bolt</AW_Bullet_ArchotechCrossbow_CE_L.label>
+</LanguageData>

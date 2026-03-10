@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- ModPatches\Tox Weapons Pack\Defs\Tox Weapons Pack\Tox_ammo.xml -->
+	<!-- EN: mini-fletcher cartridge -->
+	<Ammo_410Bore_Fletcher_Tox.label>mini-fletcher cartridge</Ammo_410Bore_Fletcher_Tox.label>
+	<!-- EN: Fin-stabilized flechettes with acidifier injectors. Lethal to organics and almost useless against non-organics.\n\nTargets hit by these flechettes will be inflicted with an unstable variant of acidifier fluids, designed to dissolve the target from the inside rather than destroy their equipment. -->
+	<Ammo_410Bore_Fletcher_Tox.description>Fin-stabilized flechettes with acidifier injectors. Lethal to organics and almost useless against non-organics.\n\nTargets hit by these flechettes will be inflicted with an unstable variant of acidifier fluids, designed to dissolve the target from the inside rather than destroy their equipment.</Ammo_410Bore_Fletcher_Tox.description>
+	<!-- EN: mini-fletcher -->
+	<Bullet_410Bore_Fletcher_Tox.label>mini-fletcher</Bullet_410Bore_Fletcher_Tox.label>
+	<!-- EN: tox spinning blade -->
+	<CAT_CE_ToxSpinningBlade.label>tox spinning blade</CAT_CE_ToxSpinningBlade.label>
+	<!-- EN: persona tox spinning blade -->
+	<CAT_CE_ToxSpinningBladeBladelink.label>persona tox spinning blade</CAT_CE_ToxSpinningBladeBladelink.label>
+</LanguageData>

@@ -1,0 +1,68 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VGeneticsE\Races_Animal_EquineHybrids1829.xml -->
+	<!-- EN: left hoof -->
+	<GR_Bearhorse.tools.0.label>left hoof</GR_Bearhorse.tools.0.label>
+	<!-- EN: right hoof -->
+	<GR_Bearhorse.tools.1.label>right hoof</GR_Bearhorse.tools.1.label>
+	<!-- EN: head -->
+	<GR_Bearhorse.tools.3.label>head</GR_Bearhorse.tools.3.label>
+	
+	<!-- EN: left hoof -->
+	<GR_Boomhorse.tools.0.label>left hoof</GR_Boomhorse.tools.0.label>
+	<!-- EN: right hoof -->
+	<GR_Boomhorse.tools.1.label>right hoof</GR_Boomhorse.tools.1.label>
+	<!-- EN: head -->
+	<GR_Boomhorse.tools.3.label>head</GR_Boomhorse.tools.3.label>
+	
+	<!-- EN: left hoof -->
+	<GR_Chickenhorse.tools.0.label>left hoof</GR_Chickenhorse.tools.0.label>
+	<!-- EN: right hoof -->
+	<GR_Chickenhorse.tools.1.label>right hoof</GR_Chickenhorse.tools.1.label>
+	<!-- EN: head -->
+	<GR_Chickenhorse.tools.3.label>head</GR_Chickenhorse.tools.3.label>
+	
+	<!-- EN: left hoof-paw -->
+	<GR_Cathorse.tools.0.label>left hoof-paw</GR_Cathorse.tools.0.label>
+	<!-- EN: right hoof-paw -->
+	<GR_Cathorse.tools.1.label>right hoof-paw</GR_Cathorse.tools.1.label>
+	<!-- EN: head -->
+	<GR_Cathorse.tools.3.label>head</GR_Cathorse.tools.3.label>
+	
+	<!-- EN: left hoof -->
+	<GR_Molehorse.tools.0.label>left hoof</GR_Molehorse.tools.0.label>
+	<!-- EN: right hoof -->
+	<GR_Molehorse.tools.1.label>right hoof</GR_Molehorse.tools.1.label>
+	<!-- EN: head -->
+	<GR_Molehorse.tools.3.label>head</GR_Molehorse.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<GR_Wolfhorse.tools.0.label>left claw</GR_Wolfhorse.tools.0.label>
+	<!-- EN: right claw -->
+	<GR_Wolfhorse.tools.1.label>right claw</GR_Wolfhorse.tools.1.label>
+	<!-- EN: head -->
+	<GR_Wolfhorse.tools.3.label>head</GR_Wolfhorse.tools.3.label>
+	
+	<!-- EN: head -->
+	<GR_Muffalohorse.tools.1.label>head</GR_Muffalohorse.tools.1.label>
+	<!-- EN: left hoof -->
+	<GR_Muffalohorse.tools.2.label>left hoof</GR_Muffalohorse.tools.2.label>
+	<!-- EN: right hoof -->
+	<GR_Muffalohorse.tools.3.label>right hoof</GR_Muffalohorse.tools.3.label>
+	
+	<!-- EN: bite -->
+	<GR_Crocorse.tools.0.label>bite</GR_Crocorse.tools.0.label>
+	<!-- EN: left hoof -->
+	<GR_Crocorse.tools.1.label>left hoof</GR_Crocorse.tools.1.label>
+	<!-- EN: right hoof -->
+	<GR_Crocorse.tools.2.label>right hoof</GR_Crocorse.tools.2.label>
+	
+	<!-- EN: head -->
+	<GR_Spiderhorse.tools.1.label>head</GR_Spiderhorse.tools.1.label>
+	
+	<!-- EN: left hoof -->
+	<GR_Hurseman.tools.0.label>left hoof</GR_Hurseman.tools.0.label>
+	<!-- EN: right hoof -->
+	<GR_Hurseman.tools.1.label>right hoof</GR_Hurseman.tools.1.label>
+	<!-- EN: head -->
+	<GR_Hurseman.tools.3.label>head</GR_Hurseman.tools.3.label>
+</LanguageData>

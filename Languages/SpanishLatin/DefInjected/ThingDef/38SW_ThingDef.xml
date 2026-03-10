@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- Defs\Ammo\Pistols\38SW.xml -->
+	
+	<!-- EN: .38 S&amp;W (FMJ) -->
+	<Ammo_38SW_FMJ.label>.38 S&amp;W (FMJ)</Ammo_38SW_FMJ.label>
+	<!-- EN: Low caliber handgun cartridge used mostly in revolvers. -->
+	<Ammo_38SW_FMJ.description>Low caliber handgun cartridge used mostly in revolvers.</Ammo_38SW_FMJ.description>
+	
+	<!-- EN: .38 S&amp;W (AP) -->
+	<Ammo_38SW_AP.label>.38 S&amp;W (AP)</Ammo_38SW_AP.label>
+	<!-- EN: Low caliber handgun cartridge used mostly in revolvers. -->
+	<Ammo_38SW_AP.description>Low caliber handgun cartridge used mostly in revolvers.</Ammo_38SW_AP.description>
+	
+	<!-- EN: .38 S&amp;W (HP) -->
+	<Ammo_38SW_HP.label>.38 S&amp;W (HP)</Ammo_38SW_HP.label>
+	<!-- EN: Low caliber handgun cartridge used mostly in revolvers. -->
+	<Ammo_38SW_HP.description>Low caliber handgun cartridge used mostly in revolvers.</Ammo_38SW_HP.description>
+	
+	<!-- EN: .38 S&amp;W bullet (FMJ) -->
+	<Bullet_38SW_FMJ.label>.38 S&amp;W bullet (FMJ)</Bullet_38SW_FMJ.label>
+	
+	<!-- EN: .38 S&amp;W bullet (AP) -->
+	<Bullet_38SW_AP.label>.38 S&amp;W bullet (AP)</Bullet_38SW_AP.label>
+	
+	<!-- EN: .38 S&amp;W bullet (HP) -->
+	<Bullet_38SW_HP.label>.38 S&amp;W bullet (HP)</Bullet_38SW_HP.label>
+</LanguageData>

@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla Factions Expanded - Empire\Defs\Vanilla Factions Expanded - Empire\Ammo\FletcherRifleRound.xml -->
+	
+	<!-- EN: fletcher cartridge -->
+	<Ammo_FletcherDart.label>fletcher cartridge</Ammo_FletcherDart.label>
+	<!-- EN: Fin-stabilized flechettes with acidifier injectors. Lethal to organics and almost useless against non-organics.\n\nTargets hit by these flechettes will be inflicted with an unstable variant of acidifier fluids, designed to dissolve the target from the inside rather than destroy their equipment. -->
+	<Ammo_FletcherDart.description>Fin-stabilized flechettes with acidifier injectors. Lethal to organics and almost useless against non-organics.\n\nTargets hit by these flechettes will be inflicted with an unstable variant of acidifier fluids, designed to dissolve the target from the inside rather than destroy their equipment.</Ammo_FletcherDart.description>
+	
+	<!-- EN: fletcher dart -->
+	<Bullet_FletcherDart.label>fletcher dart</Bullet_FletcherDart.label>
+</LanguageData>

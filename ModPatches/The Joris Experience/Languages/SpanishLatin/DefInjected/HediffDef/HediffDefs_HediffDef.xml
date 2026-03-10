@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- ModPatches\The Joris Experience\Defs\HediffDefs.xml -->
+	<!-- EN: This creature bleeds very little. -->
+	<JJ_LowBleed.description>This creature bleeds very little.</JJ_LowBleed.description>
+	<!-- EN: Regen factor -->
+	<JJ_LowBleed.label>Regen factor</JJ_LowBleed.label>
+</LanguageData>

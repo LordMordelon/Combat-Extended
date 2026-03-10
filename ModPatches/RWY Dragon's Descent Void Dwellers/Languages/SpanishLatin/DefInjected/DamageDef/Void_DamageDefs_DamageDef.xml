@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- ModPatches\RWY Dragon's Descent Void Dwellers\Defs\RWY Dragon's Descent Void Dwellers\DamageDefs\Void_DamageDefs.xml -->
+	<!-- EN: The void -->
+	<Void_Bomb.label>The void</Void_Bomb.label>
+	<!-- EN: {0} is consumed by the void. -->
+	<Void_Bomb.deathMessage>{0} is consumed by the void.</Void_Bomb.deathMessage>
+	
+	<!-- EN: Molten -->
+	<Void_Arururu.label>Molten</Void_Arururu.label>
+	<!-- EN: {0} is moltened. -->
+	<Void_Arururu.deathMessage>{0} is moltened.</Void_Arururu.deathMessage>
+	
+	<!-- EN: Molten -->
+	<Void_Molten.label>Molten</Void_Molten.label>
+	<!-- EN: {0} is moltened. -->
+	<Void_Molten.deathMessage>{0} is moltened.</Void_Molten.deathMessage>
+</LanguageData>

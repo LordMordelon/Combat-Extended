@@ -1,0 +1,35 @@
+<LanguageData>
+	<!-- Defs\Ammo\Shotgun\20Gauge.xml -->
+	
+	<!-- EN: 20 gauge shell (Buck) -->
+	<Ammo_20Gauge_Buck.label>20 gauge shell (Buck)</Ammo_20Gauge_Buck.label>
+	<!-- EN: Very common shotgun caliber used mostly for hunting. -->
+	<Ammo_20Gauge_Buck.description>Very common shotgun caliber used mostly for hunting.</Ammo_20Gauge_Buck.description>
+	
+	<!-- EN: 20 gauge shell (Slug) -->
+	<Ammo_20Gauge_Slug.label>20 gauge shell (Slug)</Ammo_20Gauge_Slug.label>
+	<!-- EN: Very common shotgun caliber used mostly for hunting. -->
+	<Ammo_20Gauge_Slug.description>Very common shotgun caliber used mostly for hunting.</Ammo_20Gauge_Slug.description>
+	
+	<!-- EN: 20 gauge shell (Bean) -->
+	<Ammo_20Gauge_Beanbag.label>20 gauge shell (Bean)</Ammo_20Gauge_Beanbag.label>
+	<!-- EN: Very common shotgun caliber used mostly for hunting. -->
+	<Ammo_20Gauge_Beanbag.description>Very common shotgun caliber used mostly for hunting.</Ammo_20Gauge_Beanbag.description>
+	
+	<!-- EN: 20 gauge shell (EMP) -->
+	<Ammo_20Gauge_ElectroSlug.label>20 gauge shell (EMP)</Ammo_20Gauge_ElectroSlug.label>
+	<!-- EN: Very common shotgun caliber used mostly for hunting. -->
+	<Ammo_20Gauge_ElectroSlug.description>Very common shotgun caliber used mostly for hunting.</Ammo_20Gauge_ElectroSlug.description>
+	
+	<!-- EN: buckshot pellet -->
+	<Bullet_20Gauge_Buck.label>buckshot pellet</Bullet_20Gauge_Buck.label>
+	
+	<!-- EN: shotgun slug -->
+	<Bullet_20Gauge_Slug.label>shotgun slug</Bullet_20Gauge_Slug.label>
+	
+	<!-- EN: beanbag -->
+	<Bullet_20Gauge_Beanbag.label>beanbag</Bullet_20Gauge_Beanbag.label>
+	
+	<!-- EN: EMP slug -->
+	<Bullet_20Gauge_ElectroSlug.label>EMP slug</Bullet_20Gauge_ElectroSlug.label>
+</LanguageData>

@@ -1,0 +1,23 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\shakesthespeare_RimsecSecurity\WeaponDefs1462.xml -->
+	<!-- EN: stock -->
+	<RSWeaponDLG.tools.0.label>stock</RSWeaponDLG.tools.0.label>
+	<!-- EN: barrel -->
+	<RSWeaponDLG.tools.1.label>barrel</RSWeaponDLG.tools.1.label>
+	<!-- EN: muzzle -->
+	<RSWeaponDLG.tools.2.label>muzzle</RSWeaponDLG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RSWeaponEHG.tools.0.label>stock</RSWeaponEHG.tools.0.label>
+	<!-- EN: barrel -->
+	<RSWeaponEHG.tools.1.label>barrel</RSWeaponEHG.tools.1.label>
+	<!-- EN: muzzle -->
+	<RSWeaponEHG.tools.2.label>muzzle</RSWeaponEHG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RSWeaponSHAG.tools.0.label>stock</RSWeaponSHAG.tools.0.label>
+	<!-- EN: barrel -->
+	<RSWeaponSHAG.tools.1.label>barrel</RSWeaponSHAG.tools.1.label>
+	<!-- EN: muzzle -->
+	<RSWeaponSHAG.tools.2.label>muzzle</RSWeaponSHAG.tools.2.label>
+</LanguageData>

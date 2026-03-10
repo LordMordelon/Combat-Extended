@@ -1,0 +1,31 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\TheSimpleDude42_ToolsOPlenty\ToolsOPLentyElectricCE1674.xml -->
+	<!-- EN: head -->
+	<Mixer.tools.0.label>head</Mixer.tools.0.label>
+	<!-- EN: handle -->
+	<Drill.tools.0.label>handle</Drill.tools.0.label>
+	<!-- EN: point -->
+	<Drill.tools.1.label>point</Drill.tools.1.label>
+	<!-- EN: handle -->
+	<Sander.tools.0.label>handle</Sander.tools.0.label>
+	<!-- EN: handle -->
+	<Rock_Drill.tools.0.label>handle</Rock_Drill.tools.0.label>
+	<!-- EN: point -->
+	<Rock_Drill.tools.1.label>point</Rock_Drill.tools.1.label>
+	<!-- EN: handle -->
+	<Chainsaw.tools.0.label>handle</Chainsaw.tools.0.label>
+	<!-- EN: blade -->
+	<Chainsaw.tools.1.label>blade</Chainsaw.tools.1.label>
+	<!-- EN: handle -->
+	<Industrial_Tool_set.tools.0.label>handle</Industrial_Tool_set.tools.0.label>
+	<!-- EN: handle -->
+	<Document_briefcase.tools.0.label>handle</Document_briefcase.tools.0.label>
+	<!-- EN: handle -->
+	<Vacuum_cleaner.tools.0.label>handle</Vacuum_cleaner.tools.0.label>
+	<!-- EN: blade -->
+	<Electric_Shears.tools.0.label>blade</Electric_Shears.tools.0.label>
+	<!-- EN: handle -->
+	<Electric_Shears.tools.1.label>handle</Electric_Shears.tools.1.label>
+	<!-- EN: handle -->
+	<Drilling_pad.tools.0.label>handle</Drilling_pad.tools.0.label>
+</LanguageData>

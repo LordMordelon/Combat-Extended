@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Orassans\Defs\Orassans\Ammo\12mm-subsonicRailgunOE.xml -->
+	<!-- EN: 12mm subsonic Railgun cartridge (Sabot:OE) -->
+	<Ammo_12mmsubsonicRailgun_SabotOE.label>12mm subsonic Railgun cartridge (Sabot:OE)</Ammo_12mmsubsonicRailgun_SabotOE.label>
+	<!-- EN: Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for high calibar subsonic railguns. -->
+	<Ammo_12mmsubsonicRailgun_SabotOE.description>Fin-stabilized tungsten carbide penetrator with discarding sabot, designed for high calibar subsonic railguns.</Ammo_12mmsubsonicRailgun_SabotOE.description>
+	<!-- EN: 12mm subsonic Railgun bullet (Sabot:OE) -->
+	<Bullet_12mmsubsonicRailgun_SabotOE.label>12mm subsonic Railgun bullet (Sabot:OE)</Bullet_12mmsubsonicRailgun_SabotOE.label>
+</LanguageData>

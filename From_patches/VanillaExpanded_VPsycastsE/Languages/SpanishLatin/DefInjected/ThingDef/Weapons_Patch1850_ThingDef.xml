@@ -1,0 +1,21 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VPsycastsE\Weapons_Patch1850.xml -->
+	<!-- EN: handle -->
+	<VPE_MeleeWeapon_EltexDagger.tools.0.label>handle</VPE_MeleeWeapon_EltexDagger.tools.0.label>
+	<!-- EN: point -->
+	<VPE_MeleeWeapon_EltexDagger.tools.1.label>point</VPE_MeleeWeapon_EltexDagger.tools.1.label>
+	<!-- EN: edge -->
+	<VPE_MeleeWeapon_EltexDagger.tools.2.label>edge</VPE_MeleeWeapon_EltexDagger.tools.2.label>
+	
+	<!-- EN: handle -->
+	<VPE_MeleeWeapon_EltexMace.tools.0.label>handle</VPE_MeleeWeapon_EltexMace.tools.0.label>
+	<!-- EN: head -->
+	<VPE_MeleeWeapon_EltexMace.tools.1.label>head</VPE_MeleeWeapon_EltexMace.tools.1.label>
+	
+	<!-- EN: handle -->
+	<VPE_MeleeWeapon_EltexSword.tools.0.label>handle</VPE_MeleeWeapon_EltexSword.tools.0.label>
+	<!-- EN: point -->
+	<VPE_MeleeWeapon_EltexSword.tools.1.label>point</VPE_MeleeWeapon_EltexSword.tools.1.label>
+	<!-- EN: edge -->
+	<VPE_MeleeWeapon_EltexSword.tools.2.label>edge</VPE_MeleeWeapon_EltexSword.tools.2.label>
+</LanguageData>

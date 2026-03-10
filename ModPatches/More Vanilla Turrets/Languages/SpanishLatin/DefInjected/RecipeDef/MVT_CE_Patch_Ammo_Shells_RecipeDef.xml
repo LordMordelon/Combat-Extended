@@ -1,0 +1,10 @@
+<LanguageData>
+	<!-- ModPatches\More Vanilla Turrets\Defs\More Vanilla Turrets\MVT_CE_Patch_Ammo_Shells.xml -->
+	
+	<!-- EN: make 81mm Plasma mortar shells x5 -->
+	<MakeShell_Plasma.label>make 81mm Plasma mortar shells x5</MakeShell_Plasma.label>
+	<!-- EN: Craft 5 81mm Plasma mortar shells. -->
+	<MakeShell_Plasma.description>Craft 5 81mm Plasma mortar shells.</MakeShell_Plasma.description>
+	<!-- EN: Making 81mm Plasma mortar shells. -->
+	<MakeShell_Plasma.jobString>Making 81mm Plasma mortar shells.</MakeShell_Plasma.jobString>
+</LanguageData>

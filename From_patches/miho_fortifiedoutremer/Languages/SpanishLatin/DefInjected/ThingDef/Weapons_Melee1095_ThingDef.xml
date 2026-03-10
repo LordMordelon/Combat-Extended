@@ -1,0 +1,45 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\miho_fortifiedoutremer\Weapons_Melee1095.xml -->
+	<!-- EN: point -->
+	<Miho_Weapon_PowerClaw.tools.0.label>point</Miho_Weapon_PowerClaw.tools.0.label>
+	<!-- EN: edge -->
+	<Miho_Weapon_PowerClaw.tools.1.label>edge</Miho_Weapon_PowerClaw.tools.1.label>
+	
+	<!-- EN: handle -->
+	<Miho_Weapon_RingedBlade.tools.0.label>handle</Miho_Weapon_RingedBlade.tools.0.label>
+	<!-- EN: point -->
+	<Miho_Weapon_RingedBlade.tools.1.label>point</Miho_Weapon_RingedBlade.tools.1.label>
+	<!-- EN: edge -->
+	<Miho_Weapon_RingedBlade.tools.2.label>edge</Miho_Weapon_RingedBlade.tools.2.label>
+	
+	<!-- EN: handle -->
+	<Miho_Weapon_Tachi.tools.0.label>handle</Miho_Weapon_Tachi.tools.0.label>
+	<!-- EN: point -->
+	<Miho_Weapon_Tachi.tools.1.label>point</Miho_Weapon_Tachi.tools.1.label>
+	<!-- EN: edge -->
+	<Miho_Weapon_Tachi.tools.2.label>edge</Miho_Weapon_Tachi.tools.2.label>
+	
+	<!-- EN: head -->
+	<Miho_Weapon_Sappertool.tools.0.label>head</Miho_Weapon_Sappertool.tools.0.label>
+	
+	<!-- EN: head -->
+	<Miho_Weapon_PowerHammer.tools.0.label>head</Miho_Weapon_PowerHammer.tools.0.label>
+	
+	<!-- EN: handle -->
+	<Miho_Weapon_PlasmaTachi.tools.0.label>handle</Miho_Weapon_PlasmaTachi.tools.0.label>
+	<!-- EN: edge -->
+	<Miho_Weapon_PlasmaTachi.tools.1.label>edge</Miho_Weapon_PlasmaTachi.tools.1.label>
+	<!-- EN: point -->
+	<Miho_Weapon_PlasmaTachi.tools.2.label>point</Miho_Weapon_PlasmaTachi.tools.2.label>
+	
+	<!-- EN: blade -->
+	<Miho_Weapon_EltexAxe.tools.0.label>blade</Miho_Weapon_EltexAxe.tools.0.label>
+	<!-- EN: point -->
+	<Miho_Weapon_EltexAxe.tools.1.label>point</Miho_Weapon_EltexAxe.tools.1.label>
+	
+	<!-- EN: head -->
+	<Miho_Weapon_EltexA.tools.0.label>head</Miho_Weapon_EltexA.tools.0.label>
+	
+	<!-- EN: head -->
+	<Miho_Weapon_EltexB.tools.0.label>head</Miho_Weapon_EltexB.tools.0.label>
+</LanguageData>

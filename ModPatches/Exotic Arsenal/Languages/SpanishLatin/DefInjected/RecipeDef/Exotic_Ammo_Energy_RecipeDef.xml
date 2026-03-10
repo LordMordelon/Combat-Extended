@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- ModPatches\Exotic Arsenal\Defs\Exotic Arsenal\Exotic_Ammo_Energy.xml -->
+	<!-- EN: make exotic energy cell x100 -->
+	<MakeAmmo_Exotic_Energy.label>make exotic energy cell x100</MakeAmmo_Exotic_Energy.label>
+	<!-- EN: Craft 100 exotic energy cell. -->
+	<MakeAmmo_Exotic_Energy.description>Craft 100 exotic energy cell.</MakeAmmo_Exotic_Energy.description>
+	<!-- EN: Making exotic energy cell. -->
+	<MakeAmmo_Exotic_Energy.jobString>Making exotic energy cell.</MakeAmmo_Exotic_Energy.jobString>
+	<!-- EN: make overcharged exotic energy cell x100 -->
+	<MakeAmmo_Exotic_Energy_HI.label>make overcharged exotic energy cell x100</MakeAmmo_Exotic_Energy_HI.label>
+	<!-- EN: Craft 100 overcharged exotic energy cell. -->
+	<MakeAmmo_Exotic_Energy_HI.description>Craft 100 overcharged exotic energy cell.</MakeAmmo_Exotic_Energy_HI.description>
+	<!-- EN: Making overcharged exotic energy cell. -->
+	<MakeAmmo_Exotic_Energy_HI.jobString>Making overcharged exotic energy cell.</MakeAmmo_Exotic_Energy_HI.jobString>
+</LanguageData>

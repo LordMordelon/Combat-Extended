@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- ModPatches\LF Red Dawn\Defs\LF Red Dawn\RPG29.xml -->
+	
+	<!-- EN: PG-29V grenade (HEAT) -->
+	<Ammo_RPG29_HEAT.label>PG-29V grenade (HEAT)</Ammo_RPG29_HEAT.label>
+	<!-- EN: Rocket propelled grenades for use in RPG-29. -->
+	<Ammo_RPG29_HEAT.description>Rocket propelled grenades for use in RPG-29.</Ammo_RPG29_HEAT.description>
+	
+	<!-- EN: TPG-29V grenade (Thermobaric) -->
+	<Ammo_RPG29_Thermobaric.label>TPG-29V grenade (Thermobaric)</Ammo_RPG29_Thermobaric.label>
+	<!-- EN: Rocket propelled grenades for use in RPG-29. -->
+	<Ammo_RPG29_Thermobaric.description>Rocket propelled grenades for use in RPG-29.</Ammo_RPG29_Thermobaric.description>
+	
+	<!-- EN: PG-29V (HEAT) -->
+	<Bullet_RPG29_HEAT.label>PG-29V (HEAT)</Bullet_RPG29_HEAT.label>
+	
+	<!-- EN: TPG-29V grenade (Thermobaric) -->
+	<Bullet_RPG29_Thermobaric.label>TPG-29V grenade (Thermobaric)</Bullet_RPG29_Thermobaric.label>
+</LanguageData>

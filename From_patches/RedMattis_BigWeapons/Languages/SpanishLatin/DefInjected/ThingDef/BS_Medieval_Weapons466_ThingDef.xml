@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\RedMattis_BigWeapons\BS_Medieval_Weapons466.xml -->
+	<!-- EN: handle -->
+	<BS_GiantMedievalHammer.tools.0.label>handle</BS_GiantMedievalHammer.tools.0.label>
+	<!-- EN: head -->
+	<BS_GiantMedievalHammer.tools.1.label>head</BS_GiantMedievalHammer.tools.1.label>
+	
+	<!-- EN: handle -->
+	<BS_GiantScythe.tools.0.label>handle</BS_GiantScythe.tools.0.label>
+	<!-- EN: point -->
+	<BS_GiantScythe.tools.1.label>point</BS_GiantScythe.tools.1.label>
+	<!-- EN: edge -->
+	<BS_GiantScythe.tools.2.label>edge</BS_GiantScythe.tools.2.label>
+	
+	<!-- EN: handle -->
+	<BS_OniClub.tools.0.label>handle</BS_OniClub.tools.0.label>
+	<!-- EN: head -->
+	<BS_OniClub.tools.1.label>head</BS_OniClub.tools.1.label>
+</LanguageData>

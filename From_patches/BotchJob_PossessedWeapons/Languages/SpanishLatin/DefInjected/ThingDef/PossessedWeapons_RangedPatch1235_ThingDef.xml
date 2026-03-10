@@ -1,0 +1,38 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\BotchJob_PossessedWeapons\PossessedWeapons_RangedPatch1235.xml -->
+	<!-- EN: handle -->
+	<BotchJob_PossessedLightningJavelin.tools.0.label>handle</BotchJob_PossessedLightningJavelin.tools.0.label>
+	<!-- EN: point -->
+	<BotchJob_PossessedLightningJavelin.tools.1.label>point</BotchJob_PossessedLightningJavelin.tools.1.label>
+	<!-- EN: A large, lightning infused spear that is deadly in close quarters but can also be thrown to produce an EMP burst on impact.\n\nThe electricity coursing through this weapon will energize its wielder, increasing their movement speed. The downside of this is that being constantly energized makes it difficult to sleep and as such, the wielder's rest rate will be slower.\n\nThis weapon is possessed by an ancient spirit and will exhibit some of their traits. The spirit will bond with the first person to wield it and thereafter, refuse to be wielded by anyone else.\n\nWhen wielded by the bonded person, the spirit will augment their combat abilities, allowing them to attack with greater ferocity, speed and accuracy than ever before. The spirit of the lightning javelin is temperamental and will depart once thrown. -->
+	<BotchJob_PossessedLightningJavelin.description>A large, lightning infused spear that is deadly in close quarters but can also be thrown to produce an EMP burst on impact.\n\nThe electricity coursing through this weapon will energize its wielder, increasing their movement speed. The downside of this is that being constantly energized makes it difficult to sleep and as such, the wielder's rest rate will be slower.\n\nThis weapon is possessed by an ancient spirit and will exhibit some of their traits. The spirit will bond with the first person to wield it and thereafter, refuse to be wielded by anyone else.\n\nWhen wielded by the bonded person, the spirit will augment their combat abilities, allowing them to attack with greater ferocity, speed and accuracy than ever before. The spirit of the lightning javelin is temperamental and will depart once thrown.</BotchJob_PossessedLightningJavelin.description>
+	
+	<!-- EN: limb -->
+	<BotchJob_PossessedArchmageStaff.tools.0.label>limb</BotchJob_PossessedArchmageStaff.tools.0.label>
+	
+	<!-- EN: stock -->
+	<BotchJob_PossessedGildedArquebus.tools.0.label>stock</BotchJob_PossessedGildedArquebus.tools.0.label>
+	<!-- EN: barrel -->
+	<BotchJob_PossessedGildedArquebus.tools.1.label>barrel</BotchJob_PossessedGildedArquebus.tools.1.label>
+	<!-- EN: muzzle -->
+	<BotchJob_PossessedGildedArquebus.tools.2.label>muzzle</BotchJob_PossessedGildedArquebus.tools.2.label>
+	
+	<!-- EN: A deadly dagger favoured by assassins and rogues.\n\nIn skilled hands it can deliver a lightning fast flurry of stabs and slashes and can also be thrown short distances, ideal for finishing off fleeing opponents.\n\nIt allows the wielder to remain light on their feet, increasing their melee dodge chance and reducing the chances of them triggering hidden traps.\n\nThis weapon is possessed by an ancient spirit and will exhibit some of their traits. The spirit will bond with the first person to wield it and thereafter, refuse to be wielded by anyone else.\n\nWhen wielded by the bonded person, the spirit will augment their combat abilities, allowing them to attack with greater ferocity, speed and accuracy than ever before. When thrown the spirit will enhance the dagger one last time before departing. -->
+	<BotchJob_PossessedShroudedDagger.description>A deadly dagger favoured by assassins and rogues.\n\nIn skilled hands it can deliver a lightning fast flurry of stabs and slashes and can also be thrown short distances, ideal for finishing off fleeing opponents.\n\nIt allows the wielder to remain light on their feet, increasing their melee dodge chance and reducing the chances of them triggering hidden traps.\n\nThis weapon is possessed by an ancient spirit and will exhibit some of their traits. The spirit will bond with the first person to wield it and thereafter, refuse to be wielded by anyone else.\n\nWhen wielded by the bonded person, the spirit will augment their combat abilities, allowing them to attack with greater ferocity, speed and accuracy than ever before. When thrown the spirit will enhance the dagger one last time before departing.</BotchJob_PossessedShroudedDagger.description>
+	<!-- EN: Throw shrouded dagger -->
+	<BotchJob_PossessedShroudedDagger.Properties.label>Throw shrouded dagger</BotchJob_PossessedShroudedDagger.Properties.label>
+	<!-- EN: handle -->
+	<BotchJob_PossessedShroudedDagger.tools.0.label>handle</BotchJob_PossessedShroudedDagger.tools.0.label>
+	<!-- EN: blade -->
+	<BotchJob_PossessedShroudedDagger.tools.1.label>blade</BotchJob_PossessedShroudedDagger.tools.1.label>
+	<!-- EN: point -->
+	<BotchJob_PossessedShroudedDagger.tools.2.label>point</BotchJob_PossessedShroudedDagger.tools.2.label>
+	
+	<!-- EN: grip -->
+	<BotchJob_PossessedGhostlyFlintlock.tools.0.label>grip</BotchJob_PossessedGhostlyFlintlock.tools.0.label>
+	<!-- EN: Crystal blade -->
+	<BotchJob_PossessedGhostlyFlintlock.tools.1.label>Crystal blade</BotchJob_PossessedGhostlyFlintlock.tools.1.label>
+	
+	<!-- EN: fist -->
+	<BotchJob_PossessedEarthenGauntlet.tools.0.label>fist</BotchJob_PossessedEarthenGauntlet.tools.0.label>
+</LanguageData>

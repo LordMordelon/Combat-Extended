@@ -1,0 +1,24 @@
+<LanguageData>
+	<!-- ModPatches\Medieval Overhaul\Defs\Medieval Overhaul\Ammo\MO_Ammo_Catapult.xml -->
+	
+	<!-- EN: Cutting stone blocks from chunk. -->
+	<MakeAmmo_Catapult_BoulderBulk.jobString>Cutting stone blocks from chunk.</MakeAmmo_Catapult_BoulderBulk.jobString>
+	<!-- EN: cut stone chunk into boulder x5 -->
+	<MakeAmmo_Catapult_BoulderBulk.label>cut stone chunk into boulder x5</MakeAmmo_Catapult_BoulderBulk.label>
+	<!-- EN: Cuts a stone chunk down to size to be thrown by a siege engine. -->
+	<MakeAmmo_Catapult_BoulderBulk.description>Cuts a stone chunk down to size to be thrown by a siege engine.</MakeAmmo_Catapult_BoulderBulk.description>
+	
+	<!-- EN: Cutting stone blocks from chunk. -->
+	<MakeAmmo_Catapult_TarBoulder.jobString>Cutting stone blocks from chunk.</MakeAmmo_Catapult_TarBoulder.jobString>
+	<!-- EN: tar a stone boulder -->
+	<MakeAmmo_Catapult_TarBoulder.label>tar a stone boulder</MakeAmmo_Catapult_TarBoulder.label>
+	<!-- EN: Cuts a stone chunk down to size and covers in tar to be thrown by a siege engine. -->
+	<MakeAmmo_Catapult_TarBoulder.description>Cuts a stone chunk down to size and covers in tar to be thrown by a siege engine.</MakeAmmo_Catapult_TarBoulder.description>
+	
+	<!-- EN: Cutting stone blocks from chunk. -->
+	<MakeAmmo_Catapult_TarBoulderBulk.jobString>Cutting stone blocks from chunk.</MakeAmmo_Catapult_TarBoulderBulk.jobString>
+	<!-- EN: tar a stone boulder x5 -->
+	<MakeAmmo_Catapult_TarBoulderBulk.label>tar a stone boulder x5</MakeAmmo_Catapult_TarBoulderBulk.label>
+	<!-- EN: Cuts a stone chunk down to size and covers in tar to be thrown by a siege engine. -->
+	<MakeAmmo_Catapult_TarBoulderBulk.description>Cuts a stone chunk down to size and covers in tar to be thrown by a siege engine.</MakeAmmo_Catapult_TarBoulderBulk.description>
+</LanguageData>

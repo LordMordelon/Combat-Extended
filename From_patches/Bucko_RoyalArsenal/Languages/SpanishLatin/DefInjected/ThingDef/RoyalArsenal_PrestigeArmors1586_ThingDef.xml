@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Bucko_RoyalArsenal\RoyalArsenal_PrestigeArmors1586.xml -->
+	<!-- EN: launch 30x29mm EMP grenade -->
+	<RA_GuardianArmorBase_Prestige.verbs.0.label>launch 30x29mm EMP grenade</RA_GuardianArmorBase_Prestige.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<RA_GuardianArmorBase_Prestige.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>ㅤ</RA_GuardianArmorBase_Prestige.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>
+</LanguageData>

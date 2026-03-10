@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\BlackMarket420_Kerberos\Kerb_CE_Heavy949.xml -->
+	<!-- EN: stock -->
+	<Gun_PanzerJager_MG.tools.0.label>stock</Gun_PanzerJager_MG.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_PanzerJager_MG.tools.1.label>barrel</Gun_PanzerJager_MG.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_PanzerJager_MG.tools.2.label>muzzle</Gun_PanzerJager_MG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_JinRoh_MG.tools.0.label>stock</Gun_JinRoh_MG.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_JinRoh_MG.tools.1.label>barrel</Gun_JinRoh_MG.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_JinRoh_MG.tools.2.label>muzzle</Gun_JinRoh_MG.tools.2.label>
+</LanguageData>

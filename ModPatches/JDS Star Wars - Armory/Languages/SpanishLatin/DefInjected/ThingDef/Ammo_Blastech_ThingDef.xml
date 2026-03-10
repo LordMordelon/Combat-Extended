@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- ModPatches\JDS Star Wars - Armory\Defs\JDS Star Wars - Armory\Ammo_Blastech.xml -->
+	<!-- EN: Blaster Bolt -->
+	<Bullet_SWPlasmaGasCartridgeYellow.label>Blaster Bolt</Bullet_SWPlasmaGasCartridgeYellow.label>
+	<!-- EN: blaster bolt -->
+	<Bullet_Blaster_Blue_Mid.label>blaster bolt</Bullet_Blaster_Blue_Mid.label>
+	<!-- EN: blaster bolt -->
+	<Bullet_Blaster_Blue_High.label>blaster bolt</Bullet_Blaster_Blue_High.label>
+	<!-- EN: blaster bolt -->
+	<Bullet_Blaster_Blue_Low.label>blaster bolt</Bullet_Blaster_Blue_Low.label>
+	<!-- EN: blaster bolt -->
+	<Bullet_Blaster_Red_Low.label>blaster bolt</Bullet_Blaster_Red_Low.label>
+	<!-- EN: blaster bolt -->
+	<Bullet_Blaster_Red_Mid.label>blaster bolt</Bullet_Blaster_Red_Mid.label>
+	<!-- EN: blaster bolt -->
+	<Bullet_Blaster_Red_High.label>blaster bolt</Bullet_Blaster_Red_High.label>
+	<!-- EN: b-2 droid wrist cannon shot -->
+	<Bullet_B2Cannon.label>b-2 droid wrist cannon shot</Bullet_B2Cannon.label>
+</LanguageData>

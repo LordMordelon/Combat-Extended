@@ -1,0 +1,51 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Recipe\556x45mmNATO-Punched.xml -->
+	
+	<!-- EN: 5.56x45mm NATO cartridge (FMJ) (Punched) -->
+	<Ammo_556x45mmNATO_FMJ_Punched.label>5.56x45mm NATO cartridge (FMJ) (Punched)</Ammo_556x45mmNATO_FMJ_Punched.label>
+	<!-- EN: Small, high-velocity rifle bullet used in a variety of assault rifles. -->
+	<Ammo_556x45mmNATO_FMJ_Punched.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_556x45mmNATO_FMJ_Punched.description>
+	
+	<!-- EN: 5.56x45mm NATO cartridge (AP) (Punched) -->
+	<Ammo_556x45mmNATO_AP_Punched.label>5.56x45mm NATO cartridge (AP) (Punched)</Ammo_556x45mmNATO_AP_Punched.label>
+	<!-- EN: Small, high-velocity rifle bullet used in a variety of assault rifles. -->
+	<Ammo_556x45mmNATO_AP_Punched.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_556x45mmNATO_AP_Punched.description>
+	
+	<!-- EN: 5.56x45mm NATO cartridge (HP) (Punched) -->
+	<Ammo_556x45mmNATO_HP_Punched.label>5.56x45mm NATO cartridge (HP) (Punched)</Ammo_556x45mmNATO_HP_Punched.label>
+	<!-- EN: Small, high-velocity rifle bullet used in a variety of assault rifles. -->
+	<Ammo_556x45mmNATO_HP_Punched.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_556x45mmNATO_HP_Punched.description>
+	
+	<!-- EN: 5.56x45mm NATO cartridge (AP-I) (Punched) -->
+	<Ammo_556x45mmNATO_Incendiary_Punched.label>5.56x45mm NATO cartridge (AP-I) (Punched)</Ammo_556x45mmNATO_Incendiary_Punched.label>
+	<!-- EN: Small, high-velocity rifle bullet used in a variety of assault rifles. -->
+	<Ammo_556x45mmNATO_Incendiary_Punched.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_556x45mmNATO_Incendiary_Punched.description>
+	
+	<!-- EN: 5.56x45mm NATO cartridge (HE) (Punched) -->
+	<Ammo_556x45mmNATO_HE_Punched.label>5.56x45mm NATO cartridge (HE) (Punched)</Ammo_556x45mmNATO_HE_Punched.label>
+	<!-- EN: Small, high-velocity rifle bullet used in a variety of assault rifles. -->
+	<Ammo_556x45mmNATO_HE_Punched.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_556x45mmNATO_HE_Punched.description>
+	
+	<!-- EN: 5.56x45mm NATO cartridge (Sabot) (Punched) -->
+	<Ammo_556x45mmNATO_Sabot_Punched.label>5.56x45mm NATO cartridge (Sabot) (Punched)</Ammo_556x45mmNATO_Sabot_Punched.label>
+	<!-- EN: Small, high-velocity rifle bullet used in a variety of assault rifles. -->
+	<Ammo_556x45mmNATO_Sabot_Punched.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_556x45mmNATO_Sabot_Punched.description>
+	
+	<!-- EN: 5.56mm NATO bullet (FMJ) (Punched) -->
+	<Bullet_556x45mmNATO_FMJ_Punched.label>5.56mm NATO bullet (FMJ) (Punched)</Bullet_556x45mmNATO_FMJ_Punched.label>
+	
+	<!-- EN: 5.56mm NATO bullet (AP) (Punched) -->
+	<Bullet_556x45mmNATO_AP_Punched.label>5.56mm NATO bullet (AP) (Punched)</Bullet_556x45mmNATO_AP_Punched.label>
+	
+	<!-- EN: 5.56mm NATO bullet (HP) (Punched) -->
+	<Bullet_556x45mmNATO_HP_Punched.label>5.56mm NATO bullet (HP) (Punched)</Bullet_556x45mmNATO_HP_Punched.label>
+	
+	<!-- EN: 5.56mm NATO bullet (AP-I) (Punched) -->
+	<Bullet_556x45mmNATO_Incendiary_Punched.label>5.56mm NATO bullet (AP-I) (Punched)</Bullet_556x45mmNATO_Incendiary_Punched.label>
+	
+	<!-- EN: 5.56mm NATO bullet (HE) (Punched) -->
+	<Bullet_556x45mmNATO_HE_Punched.label>5.56mm NATO bullet (HE) (Punched)</Bullet_556x45mmNATO_HE_Punched.label>
+	
+	<!-- EN: 5.56mm NATO bullet (Sabot) (Punched) -->
+	<Bullet_556x45mmNATO_Sabot_Punched.label>5.56mm NATO bullet (Sabot) (Punched)</Bullet_556x45mmNATO_Sabot_Punched.label>
+</LanguageData>

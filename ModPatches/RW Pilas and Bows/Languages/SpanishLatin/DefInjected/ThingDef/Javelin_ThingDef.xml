@@ -1,0 +1,86 @@
+<LanguageData>
+	<!-- ModPatches\RW Pilas and Bows\Defs\RW Pilas and Bows\Javelin.xml -->
+	<!-- EN: HEla -->
+	<PilaHighExplosive.label>HEla</PilaHighExplosive.label>
+	<!-- EN: This shell won't miss 9 tiles away from its target (It might miss 2 but that's still valid). -->
+	<PilaHighExplosive.description>This shell won't miss 9 tiles away from its target (It might miss 2 but that's still valid).</PilaHighExplosive.description>
+	<!-- EN: ㅤ -->
+	<PilaHighExplosive.verbs.0.label>ㅤ</PilaHighExplosive.verbs.0.label>
+	<!-- EN: shaft -->
+	<PilaHighExplosive.tools.0.label>shaft</PilaHighExplosive.tools.0.label>
+	<!-- EN: point -->
+	<PilaHighExplosive.tools.1.label>point</PilaHighExplosive.tools.1.label>
+	
+	<!-- EN: HIla -->
+	<PilaHighIncendiary.label>HIla</PilaHighIncendiary.label>
+	<!-- EN: No, there is no baby to reveal its gender with. -->
+	<PilaHighIncendiary.description>No, there is no baby to reveal its gender with.</PilaHighIncendiary.description>
+	<!-- EN: ㅤ -->
+	<PilaHighIncendiary.verbs.0.label>ㅤ</PilaHighIncendiary.verbs.0.label>
+	<!-- EN: shaft -->
+	<PilaHighIncendiary.tools.0.label>shaft</PilaHighIncendiary.tools.0.label>
+	<!-- EN: point -->
+	<PilaHighIncendiary.tools.1.label>point</PilaHighIncendiary.tools.1.label>
+	
+	<!-- EN: MPila -->
+	<PilaEMP.label>MPila</PilaEMP.label>
+	<!-- EN: Five feet apart from mechanoids (or whatever it is you're aiming at). -->
+	<PilaEMP.description>Five feet apart from mechanoids (or whatever it is you're aiming at).</PilaEMP.description>
+	<!-- EN: ㅤ -->
+	<PilaEMP.verbs.0.label>ㅤ</PilaEMP.verbs.0.label>
+	<!-- EN: shaft -->
+	<PilaEMP.tools.0.label>shaft</PilaEMP.tools.0.label>
+	<!-- EN: point -->
+	<PilaEMP.tools.1.label>point</PilaEMP.tools.1.label>
+	
+	<!-- EN: Smola -->
+	<PilaSmoke.label>Smola</PilaSmoke.label>
+	<!-- EN: Unfortunately, it is not, in fact, smokeleaf. -->
+	<PilaSmoke.description>Unfortunately, it is not, in fact, smokeleaf.</PilaSmoke.description>
+	<!-- EN: ㅤ -->
+	<PilaSmoke.verbs.0.label>ㅤ</PilaSmoke.verbs.0.label>
+	<!-- EN: shaft -->
+	<PilaSmoke.tools.0.label>shaft</PilaSmoke.tools.0.label>
+	<!-- EN: point -->
+	<PilaSmoke.tools.1.label>point</PilaSmoke.tools.1.label>
+	
+	<!-- EN: Fola -->
+	<PilaFirefoam.label>Fola</PilaFirefoam.label>
+	<!-- EN: "Only you can prevent forest fires!" -->
+	<PilaFirefoam.description>"Only you can prevent forest fires!"</PilaFirefoam.description>
+	<!-- EN: ㅤ -->
+	<PilaFirefoam.verbs.0.label>ㅤ</PilaFirefoam.verbs.0.label>
+	<!-- EN: shaft -->
+	<PilaFirefoam.tools.0.label>shaft</PilaFirefoam.tools.0.label>
+	<!-- EN: point -->
+	<PilaFirefoam.tools.1.label>point</PilaFirefoam.tools.1.label>
+	
+	<!-- EN: Sayonala -->
+	<PilaAntigrain.label>Sayonala</PilaAntigrain.label>
+	<!-- EN: You can barely feel the singe. -->
+	<PilaAntigrain.description>You can barely feel the singe.</PilaAntigrain.description>
+	<!-- EN: ㅤ -->
+	<PilaAntigrain.verbs.0.label>ㅤ</PilaAntigrain.verbs.0.label>
+	<!-- EN: shaft -->
+	<PilaAntigrain.tools.0.label>shaft</PilaAntigrain.tools.0.label>
+	<!-- EN: point -->
+	<PilaAntigrain.tools.1.label>point</PilaAntigrain.tools.1.label>
+	
+	<!-- EN: pilum with HE shell on the tip -->
+	<PilumHE_Thrown.label>pilum with HE shell on the tip</PilumHE_Thrown.label>
+	
+	<!-- EN: pilum with incendiary shell on the tip -->
+	<PilumHI_Thrown.label>pilum with incendiary shell on the tip</PilumHI_Thrown.label>
+	
+	<!-- EN: pilum with EMP shell on the tip -->
+	<PilumEMP_Thrown.label>pilum with EMP shell on the tip</PilumEMP_Thrown.label>
+	
+	<!-- EN: pilum with smoke shell on the tip -->
+	<PilumSmoke_Thrown.label>pilum with smoke shell on the tip</PilumSmoke_Thrown.label>
+	
+	<!-- EN: pilum with smoke shell on the tip -->
+	<PilumFirefoam_Thrown.label>pilum with smoke shell on the tip</PilumFirefoam_Thrown.label>
+	
+	<!-- EN: pilum with antigrain shell on the tip -->
+	<PilumAntigrain_Thrown.label>pilum with antigrain shell on the tip</PilumAntigrain_Thrown.label>
+</LanguageData>

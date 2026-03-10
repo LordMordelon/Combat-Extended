@@ -1,0 +1,112 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Nfar_GFWP\GFWeapons859.xml -->
+	<!-- EN: stock -->
+	<G_M4A1_AR.tools.0.label>stock</G_M4A1_AR.tools.0.label>
+	<!-- EN: barrel -->
+	<G_M4A1_AR.tools.1.label>barrel</G_M4A1_AR.tools.1.label>
+	<!-- EN: muzzle -->
+	<G_M4A1_AR.tools.2.label>muzzle</G_M4A1_AR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<G_M16A1_AR.tools.0.label>stock</G_M16A1_AR.tools.0.label>
+	<!-- EN: barrel -->
+	<G_M16A1_AR.tools.1.label>barrel</G_M16A1_AR.tools.1.label>
+	<!-- EN: muzzle -->
+	<G_M16A1_AR.tools.2.label>muzzle</G_M16A1_AR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<G_AR15_AR.tools.0.label>stock</G_AR15_AR.tools.0.label>
+	<!-- EN: barrel -->
+	<G_AR15_AR.tools.1.label>barrel</G_AR15_AR.tools.1.label>
+	<!-- EN: muzzle -->
+	<G_AR15_AR.tools.2.label>muzzle</G_AR15_AR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<G_SOPMODII_AR.tools.0.label>stock</G_SOPMODII_AR.tools.0.label>
+	<!-- EN: barrel -->
+	<G_SOPMODII_AR.tools.1.label>barrel</G_SOPMODII_AR.tools.1.label>
+	<!-- EN: muzzle -->
+	<G_SOPMODII_AR.tools.2.label>muzzle</G_SOPMODII_AR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<G_HK416_AR.tools.0.label>stock</G_HK416_AR.tools.0.label>
+	<!-- EN: barrel -->
+	<G_HK416_AR.tools.1.label>barrel</G_HK416_AR.tools.1.label>
+	<!-- EN: muzzle -->
+	<G_HK416_AR.tools.2.label>muzzle</G_HK416_AR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<G_NEGEV_MG.tools.0.label>stock</G_NEGEV_MG.tools.0.label>
+	<!-- EN: barrel -->
+	<G_NEGEV_MG.tools.1.label>barrel</G_NEGEV_MG.tools.1.label>
+	<!-- EN: muzzle -->
+	<G_NEGEV_MG.tools.2.label>muzzle</G_NEGEV_MG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<G_G11_AR.tools.0.label>stock</G_G11_AR.tools.0.label>
+	<!-- EN: barrel -->
+	<G_G11_AR.tools.1.label>barrel</G_G11_AR.tools.1.label>
+	<!-- EN: muzzle -->
+	<G_G11_AR.tools.2.label>muzzle</G_G11_AR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<G_AK12_AR.tools.0.label>stock</G_AK12_AR.tools.0.label>
+	<!-- EN: barrel -->
+	<G_AK12_AR.tools.1.label>barrel</G_AK12_AR.tools.1.label>
+	<!-- EN: muzzle -->
+	<G_AK12_AR.tools.2.label>muzzle</G_AK12_AR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<G_AN94_AR.tools.0.label>stock</G_AN94_AR.tools.0.label>
+	<!-- EN: barrel -->
+	<G_AN94_AR.tools.1.label>barrel</G_AN94_AR.tools.1.label>
+	<!-- EN: muzzle -->
+	<G_AN94_AR.tools.2.label>muzzle</G_AN94_AR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<G_RO635_SMG.tools.0.label>stock</G_RO635_SMG.tools.0.label>
+	<!-- EN: barrel -->
+	<G_RO635_SMG.tools.1.label>barrel</G_RO635_SMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<G_RO635_SMG.tools.2.label>muzzle</G_RO635_SMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<G_UMP9_SMG.tools.0.label>stock</G_UMP9_SMG.tools.0.label>
+	<!-- EN: barrel -->
+	<G_UMP9_SMG.tools.1.label>barrel</G_UMP9_SMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<G_UMP9_SMG.tools.2.label>muzzle</G_UMP9_SMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<G_UMP40_SMG.tools.0.label>stock</G_UMP40_SMG.tools.0.label>
+	<!-- EN: barrel -->
+	<G_UMP40_SMG.tools.1.label>barrel</G_UMP40_SMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<G_UMP40_SMG.tools.2.label>muzzle</G_UMP40_SMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<G_UMP45_SMG.tools.0.label>stock</G_UMP45_SMG.tools.0.label>
+	<!-- EN: barrel -->
+	<G_UMP45_SMG.tools.1.label>barrel</G_UMP45_SMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<G_UMP45_SMG.tools.2.label>muzzle</G_UMP45_SMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<G_IWS2000_RF.tools.0.label>stock</G_IWS2000_RF.tools.0.label>
+	<!-- EN: barrel -->
+	<G_IWS2000_RF.tools.1.label>barrel</G_IWS2000_RF.tools.1.label>
+	<!-- EN: muzzle -->
+	<G_IWS2000_RF.tools.2.label>muzzle</G_IWS2000_RF.tools.2.label>
+	
+	<!-- EN: stock -->
+	<G_MobileFireSupportPlatform.tools.0.label>stock</G_MobileFireSupportPlatform.tools.0.label>
+	<!-- EN: barrel -->
+	<G_MobileFireSupportPlatform.tools.1.label>barrel</G_MobileFireSupportPlatform.tools.1.label>
+	<!-- EN: muzzle -->
+	<G_MobileFireSupportPlatform.tools.2.label>muzzle</G_MobileFireSupportPlatform.tools.2.label>
+	
+	<!-- EN: grip -->
+	<G_JERICHO_HG.tools.0.label>grip</G_JERICHO_HG.tools.0.label>
+	<!-- EN: muzzle -->
+	<G_JERICHO_HG.tools.1.label>muzzle</G_JERICHO_HG.tools.1.label>
+</LanguageData>

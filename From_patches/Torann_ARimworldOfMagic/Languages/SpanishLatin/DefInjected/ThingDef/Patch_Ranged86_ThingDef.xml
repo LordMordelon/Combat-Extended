@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Torann_ARimworldOfMagic\Patch_Ranged86.xml -->
+	<!-- EN: wand -->
+	<TM_LightningWand.tools.0.label>wand</TM_LightningWand.tools.0.label>
+	<!-- EN: wand -->
+	<TM_IceWand.tools.0.label>wand</TM_IceWand.tools.0.label>
+	<!-- EN: wand -->
+	<TM_DefenderStaff.tools.0.label>wand</TM_DefenderStaff.tools.0.label>
+	<!-- EN: wand -->
+	<TM_BlazingPowerStaff.tools.0.label>wand</TM_BlazingPowerStaff.tools.0.label>
+	<!-- EN: wand -->
+	<TM_FireWand.tools.0.label>wand</TM_FireWand.tools.0.label>
+	<!-- EN: ring -->
+	<Seer_FireRing.tools.0.label>ring</Seer_FireRing.tools.0.label>
+	<!-- EN: ring -->
+	<Seer_IceRing.tools.0.label>ring</Seer_IceRing.tools.0.label>
+	<!-- EN: ring -->
+	<Seer_LightningRing.tools.0.label>ring</Seer_LightningRing.tools.0.label>
+</LanguageData>

@@ -1,0 +1,21 @@
+<LanguageData>
+	<!-- ModPatches\Impact Weaponry\Defs\Impact Weaponry\ImpactAmmo.xml -->
+	
+	<!-- EN: Impact Shells (Small) -->
+	<AmmoSet_ImpactShellsSmall.label>Impact Shells (Small)</AmmoSet_ImpactShellsSmall.label>
+	
+	<!-- EN: Impact Shells (Big) -->
+	<AmmoSet_ImpactShellsBig.label>Impact Shells (Big)</AmmoSet_ImpactShellsBig.label>
+	
+	<!-- EN: Impact Shells (Shell) -->
+	<AmmoSet_ImpactShellsShell.label>Impact Shells (Shell)</AmmoSet_ImpactShellsShell.label>
+	
+	<!-- EN: Impact Shells (Sniper) -->
+	<AmmoSet_ImpactShellsSniper.label>Impact Shells (Sniper)</AmmoSet_ImpactShellsSniper.label>
+	
+	<!-- EN: Impact Shells (Bolter) -->
+	<AmmoSet_ImpactShellsBolter.label>Impact Shells (Bolter)</AmmoSet_ImpactShellsBolter.label>
+	
+	<!-- EN: Impact Shells (Slugger) -->
+	<AmmoSet_ImpactShellsSlugger.label>Impact Shells (Slugger)</AmmoSet_ImpactShellsSlugger.label>
+</LanguageData>

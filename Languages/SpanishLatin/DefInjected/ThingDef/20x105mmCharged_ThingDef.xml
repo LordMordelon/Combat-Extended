@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- Defs\Ammo\Advanced\20x105mmCharged.xml -->
+	
+	<!-- EN: 20x105mm Charged -->
+	<Ammo_20x105mmCharged.label>20x105mm Charged</Ammo_20x105mmCharged.label>
+	<!-- EN: High-caliber charged shot ammo used by advanced autocannons. -->
+	<Ammo_20x105mmCharged.description>High-caliber charged shot ammo used by advanced autocannons.</Ammo_20x105mmCharged.description>
+	
+	<!-- EN: 20x105mm Charged (Conc.) -->
+	<Ammo_20x105mmCharged_AP.label>20x105mm Charged (Conc.)</Ammo_20x105mmCharged_AP.label>
+	<!-- EN: High-caliber charged shot ammo used by advanced autocannons. -->
+	<Ammo_20x105mmCharged_AP.description>High-caliber charged shot ammo used by advanced autocannons.</Ammo_20x105mmCharged_AP.description>
+	
+	<!-- EN: 20x105mm Charged (Ion) -->
+	<Ammo_20x105mmCharged_Ion.label>20x105mm Charged (Ion)</Ammo_20x105mmCharged_Ion.label>
+	<!-- EN: High-caliber charged shot ammo used by advanced autocannons. -->
+	<Ammo_20x105mmCharged_Ion.description>High-caliber charged shot ammo used by advanced autocannons.</Ammo_20x105mmCharged_Ion.description>
+	
+	<!-- EN: 20x105mm Charged bullet -->
+	<Bullet_20x105mmCharged.label>20x105mm Charged bullet</Bullet_20x105mmCharged.label>
+	
+	<!-- EN: 20x105mm Charged bullet (Conc.) -->
+	<Bullet_20x105mmCharged_AP.label>20x105mm Charged bullet (Conc.)</Bullet_20x105mmCharged_AP.label>
+	
+	<!-- EN: 20x105mm Charged bullet (Ion) -->
+	<Bullet_20x105mmCharged_Ion.label>20x105mm Charged bullet (Ion)</Bullet_20x105mmCharged_Ion.label>
+</LanguageData>

@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- ModPatches\Civilization Beyond Earth Armor Sets\Defs\Civilization Beyond Earth Armor Sets\Ammo.xml -->
+	<!-- EN: Harmony -->
+	<HarmonyCharged.label>Harmony</HarmonyCharged.label>
+	<!-- EN: The charged particle coating disrupts armor and tissue in equal measure. Harmony infused. -->
+	<HarmonyCharged.description>The charged particle coating disrupts armor and tissue in equal measure. Harmony infused.</HarmonyCharged.description>
+	<!-- EN: Purity -->
+	<PurityCharged.label>Purity</PurityCharged.label>
+	<!-- EN: The charged particle coating disrupts armor and tissue in equal measure. Purity infused. -->
+	<PurityCharged.description>The charged particle coating disrupts armor and tissue in equal measure. Purity infused.</PurityCharged.description>
+	<!-- EN: Supremacy -->
+	<SupremacyCharged.label>Supremacy</SupremacyCharged.label>
+	<!-- EN: The charged particle coating disrupts armor and tissue in equal measure. Supremacy infused -->
+	<SupremacyCharged.description>The charged particle coating disrupts armor and tissue in equal measure. Supremacy infused</SupremacyCharged.description>
+</LanguageData>

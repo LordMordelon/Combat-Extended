@@ -1,0 +1,50 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Scurvyez_Bastyon\CE_Patch_BastRace_All1636.xml -->
+	<!-- EN: mandible -->
+	<Bast_Abatanica_Ant.tools.0.label>mandible</Bast_Abatanica_Ant.tools.0.label>
+	<!-- EN: Head -->
+	<Bast_Abatanica_Ant.tools.1.label>Head</Bast_Abatanica_Ant.tools.1.label>
+	
+	<!-- EN: Bast_Nucleoplasm -->
+	<Bast_Alluvium.tools.0.label>Bast_Nucleoplasm</Bast_Alluvium.tools.0.label>
+	
+	<!-- EN: jagged teeth -->
+	<Bast_Bahlrin.tools.0.label>jagged teeth</Bast_Bahlrin.tools.0.label>
+	<!-- EN: head -->
+	<Bast_Bahlrin.tools.1.label>head</Bast_Bahlrin.tools.1.label>
+	
+	<!-- EN: left claw -->
+	<Bast_Bastyon.tools.0.label>left claw</Bast_Bastyon.tools.0.label>
+	<!-- EN: right claw -->
+	<Bast_Bastyon.tools.1.label>right claw</Bast_Bastyon.tools.1.label>
+	<!-- EN: head -->
+	<Bast_Bastyon.tools.3.label>head</Bast_Bastyon.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<Bast_Blazing_Felidae.tools.0.label>left claw</Bast_Blazing_Felidae.tools.0.label>
+	<!-- EN: right claw -->
+	<Bast_Blazing_Felidae.tools.1.label>right claw</Bast_Blazing_Felidae.tools.1.label>
+	<!-- EN: head -->
+	<Bast_Blazing_Felidae.tools.3.label>head</Bast_Blazing_Felidae.tools.3.label>
+	
+	<!-- EN: horns -->
+	<Bast_Ceratok.tools.0.label>horns</Bast_Ceratok.tools.0.label>
+	<!-- EN: horns -->
+	<Bast_Ceratok.tools.1.label>horns</Bast_Ceratok.tools.1.label>
+	<!-- EN: head -->
+	<Bast_Ceratok.tools.3.label>head</Bast_Ceratok.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<Bast_Chem_Tegu.tools.0.label>left claw</Bast_Chem_Tegu.tools.0.label>
+	<!-- EN: right claw -->
+	<Bast_Chem_Tegu.tools.1.label>right claw</Bast_Chem_Tegu.tools.1.label>
+	<!-- EN: head -->
+	<Bast_Chem_Tegu.tools.3.label>head</Bast_Chem_Tegu.tools.3.label>
+	
+	<!-- EN: left blade arm -->
+	<Bast_Snipping_Snail.tools.0.label>left blade arm</Bast_Snipping_Snail.tools.0.label>
+	<!-- EN: right blade arm -->
+	<Bast_Snipping_Snail.tools.1.label>right blade arm</Bast_Snipping_Snail.tools.1.label>
+	<!-- EN: head -->
+	<Bast_Snipping_Snail.tools.2.label>head</Bast_Snipping_Snail.tools.2.label>
+</LanguageData>

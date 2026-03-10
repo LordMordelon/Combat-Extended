@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- ModPatches\Rimsenal Core\Defs\Rimsenal Core\Ammo_TE.xml -->
+	<!-- EN: TE Universal Power Cell (KE) -->
+	<Ammo_TEPowerCell.label>TE Universal Power Cell (KE)</Ammo_TEPowerCell.label>
+	<!-- EN: A power cell used by the Tisiphone Enterprise kinetic force family of weaponry weaponry. -->
+	<Ammo_TEPowerCell.description>A power cell used by the Tisiphone Enterprise kinetic force family of weaponry weaponry.</Ammo_TEPowerCell.description>
+	<!-- EN: TE energy blast (KE) -->
+	<Bullet_TEPowerCore_KE.label>TE energy blast (KE)</Bullet_TEPowerCore_KE.label>
+	<!-- EN: TE energy blast (KE) -->
+	<Bullet_TEPowerCharge_KE.label>TE energy blast (KE)</Bullet_TEPowerCharge_KE.label>
+	<!-- EN: TE energy blast (KE) -->
+	<Bullet_TEEnergyCanister_KE.label>TE energy blast (KE)</Bullet_TEEnergyCanister_KE.label>
+	<!-- EN: TE energy blast (KE) -->
+	<Bullet_TEConcentratedPowerCharge_KE.label>TE energy blast (KE)</Bullet_TEConcentratedPowerCharge_KE.label>
+</LanguageData>

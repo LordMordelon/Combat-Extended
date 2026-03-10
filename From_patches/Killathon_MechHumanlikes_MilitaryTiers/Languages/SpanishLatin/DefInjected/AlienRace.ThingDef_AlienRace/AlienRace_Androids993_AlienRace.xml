@@ -1,0 +1,35 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Killathon_MechHumanlikes_MilitaryTiers\AlienRace_Androids993.xml -->
+	<!-- EN: left fist -->
+	<ATM_Mark1Warrior.tools.0.label>left fist</ATM_Mark1Warrior.tools.0.label>
+	<!-- EN: right fist -->
+	<ATM_Mark1Warrior.tools.1.label>right fist</ATM_Mark1Warrior.tools.1.label>
+	<!-- EN: body -->
+	<ATM_Mark1Warrior.tools.2.label>body</ATM_Mark1Warrior.tools.2.label>
+	
+	<!-- EN: manipulator -->
+	<ATM_Mark2Bishop.tools.0.label>manipulator</ATM_Mark2Bishop.tools.0.label>
+	<!-- EN: manipulator -->
+	<ATM_Mark2Bishop.tools.1.label>manipulator</ATM_Mark2Bishop.tools.1.label>
+	<!-- EN: bodyslam -->
+	<ATM_Mark2Bishop.tools.2.label>bodyslam</ATM_Mark2Bishop.tools.2.label>
+	
+	<!-- EN: left hand -->
+	<ATM_Mark3Paladin.tools.0.label>left hand</ATM_Mark3Paladin.tools.0.label>
+	<!-- EN: right hand -->
+	<ATM_Mark3Paladin.tools.1.label>right hand</ATM_Mark3Paladin.tools.1.label>
+	<!-- EN: manipulator -->
+	<ATM_Mark3Paladin.tools.2.label>manipulator</ATM_Mark3Paladin.tools.2.label>
+	<!-- EN: manipulator -->
+	<ATM_Mark3Paladin.tools.3.label>manipulator</ATM_Mark3Paladin.tools.3.label>
+	<!-- EN: bodyslam -->
+	<ATM_Mark3Paladin.tools.4.label>bodyslam</ATM_Mark3Paladin.tools.4.label>
+	
+	<!-- EN: bodyslam -->
+	<ATM_Mark4Jellyman.tools.0.label>bodyslam</ATM_Mark4Jellyman.tools.0.label>
+	
+	<!-- EN: left fist -->
+	<ATM_Mark5Titan.tools.0.label>left fist</ATM_Mark5Titan.tools.0.label>
+	<!-- EN: right fist -->
+	<ATM_Mark5Titan.tools.1.label>right fist</ATM_Mark5Titan.tools.1.label>
+</LanguageData>

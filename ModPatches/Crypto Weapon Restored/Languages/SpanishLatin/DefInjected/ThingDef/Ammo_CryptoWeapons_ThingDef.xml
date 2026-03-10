@@ -1,0 +1,21 @@
+<LanguageData>
+	<!-- ModPatches\Crypto Weapon Restored\Defs\Crypto Weapon Restored\Ammo_CryptoWeapons.xml -->
+	<!-- EN: crypto rifle cartridge -->
+	<Ammo_CryptoRifle.label>crypto rifle cartridge</Ammo_CryptoRifle.label>
+	<!-- EN: Metal-cored projectiles wrapped in unstable crypto technology contained with an energy field. Capable of dealing both ballistic damage and causing serious hypothermia. -->
+	<Ammo_CryptoRifle.description>Metal-cored projectiles wrapped in unstable crypto technology contained with an energy field. Capable of dealing both ballistic damage and causing serious hypothermia.</Ammo_CryptoRifle.description>
+	<!-- EN: crypto pistol cartridge -->
+	<Ammo_CryptoPistol.label>crypto pistol cartridge</Ammo_CryptoPistol.label>
+	<!-- EN: Metal-cored projectiles wrapped in unstable crypto technology contained with an energy field. Capable of dealing both ballistic damage and causing serious hypothermia. -->
+	<Ammo_CryptoPistol.description>Metal-cored projectiles wrapped in unstable crypto technology contained with an energy field. Capable of dealing both ballistic damage and causing serious hypothermia.</Ammo_CryptoPistol.description>
+	<!-- EN: crypto bolt -->
+	<Ammo_CryptoShotgun.label>crypto bolt</Ammo_CryptoShotgun.label>
+	<!-- EN: Metal-cored projectiles wrapped in unstable crypto technology contained with an energy field. Capable of dealing both ballistic damage and causing serious hypothermia. -->
+	<Ammo_CryptoShotgun.description>Metal-cored projectiles wrapped in unstable crypto technology contained with an energy field. Capable of dealing both ballistic damage and causing serious hypothermia.</Ammo_CryptoShotgun.description>
+	<!-- EN: crypto bullet -->
+	<Bullet_CryptoRifle.label>crypto bullet</Bullet_CryptoRifle.label>
+	<!-- EN: crypto bullet -->
+	<Bullet_CryptoPistol.label>crypto bullet</Bullet_CryptoPistol.label>
+	<!-- EN: crypto pellet -->
+	<Bullet_CryptoShotgun.label>crypto pellet</Bullet_CryptoShotgun.label>
+</LanguageData>

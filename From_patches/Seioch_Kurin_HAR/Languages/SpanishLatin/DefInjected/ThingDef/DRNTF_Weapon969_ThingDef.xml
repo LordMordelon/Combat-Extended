@@ -1,0 +1,58 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Seioch_Kurin_HAR\DRNTF_Weapon969.xml -->
+	<!-- EN: stock -->
+	<Kurin_Gun_Assault_Rifle.tools.0.label>stock</Kurin_Gun_Assault_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Kurin_Gun_Assault_Rifle.tools.1.label>barrel</Kurin_Gun_Assault_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Kurin_Gun_Assault_Rifle.tools.2.label>muzzle</Kurin_Gun_Assault_Rifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Kurin_Gun_Charge_Shotgun.tools.0.label>stock</Kurin_Gun_Charge_Shotgun.tools.0.label>
+	<!-- EN: barrel -->
+	<Kurin_Gun_Charge_Shotgun.tools.1.label>barrel</Kurin_Gun_Charge_Shotgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<Kurin_Gun_Charge_Shotgun.tools.2.label>muzzle</Kurin_Gun_Charge_Shotgun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Kurin_Gun_Charge_Rifle.tools.0.label>stock</Kurin_Gun_Charge_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Kurin_Gun_Charge_Rifle.tools.1.label>barrel</Kurin_Gun_Charge_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Kurin_Gun_Charge_Rifle.tools.2.label>muzzle</Kurin_Gun_Charge_Rifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Kurin_Gun_Sniper_Rifle.tools.0.label>stock</Kurin_Gun_Sniper_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Kurin_Gun_Sniper_Rifle.tools.1.label>barrel</Kurin_Gun_Sniper_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Kurin_Gun_Sniper_Rifle.tools.2.label>muzzle</Kurin_Gun_Sniper_Rifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Kurin_Gun_Shotgun.tools.0.label>stock</Kurin_Gun_Shotgun.tools.0.label>
+	<!-- EN: barrel -->
+	<Kurin_Gun_Shotgun.tools.1.label>barrel</Kurin_Gun_Shotgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<Kurin_Gun_Shotgun.tools.2.label>muzzle</Kurin_Gun_Shotgun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Kurin_Gun_Carbine.tools.0.label>stock</Kurin_Gun_Carbine.tools.0.label>
+	<!-- EN: barrel -->
+	<Kurin_Gun_Carbine.tools.1.label>barrel</Kurin_Gun_Carbine.tools.1.label>
+	<!-- EN: muzzle -->
+	<Kurin_Gun_Carbine.tools.2.label>muzzle</Kurin_Gun_Carbine.tools.2.label>
+	
+	<!-- EN: handle -->
+	<Kurin_MeleeWeapon_Ceremonial_Sword.tools.0.label>handle</Kurin_MeleeWeapon_Ceremonial_Sword.tools.0.label>
+	<!-- EN: point -->
+	<Kurin_MeleeWeapon_Ceremonial_Sword.tools.1.label>point</Kurin_MeleeWeapon_Ceremonial_Sword.tools.1.label>
+	<!-- EN: edge -->
+	<Kurin_MeleeWeapon_Ceremonial_Sword.tools.2.label>edge</Kurin_MeleeWeapon_Ceremonial_Sword.tools.2.label>
+	
+	<!-- EN: handle -->
+	<Kurin_Gun_Surigum.tools.0.label>handle</Kurin_Gun_Surigum.tools.0.label>
+	<!-- EN: blade -->
+	<Kurin_Gun_Surigum.tools.1.label>blade</Kurin_Gun_Surigum.tools.1.label>
+	<!-- EN: point -->
+	<Kurin_Gun_Surigum.tools.2.label>point</Kurin_Gun_Surigum.tools.2.label>
+</LanguageData>

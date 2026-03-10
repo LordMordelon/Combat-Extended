@@ -1,0 +1,51 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\HC_GiantRace\GiantWeapons_Melee1650.xml -->
+	<!-- EN: handle -->
+	<GI_GiantClub.tools.0.label>handle</GI_GiantClub.tools.0.label>
+	<!-- EN: head -->
+	<GI_GiantClub.tools.1.label>head</GI_GiantClub.tools.1.label>
+	
+	<!-- EN: handle -->
+	<GI_IvoryClub.tools.0.label>handle</GI_IvoryClub.tools.0.label>
+	<!-- EN: head -->
+	<GI_IvoryClub.tools.1.label>head</GI_IvoryClub.tools.1.label>
+	
+	<!-- EN: handle -->
+	<GI_MammothHammer.tools.0.label>handle</GI_MammothHammer.tools.0.label>
+	<!-- EN: head -->
+	<GI_MammothHammer.tools.1.label>head</GI_MammothHammer.tools.1.label>
+	
+	<!-- EN: base -->
+	<GI_ThrumboSpineBlade.tools.0.label>base</GI_ThrumboSpineBlade.tools.0.label>
+	<!-- EN: blade -->
+	<GI_ThrumboSpineBlade.tools.1.label>blade</GI_ThrumboSpineBlade.tools.1.label>
+	<!-- EN: point -->
+	<GI_ThrumboSpineBlade.tools.2.label>point</GI_ThrumboSpineBlade.tools.2.label>
+	
+	<!-- EN: base -->
+	<GI_Cleaver.tools.0.label>base</GI_Cleaver.tools.0.label>
+	<!-- EN: blade -->
+	<GI_Cleaver.tools.1.label>blade</GI_Cleaver.tools.1.label>
+	<!-- EN: point -->
+	<GI_Cleaver.tools.2.label>point</GI_Cleaver.tools.2.label>
+	
+	<!-- EN: handle -->
+	<GI_Hammer.tools.0.label>handle</GI_Hammer.tools.0.label>
+	<!-- EN: head -->
+	<GI_Hammer.tools.1.label>head</GI_Hammer.tools.1.label>
+	
+	<!-- EN: handle -->
+	<GI_Ram.tools.0.label>handle</GI_Ram.tools.0.label>
+	<!-- EN: head -->
+	<GI_Ram.tools.1.label>head</GI_Ram.tools.1.label>
+	
+	<!-- EN: drill bit -->
+	<GI_Drill.tools.0.label>drill bit</GI_Drill.tools.0.label>
+	
+	<!-- EN: handle -->
+	<GI_Titansword.tools.0.label>handle</GI_Titansword.tools.0.label>
+	<!-- EN: blade -->
+	<GI_Titansword.tools.1.label>blade</GI_Titansword.tools.1.label>
+	<!-- EN: point -->
+	<GI_Titansword.tools.2.label>point</GI_Titansword.tools.2.label>
+</LanguageData>

@@ -1,0 +1,24 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Recipe\30x64mmFuelCell-Punched.xml -->
+	
+	<!-- EN: make 30x64mm fuel cell (Incendiary) (Punched) x50 -->
+	<MakeAmmo_30x64mmFuel_Incendiary_Punched.label>make 30x64mm fuel cell (Incendiary) (Punched) x50</MakeAmmo_30x64mmFuel_Incendiary_Punched.label>
+	<!-- EN: Craft 50 30x64mm incendiary fuel cells (Punched). -->
+	<MakeAmmo_30x64mmFuel_Incendiary_Punched.description>Craft 50 30x64mm incendiary fuel cells (Punched).</MakeAmmo_30x64mmFuel_Incendiary_Punched.description>
+	<!-- EN: Making incendiary fuel cells. -->
+	<MakeAmmo_30x64mmFuel_Incendiary_Punched.jobString>Making incendiary fuel cells.</MakeAmmo_30x64mmFuel_Incendiary_Punched.jobString>
+	
+	<!-- EN: make 30x64mm fuel cell (Thermobaric) (Punched) x50 -->
+	<MakeAmmo_30x64mmFuel_Thermobaric_Punched.label>make 30x64mm fuel cell (Thermobaric) (Punched) x50</MakeAmmo_30x64mmFuel_Thermobaric_Punched.label>
+	<!-- EN: Craft 50 30x64mm thermobaric fuel cells (Punched). -->
+	<MakeAmmo_30x64mmFuel_Thermobaric_Punched.description>Craft 50 30x64mm thermobaric fuel cells (Punched).</MakeAmmo_30x64mmFuel_Thermobaric_Punched.description>
+	<!-- EN: Making thermobaric fuel cells. -->
+	<MakeAmmo_30x64mmFuel_Thermobaric_Punched.jobString>Making thermobaric fuel cells.</MakeAmmo_30x64mmFuel_Thermobaric_Punched.jobString>
+	
+	<!-- EN: make 30x64mm fuel cell (Foam) (Punched) x50 -->
+	<MakeAmmo_30x64mmFuel_Foam_Punched.label>make 30x64mm fuel cell (Foam) (Punched) x50</MakeAmmo_30x64mmFuel_Foam_Punched.label>
+	<!-- EN: Craft 50 30x64mm foam fuel cells (Punched). -->
+	<MakeAmmo_30x64mmFuel_Foam_Punched.description>Craft 50 30x64mm foam fuel cells (Punched).</MakeAmmo_30x64mmFuel_Foam_Punched.description>
+	<!-- EN: Making foam fuel cells. -->
+	<MakeAmmo_30x64mmFuel_Foam_Punched.jobString>Making foam fuel cells.</MakeAmmo_30x64mmFuel_Foam_Punched.jobString>
+</LanguageData>

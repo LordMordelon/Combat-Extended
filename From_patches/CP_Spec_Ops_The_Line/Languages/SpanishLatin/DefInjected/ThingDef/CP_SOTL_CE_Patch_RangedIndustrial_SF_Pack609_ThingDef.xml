@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\CP_Spec_Ops_The_Line\CP_SOTL_CE_Patch_RangedIndustrial_SF_Pack609.xml -->
+	<!-- EN: stock -->
+	<RNGun_M4A1Delta.tools.0.label>stock</RNGun_M4A1Delta.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_M4A1Delta.tools.1.label>barrel</RNGun_M4A1Delta.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_M4A1Delta.tools.2.label>muzzle</RNGun_M4A1Delta.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_HK416SD_Wolfpack.tools.0.label>stock</RNGun_HK416SD_Wolfpack.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_HK416SD_Wolfpack.tools.1.label>barrel</RNGun_HK416SD_Wolfpack.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_HK416SD_Wolfpack.tools.2.label>muzzle</RNGun_HK416SD_Wolfpack.tools.2.label>
+</LanguageData>

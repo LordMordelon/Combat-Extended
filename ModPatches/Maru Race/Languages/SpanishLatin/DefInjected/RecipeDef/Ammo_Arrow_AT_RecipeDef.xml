@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Maru Race\Defs\Maru Race\Ammo_Arrow_AT.xml -->
+	<!-- EN: make maru charged arrows x10 -->
+	<MakeAmmo_CPB_AT.label>make maru charged arrows x10</MakeAmmo_CPB_AT.label>
+	<!-- EN: Craft 10 maru charged arrows. -->
+	<MakeAmmo_CPB_AT.description>Craft 10 maru charged arrows.</MakeAmmo_CPB_AT.description>
+	<!-- EN: Making maru charged arrows. -->
+	<MakeAmmo_CPB_AT.jobString>Making maru charged arrows.</MakeAmmo_CPB_AT.jobString>
+</LanguageData>

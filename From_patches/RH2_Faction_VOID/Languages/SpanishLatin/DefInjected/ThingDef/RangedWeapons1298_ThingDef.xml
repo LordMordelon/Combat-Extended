@@ -1,0 +1,64 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\RH2_Faction_VOID\RangedWeapons1298.xml -->
+	<!-- EN: barrels -->
+	<RNGun_GAU19_HMG.tools.0.label>barrels</RNGun_GAU19_HMG.tools.0.label>
+	
+	<!-- EN: stock -->
+	<RNGun_Longshot_PP10AMR.tools.0.label>stock</RNGun_Longshot_PP10AMR.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_Longshot_PP10AMR.tools.1.label>barrel</RNGun_Longshot_PP10AMR.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_Longshot_PP10AMR.tools.2.label>muzzle</RNGun_Longshot_PP10AMR.tools.2.label>
+	
+	<!-- EN: barrel spikes -->
+	<RNGun_WraithCannon_HMG.tools.0.label>barrel spikes</RNGun_WraithCannon_HMG.tools.0.label>
+	<!-- EN: heavy barrel -->
+	<RNGun_WraithCannon_HMG.tools.1.label>heavy barrel</RNGun_WraithCannon_HMG.tools.1.label>
+	
+	<!-- EN: stock -->
+	<RNGun_DuskMAG_HMG.tools.0.label>stock</RNGun_DuskMAG_HMG.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_DuskMAG_HMG.tools.1.label>barrel</RNGun_DuskMAG_HMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_DuskMAG_HMG.tools.2.label>muzzle</RNGun_DuskMAG_HMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_CorpseBlaster_Shotgun.tools.0.label>stock</RNGun_CorpseBlaster_Shotgun.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_CorpseBlaster_Shotgun.tools.1.label>barrel</RNGun_CorpseBlaster_Shotgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_CorpseBlaster_Shotgun.tools.2.label>muzzle</RNGun_CorpseBlaster_Shotgun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_DuskStriker_Shotgun.tools.0.label>stock</RNGun_DuskStriker_Shotgun.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_DuskStriker_Shotgun.tools.1.label>barrel</RNGun_DuskStriker_Shotgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_DuskStriker_Shotgun.tools.2.label>muzzle</RNGun_DuskStriker_Shotgun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_CorpseDestroyer_GPMG.tools.0.label>stock</RNGun_CorpseDestroyer_GPMG.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_CorpseDestroyer_GPMG.tools.1.label>barrel</RNGun_CorpseDestroyer_GPMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_CorpseDestroyer_GPMG.tools.2.label>muzzle</RNGun_CorpseDestroyer_GPMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_DuskCarbine_DMR.tools.0.label>stock</RNGun_DuskCarbine_DMR.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_DuskCarbine_DMR.tools.1.label>barrel</RNGun_DuskCarbine_DMR.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_DuskCarbine_DMR.tools.2.label>muzzle</RNGun_DuskCarbine_DMR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_DFGAUSSRifle_AMR.tools.0.label>stock</RNGun_DFGAUSSRifle_AMR.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_DFGAUSSRifle_AMR.tools.1.label>barrel</RNGun_DFGAUSSRifle_AMR.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_DFGAUSSRifle_AMR.tools.2.label>muzzle</RNGun_DFGAUSSRifle_AMR.tools.2.label>
+	
+	<!-- EN: grip -->
+	<RNGun_DuskEnforcer_Revolver.tools.0.label>grip</RNGun_DuskEnforcer_Revolver.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_DuskEnforcer_Revolver.tools.1.label>muzzle</RNGun_DuskEnforcer_Revolver.tools.1.label>
+</LanguageData>

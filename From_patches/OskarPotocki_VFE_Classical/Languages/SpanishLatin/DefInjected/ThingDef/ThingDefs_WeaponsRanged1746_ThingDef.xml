@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\OskarPotocki_VFE_Classical\ThingDefs_WeaponsRanged1746.xml -->
+	<!-- EN: ㅤ -->
+	<VFEC_Javelin.verbs.0.label>ㅤ</VFEC_Javelin.verbs.0.label>
+	<!-- EN: shaft -->
+	<VFEC_Javelin.tools.0.label>shaft</VFEC_Javelin.tools.0.label>
+	<!-- EN: point -->
+	<VFEC_Javelin.tools.1.label>point</VFEC_Javelin.tools.1.label>
+	
+	<!-- EN: A ballista-like turret capable of firing rapidly when set up and manned. Very effective against enemy infantry. -->
+	<VFEC_Turret_Scorpion.description>A ballista-like turret capable of firing rapidly when set up and manned. Very effective against enemy infantry.</VFEC_Turret_Scorpion.description>
+	
+	<!-- EN: A ballista-like turret capable of firing rapidly when set up and manned. Very effective against enemy infantry. -->
+	<VFEC_TurretGun_Scorpion.description>A ballista-like turret capable of firing rapidly when set up and manned. Very effective against enemy infantry.</VFEC_TurretGun_Scorpion.description>
+</LanguageData>

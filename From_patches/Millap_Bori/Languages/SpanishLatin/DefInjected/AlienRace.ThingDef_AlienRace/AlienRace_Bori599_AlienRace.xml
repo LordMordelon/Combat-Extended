@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Millap_Bori\AlienRace_Bori599.xml -->
+	<!-- EN: left fist -->
+	<Alien_Bori.tools.0.label>left fist</Alien_Bori.tools.0.label>
+	<!-- EN: right fist -->
+	<Alien_Bori.tools.1.label>right fist</Alien_Bori.tools.1.label>
+	<!-- EN: head -->
+	<Alien_Bori.tools.2.label>head</Alien_Bori.tools.2.label>
+	
+	<!-- EN: left fist -->
+	<Alien_SP.tools.0.label>left fist</Alien_SP.tools.0.label>
+	<!-- EN: right fist -->
+	<Alien_SP.tools.1.label>right fist</Alien_SP.tools.1.label>
+	<!-- EN: head -->
+	<Alien_SP.tools.2.label>head</Alien_SP.tools.2.label>
+</LanguageData>

@@ -1,0 +1,23 @@
+<LanguageData>
+	<!-- ModPatches\Exotic Arsenal\Defs\Exotic Arsenal\Exotic_Ammo_Energy.xml -->
+	<!-- EN: Exotic energy cells -->
+	<AmmoSet_Equilibrium.label>Exotic energy cells</AmmoSet_Equilibrium.label>
+	<!-- EN: Exotic energy cells -->
+	<AmmoSet_Aesa.label>Exotic energy cells</AmmoSet_Aesa.label>
+	<!-- EN: Exotic energy cells -->
+	<AmmoSet_Shiver.label>Exotic energy cells</AmmoSet_Shiver.label>
+	<!-- EN: Exotic energy cells -->
+	<AmmoSet_Slashfire.label>Exotic energy cells</AmmoSet_Slashfire.label>
+	<!-- EN: Exotic energy cells -->
+	<AmmoSet_GlacialSF.label>Exotic energy cells</AmmoSet_GlacialSF.label>
+	<!-- EN: Exotic energy cells -->
+	<AmmoSet_celsius.label>Exotic energy cells</AmmoSet_celsius.label>
+	<!-- EN: Toxic energy bolts -->
+	<AmmoSet_Oberon.label>Toxic energy bolts</AmmoSet_Oberon.label>
+	<!-- EN: Hard light -->
+	<AmmoSet_Paladin.label>Hard light</AmmoSet_Paladin.label>
+	<!-- EN: Plasma incinerator -->
+	<AmmoSet_BFaith.label>Plasma incinerator</AmmoSet_BFaith.label>
+	<!-- EN: Exotic energy cells -->
+	<AmmoSet_Unleashed.label>Exotic energy cells</AmmoSet_Unleashed.label>
+</LanguageData>

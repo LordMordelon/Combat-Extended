@@ -1,0 +1,32 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VWEHW\RangedIndustrialHeavy1909.xml -->
+	<!-- EN: ㅤ -->
+	<VWE_Gun_Autocannon.verbs.0.label>ㅤ</VWE_Gun_Autocannon.verbs.0.label>
+	
+	<!-- EN: ㅤ -->
+	<VWE_Gun_HandheldMortar.verbs.0.label>ㅤ</VWE_Gun_HandheldMortar.verbs.0.label>
+	
+	<!-- EN: ㅤ -->
+	<VWE_Gun_HeavyFlamer.verbs.0.label>ㅤ</VWE_Gun_HeavyFlamer.verbs.0.label>
+	
+	<!-- EN: ㅤ -->
+	<VWE_Gun_SwarmMissileLauncher.verbs.0.label>ㅤ</VWE_Gun_SwarmMissileLauncher.verbs.0.label>
+	
+	<!-- EN: ㅤ -->
+	<VWE_Gun_UraniumSlugRifle.verbs.0.label>ㅤ</VWE_Gun_UraniumSlugRifle.verbs.0.label>
+	
+	<!-- EN: barrel -->
+	<VWE_Gun_Autocannon.tools.0.label>barrel</VWE_Gun_Autocannon.tools.0.label>
+	
+	<!-- EN: barrel -->
+	<VWE_Gun_HandheldMortar.tools.0.label>barrel</VWE_Gun_HandheldMortar.tools.0.label>
+	
+	<!-- EN: barrel -->
+	<VWE_Gun_HeavyFlamer.tools.0.label>barrel</VWE_Gun_HeavyFlamer.tools.0.label>
+	
+	<!-- EN: barrel -->
+	<VWE_Gun_SwarmMissileLauncher.tools.0.label>barrel</VWE_Gun_SwarmMissileLauncher.tools.0.label>
+	
+	<!-- EN: barrel -->
+	<VWE_Gun_UraniumSlugRifle.tools.0.label>barrel</VWE_Gun_UraniumSlugRifle.tools.0.label>
+</LanguageData>

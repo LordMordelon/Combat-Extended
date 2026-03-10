@@ -1,0 +1,45 @@
+<LanguageData>
+	<!-- Defs\Ammo\Rifle\30Carbine.xml -->
+	
+	<!-- EN: make .30 Carbine (FMJ) cartridge x500 -->
+	<MakeAmmo_30Carbine_FMJ.label>make .30 Carbine (FMJ) cartridge x500</MakeAmmo_30Carbine_FMJ.label>
+	<!-- EN: Craft 500 .30 Carbine (FMJ) cartridges. -->
+	<MakeAmmo_30Carbine_FMJ.description>Craft 500 .30 Carbine (FMJ) cartridges.</MakeAmmo_30Carbine_FMJ.description>
+	<!-- EN: Making .30 Carbine (FMJ) cartridges. -->
+	<MakeAmmo_30Carbine_FMJ.jobString>Making .30 Carbine (FMJ) cartridges.</MakeAmmo_30Carbine_FMJ.jobString>
+	
+	<!-- EN: make .30 Carbine (AP) cartridge x500 -->
+	<MakeAmmo_30Carbine_AP.label>make .30 Carbine (AP) cartridge x500</MakeAmmo_30Carbine_AP.label>
+	<!-- EN: Craft 500 .30 Carbine (AP) cartridges. -->
+	<MakeAmmo_30Carbine_AP.description>Craft 500 .30 Carbine (AP) cartridges.</MakeAmmo_30Carbine_AP.description>
+	<!-- EN: Making .30 Carbine (AP) cartridges. -->
+	<MakeAmmo_30Carbine_AP.jobString>Making .30 Carbine (AP) cartridges.</MakeAmmo_30Carbine_AP.jobString>
+	
+	<!-- EN: make .30 Carbine (HP) cartridge x500 -->
+	<MakeAmmo_30Carbine_HP.label>make .30 Carbine (HP) cartridge x500</MakeAmmo_30Carbine_HP.label>
+	<!-- EN: Craft 500 .30 Carbine (HP) cartridges. -->
+	<MakeAmmo_30Carbine_HP.description>Craft 500 .30 Carbine (HP) cartridges.</MakeAmmo_30Carbine_HP.description>
+	<!-- EN: Making .30 Carbine (HP) cartridges. -->
+	<MakeAmmo_30Carbine_HP.jobString>Making .30 Carbine (HP) cartridges.</MakeAmmo_30Carbine_HP.jobString>
+	
+	<!-- EN: make .30 Carbine (AP-I) cartridge x500 -->
+	<MakeAmmo_30Carbine_Incendiary.label>make .30 Carbine (AP-I) cartridge x500</MakeAmmo_30Carbine_Incendiary.label>
+	<!-- EN: Craft 500 .30 Carbine (AP-I) cartridges. -->
+	<MakeAmmo_30Carbine_Incendiary.description>Craft 500 .30 Carbine (AP-I) cartridges.</MakeAmmo_30Carbine_Incendiary.description>
+	<!-- EN: Making .30 Carbine (AP-I) cartridges. -->
+	<MakeAmmo_30Carbine_Incendiary.jobString>Making .30 Carbine (AP-I) cartridges.</MakeAmmo_30Carbine_Incendiary.jobString>
+	
+	<!-- EN: make .30 Carbine (AP-HE) cartridge x500 -->
+	<MakeAmmo_30Carbine_HE.label>make .30 Carbine (AP-HE) cartridge x500</MakeAmmo_30Carbine_HE.label>
+	<!-- EN: Craft 500 .30 Carbine (AP-HE) cartridges. -->
+	<MakeAmmo_30Carbine_HE.description>Craft 500 .30 Carbine (AP-HE) cartridges.</MakeAmmo_30Carbine_HE.description>
+	<!-- EN: Making .30 Carbine (AP-HE) cartridges. -->
+	<MakeAmmo_30Carbine_HE.jobString>Making .30 Carbine (AP-HE) cartridges.</MakeAmmo_30Carbine_HE.jobString>
+	
+	<!-- EN: make .30 Carbine (Sabot) cartridge x500 -->
+	<MakeAmmo_30Carbine_Sabot.label>make .30 Carbine (Sabot) cartridge x500</MakeAmmo_30Carbine_Sabot.label>
+	<!-- EN: Craft 500 .30 Carbine (Sabot) cartridges. -->
+	<MakeAmmo_30Carbine_Sabot.description>Craft 500 .30 Carbine (Sabot) cartridges.</MakeAmmo_30Carbine_Sabot.description>
+	<!-- EN: Making .30 Carbine (Sabot) cartridges. -->
+	<MakeAmmo_30Carbine_Sabot.jobString>Making .30 Carbine (Sabot) cartridges.</MakeAmmo_30Carbine_Sabot.jobString>
+</LanguageData>

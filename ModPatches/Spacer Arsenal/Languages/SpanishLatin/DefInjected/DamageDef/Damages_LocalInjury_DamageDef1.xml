@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- ModPatches\Spacer Arsenal\Defs\Spacer Arsenal\Damages_LocalInjury.xml -->
+	<!-- EN: Photon Scorch -->
+	<Photon.label>Photon Scorch</Photon.label>
+	<!-- EN: {0} has been scorched to death. -->
+	<Photon.deathMessage>{0} has been scorched to death.</Photon.deathMessage>
+</LanguageData>

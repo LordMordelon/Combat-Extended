@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla Factions Expanded - Medieval 2\Defs\Vanilla Factions Expanded - Medieval 2\DamageDefs\VFEM2_Arrow_Damage.xml -->
+	<!-- EN: arrow -->
+	<VFEM2_Arrow_Indirect.label>arrow</VFEM2_Arrow_Indirect.label>
+	<!-- EN: {0} has been killed. -->
+	<VFEM2_Arrow_Indirect.deathMessage>{0} has been killed.</VFEM2_Arrow_Indirect.deathMessage>
+</LanguageData>

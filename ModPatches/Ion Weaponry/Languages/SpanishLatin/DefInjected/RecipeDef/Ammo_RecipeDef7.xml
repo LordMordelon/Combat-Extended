@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- ModPatches\Ion Weaponry\Defs\Ion Weaponry\Ammo.xml -->
+	<!-- EN: make 4mm Railgun cartridge (Discharge) x500 -->
+	<MakeAmmo_4mmRailgun_Ion.label>make 4mm Railgun cartridge (Discharge) x500</MakeAmmo_4mmRailgun_Ion.label>
+	<!-- EN: Craft 500 4mm Railgun (Discharge) cartridges. -->
+	<MakeAmmo_4mmRailgun_Ion.description>Craft 500 4mm Railgun (Discharge) cartridges.</MakeAmmo_4mmRailgun_Ion.description>
+	<!-- EN: Making 4mm Railgun (Discharge) cartridges. -->
+	<MakeAmmo_4mmRailgun_Ion.jobString>Making 4mm Railgun (Discharge) cartridges.</MakeAmmo_4mmRailgun_Ion.jobString>
+	<!-- EN: make 6mm Railgun cartridge (Discharge) x500 -->
+	<MakeAmmo_6mmRailgun_Ion.label>make 6mm Railgun cartridge (Discharge) x500</MakeAmmo_6mmRailgun_Ion.label>
+	<!-- EN: Craft 500 6mm Railgun (Discharge) cartridges. -->
+	<MakeAmmo_6mmRailgun_Ion.description>Craft 500 6mm Railgun (Discharge) cartridges.</MakeAmmo_6mmRailgun_Ion.description>
+	<!-- EN: Making 6mm Railgun (Discharge) cartridges. -->
+	<MakeAmmo_6mmRailgun_Ion.jobString>Making 6mm Railgun (Discharge) cartridges.</MakeAmmo_6mmRailgun_Ion.jobString>
+	<!-- EN: make 8mm Railgun cartridge (Discharge) x200 -->
+	<MakeAmmo_8mmRailgun_Ion.label>make 8mm Railgun cartridge (Discharge) x200</MakeAmmo_8mmRailgun_Ion.label>
+	<!-- EN: Craft 200 8mm Railgun (Discharge) cartridges. -->
+	<MakeAmmo_8mmRailgun_Ion.description>Craft 200 8mm Railgun (Discharge) cartridges.</MakeAmmo_8mmRailgun_Ion.description>
+	<!-- EN: Making 8mm Railgun (Discharge) cartridges. -->
+	<MakeAmmo_8mmRailgun_Ion.jobString>Making 8mm Railgun (Discharge) cartridges.</MakeAmmo_8mmRailgun_Ion.jobString>
+	<!-- EN: make 12mm Railgun cartridge (Discharge) x100 -->
+	<MakeAmmo_12mmRailgun_Ion.label>make 12mm Railgun cartridge (Discharge) x100</MakeAmmo_12mmRailgun_Ion.label>
+	<!-- EN: Craft 100 12mm Railgun (Discharge) cartridges. -->
+	<MakeAmmo_12mmRailgun_Ion.description>Craft 100 12mm Railgun (Discharge) cartridges.</MakeAmmo_12mmRailgun_Ion.description>
+	<!-- EN: Making 12mm Railgun (Discharge) cartridges. -->
+	<MakeAmmo_12mmRailgun_Ion.jobString>Making 12mm Railgun (Discharge) cartridges.</MakeAmmo_12mmRailgun_Ion.jobString>
+</LanguageData>

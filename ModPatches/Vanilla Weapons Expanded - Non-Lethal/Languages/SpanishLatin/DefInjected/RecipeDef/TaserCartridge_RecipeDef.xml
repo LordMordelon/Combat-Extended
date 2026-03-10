@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla Weapons Expanded - Non-Lethal\Defs\Vanilla Weapons Expanded - Non-Lethal\TaserCartridge.xml -->
+	<!-- EN: make taser cartridge x50 -->
+	<MakeAmmo_Taser.label>make taser cartridge x50</MakeAmmo_Taser.label>
+	<!-- EN: Craft 50 taser cartridges. -->
+	<MakeAmmo_Taser.description>Craft 50 taser cartridges.</MakeAmmo_Taser.description>
+	<!-- EN: Making taser cartridges. -->
+	<MakeAmmo_Taser.jobString>Making taser cartridges.</MakeAmmo_Taser.jobString>
+</LanguageData>

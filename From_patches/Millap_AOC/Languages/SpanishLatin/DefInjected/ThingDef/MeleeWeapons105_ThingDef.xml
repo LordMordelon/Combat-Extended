@@ -1,0 +1,30 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Millap_AOC\MeleeWeapons105.xml -->
+	<!-- EN: handle -->
+	<AOC_F4T.tools.0.label>handle</AOC_F4T.tools.0.label>
+	<!-- EN: head -->
+	<AOC_F4T.tools.1.label>head</AOC_F4T.tools.1.label>
+	<!-- EN: edge -->
+	<AOC_F4T.tools.2.label>edge</AOC_F4T.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<AOC_ND.tools.0.label>shaft</AOC_ND.tools.0.label>
+	<!-- EN: shaft -->
+	<AOC_ND.tools.1.label>shaft</AOC_ND.tools.1.label>
+	<!-- EN: head -->
+	<AOC_ND.tools.2.label>head</AOC_ND.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<AOC_MonoSpear.tools.0.label>shaft</AOC_MonoSpear.tools.0.label>
+	<!-- EN: shaft -->
+	<AOC_MonoSpear.tools.1.label>shaft</AOC_MonoSpear.tools.1.label>
+	<!-- EN: head -->
+	<AOC_MonoSpear.tools.2.label>head</AOC_MonoSpear.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<AOC_LongMonoSpear.tools.0.label>shaft</AOC_LongMonoSpear.tools.0.label>
+	<!-- EN: shaft -->
+	<AOC_LongMonoSpear.tools.1.label>shaft</AOC_LongMonoSpear.tools.1.label>
+	<!-- EN: head -->
+	<AOC_LongMonoSpear.tools.2.label>head</AOC_LongMonoSpear.tools.2.label>
+</LanguageData>

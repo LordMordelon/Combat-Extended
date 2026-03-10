@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- ModPatches\Medieval Overhaul\Defs\Medieval Overhaul\Ammo\MO_Ammo_Arrows.xml -->
+	
+	<!-- EN: make iron arrows x10 -->
+	<MakeAmmo_Arrow_Iron.label>make iron arrows x10</MakeAmmo_Arrow_Iron.label>
+	<!-- EN: Craft 10 iron arrows. -->
+	<MakeAmmo_Arrow_Iron.description>Craft 10 iron arrows.</MakeAmmo_Arrow_Iron.description>
+	<!-- EN: Making iron arrows. -->
+	<MakeAmmo_Arrow_Iron.jobString>Making iron arrows.</MakeAmmo_Arrow_Iron.jobString>
+	
+	<!-- EN: make iron great arrows x10 -->
+	<MakeAmmo_GreatArrow_Iron.label>make iron great arrows x10</MakeAmmo_GreatArrow_Iron.label>
+	<!-- EN: Craft 10 iron great arrows. -->
+	<MakeAmmo_GreatArrow_Iron.description>Craft 10 iron great arrows.</MakeAmmo_GreatArrow_Iron.description>
+	<!-- EN: Making iron great arrows. -->
+	<MakeAmmo_GreatArrow_Iron.jobString>Making iron great arrows.</MakeAmmo_GreatArrow_Iron.jobString>
+</LanguageData>

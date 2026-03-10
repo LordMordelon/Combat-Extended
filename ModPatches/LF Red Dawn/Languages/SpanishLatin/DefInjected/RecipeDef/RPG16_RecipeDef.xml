@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- ModPatches\LF Red Dawn\Defs\LF Red Dawn\RPG16.xml -->
+	
+	<!-- EN: make RPG-16 HEAT grenades x5 -->
+	<MakeAmmo_RPG16Grenade_HEAT.label>make RPG-16 HEAT grenades x5</MakeAmmo_RPG16Grenade_HEAT.label>
+	<!-- EN: Craft 5 RPG-16 HEAT grenades. -->
+	<MakeAmmo_RPG16Grenade_HEAT.description>Craft 5 RPG-16 HEAT grenades.</MakeAmmo_RPG16Grenade_HEAT.description>
+	<!-- EN: Making RPG-16 HEAT grenades. -->
+	<MakeAmmo_RPG16Grenade_HEAT.jobString>Making RPG-16 HEAT grenades.</MakeAmmo_RPG16Grenade_HEAT.jobString>
+	
+	<!-- EN: make RPG-16 frag grenades x5 -->
+	<MakeAmmo_RPG16Grenade_Frag.label>make RPG-16 frag grenades x5</MakeAmmo_RPG16Grenade_Frag.label>
+	<!-- EN: Craft 5 RPG-16 frag grenades. -->
+	<MakeAmmo_RPG16Grenade_Frag.description>Craft 5 RPG-16 frag grenades.</MakeAmmo_RPG16Grenade_Frag.description>
+	<!-- EN: Making RPG-16 frag grenades. -->
+	<MakeAmmo_RPG16Grenade_Frag.jobString>Making RPG-16 frag grenades.</MakeAmmo_RPG16Grenade_Frag.jobString>
+</LanguageData>

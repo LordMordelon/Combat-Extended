@@ -1,0 +1,37 @@
+<LanguageData>
+	<!-- ModPatches\BiologicalWarfare\Defs\Ammo.xml -->
+	<!-- EN: FleshBreaker -->
+	<FleshBreaker.label>FleshBreaker</FleshBreaker.label>
+	<!-- EN: Filled with gas containing FleshBreaker. -->
+	<FleshBreaker.description>Filled with gas containing FleshBreaker.</FleshBreaker.description>
+	
+	<!-- EN: Flu -->
+	<Flu.label>Flu</Flu.label>
+	<!-- EN: Filled with gas containing Flu virus. -->
+	<Flu.description>Filled with gas containing Flu virus.</Flu.description>
+	
+	<!-- EN: Malaria -->
+	<Malaria.label>Malaria</Malaria.label>
+	<!-- EN: Filled with gas containing Malaria pathogen. -->
+	<Malaria.description>Filled with gas containing Malaria pathogen.</Malaria.description>
+	
+	<!-- EN: Necroa -->
+	<Necroa.label>Necroa</Necroa.label>
+	<!-- EN: Filled with gas containing Necroa archovirus, This archovirus turns pawns into shamblers post-mortem -->
+	<Necroa.description>Filled with gas containing Necroa archovirus, This archovirus turns pawns into shamblers post-mortem</Necroa.description>
+	
+	<!-- EN: Plague -->
+	<Plague.label>Plague</Plague.label>
+	<!-- EN: Filled with gas containing Plague bacteria. -->
+	<Plague.description>Filled with gas containing Plague bacteria.</Plague.description>
+	
+	<!-- EN: Scaria -->
+	<Scaria.label>Scaria</Scaria.label>
+	<!-- EN: Filled with gas containing Scaria virus. -->
+	<Scaria.description>Filled with gas containing Scaria virus.</Scaria.description>
+	
+	<!-- EN: SleepingSickness -->
+	<SleepingSickness.label>SleepingSickness</SleepingSickness.label>
+	<!-- EN: Filled with gas containing SleepingSickness parasite. -->
+	<SleepingSickness.description>Filled with gas containing SleepingSickness parasite.</SleepingSickness.description>
+</LanguageData>

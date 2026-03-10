@@ -1,0 +1,56 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VanillaAnimalsExpanded\AridShrubland_Animals1701.xml -->
+	<!-- EN: left claw -->
+	<AEXP_Cheetah.tools.0.label>left claw</AEXP_Cheetah.tools.0.label>
+	<!-- EN: right claw -->
+	<AEXP_Cheetah.tools.1.label>right claw</AEXP_Cheetah.tools.1.label>
+	<!-- EN: bite -->
+	<AEXP_Cheetah.tools.2.label>bite</AEXP_Cheetah.tools.2.label>
+	<!-- EN: head -->
+	<AEXP_Cheetah.tools.3.label>head</AEXP_Cheetah.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<AEXP_Coyote.tools.0.label>left claw</AEXP_Coyote.tools.0.label>
+	<!-- EN: right claw -->
+	<AEXP_Coyote.tools.1.label>right claw</AEXP_Coyote.tools.1.label>
+	<!-- EN: bite -->
+	<AEXP_Coyote.tools.2.label>bite</AEXP_Coyote.tools.2.label>
+	<!-- EN: head -->
+	<AEXP_Coyote.tools.3.label>head</AEXP_Coyote.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<AEXP_Crocodile.tools.0.label>left claw</AEXP_Crocodile.tools.0.label>
+	<!-- EN: right claw -->
+	<AEXP_Crocodile.tools.1.label>right claw</AEXP_Crocodile.tools.1.label>
+	<!-- EN: bite -->
+	<AEXP_Crocodile.tools.2.label>bite</AEXP_Crocodile.tools.2.label>
+	<!-- EN: head -->
+	<AEXP_Crocodile.tools.3.label>head</AEXP_Crocodile.tools.3.label>
+	
+	<!-- EN: left hoof -->
+	<AEXP_Giraffe.tools.0.label>left hoof</AEXP_Giraffe.tools.0.label>
+	<!-- EN: right hoof -->
+	<AEXP_Giraffe.tools.1.label>right hoof</AEXP_Giraffe.tools.1.label>
+	<!-- EN: bite -->
+	<AEXP_Giraffe.tools.2.label>bite</AEXP_Giraffe.tools.2.label>
+	<!-- EN: head -->
+	<AEXP_Giraffe.tools.3.label>head</AEXP_Giraffe.tools.3.label>
+	
+	<!-- EN: left hoof -->
+	<AEXP_Wildebeest.tools.0.label>left hoof</AEXP_Wildebeest.tools.0.label>
+	<!-- EN: right hoof -->
+	<AEXP_Wildebeest.tools.1.label>right hoof</AEXP_Wildebeest.tools.1.label>
+	<!-- EN: bite -->
+	<AEXP_Wildebeest.tools.2.label>bite</AEXP_Wildebeest.tools.2.label>
+	<!-- EN: head -->
+	<AEXP_Wildebeest.tools.3.label>head</AEXP_Wildebeest.tools.3.label>
+	
+	<!-- EN: left hoof -->
+	<AEXP_Zebra.tools.0.label>left hoof</AEXP_Zebra.tools.0.label>
+	<!-- EN: right hoof -->
+	<AEXP_Zebra.tools.1.label>right hoof</AEXP_Zebra.tools.1.label>
+	<!-- EN: bite -->
+	<AEXP_Zebra.tools.2.label>bite</AEXP_Zebra.tools.2.label>
+	<!-- EN: head -->
+	<AEXP_Zebra.tools.3.label>head</AEXP_Zebra.tools.3.label>
+</LanguageData>

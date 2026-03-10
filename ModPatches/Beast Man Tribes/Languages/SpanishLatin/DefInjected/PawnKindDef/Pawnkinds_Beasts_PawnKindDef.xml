@@ -1,0 +1,43 @@
+<LanguageData>
+	<!-- ModPatches\Beast Man Tribes\Defs\Beast Man Tribes\Pawnkinds_Beasts.xml -->
+	<!-- EN: boomer -->
+	<BearManGrenadier.label>boomer</BearManGrenadier.label>
+	<!-- EN: thunderer -->
+	<BearManGunner.label>thunderer</BearManGunner.label>
+	<!-- EN: boomer -->
+	<CamelManGrenadier.label>boomer</CamelManGrenadier.label>
+	<!-- EN: thunderer -->
+	<CamelManGunner.label>thunderer</CamelManGunner.label>
+	<!-- EN: boomer -->
+	<ElephantManGrenadier.label>boomer</ElephantManGrenadier.label>
+	<!-- EN: thunderer -->
+	<ElephantManGunner.label>thunderer</ElephantManGunner.label>
+	<!-- EN: boomer -->
+	<ElkManGrenadier.label>boomer</ElkManGrenadier.label>
+	<!-- EN: thunderer -->
+	<ElkManGunner.label>thunderer</ElkManGunner.label>
+	<!-- EN: yeefers -->
+	<FoxManGrenadier.label>yeefers</FoxManGrenadier.label>
+	<!-- EN: yiffers -->
+	<FoxManGunner.label>yiffers</FoxManGunner.label>
+	<!-- EN: boomer -->
+	<GazelleManGrenadier.label>boomer</GazelleManGrenadier.label>
+	<!-- EN: thunderer -->
+	<GazelleManGunner.label>thunderer</GazelleManGunner.label>
+	<!-- EN: boomer -->
+	<LynxManGrenadier.label>boomer</LynxManGrenadier.label>
+	<!-- EN: thunderer -->
+	<LynxManGunner.label>thunderer</LynxManGunner.label>
+	<!-- EN: boomer -->
+	<PigManGrenadier.label>boomer</PigManGrenadier.label>
+	<!-- EN: thunderer -->
+	<PigManGunner.label>thunderer</PigManGunner.label>
+	<!-- EN: boomer -->
+	<RaccoonManGrenadier.label>boomer</RaccoonManGrenadier.label>
+	<!-- EN: thunderer -->
+	<RaccoonManGunner.label>thunderer</RaccoonManGunner.label>
+	<!-- EN: woofers -->
+	<WolfManGrenadier.label>woofers</WolfManGrenadier.label>
+	<!-- EN: yiffers -->
+	<WolfManGunner.label>yiffers</WolfManGunner.label>
+</LanguageData>

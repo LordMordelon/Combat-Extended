@@ -1,0 +1,65 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\CP_RimmuNation_2_Weapons\RM2_CE_LMG1324.xml -->
+	<!-- EN: stock -->
+	<RNGun_FNMAG_GPMG.tools.0.label>stock</RNGun_FNMAG_GPMG.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_FNMAG_GPMG.tools.1.label>barrel</RNGun_FNMAG_GPMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_FNMAG_GPMG.tools.2.label>muzzle</RNGun_FNMAG_GPMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_Ksp58B_GPMG.tools.0.label>stock</RNGun_Ksp58B_GPMG.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_Ksp58B_GPMG.tools.1.label>barrel</RNGun_Ksp58B_GPMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_Ksp58B_GPMG.tools.2.label>muzzle</RNGun_Ksp58B_GPMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_M60_GPMG.tools.0.label>stock</RNGun_M60_GPMG.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_M60_GPMG.tools.1.label>barrel</RNGun_M60_GPMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_M60_GPMG.tools.2.label>muzzle</RNGun_M60_GPMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_M249_LMG.tools.0.label>stock</RNGun_M249_LMG.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_M249_LMG.tools.1.label>barrel</RNGun_M249_LMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_M249_LMG.tools.2.label>muzzle</RNGun_M249_LMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_PKM_GPMG.tools.0.label>stock</RNGun_PKM_GPMG.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_PKM_GPMG.tools.1.label>barrel</RNGun_PKM_GPMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_PKM_GPMG.tools.2.label>muzzle</RNGun_PKM_GPMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_RPD_LMG.tools.0.label>stock</RNGun_RPD_LMG.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_RPD_LMG.tools.1.label>barrel</RNGun_RPD_LMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_RPD_LMG.tools.2.label>muzzle</RNGun_RPD_LMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_Type81_LMG.tools.0.label>stock</RNGun_Type81_LMG.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_Type81_LMG.tools.1.label>barrel</RNGun_Type81_LMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_Type81_LMG.tools.2.label>muzzle</RNGun_Type81_LMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_MG42_GPMG.tools.0.label>stock</RNGun_MG42_GPMG.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_MG42_GPMG.tools.1.label>barrel</RNGun_MG42_GPMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_MG42_GPMG.tools.2.label>muzzle</RNGun_MG42_GPMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_RPK_LMG.tools.0.label>stock</RNGun_RPK_LMG.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_RPK_LMG.tools.1.label>barrel</RNGun_RPK_LMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_RPK_LMG.tools.2.label>muzzle</RNGun_RPK_LMG.tools.2.label>
+</LanguageData>

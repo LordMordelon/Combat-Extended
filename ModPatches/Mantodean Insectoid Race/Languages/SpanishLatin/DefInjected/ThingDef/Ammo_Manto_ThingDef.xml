@@ -1,0 +1,8 @@
+<LanguageData>
+	<!-- ModPatches\Mantodean Insectoid Race\Defs\Mantodean Insectoid Race\Ammo_Manto.xml -->
+	
+	<!-- EN: mantodean toxic gel -->
+	<Ammo_Mantogel.label>mantodean toxic gel</Ammo_Mantogel.label>
+	<!-- EN: Toxic thermal compound used in mantodean bio-launchers -->
+	<Ammo_Mantogel.description>Toxic thermal compound used in mantodean bio-launchers</Ammo_Mantogel.description>
+</LanguageData>

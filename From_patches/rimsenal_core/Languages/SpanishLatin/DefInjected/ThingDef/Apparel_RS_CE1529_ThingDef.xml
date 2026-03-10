@@ -1,0 +1,12 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\rimsenal_core\Apparel_RS_CE1529.xml -->
+	<!-- EN: launch EMP grenade -->
+	<Apparel_AssaultArmor.verbs.0.label>launch EMP grenade</Apparel_AssaultArmor.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<Apparel_AssaultArmor.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>ㅤ</Apparel_AssaultArmor.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>
+	
+	<!-- EN: launch crow feeder -->
+	<Apparel_Korp.verbs.0.label>launch crow feeder</Apparel_Korp.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<Apparel_Korp.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>ㅤ</Apparel_Korp.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>
+</LanguageData>

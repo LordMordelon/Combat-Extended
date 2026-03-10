@@ -1,0 +1,30 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Bucko_RoyalArsenal\RoyalArsenal_Melee1585.xml -->
+	<!-- EN: handle -->
+	<RA_MonoGreatsword.tools.0.label>handle</RA_MonoGreatsword.tools.0.label>
+	<!-- EN: point -->
+	<RA_MonoGreatsword.tools.1.label>point</RA_MonoGreatsword.tools.1.label>
+	<!-- EN: edge -->
+	<RA_MonoGreatsword.tools.2.label>edge</RA_MonoGreatsword.tools.2.label>
+	
+	<!-- EN: handle -->
+	<RA_MonoGreatswordBladelink.tools.0.label>handle</RA_MonoGreatswordBladelink.tools.0.label>
+	<!-- EN: point -->
+	<RA_MonoGreatswordBladelink.tools.1.label>point</RA_MonoGreatswordBladelink.tools.1.label>
+	<!-- EN: edge -->
+	<RA_MonoGreatswordBladelink.tools.2.label>edge</RA_MonoGreatswordBladelink.tools.2.label>
+	
+	<!-- EN: handle -->
+	<RA_PlasmaGreatsword.tools.0.label>handle</RA_PlasmaGreatsword.tools.0.label>
+	<!-- EN: point -->
+	<RA_PlasmaGreatsword.tools.1.label>point</RA_PlasmaGreatsword.tools.1.label>
+	<!-- EN: edge -->
+	<RA_PlasmaGreatsword.tools.2.label>edge</RA_PlasmaGreatsword.tools.2.label>
+	
+	<!-- EN: handle -->
+	<RA_PlasmaGreatswordBladelink.tools.0.label>handle</RA_PlasmaGreatswordBladelink.tools.0.label>
+	<!-- EN: point -->
+	<RA_PlasmaGreatswordBladelink.tools.1.label>point</RA_PlasmaGreatswordBladelink.tools.1.label>
+	<!-- EN: edge -->
+	<RA_PlasmaGreatswordBladelink.tools.2.label>edge</RA_PlasmaGreatswordBladelink.tools.2.label>
+</LanguageData>

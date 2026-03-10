@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- Defs\Ammo\Shell\105x607mmR.xml -->
+	
+	<!-- EN: 105x607mmR shell (HEAT) -->
+	<Ammo_105x607mmRShell_HEAT.label>105x607mmR shell (HEAT)</Ammo_105x607mmRShell_HEAT.label>
+	<!-- EN: High-caliber recoilless rifle shells, typically used by large recoilless rifles. -->
+	<Ammo_105x607mmRShell_HEAT.description>High-caliber recoilless rifle shells, typically used by large recoilless rifles.</Ammo_105x607mmRShell_HEAT.description>
+	
+	<!-- EN: 105x607mmR shell (HE) -->
+	<Ammo_105x607mmRShell_HE.label>105x607mmR shell (HE)</Ammo_105x607mmRShell_HE.label>
+	<!-- EN: High-caliber recoilless rifle shells, typically used by large recoilless rifles. -->
+	<Ammo_105x607mmRShell_HE.description>High-caliber recoilless rifle shells, typically used by large recoilless rifles.</Ammo_105x607mmRShell_HE.description>
+	
+	<!-- EN: 105x607mmR shell (HEAT) -->
+	<Bullet_105x607mmRShell_HEAT.label>105x607mmR shell (HEAT)</Bullet_105x607mmRShell_HEAT.label>
+	
+	<!-- EN: 105x607mmR shell (HE) -->
+	<Bullet_105x607mmRShell_HE.label>105x607mmR shell (HE)</Bullet_105x607mmRShell_HE.label>
+</LanguageData>

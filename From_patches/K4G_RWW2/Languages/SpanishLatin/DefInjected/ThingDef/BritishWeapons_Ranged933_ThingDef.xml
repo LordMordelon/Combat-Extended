@@ -1,0 +1,23 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\K4G_RWW2\BritishWeapons_Ranged933.xml -->
+	<!-- EN: barrel -->
+	<K4G_Gun_WW2BritishServiceRocketLauncher.tools.0.label>barrel</K4G_Gun_WW2BritishServiceRocketLauncher.tools.0.label>
+	<!-- EN: ㅤ -->
+	<K4G_Gun_WW2BritishServiceRevolver.verbs.0.label>ㅤ</K4G_Gun_WW2BritishServiceRevolver.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<K4G_Gun_WW2BritishServiceRevolverB.verbs.0.label>ㅤ</K4G_Gun_WW2BritishServiceRevolverB.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<K4G_Gun_WW2BritishServiceRifle.verbs.0.label>ㅤ</K4G_Gun_WW2BritishServiceRifle.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<K4G_Gun_WW2BritishServiceRifleBayonet.verbs.0.label>ㅤ</K4G_Gun_WW2BritishServiceRifleBayonet.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<K4G_Gun_WW2BritishServiceSMG.verbs.0.label>ㅤ</K4G_Gun_WW2BritishServiceSMG.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<K4G_Gun_WW2BritishServiceSMGB.verbs.0.label>ㅤ</K4G_Gun_WW2BritishServiceSMGB.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<K4G_Gun_WW2BritishServiceLMG.verbs.0.label>ㅤ</K4G_Gun_WW2BritishServiceLMG.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<K4G_Gun_WW2BritishServiceSniperRifle.verbs.0.label>ㅤ</K4G_Gun_WW2BritishServiceSniperRifle.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<K4G_Gun_WW2BritishServiceAntiTankRifle.verbs.0.label>ㅤ</K4G_Gun_WW2BritishServiceAntiTankRifle.verbs.0.label>
+</LanguageData>

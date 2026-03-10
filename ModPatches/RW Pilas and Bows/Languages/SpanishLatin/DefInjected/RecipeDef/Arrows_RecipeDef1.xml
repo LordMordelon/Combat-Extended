@@ -1,0 +1,59 @@
+<LanguageData>
+	<!-- ModPatches\RW Pilas and Bows\Defs\RW Pilas and Bows\Arrows.xml -->
+	
+	<!-- EN: make bownade arrows x10 -->
+	<MakeAmmo_Arrow_Grenade.label>make bownade arrows x10</MakeAmmo_Arrow_Grenade.label>
+	<!-- EN: Craft 10 bownade arrows. -->
+	<MakeAmmo_Arrow_Grenade.description>Craft 10 bownade arrows.</MakeAmmo_Arrow_Grenade.description>
+	<!-- EN: Making bownade arrows. -->
+	<MakeAmmo_Arrow_Grenade.jobString>Making bownade arrows.</MakeAmmo_Arrow_Grenade.jobString>
+	
+	<!-- EN: make bowlotov arrows x10 -->
+	<MakeAmmo_Arrow_Molotov.label>make bowlotov arrows x10</MakeAmmo_Arrow_Molotov.label>
+	<!-- EN: Craft 10 bowlotov arrows. -->
+	<MakeAmmo_Arrow_Molotov.description>Craft 10 bowlotov arrows.</MakeAmmo_Arrow_Molotov.description>
+	<!-- EN: Making bowlotov arrows. -->
+	<MakeAmmo_Arrow_Molotov.jobString>Making bowlotov arrows.</MakeAmmo_Arrow_Molotov.jobString>
+	
+	<!-- EN: make bowMP arrows x10 -->
+	<MakeAmmo_Arrow_EMP.label>make bowMP arrows x10</MakeAmmo_Arrow_EMP.label>
+	<!-- EN: Craft 10 bowMP arrows. -->
+	<MakeAmmo_Arrow_EMP.description>Craft 10 bowMP arrows.</MakeAmmo_Arrow_EMP.description>
+	<!-- EN: Making bowMP arrows. -->
+	<MakeAmmo_Arrow_EMP.jobString>Making bowMP arrows.</MakeAmmo_Arrow_EMP.jobString>
+	
+	<!-- EN: make bowttery arrows x10 -->
+	<MakeAmmo_Arrow_Battery.label>make bowttery arrows x10</MakeAmmo_Arrow_Battery.label>
+	<!-- EN: Craft 10 bowttery arrows. -->
+	<MakeAmmo_Arrow_Battery.description>Craft 10 bowttery arrows.</MakeAmmo_Arrow_Battery.description>
+	<!-- EN: Making bowttery arrows. -->
+	<MakeAmmo_Arrow_Battery.jobString>Making bowttery arrows.</MakeAmmo_Arrow_Battery.jobString>
+	
+	<!-- EN: make bownade great arrows x10 -->
+	<MakeAmmo_GreatArrow_Grenade.label>make bownade great arrows x10</MakeAmmo_GreatArrow_Grenade.label>
+	<!-- EN: Craft 10 bownade great arrows. -->
+	<MakeAmmo_GreatArrow_Grenade.description>Craft 10 bownade great arrows.</MakeAmmo_GreatArrow_Grenade.description>
+	<!-- EN: Making bownade great arrows. -->
+	<MakeAmmo_GreatArrow_Grenade.jobString>Making bownade great arrows.</MakeAmmo_GreatArrow_Grenade.jobString>
+	
+	<!-- EN: make bowlotov great arrows x10 -->
+	<MakeAmmo_GreatArrow_Molotov.label>make bowlotov great arrows x10</MakeAmmo_GreatArrow_Molotov.label>
+	<!-- EN: Craft 10 bowlotov great arrows. -->
+	<MakeAmmo_GreatArrow_Molotov.description>Craft 10 bowlotov great arrows.</MakeAmmo_GreatArrow_Molotov.description>
+	<!-- EN: Making bowlotov great arrows. -->
+	<MakeAmmo_GreatArrow_Molotov.jobString>Making bowlotov great arrows.</MakeAmmo_GreatArrow_Molotov.jobString>
+	
+	<!-- EN: make bowMP great arrows x10 -->
+	<MakeAmmo_GreatArrow_EMP.label>make bowMP great arrows x10</MakeAmmo_GreatArrow_EMP.label>
+	<!-- EN: Craft 10 bowMP great arrows. -->
+	<MakeAmmo_GreatArrow_EMP.description>Craft 10 bowMP great arrows.</MakeAmmo_GreatArrow_EMP.description>
+	<!-- EN: Making bowMP great arrows. -->
+	<MakeAmmo_GreatArrow_EMP.jobString>Making bowMP great arrows.</MakeAmmo_GreatArrow_EMP.jobString>
+	
+	<!-- EN: make bowttery great arrows x10 -->
+	<MakeAmmo_GreatArrow_Battery.label>make bowttery great arrows x10</MakeAmmo_GreatArrow_Battery.label>
+	<!-- EN: Craft 10 bowttery great arrows. -->
+	<MakeAmmo_GreatArrow_Battery.description>Craft 10 bowttery great arrows.</MakeAmmo_GreatArrow_Battery.description>
+	<!-- EN: Making bowttery great arrows. -->
+	<MakeAmmo_GreatArrow_Battery.jobString>Making bowttery great arrows.</MakeAmmo_GreatArrow_Battery.jobString>
+</LanguageData>

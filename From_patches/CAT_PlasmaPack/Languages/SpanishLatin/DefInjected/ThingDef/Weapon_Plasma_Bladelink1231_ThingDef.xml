@@ -1,0 +1,71 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\CAT_PlasmaPack\Weapon_Plasma_Bladelink1231.xml -->
+	<!-- EN: handle -->
+	<CAT_PlasmaAxeBladelink.tools.0.label>handle</CAT_PlasmaAxeBladelink.tools.0.label>
+	<!-- EN: point -->
+	<CAT_PlasmaAxeBladelink.tools.1.label>point</CAT_PlasmaAxeBladelink.tools.1.label>
+	<!-- EN: edge -->
+	<CAT_PlasmaAxeBladelink.tools.2.label>edge</CAT_PlasmaAxeBladelink.tools.2.label>
+	
+	<!-- EN: handle -->
+	<CAT_PlasmaHalberdBladelink.tools.0.label>handle</CAT_PlasmaHalberdBladelink.tools.0.label>
+	<!-- EN: point -->
+	<CAT_PlasmaHalberdBladelink.tools.1.label>point</CAT_PlasmaHalberdBladelink.tools.1.label>
+	<!-- EN: edge -->
+	<CAT_PlasmaHalberdBladelink.tools.2.label>edge</CAT_PlasmaHalberdBladelink.tools.2.label>
+	
+	<!-- EN: handle -->
+	<CAT_PlasmaKhopeshBladelink.tools.0.label>handle</CAT_PlasmaKhopeshBladelink.tools.0.label>
+	<!-- EN: point -->
+	<CAT_PlasmaKhopeshBladelink.tools.1.label>point</CAT_PlasmaKhopeshBladelink.tools.1.label>
+	<!-- EN: edge -->
+	<CAT_PlasmaKhopeshBladelink.tools.2.label>edge</CAT_PlasmaKhopeshBladelink.tools.2.label>
+	
+	<!-- EN: handle -->
+	<CAT_PlasmaScytheBladelink.tools.0.label>handle</CAT_PlasmaScytheBladelink.tools.0.label>
+	<!-- EN: edge -->
+	<CAT_PlasmaScytheBladelink.tools.1.label>edge</CAT_PlasmaScytheBladelink.tools.1.label>
+	
+	<!-- EN: handle -->
+	<CAT_PlasmaTwinBlades.tools.0.label>handle</CAT_PlasmaTwinBlades.tools.0.label>
+	<!-- EN: point -->
+	<CAT_PlasmaTwinBlades.tools.1.label>point</CAT_PlasmaTwinBlades.tools.1.label>
+	<!-- EN: edge -->
+	<CAT_PlasmaTwinBlades.tools.2.label>edge</CAT_PlasmaTwinBlades.tools.2.label>
+	
+	<!-- EN: handle -->
+	<CAT_PlasmaTwinBladesBladelink.tools.0.label>handle</CAT_PlasmaTwinBladesBladelink.tools.0.label>
+	<!-- EN: point -->
+	<CAT_PlasmaTwinBladesBladelink.tools.1.label>point</CAT_PlasmaTwinBladesBladelink.tools.1.label>
+	<!-- EN: edge -->
+	<CAT_PlasmaTwinBladesBladelink.tools.2.label>edge</CAT_PlasmaTwinBladesBladelink.tools.2.label>
+	
+	<!-- EN: handle -->
+	<CAT_PlasmaGreatswordBladelink.tools.0.label>handle</CAT_PlasmaGreatswordBladelink.tools.0.label>
+	<!-- EN: point -->
+	<CAT_PlasmaGreatswordBladelink.tools.1.label>point</CAT_PlasmaGreatswordBladelink.tools.1.label>
+	<!-- EN: edge -->
+	<CAT_PlasmaGreatswordBladelink.tools.2.label>edge</CAT_PlasmaGreatswordBladelink.tools.2.label>
+	
+	<!-- EN: handle -->
+	<CAT_PrestigePlasmaSwordBladelink.tools.0.label>handle</CAT_PrestigePlasmaSwordBladelink.tools.0.label>
+	<!-- EN: point -->
+	<CAT_PrestigePlasmaSwordBladelink.tools.1.label>point</CAT_PrestigePlasmaSwordBladelink.tools.1.label>
+	<!-- EN: edge -->
+	<CAT_PrestigePlasmaSwordBladelink.tools.2.label>edge</CAT_PrestigePlasmaSwordBladelink.tools.2.label>
+	
+	<!-- EN: handle -->
+	<CAT_PrestigePlasmaGreataxeBladelink.tools.0.label>handle</CAT_PrestigePlasmaGreataxeBladelink.tools.0.label>
+	<!-- EN: cleave -->
+	<CAT_PrestigePlasmaGreataxeBladelink.tools.1.label>cleave</CAT_PrestigePlasmaGreataxeBladelink.tools.1.label>
+	
+	<!-- EN: handle -->
+	<CAT_PlasmaCleaverBladelink.tools.0.label>handle</CAT_PlasmaCleaverBladelink.tools.0.label>
+	<!-- EN: point -->
+	<CAT_PlasmaCleaverBladelink.tools.1.label>point</CAT_PlasmaCleaverBladelink.tools.1.label>
+	<!-- EN: cleave -->
+	<CAT_PlasmaCleaverBladelink.tools.2.label>cleave</CAT_PlasmaCleaverBladelink.tools.2.label>
+	
+	<!-- EN: Sawblades -->
+	<CAT_PlasmaSawBladelink.tools.0.label>Sawblades</CAT_PlasmaSawBladelink.tools.0.label>
+</LanguageData>

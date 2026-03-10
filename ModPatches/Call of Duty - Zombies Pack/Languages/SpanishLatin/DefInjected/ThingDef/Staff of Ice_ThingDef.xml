@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Staffs\Staff of Ice.xml -->
+	<!-- EN: Elemental Ice Crystal -->
+	<Ammo_Elemental_Staff_Ice.label>Elemental Ice Crystal</Ammo_Elemental_Staff_Ice.label>
+	<!-- EN: A brilliant coloured Gem that radiates power -->
+	<Ammo_Elemental_Staff_Ice.description>A brilliant coloured Gem that radiates power</Ammo_Elemental_Staff_Ice.description>
+	<!-- EN: Ice Projectile -->
+	<Bullet_Elemental_Staff_Ice.label>Ice Projectile</Bullet_Elemental_Staff_Ice.label>
+</LanguageData>

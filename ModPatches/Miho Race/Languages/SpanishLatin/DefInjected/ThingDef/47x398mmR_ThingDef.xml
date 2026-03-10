@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- ModPatches\Miho Race\Defs\Miho Race\Ammo\47x398mmR.xml -->
+	
+	<!-- EN: 47x398mmR cartridge (AP) -->
+	<Ammo_47x398mmR_AP.label>47x398mmR cartridge (AP)</Ammo_47x398mmR_AP.label>
+	<!-- EN: Large caliber shell used by tank guns. -->
+	<Ammo_47x398mmR_AP.description>Large caliber shell used by tank guns.</Ammo_47x398mmR_AP.description>
+	
+	<!-- EN: 47x398mmR cartridge (HE) -->
+	<Ammo_47x398mmR_HE.label>47x398mmR cartridge (HE)</Ammo_47x398mmR_HE.label>
+	<!-- EN: Large caliber shell used by tank guns. -->
+	<Ammo_47x398mmR_HE.description>Large caliber shell used by tank guns.</Ammo_47x398mmR_HE.description>
+	
+	<!-- EN: 47x398mmR cartridge (EMP) -->
+	<Ammo_47x398mmR_EMP.label>47x398mmR cartridge (EMP)</Ammo_47x398mmR_EMP.label>
+	<!-- EN: Large caliber shell used by tank guns. -->
+	<Ammo_47x398mmR_EMP.description>Large caliber shell used by tank guns.</Ammo_47x398mmR_EMP.description>
+	
+	<!-- EN: 47x398mmR bullet (AP) -->
+	<Bullet_47x398mmR_AP.label>47x398mmR bullet (AP)</Bullet_47x398mmR_AP.label>
+	
+	<!-- EN: 47x398mmR bullet (HE) -->
+	<Bullet_47x398mmR_HE.label>47x398mmR bullet (HE)</Bullet_47x398mmR_HE.label>
+	
+	<!-- EN: 47x398mmR bullet (EMP) -->
+	<Bullet_47x398mmR_EMP.label>47x398mmR bullet (EMP)</Bullet_47x398mmR_EMP.label>
+</LanguageData>

@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Defs\Ammo\Advanced\60x225mmGammaShell.xml -->
+	<!-- EN: 60x225mm gamma shell (Standard) -->
+	<Ammo_60x225mmGamma_Standard.label>60x225mm gamma shell (Standard)</Ammo_60x225mmGamma_Standard.label>
+	<!-- EN: Shell containing large amounts of ionising gamma radiation. -->
+	<Ammo_60x225mmGamma_Standard.description>Shell containing large amounts of ionising gamma radiation.</Ammo_60x225mmGamma_Standard.description>
+	<!-- EN: radiation cannon shell -->
+	<Bullet_60x225mmGamma_Standard.label>radiation cannon shell</Bullet_60x225mmGamma_Standard.label>
+</LanguageData>

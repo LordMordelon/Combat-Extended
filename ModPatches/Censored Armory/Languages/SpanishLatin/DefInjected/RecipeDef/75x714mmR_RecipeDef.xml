@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- ModPatches\Censored Armory\Defs\Censored Armory\75x714mmR.xml -->
+	
+	<!-- EN: make 75x714mm AP cannon shells x5 -->
+	<MakeAmmo_75x714mmRShell_AP.label>make 75x714mm AP cannon shells x5</MakeAmmo_75x714mmRShell_AP.label>
+	<!-- EN: Craft 5 75x714mm AP cannon shells. -->
+	<MakeAmmo_75x714mmRShell_AP.description>Craft 5 75x714mm AP cannon shells.</MakeAmmo_75x714mmRShell_AP.description>
+	<!-- EN: Making 75x714mm AP cannon shells. -->
+	<MakeAmmo_75x714mmRShell_AP.jobString>Making 75x714mm AP cannon shells.</MakeAmmo_75x714mmRShell_AP.jobString>
+	
+	<!-- EN: make 75x714mm HE cannon shells x5 -->
+	<MakeAmmo_75x714mmRShell_HE.label>make 75x714mm HE cannon shells x5</MakeAmmo_75x714mmRShell_HE.label>
+	<!-- EN: Craft 5 75x714mm HE cannon shells. -->
+	<MakeAmmo_75x714mmRShell_HE.description>Craft 5 75x714mm HE cannon shells.</MakeAmmo_75x714mmRShell_HE.description>
+	<!-- EN: Making 75x714mm HE cannon shells. -->
+	<MakeAmmo_75x714mmRShell_HE.jobString>Making 75x714mm HE cannon shells.</MakeAmmo_75x714mmRShell_HE.jobString>
+</LanguageData>

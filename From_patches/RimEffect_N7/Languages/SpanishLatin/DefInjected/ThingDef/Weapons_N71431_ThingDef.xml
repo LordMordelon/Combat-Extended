@@ -1,0 +1,111 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\RimEffect_N7\Weapons_N71431.xml -->
+	<!-- EN: grip -->
+	<RE_Gun_N7Pistol.tools.0.label>grip</RE_Gun_N7Pistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<RE_Gun_N7Pistol.tools.1.label>muzzle</RE_Gun_N7Pistol.tools.1.label>
+	
+	<!-- EN: grip -->
+	<REN7_Gun_N7SMG.tools.0.label>grip</REN7_Gun_N7SMG.tools.0.label>
+	<!-- EN: muzzle -->
+	<REN7_Gun_N7SMG.tools.1.label>muzzle</REN7_Gun_N7SMG.tools.1.label>
+	
+	<!-- EN: stock -->
+	<REN7_Gun_N7BattleRifle.tools.0.label>stock</REN7_Gun_N7BattleRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<REN7_Gun_N7BattleRifle.tools.1.label>barrel</REN7_Gun_N7BattleRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<REN7_Gun_N7BattleRifle.tools.2.label>muzzle</REN7_Gun_N7BattleRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<REN7_Gun_N7Shotgun.tools.0.label>stock</REN7_Gun_N7Shotgun.tools.0.label>
+	<!-- EN: barrel -->
+	<REN7_Gun_N7Shotgun.tools.1.label>barrel</REN7_Gun_N7Shotgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<REN7_Gun_N7Shotgun.tools.2.label>muzzle</REN7_Gun_N7Shotgun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<REN7_Gun_N7DMR.tools.0.label>stock</REN7_Gun_N7DMR.tools.0.label>
+	<!-- EN: barrel -->
+	<REN7_Gun_N7DMR.tools.1.label>barrel</REN7_Gun_N7DMR.tools.1.label>
+	<!-- EN: muzzle -->
+	<REN7_Gun_N7DMR.tools.2.label>muzzle</REN7_Gun_N7DMR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<REN7_Gun_N7AntimaterielRifle.tools.0.label>stock</REN7_Gun_N7AntimaterielRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<REN7_Gun_N7AntimaterielRifle.tools.1.label>barrel</REN7_Gun_N7AntimaterielRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<REN7_Gun_N7AntimaterielRifle.tools.2.label>muzzle</REN7_Gun_N7AntimaterielRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<REN7_Gun_N7BlackHoleGenerator.tools.0.label>stock</REN7_Gun_N7BlackHoleGenerator.tools.0.label>
+	<!-- EN: barrel -->
+	<REN7_Gun_N7BlackHoleGenerator.tools.1.label>barrel</REN7_Gun_N7BlackHoleGenerator.tools.1.label>
+	<!-- EN: muzzle -->
+	<REN7_Gun_N7BlackHoleGenerator.tools.2.label>muzzle</REN7_Gun_N7BlackHoleGenerator.tools.2.label>
+	
+	<!-- EN: stock -->
+	<REN7_Gun_N7ChainShotgun.tools.0.label>stock</REN7_Gun_N7ChainShotgun.tools.0.label>
+	<!-- EN: barrel -->
+	<REN7_Gun_N7ChainShotgun.tools.1.label>barrel</REN7_Gun_N7ChainShotgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<REN7_Gun_N7ChainShotgun.tools.2.label>muzzle</REN7_Gun_N7ChainShotgun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<REN7_Gun_N7LMG.tools.0.label>stock</REN7_Gun_N7LMG.tools.0.label>
+	<!-- EN: barrel -->
+	<REN7_Gun_N7LMG.tools.1.label>barrel</REN7_Gun_N7LMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<REN7_Gun_N7LMG.tools.2.label>muzzle</REN7_Gun_N7LMG.tools.2.label>
+	
+	<!-- EN: edge -->
+	<REN7_MeleeWeapon_N7Blade.tools.0.label>edge</REN7_MeleeWeapon_N7Blade.tools.0.label>
+	<!-- EN: point -->
+	<REN7_MeleeWeapon_N7Blade.tools.1.label>point</REN7_MeleeWeapon_N7Blade.tools.1.label>
+	
+	<!-- EN: ㅤ -->
+	<REN7_Gun_N7BlackHoleGenerator.verbs.0.label>ㅤ</REN7_Gun_N7BlackHoleGenerator.verbs.0.label>
+	<!-- EN: M-490 Blackstorm -->
+	<REN7_Gun_N7BlackHoleGenerator.label>M-490 Blackstorm</REN7_Gun_N7BlackHoleGenerator.label>
+	
+	<!-- EN: N7 Valkyrie -->
+	<REN7_Gun_N7BattleRifle.label>N7 Valkyrie</REN7_Gun_N7BattleRifle.label>
+	<!-- EN: Based on the popular M8 Avenger, the Valkyrie is an accurate and deadly rifle that fires powerful slugs in 2 round bursts, it quickly became a hot black-market item when it surfaces. -->
+	<REN7_Gun_N7BattleRifle.description>Based on the popular M8 Avenger, the Valkyrie is an accurate and deadly rifle that fires powerful slugs in 2 round bursts, it quickly became a hot black-market item when it surfaces.</REN7_Gun_N7BattleRifle.description>
+	
+	<!-- EN: N7 Typhoon -->
+	<REN7_Gun_N7LMG.label>N7 Typhoon</REN7_Gun_N7LMG.label>
+	<!-- EN: The Typhoon is a distinctive light machine gun featuring a face shield to protect the shooter from stray shots. It is heavy, clumsy and highly ammo intentsive to fire, but it more than made up for it through the sheer firepower it could put down range.(Has a 10% chance to deflect any incoming projectile) -->
+	<REN7_Gun_N7LMG.description>The Typhoon is a distinctive light machine gun featuring a face shield to protect the shooter from stray shots. It is heavy, clumsy and highly ammo intentsive to fire, but it more than made up for it through the sheer firepower it could put down range.(Has a 10% chance to deflect any incoming projectile)</REN7_Gun_N7LMG.description>
+	
+	<!-- EN: N7 Eagle -->
+	<RE_Gun_N7Pistol.label>N7 Eagle</RE_Gun_N7Pistol.label>
+	<!-- EN: The latest result of the Alliance's offensive handgun project, the Eagle is a compact, fully automatic pistol that delivers unprecedented accuracy and punch with a rapid firing rate. -->
+	<RE_Gun_N7Pistol.description>The latest result of the Alliance's offensive handgun project, the Eagle is a compact, fully automatic pistol that delivers unprecedented accuracy and punch with a rapid firing rate.</RE_Gun_N7Pistol.description>
+	
+	<!-- EN: N7 Hurricane -->
+	<REN7_Gun_N7SMG.label>N7 Hurricane</REN7_Gun_N7SMG.label>
+	<!-- EN: A submachine gun with an unpleasantly high rate of fire for both its user and its target. While some militaries pass on the Hurricane because of its lower accuracy and high recoil, its frightening ability to chew thorugh targets at close range makes it a favourite amongst close quarter specialists. -->
+	<REN7_Gun_N7SMG.description>A submachine gun with an unpleasantly high rate of fire for both its user and its target. While some militaries pass on the Hurricane because of its lower accuracy and high recoil, its frightening ability to chew thorugh targets at close range makes it a favourite amongst close quarter specialists.</REN7_Gun_N7SMG.description>
+	
+	<!-- EN: N7 Valiant -->
+	<REN7_Gun_N7DMR.label>N7 Valiant</REN7_Gun_N7DMR.label>
+	<!-- EN: The Valiant is a streamlined sniper rifle noted for its sophisticated fire-control system which makes it easy to use and quick to reload, it is a good balance of single shot stopping power, accuracy and rate of fire. Proven to be reliable even in harsh environments, it is popular among alliance N7 recon and scout troopers. -->
+	<REN7_Gun_N7DMR.description>The Valiant is a streamlined sniper rifle noted for its sophisticated fire-control system which makes it easy to use and quick to reload, it is a good balance of single shot stopping power, accuracy and rate of fire. Proven to be reliable even in harsh environments, it is popular among alliance N7 recon and scout troopers.</REN7_Gun_N7DMR.description>
+	
+	<!-- EN: Black Widow -->
+	<REN7_Gun_N7AntimaterielRifle.label>Black Widow</REN7_Gun_N7AntimaterielRifle.label>
+	<!-- EN: A development aimed at improving on the original M98 Widow, the Black Widow is a heavy anti-material rifle aimed at recifying the slow fire rate of the original widow by allowing for multiple shot before needing to load another thermal clip. While it does have a noticeably lower per-shot stopping power, the Black Widow's ability to make quick follow up shots makes it superior in most combat situations. -->
+	<REN7_Gun_N7AntimaterielRifle.description>A development aimed at improving on the original M98 Widow, the Black Widow is a heavy anti-material rifle aimed at recifying the slow fire rate of the original widow by allowing for multiple shot before needing to load another thermal clip. While it does have a noticeably lower per-shot stopping power, the Black Widow's ability to make quick follow up shots makes it superior in most combat situations.</REN7_Gun_N7AntimaterielRifle.description>
+	
+	<!-- EN: N7 Crusader -->
+	<REN7_Gun_N7Shotgun.label>N7 Crusader</REN7_Gun_N7Shotgun.label>
+	<!-- EN: While frequently referred to as a "shotgun", the Crusader has nothing in common with other shotgun other than its patterned design. Instead of firing multiple small projectiles with every pull of the trigger, it fires a single heavy slug with high precision, careful aiming should be employed when using this deadly weapon. -->
+	<REN7_Gun_N7Shotgun.description>While frequently referred to as a "shotgun", the Crusader has nothing in common with other shotgun other than its patterned design. Instead of firing multiple small projectiles with every pull of the trigger, it fires a single heavy slug with high precision, careful aiming should be employed when using this deadly weapon.</REN7_Gun_N7Shotgun.description>
+	
+	<!-- EN: N7 Piranha -->
+	<REN7_Gun_N7ChainShotgun.label>N7 Piranha</REN7_Gun_N7ChainShotgun.label>
+	<!-- EN: The N7 Piranha is a light assault shotgun that features an impressive fire rate, the relatively large spread of its submunitions is a deliberate feature to combat hordes of charging melee enemies. It is popular among lighter frame alien species and widely distributed by the Alliance amongst its alien clients in order to fight a common foe. -->
+	<REN7_Gun_N7ChainShotgun.description>The N7 Piranha is a light assault shotgun that features an impressive fire rate, the relatively large spread of its submunitions is a deliberate feature to combat hordes of charging melee enemies. It is popular among lighter frame alien species and widely distributed by the Alliance amongst its alien clients in order to fight a common foe.</REN7_Gun_N7ChainShotgun.description>
+</LanguageData>

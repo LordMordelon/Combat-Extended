@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VanillaAnimalsExpanded\TropicalRainforest_Animals1716.xml -->
+	<!-- EN: left fist -->
+	<AEXP_Gorilla.tools.0.label>left fist</AEXP_Gorilla.tools.0.label>
+	<!-- EN: right fist -->
+	<AEXP_Gorilla.tools.1.label>right fist</AEXP_Gorilla.tools.1.label>
+	<!-- EN: head -->
+	<AEXP_Gorilla.tools.3.label>head</AEXP_Gorilla.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<AEXP_Tiger.tools.0.label>left claw</AEXP_Tiger.tools.0.label>
+	<!-- EN: right claw -->
+	<AEXP_Tiger.tools.1.label>right claw</AEXP_Tiger.tools.1.label>
+	<!-- EN: head -->
+	<AEXP_Tiger.tools.3.label>head</AEXP_Tiger.tools.3.label>
+</LanguageData>

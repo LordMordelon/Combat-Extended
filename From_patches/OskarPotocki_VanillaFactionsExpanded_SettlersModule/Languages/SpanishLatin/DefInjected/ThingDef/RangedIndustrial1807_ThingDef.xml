@@ -1,0 +1,21 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\OskarPotocki_VanillaFactionsExpanded_SettlersModule\RangedIndustrial1807.xml -->
+	<!-- EN: grip -->
+	<VFES_Gun_DoubleActionRevolver.tools.0.label>grip</VFES_Gun_DoubleActionRevolver.tools.0.label>
+	<!-- EN: muzzle -->
+	<VFES_Gun_DoubleActionRevolver.tools.1.label>muzzle</VFES_Gun_DoubleActionRevolver.tools.1.label>
+	
+	<!-- EN: stock -->
+	<VFES_Gun_DoubleBarreledShotgun.tools.0.label>stock</VFES_Gun_DoubleBarreledShotgun.tools.0.label>
+	<!-- EN: barrel -->
+	<VFES_Gun_DoubleBarreledShotgun.tools.1.label>barrel</VFES_Gun_DoubleBarreledShotgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<VFES_Gun_DoubleBarreledShotgun.tools.2.label>muzzle</VFES_Gun_DoubleBarreledShotgun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<VFES_Gun_HuntingRifle.tools.0.label>stock</VFES_Gun_HuntingRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<VFES_Gun_HuntingRifle.tools.1.label>barrel</VFES_Gun_HuntingRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<VFES_Gun_HuntingRifle.tools.2.label>muzzle</VFES_Gun_HuntingRifle.tools.2.label>
+</LanguageData>

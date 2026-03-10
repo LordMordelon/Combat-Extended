@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Rimsenal Feral\Defs\Rimsenal Feral\ThingDefs_Misc\Ammo_Feral.xml -->
+	<!-- EN: scrap -->
+	<FeralScrap.label>scrap</FeralScrap.label>
+	<!-- EN: scrap -->
+	<FeralScrap.labelShort>scrap</FeralScrap.labelShort>
+	<!-- EN: Bits of metal scraps -->
+	<FeralScrap.description>Bits of metal scraps</FeralScrap.description>
+</LanguageData>

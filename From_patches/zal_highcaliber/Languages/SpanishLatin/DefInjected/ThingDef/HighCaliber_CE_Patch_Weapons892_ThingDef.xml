@@ -1,0 +1,32 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\zal_highcaliber\HighCaliber_CE_Patch_Weapons892.xml -->
+	<!-- EN: grip -->
+	<Gun_HC_Glock17_HC.tools.0.label>grip</Gun_HC_Glock17_HC.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_HC_Glock17_HC.tools.1.label>muzzle</Gun_HC_Glock17_HC.tools.1.label>
+	
+	<!-- EN: grip -->
+	<Gun_HC_DesertEagle_HC.tools.0.label>grip</Gun_HC_DesertEagle_HC.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_HC_DesertEagle_HC.tools.1.label>muzzle</Gun_HC_DesertEagle_HC.tools.1.label>
+	
+	<!-- EN: grip -->
+	<Gun_HC_SW500_HC.tools.0.label>grip</Gun_HC_SW500_HC.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_HC_SW500_HC.tools.1.label>muzzle</Gun_HC_SW500_HC.tools.1.label>
+	
+	<!-- EN: grip -->
+	<Gun_HC_P226_HC.tools.0.label>grip</Gun_HC_P226_HC.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_HC_P226_HC.tools.1.label>muzzle</Gun_HC_P226_HC.tools.1.label>
+	
+	<!-- EN: grip -->
+	<Gun_HC_HK45_HC.tools.0.label>grip</Gun_HC_HK45_HC.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_HC_HK45_HC.tools.1.label>muzzle</Gun_HC_HK45_HC.tools.1.label>
+	
+	<!-- EN: grip -->
+	<Gun_HC_Fiveseven_HC.tools.0.label>grip</Gun_HC_Fiveseven_HC.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_HC_Fiveseven_HC.tools.1.label>muzzle</Gun_HC_Fiveseven_HC.tools.1.label>
+</LanguageData>

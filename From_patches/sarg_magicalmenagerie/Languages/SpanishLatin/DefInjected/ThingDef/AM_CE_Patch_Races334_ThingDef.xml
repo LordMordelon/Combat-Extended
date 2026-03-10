@@ -1,0 +1,241 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\sarg_magicalmenagerie\AM_CE_Patch_Races334.xml -->
+	<!-- EN: grabbing hand -->
+	<MM_Ahuizotl.tools.0.label>grabbing hand</MM_Ahuizotl.tools.0.label>
+	<!-- EN: left claw -->
+	<MM_Ahuizotl.tools.1.label>left claw</MM_Ahuizotl.tools.1.label>
+	<!-- EN: right claw -->
+	<MM_Ahuizotl.tools.2.label>right claw</MM_Ahuizotl.tools.2.label>
+	<!-- EN: head -->
+	<MM_Ahuizotl.tools.4.label>head</MM_Ahuizotl.tools.4.label>
+	
+	<!-- EN: fangs -->
+	<MM_Basilisk.tools.0.label>fangs</MM_Basilisk.tools.0.label>
+	<!-- EN: head -->
+	<MM_Basilisk.tools.1.label>head</MM_Basilisk.tools.1.label>
+	<!-- EN: petrifying gaze -->
+	<MM_Basilisk.verbs.0.label>petrifying gaze</MM_Basilisk.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<MM_Basilisk.verbs.CombatExtended.Verb_ShootCE.label>ㅤ</MM_Basilisk.verbs.CombatExtended.Verb_ShootCE.label>
+	
+	<!-- EN: head -->
+	<MM_Catoblepas.tools.0.label>head</MM_Catoblepas.tools.0.label>
+	<!-- EN: left hoof -->
+	<MM_Catoblepas.tools.1.label>left hoof</MM_Catoblepas.tools.1.label>
+	<!-- EN: right hoof -->
+	<MM_Catoblepas.tools.2.label>right hoof</MM_Catoblepas.tools.2.label>
+	<!-- EN: petrifying gaze -->
+	<MM_Catoblepas.verbs.0.label>petrifying gaze</MM_Catoblepas.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<MM_Catoblepas.verbs.CombatExtended.Verb_ShootCE.label>ㅤ</MM_Catoblepas.verbs.CombatExtended.Verb_ShootCE.label>
+	
+	<!-- EN: left claw -->
+	<MM_Cerberus.tools.0.label>left claw</MM_Cerberus.tools.0.label>
+	<!-- EN: right claw -->
+	<MM_Cerberus.tools.1.label>right claw</MM_Cerberus.tools.1.label>
+	<!-- EN: head -->
+	<MM_Cerberus.tools.3.label>head</MM_Cerberus.tools.3.label>
+	
+	<!-- EN: antlers -->
+	<MM_CeryneianHind.tools.0.label>antlers</MM_CeryneianHind.tools.0.label>
+	<!-- EN: antlers -->
+	<MM_CeryneianHind.tools.1.label>antlers</MM_CeryneianHind.tools.1.label>
+	<!-- EN: left hoof -->
+	<MM_CeryneianHind.tools.2.label>left hoof</MM_CeryneianHind.tools.2.label>
+	<!-- EN: right hoof -->
+	<MM_CeryneianHind.tools.3.label>right hoof</MM_CeryneianHind.tools.3.label>
+	
+	<!-- EN: toxic bite -->
+	<MM_Chimera.tools.0.label>toxic bite</MM_Chimera.tools.0.label>
+	<!-- EN: left claw -->
+	<MM_Chimera.tools.2.label>left claw</MM_Chimera.tools.2.label>
+	<!-- EN: right claw -->
+	<MM_Chimera.tools.3.label>right claw</MM_Chimera.tools.3.label>
+	<!-- EN: head -->
+	<MM_Chimera.tools.4.label>head</MM_Chimera.tools.4.label>
+	<!-- EN: fire breath -->
+	<MM_Chimera.verbs.0.label>fire breath</MM_Chimera.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<MM_Chimera.verbs.CombatExtended.Verb_ShootCE.label>ㅤ</MM_Chimera.verbs.CombatExtended.Verb_ShootCE.label>
+	
+	<!-- EN: tusk -->
+	<MM_ErymanthianBoar.tools.0.label>tusk</MM_ErymanthianBoar.tools.0.label>
+	<!-- EN: tusk -->
+	<MM_ErymanthianBoar.tools.1.label>tusk</MM_ErymanthianBoar.tools.1.label>
+	<!-- EN: head -->
+	<MM_ErymanthianBoar.tools.3.label>head</MM_ErymanthianBoar.tools.3.label>
+	
+	<!-- EN: claws -->
+	<MM_Fenghuang.tools.0.label>claws</MM_Fenghuang.tools.0.label>
+	<!-- EN: beak -->
+	<MM_Fenghuang.tools.1.label>beak</MM_Fenghuang.tools.1.label>
+	<!-- EN: head -->
+	<MM_Fenghuang.tools.2.label>head</MM_Fenghuang.tools.2.label>
+	
+	<!-- EN: left claw -->
+	<MM_Griffin.tools.0.label>left claw</MM_Griffin.tools.0.label>
+	<!-- EN: right claw -->
+	<MM_Griffin.tools.1.label>right claw</MM_Griffin.tools.1.label>
+	<!-- EN: beak -->
+	<MM_Griffin.tools.2.label>beak</MM_Griffin.tools.2.label>
+	<!-- EN: head -->
+	<MM_Griffin.tools.3.label>head</MM_Griffin.tools.3.label>
+	
+	<!-- EN: claws -->
+	<MM_Ieltxu.tools.0.label>claws</MM_Ieltxu.tools.0.label>
+	<!-- EN: beak -->
+	<MM_Ieltxu.tools.1.label>beak</MM_Ieltxu.tools.1.label>
+	<!-- EN: head -->
+	<MM_Ieltxu.tools.2.label>head</MM_Ieltxu.tools.2.label>
+	<!-- EN: fire breath -->
+	<MM_Ieltxu.verbs.0.label>fire breath</MM_Ieltxu.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<MM_Ieltxu.verbs.CombatExtended.Verb_ShootCE.label>ㅤ</MM_Ieltxu.verbs.CombatExtended.Verb_ShootCE.label>
+	
+	<!-- EN: left fist -->
+	<MM_Kappa.tools.0.label>left fist</MM_Kappa.tools.0.label>
+	<!-- EN: right fist -->
+	<MM_Kappa.tools.1.label>right fist</MM_Kappa.tools.1.label>
+	<!-- EN: teeth -->
+	<MM_Kappa.tools.2.label>teeth</MM_Kappa.tools.2.label>
+	<!-- EN: head -->
+	<MM_Kappa.tools.3.label>head</MM_Kappa.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<MM_Kitsune.tools.0.label>left claw</MM_Kitsune.tools.0.label>
+	<!-- EN: right claw -->
+	<MM_Kitsune.tools.1.label>right claw</MM_Kitsune.tools.1.label>
+	<!-- EN: head -->
+	<MM_Kitsune.tools.3.label>head</MM_Kitsune.tools.3.label>
+	
+	<!-- EN: head -->
+	<MM_LernaeanHydra.tools.1.label>head</MM_LernaeanHydra.tools.1.label>
+	<!-- EN: acidic breath -->
+	<MM_LernaeanHydra.verbs.0.label>acidic breath</MM_LernaeanHydra.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<MM_LernaeanHydra.verbs.CombatExtended.Verb_ShootCE.label>ㅤ</MM_LernaeanHydra.verbs.CombatExtended.Verb_ShootCE.label>
+	
+	<!-- EN: left claw -->
+	<MM_LesserWyvern.tools.0.label>left claw</MM_LesserWyvern.tools.0.label>
+	<!-- EN: right claw -->
+	<MM_LesserWyvern.tools.1.label>right claw</MM_LesserWyvern.tools.1.label>
+	<!-- EN: razor beak -->
+	<MM_LesserWyvern.tools.2.label>razor beak</MM_LesserWyvern.tools.2.label>
+	<!-- EN: tail -->
+	<MM_LesserWyvern.tools.3.label>tail</MM_LesserWyvern.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<MM_Manticore.tools.0.label>left claw</MM_Manticore.tools.0.label>
+	<!-- EN: right claw -->
+	<MM_Manticore.tools.1.label>right claw</MM_Manticore.tools.1.label>
+	<!-- EN: head -->
+	<MM_Manticore.tools.4.label>head</MM_Manticore.tools.4.label>
+	<!-- EN: venomous quills -->
+	<MM_Manticore.verbs.0.label>venomous quills</MM_Manticore.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<MM_Manticore.verbs.CombatExtended.Verb_ShootCE.label>ㅤ</MM_Manticore.verbs.CombatExtended.Verb_ShootCE.label>
+	
+	<!-- EN: left hoof -->
+	<MM_Pegasus.tools.0.label>left hoof</MM_Pegasus.tools.0.label>
+	<!-- EN: left hoof -->
+	<MM_Pegasus.tools.1.label>left hoof</MM_Pegasus.tools.1.label>
+	<!-- EN: right hoof -->
+	<MM_Pegasus.tools.2.label>right hoof</MM_Pegasus.tools.2.label>
+	<!-- EN: right hoof -->
+	<MM_Pegasus.tools.3.label>right hoof</MM_Pegasus.tools.3.label>
+	<!-- EN: head -->
+	<MM_Pegasus.tools.5.label>head</MM_Pegasus.tools.5.label>
+	
+	<!-- EN: claws -->
+	<MM_Phoenix.tools.0.label>claws</MM_Phoenix.tools.0.label>
+	<!-- EN: beak -->
+	<MM_Phoenix.tools.1.label>beak</MM_Phoenix.tools.1.label>
+	<!-- EN: head -->
+	<MM_Phoenix.tools.2.label>head</MM_Phoenix.tools.2.label>
+	
+	<!-- EN: left hoof -->
+	<MM_Qilin.tools.0.label>left hoof</MM_Qilin.tools.0.label>
+	<!-- EN: left hoof -->
+	<MM_Qilin.tools.1.label>left hoof</MM_Qilin.tools.1.label>
+	<!-- EN: right hoof -->
+	<MM_Qilin.tools.2.label>right hoof</MM_Qilin.tools.2.label>
+	<!-- EN: right hoof -->
+	<MM_Qilin.tools.3.label>right hoof</MM_Qilin.tools.3.label>
+	<!-- EN: antlers -->
+	<MM_Qilin.tools.4.label>antlers</MM_Qilin.tools.4.label>
+	<!-- EN: teeth -->
+	<MM_Qilin.tools.5.label>teeth</MM_Qilin.tools.5.label>
+	<!-- EN: head -->
+	<MM_Qilin.tools.6.label>head</MM_Qilin.tools.6.label>
+	
+	<!-- EN: fire-fangs -->
+	<MM_Salamander.tools.0.label>fire-fangs</MM_Salamander.tools.0.label>
+	<!-- EN: head -->
+	<MM_Salamander.tools.1.label>head</MM_Salamander.tools.1.label>
+	
+	<!-- EN: claws -->
+	<MM_StymphalianBird.tools.0.label>claws</MM_StymphalianBird.tools.0.label>
+	<!-- EN: beak -->
+	<MM_StymphalianBird.tools.1.label>beak</MM_StymphalianBird.tools.1.label>
+	<!-- EN: head -->
+	<MM_StymphalianBird.tools.2.label>head</MM_StymphalianBird.tools.2.label>
+	<!-- EN: razor sharp feathers -->
+	<MM_StymphalianBird.verbs.0.label>razor sharp feathers</MM_StymphalianBird.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<MM_StymphalianBird.verbs.CombatExtended.Verb_ShootCE.label>ㅤ</MM_StymphalianBird.verbs.CombatExtended.Verb_ShootCE.label>
+	
+	<!-- EN: fangs -->
+	<MM_Tlilcoatl.tools.0.label>fangs</MM_Tlilcoatl.tools.0.label>
+	<!-- EN: toxic breath -->
+	<MM_Tlilcoatl.verbs.0.label>toxic breath</MM_Tlilcoatl.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<MM_Tlilcoatl.verbs.CombatExtended.Verb_ShootCE.label>ㅤ</MM_Tlilcoatl.verbs.CombatExtended.Verb_ShootCE.label>
+	
+	<!-- EN: horn -->
+	<MM_Unicorn.tools.0.label>horn</MM_Unicorn.tools.0.label>
+	<!-- EN: horn -->
+	<MM_Unicorn.tools.1.label>horn</MM_Unicorn.tools.1.label>
+	<!-- EN: left hoof -->
+	<MM_Unicorn.tools.2.label>left hoof</MM_Unicorn.tools.2.label>
+	<!-- EN: left hoof -->
+	<MM_Unicorn.tools.3.label>left hoof</MM_Unicorn.tools.3.label>
+	<!-- EN: right hoof -->
+	<MM_Unicorn.tools.4.label>right hoof</MM_Unicorn.tools.4.label>
+	<!-- EN: right hoof -->
+	<MM_Unicorn.tools.5.label>right hoof</MM_Unicorn.tools.5.label>
+	<!-- EN: head -->
+	<MM_Unicorn.tools.7.label>head</MM_Unicorn.tools.7.label>
+	
+	<!-- EN: horns -->
+	<MM_WildMinotaur.tools.0.label>horns</MM_WildMinotaur.tools.0.label>
+	<!-- EN: left fist -->
+	<MM_WildMinotaur.tools.1.label>left fist</MM_WildMinotaur.tools.1.label>
+	<!-- EN: right fist -->
+	<MM_WildMinotaur.tools.2.label>right fist</MM_WildMinotaur.tools.2.label>
+	<!-- EN: teeth -->
+	<MM_WildMinotaur.tools.3.label>teeth</MM_WildMinotaur.tools.3.label>
+	<!-- EN: head -->
+	<MM_WildMinotaur.tools.4.label>head</MM_WildMinotaur.tools.4.label>
+	<!-- EN: tremors -->
+	<MM_WildMinotaur.verbs.0.label>tremors</MM_WildMinotaur.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<MM_WildMinotaur.verbs.CombatExtended.Verb_ShootCE.label>ㅤ</MM_WildMinotaur.verbs.CombatExtended.Verb_ShootCE.label>
+	
+	<!-- EN: pseudopod -->
+	<MM_WillOWisp.tools.0.label>pseudopod</MM_WillOWisp.tools.0.label>
+	<!-- EN: wisp breath -->
+	<MM_WillOWisp.verbs.0.label>wisp breath</MM_WillOWisp.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<MM_WillOWisp.verbs.CombatExtended.Verb_ShootCE.label>ㅤ</MM_WillOWisp.verbs.CombatExtended.Verb_ShootCE.label>
+	
+	<!-- EN: horn -->
+	<MM_Xiezhi.tools.0.label>horn</MM_Xiezhi.tools.0.label>
+	<!-- EN: bite -->
+	<MM_Xiezhi.tools.1.label>bite</MM_Xiezhi.tools.1.label>
+	<!-- EN: left claw -->
+	<MM_Xiezhi.tools.2.label>left claw</MM_Xiezhi.tools.2.label>
+	<!-- EN: right claw -->
+	<MM_Xiezhi.tools.3.label>right claw</MM_Xiezhi.tools.3.label>
+	<!-- EN: head -->
+	<MM_Xiezhi.tools.4.label>head</MM_Xiezhi.tools.4.label>
+</LanguageData>

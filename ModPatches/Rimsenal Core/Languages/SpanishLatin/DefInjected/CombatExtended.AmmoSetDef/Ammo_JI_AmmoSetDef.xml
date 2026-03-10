@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- ModPatches\Rimsenal Core\Defs\Rimsenal Core\Ammo_JI.xml -->
+	<!-- EN: Siege Cannon -->
+	<AmmoSet_JISiege.label>Siege Cannon</AmmoSet_JISiege.label>
+	<!-- EN: Semi-molten round -->
+	<AmmoSet_JISlag.label>Semi-molten round</AmmoSet_JISlag.label>
+	<!-- EN: molten slug -->
+	<AmmoSet_JIStandard.label>molten slug</AmmoSet_JIStandard.label>
+	<!-- EN: High-density alloy slug -->
+	<AmmoSet_JI_AMR.label>High-density alloy slug</AmmoSet_JI_AMR.label>
+	<!-- EN: molten slug -->
+	<AmmoSet_JISuppressor.label>molten slug</AmmoSet_JISuppressor.label>
+</LanguageData>

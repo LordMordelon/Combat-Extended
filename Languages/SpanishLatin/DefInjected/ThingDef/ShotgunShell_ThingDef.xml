@@ -1,0 +1,23 @@
+<LanguageData>
+	<!-- Defs\Ammo\Generic\ShotgunShell.xml -->
+	
+	<!-- EN: shotgun shell (Buck) -->
+	<Ammo_Shotgun_Buck.label>shotgun shell (Buck)</Ammo_Shotgun_Buck.label>
+	<!-- EN: Extremely common shotgun caliber used in almost every application, from hunting and riot control to military firearms. -->
+	<Ammo_Shotgun_Buck.description>Extremely common shotgun caliber used in almost every application, from hunting and riot control to military firearms.</Ammo_Shotgun_Buck.description>
+	
+	<!-- EN: shotgun shell (Slug) -->
+	<Ammo_Shotgun_Slug.label>shotgun shell (Slug)</Ammo_Shotgun_Slug.label>
+	<!-- EN: Extremely common shotgun caliber used in almost every application, from hunting and riot control to military firearms. -->
+	<Ammo_Shotgun_Slug.description>Extremely common shotgun caliber used in almost every application, from hunting and riot control to military firearms.</Ammo_Shotgun_Slug.description>
+	
+	<!-- EN: shotgun shell (Bean) -->
+	<Ammo_Shotgun_Beanbag.label>shotgun shell (Bean)</Ammo_Shotgun_Beanbag.label>
+	<!-- EN: Extremely common shotgun caliber used in almost every application, from hunting and riot control to military firearms. -->
+	<Ammo_Shotgun_Beanbag.description>Extremely common shotgun caliber used in almost every application, from hunting and riot control to military firearms.</Ammo_Shotgun_Beanbag.description>
+	
+	<!-- EN: shotgun shell (EMP) -->
+	<Ammo_Shotgun_ElectroSlug.label>shotgun shell (EMP)</Ammo_Shotgun_ElectroSlug.label>
+	<!-- EN: Extremely common shotgun caliber used in almost every application, from hunting and riot control to military firearms. -->
+	<Ammo_Shotgun_ElectroSlug.description>Extremely common shotgun caliber used in almost every application, from hunting and riot control to military firearms.</Ammo_Shotgun_ElectroSlug.description>
+</LanguageData>

@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla XCOM Laser Weapons\Defs\Vanilla XCOM Laser Weapons\Ammo.xml -->
+	<!-- EN: make laser charge pack x500 -->
+	<MakeAmmo_XCOMLaserPack.label>make laser charge pack x500</MakeAmmo_XCOMLaserPack.label>
+	<!-- EN: Craft 500 laser charge pack. -->
+	<MakeAmmo_XCOMLaserPack.description>Craft 500 laser charge pack.</MakeAmmo_XCOMLaserPack.description>
+	<!-- EN: Making laser charge pack. -->
+	<MakeAmmo_XCOMLaserPack.jobString>Making laser charge pack.</MakeAmmo_XCOMLaserPack.jobString>
+	<!-- EN: make laser charge pack x500 -->
+	<MakeAmmo_XCOMLaserPackInc.label>make laser charge pack x500</MakeAmmo_XCOMLaserPackInc.label>
+	<!-- EN: Craft 500 laser charge pack. -->
+	<MakeAmmo_XCOMLaserPackInc.description>Craft 500 laser charge pack.</MakeAmmo_XCOMLaserPackInc.description>
+	<!-- EN: Making laser charge pack. -->
+	<MakeAmmo_XCOMLaserPackInc.jobString>Making laser charge pack.</MakeAmmo_XCOMLaserPackInc.jobString>
+	<!-- EN: make laser charge pack x500 -->
+	<MakeAmmo_XCOMLaserPackHP.label>make laser charge pack x500</MakeAmmo_XCOMLaserPackHP.label>
+	<!-- EN: Craft 500 laser charge pack. -->
+	<MakeAmmo_XCOMLaserPackHP.description>Craft 500 laser charge pack.</MakeAmmo_XCOMLaserPackHP.description>
+	<!-- EN: Making laser charge pack. -->
+	<MakeAmmo_XCOMLaserPackHP.jobString>Making laser charge pack.</MakeAmmo_XCOMLaserPackHP.jobString>
+	<!-- EN: make laser charge pack x500 -->
+	<MakeAmmo_XCOMLaserPackEMP.label>make laser charge pack x500</MakeAmmo_XCOMLaserPackEMP.label>
+	<!-- EN: Craft 500 laser charge pack. -->
+	<MakeAmmo_XCOMLaserPackEMP.description>Craft 500 laser charge pack.</MakeAmmo_XCOMLaserPackEMP.description>
+	<!-- EN: Making laser charge pack. -->
+	<MakeAmmo_XCOMLaserPackEMP.jobString>Making laser charge pack.</MakeAmmo_XCOMLaserPackEMP.jobString>
+</LanguageData>

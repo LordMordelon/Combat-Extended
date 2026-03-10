@@ -1,0 +1,29 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VGeneticsE\Races_Animal_ReptileHybrids1837.xml -->
+	<!-- EN: left claw -->
+	<GR_Bearodile.tools.0.label>left claw</GR_Bearodile.tools.0.label>
+	<!-- EN: right claw -->
+	<GR_Bearodile.tools.1.label>right claw</GR_Bearodile.tools.1.label>
+	<!-- EN: head -->
+	<GR_Bearodile.tools.3.label>head</GR_Bearodile.tools.3.label>
+	<!-- EN: head -->
+	<GR_Boomsnake.tools.1.label>head</GR_Boomsnake.tools.1.label>
+	<!-- EN: claws -->
+	<GR_Chickenlizard.tools.0.label>claws</GR_Chickenlizard.tools.0.label>
+	<!-- EN: head -->
+	<GR_Chickenlizard.tools.2.label>head</GR_Chickenlizard.tools.2.label>
+	<!-- EN: head -->
+	<GR_Muffalokomodo.tools.1.label>head</GR_Muffalokomodo.tools.1.label>
+	<!-- EN: head -->
+	<GR_Spidersnake.tools.1.label>head</GR_Spidersnake.tools.1.label>
+	<!-- EN: left claw -->
+	<GR_Wolfsnake.tools.1.label>left claw</GR_Wolfsnake.tools.1.label>
+	<!-- EN: right claw -->
+	<GR_Wolfsnake.tools.2.label>right claw</GR_Wolfsnake.tools.2.label>
+	<!-- EN: head -->
+	<GR_Wolfsnake.tools.3.label>head</GR_Wolfsnake.tools.3.label>
+	<!-- EN: head -->
+	<GR_Snakecat.tools.1.label>head</GR_Snakecat.tools.1.label>
+	<!-- EN: head -->
+	<GR_Lizardman.tools.1.label>head</GR_Lizardman.tools.1.label>
+</LanguageData>

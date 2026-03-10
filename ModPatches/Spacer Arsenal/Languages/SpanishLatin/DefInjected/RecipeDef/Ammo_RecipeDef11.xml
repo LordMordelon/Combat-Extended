@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- ModPatches\Spacer Arsenal\Defs\Spacer Arsenal\Ammo.xml -->
+	
+	<!-- EN: make hot plasma cells x500 -->
+	<MakeAmmo_HotPlasmaCell.label>make hot plasma cells x500</MakeAmmo_HotPlasmaCell.label>
+	<!-- EN: Craft 500 hot plasma cells. -->
+	<MakeAmmo_HotPlasmaCell.description>Craft 500 hot plasma cells.</MakeAmmo_HotPlasmaCell.description>
+	<!-- EN: Making hot plasma cells. -->
+	<MakeAmmo_HotPlasmaCell.jobString>Making hot plasma cells.</MakeAmmo_HotPlasmaCell.jobString>
+	
+	<!-- EN: make photon cells x500 -->
+	<MakeAmmo_PhotonCell.label>make photon cells x500</MakeAmmo_PhotonCell.label>
+	<!-- EN: Craft 500 photon cells. -->
+	<MakeAmmo_PhotonCell.description>Craft 500 photon cells.</MakeAmmo_PhotonCell.description>
+	<!-- EN: Making photon cells. -->
+	<MakeAmmo_PhotonCell.jobString>Making photon cells.</MakeAmmo_PhotonCell.jobString>
+</LanguageData>

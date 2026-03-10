@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\RH2 Helldivers Super Firearms\Defs\RH2 Helldivers Super Firearms\Ammo\80mm_Ultimatum.xml -->
+	<!-- EN: 80mm Ultimatum (HE) -->
+	<Ammo_80mm_UltiHE.label>80mm Ultimatum (HE)</Ammo_80mm_UltiHE.label>
+	<!-- EN: 80mm shell used by the GP-31 Ultimatum. Handle with extreme care. -->
+	<Ammo_80mm_UltiHE.description>80mm shell used by the GP-31 Ultimatum. Handle with extreme care.</Ammo_80mm_UltiHE.description>
+	<!-- EN: 80mm Ultimatum (HE) -->
+	<Bullet_80mm_UltiHE.label>80mm Ultimatum (HE)</Bullet_80mm_UltiHE.label>
+</LanguageData>

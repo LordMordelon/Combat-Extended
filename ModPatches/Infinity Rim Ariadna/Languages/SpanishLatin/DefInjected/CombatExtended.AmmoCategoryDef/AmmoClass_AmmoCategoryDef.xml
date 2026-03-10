@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- ModPatches\Infinity Rim Ariadna\Defs\Infinity Rim Ariadna\Ammo\AmmoClass.xml -->
+	<!-- EN: teseum -->
+	<Teseum.label>teseum</Teseum.label>
+	<!-- EN: Teseum -->
+	<Teseum.labelShort>Teseum</Teseum.labelShort>
+	<!-- EN: This teseum coated projectile offers more penetration without compromizing damage potential. Can only be fired from teseum reinforced guns. -->
+	<Teseum.description>This teseum coated projectile offers more penetration without compromizing damage potential. Can only be fired from teseum reinforced guns.</Teseum.description>
+	
+	<!-- EN: teseum arrow -->
+	<TeseumArrow.label>teseum arrow</TeseumArrow.label>
+	<!-- EN: teseum -->
+	<TeseumArrow.labelShort>teseum</TeseumArrow.labelShort>
+	<!-- EN: The arrow head is made from teseum. -->
+	<TeseumArrow.description>The arrow head is made from teseum.</TeseumArrow.description>
+</LanguageData>

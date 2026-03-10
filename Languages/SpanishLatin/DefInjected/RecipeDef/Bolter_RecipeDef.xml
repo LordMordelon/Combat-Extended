@@ -1,0 +1,33 @@
+<LanguageData>
+	<!-- Defs\Ammo\Modded\Warhammer 40k\Bolter.xml -->
+	<!-- EN: make .75 Cal Bolter (standard) shell x200 -->
+	<MakeAmmo_Bolter75_Standard.label>make .75 Cal Bolter (standard) shell x200</MakeAmmo_Bolter75_Standard.label>
+	<!-- EN: Craft 200 .75 Cal Bolter (standard) shells. -->
+	<MakeAmmo_Bolter75_Standard.description>Craft 200 .75 Cal Bolter (standard) shells.</MakeAmmo_Bolter75_Standard.description>
+	<!-- EN: Making .75 Cal Bolter (standard) shells. -->
+	<MakeAmmo_Bolter75_Standard.jobString>Making .75 Cal Bolter (standard) shells.</MakeAmmo_Bolter75_Standard.jobString>
+	<!-- EN: make .75 Cal Bolter (inferno) shell x200 -->
+	<MakeAmmo_Bolter75_Inferno.label>make .75 Cal Bolter (inferno) shell x200</MakeAmmo_Bolter75_Inferno.label>
+	<!-- EN: Craft 200 .75 Cal Bolter (inferno) shells. -->
+	<MakeAmmo_Bolter75_Inferno.description>Craft 200 .75 Cal Bolter (inferno) shells.</MakeAmmo_Bolter75_Inferno.description>
+	<!-- EN: Making .75 Cal Bolter (inferno) shells. -->
+	<MakeAmmo_Bolter75_Inferno.jobString>Making .75 Cal Bolter (inferno) shells.</MakeAmmo_Bolter75_Inferno.jobString>
+	<!-- EN: make .75 Cal Bolter (metal storm) shell x200 -->
+	<MakeAmmo_Bolter75_MetalStorm.label>make .75 Cal Bolter (metal storm) shell x200</MakeAmmo_Bolter75_MetalStorm.label>
+	<!-- EN: Craft 200 .75 Cal Bolter (metal storm) shells. -->
+	<MakeAmmo_Bolter75_MetalStorm.description>Craft 200 .75 Cal Bolter (metal storm) shells.</MakeAmmo_Bolter75_MetalStorm.description>
+	<!-- EN: Making .75 Cal Bolter (metal storm) shells. -->
+	<MakeAmmo_Bolter75_MetalStorm.jobString>Making .75 Cal Bolter (metal storm) shells.</MakeAmmo_Bolter75_MetalStorm.jobString>
+	<!-- EN: make .75 Cal Bolter (kraken) shell x200 -->
+	<MakeAmmo_Bolter75_Kraken.label>make .75 Cal Bolter (kraken) shell x200</MakeAmmo_Bolter75_Kraken.label>
+	<!-- EN: Craft 200 .75 Cal Bolter (kraken) shells. -->
+	<MakeAmmo_Bolter75_Kraken.description>Craft 200 .75 Cal Bolter (kraken) shells.</MakeAmmo_Bolter75_Kraken.description>
+	<!-- EN: Making .75 Cal Bolter (kraken) shells. -->
+	<MakeAmmo_Bolter75_Kraken.jobString>Making .75 Cal Bolter (kraken) shells.</MakeAmmo_Bolter75_Kraken.jobString>
+	<!-- EN: make .75 Cal Bolter (tempest) shell x200 -->
+	<MakeAmmo_Bolter75_Tempest.label>make .75 Cal Bolter (tempest) shell x200</MakeAmmo_Bolter75_Tempest.label>
+	<!-- EN: Craft 200 .75 Cal Bolter (tempest) shells. -->
+	<MakeAmmo_Bolter75_Tempest.description>Craft 200 .75 Cal Bolter (tempest) shells.</MakeAmmo_Bolter75_Tempest.description>
+	<!-- EN: Making .75 Cal Bolter (tempest) shells. -->
+	<MakeAmmo_Bolter75_Tempest.jobString>Making .75 Cal Bolter (tempest) shells.</MakeAmmo_Bolter75_Tempest.jobString>
+</LanguageData>

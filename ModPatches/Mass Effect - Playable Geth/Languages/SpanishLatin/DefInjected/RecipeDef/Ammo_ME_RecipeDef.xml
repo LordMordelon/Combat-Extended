@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- ModPatches\Mass Effect - Playable Geth\Defs\Mass Effect - Playable Geth\Ammo_ME.xml -->
+	<!-- EN: make Geth thermal clips -->
+	<MakeAmmo_MEG.label>make Geth thermal clips</MakeAmmo_MEG.label>
+	<!-- EN: Craft 100 shots' worth of thermal clips. -->
+	<MakeAmmo_MEG.description>Craft 100 shots' worth of thermal clips.</MakeAmmo_MEG.description>
+	<!-- EN: Making thermal clips. -->
+	<MakeAmmo_MEG.jobString>Making thermal clips.</MakeAmmo_MEG.jobString>
+	<!-- EN: make ML77 rockets x2 -->
+	<MakeAmmo_ML77CE.label>make ML77 rockets x2</MakeAmmo_ML77CE.label>
+	<!-- EN: Craft 2 ML77 rockets. -->
+	<MakeAmmo_ML77CE.description>Craft 2 ML77 rockets.</MakeAmmo_ML77CE.description>
+	<!-- EN: Making ML77 rockets. -->
+	<MakeAmmo_ML77CE.jobString>Making ML77 rockets.</MakeAmmo_ML77CE.jobString>
+</LanguageData>

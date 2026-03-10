@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Call of Cthulhu - Cosmic Horrors\Defs\Call of Cthulhu - Cosmic Horrors\Ammo.xml -->
+	<!-- EN: MiGo Casting Weapon cartridge -->
+	<Ammo_MiGoCastingWeapon.label>MiGo Casting Weapon cartridge</Ammo_MiGoCastingWeapon.label>
+	<!-- EN: MiGo Casting Weapon ammo -->
+	<Ammo_MiGoCastingWeapon.description>MiGo Casting Weapon ammo</Ammo_MiGoCastingWeapon.description>
+	<!-- EN: Rhombohedral Energy blast -->
+	<Bullet_MiGoCastingWeapon.label>Rhombohedral Energy blast</Bullet_MiGoCastingWeapon.label>
+</LanguageData>

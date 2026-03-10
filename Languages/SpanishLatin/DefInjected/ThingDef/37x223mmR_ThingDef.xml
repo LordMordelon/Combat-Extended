@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- Defs\Ammo\Shell\37x223mmR.xml -->
+	
+	<!-- EN: 37x223mmR cannon shell (AP) -->
+	<Ammo_37x223mmR_AP.label>37x223mmR cannon shell (AP)</Ammo_37x223mmR_AP.label>
+	<!-- EN: Medium caliber cannon shell used by light, quick-firing anti-tank guns. -->
+	<Ammo_37x223mmR_AP.description>Medium caliber cannon shell used by light, quick-firing anti-tank guns.</Ammo_37x223mmR_AP.description>
+	
+	<!-- EN: 37x223mmR cannon shell (HE) -->
+	<Ammo_37x223mmR_HE.label>37x223mmR cannon shell (HE)</Ammo_37x223mmR_HE.label>
+	<!-- EN: Medium caliber cannon shell used by light, quick-firing anti-tank guns. -->
+	<Ammo_37x223mmR_HE.description>Medium caliber cannon shell used by light, quick-firing anti-tank guns.</Ammo_37x223mmR_HE.description>
+	
+	<!-- EN: 37x223mmR cannon shell (AP) -->
+	<Bullet_37x223mmR_AP.label>37x223mmR cannon shell (AP)</Bullet_37x223mmR_AP.label>
+	
+	<!-- EN: 37x223mmR cannon shell (HE) -->
+	<Bullet_37x223mmR_HE.label>37x223mmR cannon shell (HE)</Bullet_37x223mmR_HE.label>
+</LanguageData>

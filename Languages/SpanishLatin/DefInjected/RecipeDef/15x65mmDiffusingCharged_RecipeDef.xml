@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Defs\Ammo\Advanced\15x65mmDiffusingCharged.xml -->
+	<!-- EN: make 15x65mm Diffusing Charged cartridge x200 -->
+	<MakeAmmo_15x65mmDiffusingCharged.label>make 15x65mm Diffusing Charged cartridge x200</MakeAmmo_15x65mmDiffusingCharged.label>
+	<!-- EN: Craft 200 15x65mm Diffusing Charged cartridges. -->
+	<MakeAmmo_15x65mmDiffusingCharged.description>Craft 200 15x65mm Diffusing Charged cartridges.</MakeAmmo_15x65mmDiffusingCharged.description>
+	<!-- EN: Making 15x65mm Diffusing Charged cartridges. -->
+	<MakeAmmo_15x65mmDiffusingCharged.jobString>Making 15x65mm Diffusing Charged cartridges.</MakeAmmo_15x65mmDiffusingCharged.jobString>
+</LanguageData>

@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Buildings_Security10.xml -->
+	<!-- EN: A portable automatic turret. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+	<Turret_MiniTurret.description>A portable automatic turret. Its dumb AI brain can't be directly controlled, so beware of friendly fire.</Turret_MiniTurret.description>
+	<!-- EN: ㅤ -->
+	<Gun_RocketswarmLauncher.verbs.0.label>ㅤ</Gun_RocketswarmLauncher.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<Artillery_Mortar.verbs.0.label>ㅤ</Artillery_Mortar.verbs.0.label>
+	<!-- EN: 81mm mortar -->
+	<Turret_Mortar.label>81mm mortar</Turret_Mortar.label>
+</LanguageData>

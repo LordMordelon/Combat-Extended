@@ -1,0 +1,24 @@
+<LanguageData>
+	<!-- Defs\Ammo\Pistols\38SW.xml -->
+	
+	<!-- EN: make .38 S&amp;W (FMJ) cartridge x500 -->
+	<MakeAmmo_38SW_FMJ.label>make .38 S&amp;W (FMJ) cartridge x500</MakeAmmo_38SW_FMJ.label>
+	<!-- EN: Craft 500 .38 S&amp;W (FMJ) cartridges. -->
+	<MakeAmmo_38SW_FMJ.description>Craft 500 .38 S&amp;W (FMJ) cartridges.</MakeAmmo_38SW_FMJ.description>
+	<!-- EN: Making .38 S&amp;W (FMJ) cartridges. -->
+	<MakeAmmo_38SW_FMJ.jobString>Making .38 S&amp;W (FMJ) cartridges.</MakeAmmo_38SW_FMJ.jobString>
+	
+	<!-- EN: make .38 S&amp;W (AP) cartridge x500 -->
+	<MakeAmmo_38SW_AP.label>make .38 S&amp;W (AP) cartridge x500</MakeAmmo_38SW_AP.label>
+	<!-- EN: Craft 500 .38 S&amp;W (AP) cartridges. -->
+	<MakeAmmo_38SW_AP.description>Craft 500 .38 S&amp;W (AP) cartridges.</MakeAmmo_38SW_AP.description>
+	<!-- EN: Making .38 S&amp;W (AP) cartridges. -->
+	<MakeAmmo_38SW_AP.jobString>Making .38 S&amp;W (AP) cartridges.</MakeAmmo_38SW_AP.jobString>
+	
+	<!-- EN: make .38 S&amp;W (HP) cartridge x500 -->
+	<MakeAmmo_38SW_HP.label>make .38 S&amp;W (HP) cartridge x500</MakeAmmo_38SW_HP.label>
+	<!-- EN: Craft 500 .38 S&amp;W (HP) cartridges. -->
+	<MakeAmmo_38SW_HP.description>Craft 500 .38 S&amp;W (HP) cartridges.</MakeAmmo_38SW_HP.description>
+	<!-- EN: Making .38 S&amp;W (HP) cartridges. -->
+	<MakeAmmo_38SW_HP.jobString>Making .38 S&amp;W (HP) cartridges.</MakeAmmo_38SW_HP.jobString>
+</LanguageData>

@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- Defs\ApparelAutoPatcherPresets\TorsoSets.xml -->
+	<!-- EN: preset armored jacket -->
+	<ArmorVestJacket.label>preset armored jacket</ArmorVestJacket.label>
+	<!-- EN: preset leather jacket -->
+	<LeatherJacket.label>preset leather jacket</LeatherJacket.label>
+	<!-- EN: preset shell clothing -->
+	<ShellClothing.label>preset shell clothing</ShellClothing.label>
+	<!-- EN: preset middle clothing -->
+	<MiddleClothing.label>preset middle clothing</MiddleClothing.label>
+	<!-- EN: preset skin clothing -->
+	<SkinClothing.label>preset skin clothing</SkinClothing.label>
+	<!-- EN: preset pants -->
+	<PantsClothing.label>preset pants</PantsClothing.label>
+</LanguageData>

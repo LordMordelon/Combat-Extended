@@ -1,0 +1,51 @@
+<LanguageData>
+	<!-- ModPatches\Rimsenal Core\Defs\Rimsenal Core\Ammo_GD_Mauler.xml -->
+	
+	<!-- EN: 13.2x77mm GD (FMJ) -->
+	<Ammo_132Greydale_FMJ.label>13.2x77mm GD (FMJ)</Ammo_132Greydale_FMJ.label>
+	<!-- EN: High caliber subsonic cartridge designed for suppressed fire. -->
+	<Ammo_132Greydale_FMJ.description>High caliber subsonic cartridge designed for suppressed fire.</Ammo_132Greydale_FMJ.description>
+	
+	<!-- EN: 13.2x77mm GD (AP) -->
+	<Ammo_132Greydale_AP.label>13.2x77mm GD (AP)</Ammo_132Greydale_AP.label>
+	<!-- EN: High caliber subsonic cartridge designed for suppressed fire. -->
+	<Ammo_132Greydale_AP.description>High caliber subsonic cartridge designed for suppressed fire.</Ammo_132Greydale_AP.description>
+	
+	<!-- EN: 13.2x77mm GD (HP) -->
+	<Ammo_132Greydale_HP.label>13.2x77mm GD (HP)</Ammo_132Greydale_HP.label>
+	<!-- EN: High caliber subsonic cartridge designed for suppressed fire. -->
+	<Ammo_132Greydale_HP.description>High caliber subsonic cartridge designed for suppressed fire.</Ammo_132Greydale_HP.description>
+	
+	<!-- EN: 13.2x77mm GD (AP-I) -->
+	<Ammo_132Greydale_Incendiary.label>13.2x77mm GD (AP-I)</Ammo_132Greydale_Incendiary.label>
+	<!-- EN: High caliber subsonic cartridge designed for suppressed fire. -->
+	<Ammo_132Greydale_Incendiary.description>High caliber subsonic cartridge designed for suppressed fire.</Ammo_132Greydale_Incendiary.description>
+	
+	<!-- EN: 13.2x77mm GD (AP-HE) -->
+	<Ammo_132Greydale_HE.label>13.2x77mm GD (AP-HE)</Ammo_132Greydale_HE.label>
+	<!-- EN: High caliber subsonic cartridge designed for suppressed fire. -->
+	<Ammo_132Greydale_HE.description>High caliber subsonic cartridge designed for suppressed fire.</Ammo_132Greydale_HE.description>
+	
+	<!-- EN: 13.2x77mm GD (Sabot) -->
+	<Ammo_132Greydale_Sabot.label>13.2x77mm GD (Sabot)</Ammo_132Greydale_Sabot.label>
+	<!-- EN: High caliber subsonic cartridge designed for suppressed fire. -->
+	<Ammo_132Greydale_Sabot.description>High caliber subsonic cartridge designed for suppressed fire.</Ammo_132Greydale_Sabot.description>
+	
+	<!-- EN: 13.2mm bullet (FMJ) -->
+	<Bullet_132Greydale_FMJ.label>13.2mm bullet (FMJ)</Bullet_132Greydale_FMJ.label>
+	
+	<!-- EN: 13.2mm bullet (AP) -->
+	<Bullet_132Greydale_AP.label>13.2mm bullet (AP)</Bullet_132Greydale_AP.label>
+	
+	<!-- EN: 13.2mm bullet (HP) -->
+	<Bullet_132Greydale_HP.label>13.2mm bullet (HP)</Bullet_132Greydale_HP.label>
+	
+	<!-- EN: 13.2mm bullet (AP-I) -->
+	<Bullet_132Greydale_Incendiary.label>13.2mm bullet (AP-I)</Bullet_132Greydale_Incendiary.label>
+	
+	<!-- EN: 13.2mm bullet (AP-HE) -->
+	<Bullet_132Greydale_HE.label>13.2mm bullet (AP-HE)</Bullet_132Greydale_HE.label>
+	
+	<!-- EN: 13.2mm bullet (Sabot) -->
+	<Bullet_132Greydale_Sabot.label>13.2mm bullet (Sabot)</Bullet_132Greydale_Sabot.label>
+</LanguageData>

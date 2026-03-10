@@ -1,0 +1,32 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\CVN_BloodPact\BP_Melee848.xml -->
+	<!-- EN: handle -->
+	<GW_BP_SabreKnife.tools.0.label>handle</GW_BP_SabreKnife.tools.0.label>
+	<!-- EN: edge -->
+	<GW_BP_SabreKnife.tools.1.label>edge</GW_BP_SabreKnife.tools.1.label>
+	
+	<!-- EN: handle -->
+	<GW_BP_ChainSword.tools.0.label>handle</GW_BP_ChainSword.tools.0.label>
+	<!-- EN: edge -->
+	<GW_BP_ChainSword.tools.1.label>edge</GW_BP_ChainSword.tools.1.label>
+	
+	<!-- EN: chain -->
+	<GW_BP_ChainAxe.tools.0.label>chain</GW_BP_ChainAxe.tools.0.label>
+	<!-- EN: handle -->
+	<GW_BP_ChainAxe.tools.1.label>handle</GW_BP_ChainAxe.tools.1.label>
+	
+	<!-- EN: Fist -->
+	<GW_BP_PowerFist.tools.0.label>Fist</GW_BP_PowerFist.tools.0.label>
+	
+	<!-- EN: handle -->
+	<GW_BP_PowerSword.tools.0.label>handle</GW_BP_PowerSword.tools.0.label>
+	<!-- EN: edge -->
+	<GW_BP_PowerSword.tools.1.label>edge</GW_BP_PowerSword.tools.1.label>
+	<!-- EN: point -->
+	<GW_BP_PowerSword.tools.2.label>point</GW_BP_PowerSword.tools.2.label>
+	
+	<!-- EN: handle -->
+	<GW_BP_TrenchClub.tools.0.label>handle</GW_BP_TrenchClub.tools.0.label>
+	<!-- EN: head -->
+	<GW_BP_TrenchClub.tools.1.label>head</GW_BP_TrenchClub.tools.1.label>
+</LanguageData>

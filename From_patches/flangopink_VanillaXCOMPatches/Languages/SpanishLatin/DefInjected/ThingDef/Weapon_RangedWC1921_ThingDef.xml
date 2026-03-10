@@ -1,0 +1,30 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\flangopink_VanillaXCOMPatches\Weapon_RangedWC1921.xml -->
+	<!-- EN: stock -->
+	<XCOM_WarcasketGun_CVHA.tools.0.label>stock</XCOM_WarcasketGun_CVHA.tools.0.label>
+	<!-- EN: barrel -->
+	<XCOM_WarcasketGun_CVHA.tools.1.label>barrel</XCOM_WarcasketGun_CVHA.tools.1.label>
+	<!-- EN: muzzle -->
+	<XCOM_WarcasketGun_CVHA.tools.2.label>muzzle</XCOM_WarcasketGun_CVHA.tools.2.label>
+	
+	<!-- EN: stock -->
+	<XCOM_WarcasketGun_Railgun.tools.0.label>stock</XCOM_WarcasketGun_Railgun.tools.0.label>
+	<!-- EN: barrel -->
+	<XCOM_WarcasketGun_Railgun.tools.1.label>barrel</XCOM_WarcasketGun_Railgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<XCOM_WarcasketGun_Railgun.tools.2.label>muzzle</XCOM_WarcasketGun_Railgun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<XCOM_WarcasketGun_MagHA.tools.0.label>stock</XCOM_WarcasketGun_MagHA.tools.0.label>
+	<!-- EN: barrel -->
+	<XCOM_WarcasketGun_MagHA.tools.1.label>barrel</XCOM_WarcasketGun_MagHA.tools.1.label>
+	<!-- EN: muzzle -->
+	<XCOM_WarcasketGun_MagHA.tools.2.label>muzzle</XCOM_WarcasketGun_MagHA.tools.2.label>
+	
+	<!-- EN: stock -->
+	<XCOM_WarcasketGun_BeamHA.tools.0.label>stock</XCOM_WarcasketGun_BeamHA.tools.0.label>
+	<!-- EN: barrel -->
+	<XCOM_WarcasketGun_BeamHA.tools.1.label>barrel</XCOM_WarcasketGun_BeamHA.tools.1.label>
+	<!-- EN: muzzle -->
+	<XCOM_WarcasketGun_BeamHA.tools.2.label>muzzle</XCOM_WarcasketGun_BeamHA.tools.2.label>
+</LanguageData>

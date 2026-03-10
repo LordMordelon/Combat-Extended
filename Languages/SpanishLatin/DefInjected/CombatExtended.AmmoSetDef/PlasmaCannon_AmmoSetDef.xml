@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- Defs\Ammo\Modded\Warhammer 40k\PlasmaCannon.xml -->
+	<!-- EN: plasma canister -->
+	<AmmoSet_PlasmaCanister_Pistol.label>plasma canister</AmmoSet_PlasmaCanister_Pistol.label>
+	<!-- EN: plasma canister -->
+	<AmmoSet_PlasmaCanister_Rifle.label>plasma canister</AmmoSet_PlasmaCanister_Rifle.label>
+	<!-- EN: plasma canister -->
+	<AmmoSet_PlasmaCanister_Cannon.label>plasma canister</AmmoSet_PlasmaCanister_Cannon.label>
+	<!-- EN: plasma canister -->
+	<AmmoSet_PlasmaCanister_Pistol_Relic.label>plasma canister</AmmoSet_PlasmaCanister_Pistol_Relic.label>
+	<!-- EN: plasma canister -->
+	<AmmoSet_PlasmaCanister_Rifle_Relic.label>plasma canister</AmmoSet_PlasmaCanister_Rifle_Relic.label>
+	<!-- EN: plasma canister -->
+	<AmmoSet_PlasmaCanister_Destroyer.label>plasma canister</AmmoSet_PlasmaCanister_Destroyer.label>
+</LanguageData>

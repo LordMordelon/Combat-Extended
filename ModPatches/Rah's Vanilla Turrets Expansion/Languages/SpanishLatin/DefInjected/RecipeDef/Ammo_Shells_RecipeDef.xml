@@ -1,0 +1,10 @@
+<LanguageData>
+	<!-- ModPatches\Rah's Vanilla Turrets Expansion\Defs\Rah's Vanilla Turrets Expansion\Ammo_Shells.xml -->
+	
+	<!-- EN: make devastator plasma power cell -->
+	<MakePlasmaPowerCell.label>make devastator plasma power cell</MakePlasmaPowerCell.label>
+	<!-- EN: Craft 1 devastator plasma power cell. -->
+	<MakePlasmaPowerCell.description>Craft 1 devastator plasma power cell.</MakePlasmaPowerCell.description>
+	<!-- EN: Making devastator plasma power cell. -->
+	<MakePlasmaPowerCell.jobString>Making devastator plasma power cell.</MakePlasmaPowerCell.jobString>
+</LanguageData>

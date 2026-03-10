@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Defs\Ammo\Shotgun\20Gauge.xml -->
+	
+	<!-- EN: 20 Gauge -->
+	<AmmoSet_20Gauge.label>20 Gauge</AmmoSet_20Gauge.label>
+	
+	<!-- EN: 20 Gauge -->
+	<AmmoSet_20Gauge_Slug.label>20 Gauge</AmmoSet_20Gauge_Slug.label>
+</LanguageData>

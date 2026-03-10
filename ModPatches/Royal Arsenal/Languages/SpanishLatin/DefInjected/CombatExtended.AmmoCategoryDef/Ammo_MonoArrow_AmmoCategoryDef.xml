@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- ModPatches\Royal Arsenal\Defs\Royal Arsenal\Ammo\Ammo_MonoArrow.xml -->
+	<!-- EN: Mono-bodkin -->
+	<Mono-AP.label>Mono-bodkin</Mono-AP.label>
+	<!-- EN: bodkin -->
+	<Mono-AP.labelShort>bodkin</Mono-AP.labelShort>
+	<!-- EN: Mono-sharpened bodkin arrows that can penetrate thick armor. -->
+	<Mono-AP.description>Mono-sharpened bodkin arrows that can penetrate thick armor.</Mono-AP.description>
+	
+	<!-- EN: Mono-broadhead -->
+	<Mono-Heavy.label>Mono-broadhead</Mono-Heavy.label>
+	<!-- EN: broadhead -->
+	<Mono-Heavy.labelShort>broadhead</Mono-Heavy.labelShort>
+	<!-- EN: Mono-sharpened broadhead arrows that have less penetrative power, but will cause more damage when they can penetrate. -->
+	<Mono-Heavy.description>Mono-sharpened broadhead arrows that have less penetrative power, but will cause more damage when they can penetrate.</Mono-Heavy.description>
+</LanguageData>

@@ -1,0 +1,45 @@
+<LanguageData>
+	<!-- ModPatches\RH2 Helldivers Super Firearms\Defs\RH2 Helldivers Super Firearms\Ammo\8x60_Constitution.xml -->
+	
+	<!-- EN: make 8x60mm Constitution (FMJ) cartridge x500 -->
+	<MakeAmmo_8x60mmConstitution_FMJ.label>make 8x60mm Constitution (FMJ) cartridge x500</MakeAmmo_8x60mmConstitution_FMJ.label>
+	<!-- EN: Craft 500 8x60mm Constitution (FMJ) cartridges. -->
+	<MakeAmmo_8x60mmConstitution_FMJ.description>Craft 500 8x60mm Constitution (FMJ) cartridges.</MakeAmmo_8x60mmConstitution_FMJ.description>
+	<!-- EN: Making 8x60mm Constitution (FMJ) cartridges. -->
+	<MakeAmmo_8x60mmConstitution_FMJ.jobString>Making 8x60mm Constitution (FMJ) cartridges.</MakeAmmo_8x60mmConstitution_FMJ.jobString>
+	
+	<!-- EN: make 8x60mm Constitution (AP) cartridge x500 -->
+	<MakeAmmo_8x60mmConstitution_AP.label>make 8x60mm Constitution (AP) cartridge x500</MakeAmmo_8x60mmConstitution_AP.label>
+	<!-- EN: Craft 500 8x60mm Constitution (AP) cartridges. -->
+	<MakeAmmo_8x60mmConstitution_AP.description>Craft 500 8x60mm Constitution (AP) cartridges.</MakeAmmo_8x60mmConstitution_AP.description>
+	<!-- EN: Making 8x60mm Constitution (AP) cartridges. -->
+	<MakeAmmo_8x60mmConstitution_AP.jobString>Making 8x60mm Constitution (AP) cartridges.</MakeAmmo_8x60mmConstitution_AP.jobString>
+	
+	<!-- EN: make 8x60mm Constitution (HP) cartridge x500 -->
+	<MakeAmmo_8x60mmConstitution_HP.label>make 8x60mm Constitution (HP) cartridge x500</MakeAmmo_8x60mmConstitution_HP.label>
+	<!-- EN: Craft 500 8x60mm Constitution (HP) cartridges. -->
+	<MakeAmmo_8x60mmConstitution_HP.description>Craft 500 8x60mm Constitution (HP) cartridges.</MakeAmmo_8x60mmConstitution_HP.description>
+	<!-- EN: Making 8x60mm Constitution (HP) cartridges. -->
+	<MakeAmmo_8x60mmConstitution_HP.jobString>Making 8x60mm Constitution (HP) cartridges.</MakeAmmo_8x60mmConstitution_HP.jobString>
+	
+	<!-- EN: make 8x60mm Constitution (AP-I) cartridge x500 -->
+	<MakeAmmo_8x60mmConstitution_Incendiary.label>make 8x60mm Constitution (AP-I) cartridge x500</MakeAmmo_8x60mmConstitution_Incendiary.label>
+	<!-- EN: Craft 500 8x60mm Constitution (AP-I) cartridges. -->
+	<MakeAmmo_8x60mmConstitution_Incendiary.description>Craft 500 8x60mm Constitution (AP-I) cartridges.</MakeAmmo_8x60mmConstitution_Incendiary.description>
+	<!-- EN: Making 8x60mm Constitution (AP-I) cartridges. -->
+	<MakeAmmo_8x60mmConstitution_Incendiary.jobString>Making 8x60mm Constitution (AP-I) cartridges.</MakeAmmo_8x60mmConstitution_Incendiary.jobString>
+	
+	<!-- EN: make 8x60mm Constitution (AP-HE) cartridge x500 -->
+	<MakeAmmo_8x60mmConstitution_HE.label>make 8x60mm Constitution (AP-HE) cartridge x500</MakeAmmo_8x60mmConstitution_HE.label>
+	<!-- EN: Craft 500 8x60mm Constitution (AP-HE) cartridges. -->
+	<MakeAmmo_8x60mmConstitution_HE.description>Craft 500 8x60mm Constitution (AP-HE) cartridges.</MakeAmmo_8x60mmConstitution_HE.description>
+	<!-- EN: Making 8x60mm Constitution (AP-HE) cartridges. -->
+	<MakeAmmo_8x60mmConstitution_HE.jobString>Making 8x60mm Constitution (AP-HE) cartridges.</MakeAmmo_8x60mmConstitution_HE.jobString>
+	
+	<!-- EN: make 8x60mm Constitution (Sabot) cartridge x500 -->
+	<MakeAmmo_8x60mmConstitution_Sabot.label>make 8x60mm Constitution (Sabot) cartridge x500</MakeAmmo_8x60mmConstitution_Sabot.label>
+	<!-- EN: Craft 500 8x60mm Constitution (Sabot) cartridges. -->
+	<MakeAmmo_8x60mmConstitution_Sabot.description>Craft 500 8x60mm Constitution (Sabot) cartridges.</MakeAmmo_8x60mmConstitution_Sabot.description>
+	<!-- EN: Making 8x60mm Constitution (Sabot) cartridges. -->
+	<MakeAmmo_8x60mmConstitution_Sabot.jobString>Making 8x60mm Constitution (Sabot) cartridges.</MakeAmmo_8x60mmConstitution_Sabot.jobString>
+</LanguageData>

@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Defs\Ammo\Modded\Halo\40x46mmGrenadesUNSC.xml -->
+	<!-- EN: make 40mm UNSC HEDP grenades x100 -->
+	<MakeAmmo_40mmGrenade_UNSCHEDP.label>make 40mm UNSC HEDP grenades x100</MakeAmmo_40mmGrenade_UNSCHEDP.label>
+	<!-- EN: Craft 100 40mm UNSC HEDP grenades. -->
+	<MakeAmmo_40mmGrenade_UNSCHEDP.description>Craft 100 40mm UNSC HEDP grenades.</MakeAmmo_40mmGrenade_UNSCHEDP.description>
+	<!-- EN: Making 40mm UNSC HEDP grenades. -->
+	<MakeAmmo_40mmGrenade_UNSCHEDP.jobString>Making 40mm UNSC HEDP grenades.</MakeAmmo_40mmGrenade_UNSCHEDP.jobString>
+</LanguageData>

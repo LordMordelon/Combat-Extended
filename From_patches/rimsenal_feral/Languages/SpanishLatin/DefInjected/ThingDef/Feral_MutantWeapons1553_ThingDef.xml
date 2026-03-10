@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\rimsenal_feral\Feral_MutantWeapons1553.xml -->
+	<!-- EN: stock -->
+	<Feral_ScatterCannon.tools.0.label>stock</Feral_ScatterCannon.tools.0.label>
+	<!-- EN: barrel -->
+	<Feral_ScatterCannon.tools.1.label>barrel</Feral_ScatterCannon.tools.1.label>
+	
+	<!-- EN: stock -->
+	<Feral_RivetCannon.tools.0.label>stock</Feral_RivetCannon.tools.0.label>
+	<!-- EN: barrel -->
+	<Feral_RivetCannon.tools.1.label>barrel</Feral_RivetCannon.tools.1.label>
+	
+	<!-- EN: stock -->
+	<Feral_DMG.tools.0.label>stock</Feral_DMG.tools.0.label>
+	<!-- EN: barrel -->
+	<Feral_DMG.tools.1.label>barrel</Feral_DMG.tools.1.label>
+</LanguageData>

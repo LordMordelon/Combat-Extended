@@ -1,0 +1,12 @@
+<LanguageData>
+	<!-- ModPatches\Rimsenal Enhanced Vanilla\Defs\Rimsenal Enhanced Vanilla\Ammo_EnhancedVanilla.xml -->
+	
+	<!-- EN: compound arrows -->
+	<AmmoCompoundArrows.label>compound arrows</AmmoCompoundArrows.label>
+	
+	<!-- EN: 25mm Rocket -->
+	<Ammo25mmRockets.label>25mm Rocket</Ammo25mmRockets.label>
+	
+	<!-- EN: 40mm Rocket -->
+	<Ammo40mmRockets.label>40mm Rocket</Ammo40mmRockets.label>
+</LanguageData>

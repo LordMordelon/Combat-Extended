@@ -1,0 +1,26 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\DevDesigner_Blood_finch_blood\ThingDefs_MeleeWeapons659.xml -->
+	<!-- EN: handle -->
+	<DevDesigner_Blood_MeleeWeapon_Longsword.tools.0.label>handle</DevDesigner_Blood_MeleeWeapon_Longsword.tools.0.label>
+	<!-- EN: point -->
+	<DevDesigner_Blood_MeleeWeapon_Longsword.tools.1.label>point</DevDesigner_Blood_MeleeWeapon_Longsword.tools.1.label>
+	<!-- EN: edge -->
+	<DevDesigner_Blood_MeleeWeapon_Longsword.tools.2.label>edge</DevDesigner_Blood_MeleeWeapon_Longsword.tools.2.label>
+	
+	<!-- EN: handle -->
+	<DevDesigner_Blood_MeleeWeapon_ExecutionerGreatsword.tools.0.label>handle</DevDesigner_Blood_MeleeWeapon_ExecutionerGreatsword.tools.0.label>
+	<!-- EN: edge -->
+	<DevDesigner_Blood_MeleeWeapon_ExecutionerGreatsword.tools.1.label>edge</DevDesigner_Blood_MeleeWeapon_ExecutionerGreatsword.tools.1.label>
+	
+	<!-- EN: handle -->
+	<DevDesigner_Blood_MeleeWeapon_Sword.tools.0.label>handle</DevDesigner_Blood_MeleeWeapon_Sword.tools.0.label>
+	<!-- EN: point -->
+	<DevDesigner_Blood_MeleeWeapon_Sword.tools.1.label>point</DevDesigner_Blood_MeleeWeapon_Sword.tools.1.label>
+	<!-- EN: edge -->
+	<DevDesigner_Blood_MeleeWeapon_Sword.tools.2.label>edge</DevDesigner_Blood_MeleeWeapon_Sword.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<DevDesigner_Blood_MeleeWeapon_PikeStandard.tools.0.label>shaft</DevDesigner_Blood_MeleeWeapon_PikeStandard.tools.0.label>
+	<!-- EN: point -->
+	<DevDesigner_Blood_MeleeWeapon_PikeStandard.tools.1.label>point</DevDesigner_Blood_MeleeWeapon_PikeStandard.tools.1.label>
+</LanguageData>

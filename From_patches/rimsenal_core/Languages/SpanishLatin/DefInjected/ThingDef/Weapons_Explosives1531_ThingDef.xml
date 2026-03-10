@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\rimsenal_core\Weapons_Explosives1531.xml -->
+	<!-- EN: throw microwave grenade -->
+	<YP_BaegYa.Properties.label>throw microwave grenade</YP_BaegYa.Properties.label>
+	<!-- EN: throw satchel charge -->
+	<JI_Dunder.Properties.label>throw satchel charge</JI_Dunder.Properties.label>
+	<!-- EN: throw mini grenades -->
+	<GD_Bobcat.Properties.label>throw mini grenades</GD_Bobcat.Properties.label>
+	<!-- EN: throw impact grenade -->
+	<TE_Grief.Properties.label>throw impact grenade</TE_Grief.Properties.label>
+</LanguageData>

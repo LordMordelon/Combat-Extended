@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\K4G_Core\WeaponsMelee_NonStuffable929.xml -->
+	<!-- EN: handle -->
+	<K4G_MeleeWeapon_ShockProd.tools.0.label>handle</K4G_MeleeWeapon_ShockProd.tools.0.label>
+	<!-- EN: zapper -->
+	<K4G_MeleeWeapon_ShockProd.tools.1.label>zapper</K4G_MeleeWeapon_ShockProd.tools.1.label>
+	
+	<!-- EN: bottle -->
+	<K4G_MeleeWeapon_ShatteredBottle.tools.0.label>bottle</K4G_MeleeWeapon_ShatteredBottle.tools.0.label>
+	<!-- EN: edge -->
+	<K4G_MeleeWeapon_ShatteredBottle.tools.1.label>edge</K4G_MeleeWeapon_ShatteredBottle.tools.1.label>
+	
+	<!-- EN: chemfuel tank -->
+	<K4G_MeleeWeapon_Blowtorch.tools.0.label>chemfuel tank</K4G_MeleeWeapon_Blowtorch.tools.0.label>
+	<!-- EN: pipe -->
+	<K4G_MeleeWeapon_Blowtorch.tools.1.label>pipe</K4G_MeleeWeapon_Blowtorch.tools.1.label>
+</LanguageData>

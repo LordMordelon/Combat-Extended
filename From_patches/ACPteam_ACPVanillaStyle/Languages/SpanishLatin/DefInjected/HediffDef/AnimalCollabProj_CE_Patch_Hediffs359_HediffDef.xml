@@ -1,0 +1,12 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\ACPteam_ACPVanillaStyle\AnimalCollabProj_CE_Patch_Hediffs359.xml -->
+	<!-- EN: platypus venom sting -->
+	<PlatypusVenom.label>platypus venom sting</PlatypusVenom.label>
+	<!-- EN: the venom from a platypus' spur -->
+	<PlatypusVenom.labelNoun>the venom from a platypus' spur</PlatypusVenom.labelNoun>
+	
+	<!-- EN: scorpion venom sting -->
+	<ScorpionVenom.label>scorpion venom sting</ScorpionVenom.label>
+	<!-- EN: scorpion venom -->
+	<ScorpionVenom.labelNoun>scorpion venom</ScorpionVenom.labelNoun>
+</LanguageData>

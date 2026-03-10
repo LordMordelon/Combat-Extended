@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Torann_ARimworldOfMagic\Patch_Sentinel87.xml -->
+	<!-- EN: claws -->
+	<TM_Lesser_SentinelR.tools.0.label>claws</TM_Lesser_SentinelR.tools.0.label>
+	<!-- EN: teeth -->
+	<TM_Lesser_SentinelR.tools.1.label>teeth</TM_Lesser_SentinelR.tools.1.label>
+	
+	<!-- EN: claws -->
+	<TM_SentinelR.tools.0.label>claws</TM_SentinelR.tools.0.label>
+	<!-- EN: teeth -->
+	<TM_SentinelR.tools.1.label>teeth</TM_SentinelR.tools.1.label>
+	
+	<!-- EN: claws -->
+	<TM_Greater_SentinelR.tools.0.label>claws</TM_Greater_SentinelR.tools.0.label>
+	<!-- EN: teeth -->
+	<TM_Greater_SentinelR.tools.1.label>teeth</TM_Greater_SentinelR.tools.1.label>
+</LanguageData>

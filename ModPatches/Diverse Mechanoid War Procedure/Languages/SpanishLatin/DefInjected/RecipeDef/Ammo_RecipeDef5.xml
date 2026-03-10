@@ -1,0 +1,10 @@
+<LanguageData>
+	<!-- ModPatches\Diverse Mechanoid War Procedure\Defs\Diverse Mechanoid War Procedure\Ammo.xml -->
+	
+	<!-- EN: make 70mm Mechanoid Tox Grenade x5 -->
+	<MakeAmmo_70mmMechanoidGrenade_Tox.label>make 70mm Mechanoid Tox Grenade x5</MakeAmmo_70mmMechanoidGrenade_Tox.label>
+	<!-- EN: Craft 5 70mm Mechanoid Tox Grenades. -->
+	<MakeAmmo_70mmMechanoidGrenade_Tox.description>Craft 5 70mm Mechanoid Tox Grenades.</MakeAmmo_70mmMechanoidGrenade_Tox.description>
+	<!-- EN: Making 70mm Mechanoid Tox Grenades. -->
+	<MakeAmmo_70mmMechanoidGrenade_Tox.jobString>Making 70mm Mechanoid Tox Grenades.</MakeAmmo_70mmMechanoidGrenade_Tox.jobString>
+</LanguageData>

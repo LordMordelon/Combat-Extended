@@ -1,0 +1,23 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Ayameduki_HARSilkiera\AlienRace_Silkiera1613.xml -->
+	<!-- EN: left fist -->
+	<HAR_Silkiera.tools.0.label>left fist</HAR_Silkiera.tools.0.label>
+	<!-- EN: right fist -->
+	<HAR_Silkiera.tools.1.label>right fist</HAR_Silkiera.tools.1.label>
+	<!-- EN: head -->
+	<HAR_Silkiera.tools.2.label>head</HAR_Silkiera.tools.2.label>
+	
+	<!-- EN: left fist -->
+	<HAR_Silkiera_b.tools.0.label>left fist</HAR_Silkiera_b.tools.0.label>
+	<!-- EN: right fist -->
+	<HAR_Silkiera_b.tools.1.label>right fist</HAR_Silkiera_b.tools.1.label>
+	<!-- EN: head -->
+	<HAR_Silkiera_b.tools.2.label>head</HAR_Silkiera_b.tools.2.label>
+	
+	<!-- EN: left fist -->
+	<HAR_Silkiera_c.tools.0.label>left fist</HAR_Silkiera_c.tools.0.label>
+	<!-- EN: right fist -->
+	<HAR_Silkiera_c.tools.1.label>right fist</HAR_Silkiera_c.tools.1.label>
+	<!-- EN: head -->
+	<HAR_Silkiera_c.tools.2.label>head</HAR_Silkiera_c.tools.2.label>
+</LanguageData>

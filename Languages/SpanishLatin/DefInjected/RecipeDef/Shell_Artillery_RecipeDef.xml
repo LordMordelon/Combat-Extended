@@ -1,0 +1,38 @@
+<LanguageData>
+	<!-- Defs\Ammo\Generic\Shell_Artillery.xml -->
+	
+	<!-- EN: make artillery shells (HE) x2 -->
+	<MakeAmmo_ArtilleryShell_HE.label>make artillery shells (HE) x2</MakeAmmo_ArtilleryShell_HE.label>
+	<!-- EN: Craft 2 artillery shells (HE). -->
+	<MakeAmmo_ArtilleryShell_HE.description>Craft 2 artillery shells (HE).</MakeAmmo_ArtilleryShell_HE.description>
+	<!-- EN: Making artillery shells (HE). -->
+	<MakeAmmo_ArtilleryShell_HE.jobString>Making artillery shells (HE).</MakeAmmo_ArtilleryShell_HE.jobString>
+	
+	<!-- EN: make artillery shells (Airburst) x2 -->
+	<MakeAmmo_ArtilleryShell_HE_HFuzed.label>make artillery shells (Airburst) x2</MakeAmmo_ArtilleryShell_HE_HFuzed.label>
+	<!-- EN: Craft 2 155mm (Airburst) artillery shells. -->
+	<MakeAmmo_ArtilleryShell_HE_HFuzed.description>Craft 2 155mm (Airburst) artillery shells.</MakeAmmo_ArtilleryShell_HE_HFuzed.description>
+	<!-- EN: Making 155mm (Airburst) artillery shells. -->
+	<MakeAmmo_ArtilleryShell_HE_HFuzed.jobString>Making 155mm (Airburst) artillery shells.</MakeAmmo_ArtilleryShell_HE_HFuzed.jobString>
+	
+	<!-- EN: make artillery shells (Incendiary) x2 -->
+	<MakeAmmo_ArtilleryShell_Incendiary.label>make artillery shells (Incendiary) x2</MakeAmmo_ArtilleryShell_Incendiary.label>
+	<!-- EN: Craft 2 artillery shells (Incendiary). -->
+	<MakeAmmo_ArtilleryShell_Incendiary.description>Craft 2 artillery shells (Incendiary).</MakeAmmo_ArtilleryShell_Incendiary.description>
+	<!-- EN: Making artillery shell (Incendiary). -->
+	<MakeAmmo_ArtilleryShell_Incendiary.jobString>Making artillery shell (Incendiary).</MakeAmmo_ArtilleryShell_Incendiary.jobString>
+	
+	<!-- EN: make artillery shells (EMP) x2 -->
+	<MakeAmmo_ArtilleryShell_EMP.label>make artillery shells (EMP) x2</MakeAmmo_ArtilleryShell_EMP.label>
+	<!-- EN: Craft 2 artillery shells (EMP). -->
+	<MakeAmmo_ArtilleryShell_EMP.description>Craft 2 artillery shells (EMP).</MakeAmmo_ArtilleryShell_EMP.description>
+	<!-- EN: Making artillery shells (EMP). -->
+	<MakeAmmo_ArtilleryShell_EMP.jobString>Making artillery shells (EMP).</MakeAmmo_ArtilleryShell_EMP.jobString>
+	
+	<!-- EN: make artillery shells (Smoke) x2 -->
+	<MakeAmmo_ArtilleryShell_Smoke.label>make artillery shells (Smoke) x2</MakeAmmo_ArtilleryShell_Smoke.label>
+	<!-- EN: Craft 2 artillery shells (Smoke). -->
+	<MakeAmmo_ArtilleryShell_Smoke.description>Craft 2 artillery shells (Smoke).</MakeAmmo_ArtilleryShell_Smoke.description>
+	<!-- EN: Making artillery shells (Smoke). -->
+	<MakeAmmo_ArtilleryShell_Smoke.jobString>Making artillery shells (Smoke).</MakeAmmo_ArtilleryShell_Smoke.jobString>
+</LanguageData>

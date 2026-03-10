@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\vanillaracesexpanded_waster\Hediffs1870.xml -->
+	<!-- EN: inactive -->
+	<VRE_PollutionAccuracy.stages.0.label>inactive</VRE_PollutionAccuracy.stages.0.label>
+	<!-- EN: minor -->
+	<VRE_PollutionAccuracy.stages.1.label>minor</VRE_PollutionAccuracy.stages.1.label>
+	<!-- EN: moderate -->
+	<VRE_PollutionAccuracy.stages.2.label>moderate</VRE_PollutionAccuracy.stages.2.label>
+	<!-- EN: extreme -->
+	<VRE_PollutionAccuracy.stages.3.label>extreme</VRE_PollutionAccuracy.stages.3.label>
+</LanguageData>

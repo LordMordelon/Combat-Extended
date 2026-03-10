@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- ModPatches\Spacer Arsenal\Defs\Spacer Arsenal\Ammo.xml -->
+	
+	<!-- EN: Hot Plasma Cell -->
+	<AmmoHotPlasmaCell.label>Hot Plasma Cell</AmmoHotPlasmaCell.label>
+	<!-- EN: Spacer Arsenal/PlasmaCell/HotPlasmaCell_c -->
+	<AmmoHotPlasmaCell.iconPath>Spacer Arsenal/PlasmaCell/HotPlasmaCell_c</AmmoHotPlasmaCell.iconPath>
+	
+	<!-- EN: Photon Cell -->
+	<AmmoPhotonCell.label>Photon Cell</AmmoPhotonCell.label>
+	<!-- EN: Spacer Arsenal/PhotonCell/PhotonCell_c -->
+	<AmmoPhotonCell.iconPath>Spacer Arsenal/PhotonCell/PhotonCell_c</AmmoPhotonCell.iconPath>
+</LanguageData>

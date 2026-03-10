@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- ModPatches\Medieval Bowyer\Defs\Medieval Bowyer\Ammo.xml -->
+	<!-- EN: crossbow bolt (stone) -->
+	<Projectile_GarrisonCrossbowBolt_Stone.label>crossbow bolt (stone)</Projectile_GarrisonCrossbowBolt_Stone.label>
+	<!-- EN: crossbow bolt (steel) -->
+	<Projectile_GarrisonCrossbowBolt_Steel.label>crossbow bolt (steel)</Projectile_GarrisonCrossbowBolt_Steel.label>
+	<!-- EN: crossbow bolt (plasteel) -->
+	<Projectile_GarrisonCrossbowBolt_Plasteel.label>crossbow bolt (plasteel)</Projectile_GarrisonCrossbowBolt_Plasteel.label>
+	<!-- EN: crossbow bolt (venom) -->
+	<Projectile_GarrisonCrossbowBolt_Venom.label>crossbow bolt (venom)</Projectile_GarrisonCrossbowBolt_Venom.label>
+	<!-- EN: crossbow bolt (flame) -->
+	<Projectile_GarrisonCrossbowBolt_Flame.label>crossbow bolt (flame)</Projectile_GarrisonCrossbowBolt_Flame.label>
+</LanguageData>

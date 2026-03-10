@@ -1,0 +1,28 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Killathon_ArtificialBeings_SynCore_Biomimetics\Races_Animals95.xml -->
+	<!-- EN: left wing -->
+	<ABF_Thing_Synstruct_Razorstruct.tools.0.label>left wing</ABF_Thing_Synstruct_Razorstruct.tools.0.label>
+	<!-- EN: right wing -->
+	<ABF_Thing_Synstruct_Razorstruct.tools.1.label>right wing</ABF_Thing_Synstruct_Razorstruct.tools.1.label>
+	<!-- EN: head -->
+	<ABF_Thing_Synstruct_Razorstruct.tools.2.label>head</ABF_Thing_Synstruct_Razorstruct.tools.2.label>
+	
+	<!-- EN: head -->
+	<ABF_Thing_Synstruct_Chemstruct.tools.0.label>head</ABF_Thing_Synstruct_Chemstruct.tools.0.label>
+	
+	<!-- EN: head -->
+	<ABF_Thing_Synstruct_Steelstruct.tools.0.label>head</ABF_Thing_Synstruct_Steelstruct.tools.0.label>
+	
+	<!-- EN: head -->
+	<ABF_Thing_Synstruct_Nutristruct.tools.0.label>head</ABF_Thing_Synstruct_Nutristruct.tools.0.label>
+	
+	<!-- EN: head -->
+	<ABF_Thing_Synstruct_Convoystruct.tools.0.label>head</ABF_Thing_Synstruct_Convoystruct.tools.0.label>
+	
+	<!-- EN: left claw -->
+	<ABF_Thing_Synstruct_Guardstruct.tools.0.label>left claw</ABF_Thing_Synstruct_Guardstruct.tools.0.label>
+	<!-- EN: right claw -->
+	<ABF_Thing_Synstruct_Guardstruct.tools.1.label>right claw</ABF_Thing_Synstruct_Guardstruct.tools.1.label>
+	<!-- EN: head -->
+	<ABF_Thing_Synstruct_Guardstruct.tools.3.label>head</ABF_Thing_Synstruct_Guardstruct.tools.3.label>
+</LanguageData>

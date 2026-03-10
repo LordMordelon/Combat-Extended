@@ -1,0 +1,25 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\RH2_Helldivers_Super_Firearms\HD2_Shotguns1310.xml -->
+	<!-- EN: barrel -->
+	<RNGun_SG225IEBreakerIncendiary_Shotgun.tools.0.label>barrel</RNGun_SG225IEBreakerIncendiary_Shotgun.tools.0.label>
+	<!-- EN: stock -->
+	<RNGun_SG225IEBreakerIncendiary_Shotgun.tools.1.label>stock</RNGun_SG225IEBreakerIncendiary_Shotgun.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<RNGun_SG8Punisher_Shotgun.tools.0.label>barrel</RNGun_SG8Punisher_Shotgun.tools.0.label>
+	<!-- EN: stock -->
+	<RNGun_SG8Punisher_Shotgun.tools.1.label>stock</RNGun_SG8Punisher_Shotgun.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<RNGun_SG20Halt_Shotgun.tools.0.label>barrel</RNGun_SG20Halt_Shotgun.tools.0.label>
+	<!-- EN: stock -->
+	<RNGun_SG20Halt_Shotgun.tools.1.label>stock</RNGun_SG20Halt_Shotgun.tools.1.label>
+	
+	<!-- EN: The SG-225 Breaker is a fully-automatic shotgun specialized for close-quarters combat. This is the distinctive orange 'Incendiary' model, usually used to denote that it is kept loaded with incendiary ammunition - but it's perfectly capable of firing any other kind of 12-gauge round if need be. It may not have the punch of the Punisher or Halt, but it excels in sweeping away chaff thanks to its large magazine. -->
+	<RNGun_SG225IEBreakerIncendiary_Shotgun.description>The SG-225 Breaker is a fully-automatic shotgun specialized for close-quarters combat. This is the distinctive orange 'Incendiary' model, usually used to denote that it is kept loaded with incendiary ammunition - but it's perfectly capable of firing any other kind of 12-gauge round if need be. It may not have the punch of the Punisher or Halt, but it excels in sweeping away chaff thanks to its large magazine.</RNGun_SG225IEBreakerIncendiary_Shotgun.description>
+	
+	<!-- EN: switch to primary feed -->
+	<RNGun_SG20Halt_Shotgun.comps.0.standardLabel>switch to primary feed</RNGun_SG20Halt_Shotgun.comps.0.standardLabel>
+	<!-- EN: switch to secondary feed -->
+	<RNGun_SG20Halt_Shotgun.comps.0.underBarrelLabel>switch to secondary feed</RNGun_SG20Halt_Shotgun.comps.0.underBarrelLabel>
+</LanguageData>

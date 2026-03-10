@@ -1,0 +1,112 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\CP_RimmuNation_Weapons\RNW_CE_Patch_RangedIndustrial_Pistols1512.xml -->
+	<!-- EN: grip -->
+	<RNGun_CZ75B.tools.0.label>grip</RNGun_CZ75B.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_CZ75B.tools.1.label>muzzle</RNGun_CZ75B.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_DesertEagle.tools.0.label>grip</RNGun_DesertEagle.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_DesertEagle.tools.1.label>muzzle</RNGun_DesertEagle.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_DesertEagleGold.tools.0.label>grip</RNGun_DesertEagleGold.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_DesertEagleGold.tools.1.label>muzzle</RNGun_DesertEagleGold.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_FiveSeven.tools.0.label>grip</RNGun_FiveSeven.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_FiveSeven.tools.1.label>muzzle</RNGun_FiveSeven.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_Glock17P.tools.0.label>grip</RNGun_Glock17P.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_Glock17P.tools.1.label>muzzle</RNGun_Glock17P.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_Glock34CM.tools.0.label>grip</RNGun_Glock34CM.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_Glock34CM.tools.1.label>muzzle</RNGun_Glock34CM.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_HS2000P.tools.0.label>grip</RNGun_HS2000P.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_HS2000P.tools.1.label>muzzle</RNGun_HS2000P.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_M1911_Hellfighter.tools.0.label>grip</RNGun_M1911_Hellfighter.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_M1911_Hellfighter.tools.1.label>muzzle</RNGun_M1911_Hellfighter.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_M1911A1P.tools.0.label>grip</RNGun_M1911A1P.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_M1911A1P.tools.1.label>muzzle</RNGun_M1911A1P.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_M1911A2P.tools.0.label>grip</RNGun_M1911A2P.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_M1911A2P.tools.1.label>muzzle</RNGun_M1911A2P.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_M45A1_Pistol.tools.0.label>grip</RNGun_M45A1_Pistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_M45A1_Pistol.tools.1.label>muzzle</RNGun_M45A1_Pistol.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_M9A1P.tools.0.label>grip</RNGun_M9A1P.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_M9A1P.tools.1.label>muzzle</RNGun_M9A1P.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_Makarov.tools.0.label>grip</RNGun_Makarov.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_Makarov.tools.1.label>muzzle</RNGun_Makarov.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_MK23P.tools.0.label>grip</RNGun_MK23P.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_MK23P.tools.1.label>muzzle</RNGun_MK23P.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_MP445P.tools.0.label>grip</RNGun_MP445P.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_MP445P.tools.1.label>muzzle</RNGun_MP445P.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_P226P.tools.0.label>grip</RNGun_P226P.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_P226P.tools.1.label>muzzle</RNGun_P226P.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_P320P.tools.0.label>grip</RNGun_P320P.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_P320P.tools.1.label>muzzle</RNGun_P320P.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_PT92Luison.tools.0.label>grip</RNGun_PT92Luison.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_PT92Luison.tools.1.label>muzzle</RNGun_PT92Luison.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_TEC-9P.tools.0.label>grip</RNGun_TEC-9P.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_TEC-9P.tools.1.label>muzzle</RNGun_TEC-9P.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_TT30P.tools.0.label>grip</RNGun_TT30P.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_TT30P.tools.1.label>muzzle</RNGun_TT30P.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_USP45SD.tools.0.label>grip</RNGun_USP45SD.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_USP45SD.tools.1.label>muzzle</RNGun_USP45SD.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_WaltherPPK.tools.0.label>grip</RNGun_WaltherPPK.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_WaltherPPK.tools.1.label>muzzle</RNGun_WaltherPPK.tools.1.label>
+</LanguageData>

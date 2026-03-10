@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\More Vanilla Turrets\Defs\More Vanilla Turrets\MVT_CE_Patch_Ammo_Shells.xml -->
+	
+	<!-- EN: 81mm mortar shell (Plasma) -->
+	<Shell_Plasma.label>81mm mortar shell (Plasma)</Shell_Plasma.label>
+	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+	<Shell_Plasma.description>Low-velocity shell designed to be fired from a mortar.</Shell_Plasma.description>
+	
+	<!-- EN: 81mm mortar shell (Plasma) -->
+	<Bullet_81mmMortarShell_Plasma.label>81mm mortar shell (Plasma)</Bullet_81mmMortarShell_Plasma.label>
+</LanguageData>

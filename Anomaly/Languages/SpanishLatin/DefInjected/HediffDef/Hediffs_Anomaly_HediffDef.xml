@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- Anomaly\Defs\HediffDefs\Hediffs_Anomaly.xml -->
+	<!-- EN: Bioferrite toxicity -->
+	<BioferriteToxicity.label>Bioferrite toxicity</BioferriteToxicity.label>
+	<!-- EN: Ravaged by the effects of bioferrite toxicity. -->
+	<BioferriteToxicity.description>Ravaged by the effects of bioferrite toxicity.</BioferriteToxicity.description>
+	<!-- EN: minor -->
+	<BioferriteToxicity.stages.0.label>minor</BioferriteToxicity.stages.0.label>
+	<!-- EN: moderate -->
+	<BioferriteToxicity.stages.1.label>moderate</BioferriteToxicity.stages.1.label>
+	<!-- EN: major -->
+	<BioferriteToxicity.stages.2.label>major</BioferriteToxicity.stages.2.label>
+	<!-- EN: severe -->
+	<BioferriteToxicity.stages.3.label>severe</BioferriteToxicity.stages.3.label>
+	<!-- EN: extreme -->
+	<BioferriteToxicity.stages.4.label>extreme</BioferriteToxicity.stages.4.label>
+</LanguageData>

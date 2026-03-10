@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- ModPatches\Rimsenal Core\Defs\Rimsenal Core\Ammo_JI_Defense.xml -->
+	<!-- EN: molten shells -->
+	<AmmoSet_MoltenShell.label>molten shells</AmmoSet_MoltenShell.label>
+	<!-- EN: molten barrage gun -->
+	<AmmoSet_JIRocket.label>molten barrage gun</AmmoSet_JIRocket.label>
+</LanguageData>

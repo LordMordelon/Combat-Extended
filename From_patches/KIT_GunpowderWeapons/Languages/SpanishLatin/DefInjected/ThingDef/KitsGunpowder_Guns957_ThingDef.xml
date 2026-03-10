@@ -1,0 +1,28 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\KIT_GunpowderWeapons\KitsGunpowder_Guns957.xml -->
+	<!-- EN: stock -->
+	<KIT_Gun_Arquebus.tools.0.label>stock</KIT_Gun_Arquebus.tools.0.label>
+	<!-- EN: barrel -->
+	<KIT_Gun_Arquebus.tools.1.label>barrel</KIT_Gun_Arquebus.tools.1.label>
+	<!-- EN: muzzle -->
+	<KIT_Gun_Arquebus.tools.2.label>muzzle</KIT_Gun_Arquebus.tools.2.label>
+	
+	<!-- EN: stock -->
+	<KIT_Gun_Blunderbuss.tools.0.label>stock</KIT_Gun_Blunderbuss.tools.0.label>
+	<!-- EN: barrel -->
+	<KIT_Gun_Blunderbuss.tools.1.label>barrel</KIT_Gun_Blunderbuss.tools.1.label>
+	<!-- EN: muzzle -->
+	<KIT_Gun_Blunderbuss.tools.2.label>muzzle</KIT_Gun_Blunderbuss.tools.2.label>
+	
+	<!-- EN: stock -->
+	<KIT_Gun_HandMortar.tools.0.label>stock</KIT_Gun_HandMortar.tools.0.label>
+	<!-- EN: barrel -->
+	<KIT_Gun_HandMortar.tools.1.label>barrel</KIT_Gun_HandMortar.tools.1.label>
+	<!-- EN: muzzle -->
+	<KIT_Gun_HandMortar.tools.2.label>muzzle</KIT_Gun_HandMortar.tools.2.label>
+	
+	<!-- EN: stock -->
+	<KIT_Gun_BayonetMusket.tools.0.label>stock</KIT_Gun_BayonetMusket.tools.0.label>
+	<!-- EN: bayonet -->
+	<KIT_Gun_BayonetMusket.tools.1.label>bayonet</KIT_Gun_BayonetMusket.tools.1.label>
+</LanguageData>

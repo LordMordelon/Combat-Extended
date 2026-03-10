@@ -1,0 +1,21 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Ludeon_Rimworld_Odyssey\WeaponTraitDefs79.xml -->
+	<!-- EN: This weapon's magazine holds 50% more ammunition than normal. -->
+	<ExtendedMagazine.description>This weapon's magazine holds 50% more ammunition than normal.</ExtendedMagazine.description>
+	<!-- EN: improved terminal ballistics -->
+	<HollowPointRounds.label>improved terminal ballistics</HollowPointRounds.label>
+	<!-- EN: This weapon's bullets have been designed for maximum fragmentation after striking a target, dealing more damage than normal. -->
+	<HollowPointRounds.description>This weapon's bullets have been designed for maximum fragmentation after striking a target, dealing more damage than normal.</HollowPointRounds.description>
+	<!-- EN: wide bore -->
+	<BirdshotPellets.label>wide bore</BirdshotPellets.label>
+	<!-- EN: This weapon has a wider bore than normal, causing considerably larger spread. -->
+	<BirdshotPellets.description>This weapon has a wider bore than normal, causing considerably larger spread.</BirdshotPellets.description>
+	<!-- EN: This weapon is much lighter than normal, lowering its aiming time at the cost of increased recoil. -->
+	<Lightweight.description>This weapon is much lighter than normal, lowering its aiming time at the cost of increased recoil.</Lightweight.description>
+	<!-- EN: This weapon has an attached grenade launcher capable of firing a variety of different munitions. -->
+	<GrenadeLauncher.description>This weapon has an attached grenade launcher capable of firing a variety of different munitions.</GrenadeLauncher.description>
+	<!-- EN: switch to grenade launcher -->
+	<GrenadeLauncher.underBarrelProps.underBarrelLabel>switch to grenade launcher</GrenadeLauncher.underBarrelProps.underBarrelLabel>
+	<!-- EN: switch to incendiary launcher -->
+	<IncendiaryLauncher.underBarrelProps.underBarrelLabel>switch to incendiary launcher</IncendiaryLauncher.underBarrelProps.underBarrelLabel>
+</LanguageData>

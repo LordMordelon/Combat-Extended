@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- ModPatches\Solark Race\Defs\Solark Race\Damage_Solark.xml -->
+	<!-- EN: bomb -->
+	<Bomb_Solark.label>bomb</Bomb_Solark.label>
+	<!-- EN: {0} has died in an explosion. -->
+	<Bomb_Solark.deathMessage>{0} has died in an explosion.</Bomb_Solark.deathMessage>
+</LanguageData>

@@ -1,0 +1,10 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla Factions Expanded - Empire\Defs\Vanilla Factions Expanded - Empire\Ammo\FletcherRifleRound.xml -->
+	
+	<!-- EN: make fletcher dart cartridge x50 -->
+	<MakeAmmo_FletcherDart.label>make fletcher dart cartridge x50</MakeAmmo_FletcherDart.label>
+	<!-- EN: Craft 50 fletcher dart cartridges. -->
+	<MakeAmmo_FletcherDart.description>Craft 50 fletcher dart cartridges.</MakeAmmo_FletcherDart.description>
+	<!-- EN: Making fletcher dart cartridges. -->
+	<MakeAmmo_FletcherDart.jobString>Making fletcher dart cartridges.</MakeAmmo_FletcherDart.jobString>
+</LanguageData>

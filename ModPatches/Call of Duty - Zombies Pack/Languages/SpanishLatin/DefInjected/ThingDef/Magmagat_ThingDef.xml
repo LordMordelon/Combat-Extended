@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Blunders\Magmagat.xml -->
+	
+	<!-- EN: Magmagat shell (Buck) -->
+	<Ammo_Magmagat_Buck.label>Magmagat shell (Buck)</Ammo_Magmagat_Buck.label>
+	<!-- EN: A single touch from this fiery will light all. -->
+	<Ammo_Magmagat_Buck.description>A single touch from this fiery will light all.</Ammo_Magmagat_Buck.description>
+	
+	<!-- EN: Magmagat shell (Slug) -->
+	<Ammo_Magmagat_Slug.label>Magmagat shell (Slug)</Ammo_Magmagat_Slug.label>
+	<!-- EN: A single touch from this fiery will light all. -->
+	<Ammo_Magmagat_Slug.description>A single touch from this fiery will light all.</Ammo_Magmagat_Slug.description>
+	
+	<!-- EN: buckshot pellet -->
+	<Bullet_Magmagat_Buck.label>buckshot pellet</Bullet_Magmagat_Buck.label>
+	
+	<!-- EN: Slug shot -->
+	<Bullet_Magmagat_Slug.label>Slug shot</Bullet_Magmagat_Slug.label>
+</LanguageData>

@@ -1,0 +1,39 @@
+<LanguageData>
+	<!-- ModPatches\Civilization Beyond Earth Armor Sets\Defs\Civilization Beyond Earth Armor Sets\Ammo.xml -->
+	<!-- EN: make 6x24mm Harmony Charged cartridge x500 -->
+	<MakeAmmo_6x24mmHarmonyCharged.label>make 6x24mm Harmony Charged cartridge x500</MakeAmmo_6x24mmHarmonyCharged.label>
+	<!-- EN: Craft 500 6x24mm Harmony Charged cartridges. -->
+	<MakeAmmo_6x24mmHarmonyCharged.description>Craft 500 6x24mm Harmony Charged cartridges.</MakeAmmo_6x24mmHarmonyCharged.description>
+	<!-- EN: Making 6x24mm Harmony Charged cartridges. -->
+	<MakeAmmo_6x24mmHarmonyCharged.jobString>Making 6x24mm Harmony Charged cartridges.</MakeAmmo_6x24mmHarmonyCharged.jobString>
+	<!-- EN: make 6x24mm Purity Charged cartridge x500 -->
+	<MakeAmmo_6x24mmPurityCharged.label>make 6x24mm Purity Charged cartridge x500</MakeAmmo_6x24mmPurityCharged.label>
+	<!-- EN: Craft 500 6x24mm Purity Charged cartridges. -->
+	<MakeAmmo_6x24mmPurityCharged.description>Craft 500 6x24mm Purity Charged cartridges.</MakeAmmo_6x24mmPurityCharged.description>
+	<!-- EN: Making 6x24mm Purity Charged cartridges. -->
+	<MakeAmmo_6x24mmPurityCharged.jobString>Making 6x24mm Purity Charged cartridges.</MakeAmmo_6x24mmPurityCharged.jobString>
+	<!-- EN: make 6x24mm Supremacy Charged cartridge x500 -->
+	<MakeAmmo_6x24mmSupremacyCharged.label>make 6x24mm Supremacy Charged cartridge x500</MakeAmmo_6x24mmSupremacyCharged.label>
+	<!-- EN: Craft 500 6x24mm Supremacy Charged cartridges. -->
+	<MakeAmmo_6x24mmSupremacyCharged.description>Craft 500 6x24mm Supremacy Charged cartridges.</MakeAmmo_6x24mmSupremacyCharged.description>
+	<!-- EN: Making 6x24mm Supremacy Charged cartridges. -->
+	<MakeAmmo_6x24mmSupremacyCharged.jobString>Making 6x24mm Supremacy Charged cartridges.</MakeAmmo_6x24mmSupremacyCharged.jobString>
+	<!-- EN: make 8x35mm Harmony Charged cartridge x500 -->
+	<MakeAmmo_8x35mmHarmonyCharged.label>make 8x35mm Harmony Charged cartridge x500</MakeAmmo_8x35mmHarmonyCharged.label>
+	<!-- EN: Craft 500 8x35mm Harmony Charged cartridges. -->
+	<MakeAmmo_8x35mmHarmonyCharged.description>Craft 500 8x35mm Harmony Charged cartridges.</MakeAmmo_8x35mmHarmonyCharged.description>
+	<!-- EN: Making 8x35mm Harmony Charged cartridges. -->
+	<MakeAmmo_8x35mmHarmonyCharged.jobString>Making 8x35mm Harmony Charged cartridges.</MakeAmmo_8x35mmHarmonyCharged.jobString>
+	<!-- EN: make 8x35mm Purity Charged cartridge x500 -->
+	<MakeAmmo_8x35mmPurityCharged.label>make 8x35mm Purity Charged cartridge x500</MakeAmmo_8x35mmPurityCharged.label>
+	<!-- EN: Craft 500 8x35mm Purity Charged cartridges. -->
+	<MakeAmmo_8x35mmPurityCharged.description>Craft 500 8x35mm Purity Charged cartridges.</MakeAmmo_8x35mmPurityCharged.description>
+	<!-- EN: Making 8x35mm Purity Charged cartridges. -->
+	<MakeAmmo_8x35mmPurityCharged.jobString>Making 8x35mm Purity Charged cartridges.</MakeAmmo_8x35mmPurityCharged.jobString>
+	<!-- EN: make 8x35mm Supremacy Charged cartridge x500 -->
+	<MakeAmmo_8x35mmSupremacyCharged.label>make 8x35mm Supremacy Charged cartridge x500</MakeAmmo_8x35mmSupremacyCharged.label>
+	<!-- EN: Craft 500 8x35mm Supremacy Charged cartridges. -->
+	<MakeAmmo_8x35mmSupremacyCharged.description>Craft 500 8x35mm Supremacy Charged cartridges.</MakeAmmo_8x35mmSupremacyCharged.description>
+	<!-- EN: Making 8x35mm Supremacy Charged cartridges. -->
+	<MakeAmmo_8x35mmSupremacyCharged.jobString>Making 8x35mm Supremacy Charged cartridges.</MakeAmmo_8x35mmSupremacyCharged.jobString>
+</LanguageData>

@@ -1,0 +1,33 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Trickity_Samurai_Faction\T_Samurai_Weapons_Melee1647.xml -->
+	<!-- EN: neck -->
+	<TSF_Sake.tools.1.label>neck</TSF_Sake.tools.1.label>
+	
+	<!-- EN: handle -->
+	<TSF_Katana.tools.0.label>handle</TSF_Katana.tools.0.label>
+	<!-- EN: point -->
+	<TSF_Katana.tools.1.label>point</TSF_Katana.tools.1.label>
+	<!-- EN: edge -->
+	<TSF_Katana.tools.2.label>edge</TSF_Katana.tools.2.label>
+	
+	<!-- EN: handle -->
+	<TSF_Odachi.tools.0.label>handle</TSF_Odachi.tools.0.label>
+	<!-- EN: point -->
+	<TSF_Odachi.tools.1.label>point</TSF_Odachi.tools.1.label>
+	<!-- EN: edge -->
+	<TSF_Odachi.tools.2.label>edge</TSF_Odachi.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<TSF_Naginata.tools.0.label>shaft</TSF_Naginata.tools.0.label>
+	<!-- EN: edge -->
+	<TSF_Naginata.tools.1.label>edge</TSF_Naginata.tools.1.label>
+	<!-- EN: edge -->
+	<TSF_Naginata.tools.2.label>edge</TSF_Naginata.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<TSF_Yari.tools.0.label>shaft</TSF_Yari.tools.0.label>
+	<!-- EN: shaft -->
+	<TSF_Yari.tools.1.label>shaft</TSF_Yari.tools.1.label>
+	<!-- EN: head -->
+	<TSF_Yari.tools.2.label>head</TSF_Yari.tools.2.label>
+</LanguageData>

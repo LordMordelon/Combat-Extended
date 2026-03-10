@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\RooAndGloomy_DragonianRaceMod\DR_Weapon878.xml -->
+	<!-- EN: handle -->
+	<DR_BattleMace.tools.0.label>handle</DR_BattleMace.tools.0.label>
+	<!-- EN: head -->
+	<DR_BattleMace.tools.1.label>head</DR_BattleMace.tools.1.label>
+	
+	<!-- EN: handle -->
+	<DR_Battlesword.tools.0.label>handle</DR_Battlesword.tools.0.label>
+	<!-- EN: Blunt blade -->
+	<DR_Battlesword.tools.1.label>Blunt blade</DR_Battlesword.tools.1.label>
+	
+	<!-- EN: handle -->
+	<DR_BattleStaff.tools.0.label>handle</DR_BattleStaff.tools.0.label>
+	<!-- EN: head -->
+	<DR_BattleStaff.tools.1.label>head</DR_BattleStaff.tools.1.label>
+</LanguageData>

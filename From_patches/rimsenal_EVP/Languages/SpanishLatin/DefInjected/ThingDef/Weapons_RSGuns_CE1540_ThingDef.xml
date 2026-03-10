@@ -1,0 +1,91 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\rimsenal_EVP\Weapons_RSGuns_CE1540.xml -->
+	<!-- EN: stock -->
+	<Gun_RSBattleRifle.tools.0.label>stock</Gun_RSBattleRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_RSBattleRifle.tools.1.label>barrel</Gun_RSBattleRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_RSBattleRifle.tools.2.label>muzzle</Gun_RSBattleRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_RSCarbine.tools.0.label>stock</Gun_RSCarbine.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_RSCarbine.tools.1.label>barrel</Gun_RSCarbine.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_RSCarbine.tools.2.label>muzzle</Gun_RSCarbine.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_RSAMRifle.tools.0.label>stock</Gun_RSAMRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_RSAMRifle.tools.1.label>barrel</Gun_RSAMRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_RSAMRifle.tools.2.label>muzzle</Gun_RSAMRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_AutomaticRifle.tools.0.label>stock</Gun_AutomaticRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_AutomaticRifle.tools.1.label>barrel</Gun_AutomaticRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_AutomaticRifle.tools.2.label>muzzle</Gun_AutomaticRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_Repeater.tools.0.label>stock</Gun_Repeater.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_Repeater.tools.1.label>barrel</Gun_Repeater.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_Repeater.tools.2.label>muzzle</Gun_Repeater.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_MilitiaRifle.tools.0.label>stock</Gun_MilitiaRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_MilitiaRifle.tools.1.label>barrel</Gun_MilitiaRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_MilitiaRifle.tools.2.label>muzzle</Gun_MilitiaRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_MarksmanRifle.tools.0.label>stock</Gun_MarksmanRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_MarksmanRifle.tools.1.label>barrel</Gun_MarksmanRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_MarksmanRifle.tools.2.label>muzzle</Gun_MarksmanRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_RSThumper.tools.0.label>stock</Gun_RSThumper.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_RSThumper.tools.1.label>barrel</Gun_RSThumper.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_RSThumper.tools.2.label>muzzle</Gun_RSThumper.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_FragcatRifle.tools.0.label>stock</Gun_FragcatRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_FragcatRifle.tools.1.label>barrel</Gun_FragcatRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_FragcatRifle.tools.2.label>muzzle</Gun_FragcatRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_ThumpercatCarbine.tools.0.label>stock</Gun_ThumpercatCarbine.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_ThumpercatCarbine.tools.1.label>barrel</Gun_ThumpercatCarbine.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_ThumpercatCarbine.tools.2.label>muzzle</Gun_ThumpercatCarbine.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_ThundercatRifle.tools.0.label>stock</Gun_ThundercatRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_ThundercatRifle.tools.1.label>barrel</Gun_ThundercatRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_ThundercatRifle.tools.2.label>muzzle</Gun_ThundercatRifle.tools.2.label>
+	
+	<!-- EN: grip -->
+	<Gun_PistolHeavyRevolver.tools.0.label>grip</Gun_PistolHeavyRevolver.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_PistolHeavyRevolver.tools.1.label>muzzle</Gun_PistolHeavyRevolver.tools.1.label>
+	
+	<!-- EN: stock -->
+	<Gun_FR.tools.0.label>stock</Gun_FR.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_FR.tools.1.label>barrel</Gun_FR.tools.1.label>
+	<!-- EN: bayonet -->
+	<Gun_FR.tools.2.label>bayonet</Gun_FR.tools.2.label>
+</LanguageData>

@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\MH Mechanical Biomimetics\Defs\MH Mechanical Biomimetics\Ammo_SwarmShell.xml -->
+	
+	<!-- EN: 81mm mortar shell (Swarm) -->
+	<Swarm_shell_81mm.label>81mm mortar shell (Swarm)</Swarm_shell_81mm.label>
+	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+	<Swarm_shell_81mm.description>Low-velocity shell designed to be fired from a mortar.</Swarm_shell_81mm.description>
+	
+	<!-- EN: 81mm mortar shell (Swarm) -->
+	<Bullet_81mmMortarShell_Swarm.label>81mm mortar shell (Swarm)</Bullet_81mmMortarShell_Swarm.label>
+</LanguageData>

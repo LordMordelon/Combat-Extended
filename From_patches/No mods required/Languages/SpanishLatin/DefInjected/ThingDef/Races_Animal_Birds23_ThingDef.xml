@@ -1,0 +1,22 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Races_Animal_Birds23.xml -->
+	<!-- EN: claws -->
+	<Cassowary.tools.0.label>claws</Cassowary.tools.0.label>
+	<!-- EN: head -->
+	<Cassowary.tools.2.label>head</Cassowary.tools.2.label>
+	
+	<!-- EN: claws -->
+	<Emu.tools.0.label>claws</Emu.tools.0.label>
+	<!-- EN: head -->
+	<Emu.tools.2.label>head</Emu.tools.2.label>
+	
+	<!-- EN: claws -->
+	<Ostrich.tools.0.label>claws</Ostrich.tools.0.label>
+	<!-- EN: head -->
+	<Ostrich.tools.2.label>head</Ostrich.tools.2.label>
+	
+	<!-- EN: claws -->
+	<Turkey.tools.0.label>claws</Turkey.tools.0.label>
+	<!-- EN: head -->
+	<Turkey.tools.2.label>head</Turkey.tools.2.label>
+</LanguageData>

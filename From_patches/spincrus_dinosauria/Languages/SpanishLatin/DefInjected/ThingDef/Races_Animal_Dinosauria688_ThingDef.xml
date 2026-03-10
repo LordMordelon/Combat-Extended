@@ -1,0 +1,156 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\spincrus_dinosauria\Races_Animal_Dinosauria688.xml -->
+	<!-- EN: left leg -->
+	<TyrannosaurusRex.tools.0.label>left leg</TyrannosaurusRex.tools.0.label>
+	<!-- EN: right leg -->
+	<TyrannosaurusRex.tools.1.label>right leg</TyrannosaurusRex.tools.1.label>
+	
+	<!-- EN: left leg -->
+	<Yutyrannus.tools.0.label>left leg</Yutyrannus.tools.0.label>
+	<!-- EN: right leg -->
+	<Yutyrannus.tools.1.label>right leg</Yutyrannus.tools.1.label>
+	
+	<!-- EN: left leg -->
+	<Carnotaurus.tools.0.label>left leg</Carnotaurus.tools.0.label>
+	<!-- EN: right leg -->
+	<Carnotaurus.tools.1.label>right leg</Carnotaurus.tools.1.label>
+	
+	<!-- EN: left leg -->
+	<Allosaurus.tools.0.label>left leg</Allosaurus.tools.0.label>
+	<!-- EN: right leg -->
+	<Allosaurus.tools.1.label>right leg</Allosaurus.tools.1.label>
+	
+	<!-- EN: left leg -->
+	<Spinosaurus.tools.0.label>left leg</Spinosaurus.tools.0.label>
+	<!-- EN: right leg -->
+	<Spinosaurus.tools.1.label>right leg</Spinosaurus.tools.1.label>
+	
+	<!-- EN: left leg -->
+	<Baryonyx.tools.0.label>left leg</Baryonyx.tools.0.label>
+	<!-- EN: right leg -->
+	<Baryonyx.tools.1.label>right leg</Baryonyx.tools.1.label>
+	
+	<!-- EN: tail -->
+	<Ankylosaurus.tools.0.label>tail</Ankylosaurus.tools.0.label>
+	<!-- EN: head -->
+	<Ankylosaurus.tools.1.label>head</Ankylosaurus.tools.1.label>
+	
+	<!-- EN: tail -->
+	<Minmi.tools.0.label>tail</Minmi.tools.0.label>
+	<!-- EN: head -->
+	<Minmi.tools.1.label>head</Minmi.tools.1.label>
+	
+	<!-- EN: tail -->
+	<Brachiosaurus.tools.0.label>tail</Brachiosaurus.tools.0.label>
+	<!-- EN: left leg -->
+	<Brachiosaurus.tools.1.label>left leg</Brachiosaurus.tools.1.label>
+	<!-- EN: right leg -->
+	<Brachiosaurus.tools.2.label>right leg</Brachiosaurus.tools.2.label>
+	
+	<!-- EN: tail -->
+	<Brontosaurus.tools.0.label>tail</Brontosaurus.tools.0.label>
+	<!-- EN: left leg -->
+	<Brontosaurus.tools.1.label>left leg</Brontosaurus.tools.1.label>
+	<!-- EN: right leg -->
+	<Brontosaurus.tools.2.label>right leg</Brontosaurus.tools.2.label>
+	
+	<!-- EN: tail -->
+	<Diplodocus.tools.0.label>tail</Diplodocus.tools.0.label>
+	<!-- EN: left leg -->
+	<Diplodocus.tools.1.label>left leg</Diplodocus.tools.1.label>
+	<!-- EN: right leg -->
+	<Diplodocus.tools.2.label>right leg</Diplodocus.tools.2.label>
+	
+	<!-- EN: tail -->
+	<Magyarosaurus.tools.0.label>tail</Magyarosaurus.tools.0.label>
+	<!-- EN: left leg -->
+	<Magyarosaurus.tools.1.label>left leg</Magyarosaurus.tools.1.label>
+	<!-- EN: right leg -->
+	<Magyarosaurus.tools.2.label>right leg</Magyarosaurus.tools.2.label>
+	
+	<!-- EN: left claw -->
+	<Utahraptor.tools.0.label>left claw</Utahraptor.tools.0.label>
+	<!-- EN: right claw -->
+	<Utahraptor.tools.1.label>right claw</Utahraptor.tools.1.label>
+	
+	<!-- EN: left claw -->
+	<Dakotaraptor.tools.0.label>left claw</Dakotaraptor.tools.0.label>
+	<!-- EN: right claw -->
+	<Dakotaraptor.tools.1.label>right claw</Dakotaraptor.tools.1.label>
+	
+	<!-- EN: left claw -->
+	<Dilophosaurus.tools.0.label>left claw</Dilophosaurus.tools.0.label>
+	<!-- EN: right claw -->
+	<Dilophosaurus.tools.1.label>right claw</Dilophosaurus.tools.1.label>
+	
+	<!-- EN: left claw -->
+	<Velociraptor.tools.0.label>left claw</Velociraptor.tools.0.label>
+	<!-- EN: right claw -->
+	<Velociraptor.tools.1.label>right claw</Velociraptor.tools.1.label>
+	
+	<!-- EN: left claw -->
+	<Compsognathus.tools.0.label>left claw</Compsognathus.tools.0.label>
+	<!-- EN: right claw -->
+	<Compsognathus.tools.1.label>right claw</Compsognathus.tools.1.label>
+	
+	<!-- EN: left leg -->
+	<Gallimimus.tools.0.label>left leg</Gallimimus.tools.0.label>
+	<!-- EN: right leg -->
+	<Gallimimus.tools.1.label>right leg</Gallimimus.tools.1.label>
+	
+	<!-- EN: left leg -->
+	<Gigantoraptor.tools.0.label>left leg</Gigantoraptor.tools.0.label>
+	<!-- EN: right leg -->
+	<Gigantoraptor.tools.1.label>right leg</Gigantoraptor.tools.1.label>
+	
+	<!-- EN: head -->
+	<Iguanodon.tools.0.label>head</Iguanodon.tools.0.label>
+	
+	<!-- EN: head -->
+	<Parasaur.tools.0.label>head</Parasaur.tools.0.label>
+	
+	<!-- EN: head -->
+	<Corythosaurus.tools.0.label>head</Corythosaurus.tools.0.label>
+	
+	<!-- EN: left claw -->
+	<Deinocheirus.tools.0.label>left claw</Deinocheirus.tools.0.label>
+	<!-- EN: right claw -->
+	<Deinocheirus.tools.1.label>right claw</Deinocheirus.tools.1.label>
+	<!-- EN: head -->
+	<Deinocheirus.tools.2.label>head</Deinocheirus.tools.2.label>
+	
+	<!-- EN: left claw -->
+	<Therizinosaurus.tools.0.label>left claw</Therizinosaurus.tools.0.label>
+	<!-- EN: right claw -->
+	<Therizinosaurus.tools.1.label>right claw</Therizinosaurus.tools.1.label>
+	<!-- EN: head -->
+	<Therizinosaurus.tools.2.label>head</Therizinosaurus.tools.2.label>
+	
+	<!-- EN: head -->
+	<Pachycephalosaurus.tools.0.label>head</Pachycephalosaurus.tools.0.label>
+	
+	<!-- EN: head -->
+	<Stygimoloch.tools.0.label>head</Stygimoloch.tools.0.label>
+	
+	<!-- EN: head -->
+	<Dryosaurus.tools.0.label>head</Dryosaurus.tools.0.label>
+	
+	<!-- EN: tail -->
+	<Stegosaurus.tools.0.label>tail</Stegosaurus.tools.0.label>
+	<!-- EN: head -->
+	<Stegosaurus.tools.1.label>head</Stegosaurus.tools.1.label>
+	
+	<!-- EN: horns -->
+	<Triceratops.tools.0.label>horns</Triceratops.tools.0.label>
+	<!-- EN: head -->
+	<Triceratops.tools.1.label>head</Triceratops.tools.1.label>
+	
+	<!-- EN: head -->
+	<Protoceratops.tools.0.label>head</Protoceratops.tools.0.label>
+	
+	<!-- EN: beak -->
+	<Quetzalcoatlus.tools.0.label>beak</Quetzalcoatlus.tools.0.label>
+	
+	<!-- EN: beak -->
+	<Pteranodon.tools.0.label>beak</Pteranodon.tools.0.label>
+</LanguageData>

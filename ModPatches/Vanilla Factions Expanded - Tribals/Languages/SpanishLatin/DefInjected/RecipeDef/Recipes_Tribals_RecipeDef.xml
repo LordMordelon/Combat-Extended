@@ -1,0 +1,10 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla Factions Expanded - Tribals\Defs\Vanilla Factions Expanded - Tribals\Recipes_Tribals.xml -->
+	
+	<!-- EN: make throwspikes x20 -->
+	<MakeAmmo_VFET_Throwspikes.label>make throwspikes x20</MakeAmmo_VFET_Throwspikes.label>
+	<!-- EN: Craft 20 throwspikes. -->
+	<MakeAmmo_VFET_Throwspikes.description>Craft 20 throwspikes.</MakeAmmo_VFET_Throwspikes.description>
+	<!-- EN: Making throwspikes. -->
+	<MakeAmmo_VFET_Throwspikes.jobString>Making throwspikes.</MakeAmmo_VFET_Throwspikes.jobString>
+</LanguageData>

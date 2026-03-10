@@ -1,0 +1,96 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Grimworld_Lasguns\lasguns844.xml -->
+	<!-- EN: stock -->
+	<Gun_Kantrael.tools.0.label>stock</Gun_Kantrael.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_Kantrael.tools.1.label>barrel</Gun_Kantrael.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_Kantrael.tools.2.label>muzzle</Gun_Kantrael.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_Kantraelsanctified.tools.0.label>stock</Gun_Kantraelsanctified.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_Kantraelsanctified.tools.1.label>barrel</Gun_Kantraelsanctified.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_Kantraelsanctified.tools.2.label>muzzle</Gun_Kantraelsanctified.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_Kantraelt.tools.0.label>stock</Gun_Kantraelt.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_Kantraelt.tools.1.label>barrel</Gun_Kantraelt.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_Kantraelt.tools.2.label>muzzle</Gun_Kantraelt.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_Lascarbinefour.tools.0.label>stock</Gun_Lascarbinefour.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_Lascarbinefour.tools.1.label>barrel</Gun_Lascarbinefour.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_Lascarbinefour.tools.2.label>muzzle</Gun_Lascarbinefour.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_Lascarbinefoursanctified.tools.0.label>stock</Gun_Lascarbinefoursanctified.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_Lascarbinefoursanctified.tools.1.label>barrel</Gun_Lascarbinefoursanctified.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_Lascarbinefoursanctified.tools.2.label>muzzle</Gun_Lascarbinefoursanctified.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_VossPattern.tools.0.label>stock</Gun_VossPattern.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_VossPattern.tools.1.label>barrel</Gun_VossPattern.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_VossPattern.tools.2.label>muzzle</Gun_VossPattern.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_VossPatternsanctified.tools.0.label>stock</Gun_VossPatternsanctified.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_VossPatternsanctified.tools.1.label>barrel</Gun_VossPatternsanctified.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_VossPatternsanctified.tools.2.label>muzzle</Gun_VossPatternsanctified.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_Accatranfive.tools.0.label>stock</Gun_Accatranfive.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_Accatranfive.tools.1.label>barrel</Gun_Accatranfive.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_Accatranfive.tools.2.label>muzzle</Gun_Accatranfive.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_Lucius.tools.0.label>stock</Gun_Lucius.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_Lucius.tools.1.label>barrel</Gun_Lucius.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_Lucius.tools.2.label>muzzle</Gun_Lucius.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_Hellgun.tools.0.label>stock</Gun_Hellgun.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_Hellgun.tools.1.label>barrel</Gun_Hellgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_Hellgun.tools.2.label>muzzle</Gun_Hellgun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_Locke.tools.0.label>stock</Gun_Locke.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_Locke.tools.1.label>barrel</Gun_Locke.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_Locke.tools.2.label>muzzle</Gun_Locke.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_LongLas.tools.0.label>stock</Gun_LongLas.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_LongLas.tools.1.label>barrel</Gun_LongLas.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_LongLas.tools.2.label>muzzle</Gun_LongLas.tools.2.label>
+	
+	<!-- EN: grip -->
+	<Gun_Kantraeldefender.tools.0.label>grip</Gun_Kantraeldefender.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_Kantraeldefender.tools.1.label>muzzle</Gun_Kantraeldefender.tools.1.label>
+	
+	<!-- EN: grip -->
+	<Gun_Kantraeldefendert.tools.0.label>grip</Gun_Kantraeldefendert.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_Kantraeldefendert.tools.1.label>muzzle</Gun_Kantraeldefendert.tools.1.label>
+</LanguageData>

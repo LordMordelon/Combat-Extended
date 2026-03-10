@@ -1,0 +1,28 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\polonium_RorenRaceMod\Weapons_Roren_Old_Consercrated1582.xml -->
+	<!-- EN: stock -->
+	<Roren_Consecratio_OldShotgun.tools.0.label>stock</Roren_Consecratio_OldShotgun.tools.0.label>
+	<!-- EN: barrel -->
+	<Roren_Consecratio_OldShotgun.tools.1.label>barrel</Roren_Consecratio_OldShotgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<Roren_Consecratio_OldShotgun.tools.2.label>muzzle</Roren_Consecratio_OldShotgun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Roren_Consecratio_OldRifle.tools.0.label>stock</Roren_Consecratio_OldRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Roren_Consecratio_OldRifle.tools.1.label>barrel</Roren_Consecratio_OldRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Roren_Consecratio_OldRifle.tools.2.label>muzzle</Roren_Consecratio_OldRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Roren_Consecratio_OldMarksmanRifle.tools.0.label>stock</Roren_Consecratio_OldMarksmanRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Roren_Consecratio_OldMarksmanRifle.tools.1.label>barrel</Roren_Consecratio_OldMarksmanRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Roren_Consecratio_OldMarksmanRifle.tools.2.label>muzzle</Roren_Consecratio_OldMarksmanRifle.tools.2.label>
+	
+	<!-- EN: grip -->
+	<Roren_Consecratio_OldPistol.tools.0.label>grip</Roren_Consecratio_OldPistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<Roren_Consecratio_OldPistol.tools.1.label>muzzle</Roren_Consecratio_OldPistol.tools.1.label>
+</LanguageData>

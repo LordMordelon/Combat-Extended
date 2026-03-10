@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\CVN_BloodPact\40K_Vehicles_ChaosTaurox_Upgrades849.xml -->
+	<!-- EN: Single -->
+	<GW_BP_Vehicle_HeavyStubber.fireModes.0.label>Single</GW_BP_Vehicle_HeavyStubber.fireModes.0.label>
+	<!-- EN: Burst -->
+	<GW_BP_Vehicle_HeavyStubber.fireModes.1.label>Burst</GW_BP_Vehicle_HeavyStubber.fireModes.1.label>
+	<!-- EN: Auto -->
+	<GW_BP_Vehicle_HeavyStubber.fireModes.2.label>Auto</GW_BP_Vehicle_HeavyStubber.fireModes.2.label>
+</LanguageData>

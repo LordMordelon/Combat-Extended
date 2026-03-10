@@ -1,0 +1,14 @@
+<LanguageData>
+	<!-- ModPatches\Maru Race\Defs\Maru Race\Ammo_Arrow_BO.xml -->
+	
+	<!-- EN: compound arrow (bomb) -->
+	<Ammo_CPB_BO.label>compound arrow (bomb)</Ammo_CPB_BO.label>
+	<!-- EN: Heavy arrow designed to be fired from a great bow. -->
+	<Ammo_CPB_BO.description>Heavy arrow designed to be fired from a great bow.</Ammo_CPB_BO.description>
+	
+	<!-- EN: arrow -->
+	<Projectile_CPB_BO.label>arrow</Projectile_CPB_BO.label>
+	
+	<!-- EN: arrow -->
+	<Projectile_CPB_BOT.label>arrow</Projectile_CPB_BOT.label>
+</LanguageData>

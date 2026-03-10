@@ -1,0 +1,20 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Mlie_FerrexRace\Ferrex_Weapons786.xml -->
+	<!-- EN: stock -->
+	<Ferrex_P90x.tools.0.label>stock</Ferrex_P90x.tools.0.label>
+	<!-- EN: magazine -->
+	<Ferrex_P90x.tools.1.label>magazine</Ferrex_P90x.tools.1.label>
+	<!-- EN: barrel -->
+	<Ferrex_P90x.tools.2.label>barrel</Ferrex_P90x.tools.2.label>
+	<!-- EN: muzzle -->
+	<Ferrex_P90x.tools.3.label>muzzle</Ferrex_P90x.tools.3.label>
+	
+	<!-- EN: stock -->
+	<Ferrex_Vac.tools.0.label>stock</Ferrex_Vac.tools.0.label>
+	<!-- EN: magazine -->
+	<Ferrex_Vac.tools.1.label>magazine</Ferrex_Vac.tools.1.label>
+	<!-- EN: barrel -->
+	<Ferrex_Vac.tools.2.label>barrel</Ferrex_Vac.tools.2.label>
+	<!-- EN: muzzle -->
+	<Ferrex_Vac.tools.3.label>muzzle</Ferrex_Vac.tools.3.label>
+</LanguageData>

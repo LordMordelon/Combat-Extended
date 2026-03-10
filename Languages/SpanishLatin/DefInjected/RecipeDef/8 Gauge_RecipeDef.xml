@@ -1,0 +1,31 @@
+<LanguageData>
+	<!-- Defs\Ammo\Modded\Halo\8 Gauge.xml -->
+	
+	<!-- EN: make 8 gauge (Buck) shell x200 -->
+	<MakeAmmo_8Gauge_Buck.label>make 8 gauge (Buck) shell x200</MakeAmmo_8Gauge_Buck.label>
+	<!-- EN: Craft 200 8 gauge (Buck) shells. -->
+	<MakeAmmo_8Gauge_Buck.description>Craft 200 8 gauge (Buck) shells.</MakeAmmo_8Gauge_Buck.description>
+	<!-- EN: Making 8 gauge (Buck) shells. -->
+	<MakeAmmo_8Gauge_Buck.jobString>Making 8 gauge (Buck) shells.</MakeAmmo_8Gauge_Buck.jobString>
+	
+	<!-- EN: make 8 gauge (Slug) shell x200 -->
+	<MakeAmmo_8Gauge_Slug.label>make 8 gauge (Slug) shell x200</MakeAmmo_8Gauge_Slug.label>
+	<!-- EN: Craft 200 8 gauge (Slug) shells. -->
+	<MakeAmmo_8Gauge_Slug.description>Craft 200 8 gauge (Slug) shells.</MakeAmmo_8Gauge_Slug.description>
+	<!-- EN: Making 8 gauge (Slug) shells. -->
+	<MakeAmmo_8Gauge_Slug.jobString>Making 8 gauge (Slug) shells.</MakeAmmo_8Gauge_Slug.jobString>
+	
+	<!-- EN: make 8 gauge (Flechette) shell x200 -->
+	<MakeAmmo_8Gauge_Flechette.label>make 8 gauge (Flechette) shell x200</MakeAmmo_8Gauge_Flechette.label>
+	<!-- EN: Craft 200 8 gauge (Flechette) shells. -->
+	<MakeAmmo_8Gauge_Flechette.description>Craft 200 8 gauge (Flechette) shells.</MakeAmmo_8Gauge_Flechette.description>
+	<!-- EN: Making 8 gauge (Flechette) shells. -->
+	<MakeAmmo_8Gauge_Flechette.jobString>Making 8 gauge (Flechette) shells.</MakeAmmo_8Gauge_Flechette.jobString>
+	
+	<!-- EN: make 8 gauge (EMP) shell x200 -->
+	<MakeAmmo_8Gauge_ElectroSlug.label>make 8 gauge (EMP) shell x200</MakeAmmo_8Gauge_ElectroSlug.label>
+	<!-- EN: Craft 200 8 gauge (EMP) shells. -->
+	<MakeAmmo_8Gauge_ElectroSlug.description>Craft 200 8 gauge (EMP) shells.</MakeAmmo_8Gauge_ElectroSlug.description>
+	<!-- EN: Making 8 gauge (EMP) shells. -->
+	<MakeAmmo_8Gauge_ElectroSlug.jobString>Making 8 gauge (EMP) shells.</MakeAmmo_8Gauge_ElectroSlug.jobString>
+</LanguageData>

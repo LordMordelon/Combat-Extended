@@ -1,0 +1,101 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\dianawinters_Orassans\Weapons1190.xml -->
+	<!-- EN: grip -->
+	<Gun_OrassanPistol.tools.0.label>grip</Gun_OrassanPistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_OrassanPistol.tools.1.label>muzzle</Gun_OrassanPistol.tools.1.label>
+	
+	<!-- EN: grip -->
+	<Gun_OrassanAEPistol.tools.0.label>grip</Gun_OrassanAEPistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_OrassanAEPistol.tools.1.label>muzzle</Gun_OrassanAEPistol.tools.1.label>
+	
+	<!-- EN: grip -->
+	<Gun_OrassanSMG.tools.0.label>grip</Gun_OrassanSMG.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_OrassanSMG.tools.1.label>muzzle</Gun_OrassanSMG.tools.1.label>
+	
+	<!-- EN: stock -->
+	<Gun_OrassanShotgun.tools.0.label>stock</Gun_OrassanShotgun.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_OrassanShotgun.tools.1.label>barrel</Gun_OrassanShotgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_OrassanShotgun.tools.2.label>muzzle</Gun_OrassanShotgun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_OrassanRifle.tools.0.label>stock</Gun_OrassanRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_OrassanRifle.tools.1.label>barrel</Gun_OrassanRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_OrassanRifle.tools.2.label>muzzle</Gun_OrassanRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_OrassanLMG.tools.0.label>stock</Gun_OrassanLMG.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_OrassanLMG.tools.1.label>barrel</Gun_OrassanLMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_OrassanLMG.tools.2.label>muzzle</Gun_OrassanLMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_OrassanSniper.tools.0.label>stock</Gun_OrassanSniper.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_OrassanSniper.tools.1.label>barrel</Gun_OrassanSniper.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_OrassanSniper.tools.2.label>muzzle</Gun_OrassanSniper.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_OrassanDMR.tools.0.label>stock</Gun_OrassanDMR.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_OrassanDMR.tools.1.label>barrel</Gun_OrassanDMR.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_OrassanDMR.tools.2.label>muzzle</Gun_OrassanDMR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_OrassanGMG.tools.0.label>stock</Gun_OrassanGMG.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_OrassanGMG.tools.1.label>barrel</Gun_OrassanGMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_OrassanGMG.tools.2.label>muzzle</Gun_OrassanGMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_OrassanBattleRifle.tools.0.label>stock</Gun_OrassanBattleRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_OrassanBattleRifle.tools.1.label>barrel</Gun_OrassanBattleRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_OrassanBattleRifle.tools.2.label>muzzle</Gun_OrassanBattleRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_OrassanGrenadeLauncher.tools.0.label>stock</Gun_OrassanGrenadeLauncher.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_OrassanGrenadeLauncher.tools.1.label>barrel</Gun_OrassanGrenadeLauncher.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_OrassanGrenadeLauncher.tools.2.label>muzzle</Gun_OrassanGrenadeLauncher.tools.2.label>
+	
+	<!-- EN: barrel -->
+	<Gun_CryoLauncher.tools.0.label>barrel</Gun_CryoLauncher.tools.0.label>
+	
+	<!-- EN: barrel -->
+	<Gun_OrassanRocket.tools.0.label>barrel</Gun_OrassanRocket.tools.0.label>
+	
+	<!-- EN: hand guard -->
+	<MeleeWeapon_kittyclaws.tools.0.label>hand guard</MeleeWeapon_kittyclaws.tools.0.label>
+	<!-- EN: point -->
+	<MeleeWeapon_kittyclaws.tools.1.label>point</MeleeWeapon_kittyclaws.tools.1.label>
+	<!-- EN: edge -->
+	<MeleeWeapon_kittyclaws.tools.2.label>edge</MeleeWeapon_kittyclaws.tools.2.label>
+	
+	<!-- EN: handle -->
+	<OrassanCombatKnife.tools.0.label>handle</OrassanCombatKnife.tools.0.label>
+	<!-- EN: blade -->
+	<OrassanCombatKnife.tools.1.label>blade</OrassanCombatKnife.tools.1.label>
+	<!-- EN: point -->
+	<OrassanCombatKnife.tools.2.label>point</OrassanCombatKnife.tools.2.label>
+	
+	<!-- EN: handle -->
+	<OrassanWarHammer.tools.0.label>handle</OrassanWarHammer.tools.0.label>
+	<!-- EN: head -->
+	<OrassanWarHammer.tools.1.label>head</OrassanWarHammer.tools.1.label>
+	
+	<!-- EN: neck -->
+	<Catberryjuice.tools.1.label>neck</Catberryjuice.tools.1.label>
+</LanguageData>

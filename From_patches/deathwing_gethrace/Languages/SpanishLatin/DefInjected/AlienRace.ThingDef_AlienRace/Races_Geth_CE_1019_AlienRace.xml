@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\deathwing_gethrace\Races_Geth_CE_1019.xml -->
+	<!-- EN: Smash -->
+	<GethColossus.tools.0.label>Smash</GethColossus.tools.0.label>
+	<!-- EN: Smash -->
+	<GethColossus.tools.1.label>Smash</GethColossus.tools.1.label>
+	<!-- EN: head -->
+	<GethColossus.tools.2.label>head</GethColossus.tools.2.label>
+	
+	<!-- EN: Smash -->
+	<GethPrime.tools.0.label>Smash</GethPrime.tools.0.label>
+	<!-- EN: Smash -->
+	<GethPrime.tools.1.label>Smash</GethPrime.tools.1.label>
+	<!-- EN: head -->
+	<GethPrime.tools.2.label>head</GethPrime.tools.2.label>
+</LanguageData>

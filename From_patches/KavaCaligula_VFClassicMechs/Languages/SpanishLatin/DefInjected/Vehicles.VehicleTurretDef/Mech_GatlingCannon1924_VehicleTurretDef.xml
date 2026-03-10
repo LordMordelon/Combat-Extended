@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\KavaCaligula_VFClassicMechs\Mech_GatlingCannon1924.xml -->
+	<!-- EN: Single -->
+	<HighMacs_GatlingCannon.fireModes.0.label>Single</HighMacs_GatlingCannon.fireModes.0.label>
+	<!-- EN: Burst -->
+	<HighMacs_GatlingCannon.fireModes.1.label>Burst</HighMacs_GatlingCannon.fireModes.1.label>
+	<!-- EN: Auto -->
+	<HighMacs_GatlingCannon.fireModes.2.label>Auto</HighMacs_GatlingCannon.fireModes.2.label>
+</LanguageData>

@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\SamBucher_ADogSaidAnimalProsthetics2\Bionics101.xml -->
+	<!-- EN: prosthetic animal leg -->
+	<SimpleProstheticLegAnimal.comps.0.tools.0.label>prosthetic animal leg</SimpleProstheticLegAnimal.comps.0.tools.0.label>
+	<!-- EN: prosthetic animal arm -->
+	<SimpleProstheticArmAnimal.comps.0.tools.0.label>prosthetic animal arm</SimpleProstheticArmAnimal.comps.0.tools.0.label>
+	<!-- EN: bionic animal leg -->
+	<BionicLegAnimal.comps.0.tools.0.label>bionic animal leg</BionicLegAnimal.comps.0.tools.0.label>
+	<!-- EN: bionic animal arm -->
+	<BionicArmAnimal.comps.0.tools.0.label>bionic animal arm</BionicArmAnimal.comps.0.tools.0.label>
+	<!-- EN: bionic animal tail -->
+	<BionicTailAnimal.comps.0.tools.0.label>bionic animal tail</BionicTailAnimal.comps.0.tools.0.label>
+</LanguageData>

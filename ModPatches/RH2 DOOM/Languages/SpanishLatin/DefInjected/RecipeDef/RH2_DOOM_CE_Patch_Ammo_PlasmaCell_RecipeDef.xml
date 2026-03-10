@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\RH2 DOOM\Defs\RH2 DOOM\RH2_DOOM_CE_Patch_Ammo_PlasmaCell.xml -->
+	<!-- EN: make UAC Plasma Cells x450 shots -->
+	<MakeAmmo_Doom2016PlasmaCell.label>make UAC Plasma Cells x450 shots</MakeAmmo_Doom2016PlasmaCell.label>
+	<!-- EN: Craft 450 shots' worth of UAC Plasma Cells. -->
+	<MakeAmmo_Doom2016PlasmaCell.description>Craft 450 shots' worth of UAC Plasma Cells.</MakeAmmo_Doom2016PlasmaCell.description>
+	<!-- EN: Making UAC Plasma Cells. -->
+	<MakeAmmo_Doom2016PlasmaCell.jobString>Making UAC Plasma Cells.</MakeAmmo_Doom2016PlasmaCell.jobString>
+</LanguageData>

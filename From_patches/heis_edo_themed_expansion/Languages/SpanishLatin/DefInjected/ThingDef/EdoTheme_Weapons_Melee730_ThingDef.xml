@@ -1,0 +1,75 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\heis_edo_themed_expansion\EdoTheme_Weapons_Melee730.xml -->
+	<!-- EN: handle -->
+	<HS_BasicTanto.tools.0.label>handle</HS_BasicTanto.tools.0.label>
+	<!-- EN: blade -->
+	<HS_BasicTanto.tools.1.label>blade</HS_BasicTanto.tools.1.label>
+	<!-- EN: point -->
+	<HS_BasicTanto.tools.2.label>point</HS_BasicTanto.tools.2.label>
+	
+	<!-- EN: handle -->
+	<HS_BasicMasakari.tools.0.label>handle</HS_BasicMasakari.tools.0.label>
+	<!-- EN: edge -->
+	<HS_BasicMasakari.tools.1.label>edge</HS_BasicMasakari.tools.1.label>
+	
+	<!-- EN: handle -->
+	<HS_BasicKama.tools.0.label>handle</HS_BasicKama.tools.0.label>
+	<!-- EN: point -->
+	<HS_BasicKama.tools.1.label>point</HS_BasicKama.tools.1.label>
+	<!-- EN: edge -->
+	<HS_BasicKama.tools.2.label>edge</HS_BasicKama.tools.2.label>
+	
+	<!-- EN: handle -->
+	<HS_BasicKatana.tools.0.label>handle</HS_BasicKatana.tools.0.label>
+	<!-- EN: point -->
+	<HS_BasicKatana.tools.1.label>point</HS_BasicKatana.tools.1.label>
+	<!-- EN: edge -->
+	<HS_BasicKatana.tools.2.label>edge</HS_BasicKatana.tools.2.label>
+	
+	<!-- EN: handle -->
+	<HS_BasicWakizashi.tools.0.label>handle</HS_BasicWakizashi.tools.0.label>
+	<!-- EN: point -->
+	<HS_BasicWakizashi.tools.1.label>point</HS_BasicWakizashi.tools.1.label>
+	<!-- EN: edge -->
+	<HS_BasicWakizashi.tools.2.label>edge</HS_BasicWakizashi.tools.2.label>
+	
+	<!-- EN: handle -->
+	<HS_BasicNagamaki.tools.0.label>handle</HS_BasicNagamaki.tools.0.label>
+	<!-- EN: point -->
+	<HS_BasicNagamaki.tools.1.label>point</HS_BasicNagamaki.tools.1.label>
+	<!-- EN: edge -->
+	<HS_BasicNagamaki.tools.2.label>edge</HS_BasicNagamaki.tools.2.label>
+	
+	<!-- EN: handle -->
+	<HS_Bokken.tools.0.label>handle</HS_Bokken.tools.0.label>
+	<!-- EN: point -->
+	<HS_Bokken.tools.1.label>point</HS_Bokken.tools.1.label>
+	<!-- EN: edge -->
+	<HS_Bokken.tools.2.label>edge</HS_Bokken.tools.2.label>
+	
+	<!-- EN: handle -->
+	<HS_BasicKanabo.tools.0.label>handle</HS_BasicKanabo.tools.0.label>
+	<!-- EN: head -->
+	<HS_BasicKanabo.tools.1.label>head</HS_BasicKanabo.tools.1.label>
+	
+	<!-- EN: handle -->
+	<HS_BasicOdachi.tools.0.label>handle</HS_BasicOdachi.tools.0.label>
+	<!-- EN: point -->
+	<HS_BasicOdachi.tools.1.label>point</HS_BasicOdachi.tools.1.label>
+	<!-- EN: edge -->
+	<HS_BasicOdachi.tools.2.label>edge</HS_BasicOdachi.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<HS_BasicNaginata.tools.0.label>shaft</HS_BasicNaginata.tools.0.label>
+	<!-- EN: edge -->
+	<HS_BasicNaginata.tools.1.label>edge</HS_BasicNaginata.tools.1.label>
+	<!-- EN: edge -->
+	<HS_BasicNaginata.tools.2.label>edge</HS_BasicNaginata.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<HS_BasicYari.tools.0.label>shaft</HS_BasicYari.tools.0.label>
+	<!-- EN: shaft -->
+	<HS_BasicYari.tools.1.label>shaft</HS_BasicYari.tools.1.label>
+	<!-- EN: head -->
+	<HS_BasicYari.tools.2.label>head</HS_BasicYari.tools.2.label>
+</LanguageData>

@@ -1,0 +1,31 @@
+<LanguageData>
+	<!-- ModPatches\Imperial Arsenal Royal Warcasket\Defs\Imperial Arsenal Royal Warcasket\Ammo\Xonus.xml -->
+	
+	<!-- EN: make Xonus bolt (standard) shell x200 -->
+	<MakeAmmo_BoltXonus_Standard.label>make Xonus bolt (standard) shell x200</MakeAmmo_BoltXonus_Standard.label>
+	<!-- EN: Craft 200 Xonus bolt (standard) shells. -->
+	<MakeAmmo_BoltXonus_Standard.description>Craft 200 Xonus bolt (standard) shells.</MakeAmmo_BoltXonus_Standard.description>
+	<!-- EN: Making Xonus bolt (standard) shells. -->
+	<MakeAmmo_BoltXonus_Standard.jobString>Making Xonus bolt (standard) shells.</MakeAmmo_BoltXonus_Standard.jobString>
+	
+	<!-- EN: make Xonus bolt (inferno) shell x200 -->
+	<MakeAmmo_BoltXonus_Inferno.label>make Xonus bolt (inferno) shell x200</MakeAmmo_BoltXonus_Inferno.label>
+	<!-- EN: Craft 200 Xonus bolt (inferno) shells. -->
+	<MakeAmmo_BoltXonus_Inferno.description>Craft 200 Xonus bolt (inferno) shells.</MakeAmmo_BoltXonus_Inferno.description>
+	<!-- EN: Making Xonus bolt (inferno) shells. -->
+	<MakeAmmo_BoltXonus_Inferno.jobString>Making Xonus bolt (inferno) shells.</MakeAmmo_BoltXonus_Inferno.jobString>
+	
+	<!-- EN: make Xonus bolt (metal storm) shell x200 -->
+	<MakeAmmo_BoltXonus_MetalStorm.label>make Xonus bolt (metal storm) shell x200</MakeAmmo_BoltXonus_MetalStorm.label>
+	<!-- EN: Craft 200 Xonus bolt (metal storm) shells. -->
+	<MakeAmmo_BoltXonus_MetalStorm.description>Craft 200 Xonus bolt (metal storm) shells.</MakeAmmo_BoltXonus_MetalStorm.description>
+	<!-- EN: Making Xonus bolt (metal storm) shells. -->
+	<MakeAmmo_BoltXonus_MetalStorm.jobString>Making Xonus bolt (metal storm) shells.</MakeAmmo_BoltXonus_MetalStorm.jobString>
+	
+	<!-- EN: make Xonus bolt (kraken) shell x200 -->
+	<MakeAmmo_BoltXonus_Kraken.label>make Xonus bolt (kraken) shell x200</MakeAmmo_BoltXonus_Kraken.label>
+	<!-- EN: Craft 200 Xonus bolt (kraken) shells. -->
+	<MakeAmmo_BoltXonus_Kraken.description>Craft 200 Xonus bolt (kraken) shells.</MakeAmmo_BoltXonus_Kraken.description>
+	<!-- EN: Making Xonus bolt (kraken) shells. -->
+	<MakeAmmo_BoltXonus_Kraken.jobString>Making Xonus bolt (kraken) shells.</MakeAmmo_BoltXonus_Kraken.jobString>
+</LanguageData>

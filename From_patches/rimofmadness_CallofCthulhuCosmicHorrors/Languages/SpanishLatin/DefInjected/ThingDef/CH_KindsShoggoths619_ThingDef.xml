@@ -1,0 +1,29 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\rimofmadness_CallofCthulhuCosmicHorrors\CH_KindsShoggoths619.xml -->
+	<!-- EN: tentacles -->
+	<ROM_Shoggoth.tools.0.label>tentacles</ROM_Shoggoth.tools.0.label>
+	<!-- EN: left claw -->
+	<ROM_Shoggoth.tools.1.label>left claw</ROM_Shoggoth.tools.1.label>
+	<!-- EN: right claw -->
+	<ROM_Shoggoth.tools.2.label>right claw</ROM_Shoggoth.tools.2.label>
+	<!-- EN: maw -->
+	<ROM_Shoggoth.tools.3.label>maw</ROM_Shoggoth.tools.3.label>
+	
+	<!-- EN: tentacles -->
+	<ROM_ShoggothTiny.tools.0.label>tentacles</ROM_ShoggothTiny.tools.0.label>
+	<!-- EN: left claw -->
+	<ROM_ShoggothTiny.tools.1.label>left claw</ROM_ShoggothTiny.tools.1.label>
+	<!-- EN: right claw -->
+	<ROM_ShoggothTiny.tools.2.label>right claw</ROM_ShoggothTiny.tools.2.label>
+	<!-- EN: maw -->
+	<ROM_ShoggothTiny.tools.3.label>maw</ROM_ShoggothTiny.tools.3.label>
+	
+	<!-- EN: tentacles -->
+	<ROM_ShoggothColossal.tools.0.label>tentacles</ROM_ShoggothColossal.tools.0.label>
+	<!-- EN: left claw -->
+	<ROM_ShoggothColossal.tools.1.label>left claw</ROM_ShoggothColossal.tools.1.label>
+	<!-- EN: right claw -->
+	<ROM_ShoggothColossal.tools.2.label>right claw</ROM_ShoggothColossal.tools.2.label>
+	<!-- EN: maw -->
+	<ROM_ShoggothColossal.tools.3.label>maw</ROM_ShoggothColossal.tools.3.label>
+</LanguageData>

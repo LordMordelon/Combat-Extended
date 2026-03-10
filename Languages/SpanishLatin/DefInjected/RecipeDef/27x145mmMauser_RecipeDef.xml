@@ -1,0 +1,31 @@
+<LanguageData>
+	<!-- Defs\Ammo\HighCaliber\27x145mmMauser.xml -->
+	
+	<!-- EN: make 27x145mm Mauser (AP) cartridge x150 -->
+	<MakeAmmo_27x145mmMauser_AP.label>make 27x145mm Mauser (AP) cartridge x150</MakeAmmo_27x145mmMauser_AP.label>
+	<!-- EN: Craft 150 27x145mm Mauser (AP) cartridges. -->
+	<MakeAmmo_27x145mmMauser_AP.description>Craft 150 27x145mm Mauser (AP) cartridges.</MakeAmmo_27x145mmMauser_AP.description>
+	<!-- EN: Making 27x145mm Mauser (AP) cartridges. -->
+	<MakeAmmo_27x145mmMauser_AP.jobString>Making 27x145mm Mauser (AP) cartridges.</MakeAmmo_27x145mmMauser_AP.jobString>
+	
+	<!-- EN: make 27x145mm Mauser (AP-I) cartridge x150 -->
+	<MakeAmmo_27x145mmMauser_Incendiary.label>make 27x145mm Mauser (AP-I) cartridge x150</MakeAmmo_27x145mmMauser_Incendiary.label>
+	<!-- EN: Craft 150 27x145mm Mauser (AP-I) cartridges. -->
+	<MakeAmmo_27x145mmMauser_Incendiary.description>Craft 150 27x145mm Mauser (AP-I) cartridges.</MakeAmmo_27x145mmMauser_Incendiary.description>
+	<!-- EN: Making 27x145mm Mauser (AP-I) cartridges. -->
+	<MakeAmmo_27x145mmMauser_Incendiary.jobString>Making 27x145mm Mauser (AP-I) cartridges.</MakeAmmo_27x145mmMauser_Incendiary.jobString>
+	
+	<!-- EN: make 27x145mm Mauser (AP-HE) cartridge x150 -->
+	<MakeAmmo_27x145mmMauser_HE.label>make 27x145mm Mauser (AP-HE) cartridge x150</MakeAmmo_27x145mmMauser_HE.label>
+	<!-- EN: Craft 150 27x145mm Mauser (AP-HE) cartridges. -->
+	<MakeAmmo_27x145mmMauser_HE.description>Craft 150 27x145mm Mauser (AP-HE) cartridges.</MakeAmmo_27x145mmMauser_HE.description>
+	<!-- EN: Making 27x145mm Mauser (AP-HE) cartridges. -->
+	<MakeAmmo_27x145mmMauser_HE.jobString>Making 27x145mm Mauser (AP-HE) cartridges.</MakeAmmo_27x145mmMauser_HE.jobString>
+	
+	<!-- EN: make 27x145mm Mauser (Sabot) cartridge x150 -->
+	<MakeAmmo_27x145mmMauser_Sabot.label>make 27x145mm Mauser (Sabot) cartridge x150</MakeAmmo_27x145mmMauser_Sabot.label>
+	<!-- EN: Craft 150 27x145mm Mauser (Sabot) cartridges. -->
+	<MakeAmmo_27x145mmMauser_Sabot.description>Craft 150 27x145mm Mauser (Sabot) cartridges.</MakeAmmo_27x145mmMauser_Sabot.description>
+	<!-- EN: Making 27x145mm Mauser (Sabot) cartridges. -->
+	<MakeAmmo_27x145mmMauser_Sabot.jobString>Making 27x145mm Mauser (Sabot) cartridges.</MakeAmmo_27x145mmMauser_Sabot.jobString>
+</LanguageData>

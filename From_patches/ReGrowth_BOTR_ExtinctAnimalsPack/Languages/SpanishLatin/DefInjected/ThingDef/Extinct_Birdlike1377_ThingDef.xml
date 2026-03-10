@@ -1,0 +1,28 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\ReGrowth_BOTR_ExtinctAnimalsPack\Extinct_Birdlike1377.xml -->
+	<!-- EN: claws -->
+	<RG_Dodo.tools.0.label>claws</RG_Dodo.tools.0.label>
+	<!-- EN: head -->
+	<RG_Dodo.tools.2.label>head</RG_Dodo.tools.2.label>
+	
+	<!-- EN: claws -->
+	<RG_TerrorBird.tools.0.label>claws</RG_TerrorBird.tools.0.label>
+	<!-- EN: head -->
+	<RG_TerrorBird.tools.2.label>head</RG_TerrorBird.tools.2.label>
+	
+	<!-- EN: left claw -->
+	<RG_ArcticDrak.tools.0.label>left claw</RG_ArcticDrak.tools.0.label>
+	<!-- EN: right claw -->
+	<RG_ArcticDrak.tools.1.label>right claw</RG_ArcticDrak.tools.1.label>
+	<!-- EN: tail -->
+	<RG_ArcticDrak.tools.3.label>tail</RG_ArcticDrak.tools.3.label>
+	<!-- EN: head -->
+	<RG_ArcticDrak.tools.4.label>head</RG_ArcticDrak.tools.4.label>
+	
+	<!-- EN: left claw -->
+	<RG_Velociraptor.tools.0.label>left claw</RG_Velociraptor.tools.0.label>
+	<!-- EN: right claw -->
+	<RG_Velociraptor.tools.1.label>right claw</RG_Velociraptor.tools.1.label>
+	<!-- EN: head -->
+	<RG_Velociraptor.tools.3.label>head</RG_Velociraptor.tools.3.label>
+</LanguageData>

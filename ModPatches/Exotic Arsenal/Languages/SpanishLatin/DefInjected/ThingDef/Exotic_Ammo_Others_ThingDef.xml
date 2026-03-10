@@ -1,0 +1,54 @@
+<LanguageData>
+	<!-- ModPatches\Exotic Arsenal\Defs\Exotic Arsenal\Exotic_Ammo_Others.xml -->
+	
+	<!-- EN: 5mm Monoshard -->
+	<Ammo_5mmMono_Steel.label>5mm Monoshard</Ammo_5mmMono_Steel.label>
+	<!-- EN: This high-velocity monomolecular shard is only fired by exotic glitterworld weapons. -->
+	<Ammo_5mmMono_Steel.description>This high-velocity monomolecular shard is only fired by exotic glitterworld weapons.</Ammo_5mmMono_Steel.description>
+	
+	<!-- EN: 5mm Monoshard (plasteel) -->
+	<Ammo_5mmMono_Plasteel.label>5mm Monoshard (plasteel)</Ammo_5mmMono_Plasteel.label>
+	<!-- EN: This high-velocity monomolecular shard is only fired by exotic glitterworld weapons. -->
+	<Ammo_5mmMono_Plasteel.description>This high-velocity monomolecular shard is only fired by exotic glitterworld weapons.</Ammo_5mmMono_Plasteel.description>
+	
+	<!-- EN: 5mm Monoshard (uranium) -->
+	<Ammo_5mmMono_Uranium.label>5mm Monoshard (uranium)</Ammo_5mmMono_Uranium.label>
+	<!-- EN: This high-velocity monomolecular shard is only fired by exotic glitterworld weapons. -->
+	<Ammo_5mmMono_Uranium.description>This high-velocity monomolecular shard is only fired by exotic glitterworld weapons.</Ammo_5mmMono_Uranium.description>
+	
+	<!-- EN: 8 gauge Judgment shell (APHE) -->
+	<Ammo_Judgment_Buck.label>8 gauge Judgment shell (APHE)</Ammo_Judgment_Buck.label>
+	<!-- EN: Extremely common shotgun caliber used in almost every application, from hunting over riot control to military firearms. -->
+	<Ammo_Judgment_Buck.description>Extremely common shotgun caliber used in almost every application, from hunting over riot control to military firearms.</Ammo_Judgment_Buck.description>
+	
+	<!-- EN: 8 gauge Judgment shell (Cluster HE) -->
+	<Ammo_Judgment_HE.label>8 gauge Judgment shell (Cluster HE)</Ammo_Judgment_HE.label>
+	<!-- EN: Extremely common shotgun caliber used in almost every application, from hunting over riot control to military firearms. -->
+	<Ammo_Judgment_HE.description>Extremely common shotgun caliber used in almost every application, from hunting over riot control to military firearms.</Ammo_Judgment_HE.description>
+	
+	<!-- EN: 8 gauge Judgment shell (Mayhem) -->
+	<Ammo_Judgment_Mayhem.label>8 gauge Judgment shell (Mayhem)</Ammo_Judgment_Mayhem.label>
+	<!-- EN: Extremely common shotgun caliber used in almost every application, from hunting over riot control to military firearms. -->
+	<Ammo_Judgment_Mayhem.description>Extremely common shotgun caliber used in almost every application, from hunting over riot control to military firearms.</Ammo_Judgment_Mayhem.description>
+	
+	<!-- EN: bomblet -->
+	<Mayhem_Bomblet.label>bomblet</Mayhem_Bomblet.label>
+	
+	<!-- EN: 5mm monoshard -->
+	<Bullet_5mm_MonoSteel.label>5mm monoshard</Bullet_5mm_MonoSteel.label>
+	
+	<!-- EN: 5mm monoshard(plasteel) -->
+	<Bullet_5mm_MonoPlasteel.label>5mm monoshard(plasteel)</Bullet_5mm_MonoPlasteel.label>
+	
+	<!-- EN: 5mm monoshard (uranium) -->
+	<Bullet_5mm_MonoUranium.label>5mm monoshard (uranium)</Bullet_5mm_MonoUranium.label>
+	
+	<!-- EN: buckshot pellet -->
+	<Bullet_Judgment_CE.label>buckshot pellet</Bullet_Judgment_CE.label>
+	
+	<!-- EN: Cluster -->
+	<Bullet_Judgment_HE.label>Cluster</Bullet_Judgment_HE.label>
+	
+	<!-- EN: Mayhem -->
+	<Bullet_Judgment_Mayhem.label>Mayhem</Bullet_Judgment_Mayhem.label>
+</LanguageData>

@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Grimworld_AstraMilitarum\40K_Vehicles_LemanRuss_Upgrades838.xml -->
+	<!-- EN: Burst -->
+	<GW_LemanRuss_MultiMelta.fireModes.0.label>Burst</GW_LemanRuss_MultiMelta.fireModes.0.label>
+	<!-- EN: Single -->
+	<GW_LemanRuss_PlasmaSponson.fireModes.0.label>Single</GW_LemanRuss_PlasmaSponson.fireModes.0.label>
+	<!-- EN: Burst -->
+	<GW_LemanRuss_PlasmaSponson.fireModes.1.label>Burst</GW_LemanRuss_PlasmaSponson.fireModes.1.label>
+</LanguageData>

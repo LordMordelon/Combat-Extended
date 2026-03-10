@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Zaps\Waveguns_Punched.xml -->
+	<!-- EN: Max Wavegun cartridge -->
+	<Ammo_Wavegun_Punched.label>Max Wavegun cartridge</Ammo_Wavegun_Punched.label>
+	<!-- EN: Pistol cartridge favoured for its above average stopping power. -->
+	<Ammo_Wavegun_Punched.description>Pistol cartridge favoured for its above average stopping power.</Ammo_Wavegun_Punched.description>
+	<!-- EN: Purple Zap Bolt -->
+	<Bullet_Zapgun_Punched.label>Purple Zap Bolt</Bullet_Zapgun_Punched.label>
+</LanguageData>

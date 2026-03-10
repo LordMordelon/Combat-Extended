@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\ComigoGames_Water_Turrets\ThingDefs_Turrets639.xml -->
+	<!-- EN: An anchored turret that can float on water and fires a heavy round, capable of defeating armor at long distance. -->
+	<COMIGO_FloatingTurret_Slug.description>An anchored turret that can float on water and fires a heavy round, capable of defeating armor at long distance.</COMIGO_FloatingTurret_Slug.description>
+	<!-- EN: An anchored turret that can float and that launches various explosive shells. -->
+	<COMIGO_FloatingTurret_EMP.description>An anchored turret that can float and that launches various explosive shells.</COMIGO_FloatingTurret_EMP.description>
+	<!-- EN: Floating turret with a grenade launcher -->
+	<COMIGO_FloatingTurret_EMP.label>Floating turret with a grenade launcher</COMIGO_FloatingTurret_EMP.label>
+</LanguageData>

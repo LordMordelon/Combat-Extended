@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- Defs\Ammo\Modded\Warhammer 40k\PlasmaCannon.xml -->
+	<!-- EN: plasma canister -->
+	<Ammo_PlasmaCanister.label>plasma canister</Ammo_PlasmaCanister.label>
+	<!-- EN: A canister of pressurized hydrogen that serves as a containment vessel for the ionization of the gas into plasma. -->
+	<Ammo_PlasmaCanister.description>A canister of pressurized hydrogen that serves as a containment vessel for the ionization of the gas into plasma.</Ammo_PlasmaCanister.description>
+	<!-- EN: plasma pistol bolt -->
+	<Bullet_PlasmaPistol.label>plasma pistol bolt</Bullet_PlasmaPistol.label>
+	<!-- EN: plasma rifle bolt -->
+	<Bullet_PlasmaRifle.label>plasma rifle bolt</Bullet_PlasmaRifle.label>
+	<!-- EN: plasma cannon bolt -->
+	<Bullet_PlasmaCannon.label>plasma cannon bolt</Bullet_PlasmaCannon.label>
+	<!-- EN: plasma pistol bolt -->
+	<Bullet_PlasmaPistol_Relic.label>plasma pistol bolt</Bullet_PlasmaPistol_Relic.label>
+	<!-- EN: plasma rifle bolt -->
+	<Bullet_PlasmaRifle_Relic.label>plasma rifle bolt</Bullet_PlasmaRifle_Relic.label>
+	<!-- EN: plasma beam -->
+	<Bullet_Laser_PlasmaDestroyer.label>plasma beam</Bullet_Laser_PlasmaDestroyer.label>
+</LanguageData>

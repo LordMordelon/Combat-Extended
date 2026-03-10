@@ -1,0 +1,22 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\zal_kitvfeweapons\Crypto_Weapons964.xml -->
+	<!-- EN: handle -->
+	<KIT_CryptoHammer.tools.0.label>handle</KIT_CryptoHammer.tools.0.label>
+	<!-- EN: head -->
+	<KIT_CryptoHammer.tools.1.label>head</KIT_CryptoHammer.tools.1.label>
+	
+	<!-- EN: handle -->
+	<KIT_CryptoKnife.tools.0.label>handle</KIT_CryptoKnife.tools.0.label>
+	<!-- EN: edge -->
+	<KIT_CryptoKnife.tools.1.label>edge</KIT_CryptoKnife.tools.1.label>
+	
+	<!-- EN: blade -->
+	<KIT_CryptoSpear.tools.0.label>blade</KIT_CryptoSpear.tools.0.label>
+	<!-- EN: handle -->
+	<KIT_CryptoSpear.tools.1.label>handle</KIT_CryptoSpear.tools.1.label>
+	
+	<!-- EN: handle -->
+	<KIT_CryptoSword.tools.0.label>handle</KIT_CryptoSword.tools.0.label>
+	<!-- EN: edge -->
+	<KIT_CryptoSword.tools.1.label>edge</KIT_CryptoSword.tools.1.label>
+</LanguageData>

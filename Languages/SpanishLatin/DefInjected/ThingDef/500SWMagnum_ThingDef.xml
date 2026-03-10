@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- Defs\Ammo\Pistols\500SWMagnum.xml -->
+	
+	<!-- EN: .500 S&amp;W Magnum (FMJ) -->
+	<Ammo_500SWMagnum_FMJ.label>.500 S&amp;W Magnum (FMJ)</Ammo_500SWMagnum_FMJ.label>
+	<!-- EN: Designed for big game hunting, this is one of the most powerful handgun cartridges ever designed. -->
+	<Ammo_500SWMagnum_FMJ.description>Designed for big game hunting, this is one of the most powerful handgun cartridges ever designed.</Ammo_500SWMagnum_FMJ.description>
+	
+	<!-- EN: .500 S&amp;W Magnum (AP) -->
+	<Ammo_500SWMagnum_AP.label>.500 S&amp;W Magnum (AP)</Ammo_500SWMagnum_AP.label>
+	<!-- EN: Designed for big game hunting, this is one of the most powerful handgun cartridges ever designed. -->
+	<Ammo_500SWMagnum_AP.description>Designed for big game hunting, this is one of the most powerful handgun cartridges ever designed.</Ammo_500SWMagnum_AP.description>
+	
+	<!-- EN: .500 S&amp;W Magnum (HP) -->
+	<Ammo_500SWMagnum_HP.label>.500 S&amp;W Magnum (HP)</Ammo_500SWMagnum_HP.label>
+	<!-- EN: Designed for big game hunting, this is one of the most powerful handgun cartridges ever designed. -->
+	<Ammo_500SWMagnum_HP.description>Designed for big game hunting, this is one of the most powerful handgun cartridges ever designed.</Ammo_500SWMagnum_HP.description>
+	
+	<!-- EN: .500 Smith Wessen Magnum bullet (FMJ) -->
+	<Bullet_500SWMagnum_FMJ.label>.500 Smith Wessen Magnum bullet (FMJ)</Bullet_500SWMagnum_FMJ.label>
+	
+	<!-- EN: .500 Smith Wessen Magnum bullet (AP) -->
+	<Bullet_500SWMagnum_AP.label>.500 Smith Wessen Magnum bullet (AP)</Bullet_500SWMagnum_AP.label>
+	
+	<!-- EN: .500 Smith Wessen Magnum bullet (HP) -->
+	<Bullet_500SWMagnum_HP.label>.500 Smith Wessen Magnum bullet (HP)</Bullet_500SWMagnum_HP.label>
+</LanguageData>

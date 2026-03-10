@@ -1,0 +1,47 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla Factions Expanded - Medieval 2\Defs\Vanilla Factions Expanded - Medieval 2\Ammo\VFEM2_Ammo_Medieval.xml -->
+	<!-- EN: great war arrow (stone) -->
+	<Projectile_VFEM2WarArrow_Stone.label>great war arrow (stone)</Projectile_VFEM2WarArrow_Stone.label>
+	<!-- EN: great war arrow (steel) -->
+	<Projectile_VFEM2WarArrow_Steel.label>great war arrow (steel)</Projectile_VFEM2WarArrow_Steel.label>
+	<!-- EN: great war arrow (plasteel) -->
+	<Projectile_VFEM2WarArrow_Plasteel.label>great war arrow (plasteel)</Projectile_VFEM2WarArrow_Plasteel.label>
+	<!-- EN: great war arrow (venom) -->
+	<Projectile_VFEM2WarArrow_Venom.label>great war arrow (venom)</Projectile_VFEM2WarArrow_Venom.label>
+	<!-- EN: great war arrow (flame) -->
+	<Projectile_VFEM2WarArrow_Flame.label>great war arrow (flame)</Projectile_VFEM2WarArrow_Flame.label>
+	<!-- EN: great war arrow (stone) -->
+	<Projectile_VFEM2WarArrow_Stone_Indirect.label>great war arrow (stone)</Projectile_VFEM2WarArrow_Stone_Indirect.label>
+	<!-- EN: great war arrow (steel) -->
+	<Projectile_VFEM2WarArrow_Steel_Indirect.label>great war arrow (steel)</Projectile_VFEM2WarArrow_Steel_Indirect.label>
+	<!-- EN: great war arrow (plasteel) -->
+	<Projectile_VFEM2WarArrow_Plasteel_Indirect.label>great war arrow (plasteel)</Projectile_VFEM2WarArrow_Plasteel_Indirect.label>
+	<!-- EN: great war arrow (venom) -->
+	<Projectile_VFEM2WarArrow_Venom_Indirect.label>great war arrow (venom)</Projectile_VFEM2WarArrow_Venom_Indirect.label>
+	<!-- EN: great war arrow (flame) -->
+	<Projectile_VFEM2WarArrow_Flame_Indirect.label>great war arrow (flame)</Projectile_VFEM2WarArrow_Flame_Indirect.label>
+	<!-- EN: great war arrow (stone) -->
+	<Projectile_VFEM2WarArrow_Stone_Impact.label>great war arrow (stone)</Projectile_VFEM2WarArrow_Stone_Impact.label>
+	<!-- EN: great war arrow (steel) -->
+	<Projectile_VFEM2WarArrow_Steel_Impact.label>great war arrow (steel)</Projectile_VFEM2WarArrow_Steel_Impact.label>
+	<!-- EN: great war arrow (plasteel) -->
+	<Projectile_VFEM2WarArrow_Plasteel_Impact.label>great war arrow (plasteel)</Projectile_VFEM2WarArrow_Plasteel_Impact.label>
+	<!-- EN: great war arrow (venom) -->
+	<Projectile_VFEM2WarArrow_Venom_Impact.label>great war arrow (venom)</Projectile_VFEM2WarArrow_Venom_Impact.label>
+	<!-- EN: great war arrow (flame) -->
+	<Projectile_VFEM2WarArrow_Flame_Impact.label>great war arrow (flame)</Projectile_VFEM2WarArrow_Flame_Impact.label>
+	<!-- EN: crossbow bolt (stone) -->
+	<Projectile_VFEM2ArbalestBolt_Stone.label>crossbow bolt (stone)</Projectile_VFEM2ArbalestBolt_Stone.label>
+	<!-- EN: crossbow bolt (steel) -->
+	<Projectile_VFEM2ArbalestBolt_Steel.label>crossbow bolt (steel)</Projectile_VFEM2ArbalestBolt_Steel.label>
+	<!-- EN: crossbow bolt (plasteel) -->
+	<Projectile_VFEM2ArbalestBolt_Plasteel.label>crossbow bolt (plasteel)</Projectile_VFEM2ArbalestBolt_Plasteel.label>
+	<!-- EN: crossbow bolt (venom) -->
+	<Projectile_VFEM2ArbalestBolt_Venom.label>crossbow bolt (venom)</Projectile_VFEM2ArbalestBolt_Venom.label>
+	<!-- EN: crossbow bolt (flame) -->
+	<Projectile_VFEM2ArbalestBolt_Flame.label>crossbow bolt (flame)</Projectile_VFEM2ArbalestBolt_Flame.label>
+	<!-- EN: lead pellet -->
+	<Bullet_VFEM2HandCannon_Ball.label>lead pellet</Bullet_VFEM2HandCannon_Ball.label>
+	<!-- EN: thrown axe -->
+	<Projectile_VFEM2ThrowingAxe_Thrown.label>thrown axe</Projectile_VFEM2ThrowingAxe_Thrown.label>
+</LanguageData>

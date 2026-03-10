@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Det's Energy Weapons\Defs\Det's Energy Weapons\EnergyBoltAmmoSet.XML -->
+	<!-- EN: laser charge -->
+	<AmmoSet_LaserBoltPistol.label>laser charge</AmmoSet_LaserBoltPistol.label>
+	<!-- EN: laser charge -->
+	<AmmoSet_LaserBoltRifle.label>laser charge</AmmoSet_LaserBoltRifle.label>
+	<!-- EN: laser charge -->
+	<AmmoSet_LaserBoltSniperRifle.label>laser charge</AmmoSet_LaserBoltSniperRifle.label>
+</LanguageData>

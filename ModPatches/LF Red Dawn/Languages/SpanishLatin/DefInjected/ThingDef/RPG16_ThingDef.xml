@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- ModPatches\LF Red Dawn\Defs\LF Red Dawn\RPG16.xml -->
+	
+	<!-- EN: RPG-16 grenade (HEAT) -->
+	<Ammo_RPG16Grenade_HEAT.label>RPG-16 grenade (HEAT)</Ammo_RPG16Grenade_HEAT.label>
+	<!-- EN: Rocket-propelled grenade designed for the RPG-16 launcher. After being fired a rocket motor kicks in to propel the grenade further. -->
+	<Ammo_RPG16Grenade_HEAT.description>Rocket-propelled grenade designed for the RPG-16 launcher. After being fired a rocket motor kicks in to propel the grenade further.</Ammo_RPG16Grenade_HEAT.description>
+	
+	<!-- EN: RPG-16 grenade (Frag) -->
+	<Ammo_RPG16Grenade_Frag.label>RPG-16 grenade (Frag)</Ammo_RPG16Grenade_Frag.label>
+	<!-- EN: Rocket-propelled grenade designed for the RPG-16 launcher. After being fired a rocket motor kicks in to propel the grenade further. -->
+	<Ammo_RPG16Grenade_Frag.description>Rocket-propelled grenade designed for the RPG-16 launcher. After being fired a rocket motor kicks in to propel the grenade further.</Ammo_RPG16Grenade_Frag.description>
+	
+	<!-- EN: RPG-16 grenade (HEAT) -->
+	<Bullet_RPG16Grenade_HEAT.label>RPG-16 grenade (HEAT)</Bullet_RPG16Grenade_HEAT.label>
+	
+	<!-- EN: RPG-16 grenade (Frag) -->
+	<Bullet_RPG16Grenade_Frag.label>RPG-16 grenade (Frag)</Bullet_RPG16Grenade_Frag.label>
+</LanguageData>

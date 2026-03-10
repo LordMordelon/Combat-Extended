@@ -1,0 +1,44 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Poetik_JapaneseDogs\Dogs927.xml -->
+	<!-- EN: left claw -->
+	<Poetik_Shiba.tools.0.label>left claw</Poetik_Shiba.tools.0.label>
+	<!-- EN: right claw -->
+	<Poetik_Shiba.tools.1.label>right claw</Poetik_Shiba.tools.1.label>
+	<!-- EN: head -->
+	<Poetik_Shiba.tools.3.label>head</Poetik_Shiba.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<Poetik_Kai.tools.0.label>left claw</Poetik_Kai.tools.0.label>
+	<!-- EN: right claw -->
+	<Poetik_Kai.tools.1.label>right claw</Poetik_Kai.tools.1.label>
+	<!-- EN: head -->
+	<Poetik_Kai.tools.3.label>head</Poetik_Kai.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<Poetik_Hokkaido.tools.0.label>left claw</Poetik_Hokkaido.tools.0.label>
+	<!-- EN: right claw -->
+	<Poetik_Hokkaido.tools.1.label>right claw</Poetik_Hokkaido.tools.1.label>
+	<!-- EN: head -->
+	<Poetik_Hokkaido.tools.3.label>head</Poetik_Hokkaido.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<Poetik_Kishu.tools.0.label>left claw</Poetik_Kishu.tools.0.label>
+	<!-- EN: right claw -->
+	<Poetik_Kishu.tools.1.label>right claw</Poetik_Kishu.tools.1.label>
+	<!-- EN: head -->
+	<Poetik_Kishu.tools.3.label>head</Poetik_Kishu.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<Poetik_Shikoku.tools.0.label>left claw</Poetik_Shikoku.tools.0.label>
+	<!-- EN: right claw -->
+	<Poetik_Shikoku.tools.1.label>right claw</Poetik_Shikoku.tools.1.label>
+	<!-- EN: head -->
+	<Poetik_Shikoku.tools.3.label>head</Poetik_Shikoku.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<Poetik_AkitaJapanese.tools.0.label>left claw</Poetik_AkitaJapanese.tools.0.label>
+	<!-- EN: right claw -->
+	<Poetik_AkitaJapanese.tools.1.label>right claw</Poetik_AkitaJapanese.tools.1.label>
+	<!-- EN: head -->
+	<Poetik_AkitaJapanese.tools.3.label>head</Poetik_AkitaJapanese.tools.3.label>
+</LanguageData>

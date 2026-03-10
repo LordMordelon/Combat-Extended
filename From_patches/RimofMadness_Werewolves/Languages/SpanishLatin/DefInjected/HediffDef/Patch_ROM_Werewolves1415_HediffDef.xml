@@ -1,0 +1,23 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\RimofMadness_Werewolves\Patch_ROM_Werewolves1415.xml -->
+	<!-- EN: claw -->
+	<ROM_GlabroClaw.comps.0.tools.0.label>claw</ROM_GlabroClaw.comps.0.tools.0.label>
+	<!-- EN: teeth -->
+	<ROM_GlabroJaw.comps.0.tools.0.label>teeth</ROM_GlabroJaw.comps.0.tools.0.label>
+	<!-- EN: claw -->
+	<ROM_CrinosClaw.comps.0.tools.0.label>claw</ROM_CrinosClaw.comps.0.tools.0.label>
+	<!-- EN: teeth -->
+	<ROM_CrinosJaw.comps.0.tools.0.label>teeth</ROM_CrinosJaw.comps.0.tools.0.label>
+	<!-- EN: claw -->
+	<ROM_HispoClaw.comps.0.tools.0.label>claw</ROM_HispoClaw.comps.0.tools.0.label>
+	<!-- EN: teeth -->
+	<ROM_HispoJaw.comps.0.tools.0.label>teeth</ROM_HispoJaw.comps.0.tools.0.label>
+	<!-- EN: claw -->
+	<ROM_LupusClaw.comps.0.tools.0.label>claw</ROM_LupusClaw.comps.0.tools.0.label>
+	<!-- EN: teeth -->
+	<ROM_LupusJaw.comps.0.tools.0.label>teeth</ROM_LupusJaw.comps.0.tools.0.label>
+	<!-- EN: claw -->
+	<ROM_MetisClaw.comps.0.tools.0.label>claw</ROM_MetisClaw.comps.0.tools.0.label>
+	<!-- EN: teeth -->
+	<ROM_MetisJaw.comps.0.tools.0.label>teeth</ROM_MetisJaw.comps.0.tools.0.label>
+</LanguageData>

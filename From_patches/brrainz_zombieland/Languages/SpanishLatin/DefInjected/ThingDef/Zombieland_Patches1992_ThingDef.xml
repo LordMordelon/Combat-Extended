@@ -1,0 +1,12 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\brrainz_zombieland\Zombieland_Patches1992.xml -->
+	<!-- EN: left fist -->
+	<Zombie.tools.0.label>left fist</Zombie.tools.0.label>
+	<!-- EN: right fist -->
+	<Zombie.tools.1.label>right fist</Zombie.tools.1.label>
+	<!-- EN: teeth -->
+	<Zombie.tools.2.label>teeth</Zombie.tools.2.label>
+	
+	<!-- EN: blade -->
+	<Chainsaw.tools.0.label>blade</Chainsaw.tools.0.label>
+</LanguageData>

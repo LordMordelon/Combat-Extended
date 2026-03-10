@@ -1,0 +1,65 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\LeFaux_RedDawnSovietMultiKit\RD_RifleS976.xml -->
+	<!-- EN: stock -->
+	<Gun_Ak47Normal.tools.0.label>stock</Gun_Ak47Normal.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_Ak47Normal.tools.1.label>barrel</Gun_Ak47Normal.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_Ak47Normal.tools.2.label>muzzle</Gun_Ak47Normal.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_Ak74Normal.tools.0.label>stock</Gun_Ak74Normal.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_Ak74Normal.tools.1.label>barrel</Gun_Ak74Normal.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_Ak74Normal.tools.2.label>muzzle</Gun_Ak74Normal.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_AkM.tools.0.label>stock</Gun_AkM.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_AkM.tools.1.label>barrel</Gun_AkM.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_AkM.tools.2.label>muzzle</Gun_AkM.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_SKS.tools.0.label>stock</Gun_SKS.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_SKS.tools.1.label>barrel</Gun_SKS.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_SKS.tools.2.label>muzzle</Gun_SKS.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_Ak74U.tools.0.label>stock</Gun_Ak74U.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_Ak74U.tools.1.label>barrel</Gun_Ak74U.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_Ak74U.tools.2.label>muzzle</Gun_Ak74U.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_Kiparis.tools.0.label>stock</Gun_Kiparis.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_Kiparis.tools.1.label>barrel</Gun_Kiparis.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_Kiparis.tools.2.label>muzzle</Gun_Kiparis.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_ASVal.tools.0.label>stock</Gun_ASVal.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_ASVal.tools.1.label>barrel</Gun_ASVal.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_ASVal.tools.2.label>muzzle</Gun_ASVal.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_VssVintz.tools.0.label>stock</Gun_VssVintz.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_VssVintz.tools.1.label>barrel</Gun_VssVintz.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_VssVintz.tools.2.label>muzzle</Gun_VssVintz.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_Dragunov.tools.0.label>stock</Gun_Dragunov.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_Dragunov.tools.1.label>barrel</Gun_Dragunov.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_Dragunov.tools.2.label>muzzle</Gun_Dragunov.tools.2.label>
+</LanguageData>

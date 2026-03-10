@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Glitter Tech Xavior\Defs\Glitter Tech\GlitterTech_CE_Patch_Ammo_Shells.xml -->
+	<!-- EN: 81mm mortar shells -->
+	<AmmoSet_81mmMortarShell_GlitterTechAutoMortar.label>81mm mortar shells</AmmoSet_81mmMortarShell_GlitterTechAutoMortar.label>
+	<!-- EN: 81mm mortar shells -->
+	<AmmoSet_81mmMortarShell_GlitterTechClusterMortar.label>81mm mortar shells</AmmoSet_81mmMortarShell_GlitterTechClusterMortar.label>
+	<!-- EN: 81mm mortar shells -->
+	<AmmoSet_81mmMortarShell_GlitterTechEMPAMortar.label>81mm mortar shells</AmmoSet_81mmMortarShell_GlitterTechEMPAMortar.label>
+</LanguageData>

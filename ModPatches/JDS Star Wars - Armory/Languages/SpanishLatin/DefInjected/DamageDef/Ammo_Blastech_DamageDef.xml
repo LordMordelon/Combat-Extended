@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- ModPatches\JDS Star Wars - Armory\Defs\JDS Star Wars - Armory\Ammo_Blastech.xml -->
+	<!-- EN: blaster bolt -->
+	<CE_Blaster_Damage.label>blaster bolt</CE_Blaster_Damage.label>
+	<!-- EN: {0} has been shot to death. -->
+	<CE_Blaster_Damage.deathMessage>{0} has been shot to death.</CE_Blaster_Damage.deathMessage>
+</LanguageData>

@@ -1,0 +1,52 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Pratt_RaW_WWIIWeaponsPackVanilla\PWW2_CE_Patch_Weapons_Ranged_UK1251.xml -->
+	<!-- EN: stock -->
+	<Gun_LeeEnfieldN4MkIR.tools.0.label>stock</Gun_LeeEnfieldN4MkIR.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_LeeEnfieldN4MkIR.tools.1.label>barrel</Gun_LeeEnfieldN4MkIR.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_LeeEnfieldN4MkIR.tools.2.label>muzzle</Gun_LeeEnfieldN4MkIR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_LeeEnfieldN4MkI-TSR.tools.0.label>stock</Gun_LeeEnfieldN4MkI-TSR.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_LeeEnfieldN4MkI-TSR.tools.1.label>barrel</Gun_LeeEnfieldN4MkI-TSR.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_LeeEnfieldN4MkI-TSR.tools.2.label>muzzle</Gun_LeeEnfieldN4MkI-TSR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_BrenMkIILMG.tools.0.label>stock</Gun_BrenMkIILMG.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_BrenMkIILMG.tools.1.label>barrel</Gun_BrenMkIILMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_BrenMkIILMG.tools.2.label>muzzle</Gun_BrenMkIILMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_StenMkIII.tools.0.label>stock</Gun_StenMkIII.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_StenMkIII.tools.1.label>barrel</Gun_StenMkIII.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_StenMkIII.tools.2.label>muzzle</Gun_StenMkIII.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_StenMkVI.tools.0.label>stock</Gun_StenMkVI.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_StenMkVI.tools.1.label>barrel</Gun_StenMkVI.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_StenMkVI.tools.2.label>muzzle</Gun_StenMkVI.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_ThompsonM1928UKSMG.tools.0.label>stock</Gun_ThompsonM1928UKSMG.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_ThompsonM1928UKSMG.tools.1.label>barrel</Gun_ThompsonM1928UKSMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_ThompsonM1928UKSMG.tools.2.label>muzzle</Gun_ThompsonM1928UKSMG.tools.2.label>
+	
+	<!-- EN: grip -->
+	<Gun_WebleyP.tools.0.label>grip</Gun_WebleyP.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_WebleyP.tools.1.label>muzzle</Gun_WebleyP.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<Gun_PIAT.tools.0.label>barrel</Gun_PIAT.tools.0.label>
+</LanguageData>

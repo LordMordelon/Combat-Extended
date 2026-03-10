@@ -1,0 +1,49 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Races_Animal_Arid20.xml -->
+	<!-- EN: head -->
+	<Muffalo.tools.0.label>head</Muffalo.tools.0.label>
+	<!-- EN: left hoof -->
+	<Muffalo.tools.1.label>left hoof</Muffalo.tools.1.label>
+	<!-- EN: left hoof -->
+	<Muffalo.tools.2.label>left hoof</Muffalo.tools.2.label>
+	<!-- EN: right hoof -->
+	<Muffalo.tools.3.label>right hoof</Muffalo.tools.3.label>
+	<!-- EN: right hoof -->
+	<Muffalo.tools.4.label>right hoof</Muffalo.tools.4.label>
+	
+	<!-- EN: left hoof -->
+	<Gazelle.tools.0.label>left hoof</Gazelle.tools.0.label>
+	<!-- EN: left hoof -->
+	<Gazelle.tools.1.label>left hoof</Gazelle.tools.1.label>
+	<!-- EN: right hoof -->
+	<Gazelle.tools.2.label>right hoof</Gazelle.tools.2.label>
+	<!-- EN: right hoof -->
+	<Gazelle.tools.3.label>right hoof</Gazelle.tools.3.label>
+	<!-- EN: head -->
+	<Gazelle.tools.5.label>head</Gazelle.tools.5.label>
+	
+	<!-- EN: left claws -->
+	<Iguana.tools.0.label>left claws</Iguana.tools.0.label>
+	<!-- EN: right claws -->
+	<Iguana.tools.1.label>right claws</Iguana.tools.1.label>
+	<!-- EN: head -->
+	<Iguana.tools.3.label>head</Iguana.tools.3.label>
+	
+	<!-- EN: horn -->
+	<Rhinoceros.tools.0.label>horn</Rhinoceros.tools.0.label>
+	<!-- EN: horn -->
+	<Rhinoceros.tools.1.label>horn</Rhinoceros.tools.1.label>
+	<!-- EN: head -->
+	<Rhinoceros.tools.3.label>head</Rhinoceros.tools.3.label>
+	
+	<!-- EN: left hoof -->
+	<Dromedary.tools.0.label>left hoof</Dromedary.tools.0.label>
+	<!-- EN: left hoof -->
+	<Dromedary.tools.1.label>left hoof</Dromedary.tools.1.label>
+	<!-- EN: right hoof -->
+	<Dromedary.tools.2.label>right hoof</Dromedary.tools.2.label>
+	<!-- EN: right hoof -->
+	<Dromedary.tools.3.label>right hoof</Dromedary.tools.3.label>
+	<!-- EN: head -->
+	<Dromedary.tools.5.label>head</Dromedary.tools.5.label>
+</LanguageData>

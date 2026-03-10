@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Wunders\WundersS.xml -->
+	<!-- EN: make DG-Scharfschutze Bulbs x5 -->
+	<MakeAmmo_Wunder_s.label>make DG-Scharfschutze Bulbs x5</MakeAmmo_Wunder_s.label>
+	<!-- EN: Craft 5 DG-Scharfschutze Bulbs. -->
+	<MakeAmmo_Wunder_s.description>Craft 5 DG-Scharfschutze Bulbs.</MakeAmmo_Wunder_s.description>
+	<!-- EN: Making DG-Scharfschutze Bulbs. -->
+	<MakeAmmo_Wunder_s.jobString>Making DG-Scharfschutze Bulbs.</MakeAmmo_Wunder_s.jobString>
+</LanguageData>

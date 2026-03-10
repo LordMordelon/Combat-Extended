@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Censored Armory\Defs\Censored Armory\Recipes_Grenades.xml -->
+	<!-- EN: make M24 grenades x10 -->
+	<MakeM24Grenade.label>make M24 grenades x10</MakeM24Grenade.label>
+	<!-- EN: Craft 10 M24 grenades. -->
+	<MakeM24Grenade.description>Craft 10 M24 grenades.</MakeM24Grenade.description>
+	<!-- EN: Making M24 grenades. -->
+	<MakeM24Grenade.jobString>Making M24 grenades.</MakeM24Grenade.jobString>
+</LanguageData>

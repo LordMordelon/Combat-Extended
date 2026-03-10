@@ -1,0 +1,86 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\RH2_Faction_VOID\Races_Evolved1296.xml -->
+	<!-- EN: left claw -->
+	<RH_DF_EvolvedRumbler.tools.0.label>left claw</RH_DF_EvolvedRumbler.tools.0.label>
+	<!-- EN: right claw -->
+	<RH_DF_EvolvedRumbler.tools.1.label>right claw</RH_DF_EvolvedRumbler.tools.1.label>
+	<!-- EN: head -->
+	<RH_DF_EvolvedRumbler.tools.2.label>head</RH_DF_EvolvedRumbler.tools.2.label>
+	
+	<!-- EN: left arm blade -->
+	<RH_DF_EvolvedLongArms.tools.0.label>left arm blade</RH_DF_EvolvedLongArms.tools.0.label>
+	<!-- EN: right arm blade -->
+	<RH_DF_EvolvedLongArms.tools.1.label>right arm blade</RH_DF_EvolvedLongArms.tools.1.label>
+	<!-- EN: head -->
+	<RH_DF_EvolvedLongArms.tools.2.label>head</RH_DF_EvolvedLongArms.tools.2.label>
+	
+	<!-- EN: left arm blade -->
+	<RH_DF_IrridiatedLongArms.tools.0.label>left arm blade</RH_DF_IrridiatedLongArms.tools.0.label>
+	<!-- EN: right arm blade -->
+	<RH_DF_IrridiatedLongArms.tools.1.label>right arm blade</RH_DF_IrridiatedLongArms.tools.1.label>
+	<!-- EN: head -->
+	<RH_DF_IrridiatedLongArms.tools.2.label>head</RH_DF_IrridiatedLongArms.tools.2.label>
+	
+	<!-- EN: left claw -->
+	<RH_DF_VolatileLeaper.tools.0.label>left claw</RH_DF_VolatileLeaper.tools.0.label>
+	<!-- EN: right claw -->
+	<RH_DF_VolatileLeaper.tools.1.label>right claw</RH_DF_VolatileLeaper.tools.1.label>
+	<!-- EN: tongue -->
+	<RH_DF_VolatileLeaper.tools.2.label>tongue</RH_DF_VolatileLeaper.tools.2.label>
+	
+	<!-- EN: left fist -->
+	<RH_DF_BlackTitan.tools.0.label>left fist</RH_DF_BlackTitan.tools.0.label>
+	<!-- EN: right fist -->
+	<RH_DF_BlackTitan.tools.1.label>right fist</RH_DF_BlackTitan.tools.1.label>
+	<!-- EN: head -->
+	<RH_DF_BlackTitan.tools.2.label>head</RH_DF_BlackTitan.tools.2.label>
+	
+	<!-- EN: tentacle -->
+	<RH_DF_BlackWraith.tools.0.label>tentacle</RH_DF_BlackWraith.tools.0.label>
+	<!-- EN: tentacle -->
+	<RH_DF_BlackWraith.tools.1.label>tentacle</RH_DF_BlackWraith.tools.1.label>
+	<!-- EN: head -->
+	<RH_DF_BlackWraith.tools.2.label>head</RH_DF_BlackWraith.tools.2.label>
+	
+	<!-- EN: left claw -->
+	<RH_DF_BlackLeaper.tools.0.label>left claw</RH_DF_BlackLeaper.tools.0.label>
+	<!-- EN: right claw -->
+	<RH_DF_BlackLeaper.tools.1.label>right claw</RH_DF_BlackLeaper.tools.1.label>
+	<!-- EN: tongue -->
+	<RH_DF_BlackLeaper.tools.2.label>tongue</RH_DF_BlackLeaper.tools.2.label>
+	
+	<!-- EN: claws -->
+	<RH_DF_DevilHound.tools.0.label>claws</RH_DF_DevilHound.tools.0.label>
+	<!-- EN: claws -->
+	<RH_DF_DevilHound.tools.1.label>claws</RH_DF_DevilHound.tools.1.label>
+	<!-- EN: head -->
+	<RH_DF_DevilHound.tools.2.label>head</RH_DF_DevilHound.tools.2.label>
+	
+	<!-- EN: tentacles -->
+	<RH_DF_Tendril.tools.0.label>tentacles</RH_DF_Tendril.tools.0.label>
+	<!-- EN: tentacles -->
+	<RH_DF_Tendril.tools.1.label>tentacles</RH_DF_Tendril.tools.1.label>
+	<!-- EN: head -->
+	<RH_DF_Tendril.tools.2.label>head</RH_DF_Tendril.tools.2.label>
+	
+	<!-- EN: left fist -->
+	<RH_DF_Bone.tools.0.label>left fist</RH_DF_Bone.tools.0.label>
+	<!-- EN: right fist -->
+	<RH_DF_Bone.tools.1.label>right fist</RH_DF_Bone.tools.1.label>
+	<!-- EN: head -->
+	<RH_DF_Bone.tools.2.label>head</RH_DF_Bone.tools.2.label>
+	
+	<!-- EN: left claw -->
+	<RH_DF2_RoidHulk.tools.0.label>left claw</RH_DF2_RoidHulk.tools.0.label>
+	<!-- EN: right claw -->
+	<RH_DF2_RoidHulk.tools.1.label>right claw</RH_DF2_RoidHulk.tools.1.label>
+	<!-- EN: head -->
+	<RH_DF2_RoidHulk.tools.2.label>head</RH_DF2_RoidHulk.tools.2.label>
+	
+	<!-- EN: left claw -->
+	<RH_DF_Reaper.tools.0.label>left claw</RH_DF_Reaper.tools.0.label>
+	<!-- EN: arm blade -->
+	<RH_DF_Reaper.tools.1.label>arm blade</RH_DF_Reaper.tools.1.label>
+	<!-- EN: head -->
+	<RH_DF_Reaper.tools.2.label>head</RH_DF_Reaper.tools.2.label>
+</LanguageData>

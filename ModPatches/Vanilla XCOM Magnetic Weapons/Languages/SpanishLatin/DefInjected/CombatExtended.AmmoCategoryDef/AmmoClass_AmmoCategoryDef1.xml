@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla XCOM Magnetic Weapons\Defs\Vanilla XCOM Magnetic Weapons\AmmoClass.xml -->
+	<!-- EN: Scatter railgun -->
+	<XCOM_MAGShotgun.label>Scatter railgun</XCOM_MAGShotgun.label>
+	<!-- EN: buckshot -->
+	<XCOM_MAGShotgun.labelShort>buckshot</XCOM_MAGShotgun.labelShort>
+	<!-- EN: Uses a discarding sabot to fire several undersized projectile at higher muzzle velocities, greatly improving armor penetration. -->
+	<XCOM_MAGShotgun.description>Uses a discarding sabot to fire several undersized projectile at higher muzzle velocities, greatly improving armor penetration.</XCOM_MAGShotgun.description>
+</LanguageData>

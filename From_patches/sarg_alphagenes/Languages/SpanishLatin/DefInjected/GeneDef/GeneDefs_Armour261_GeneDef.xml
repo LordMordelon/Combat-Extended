@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\sarg_alphagenes\GeneDefs_Armour261.xml -->
+	<!-- EN: +3/5 blunt/sharp natural armour. +25% injury healing factor. -->
+	<AG_FungalSkin.customEffectDescriptions.0>+3/5 blunt/sharp natural armour. +25% injury healing factor.</AG_FungalSkin.customEffectDescriptions.0>
+	<!-- EN: Fires will cause permanent wounds. -->
+	<AG_FungalSkin.customEffectDescriptions.1>Fires will cause permanent wounds.</AG_FungalSkin.customEffectDescriptions.1>
+	<!-- EN: +1/2 blunt/sharp natural armour. -->
+	<AG_ArmourMinor.customEffectDescriptions.0>+1/2 blunt/sharp natural armour.</AG_ArmourMinor.customEffectDescriptions.0>
+	<!-- EN: +2/3.75 blunt/sharp natural armour. -->
+	<AG_ArmourMedium.customEffectDescriptions.0>+2/3.75 blunt/sharp natural armour.</AG_ArmourMedium.customEffectDescriptions.0>
+	<!-- EN: +2.5/5 blunt/sharp natural armour. -->
+	<AG_ArmourMajor.customEffectDescriptions.0>+2.5/5 blunt/sharp natural armour.</AG_ArmourMajor.customEffectDescriptions.0>
+</LanguageData>

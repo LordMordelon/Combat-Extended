@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- ModPatches\Anty the war Ant\Defs\Anty the war Ant\Ammo_Anty.xml -->
+	<!-- EN: make anty acid cartridge x500 -->
+	<MakeAmmo_AntyAcidRifle.label>make anty acid cartridge x500</MakeAmmo_AntyAcidRifle.label>
+	<!-- EN: Craft 500 anty acid cartridges. -->
+	<MakeAmmo_AntyAcidRifle.description>Craft 500 anty acid cartridges.</MakeAmmo_AntyAcidRifle.description>
+	<!-- EN: Making anty acid cartridges. -->
+	<MakeAmmo_AntyAcidRifle.jobString>Making anty acid cartridges.</MakeAmmo_AntyAcidRifle.jobString>
+	<!-- EN: make anty Hydroheliumion cartridge x500 -->
+	<MakeAmmo_AntyAcidRed.label>make anty Hydroheliumion cartridge x500</MakeAmmo_AntyAcidRed.label>
+	<!-- EN: Craft 500 anty Hydroheliumion cartridges. -->
+	<MakeAmmo_AntyAcidRed.description>Craft 500 anty Hydroheliumion cartridges.</MakeAmmo_AntyAcidRed.description>
+	<!-- EN: Making anty Hydroheliumion cartridges. -->
+	<MakeAmmo_AntyAcidRed.jobString>Making anty Hydroheliumion cartridges.</MakeAmmo_AntyAcidRed.jobString>
+	<!-- EN: make anty glue grenade x50 -->
+	<MakeAmmo_AntyGlueLauncher.label>make anty glue grenade x50</MakeAmmo_AntyGlueLauncher.label>
+	<!-- EN: Craft 50 anty glue grenades. -->
+	<MakeAmmo_AntyGlueLauncher.description>Craft 50 anty glue grenades.</MakeAmmo_AntyGlueLauncher.description>
+	<!-- EN: Making anty glue grenades. -->
+	<MakeAmmo_AntyGlueLauncher.jobString>Making anty glue grenades.</MakeAmmo_AntyGlueLauncher.jobString>
+	<!-- EN: make acid crossbow bolts x10 -->
+	<MakeAmmo_CrossbowBolt_AntyAcid.label>make acid crossbow bolts x10</MakeAmmo_CrossbowBolt_AntyAcid.label>
+	<!-- EN: Craft 10 acid crossbow bolts. -->
+	<MakeAmmo_CrossbowBolt_AntyAcid.description>Craft 10 acid crossbow bolts.</MakeAmmo_CrossbowBolt_AntyAcid.description>
+	<!-- EN: Making acid crossbow bolts. -->
+	<MakeAmmo_CrossbowBolt_AntyAcid.jobString>Making acid crossbow bolts.</MakeAmmo_CrossbowBolt_AntyAcid.jobString>
+</LanguageData>

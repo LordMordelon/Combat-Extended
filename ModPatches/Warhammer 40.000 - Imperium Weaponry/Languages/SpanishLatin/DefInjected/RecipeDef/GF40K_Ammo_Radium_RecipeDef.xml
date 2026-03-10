@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- ModPatches\Warhammer 40.000 - Imperium Weaponry\Defs\Warhammer 40.000 - Imperium Weaponry\GF40K_Ammo_Radium.xml -->
+	
+	<!-- EN: make 10x18mm Charged (Tox) cartridge x500 -->
+	<MakeAmmo_RadiumPistol_Tox.label>make 10x18mm Charged (Tox) cartridge x500</MakeAmmo_RadiumPistol_Tox.label>
+	<!-- EN: Craft 500 10x18mm Charged (Tox) cartridges. -->
+	<MakeAmmo_RadiumPistol_Tox.description>Craft 500 10x18mm Charged (Tox) cartridges.</MakeAmmo_RadiumPistol_Tox.description>
+	<!-- EN: Making 10x18mm Charged (Tox) cartridges. -->
+	<MakeAmmo_RadiumPistol_Tox.jobString>Making 10x18mm Charged (Tox) cartridges.</MakeAmmo_RadiumPistol_Tox.jobString>
+	
+	<!-- EN: make 8x35mm Charged (Tox) cartridge x500 -->
+	<MakeAmmo_RadiumCarbine_Tox.label>make 8x35mm Charged (Tox) cartridge x500</MakeAmmo_RadiumCarbine_Tox.label>
+	<!-- EN: Craft 500 8x35mm Charged (Tox) cartridges. -->
+	<MakeAmmo_RadiumCarbine_Tox.description>Craft 500 8x35mm Charged (Tox) cartridges.</MakeAmmo_RadiumCarbine_Tox.description>
+	<!-- EN: Making 8x35mm Charged (Tox) cartridges. -->
+	<MakeAmmo_RadiumCarbine_Tox.jobString>Making 8x35mm Charged (Tox) cartridges.</MakeAmmo_RadiumCarbine_Tox.jobString>
+</LanguageData>

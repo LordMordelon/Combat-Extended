@@ -1,0 +1,10 @@
+<LanguageData>
+	<!-- ModPatches\Royal Arsenal - Speciality Weapons\Defs\Royal Arsenal - Speciality Weapons\Ammo_ThunderJavelins.xml -->
+	
+	<!-- EN: make thunder javelin x5 -->
+	<MakeAmmo_ThunderJavelins.label>make thunder javelin x5</MakeAmmo_ThunderJavelins.label>
+	<!-- EN: Craft 5 thunder javelins. -->
+	<MakeAmmo_ThunderJavelins.description>Craft 5 thunder javelins.</MakeAmmo_ThunderJavelins.description>
+	<!-- EN: Making thunder javelins. -->
+	<MakeAmmo_ThunderJavelins.jobString>Making thunder javelins.</MakeAmmo_ThunderJavelins.jobString>
+</LanguageData>

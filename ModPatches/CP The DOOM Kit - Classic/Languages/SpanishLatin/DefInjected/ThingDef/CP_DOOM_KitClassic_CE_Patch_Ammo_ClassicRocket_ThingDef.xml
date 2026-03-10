@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\CP The DOOM Kit - Classic\Defs\CP The DOOM Kit - Classic\CP_DOOM_KitClassic_CE_Patch_Ammo_ClassicRocket.xml -->
+	
+	<!-- EN: UAC Rocket Mk I (HEAT) -->
+	<Ammo_DoomClassicRocket_HEAT.label>UAC Rocket Mk I (HEAT)</Ammo_DoomClassicRocket_HEAT.label>
+	<!-- EN: Compact 60mm rocket developed by the Union Aerospace Corporation for infantry rocket launchers. -->
+	<Ammo_DoomClassicRocket_HEAT.description>Compact 60mm rocket developed by the Union Aerospace Corporation for infantry rocket launchers.</Ammo_DoomClassicRocket_HEAT.description>
+	
+	<!-- EN: UAC Rocket Mk I (HEAT) -->
+	<Bullet_DoomClassicRocket_HEAT.label>UAC Rocket Mk I (HEAT)</Bullet_DoomClassicRocket_HEAT.label>
+</LanguageData>

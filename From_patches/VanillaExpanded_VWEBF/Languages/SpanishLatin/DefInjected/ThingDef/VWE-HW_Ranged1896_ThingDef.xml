@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VWEBF\VWE-HW_Ranged1896.xml -->
+	<!-- EN: ㅤ -->
+	<VWEB_HeavyIncinerator.verbs.0.label>ㅤ</VWEB_HeavyIncinerator.verbs.0.label>
+	<!-- EN: barrel -->
+	<VWEB_HeavyIncinerator.tools.0.label>barrel</VWEB_HeavyIncinerator.tools.0.label>
+	<!-- EN: switch to flamethrower -->
+	<VWEB_HeavyIncinerator.comps.0.standardLabel>switch to flamethrower</VWEB_HeavyIncinerator.comps.0.standardLabel>
+	<!-- EN: switch to vaporizer -->
+	<VWEB_HeavyIncinerator.comps.0.underBarrelLabel>switch to vaporizer</VWEB_HeavyIncinerator.comps.0.underBarrelLabel>
+</LanguageData>

@@ -1,0 +1,39 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Van_DATools\MeleeMedieval677.xml -->
+	<!-- EN: handle -->
+	<DA_MeleeWeapon_Hammer.tools.0.label>handle</DA_MeleeWeapon_Hammer.tools.0.label>
+	<!-- EN: head -->
+	<DA_MeleeWeapon_Hammer.tools.1.label>head</DA_MeleeWeapon_Hammer.tools.1.label>
+	
+	<!-- EN: shaft -->
+	<DA_MeleeWeapon_Pickaxe.tools.0.label>shaft</DA_MeleeWeapon_Pickaxe.tools.0.label>
+	<!-- EN: head -->
+	<DA_MeleeWeapon_Pickaxe.tools.1.label>head</DA_MeleeWeapon_Pickaxe.tools.1.label>
+	
+	<!-- EN: edge -->
+	<DA_MeleeWeapon_Cleaver.tools.0.label>edge</DA_MeleeWeapon_Cleaver.tools.0.label>
+	<!-- EN: handle -->
+	<DA_MeleeWeapon_Cleaver.tools.1.label>handle</DA_MeleeWeapon_Cleaver.tools.1.label>
+	
+	<!-- EN: edge -->
+	<DA_MeleeWeapon_Hacksaw.tools.0.label>edge</DA_MeleeWeapon_Hacksaw.tools.0.label>
+	<!-- EN: handle -->
+	<DA_MeleeWeapon_Hacksaw.tools.1.label>handle</DA_MeleeWeapon_Hacksaw.tools.1.label>
+	
+	<!-- EN: shaft -->
+	<DA_MeleeWeapon_Scythe.tools.0.label>shaft</DA_MeleeWeapon_Scythe.tools.0.label>
+	<!-- EN: edge -->
+	<DA_MeleeWeapon_Scythe.tools.1.label>edge</DA_MeleeWeapon_Scythe.tools.1.label>
+	<!-- EN: blade -->
+	<DA_MeleeWeapon_Scythe.tools.2.label>blade</DA_MeleeWeapon_Scythe.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<DA_MeleeWeapon_Broom.tools.0.label>shaft</DA_MeleeWeapon_Broom.tools.0.label>
+	<!-- EN: shaft -->
+	<DA_MeleeWeapon_Broom.tools.1.label>shaft</DA_MeleeWeapon_Broom.tools.1.label>
+	
+	<!-- EN: handle -->
+	<DA_MeleeWeapon_GuardBaton.tools.0.label>handle</DA_MeleeWeapon_GuardBaton.tools.0.label>
+	<!-- EN: head -->
+	<DA_MeleeWeapon_GuardBaton.tools.1.label>head</DA_MeleeWeapon_GuardBaton.tools.1.label>
+</LanguageData>

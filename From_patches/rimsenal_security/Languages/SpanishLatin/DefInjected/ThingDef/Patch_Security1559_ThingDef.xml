@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\rimsenal_security\Patch_Security1559.xml -->
+	<!-- EN: ㅤ -->
+	<Gun_RotarygunTurret.verbs.0.label>ㅤ</Gun_RotarygunTurret.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<Gun_RotarygunTurret.verbs.1.label>ㅤ</Gun_RotarygunTurret.verbs.1.label>
+	<!-- EN: grenade lobber turret -->
+	<Turret_EMPLobber.label>grenade lobber turret</Turret_EMPLobber.label>
+	<!-- EN: A portable automatic grenade launcher. Requires resupply once its ammo runs out. Be cautious of friendly fire. -->
+	<Turret_EMPLobber.description>A portable automatic grenade launcher. Requires resupply once its ammo runs out. Be cautious of friendly fire.</Turret_EMPLobber.description>
+	<!-- EN: A portable automatic wide barrel launcher that unleashes incendiary fuel cells. Requires resupply once its ammo runs out. Beware of friendly fire and spreading flames—chaos can escalate in seconds. Stay alert. You have been warned. -->
+	<Turret_FireLobber.description>A portable automatic wide barrel launcher that unleashes incendiary fuel cells. Requires resupply once its ammo runs out. Beware of friendly fire and spreading flames—chaos can escalate in seconds. Stay alert. You have been warned.</Turret_FireLobber.description>
+	<!-- EN: A portable automated turret armed with a long-range rifle. It fires single powerful shots at extended range, but its simple AI makes friendly fire possible. -->
+	<Turret_MiniShooter.description>A portable automated turret armed with a long-range rifle. It fires single powerful shots at extended range, but its simple AI makes friendly fire possible.</Turret_MiniShooter.description>
+</LanguageData>

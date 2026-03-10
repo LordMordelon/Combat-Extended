@@ -1,0 +1,38 @@
+<LanguageData>
+	<!-- ModPatches\RH2 Helldivers Super Firearms\Defs\RH2 Helldivers Super Firearms\Ammo\125x100_Justice.xml -->
+	
+	<!-- EN: make 12.5x100mm Justice (FMJ) cartridge x200 -->
+	<MakeAmmo_125x100_FMJ.label>make 12.5x100mm Justice (FMJ) cartridge x200</MakeAmmo_125x100_FMJ.label>
+	<!-- EN: Craft 200 12.5x100mm Justice (FMJ) cartridges. -->
+	<MakeAmmo_125x100_FMJ.description>Craft 200 12.5x100mm Justice (FMJ) cartridges.</MakeAmmo_125x100_FMJ.description>
+	<!-- EN: Making 12.5x100mm Justice (FMJ) cartridges. -->
+	<MakeAmmo_125x100_FMJ.jobString>Making 12.5x100mm Justice (FMJ) cartridges.</MakeAmmo_125x100_FMJ.jobString>
+	
+	<!-- EN: make 12.5x100mm Justice (AP) cartridge x200 -->
+	<MakeAmmo_125x100_AP.label>make 12.5x100mm Justice (AP) cartridge x200</MakeAmmo_125x100_AP.label>
+	<!-- EN: Craft 200 12.5x100mm Justice (AP) cartridges. -->
+	<MakeAmmo_125x100_AP.description>Craft 200 12.5x100mm Justice (AP) cartridges.</MakeAmmo_125x100_AP.description>
+	<!-- EN: Making 12.5x100mm Justice (AP) cartridges. -->
+	<MakeAmmo_125x100_AP.jobString>Making 12.5x100mm Justice (AP) cartridges.</MakeAmmo_125x100_AP.jobString>
+	
+	<!-- EN: make 12.5x100mm Justice (AP-I) cartridge x200 -->
+	<MakeAmmo_125x100_Incendiary.label>make 12.5x100mm Justice (AP-I) cartridge x200</MakeAmmo_125x100_Incendiary.label>
+	<!-- EN: Craft 200 12.5x100mm Justice (AP-I) cartridges. -->
+	<MakeAmmo_125x100_Incendiary.description>Craft 200 12.5x100mm Justice (AP-I) cartridges.</MakeAmmo_125x100_Incendiary.description>
+	<!-- EN: Making 12.5x100mm Justice (AP-I) cartridges. -->
+	<MakeAmmo_125x100_Incendiary.jobString>Making 12.5x100mm Justice (AP-I) cartridges.</MakeAmmo_125x100_Incendiary.jobString>
+	
+	<!-- EN: make 12.5x100mm Justice (AP-HE) cartridge x200 -->
+	<MakeAmmo_125x100_HE.label>make 12.5x100mm Justice (AP-HE) cartridge x200</MakeAmmo_125x100_HE.label>
+	<!-- EN: Craft 200 12.5x100mm Justice (AP-HE) cartridges. -->
+	<MakeAmmo_125x100_HE.description>Craft 200 12.5x100mm Justice (AP-HE) cartridges.</MakeAmmo_125x100_HE.description>
+	<!-- EN: Making 12.5x100mm Justice (AP-HE) cartridges. -->
+	<MakeAmmo_125x100_HE.jobString>Making 12.5x100mm Justice (AP-HE) cartridges.</MakeAmmo_125x100_HE.jobString>
+	
+	<!-- EN: make 12.5x100mm Justice (Sabot) cartridge x200 -->
+	<MakeAmmo_125x100_Sabot.label>make 12.5x100mm Justice (Sabot) cartridge x200</MakeAmmo_125x100_Sabot.label>
+	<!-- EN: Craft 200 12.5x100mm Justice (Sabot) cartridges. -->
+	<MakeAmmo_125x100_Sabot.description>Craft 200 12.5x100mm Justice (Sabot) cartridges.</MakeAmmo_125x100_Sabot.description>
+	<!-- EN: Making 12.5x100mm Justice (Sabot) cartridges. -->
+	<MakeAmmo_125x100_Sabot.jobString>Making 12.5x100mm Justice (Sabot) cartridges.</MakeAmmo_125x100_Sabot.jobString>
+</LanguageData>

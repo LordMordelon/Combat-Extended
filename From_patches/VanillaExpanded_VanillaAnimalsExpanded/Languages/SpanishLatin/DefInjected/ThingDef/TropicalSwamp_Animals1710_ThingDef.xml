@@ -1,0 +1,14 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VanillaAnimalsExpanded\TropicalSwamp_Animals1710.xml -->
+	<!-- EN: bite -->
+	<AEXP_Anaconda.tools.0.label>bite</AEXP_Anaconda.tools.0.label>
+	<!-- EN: head -->
+	<AEXP_Anaconda.tools.1.label>head</AEXP_Anaconda.tools.1.label>
+	
+	<!-- EN: left foot -->
+	<AEXP_IndianElephant.tools.0.label>left foot</AEXP_IndianElephant.tools.0.label>
+	<!-- EN: right foot -->
+	<AEXP_IndianElephant.tools.1.label>right foot</AEXP_IndianElephant.tools.1.label>
+	<!-- EN: head -->
+	<AEXP_IndianElephant.tools.2.label>head</AEXP_IndianElephant.tools.2.label>
+</LanguageData>

@@ -1,0 +1,96 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\RimEffectRenegade_Core\Weapons_MEcore1435.xml -->
+	<!-- EN: grip -->
+	<RE_Gun_AlliancePistol.tools.0.label>grip</RE_Gun_AlliancePistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<RE_Gun_AlliancePistol.tools.1.label>muzzle</RE_Gun_AlliancePistol.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RE_Gun_AllianceSMG.tools.0.label>grip</RE_Gun_AllianceSMG.tools.0.label>
+	<!-- EN: muzzle -->
+	<RE_Gun_AllianceSMG.tools.1.label>muzzle</RE_Gun_AllianceSMG.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RE_Gun_AllianceHandcannon.tools.0.label>grip</RE_Gun_AllianceHandcannon.tools.0.label>
+	<!-- EN: muzzle -->
+	<RE_Gun_AllianceHandcannon.tools.1.label>muzzle</RE_Gun_AllianceHandcannon.tools.1.label>
+	
+	<!-- EN: stock -->
+	<RE_Gun_AllianceAssaultRifle.tools.0.label>stock</RE_Gun_AllianceAssaultRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RE_Gun_AllianceAssaultRifle.tools.1.label>barrel</RE_Gun_AllianceAssaultRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RE_Gun_AllianceAssaultRifle.tools.2.label>muzzle</RE_Gun_AllianceAssaultRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RE_Gun_AllianceBattleRifle.tools.0.label>stock</RE_Gun_AllianceBattleRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RE_Gun_AllianceBattleRifle.tools.1.label>barrel</RE_Gun_AllianceBattleRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RE_Gun_AllianceBattleRifle.tools.2.label>muzzle</RE_Gun_AllianceBattleRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RE_Gun_AllianceShotgun.tools.0.label>stock</RE_Gun_AllianceShotgun.tools.0.label>
+	<!-- EN: barrel -->
+	<RE_Gun_AllianceShotgun.tools.1.label>barrel</RE_Gun_AllianceShotgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<RE_Gun_AllianceShotgun.tools.2.label>muzzle</RE_Gun_AllianceShotgun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RE_Gun_AllianceSniperRifle.tools.0.label>stock</RE_Gun_AllianceSniperRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RE_Gun_AllianceSniperRifle.tools.1.label>barrel</RE_Gun_AllianceSniperRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RE_Gun_AllianceSniperRifle.tools.2.label>muzzle</RE_Gun_AllianceSniperRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RE_Gun_AllianceAntimaterielRifle.tools.0.label>stock</RE_Gun_AllianceAntimaterielRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RE_Gun_AllianceAntimaterielRifle.tools.1.label>barrel</RE_Gun_AllianceAntimaterielRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RE_Gun_AllianceAntimaterielRifle.tools.2.label>muzzle</RE_Gun_AllianceAntimaterielRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RE_Gun_AllianceRocketLauncher.tools.0.label>stock</RE_Gun_AllianceRocketLauncher.tools.0.label>
+	<!-- EN: barrel -->
+	<RE_Gun_AllianceRocketLauncher.tools.1.label>barrel</RE_Gun_AllianceRocketLauncher.tools.1.label>
+	<!-- EN: muzzle -->
+	<RE_Gun_AllianceRocketLauncher.tools.2.label>muzzle</RE_Gun_AllianceRocketLauncher.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RE_Gun_AllianceChainShotgun.tools.0.label>stock</RE_Gun_AllianceChainShotgun.tools.0.label>
+	<!-- EN: barrel -->
+	<RE_Gun_AllianceChainShotgun.tools.1.label>barrel</RE_Gun_AllianceChainShotgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<RE_Gun_AllianceChainShotgun.tools.2.label>muzzle</RE_Gun_AllianceChainShotgun.tools.2.label>
+	
+	<!-- EN: M-8 Avenger -->
+	<RE_Gun_AllianceAssaultRifle.label>M-8 Avenger</RE_Gun_AllianceAssaultRifle.label>
+	
+	<!-- EN: M-15 Vindicator -->
+	<RE_Gun_AllianceBattleRifle.label>M-15 Vindicator</RE_Gun_AllianceBattleRifle.label>
+	
+	<!-- EN: M-9 Tempest -->
+	<RE_Gun_AllianceSMG.label>M-9 Tempest</RE_Gun_AllianceSMG.label>
+	
+	<!-- EN: M-92 Mantis -->
+	<RE_Gun_AllianceSniperRifle.label>M-92 Mantis</RE_Gun_AllianceSniperRifle.label>
+	
+	<!-- EN: M-98 Widow -->
+	<RE_Gun_AllianceAntimaterielRifle.label>M-98 Widow</RE_Gun_AllianceAntimaterielRifle.label>
+	
+	<!-- EN: M-23 Katana -->
+	<RE_Gun_AllianceShotgun.label>M-23 Katana</RE_Gun_AllianceShotgun.label>
+	
+	<!-- EN: Hydra Shotgun -->
+	<RE_Gun_AllianceChainShotgun.label>Hydra Shotgun</RE_Gun_AllianceChainShotgun.label>
+	
+	<!-- EN: M-3 Predator -->
+	<RE_Gun_AlliancePistol.label>M-3 Predator</RE_Gun_AlliancePistol.label>
+	
+	<!-- EN: M-5 Phalanx -->
+	<RE_Gun_AllianceHandcannon.label>M-5 Phalanx</RE_Gun_AllianceHandcannon.label>
+	
+	<!-- EN: ML-77 (single use) -->
+	<RE_Gun_AllianceRocketLauncher.label>ML-77 (single use)</RE_Gun_AllianceRocketLauncher.label>
+</LanguageData>

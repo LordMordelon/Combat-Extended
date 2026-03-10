@@ -1,0 +1,20 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\DevDesigner_Elves_DevDesigner_Elves_continued\AnimalDefs656.xml -->
+	<!-- EN: left hoof -->
+	<DevDesigner_AncientDeer.tools.0.label>left hoof</DevDesigner_AncientDeer.tools.0.label>
+	<!-- EN: right hoof -->
+	<DevDesigner_AncientDeer.tools.1.label>right hoof</DevDesigner_AncientDeer.tools.1.label>
+	<!-- EN: Teeth -->
+	<DevDesigner_AncientDeer.tools.2.label>Teeth</DevDesigner_AncientDeer.tools.2.label>
+	<!-- EN: head -->
+	<DevDesigner_AncientDeer.tools.3.label>head</DevDesigner_AncientDeer.tools.3.label>
+	
+	<!-- EN: venom-fangs -->
+	<DevDesigner_ColdOne.tools.0.label>venom-fangs</DevDesigner_ColdOne.tools.0.label>
+	<!-- EN: head -->
+	<DevDesigner_ColdOne.tools.1.label>head</DevDesigner_ColdOne.tools.1.label>
+	<!-- EN: left claw -->
+	<DevDesigner_ColdOne.tools.2.label>left claw</DevDesigner_ColdOne.tools.2.label>
+	<!-- EN: right claw -->
+	<DevDesigner_ColdOne.tools.3.label>right claw</DevDesigner_ColdOne.tools.3.label>
+</LanguageData>

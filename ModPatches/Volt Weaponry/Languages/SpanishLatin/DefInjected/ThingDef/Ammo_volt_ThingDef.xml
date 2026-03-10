@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- ModPatches\Volt Weaponry\Defs\Volt Weaponry\Ammo_volt.xml -->
+	<!-- EN: volt laser cell -->
+	<Ammo_VoltLaserCellPack.label>volt laser cell</Ammo_VoltLaserCellPack.label>
+	<!-- EN: A universal charge pack for various laser weapons. -->
+	<Ammo_VoltLaserCellPack.description>A universal charge pack for various laser weapons.</Ammo_VoltLaserCellPack.description>
+	<!-- EN: bullet -->
+	<Bullet_VoltLaserLow.label>bullet</Bullet_VoltLaserLow.label>
+	<!-- EN: bullet -->
+	<Bullet_VoltLaserMedium.label>bullet</Bullet_VoltLaserMedium.label>
+	<!-- EN: bullet -->
+	<Bullet_VoltLaserHeavy.label>bullet</Bullet_VoltLaserHeavy.label>
+	<!-- EN: bullet -->
+	<Bullet_VoltLaserShotgun.label>bullet</Bullet_VoltLaserShotgun.label>
+</LanguageData>

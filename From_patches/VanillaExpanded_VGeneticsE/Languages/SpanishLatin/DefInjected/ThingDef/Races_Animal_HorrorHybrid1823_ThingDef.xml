@@ -1,0 +1,53 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VGeneticsE\Races_Animal_HorrorHybrid1823.xml -->
+	<!-- EN: hooves -->
+	<GR_EldritchBear.tools.0.label>hooves</GR_EldritchBear.tools.0.label>
+	<!-- EN: tentacles -->
+	<GR_EldritchBear.tools.1.label>tentacles</GR_EldritchBear.tools.1.label>
+	<!-- EN: coiling tentacles -->
+	<GR_EldritchBear.tools.2.label>coiling tentacles</GR_EldritchBear.tools.2.label>
+	<!-- EN: maw -->
+	<GR_EldritchBear.tools.3.label>maw</GR_EldritchBear.tools.3.label>
+	
+	<!-- EN: amoebic tentacle -->
+	<GR_EldritchBoomalope.tools.0.label>amoebic tentacle</GR_EldritchBoomalope.tools.0.label>
+	<!-- EN: head -->
+	<GR_EldritchBoomalope.tools.1.label>head</GR_EldritchBoomalope.tools.1.label>
+	
+	<!-- EN: overwhelming mind -->
+	<GR_EldritchChicken.tools.0.label>overwhelming mind</GR_EldritchChicken.tools.0.label>
+	<!-- EN: head -->
+	<GR_EldritchChicken.tools.1.label>head</GR_EldritchChicken.tools.1.label>
+	
+	<!-- EN: overwhelming mind -->
+	<GR_EldritchInsectoid.tools.0.label>overwhelming mind</GR_EldritchInsectoid.tools.0.label>
+	<!-- EN: grasping tentacles -->
+	<GR_EldritchInsectoid.tools.1.label>grasping tentacles</GR_EldritchInsectoid.tools.1.label>
+	<!-- EN: mandibles -->
+	<GR_EldritchInsectoid.tools.2.label>mandibles</GR_EldritchInsectoid.tools.2.label>
+	
+	<!-- EN: vampiric teeth -->
+	<GR_EldritchMuffalo.tools.0.label>vampiric teeth</GR_EldritchMuffalo.tools.0.label>
+	
+	<!-- EN: head -->
+	<GR_EldritchReptile.tools.1.label>head</GR_EldritchReptile.tools.1.label>
+	
+	<!-- EN: rending claws -->
+	<GR_EldritchThrumbo.tools.0.label>rending claws</GR_EldritchThrumbo.tools.0.label>
+	<!-- EN: mandibles -->
+	<GR_EldritchThrumbo.tools.1.label>mandibles</GR_EldritchThrumbo.tools.1.label>
+	<!-- EN: head -->
+	<GR_EldritchThrumbo.tools.2.label>head</GR_EldritchThrumbo.tools.2.label>
+	
+	<!-- EN: venomous fangs -->
+	<GR_EldritchWolf.tools.0.label>venomous fangs</GR_EldritchWolf.tools.0.label>
+	<!-- EN: claws -->
+	<GR_EldritchWolf.tools.1.label>claws</GR_EldritchWolf.tools.1.label>
+	
+	<!-- EN: left claw -->
+	<GR_Cathulhu.tools.0.label>left claw</GR_Cathulhu.tools.0.label>
+	<!-- EN: right claw -->
+	<GR_Cathulhu.tools.1.label>right claw</GR_Cathulhu.tools.1.label>
+	<!-- EN: head -->
+	<GR_Cathulhu.tools.3.label>head</GR_Cathulhu.tools.3.label>
+</LanguageData>

@@ -1,0 +1,22 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Grimworld_AstraMilitarum\CE_Patch_Pistols835.xml -->
+	<!-- EN: barrel -->
+	<GW_HOI_Gun_Kantraeldefender.tools.0.label>barrel</GW_HOI_Gun_Kantraeldefender.tools.0.label>
+	<!-- EN: grip -->
+	<GW_HOI_Gun_Kantraeldefender.tools.1.label>grip</GW_HOI_Gun_Kantraeldefender.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<GW_HOI_Gun_BoltPistol.tools.0.label>barrel</GW_HOI_Gun_BoltPistol.tools.0.label>
+	<!-- EN: grip -->
+	<GW_HOI_Gun_BoltPistol.tools.1.label>grip</GW_HOI_Gun_BoltPistol.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<GW_HOI_PlasmaPistol.tools.0.label>barrel</GW_HOI_PlasmaPistol.tools.0.label>
+	<!-- EN: grip -->
+	<GW_HOI_PlasmaPistol.tools.1.label>grip</GW_HOI_PlasmaPistol.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<GW_HOI_InfernoPistol.tools.0.label>barrel</GW_HOI_InfernoPistol.tools.0.label>
+	<!-- EN: grip -->
+	<GW_HOI_InfernoPistol.tools.1.label>grip</GW_HOI_InfernoPistol.tools.1.label>
+</LanguageData>

@@ -1,0 +1,37 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Ayameduki_HARXenoorca\Weapons1989.xml -->
+	<!-- EN: stock -->
+	<Gun_AssaultRifle_XO.tools.0.label>stock</Gun_AssaultRifle_XO.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_AssaultRifle_XO.tools.1.label>barrel</Gun_AssaultRifle_XO.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_AssaultRifle_XO.tools.2.label>muzzle</Gun_AssaultRifle_XO.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_SniperRifle_XO.tools.0.label>stock</Gun_SniperRifle_XO.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_SniperRifle_XO.tools.1.label>barrel</Gun_SniperRifle_XO.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_SniperRifle_XO.tools.2.label>muzzle</Gun_SniperRifle_XO.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_PumpShotgun_XO.tools.0.label>stock</Gun_PumpShotgun_XO.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_PumpShotgun_XO.tools.1.label>barrel</Gun_PumpShotgun_XO.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_PumpShotgun_XO.tools.2.label>muzzle</Gun_PumpShotgun_XO.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_ChargeRifle_XO.tools.0.label>stock</Gun_ChargeRifle_XO.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_ChargeRifle_XO.tools.1.label>barrel</Gun_ChargeRifle_XO.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_ChargeRifle_XO.tools.2.label>muzzle</Gun_ChargeRifle_XO.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<MeleeWeapon_Trident_XO.tools.0.label>shaft</MeleeWeapon_Trident_XO.tools.0.label>
+	<!-- EN: edge -->
+	<MeleeWeapon_Trident_XO.tools.1.label>edge</MeleeWeapon_Trident_XO.tools.1.label>
+	<!-- EN: point -->
+	<MeleeWeapon_Trident_XO.tools.2.label>point</MeleeWeapon_Trident_XO.tools.2.label>
+</LanguageData>

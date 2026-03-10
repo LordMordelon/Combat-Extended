@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- ModPatches\Rimcraft Weaponry\Defs\Rimcraft Weaponry\Ammo_WOW.xml -->
+	<!-- EN: great arrow (stone) -->
+	<Projectile_GreatArrowWOW_Stone.label>great arrow (stone)</Projectile_GreatArrowWOW_Stone.label>
+	<!-- EN: great arrow (steel) -->
+	<Projectile_GreatArrowWOW_Steel.label>great arrow (steel)</Projectile_GreatArrowWOW_Steel.label>
+	<!-- EN: great arrow (plasteel) -->
+	<Projectile_GreatArrowWOW_Plasteel.label>great arrow (plasteel)</Projectile_GreatArrowWOW_Plasteel.label>
+	<!-- EN: great arrow (venom) -->
+	<Projectile_GreatArrowWOW_Venom.label>great arrow (venom)</Projectile_GreatArrowWOW_Venom.label>
+	<!-- EN: great arrow (flame) -->
+	<Projectile_GreatArrowWOW_Flame.label>great arrow (flame)</Projectile_GreatArrowWOW_Flame.label>
+</LanguageData>

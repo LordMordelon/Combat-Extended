@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Ryflamer_Rimcraft_Animals\CE_Wolves1492.xml -->
+	<!-- EN: left claw -->
+	<WoW_Animal_Direwolf.tools.0.label>left claw</WoW_Animal_Direwolf.tools.0.label>
+	<!-- EN: right claw -->
+	<WoW_Animal_Direwolf.tools.1.label>right claw</WoW_Animal_Direwolf.tools.1.label>
+	<!-- EN: head -->
+	<WoW_Animal_Direwolf.tools.3.label>head</WoW_Animal_Direwolf.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<WoW_Animal_Frostwolf.tools.0.label>left claw</WoW_Animal_Frostwolf.tools.0.label>
+	<!-- EN: right claw -->
+	<WoW_Animal_Frostwolf.tools.1.label>right claw</WoW_Animal_Frostwolf.tools.1.label>
+	<!-- EN: head -->
+	<WoW_Animal_Frostwolf.tools.3.label>head</WoW_Animal_Frostwolf.tools.3.label>
+</LanguageData>

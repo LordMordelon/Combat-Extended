@@ -1,0 +1,102 @@
+<LanguageData>
+	<!-- ModPatches\Rimsenal Enhanced Vanilla\Defs\Rimsenal Enhanced Vanilla\Ammo_EnhancedVanilla.xml -->
+	<!-- EN: emp blast -->
+	<EMP_Blast.label>emp blast</EMP_Blast.label>
+	
+	<!-- EN: club -->
+	<Club_Thrown.label>club</Club_Thrown.label>
+	
+	<!-- EN: axe -->
+	<Axe_Thrown.label>axe</Axe_Thrown.label>
+	
+	<!-- EN: compound arrow -->
+	<Ammo_CompoundArrow_Broadhead.label>compound arrow</Ammo_CompoundArrow_Broadhead.label>
+	<!-- EN: Modern arrows with a strong carbon shaft, designed to be fired from a powerful compound bow. -->
+	<Ammo_CompoundArrow_Broadhead.description>Modern arrows with a strong carbon shaft, designed to be fired from a powerful compound bow.</Ammo_CompoundArrow_Broadhead.description>
+	
+	<!-- EN: compound arrow -->
+	<Projectile_CompoundArrow_Broadhead.label>compound arrow</Projectile_CompoundArrow_Broadhead.label>
+	
+	<!-- EN: concussion bolt -->
+	<Bullet_30x64mmFuel_RSThump.label>concussion bolt</Bullet_30x64mmFuel_RSThump.label>
+	
+	<!-- EN: 25mm Rocket (HE) -->
+	<Ammo_25mmRocket_HE.label>25mm Rocket (HE)</Ammo_25mmRocket_HE.label>
+	<!-- EN: Dumbfire micro-rockets. -->
+	<Ammo_25mmRocket_HE.description>Dumbfire micro-rockets.</Ammo_25mmRocket_HE.description>
+	
+	<!-- EN: 25mm Rocket (HE Time-Fuzed) -->
+	<Ammo_25mmRocket_HE_TFuzed.label>25mm Rocket (HE Time-Fuzed)</Ammo_25mmRocket_HE_TFuzed.label>
+	<!-- EN: Dumbfire micro-rockets. -->
+	<Ammo_25mmRocket_HE_TFuzed.description>Dumbfire micro-rockets.</Ammo_25mmRocket_HE_TFuzed.description>
+	
+	<!-- EN: 25mm Rocket (HEDP) -->
+	<Ammo_25mmRocket_HEDP.label>25mm Rocket (HEDP)</Ammo_25mmRocket_HEDP.label>
+	<!-- EN: Dumbfire micro-rockets. -->
+	<Ammo_25mmRocket_HEDP.description>Dumbfire micro-rockets.</Ammo_25mmRocket_HEDP.description>
+	
+	<!-- EN: 25mm Rocket (EMP) -->
+	<Ammo_25mmRocket_EMP.label>25mm Rocket (EMP)</Ammo_25mmRocket_EMP.label>
+	<!-- EN: Dumbfire micro-rockets. -->
+	<Ammo_25mmRocket_EMP.description>Dumbfire micro-rockets.</Ammo_25mmRocket_EMP.description>
+	
+	<!-- EN: 25mm Rocket (Smoke) -->
+	<Ammo_25mmRocket_Smoke.label>25mm Rocket (Smoke)</Ammo_25mmRocket_Smoke.label>
+	<!-- EN: Dumbfire micro-rockets. -->
+	<Ammo_25mmRocket_Smoke.description>Dumbfire micro-rockets.</Ammo_25mmRocket_Smoke.description>
+	
+	<!-- EN: 25mm Rocket -->
+	<Bullet_25mmRocket_HE.label>25mm Rocket</Bullet_25mmRocket_HE.label>
+	
+	<!-- EN: 25mm Rocket (HE Time-Fuzed) -->
+	<Bullet_25mmRocket_HE_TFuzed.label>25mm Rocket (HE Time-Fuzed)</Bullet_25mmRocket_HE_TFuzed.label>
+	
+	<!-- EN: 25mm Rocket -->
+	<Bullet_25mmRocket_HEDP.label>25mm Rocket</Bullet_25mmRocket_HEDP.label>
+	
+	<!-- EN: 25mm Rocket -->
+	<Bullet_25mmRocket_EMP.label>25mm Rocket</Bullet_25mmRocket_EMP.label>
+	
+	<!-- EN: 25mm Rocket (Smoke) -->
+	<Bullet_25mmRocket_Smoke.label>25mm Rocket (Smoke)</Bullet_25mmRocket_Smoke.label>
+	
+	<!-- EN: 40mm Rocket (HE) -->
+	<Ammo_40mmRocket_HE.label>40mm Rocket (HE)</Ammo_40mmRocket_HE.label>
+	<!-- EN: Dumbfire micro-rockets. -->
+	<Ammo_40mmRocket_HE.description>Dumbfire micro-rockets.</Ammo_40mmRocket_HE.description>
+	
+	<!-- EN: 40mm Rocket (HE Time-Fuzed) -->
+	<Ammo_40mmRocket_HE_TFuzed.label>40mm Rocket (HE Time-Fuzed)</Ammo_40mmRocket_HE_TFuzed.label>
+	<!-- EN: Dumbfire micro-rockets. -->
+	<Ammo_40mmRocket_HE_TFuzed.description>Dumbfire micro-rockets.</Ammo_40mmRocket_HE_TFuzed.description>
+	
+	<!-- EN: 40mm Rocket (HEDP) -->
+	<Ammo_40mmRocket_HEDP.label>40mm Rocket (HEDP)</Ammo_40mmRocket_HEDP.label>
+	<!-- EN: Dumbfire micro-rockets. -->
+	<Ammo_40mmRocket_HEDP.description>Dumbfire micro-rockets.</Ammo_40mmRocket_HEDP.description>
+	
+	<!-- EN: 40mm Rocket (EMP) -->
+	<Ammo_40mmRocket_EMP.label>40mm Rocket (EMP)</Ammo_40mmRocket_EMP.label>
+	<!-- EN: Dumbfire micro-rockets. -->
+	<Ammo_40mmRocket_EMP.description>Dumbfire micro-rockets.</Ammo_40mmRocket_EMP.description>
+	
+	<!-- EN: 40mm Rocket (Smoke) -->
+	<Ammo_40mmRocket_Smoke.label>40mm Rocket (Smoke)</Ammo_40mmRocket_Smoke.label>
+	<!-- EN: Dumbfire micro-rockets. -->
+	<Ammo_40mmRocket_Smoke.description>Dumbfire micro-rockets.</Ammo_40mmRocket_Smoke.description>
+	
+	<!-- EN: 40mm Rocket -->
+	<Bullet_40mmRocket_HE.label>40mm Rocket</Bullet_40mmRocket_HE.label>
+	
+	<!-- EN: 40mm Rocket (HE Time-Fuzed) -->
+	<Bullet_40mmRocket_HE_TFuzed.label>40mm Rocket (HE Time-Fuzed)</Bullet_40mmRocket_HE_TFuzed.label>
+	
+	<!-- EN: 40mm Rocket -->
+	<Bullet_40mmRocket_HEDP.label>40mm Rocket</Bullet_40mmRocket_HEDP.label>
+	
+	<!-- EN: 40mm Rocket -->
+	<Bullet_40mmRocket_EMP.label>40mm Rocket</Bullet_40mmRocket_EMP.label>
+	
+	<!-- EN: 40mm Rocket (Smoke) -->
+	<Bullet_40mmRocket_Smoke.label>40mm Rocket (Smoke)</Bullet_40mmRocket_Smoke.label>
+</LanguageData>

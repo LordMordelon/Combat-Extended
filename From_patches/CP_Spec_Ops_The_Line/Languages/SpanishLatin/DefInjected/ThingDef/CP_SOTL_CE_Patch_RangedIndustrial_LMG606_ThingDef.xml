@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\CP_Spec_Ops_The_Line\CP_SOTL_CE_Patch_RangedIndustrial_LMG606.xml -->
+	<!-- EN: stock -->
+	<RNGun_M249LMG.tools.0.label>stock</RNGun_M249LMG.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_M249LMG.tools.1.label>barrel</RNGun_M249LMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_M249LMG.tools.2.label>muzzle</RNGun_M249LMG.tools.2.label>
+</LanguageData>

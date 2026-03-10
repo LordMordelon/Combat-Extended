@@ -1,0 +1,97 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Outremer_Epona\Weapons740.xml -->
+	<!-- EN: handle -->
+	<Epona_SwordDirk.tools.0.label>handle</Epona_SwordDirk.tools.0.label>
+	<!-- EN: blade -->
+	<Epona_SwordDirk.tools.1.label>blade</Epona_SwordDirk.tools.1.label>
+	<!-- EN: point -->
+	<Epona_SwordDirk.tools.2.label>point</Epona_SwordDirk.tools.2.label>
+	
+	<!-- EN: handle -->
+	<Epona_SwordFalchion.tools.0.label>handle</Epona_SwordFalchion.tools.0.label>
+	<!-- EN: point -->
+	<Epona_SwordFalchion.tools.1.label>point</Epona_SwordFalchion.tools.1.label>
+	<!-- EN: edge -->
+	<Epona_SwordFalchion.tools.2.label>edge</Epona_SwordFalchion.tools.2.label>
+	
+	<!-- EN: handle -->
+	<Epona_SwordSabre.tools.0.label>handle</Epona_SwordSabre.tools.0.label>
+	<!-- EN: point -->
+	<Epona_SwordSabre.tools.1.label>point</Epona_SwordSabre.tools.1.label>
+	<!-- EN: edge -->
+	<Epona_SwordSabre.tools.2.label>edge</Epona_SwordSabre.tools.2.label>
+	
+	<!-- EN: handle -->
+	<Epona_SwordClaymore.tools.0.label>handle</Epona_SwordClaymore.tools.0.label>
+	<!-- EN: point -->
+	<Epona_SwordClaymore.tools.1.label>point</Epona_SwordClaymore.tools.1.label>
+	<!-- EN: edge -->
+	<Epona_SwordClaymore.tools.2.label>edge</Epona_SwordClaymore.tools.2.label>
+	
+	<!-- EN: handle -->
+	<Epona_AxeDaneAxe.tools.0.label>handle</Epona_AxeDaneAxe.tools.0.label>
+	<!-- EN: edge -->
+	<Epona_AxeDaneAxe.tools.1.label>edge</Epona_AxeDaneAxe.tools.1.label>
+	
+	<!-- EN: shaft -->
+	<Epona_EponaAxeHoly.tools.0.label>shaft</Epona_EponaAxeHoly.tools.0.label>
+	<!-- EN: edge -->
+	<Epona_EponaAxeHoly.tools.1.label>edge</Epona_EponaAxeHoly.tools.1.label>
+	<!-- EN: point -->
+	<Epona_EponaAxeHoly.tools.2.label>point</Epona_EponaAxeHoly.tools.2.label>
+	
+	<!-- EN: point -->
+	<Epona_Lance.tools.0.label>point</Epona_Lance.tools.0.label>
+	
+	<!-- EN: stock -->
+	<Epona_CourserRailgun.tools.0.label>stock</Epona_CourserRailgun.tools.0.label>
+	<!-- EN: barrel -->
+	<Epona_CourserRailgun.tools.1.label>barrel</Epona_CourserRailgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<Epona_CourserRailgun.tools.2.label>muzzle</Epona_CourserRailgun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Epona_DestrierTacticalMachinegun.tools.0.label>stock</Epona_DestrierTacticalMachinegun.tools.0.label>
+	<!-- EN: barrel -->
+	<Epona_DestrierTacticalMachinegun.tools.1.label>barrel</Epona_DestrierTacticalMachinegun.tools.1.label>
+	<!-- EN: muzzle -->
+	<Epona_DestrierTacticalMachinegun.tools.2.label>muzzle</Epona_DestrierTacticalMachinegun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Epona_ZebraShotgunExplosive.tools.0.label>stock</Epona_ZebraShotgunExplosive.tools.0.label>
+	<!-- EN: barrel -->
+	<Epona_ZebraShotgunExplosive.tools.1.label>barrel</Epona_ZebraShotgunExplosive.tools.1.label>
+	<!-- EN: muzzle -->
+	<Epona_ZebraShotgunExplosive.tools.2.label>muzzle</Epona_ZebraShotgunExplosive.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Epona_ZebraShotgun.tools.0.label>stock</Epona_ZebraShotgun.tools.0.label>
+	<!-- EN: barrel -->
+	<Epona_ZebraShotgun.tools.1.label>barrel</Epona_ZebraShotgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<Epona_ZebraShotgun.tools.2.label>muzzle</Epona_ZebraShotgun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Epona_PonyRifle.tools.0.label>stock</Epona_PonyRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Epona_PonyRifle.tools.1.label>barrel</Epona_PonyRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Epona_PonyRifle.tools.2.label>muzzle</Epona_PonyRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Epona_PonyShotgun.tools.0.label>stock</Epona_PonyShotgun.tools.0.label>
+	<!-- EN: barrel -->
+	<Epona_PonyShotgun.tools.1.label>barrel</Epona_PonyShotgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<Epona_PonyShotgun.tools.2.label>muzzle</Epona_PonyShotgun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Epona_ColtTacticalRifle.tools.0.label>stock</Epona_ColtTacticalRifle.tools.0.label>
+	<!-- EN: point -->
+	<Epona_ColtTacticalRifle.tools.1.label>point</Epona_ColtTacticalRifle.tools.1.label>
+	
+	<!-- EN: stock -->
+	<Epona_NuckelaveeShotgun.tools.0.label>stock</Epona_NuckelaveeShotgun.tools.0.label>
+	<!-- EN: point -->
+	<Epona_NuckelaveeShotgun.tools.1.label>point</Epona_NuckelaveeShotgun.tools.1.label>
+</LanguageData>

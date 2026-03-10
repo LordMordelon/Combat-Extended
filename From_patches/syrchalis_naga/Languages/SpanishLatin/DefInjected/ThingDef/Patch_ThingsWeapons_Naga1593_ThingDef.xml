@@ -1,0 +1,35 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\syrchalis_naga\Patch_ThingsWeapons_Naga1593.xml -->
+	<!-- EN: stock -->
+	<Gun_NagaSMG.tools.0.label>stock</Gun_NagaSMG.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_NagaSMG.tools.1.label>barrel</Gun_NagaSMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_NagaSMG.tools.2.label>muzzle</Gun_NagaSMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_NagaShotgun.tools.0.label>stock</Gun_NagaShotgun.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_NagaShotgun.tools.1.label>barrel</Gun_NagaShotgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_NagaShotgun.tools.2.label>muzzle</Gun_NagaShotgun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_NagaRifle.tools.0.label>stock</Gun_NagaRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_NagaRifle.tools.1.label>barrel</Gun_NagaRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_NagaRifle.tools.2.label>muzzle</Gun_NagaRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_NagaSniper.tools.0.label>stock</Gun_NagaSniper.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_NagaSniper.tools.1.label>barrel</Gun_NagaSniper.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_NagaSniper.tools.2.label>muzzle</Gun_NagaSniper.tools.2.label>
+	
+	<!-- EN: grip -->
+	<Gun_NagaRevolver.tools.0.label>grip</Gun_NagaRevolver.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_NagaRevolver.tools.1.label>muzzle</Gun_NagaRevolver.tools.1.label>
+</LanguageData>

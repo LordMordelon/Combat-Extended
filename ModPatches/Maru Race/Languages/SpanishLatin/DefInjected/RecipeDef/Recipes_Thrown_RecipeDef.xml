@@ -1,0 +1,65 @@
+<LanguageData>
+	<!-- ModPatches\Maru Race\Defs\Maru Race\Recipes_Thrown.xml -->
+	<!-- EN: make hand axe x10 -->
+	<Make_MR_HA_O.label>make hand axe x10</Make_MR_HA_O.label>
+	<!-- EN: Craft 10 hand axes. -->
+	<Make_MR_HA_O.description>Craft 10 hand axes.</Make_MR_HA_O.description>
+	<!-- EN: Making hand axes. -->
+	<Make_MR_HA_O.jobString>Making hand axes.</Make_MR_HA_O.jobString>
+	
+	<!-- EN: mod hand axe x10 (delay) -->
+	<Make_MR_HA_AO.label>mod hand axe x10 (delay)</Make_MR_HA_AO.label>
+	<!-- EN: Modify 10 hand axes with delay configuration. -->
+	<Make_MR_HA_AO.description>Modify 10 hand axes with delay configuration.</Make_MR_HA_AO.description>
+	<!-- EN: Modifying hand axes. -->
+	<Make_MR_HA_AO.jobString>Modifying hand axes.</Make_MR_HA_AO.jobString>
+	
+	<!-- EN: mod hand axe x10 (throwing) -->
+	<Make_MR_HA_AT.label>mod hand axe x10 (throwing)</Make_MR_HA_AT.label>
+	<!-- EN: Modify 10 hand axes with throwing configuration. -->
+	<Make_MR_HA_AT.description>Modify 10 hand axes with throwing configuration.</Make_MR_HA_AT.description>
+	<!-- EN: Modifying hand axes. -->
+	<Make_MR_HA_AT.jobString>Modifying hand axes.</Make_MR_HA_AT.jobString>
+	
+	<!-- EN: mod hand axe x10 (Tracking) -->
+	<Make_MR_HA_BO.label>mod hand axe x10 (Tracking)</Make_MR_HA_BO.label>
+	<!-- EN: Modify 10 hand axes with tracking configuration. -->
+	<Make_MR_HA_BO.description>Modify 10 hand axes with tracking configuration.</Make_MR_HA_BO.description>
+	<!-- EN: Modifying hand axes. -->
+	<Make_MR_HA_BO.jobString>Modifying hand axes.</Make_MR_HA_BO.jobString>
+	
+	<!-- EN: make whaling harpoon x10 -->
+	<Make_MR_WH_O.label>make whaling harpoon x10</Make_MR_WH_O.label>
+	<!-- EN: Craft 10 whaling harpoons. -->
+	<Make_MR_WH_O.description>Craft 10 whaling harpoons.</Make_MR_WH_O.description>
+	<!-- EN: Making whaling harpoons. -->
+	<Make_MR_WH_O.jobString>Making whaling harpoons.</Make_MR_WH_O.jobString>
+	
+	<!-- EN: mod whaling harpoon x10 (improvement) -->
+	<Make_MR_WH_AO.label>mod whaling harpoon x10 (improvement)</Make_MR_WH_AO.label>
+	<!-- EN: Modify 10 whaling harpoons with improvement configuration. -->
+	<Make_MR_WH_AO.description>Modify 10 whaling harpoons with improvement configuration.</Make_MR_WH_AO.description>
+	<!-- EN: Modifying whaling harpoons. -->
+	<Make_MR_WH_AO.jobString>Modifying whaling harpoons.</Make_MR_WH_AO.jobString>
+	
+	<!-- EN: mod whaling harpoon x10 (Abduct) -->
+	<Make_MR_WH_AT.label>mod whaling harpoon x10 (Abduct)</Make_MR_WH_AT.label>
+	<!-- EN: Modify 10 whaling harpoons with delay configuration. -->
+	<Make_MR_WH_AT.description>Modify 10 whaling harpoons with delay configuration.</Make_MR_WH_AT.description>
+	<!-- EN: Modifying whaling harpoons. -->
+	<Make_MR_WH_AT.jobString>Modifying whaling harpoons.</Make_MR_WH_AT.jobString>
+	
+	<!-- EN: mod whaling harpoon x10 (Internal Anti-Gravity) -->
+	<Make_MR_WH_BO.label>mod whaling harpoon x10 (Internal Anti-Gravity)</Make_MR_WH_BO.label>
+	<!-- EN: Modify 10 whaling harpoons with Internal Anti-Gravity configuration. -->
+	<Make_MR_WH_BO.description>Modify 10 whaling harpoons with Internal Anti-Gravity configuration.</Make_MR_WH_BO.description>
+	<!-- EN: Modifying whaling harpoons. -->
+	<Make_MR_WH_BO.jobString>Modifying whaling harpoons.</Make_MR_WH_BO.jobString>
+	
+	<!-- EN: mod whaling harpoon x10 (External Anti-Gravity ) -->
+	<Make_MR_WH_BT.label>mod whaling harpoon x10 (External Anti-Gravity )</Make_MR_WH_BT.label>
+	<!-- EN: Modify 10 whaling harpoons with a External Anti-Gravity configuration. -->
+	<Make_MR_WH_BT.description>Modify 10 whaling harpoons with a External Anti-Gravity configuration.</Make_MR_WH_BT.description>
+	<!-- EN: Modifying whaling harpoons. -->
+	<Make_MR_WH_BT.jobString>Modifying whaling harpoons.</Make_MR_WH_BT.jobString>
+</LanguageData>

@@ -1,0 +1,39 @@
+<LanguageData>
+	<!-- ModPatches\Outer Rim - Core\Defs\Outer Rim - Core\Outer_Rim_Core_Ammo.xml -->
+	<!-- EN: make RPS-6/HH-12 rockets x5 -->
+	<MakeAmmo_RPS6_HEDP.label>make RPS-6/HH-12 rockets x5</MakeAmmo_RPS6_HEDP.label>
+	<!-- EN: Craft 5 RPS-6/HH-12 rockets. -->
+	<MakeAmmo_RPS6_HEDP.description>Craft 5 RPS-6/HH-12 rockets.</MakeAmmo_RPS6_HEDP.description>
+	<!-- EN: Making RPS-6/HH-12 rockets. -->
+	<MakeAmmo_RPS6_HEDP.jobString>Making RPS-6/HH-12 rockets.</MakeAmmo_RPS6_HEDP.jobString>
+	<!-- EN: make mini-rockets x5 -->
+	<MakeAmmo_OR_MiniRocket_Standard.label>make mini-rockets x5</MakeAmmo_OR_MiniRocket_Standard.label>
+	<!-- EN: Craft 5 mini-rockets. -->
+	<MakeAmmo_OR_MiniRocket_Standard.description>Craft 5 mini-rockets.</MakeAmmo_OR_MiniRocket_Standard.description>
+	<!-- EN: Making mini-rockets. -->
+	<MakeAmmo_OR_MiniRocket_Standard.jobString>Making mini-rockets.</MakeAmmo_OR_MiniRocket_Standard.jobString>
+	<!-- EN: make Plasma Gas Cartridges x500 -->
+	<MakeAmmo_PlasmaGasCartridge_Standard.label>make Plasma Gas Cartridges x500</MakeAmmo_PlasmaGasCartridge_Standard.label>
+	<!-- EN: Craft 500 Standard Plasma Gas Cartridges. -->
+	<MakeAmmo_PlasmaGasCartridge_Standard.description>Craft 500 Standard Plasma Gas Cartridges.</MakeAmmo_PlasmaGasCartridge_Standard.description>
+	<!-- EN: Making Plasma Gas Cartridges. -->
+	<MakeAmmo_PlasmaGasCartridge_Standard.jobString>Making Plasma Gas Cartridges.</MakeAmmo_PlasmaGasCartridge_Standard.jobString>
+	<!-- EN: make Plasma Gas Cartridges (AP) x500 -->
+	<MakeAmmo_PlasmaGasCartridge_AP.label>make Plasma Gas Cartridges (AP) x500</MakeAmmo_PlasmaGasCartridge_AP.label>
+	<!-- EN: Craft 500 Plasma Gas Cartridges (AP). -->
+	<MakeAmmo_PlasmaGasCartridge_AP.description>Craft 500 Plasma Gas Cartridges (AP).</MakeAmmo_PlasmaGasCartridge_AP.description>
+	<!-- EN: Making Plasma Gas Cartridges (AP). -->
+	<MakeAmmo_PlasmaGasCartridge_AP.jobString>Making Plasma Gas Cartridges (AP).</MakeAmmo_PlasmaGasCartridge_AP.jobString>
+	<!-- EN: make Plasma Gas Cartridges (Ion) x500 -->
+	<MakeAmmo_PlasmaGasCartridge_Ion.label>make Plasma Gas Cartridges (Ion) x500</MakeAmmo_PlasmaGasCartridge_Ion.label>
+	<!-- EN: Craft 500 PlasmaGas Cartridges (Ion). -->
+	<MakeAmmo_PlasmaGasCartridge_Ion.description>Craft 500 PlasmaGas Cartridges (Ion).</MakeAmmo_PlasmaGasCartridge_Ion.description>
+	<!-- EN: Making Plasma Gas Cartridges (Ion). -->
+	<MakeAmmo_PlasmaGasCartridge_Ion.jobString>Making Plasma Gas Cartridges (Ion).</MakeAmmo_PlasmaGasCartridge_Ion.jobString>
+	<!-- EN: make Plasma Gas Cartridges (Stun) x500 -->
+	<MakeAmmo_PlasmaGasCartridge_Stun.label>make Plasma Gas Cartridges (Stun) x500</MakeAmmo_PlasmaGasCartridge_Stun.label>
+	<!-- EN: Craft 500 PlasmaGas Cartridges (Stun). -->
+	<MakeAmmo_PlasmaGasCartridge_Stun.description>Craft 500 PlasmaGas Cartridges (Stun).</MakeAmmo_PlasmaGasCartridge_Stun.description>
+	<!-- EN: Making Plasma Gas Cartridges (Stun). -->
+	<MakeAmmo_PlasmaGasCartridge_Stun.jobString>Making Plasma Gas Cartridges (Stun).</MakeAmmo_PlasmaGasCartridge_Stun.jobString>
+</LanguageData>

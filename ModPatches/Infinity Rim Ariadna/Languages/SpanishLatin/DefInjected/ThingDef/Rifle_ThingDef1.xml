@@ -1,0 +1,29 @@
+<LanguageData>
+	<!-- ModPatches\Infinity Rim Ariadna\Defs\Infinity Rim Ariadna\Ammo\Rifle.xml -->
+	
+	<!-- EN: 5.45x39mm Soviet cartridge (Teseum) -->
+	<Ammo_545x39mmSoviet_Teseum.label>5.45x39mm Soviet cartridge (Teseum)</Ammo_545x39mmSoviet_Teseum.label>
+	<!-- EN: Small, high-velocity rifle bullet used in a variety of assault rifles. -->
+	<Ammo_545x39mmSoviet_Teseum.description>Small, high-velocity rifle bullet used in a variety of assault rifles.</Ammo_545x39mmSoviet_Teseum.description>
+	
+	<!-- EN: intermediate rifle cartridge (Teseum) -->
+	<Ammo_RifleIntermediate_Teseum.label>intermediate rifle cartridge (Teseum)</Ammo_RifleIntermediate_Teseum.label>
+	<!-- EN: Intermediate power rifle ammunition, used mainly by assault rifles. -->
+	<Ammo_RifleIntermediate_Teseum.description>Intermediate power rifle ammunition, used mainly by assault rifles.</Ammo_RifleIntermediate_Teseum.description>
+	
+	<!-- EN: 5.45mm Soviet bullet (Teseum) -->
+	<Bullet_545x39mmSoviet_Teseum.label>5.45mm Soviet bullet (Teseum)</Bullet_545x39mmSoviet_Teseum.label>
+	
+	<!-- EN: 7.62x54mmR cartridge (Teseum) -->
+	<Ammo_762x54mmR_Teseum.label>7.62x54mmR cartridge (Teseum)</Ammo_762x54mmR_Teseum.label>
+	<!-- EN: Rimmed rifle cartridge used by numerous machine guns, bolt-action rifles, and other weapons. -->
+	<Ammo_762x54mmR_Teseum.description>Rimmed rifle cartridge used by numerous machine guns, bolt-action rifles, and other weapons.</Ammo_762x54mmR_Teseum.description>
+	
+	<!-- EN: rifle cartridge (Teseum) -->
+	<Ammo_Rifle_Teseum.label>rifle cartridge (Teseum)</Ammo_Rifle_Teseum.label>
+	<!-- EN: Large rifle bullet used in machine guns, sniper rifles and battle rifles. -->
+	<Ammo_Rifle_Teseum.description>Large rifle bullet used in machine guns, sniper rifles and battle rifles.</Ammo_Rifle_Teseum.description>
+	
+	<!-- EN: 7.62mmR bullet (Teseum) -->
+	<Bullet_762x54mmR_Teseum.label>7.62mmR bullet (Teseum)</Bullet_762x54mmR_Teseum.label>
+</LanguageData>

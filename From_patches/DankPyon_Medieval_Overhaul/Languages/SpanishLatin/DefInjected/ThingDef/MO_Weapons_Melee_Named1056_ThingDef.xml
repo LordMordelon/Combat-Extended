@@ -1,0 +1,33 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\DankPyon_Medieval_Overhaul\MO_Weapons_Melee_Named1056.xml -->
+	<!-- EN: handle -->
+	<DankPyon_MeleeWeapon_NamedGreatsword.tools.0.label>handle</DankPyon_MeleeWeapon_NamedGreatsword.tools.0.label>
+	<!-- EN: point -->
+	<DankPyon_MeleeWeapon_NamedGreatsword.tools.1.label>point</DankPyon_MeleeWeapon_NamedGreatsword.tools.1.label>
+	<!-- EN: edge -->
+	<DankPyon_MeleeWeapon_NamedGreatsword.tools.2.label>edge</DankPyon_MeleeWeapon_NamedGreatsword.tools.2.label>
+	
+	<!-- EN: handle -->
+	<DankPyon_MeleeWeapon_NamedTwoHandedFlangedMace.tools.0.label>handle</DankPyon_MeleeWeapon_NamedTwoHandedFlangedMace.tools.0.label>
+	<!-- EN: head -->
+	<DankPyon_MeleeWeapon_NamedTwoHandedFlangedMace.tools.1.label>head</DankPyon_MeleeWeapon_NamedTwoHandedFlangedMace.tools.1.label>
+	
+	<!-- EN: shaft -->
+	<DankPyon_MeleeWeapon_NamedGreataxe.tools.0.label>shaft</DankPyon_MeleeWeapon_NamedGreataxe.tools.0.label>
+	<!-- EN: head -->
+	<DankPyon_MeleeWeapon_NamedGreataxe.tools.1.label>head</DankPyon_MeleeWeapon_NamedGreataxe.tools.1.label>
+	<!-- EN: edge -->
+	<DankPyon_MeleeWeapon_NamedGreataxe.tools.2.label>edge</DankPyon_MeleeWeapon_NamedGreataxe.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<DankPyon_MeleeWeapon_NamedTwoHandedHammer.tools.0.label>shaft</DankPyon_MeleeWeapon_NamedTwoHandedHammer.tools.0.label>
+	<!-- EN: head -->
+	<DankPyon_MeleeWeapon_NamedTwoHandedHammer.tools.1.label>head</DankPyon_MeleeWeapon_NamedTwoHandedHammer.tools.1.label>
+	
+	<!-- EN: shaft -->
+	<DankPyon_MeleeWeapon_NamedHalberd.tools.0.label>shaft</DankPyon_MeleeWeapon_NamedHalberd.tools.0.label>
+	<!-- EN: edge -->
+	<DankPyon_MeleeWeapon_NamedHalberd.tools.1.label>edge</DankPyon_MeleeWeapon_NamedHalberd.tools.1.label>
+	<!-- EN: point -->
+	<DankPyon_MeleeWeapon_NamedHalberd.tools.2.label>point</DankPyon_MeleeWeapon_NamedHalberd.tools.2.label>
+</LanguageData>

@@ -1,0 +1,12 @@
+<LanguageData>
+	<!-- ModPatches\Archotech Weaponry\Defs\Archotech Weaponry\ArchoDamageDefs.xml -->
+	<!-- EN: archonanites (non-lethal) -->
+	<CE_ArchoNL.label>archonanites (non-lethal)</CE_ArchoNL.label>
+	<!-- EN: {0} has been shot to death. -->
+	<CE_ArchoNL.deathMessage>{0} has been shot to death.</CE_ArchoNL.deathMessage>
+	
+	<!-- EN: archonanites (lethal) -->
+	<CE_ArchoL.label>archonanites (lethal)</CE_ArchoL.label>
+	<!-- EN: {0} has been shot to death. -->
+	<CE_ArchoL.deathMessage>{0} has been shot to death.</CE_ArchoL.deathMessage>
+</LanguageData>

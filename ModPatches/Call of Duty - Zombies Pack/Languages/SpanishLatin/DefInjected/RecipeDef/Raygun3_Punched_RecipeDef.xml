@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Rayguns\Raygun3_Punched.xml -->
+	<!-- EN: make Eris cartridge x50 -->
+	<MakeAmmo_Raygun_three_Punched.label>make Eris cartridge x50</MakeAmmo_Raygun_three_Punched.label>
+	<!-- EN: Craft 50 Eris cartridges. -->
+	<MakeAmmo_Raygun_three_Punched.description>Craft 50 Eris cartridges.</MakeAmmo_Raygun_three_Punched.description>
+	<!-- EN: Making Eris cartridges. -->
+	<MakeAmmo_Raygun_three_Punched.jobString>Making Eris cartridges.</MakeAmmo_Raygun_three_Punched.jobString>
+</LanguageData>

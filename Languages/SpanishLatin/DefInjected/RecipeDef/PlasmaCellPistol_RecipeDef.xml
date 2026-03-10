@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Defs\Ammo\Advanced\PlasmaCellPistol.xml -->
+	<!-- EN: make Plasma Pistol Power Cells -->
+	<MakeAmmo_PlasmaCellPistol.label>make Plasma Pistol Power Cells</MakeAmmo_PlasmaCellPistol.label>
+	<!-- EN: Craft 500 shots' worth of Plasma Pistol Power Cells. -->
+	<MakeAmmo_PlasmaCellPistol.description>Craft 500 shots' worth of Plasma Pistol Power Cells.</MakeAmmo_PlasmaCellPistol.description>
+	<!-- EN: Making Plasma Pistol Power Cells. -->
+	<MakeAmmo_PlasmaCellPistol.jobString>Making Plasma Pistol Power Cells.</MakeAmmo_PlasmaCellPistol.jobString>
+</LanguageData>

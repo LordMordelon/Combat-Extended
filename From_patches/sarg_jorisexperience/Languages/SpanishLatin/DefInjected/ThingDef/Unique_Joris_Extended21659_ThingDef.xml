@@ -1,0 +1,77 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\sarg_jorisexperience\Unique_Joris_Extended21659.xml -->
+	<!-- EN: right claw -->
+	<JECom_JorisSiroj.tools.0.label>right claw</JECom_JorisSiroj.tools.0.label>
+	<!-- EN: right claw -->
+	<JECom_JorisSiroj.tools.1.label>right claw</JECom_JorisSiroj.tools.1.label>
+	<!-- EN: front teeth -->
+	<JECom_JorisSiroj.tools.2.label>front teeth</JECom_JorisSiroj.tools.2.label>
+	<!-- EN: rear teeth -->
+	<JECom_JorisSiroj.tools.3.label>rear teeth</JECom_JorisSiroj.tools.3.label>
+	<!-- EN: front head -->
+	<JECom_JorisSiroj.tools.4.label>front head</JECom_JorisSiroj.tools.4.label>
+	<!-- EN: rear head -->
+	<JECom_JorisSiroj.tools.5.label>rear head</JECom_JorisSiroj.tools.5.label>
+	
+	<!-- EN: left claw -->
+	<JE_JorrickLorge.tools.0.label>left claw</JE_JorrickLorge.tools.0.label>
+	<!-- EN: right claw -->
+	<JE_JorrickLorge.tools.1.label>right claw</JE_JorrickLorge.tools.1.label>
+	<!-- EN: head -->
+	<JE_JorrickLorge.tools.2.label>head</JE_JorrickLorge.tools.2.label>
+	
+	<!-- EN: left claw -->
+	<JECom_SuperJoris.tools.0.label>left claw</JECom_SuperJoris.tools.0.label>
+	<!-- EN: right claw -->
+	<JECom_SuperJoris.tools.1.label>right claw</JECom_SuperJoris.tools.1.label>
+	<!-- EN: head -->
+	<JECom_SuperJoris.tools.3.label>head</JECom_SuperJoris.tools.3.label>
+	
+	<!-- EN: Horn -->
+	<JE_FourLeggedUniJoris.tools.0.label>Horn</JE_FourLeggedUniJoris.tools.0.label>
+	<!-- EN: Horn -->
+	<JE_FourLeggedUniJoris.tools.1.label>Horn</JE_FourLeggedUniJoris.tools.1.label>
+	<!-- EN: left claw -->
+	<JE_FourLeggedUniJoris.tools.2.label>left claw</JE_FourLeggedUniJoris.tools.2.label>
+	<!-- EN: right claw -->
+	<JE_FourLeggedUniJoris.tools.3.label>right claw</JE_FourLeggedUniJoris.tools.3.label>
+	<!-- EN: head -->
+	<JE_FourLeggedUniJoris.tools.5.label>head</JE_FourLeggedUniJoris.tools.5.label>
+	
+	<!-- EN: left claw -->
+	<JECom_VoidJoris.tools.0.label>left claw</JECom_VoidJoris.tools.0.label>
+	<!-- EN: right claw -->
+	<JECom_VoidJoris.tools.1.label>right claw</JECom_VoidJoris.tools.1.label>
+	<!-- EN: head -->
+	<JECom_VoidJoris.tools.3.label>head</JECom_VoidJoris.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<JE_XorismorphQueen.tools.0.label>left claw</JE_XorismorphQueen.tools.0.label>
+	<!-- EN: right claw -->
+	<JE_XorismorphQueen.tools.1.label>right claw</JE_XorismorphQueen.tools.1.label>
+	<!-- EN: inner teeth -->
+	<JE_XorismorphQueen.tools.3.label>inner teeth</JE_XorismorphQueen.tools.3.label>
+	<!-- EN: head -->
+	<JE_XorismorphQueen.tools.4.label>head</JE_XorismorphQueen.tools.4.label>
+	
+	<!-- EN: left claw -->
+	<JE_YugiJohris.tools.0.label>left claw</JE_YugiJohris.tools.0.label>
+	<!-- EN: right claw -->
+	<JE_YugiJohris.tools.1.label>right claw</JE_YugiJohris.tools.1.label>
+	<!-- EN: head -->
+	<JE_YugiJohris.tools.3.label>head</JE_YugiJohris.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<JE_ZombieJoris.tools.0.label>left claw</JE_ZombieJoris.tools.0.label>
+	<!-- EN: right claw -->
+	<JE_ZombieJoris.tools.1.label>right claw</JE_ZombieJoris.tools.1.label>
+	<!-- EN: head -->
+	<JE_ZombieJoris.tools.3.label>head</JE_ZombieJoris.tools.3.label>
+	
+	<!-- EN: paintbrush -->
+	<JE_JoskarBontocki.tools.0.label>paintbrush</JE_JoskarBontocki.tools.0.label>
+	<!-- EN: paintbrush -->
+	<JE_JoskarBontocki.tools.1.label>paintbrush</JE_JoskarBontocki.tools.1.label>
+	<!-- EN: head -->
+	<JE_JoskarBontocki.tools.3.label>head</JE_JoskarBontocki.tools.3.label>
+</LanguageData>

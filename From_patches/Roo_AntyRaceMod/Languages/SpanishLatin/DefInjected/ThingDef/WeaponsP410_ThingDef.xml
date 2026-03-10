@@ -1,0 +1,39 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Roo_AntyRaceMod\WeaponsP410.xml -->
+	<!-- EN: Red Burst Line Rifle -->
+	<AT_hydroheliumion_B.label>Red Burst Line Rifle</AT_hydroheliumion_B.label>
+	<!-- EN: It is a weapon developed by Anties to deal with targets with thick armor or strong body itself, such as mechanoids.\n\n Unlike conventional acid weapons, it fires Red Burst, a compound of Anty-acid and Refleum, rather than Anty-acid. Exhibits powerful power. -->
+	<AT_hydroheliumion_B.description>It is a weapon developed by Anties to deal with targets with thick armor or strong body itself, such as mechanoids.\n\n Unlike conventional acid weapons, it fires Red Burst, a compound of Anty-acid and Refleum, rather than Anty-acid. Exhibits powerful power.</AT_hydroheliumion_B.description>
+	<!-- EN: ㅤ -->
+	<AT_hydroheliumion_B.verbs.0.label>ㅤ</AT_hydroheliumion_B.verbs.0.label>
+	<!-- EN: muzzle -->
+	<AT_hydroheliumion_B.tools.0.label>muzzle</AT_hydroheliumion_B.tools.0.label>
+	
+	<!-- EN: stock -->
+	<AT_hydroheliumion_A.tools.0.label>stock</AT_hydroheliumion_A.tools.0.label>
+	<!-- EN: barrel -->
+	<AT_hydroheliumion_A.tools.1.label>barrel</AT_hydroheliumion_A.tools.1.label>
+	<!-- EN: muzzle -->
+	<AT_hydroheliumion_A.tools.2.label>muzzle</AT_hydroheliumion_A.tools.2.label>
+	
+	<!-- EN: stock -->
+	<AT_hydroheliumion_C.tools.0.label>stock</AT_hydroheliumion_C.tools.0.label>
+	<!-- EN: barrel -->
+	<AT_hydroheliumion_C.tools.1.label>barrel</AT_hydroheliumion_C.tools.1.label>
+	<!-- EN: muzzle -->
+	<AT_hydroheliumion_C.tools.2.label>muzzle</AT_hydroheliumion_C.tools.2.label>
+	
+	<!-- EN: stock -->
+	<AT_Proty_spawner.tools.0.label>stock</AT_Proty_spawner.tools.0.label>
+	<!-- EN: barrel -->
+	<AT_Proty_spawner.tools.1.label>barrel</AT_Proty_spawner.tools.1.label>
+	<!-- EN: muzzle -->
+	<AT_Proty_spawner.tools.2.label>muzzle</AT_Proty_spawner.tools.2.label>
+	
+	<!-- EN: Point -->
+	<AT_RedHalberd.tools.0.label>Point</AT_RedHalberd.tools.0.label>
+	<!-- EN: Axe -->
+	<AT_RedHalberd.tools.1.label>Axe</AT_RedHalberd.tools.1.label>
+	<!-- EN: Hook -->
+	<AT_RedHalberd.tools.2.label>Hook</AT_RedHalberd.tools.2.label>
+</LanguageData>

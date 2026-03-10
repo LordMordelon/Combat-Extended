@@ -1,0 +1,72 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\RicoFox233_PTC_GFPack\GF_PTC_Ranged857.xml -->
+	<!-- EN: GF Type 95-1 PTC -->
+	<RFGun_Type95R.label>GF Type 95-1 PTC</RFGun_Type95R.label>
+	<!-- EN: stock -->
+	<RFGun_Type95R.tools.0.label>stock</RFGun_Type95R.tools.0.label>
+	<!-- EN: barrel -->
+	<RFGun_Type95R.tools.1.label>barrel</RFGun_Type95R.tools.1.label>
+	<!-- EN: muzzle -->
+	<RFGun_Type95R.tools.2.label>muzzle</RFGun_Type95R.tools.2.label>
+	
+	<!-- EN: GF Type 97 FTU PTC -->
+	<RFGun_Type97R.label>GF Type 97 FTU PTC</RFGun_Type97R.label>
+	<!-- EN: stock -->
+	<RFGun_Type97R.tools.0.label>stock</RFGun_Type97R.tools.0.label>
+	<!-- EN: barrel -->
+	<RFGun_Type97R.tools.1.label>barrel</RFGun_Type97R.tools.1.label>
+	<!-- EN: muzzle -->
+	<RFGun_Type97R.tools.2.label>muzzle</RFGun_Type97R.tools.2.label>
+	
+	<!-- EN: GF G36K PTC -->
+	<RFGun_G36K.label>GF G36K PTC</RFGun_G36K.label>
+	<!-- EN: stock -->
+	<RFGun_G36K.tools.0.label>stock</RFGun_G36K.tools.0.label>
+	<!-- EN: barrel -->
+	<RFGun_G36K.tools.1.label>barrel</RFGun_G36K.tools.1.label>
+	<!-- EN: muzzle -->
+	<RFGun_G36K.tools.2.label>muzzle</RFGun_G36K.tools.2.label>
+	
+	<!-- EN: GF MDRX 308 PTC -->
+	<RFGun_MDR.label>GF MDRX 308 PTC</RFGun_MDR.label>
+	<!-- EN: stock -->
+	<RFGun_MDR.tools.0.label>stock</RFGun_MDR.tools.0.label>
+	<!-- EN: barrel -->
+	<RFGun_MDR.tools.1.label>barrel</RFGun_MDR.tools.1.label>
+	<!-- EN: muzzle -->
+	<RFGun_MDR.tools.2.label>muzzle</RFGun_MDR.tools.2.label>
+	
+	<!-- EN: GF Springfield M1903A1 "C-Stock" PTC -->
+	<RFGun_Springfield.label>GF Springfield M1903A1 "C-Stock" PTC</RFGun_Springfield.label>
+	<!-- EN: stock -->
+	<RFGun_Springfield.tools.0.label>stock</RFGun_Springfield.tools.0.label>
+	<!-- EN: barrel -->
+	<RFGun_Springfield.tools.1.label>barrel</RFGun_Springfield.tools.1.label>
+	<!-- EN: muzzle -->
+	<RFGun_Springfield.tools.2.label>muzzle</RFGun_Springfield.tools.2.label>
+	
+	<!-- EN: GF WA2000 PTC -->
+	<RFGun_WA2000_SR.label>GF WA2000 PTC</RFGun_WA2000_SR.label>
+	<!-- EN: stock -->
+	<RFGun_WA2000_SR.tools.0.label>stock</RFGun_WA2000_SR.tools.0.label>
+	<!-- EN: barrel -->
+	<RFGun_WA2000_SR.tools.1.label>barrel</RFGun_WA2000_SR.tools.1.label>
+	<!-- EN: muzzle -->
+	<RFGun_WA2000_SR.tools.2.label>muzzle</RFGun_WA2000_SR.tools.2.label>
+	
+	<!-- EN: GF Vector Gen I PTC -->
+	<RFGun_Vector.label>GF Vector Gen I PTC</RFGun_Vector.label>
+	<!-- EN: stock -->
+	<RFGun_Vector.tools.0.label>stock</RFGun_Vector.tools.0.label>
+	<!-- EN: barrel -->
+	<RFGun_Vector.tools.1.label>barrel</RFGun_Vector.tools.1.label>
+	<!-- EN: muzzle -->
+	<RFGun_Vector.tools.2.label>muzzle</RFGun_Vector.tools.2.label>
+	
+	<!-- EN: GF PA-15 PTC -->
+	<RFGun_PA15_AP.label>GF PA-15 PTC</RFGun_PA15_AP.label>
+	<!-- EN: grip -->
+	<RFGun_PA15_AP.tools.0.label>grip</RFGun_PA15_AP.tools.0.label>
+	<!-- EN: muzzle -->
+	<RFGun_PA15_AP.tools.1.label>muzzle</RFGun_PA15_AP.tools.1.label>
+</LanguageData>

@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\CP The DOOM Kit - Classic\Defs\CP The DOOM Kit - Classic\CP_DOOM_KitClassic_CE_Patch_Ammo_ClassicEnergyCell.xml -->
+	<!-- EN: make UAC Energy Cells x100 shots -->
+	<MakeAmmo_DoomClassicEnergyCell.label>make UAC Energy Cells x100 shots</MakeAmmo_DoomClassicEnergyCell.label>
+	<!-- EN: Craft 100 shots' worth of UAC Energy Cells. -->
+	<MakeAmmo_DoomClassicEnergyCell.description>Craft 100 shots' worth of UAC Energy Cells.</MakeAmmo_DoomClassicEnergyCell.description>
+	<!-- EN: Making UAC Energy Cells. -->
+	<MakeAmmo_DoomClassicEnergyCell.jobString>Making UAC Energy Cells.</MakeAmmo_DoomClassicEnergyCell.jobString>
+</LanguageData>

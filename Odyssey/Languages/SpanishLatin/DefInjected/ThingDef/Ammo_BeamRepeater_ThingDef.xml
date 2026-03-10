@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Odyssey\Defs\Ammo_BeamRepeater.xml -->
+	<!-- EN: laser beam -->
+	<Bullet_Laser_BeamRepeater.label>laser beam</Bullet_Laser_BeamRepeater.label>
+	<!-- EN: laser beam -->
+	<Bullet_Laser_BeamRepeater_Mech.label>laser beam</Bullet_Laser_BeamRepeater_Mech.label>
+	<!-- EN: laser beam -->
+	<Bullet_Laser_Shotgun.label>laser beam</Bullet_Laser_Shotgun.label>
+</LanguageData>

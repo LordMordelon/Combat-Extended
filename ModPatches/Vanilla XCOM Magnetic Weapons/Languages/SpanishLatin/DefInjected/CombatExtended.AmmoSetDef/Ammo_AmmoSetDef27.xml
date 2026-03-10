@@ -1,0 +1,18 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla XCOM Magnetic Weapons\Defs\Vanilla XCOM Magnetic Weapons\Ammo.xml -->
+	
+	<!-- EN: 4mm Railgun -->
+	<AmmoSet_4mmRailgunXCOM.label>4mm Railgun</AmmoSet_4mmRailgunXCOM.label>
+	
+	<!-- EN: 6mm Railgun -->
+	<AmmoSet_6mmRailgunXCOM.label>6mm Railgun</AmmoSet_6mmRailgunXCOM.label>
+	
+	<!-- EN: 8mm Railgun -->
+	<AmmoSet_8mmRailgunXCOM.label>8mm Railgun</AmmoSet_8mmRailgunXCOM.label>
+	
+	<!-- EN: 12mm Railgun -->
+	<AmmoSet_12mmRailgunXCOM.label>12mm Railgun</AmmoSet_12mmRailgunXCOM.label>
+	
+	<!-- EN: 12 Gauge scatter railgun -->
+	<AmmoSet_ScatterRailgunXCOM.label>12 Gauge scatter railgun</AmmoSet_ScatterRailgunXCOM.label>
+</LanguageData>

@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\Possessed Weapons\Defs\Projectiles_Possesed.xml -->
+	<!-- EN: rock blast -->
+	<Projectile_EarthenGauntlet_RockBlast.label>rock blast</Projectile_EarthenGauntlet_RockBlast.label>
+	<!-- EN: shrouded dagger -->
+	<Projectile_ThrownShroudedDagger.label>shrouded dagger</Projectile_ThrownShroudedDagger.label>
+	<!-- EN: lightning javelin -->
+	<Projectile_ThrownPossessedLightningJavelin.label>lightning javelin</Projectile_ThrownPossessedLightningJavelin.label>
+	<!-- EN: archmage staff bolt -->
+	<Projectile_ArchmageStaffBolt.label>archmage staff bolt</Projectile_ArchmageStaffBolt.label>
+</LanguageData>

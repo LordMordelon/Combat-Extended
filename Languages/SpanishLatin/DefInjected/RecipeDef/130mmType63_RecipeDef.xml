@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Defs\Ammo\Rocket\130mmType63.xml -->
+	<!-- EN: make 130mm Type63 (HE) rockets x5 -->
+	<MakeAmmo_130mmType63_HE.label>make 130mm Type63 (HE) rockets x5</MakeAmmo_130mmType63_HE.label>
+	<!-- EN: Craft 5 130mm Type63 (HE) rockets. -->
+	<MakeAmmo_130mmType63_HE.description>Craft 5 130mm Type63 (HE) rockets.</MakeAmmo_130mmType63_HE.description>
+	<!-- EN: Making 130mm Type63 (HE) rockets. -->
+	<MakeAmmo_130mmType63_HE.jobString>Making 130mm Type63 (HE) rockets.</MakeAmmo_130mmType63_HE.jobString>
+</LanguageData>

@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Bori Race\Defs\Bori Race\Recipes_Bori.xml -->
+	<!-- EN: Craft 10 frag grenades -->
+	<Craft_10_BR_Grenade.label>Craft 10 frag grenades</Craft_10_BR_Grenade.label>
+	<!-- EN: Craft 10 frag grenades charges. -->
+	<Craft_10_BR_Grenade.description>Craft 10 frag grenades charges.</Craft_10_BR_Grenade.description>
+	<!-- EN: Crafting frag grenades -->
+	<Craft_10_BR_Grenade.jobString>Crafting frag grenades</Craft_10_BR_Grenade.jobString>
+</LanguageData>

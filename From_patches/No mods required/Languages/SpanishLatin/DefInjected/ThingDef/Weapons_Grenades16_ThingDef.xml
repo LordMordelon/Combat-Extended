@@ -1,0 +1,26 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Weapons_Grenades16.xml -->
+	<!-- EN: Body -->
+	<Weapon_GrenadeFrag.tools.0.label>Body</Weapon_GrenadeFrag.tools.0.label>
+	
+	<!-- EN: Body -->
+	<Weapon_GrenadeMolotov.tools.0.label>Body</Weapon_GrenadeMolotov.tools.0.label>
+	
+	<!-- EN: Body -->
+	<Weapon_GrenadeEMP.tools.0.label>Body</Weapon_GrenadeEMP.tools.0.label>
+	
+	<!-- EN: frag grenade -->
+	<Weapon_GrenadeFrag.label>frag grenade</Weapon_GrenadeFrag.label>
+	<!-- EN: throw frag grenade -->
+	<Weapon_GrenadeFrag.Properties.label>throw frag grenade</Weapon_GrenadeFrag.Properties.label>
+	
+	<!-- EN: Molotov cocktail -->
+	<Weapon_GrenadeMolotov.label>Molotov cocktail</Weapon_GrenadeMolotov.label>
+	<!-- EN: throw molotov -->
+	<Weapon_GrenadeMolotov.Properties.label>throw molotov</Weapon_GrenadeMolotov.Properties.label>
+	
+	<!-- EN: EMP grenade -->
+	<Weapon_GrenadeEMP.label>EMP grenade</Weapon_GrenadeEMP.label>
+	<!-- EN: throw EMP grenade -->
+	<Weapon_GrenadeEMP.Properties.label>throw EMP grenade</Weapon_GrenadeEMP.Properties.label>
+</LanguageData>

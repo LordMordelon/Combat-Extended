@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- ModPatches\Moyo from the depth\Defs\Moyo from the depth\Ammo_Moyo.xml -->
+	<!-- EN: Charged Ion Bolt -->
+	<MoyoBolt.label>Charged Ion Bolt</MoyoBolt.label>
+	<!-- EN: High velocity charged bolt. -->
+	<MoyoBolt.description>High velocity charged bolt.</MoyoBolt.description>
+	<!-- EN: Cryo Cell -->
+	<MoyoCryo.label>Cryo Cell</MoyoCryo.label>
+	<!-- EN: Cryo fuel cell. -->
+	<MoyoCryo.description>Cryo fuel cell.</MoyoCryo.description>
+	<!-- EN: Nail -->
+	<MoyoNail.label>Nail</MoyoNail.label>
+	<!-- EN: High velocity alloy nail. -->
+	<MoyoNail.description>High velocity alloy nail.</MoyoNail.description>
+</LanguageData>

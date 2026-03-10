@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Mlie_InfinityRimAriadna\Melee908.xml -->
+	<!-- EN: handle -->
+	<MeleeWeapon_APKnife.tools.0.label>handle</MeleeWeapon_APKnife.tools.0.label>
+	<!-- EN: blade -->
+	<MeleeWeapon_APKnife.tools.1.label>blade</MeleeWeapon_APKnife.tools.1.label>
+	<!-- EN: point -->
+	<MeleeWeapon_APKnife.tools.2.label>point</MeleeWeapon_APKnife.tools.2.label>
+	
+	<!-- EN: handle -->
+	<MeleeWeapon_APCCW.tools.0.label>handle</MeleeWeapon_APCCW.tools.0.label>
+	<!-- EN: edge -->
+	<MeleeWeapon_APCCW.tools.1.label>edge</MeleeWeapon_APCCW.tools.1.label>
+	<!-- EN: point -->
+	<MeleeWeapon_APCCW.tools.2.label>point</MeleeWeapon_APCCW.tools.2.label>
+	
+	<!-- EN: neck -->
+	<IRA_Vodka.tools.1.label>neck</IRA_Vodka.tools.1.label>
+</LanguageData>

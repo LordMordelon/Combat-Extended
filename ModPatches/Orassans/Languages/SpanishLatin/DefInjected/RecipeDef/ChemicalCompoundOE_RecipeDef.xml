@@ -1,0 +1,31 @@
+<LanguageData>
+	<!-- ModPatches\Orassans\Defs\Orassans\Ammo\ChemicalCompoundOE.xml -->
+	
+	<!-- EN: make Chemical munition OE Cryo units x100 -->
+	<MakeAmmo_ChemicalCompoundOE_Cryo.label>make Chemical munition OE Cryo units x100</MakeAmmo_ChemicalCompoundOE_Cryo.label>
+	<!-- EN: Craft 100 Chemical munition OE Cryo units. -->
+	<MakeAmmo_ChemicalCompoundOE_Cryo.description>Craft 100 Chemical munition OE Cryo units.</MakeAmmo_ChemicalCompoundOE_Cryo.description>
+	<!-- EN: Making Chemical munition OE Cryo units. -->
+	<MakeAmmo_ChemicalCompoundOE_Cryo.jobString>Making Chemical munition OE Cryo units.</MakeAmmo_ChemicalCompoundOE_Cryo.jobString>
+	
+	<!-- EN: make Chemical munitio compound OE Napalm units x100 -->
+	<MakeAmmo_ChemicalCompoundOE_Napalm.label>make Chemical munitio compound OE Napalm units x100</MakeAmmo_ChemicalCompoundOE_Napalm.label>
+	<!-- EN: Craft 100 Chemical munition OE Napalm units. -->
+	<MakeAmmo_ChemicalCompoundOE_Napalm.description>Craft 100 Chemical munition OE Napalm units.</MakeAmmo_ChemicalCompoundOE_Napalm.description>
+	<!-- EN: Making Chemical munition OE Napalm units. -->
+	<MakeAmmo_ChemicalCompoundOE_Napalm.jobString>Making Chemical munition OE Napalm units.</MakeAmmo_ChemicalCompoundOE_Napalm.jobString>
+	
+	<!-- EN: make Chemical munition OE A.Prometheum units x100 -->
+	<MakeAmmo_ChemicalCompoundOE_Aprometheum.label>make Chemical munition OE A.Prometheum units x100</MakeAmmo_ChemicalCompoundOE_Aprometheum.label>
+	<!-- EN: Craft 100 Chemical compound OE A.Prometheum units. -->
+	<MakeAmmo_ChemicalCompoundOE_Aprometheum.description>Craft 100 Chemical compound OE A.Prometheum units.</MakeAmmo_ChemicalCompoundOE_Aprometheum.description>
+	<!-- EN: Making Chemical munitio compound OE A.Prometheum units. -->
+	<MakeAmmo_ChemicalCompoundOE_Aprometheum.jobString>Making Chemical munitio compound OE A.Prometheum units.</MakeAmmo_ChemicalCompoundOE_Aprometheum.jobString>
+	
+	<!-- EN: make Chemical munition OE Thermobaric units x100 -->
+	<MakeAmmo_ChemicalCompoundOE_Thermobaric.label>make Chemical munition OE Thermobaric units x100</MakeAmmo_ChemicalCompoundOE_Thermobaric.label>
+	<!-- EN: Craft 100 Chemical compound OE Thermobaric units. -->
+	<MakeAmmo_ChemicalCompoundOE_Thermobaric.description>Craft 100 Chemical compound OE Thermobaric units.</MakeAmmo_ChemicalCompoundOE_Thermobaric.description>
+	<!-- EN: Making Chemical munition OE Thermobaric units. -->
+	<MakeAmmo_ChemicalCompoundOE_Thermobaric.jobString>Making Chemical munition OE Thermobaric units.</MakeAmmo_ChemicalCompoundOE_Thermobaric.jobString>
+</LanguageData>

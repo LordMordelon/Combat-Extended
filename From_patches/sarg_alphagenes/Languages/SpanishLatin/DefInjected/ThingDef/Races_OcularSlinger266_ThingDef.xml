@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\sarg_alphagenes\Races_OcularSlinger266.xml -->
+	<!-- EN: left pincer -->
+	<AG_OcularSlinger.tools.0.label>left pincer</AG_OcularSlinger.tools.0.label>
+	<!-- EN: right pincer -->
+	<AG_OcularSlinger.tools.1.label>right pincer</AG_OcularSlinger.tools.1.label>
+	<!-- EN: head -->
+	<AG_OcularSlinger.tools.3.label>head</AG_OcularSlinger.tools.3.label>
+	<!-- EN: eye -->
+	<AG_OcularSlinger.verbs.0.label>eye</AG_OcularSlinger.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<AG_OcularSlinger.verbs.CombatExtended.Verb_ShootCE.label>ㅤ</AG_OcularSlinger.verbs.CombatExtended.Verb_ShootCE.label>
+</LanguageData>

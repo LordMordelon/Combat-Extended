@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\BiomesTeam_BiomesCaverns\CE_FacetMoth497.xml -->
+	<!-- EN: proboscis -->
+	<BMT_FacetMothLarvae.tools.0.label>proboscis</BMT_FacetMothLarvae.tools.0.label>
+	<!-- EN: head -->
+	<BMT_FacetMothLarvae.tools.1.label>head</BMT_FacetMothLarvae.tools.1.label>
+	
+	<!-- EN: Twitching -->
+	<BMT_FacetMothPupa.tools.0.label>Twitching</BMT_FacetMothPupa.tools.0.label>
+	
+	<!-- EN: proboscis -->
+	<BMT_FacetMoth.tools.0.label>proboscis</BMT_FacetMoth.tools.0.label>
+	<!-- EN: head -->
+	<BMT_FacetMoth.tools.1.label>head</BMT_FacetMoth.tools.1.label>
+</LanguageData>

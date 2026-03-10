@@ -1,0 +1,31 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Neronix17_OuterRim_Mandalore\Outer_Rim_Mandalorian_Melee_Weapons1202.xml -->
+	<!-- EN: handle -->
+	<OuterRim_MunitkatHalberd.tools.0.label>handle</OuterRim_MunitkatHalberd.tools.0.label>
+	<!-- EN: edge -->
+	<OuterRim_MunitkatHalberd.tools.1.label>edge</OuterRim_MunitkatHalberd.tools.1.label>
+	
+	<!-- EN: handle -->
+	<OuterRim_MandalorianWarhammer.tools.0.label>handle</OuterRim_MandalorianWarhammer.tools.0.label>
+	<!-- EN: head -->
+	<OuterRim_MandalorianWarhammer.tools.1.label>head</OuterRim_MandalorianWarhammer.tools.1.label>
+	
+	<!-- EN: handle -->
+	<OuterRim_MandalorianHammer.tools.0.label>handle</OuterRim_MandalorianHammer.tools.0.label>
+	<!-- EN: head -->
+	<OuterRim_MandalorianHammer.tools.1.label>head</OuterRim_MandalorianHammer.tools.1.label>
+	
+	<!-- EN: handle -->
+	<OuterRim_MandalorianSaber.tools.0.label>handle</OuterRim_MandalorianSaber.tools.0.label>
+	<!-- EN: edge -->
+	<OuterRim_MandalorianSaber.tools.1.label>edge</OuterRim_MandalorianSaber.tools.1.label>
+	<!-- EN: point -->
+	<OuterRim_MandalorianSaber.tools.2.label>point</OuterRim_MandalorianSaber.tools.2.label>
+	
+	<!-- EN: handle -->
+	<OuterRim_MandalorianHookblade.tools.0.label>handle</OuterRim_MandalorianHookblade.tools.0.label>
+	<!-- EN: edge -->
+	<OuterRim_MandalorianHookblade.tools.1.label>edge</OuterRim_MandalorianHookblade.tools.1.label>
+	<!-- EN: point -->
+	<OuterRim_MandalorianHookblade.tools.2.label>point</OuterRim_MandalorianHookblade.tools.2.label>
+</LanguageData>

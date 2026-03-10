@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla Weapons Expanded - Frontier\Defs\Vanilla Weapons Expanded - Frontier\HighRoller_AddonAmmo.xml -->
+	<!-- EN: .41 Rimfire -->
+	<AmmoSet_41RimfireHR.label>.41 Rimfire</AmmoSet_41RimfireHR.label>
+	<!-- EN: 6mm Railgun -->
+	<AmmoSet_GaussRevolver_HR.label>6mm Railgun</AmmoSet_GaussRevolver_HR.label>
+	<!-- EN: 6mm Railgun -->
+	<AmmoSet_GaussRepeater_HR.label>6mm Railgun</AmmoSet_GaussRepeater_HR.label>
+	<!-- EN: laser charge -->
+	<AmmoSet_SalvagedLaserRevolver_HR.label>laser charge</AmmoSet_SalvagedLaserRevolver_HR.label>
+	<!-- EN: laser charge -->
+	<AmmoSet_SalvagedLaserRepeater_HR.label>laser charge</AmmoSet_SalvagedLaserRepeater_HR.label>
+	<!-- EN: laser charge -->
+	<AmmoSet_SalvagedLaserHuntingRifle_HR.label>laser charge</AmmoSet_SalvagedLaserHuntingRifle_HR.label>
+</LanguageData>

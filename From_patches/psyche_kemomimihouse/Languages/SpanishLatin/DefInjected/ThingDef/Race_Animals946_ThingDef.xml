@@ -1,0 +1,75 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\psyche_kemomimihouse\Race_Animals946.xml -->
+	<!-- EN: 忍刀 -->
+	<siro.tools.0.label>忍刀</siro.tools.0.label>
+	<!-- EN: 忍刀 -->
+	<siro.tools.1.label>忍刀</siro.tools.1.label>
+	
+	<!-- EN: 刀 -->
+	<kon.tools.0.label>刀</kon.tools.0.label>
+	<!-- EN: 刀 -->
+	<kon.tools.1.label>刀</kon.tools.1.label>
+	
+	<!-- EN: パンチ -->
+	<hana.tools.0.label>パンチ</hana.tools.0.label>
+	<!-- EN: パンチ -->
+	<hana.tools.1.label>パンチ</hana.tools.1.label>
+	
+	<!-- EN: パンチ -->
+	<miko.tools.0.label>パンチ</miko.tools.0.label>
+	<!-- EN: パンチ -->
+	<miko.tools.1.label>パンチ</miko.tools.1.label>
+	
+	<!-- EN: クマゴン -->
+	<akame.tools.0.label>クマゴン</akame.tools.0.label>
+	<!-- EN: クマゴン -->
+	<akame.tools.1.label>クマゴン</akame.tools.1.label>
+	
+	<!-- EN: クマゴン -->
+	<aome.tools.0.label>クマゴン</aome.tools.0.label>
+	<!-- EN: クマゴン -->
+	<aome.tools.1.label>クマゴン</aome.tools.1.label>
+	
+	<!-- EN: 忍刀 -->
+	<kuro.tools.0.label>忍刀</kuro.tools.0.label>
+	<!-- EN: 忍刀 -->
+	<kuro.tools.1.label>忍刀</kuro.tools.1.label>
+	
+	<!-- EN: ドラゴンクロー -->
+	<yuki.tools.0.label>ドラゴンクロー</yuki.tools.0.label>
+	<!-- EN: ドラゴンクロー -->
+	<yuki.tools.1.label>ドラゴンクロー</yuki.tools.1.label>
+	
+	<!-- EN: 刀 -->
+	<konf.tools.0.label>刀</konf.tools.0.label>
+	<!-- EN: 刀 -->
+	<konf.tools.1.label>刀</konf.tools.1.label>
+	
+	<!-- EN: 忍刀 -->
+	<sirof.tools.0.label>忍刀</sirof.tools.0.label>
+	<!-- EN: 忍刀 -->
+	<sirof.tools.1.label>忍刀</sirof.tools.1.label>
+	
+	<!-- EN: パンチ -->
+	<kohime.tools.0.label>パンチ</kohime.tools.0.label>
+	<!-- EN: パンチ -->
+	<kohime.tools.1.label>パンチ</kohime.tools.1.label>
+	
+	<!-- EN: ㅤ -->
+	<miko.verbs.0.label>ㅤ</miko.verbs.0.label>
+	
+	<!-- EN: ㅤ -->
+	<kohime.verbs.0.label>ㅤ</kohime.verbs.0.label>
+	
+	<!-- EN: ㅤ -->
+	<akame.verbs.0.label>ㅤ</akame.verbs.0.label>
+	
+	<!-- EN: ㅤ -->
+	<aome.verbs.0.label>ㅤ</aome.verbs.0.label>
+	
+	<!-- EN: ㅤ -->
+	<kuro.verbs.0.label>ㅤ</kuro.verbs.0.label>
+	
+	<!-- EN: ㅤ -->
+	<yuki.verbs.0.label>ㅤ</yuki.verbs.0.label>
+</LanguageData>

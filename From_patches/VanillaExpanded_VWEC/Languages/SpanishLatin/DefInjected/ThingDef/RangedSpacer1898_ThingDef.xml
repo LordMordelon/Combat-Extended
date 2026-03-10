@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VWEC\RangedSpacer1898.xml -->
+	<!-- EN: grip -->
+	<VWE_Gun_GaussMagnum.tools.0.label>grip</VWE_Gun_GaussMagnum.tools.0.label>
+	<!-- EN: muzzle -->
+	<VWE_Gun_GaussMagnum.tools.1.label>muzzle</VWE_Gun_GaussMagnum.tools.1.label>
+	
+	<!-- EN: stock -->
+	<VWE_Gun_GaussRifle.tools.0.label>stock</VWE_Gun_GaussRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<VWE_Gun_GaussRifle.tools.1.label>barrel</VWE_Gun_GaussRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<VWE_Gun_GaussRifle.tools.2.label>muzzle</VWE_Gun_GaussRifle.tools.2.label>
+	
+	<!-- EN: barrel -->
+	<VWE_Gun_GaussLance.tools.0.label>barrel</VWE_Gun_GaussLance.tools.0.label>
+</LanguageData>

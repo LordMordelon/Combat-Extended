@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\Rimsenal Core\Defs\Rimsenal Core\Ammo_GD.xml -->
+	<!-- EN: 6.6mm GD Caseless -->
+	<AmmoSet_66Greydale.label>6.6mm GD Caseless</AmmoSet_66Greydale.label>
+	<!-- EN: 6.6mm GD Caseless (Short Barrel) -->
+	<AmmoSet_66Greydale_SB.label>6.6mm GD Caseless (Short Barrel)</AmmoSet_66Greydale_SB.label>
+	<!-- EN: 6.6mm GD Caseless (Pistol) -->
+	<AmmoSet_66Greydale_Pistol.label>6.6mm GD Caseless (Pistol)</AmmoSet_66Greydale_Pistol.label>
+	<!-- EN: 6.6mm GD Caseless (Hybrid) -->
+	<AmmoSet_66Greydale_Hybrid.label>6.6mm GD Caseless (Hybrid)</AmmoSet_66Greydale_Hybrid.label>
+</LanguageData>

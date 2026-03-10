@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla Weapons Expanded - Non-Lethal\Defs\Vanilla Weapons Expanded - Non-Lethal\TranquilizerDart.xml -->
+	
+	<!-- EN: dart rifle cartridge -->
+	<Ammo_DartRifle_NL.label>dart rifle cartridge</Ammo_DartRifle_NL.label>
+	<!-- EN: Large rifle bullet used in machine guns, sniper rifles, and various other infantry weapons. -->
+	<Ammo_DartRifle_NL.description>Large rifle bullet used in machine guns, sniper rifles, and various other infantry weapons.</Ammo_DartRifle_NL.description>
+	
+	<!-- EN: tranquilizer dart -->
+	<Bullet_DartRifle_NL.label>tranquilizer dart</Bullet_DartRifle_NL.label>
+</LanguageData>

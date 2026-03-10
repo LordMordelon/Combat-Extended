@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Defs\Ammo\Shell\152mmHowitzer.xml -->
+	
+	<!-- EN: 152mm howitzer shells -->
+	<AmmoSet_152mmHowitzerShell.label>152mm howitzer shells</AmmoSet_152mmHowitzerShell.label>
+	
+	<!-- EN: 152mm howitzer shells -->
+	<AmmoSet_152mmHowitzerShell_directfire.label>152mm howitzer shells</AmmoSet_152mmHowitzerShell_directfire.label>
+</LanguageData>

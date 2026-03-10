@@ -1,0 +1,21 @@
+<LanguageData>
+	<!-- Defs\Ammo\Modded\Halo\5x23mmCaseless.xml -->
+	<!-- EN: make 5x23mm Caseless (FMJ) cartridge x500 -->
+	<MakeAmmo_5x23mmCaseless_FMJ.label>make 5x23mm Caseless (FMJ) cartridge x500</MakeAmmo_5x23mmCaseless_FMJ.label>
+	<!-- EN: Craft 500 5x23mm Caseless (FMJ) cartridges. -->
+	<MakeAmmo_5x23mmCaseless_FMJ.description>Craft 500 5x23mm Caseless (FMJ) cartridges.</MakeAmmo_5x23mmCaseless_FMJ.description>
+	<!-- EN: Making 5x23mm Caseless (FMJ) cartridges. -->
+	<MakeAmmo_5x23mmCaseless_FMJ.jobString>Making 5x23mm Caseless (FMJ) cartridges.</MakeAmmo_5x23mmCaseless_FMJ.jobString>
+	<!-- EN: make 5x23mm Caseless (AP) cartridge x500 -->
+	<MakeAmmo_5x23mmCaseless_AP.label>make 5x23mm Caseless (AP) cartridge x500</MakeAmmo_5x23mmCaseless_AP.label>
+	<!-- EN: Craft 500 5x23mm Caseless (AP) cartridges. -->
+	<MakeAmmo_5x23mmCaseless_AP.description>Craft 500 5x23mm Caseless (AP) cartridges.</MakeAmmo_5x23mmCaseless_AP.description>
+	<!-- EN: Making 5x23mm Caseless (AP) cartridges. -->
+	<MakeAmmo_5x23mmCaseless_AP.jobString>Making 5x23mm Caseless (AP) cartridges.</MakeAmmo_5x23mmCaseless_AP.jobString>
+	<!-- EN: make 5x23mm Caseless (HP) cartridge x500 -->
+	<MakeAmmo_5x23mmCaseless_HP.label>make 5x23mm Caseless (HP) cartridge x500</MakeAmmo_5x23mmCaseless_HP.label>
+	<!-- EN: Craft 500 5x23mm Caseless (HP) cartridges. -->
+	<MakeAmmo_5x23mmCaseless_HP.description>Craft 500 5x23mm Caseless (HP) cartridges.</MakeAmmo_5x23mmCaseless_HP.description>
+	<!-- EN: Making 5x23mm Caseless (HP) cartridges. -->
+	<MakeAmmo_5x23mmCaseless_HP.jobString>Making 5x23mm Caseless (HP) cartridges.</MakeAmmo_5x23mmCaseless_HP.jobString>
+</LanguageData>

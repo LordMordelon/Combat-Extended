@@ -1,0 +1,22 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\CP_RimmuNation_2_Weapons\RM2_CE_Revolvers1326.xml -->
+	<!-- EN: grip -->
+	<RNGun_ColtCobra_Revolver.tools.0.label>grip</RNGun_ColtCobra_Revolver.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_ColtCobra_Revolver.tools.1.label>muzzle</RNGun_ColtCobra_Revolver.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_ColtPython_Revolver.tools.0.label>grip</RNGun_ColtPython_Revolver.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_ColtPython_Revolver.tools.1.label>muzzle</RNGun_ColtPython_Revolver.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_MP412REX_Revolver.tools.0.label>grip</RNGun_MP412REX_Revolver.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_MP412REX_Revolver.tools.1.label>muzzle</RNGun_MP412REX_Revolver.tools.1.label>
+	
+	<!-- EN: grip -->
+	<RNGun_Model36_Revolver.tools.0.label>grip</RNGun_Model36_Revolver.tools.0.label>
+	<!-- EN: muzzle -->
+	<RNGun_Model36_Revolver.tools.1.label>muzzle</RNGun_Model36_Revolver.tools.1.label>
+</LanguageData>

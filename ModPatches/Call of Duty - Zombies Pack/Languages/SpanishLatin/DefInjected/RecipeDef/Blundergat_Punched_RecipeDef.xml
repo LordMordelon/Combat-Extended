@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Blunders\Blundergat_Punched.xml -->
+	
+	<!-- EN: make Sweeper (Buck) shell x20 -->
+	<MakeAmmo_Blundergat_Buck_Punched.label>make Sweeper (Buck) shell x20</MakeAmmo_Blundergat_Buck_Punched.label>
+	<!-- EN: Craft 20 Sweeper (Buck) shells . -->
+	<MakeAmmo_Blundergat_Buck_Punched.description>Craft 20 Sweeper (Buck) shells .</MakeAmmo_Blundergat_Buck_Punched.description>
+	<!-- EN: Making Sweeper (Buck) shells. -->
+	<MakeAmmo_Blundergat_Buck_Punched.jobString>Making Sweeper (Buck) shells.</MakeAmmo_Blundergat_Buck_Punched.jobString>
+	
+	<!-- EN: make Sweeper (Slug) shell x20 -->
+	<MakeAmmo_Blundergat_Slug_Punched.label>make Sweeper (Slug) shell x20</MakeAmmo_Blundergat_Slug_Punched.label>
+	<!-- EN: Craft 20 Sweeper (Slug) shells . -->
+	<MakeAmmo_Blundergat_Slug_Punched.description>Craft 20 Sweeper (Slug) shells .</MakeAmmo_Blundergat_Slug_Punched.description>
+	<!-- EN: Making Sweeper (Slug) shells. -->
+	<MakeAmmo_Blundergat_Slug_Punched.jobString>Making Sweeper (Slug) shells.</MakeAmmo_Blundergat_Slug_Punched.jobString>
+</LanguageData>

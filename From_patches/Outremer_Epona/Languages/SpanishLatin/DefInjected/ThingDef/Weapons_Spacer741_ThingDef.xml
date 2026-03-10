@@ -1,0 +1,40 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Outremer_Epona\Weapons_Spacer741.xml -->
+	<!-- EN: stock -->
+	<Epona_PegasusShock.tools.0.label>stock</Epona_PegasusShock.tools.0.label>
+	<!-- EN: barrel -->
+	<Epona_PegasusShock.tools.1.label>barrel</Epona_PegasusShock.tools.1.label>
+	<!-- EN: muzzle -->
+	<Epona_PegasusShock.tools.2.label>muzzle</Epona_PegasusShock.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Epona_PegasusShards.tools.0.label>stock</Epona_PegasusShards.tools.0.label>
+	<!-- EN: barrel -->
+	<Epona_PegasusShards.tools.1.label>barrel</Epona_PegasusShards.tools.1.label>
+	<!-- EN: muzzle -->
+	<Epona_PegasusShards.tools.2.label>muzzle</Epona_PegasusShards.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Epona_PegasusMolten.tools.0.label>stock</Epona_PegasusMolten.tools.0.label>
+	<!-- EN: barrel -->
+	<Epona_PegasusMolten.tools.1.label>barrel</Epona_PegasusMolten.tools.1.label>
+	<!-- EN: muzzle -->
+	<Epona_PegasusMolten.tools.2.label>muzzle</Epona_PegasusMolten.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Epona_HippogryphRailgun.tools.0.label>stock</Epona_HippogryphRailgun.tools.0.label>
+	<!-- EN: barrel -->
+	<Epona_HippogryphRailgun.tools.1.label>barrel</Epona_HippogryphRailgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<Epona_HippogryphRailgun.tools.2.label>muzzle</Epona_HippogryphRailgun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Epona_NightmareShock.tools.0.label>stock</Epona_NightmareShock.tools.0.label>
+	<!-- EN: barrel -->
+	<Epona_NightmareShock.tools.1.label>barrel</Epona_NightmareShock.tools.1.label>
+	<!-- EN: muzzle -->
+	<Epona_NightmareShock.tools.2.label>muzzle</Epona_NightmareShock.tools.2.label>
+	
+	<!-- EN: point -->
+	<Epona_LancePlasma.tools.0.label>point</Epona_LancePlasma.tools.0.label>
+</LanguageData>

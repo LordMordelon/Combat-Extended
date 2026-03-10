@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Alpha Mythology\Defs\Alpha Mythology\Defs_Projectiles.xml -->
+	<!-- EN: petrifying gaze -->
+	<MM_GazeAttack_CE.label>petrifying gaze</MM_GazeAttack_CE.label>
+	<!-- EN: poison breath -->
+	<MM_GreenStreamBreath_CE.label>poison breath</MM_GreenStreamBreath_CE.label>
+	<!-- EN: flame breath -->
+	<MM_FlameBreathAnimated_CE.label>flame breath</MM_FlameBreathAnimated_CE.label>
+</LanguageData>

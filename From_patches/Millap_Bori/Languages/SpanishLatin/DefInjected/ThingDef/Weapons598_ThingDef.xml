@@ -1,0 +1,110 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Millap_Bori\Weapons598.xml -->
+	<!-- EN: handle -->
+	<BD_Claymore.tools.0.label>handle</BD_Claymore.tools.0.label>
+	<!-- EN: point -->
+	<BD_Claymore.tools.1.label>point</BD_Claymore.tools.1.label>
+	<!-- EN: edge -->
+	<BD_Claymore.tools.2.label>edge</BD_Claymore.tools.2.label>
+	
+	<!-- EN: Blade -->
+	<BD_halberd.tools.0.label>Blade</BD_halberd.tools.0.label>
+	<!-- EN: Point -->
+	<BD_halberd.tools.1.label>Point</BD_halberd.tools.1.label>
+	<!-- EN: Shaft -->
+	<BD_halberd.tools.2.label>Shaft</BD_halberd.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<BD_Spear.tools.0.label>shaft</BD_Spear.tools.0.label>
+	<!-- EN: shaft -->
+	<BD_Spear.tools.1.label>shaft</BD_Spear.tools.1.label>
+	<!-- EN: head -->
+	<BD_Spear.tools.2.label>head</BD_Spear.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<SP_Staff.tools.0.label>shaft</SP_Staff.tools.0.label>
+	<!-- EN: shaft -->
+	<SP_Staff.tools.1.label>shaft</SP_Staff.tools.1.label>
+	
+	<!-- EN: stock -->
+	<BD_BoltActionRifle.tools.0.label>stock</BD_BoltActionRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<BD_BoltActionRifle.tools.1.label>barrel</BD_BoltActionRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<BD_BoltActionRifle.tools.2.label>muzzle</BD_BoltActionRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<BD_LightWeightedBoltActionRifle.tools.0.label>stock</BD_LightWeightedBoltActionRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<BD_LightWeightedBoltActionRifle.tools.1.label>barrel</BD_LightWeightedBoltActionRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<BD_LightWeightedBoltActionRifle.tools.2.label>muzzle</BD_LightWeightedBoltActionRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<BD_SdangSMG.tools.0.label>stock</BD_SdangSMG.tools.0.label>
+	<!-- EN: barrel -->
+	<BD_SdangSMG.tools.1.label>barrel</BD_SdangSMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<BD_SdangSMG.tools.2.label>muzzle</BD_SdangSMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<BD_MtHeavyMachineGun.tools.0.label>stock</BD_MtHeavyMachineGun.tools.0.label>
+	<!-- EN: barrel -->
+	<BD_MtHeavyMachineGun.tools.1.label>barrel</BD_MtHeavyMachineGun.tools.1.label>
+	<!-- EN: muzzle -->
+	<BD_MtHeavyMachineGun.tools.2.label>muzzle</BD_MtHeavyMachineGun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<BD_AssaultRifle.tools.0.label>stock</BD_AssaultRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<BD_AssaultRifle.tools.1.label>barrel</BD_AssaultRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<BD_AssaultRifle.tools.2.label>muzzle</BD_AssaultRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<BD_AutoBoltActionRifle.tools.0.label>stock</BD_AutoBoltActionRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<BD_AutoBoltActionRifle.tools.1.label>barrel</BD_AutoBoltActionRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<BD_AutoBoltActionRifle.tools.2.label>muzzle</BD_AutoBoltActionRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<BD_Sniper.tools.0.label>stock</BD_Sniper.tools.0.label>
+	<!-- EN: barrel -->
+	<BD_Sniper.tools.1.label>barrel</BD_Sniper.tools.1.label>
+	<!-- EN: muzzle -->
+	<BD_Sniper.tools.2.label>muzzle</BD_Sniper.tools.2.label>
+	
+	<!-- EN: stock -->
+	<BD_HeavySMG.tools.0.label>stock</BD_HeavySMG.tools.0.label>
+	<!-- EN: barrel -->
+	<BD_HeavySMG.tools.1.label>barrel</BD_HeavySMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<BD_HeavySMG.tools.2.label>muzzle</BD_HeavySMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<BD_ChargeLance.tools.0.label>stock</BD_ChargeLance.tools.0.label>
+	<!-- EN: barrel -->
+	<BD_ChargeLance.tools.1.label>barrel</BD_ChargeLance.tools.1.label>
+	<!-- EN: muzzle -->
+	<BD_ChargeLance.tools.2.label>muzzle</BD_ChargeLance.tools.2.label>
+	
+	<!-- EN: stock -->
+	<BD_ChargeSMG.tools.0.label>stock</BD_ChargeSMG.tools.0.label>
+	<!-- EN: barrel -->
+	<BD_ChargeSMG.tools.1.label>barrel</BD_ChargeSMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<BD_ChargeSMG.tools.2.label>muzzle</BD_ChargeSMG.tools.2.label>
+	
+	<!-- EN: grip -->
+	<BD_Autopistol.tools.0.label>grip</BD_Autopistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<BD_Autopistol.tools.1.label>muzzle</BD_Autopistol.tools.1.label>
+	
+	<!-- EN: stock -->
+	<BD_ChargeRifle.tools.0.label>stock</BD_ChargeRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<BD_ChargeRifle.tools.1.label>barrel</BD_ChargeRifle.tools.1.label>
+	<!-- EN: bayonet -->
+	<BD_ChargeRifle.tools.2.label>bayonet</BD_ChargeRifle.tools.2.label>
+</LanguageData>

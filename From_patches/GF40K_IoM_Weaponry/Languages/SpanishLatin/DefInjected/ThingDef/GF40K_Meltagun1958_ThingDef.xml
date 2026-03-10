@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\GF40K_IoM_Weaponry\GF40K_Meltagun1958.xml -->
+	<!-- EN: stock -->
+	<GF40K_Hellgun.tools.0.label>stock</GF40K_Hellgun.tools.0.label>
+	<!-- EN: barrel -->
+	<GF40K_Hellgun.tools.1.label>barrel</GF40K_Hellgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<GF40K_Hellgun.tools.2.label>muzzle</GF40K_Hellgun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<GF40K_HellgunRelic.tools.0.label>stock</GF40K_HellgunRelic.tools.0.label>
+	<!-- EN: barrel -->
+	<GF40K_HellgunRelic.tools.1.label>barrel</GF40K_HellgunRelic.tools.1.label>
+	<!-- EN: muzzle -->
+	<GF40K_HellgunRelic.tools.2.label>muzzle</GF40K_HellgunRelic.tools.2.label>
+</LanguageData>

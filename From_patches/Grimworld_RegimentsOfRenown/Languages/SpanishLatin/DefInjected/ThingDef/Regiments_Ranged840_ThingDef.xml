@@ -1,0 +1,65 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Grimworld_RegimentsOfRenown\Regiments_Ranged840.xml -->
+	<!-- EN: barrel -->
+	<GW_HOI_ROR_Gun_Accatranfive.tools.0.label>barrel</GW_HOI_ROR_Gun_Accatranfive.tools.0.label>
+	<!-- EN: stock -->
+	<GW_HOI_ROR_Gun_Accatranfive.tools.1.label>stock</GW_HOI_ROR_Gun_Accatranfive.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<GW_HOI_ROR_Gun_VossPattern.tools.0.label>barrel</GW_HOI_ROR_Gun_VossPattern.tools.0.label>
+	<!-- EN: stock -->
+	<GW_HOI_ROR_Gun_VossPattern.tools.1.label>stock</GW_HOI_ROR_Gun_VossPattern.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<GW_HOI_ROR_Gun_PlasmaGun.tools.0.label>barrel</GW_HOI_ROR_Gun_PlasmaGun.tools.0.label>
+	<!-- EN: stock -->
+	<GW_HOI_ROR_Gun_PlasmaGun.tools.1.label>stock</GW_HOI_ROR_Gun_PlasmaGun.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<GW_HOI_ROR_Gun_MeltaGun.tools.0.label>barrel</GW_HOI_ROR_Gun_MeltaGun.tools.0.label>
+	<!-- EN: stock -->
+	<GW_HOI_ROR_Gun_MeltaGun.tools.1.label>stock</GW_HOI_ROR_Gun_MeltaGun.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<GW_HOI_ROR_Gun_Lascarbinefour.tools.0.label>barrel</GW_HOI_ROR_Gun_Lascarbinefour.tools.0.label>
+	<!-- EN: stock -->
+	<GW_HOI_ROR_Gun_Lascarbinefour.tools.1.label>stock</GW_HOI_ROR_Gun_Lascarbinefour.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<GW_HOI_Gun_Zarona.tools.0.label>barrel</GW_HOI_Gun_Zarona.tools.0.label>
+	<!-- EN: grip -->
+	<GW_HOI_Gun_Zarona.tools.1.label>grip</GW_HOI_Gun_Zarona.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<GW_HOI_Gun_Hiveworldautopistol.tools.0.label>barrel</GW_HOI_Gun_Hiveworldautopistol.tools.0.label>
+	<!-- EN: grip -->
+	<GW_HOI_Gun_Hiveworldautopistol.tools.1.label>grip</GW_HOI_Gun_Hiveworldautopistol.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<GW_HOI_Gun_OrlockAutogun.tools.0.label>barrel</GW_HOI_Gun_OrlockAutogun.tools.0.label>
+	<!-- EN: grip -->
+	<GW_HOI_Gun_OrlockAutogun.tools.1.label>grip</GW_HOI_Gun_OrlockAutogun.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<GW_HOI_Gun_LuciferBolter.tools.0.label>barrel</GW_HOI_Gun_LuciferBolter.tools.0.label>
+	<!-- EN: grip -->
+	<GW_HOI_Gun_LuciferBolter.tools.1.label>grip</GW_HOI_Gun_LuciferBolter.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<GW_HOI_Gun_LuciferPistol.tools.0.label>barrel</GW_HOI_Gun_LuciferPistol.tools.0.label>
+	<!-- EN: grip -->
+	<GW_HOI_Gun_LuciferPistol.tools.1.label>grip</GW_HOI_Gun_LuciferPistol.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<GW_HOI_Gun_LuciferHellgun.tools.0.label>barrel</GW_HOI_Gun_LuciferHellgun.tools.0.label>
+	<!-- EN: grip -->
+	<GW_HOI_Gun_LuciferHellgun.tools.1.label>grip</GW_HOI_Gun_LuciferHellgun.tools.1.label>
+	
+	<!-- EN: barrel -->
+	<GW_HOI_Gun_Heavystubber.tools.0.label>barrel</GW_HOI_Gun_Heavystubber.tools.0.label>
+	
+	<!-- EN: bayonet -->
+	<GW_HOI_ROR_Gun_lasLock.tools.0.label>bayonet</GW_HOI_ROR_Gun_lasLock.tools.0.label>
+	<!-- EN: stock -->
+	<GW_HOI_ROR_Gun_lasLock.tools.1.label>stock</GW_HOI_ROR_Gun_lasLock.tools.1.label>
+</LanguageData>

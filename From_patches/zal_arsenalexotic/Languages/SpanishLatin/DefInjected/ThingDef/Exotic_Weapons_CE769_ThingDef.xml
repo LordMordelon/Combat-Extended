@@ -1,0 +1,91 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\zal_arsenalexotic\Exotic_Weapons_CE769.xml -->
+	<!-- EN: grip -->
+	<Xedos_Equilibrium.tools.0.label>grip</Xedos_Equilibrium.tools.0.label>
+	<!-- EN: muzzle -->
+	<Xedos_Equilibrium.tools.1.label>muzzle</Xedos_Equilibrium.tools.1.label>
+	
+	<!-- EN: grip -->
+	<Xedos_BlazeSF.tools.0.label>grip</Xedos_BlazeSF.tools.0.label>
+	<!-- EN: muzzle blade -->
+	<Xedos_BlazeSF.tools.1.label>muzzle blade</Xedos_BlazeSF.tools.1.label>
+	<!-- EN: muzzle blade -->
+	<Xedos_BlazeSF.tools.2.label>muzzle blade</Xedos_BlazeSF.tools.2.label>
+	
+	<!-- EN: grip -->
+	<Xedos_GlacialSF.tools.0.label>grip</Xedos_GlacialSF.tools.0.label>
+	<!-- EN: muzzle blade -->
+	<Xedos_GlacialSF.tools.1.label>muzzle blade</Xedos_GlacialSF.tools.1.label>
+	<!-- EN: muzzle blade -->
+	<Xedos_GlacialSF.tools.2.label>muzzle blade</Xedos_GlacialSF.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Xedos_Aesa.tools.0.label>stock</Xedos_Aesa.tools.0.label>
+	<!-- EN: barrel -->
+	<Xedos_Aesa.tools.1.label>barrel</Xedos_Aesa.tools.1.label>
+	<!-- EN: muzzle -->
+	<Xedos_Aesa.tools.2.label>muzzle</Xedos_Aesa.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Xedos_Tyrant.tools.0.label>stock</Xedos_Tyrant.tools.0.label>
+	<!-- EN: barrel -->
+	<Xedos_Tyrant.tools.1.label>barrel</Xedos_Tyrant.tools.1.label>
+	<!-- EN: muzzle -->
+	<Xedos_Tyrant.tools.2.label>muzzle</Xedos_Tyrant.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Xedos_Shiver.tools.0.label>stock</Xedos_Shiver.tools.0.label>
+	<!-- EN: barrel -->
+	<Xedos_Shiver.tools.1.label>barrel</Xedos_Shiver.tools.1.label>
+	<!-- EN: muzzle -->
+	<Xedos_Shiver.tools.2.label>muzzle</Xedos_Shiver.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Xedos_celsius.tools.0.label>stock</Xedos_celsius.tools.0.label>
+	<!-- EN: barrel -->
+	<Xedos_celsius.tools.1.label>barrel</Xedos_celsius.tools.1.label>
+	<!-- EN: muzzle -->
+	<Xedos_celsius.tools.2.label>muzzle</Xedos_celsius.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Xedos_Oberon.tools.0.label>stock</Xedos_Oberon.tools.0.label>
+	<!-- EN: barrel -->
+	<Xedos_Oberon.tools.1.label>barrel</Xedos_Oberon.tools.1.label>
+	<!-- EN: muzzle -->
+	<Xedos_Oberon.tools.2.label>muzzle</Xedos_Oberon.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Xedos_Judgement.tools.0.label>stock</Xedos_Judgement.tools.0.label>
+	<!-- EN: barrel -->
+	<Xedos_Judgement.tools.1.label>barrel</Xedos_Judgement.tools.1.label>
+	<!-- EN: muzzle -->
+	<Xedos_Judgement.tools.2.label>muzzle</Xedos_Judgement.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Xedos_Paladin.tools.0.label>stock</Xedos_Paladin.tools.0.label>
+	<!-- EN: barrel -->
+	<Xedos_Paladin.tools.1.label>barrel</Xedos_Paladin.tools.1.label>
+	<!-- EN: muzzle -->
+	<Xedos_Paladin.tools.2.label>muzzle</Xedos_Paladin.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Xedos_BFaith.tools.0.label>stock</Xedos_BFaith.tools.0.label>
+	<!-- EN: barrel -->
+	<Xedos_BFaith.tools.1.label>barrel</Xedos_BFaith.tools.1.label>
+	<!-- EN: muzzle -->
+	<Xedos_BFaith.tools.2.label>muzzle</Xedos_BFaith.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Xedos_Unleashed.tools.0.label>stock</Xedos_Unleashed.tools.0.label>
+	<!-- EN: barrel -->
+	<Xedos_Unleashed.tools.1.label>barrel</Xedos_Unleashed.tools.1.label>
+	<!-- EN: muzzle -->
+	<Xedos_Unleashed.tools.2.label>muzzle</Xedos_Unleashed.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Xedos_SniperRifle.tools.0.label>stock</Xedos_SniperRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Xedos_SniperRifle.tools.1.label>barrel</Xedos_SniperRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Xedos_SniperRifle.tools.2.label>muzzle</Xedos_SniperRifle.tools.2.label>
+</LanguageData>

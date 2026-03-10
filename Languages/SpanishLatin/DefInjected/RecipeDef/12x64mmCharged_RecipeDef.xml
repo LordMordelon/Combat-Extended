@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Defs\Ammo\Advanced\12x64mmCharged.xml -->
+	<!-- EN: make 12x64mm Charged cartridge x200 -->
+	<MakeAmmo_12x64mmCharged.label>make 12x64mm Charged cartridge x200</MakeAmmo_12x64mmCharged.label>
+	<!-- EN: Craft 200 12x64mm Charged cartridges. -->
+	<MakeAmmo_12x64mmCharged.description>Craft 200 12x64mm Charged cartridges.</MakeAmmo_12x64mmCharged.description>
+	<!-- EN: Making 12x64mm Charged cartridges. -->
+	<MakeAmmo_12x64mmCharged.jobString>Making 12x64mm Charged cartridges.</MakeAmmo_12x64mmCharged.jobString>
+</LanguageData>

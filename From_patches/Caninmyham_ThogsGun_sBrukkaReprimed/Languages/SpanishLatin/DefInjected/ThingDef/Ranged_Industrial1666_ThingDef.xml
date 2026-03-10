@@ -1,0 +1,267 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Caninmyham_ThogsGun_sBrukkaReprimed\Ranged_Industrial1666.xml -->
+	<!-- EN: grip -->
+	<Gun_LightSMG.tools.0.label>grip</Gun_LightSMG.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_LightSMG.tools.1.label>muzzle</Gun_LightSMG.tools.1.label>
+	
+	<!-- EN: grip -->
+	<Gun_LightAutopistol.tools.0.label>grip</Gun_LightAutopistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_LightAutopistol.tools.1.label>muzzle</Gun_LightAutopistol.tools.1.label>
+	
+	<!-- EN: grip -->
+	<Gun_HeavyAutopistol.tools.0.label>grip</Gun_HeavyAutopistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_HeavyAutopistol.tools.1.label>muzzle</Gun_HeavyAutopistol.tools.1.label>
+	
+	<!-- EN: grip -->
+	<Gun_VarmitPistol.tools.0.label>grip</Gun_VarmitPistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_VarmitPistol.tools.1.label>muzzle</Gun_VarmitPistol.tools.1.label>
+	
+	<!-- EN: grip -->
+	<Gun_AdvancedRevolver.tools.0.label>grip</Gun_AdvancedRevolver.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_AdvancedRevolver.tools.1.label>muzzle</Gun_AdvancedRevolver.tools.1.label>
+	
+	<!-- EN: grip -->
+	<Gun_Snubby.tools.0.label>grip</Gun_Snubby.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_Snubby.tools.1.label>muzzle</Gun_Snubby.tools.1.label>
+	
+	<!-- EN: grip -->
+	<Gun_Magnum.tools.0.label>grip</Gun_Magnum.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_Magnum.tools.1.label>muzzle</Gun_Magnum.tools.1.label>
+	
+	<!-- EN: grip -->
+	<Gun_SawnoffPumpShotgun.tools.0.label>grip</Gun_SawnoffPumpShotgun.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_SawnoffPumpShotgun.tools.1.label>muzzle</Gun_SawnoffPumpShotgun.tools.1.label>
+	
+	<!-- EN: grip -->
+	<Gun_BreacherShotgun.tools.0.label>grip</Gun_BreacherShotgun.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_BreacherShotgun.tools.1.label>muzzle</Gun_BreacherShotgun.tools.1.label>
+	
+	<!-- EN: grip -->
+	<Gun_BreacherShotgunSemi.tools.0.label>grip</Gun_BreacherShotgunSemi.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_BreacherShotgunSemi.tools.1.label>muzzle</Gun_BreacherShotgunSemi.tools.1.label>
+	
+	<!-- EN: grip -->
+	<Gun_AdvancedAutopistol.tools.0.label>grip</Gun_AdvancedAutopistol.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_AdvancedAutopistol.tools.1.label>muzzle</Gun_AdvancedAutopistol.tools.1.label>
+	
+	<!-- EN: stock -->
+	<Gun_ServiceRifle.tools.0.label>stock</Gun_ServiceRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_ServiceRifle.tools.1.label>barrel</Gun_ServiceRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_ServiceRifle.tools.2.label>muzzle</Gun_ServiceRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_BattleRifle.tools.0.label>stock</Gun_BattleRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_BattleRifle.tools.1.label>barrel</Gun_BattleRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_BattleRifle.tools.2.label>muzzle</Gun_BattleRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_BattleDMR.tools.0.label>stock</Gun_BattleDMR.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_BattleDMR.tools.1.label>barrel</Gun_BattleDMR.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_BattleDMR.tools.2.label>muzzle</Gun_BattleDMR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_HeavySniperRifle.tools.0.label>stock</Gun_HeavySniperRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_HeavySniperRifle.tools.1.label>barrel</Gun_HeavySniperRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_HeavySniperRifle.tools.2.label>muzzle</Gun_HeavySniperRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_VarmitRifle.tools.0.label>stock</Gun_VarmitRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_VarmitRifle.tools.1.label>barrel</Gun_VarmitRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_VarmitRifle.tools.2.label>muzzle</Gun_VarmitRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_DMR.tools.0.label>stock</Gun_DMR.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_DMR.tools.1.label>barrel</Gun_DMR.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_DMR.tools.2.label>muzzle</Gun_DMR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_CombatShotgun.tools.0.label>stock</Gun_CombatShotgun.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_CombatShotgun.tools.1.label>barrel</Gun_CombatShotgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_CombatShotgun.tools.2.label>muzzle</Gun_CombatShotgun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_CrudeRifle.tools.0.label>stock</Gun_CrudeRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_CrudeRifle.tools.1.label>barrel</Gun_CrudeRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_CrudeRifle.tools.2.label>muzzle</Gun_CrudeRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_EBR.tools.0.label>stock</Gun_EBR.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_EBR.tools.1.label>barrel</Gun_EBR.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_EBR.tools.2.label>muzzle</Gun_EBR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_AdvancedShotgun.tools.0.label>stock</Gun_AdvancedShotgun.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_AdvancedShotgun.tools.1.label>barrel</Gun_AdvancedShotgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_AdvancedShotgun.tools.2.label>muzzle</Gun_AdvancedShotgun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<ThogsGun_AdvancedAssaultRifle.tools.0.label>stock</ThogsGun_AdvancedAssaultRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<ThogsGun_AdvancedAssaultRifle.tools.1.label>barrel</ThogsGun_AdvancedAssaultRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<ThogsGun_AdvancedAssaultRifle.tools.2.label>muzzle</ThogsGun_AdvancedAssaultRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_AutomaticShotgun.tools.0.label>stock</Gun_AutomaticShotgun.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_AutomaticShotgun.tools.1.label>barrel</Gun_AutomaticShotgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_AutomaticShotgun.tools.2.label>muzzle</Gun_AutomaticShotgun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_ServiceSAW.tools.0.label>stock</Gun_ServiceSAW.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_ServiceSAW.tools.1.label>barrel</Gun_ServiceSAW.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_ServiceSAW.tools.2.label>muzzle</Gun_ServiceSAW.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_PDW.tools.0.label>stock</Gun_PDW.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_PDW.tools.1.label>barrel</Gun_PDW.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_PDW.tools.2.label>muzzle</Gun_PDW.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_ServiceDMR.tools.0.label>stock</Gun_ServiceDMR.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_ServiceDMR.tools.1.label>barrel</Gun_ServiceDMR.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_ServiceDMR.tools.2.label>muzzle</Gun_ServiceDMR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_ServiceCarbine.tools.0.label>stock</Gun_ServiceCarbine.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_ServiceCarbine.tools.1.label>barrel</Gun_ServiceCarbine.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_ServiceCarbine.tools.2.label>muzzle</Gun_ServiceCarbine.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_SMG.tools.0.label>stock</Gun_SMG.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_SMG.tools.1.label>barrel</Gun_SMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_SMG.tools.2.label>muzzle</Gun_SMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_BattleCarbine.tools.0.label>stock</Gun_BattleCarbine.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_BattleCarbine.tools.1.label>barrel</Gun_BattleCarbine.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_BattleCarbine.tools.2.label>muzzle</Gun_BattleCarbine.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_CrudeSMG.tools.0.label>stock</Gun_CrudeSMG.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_CrudeSMG.tools.1.label>barrel</Gun_CrudeSMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_CrudeSMG.tools.2.label>muzzle</Gun_CrudeSMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_Carbine.tools.0.label>stock</Gun_Carbine.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_Carbine.tools.1.label>barrel</Gun_Carbine.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_Carbine.tools.2.label>muzzle</Gun_Carbine.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_AdvancedPDW.tools.0.label>stock</Gun_AdvancedPDW.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_AdvancedPDW.tools.1.label>barrel</Gun_AdvancedPDW.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_AdvancedPDW.tools.2.label>muzzle</Gun_AdvancedPDW.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_HMG.tools.0.label>stock</Gun_HMG.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_HMG.tools.1.label>barrel</Gun_HMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_HMG.tools.2.label>muzzle</Gun_HMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_SAW.tools.0.label>stock</Gun_SAW.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_SAW.tools.1.label>barrel</Gun_SAW.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_SAW.tools.2.label>muzzle</Gun_SAW.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_LightMinigun.tools.0.label>stock</Gun_LightMinigun.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_LightMinigun.tools.1.label>barrel</Gun_LightMinigun.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_LightMinigun.tools.2.label>muzzle</Gun_LightMinigun.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_CrudeLMG.tools.0.label>stock</Gun_CrudeLMG.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_CrudeLMG.tools.1.label>barrel</Gun_CrudeLMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_CrudeLMG.tools.2.label>muzzle</Gun_CrudeLMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_ServiceHMG.tools.0.label>stock</Gun_ServiceHMG.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_ServiceHMG.tools.1.label>barrel</Gun_ServiceHMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_ServiceHMG.tools.2.label>muzzle</Gun_ServiceHMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_ThogsAntiMaterialRifle.tools.0.label>stock</Gun_ThogsAntiMaterialRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_ThogsAntiMaterialRifle.tools.1.label>barrel</Gun_ThogsAntiMaterialRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_ThogsAntiMaterialRifle.tools.2.label>muzzle</Gun_ThogsAntiMaterialRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_CarbineBayonet.tools.0.label>stock</Gun_CarbineBayonet.tools.0.label>
+	<!-- EN: bayonet -->
+	<Gun_CarbineBayonet.tools.1.label>bayonet</Gun_CarbineBayonet.tools.1.label>
+	<!-- EN: bayonet -->
+	<Gun_CarbineBayonet.tools.2.label>bayonet</Gun_CarbineBayonet.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_ServiceCarbineBayonet.tools.0.label>stock</Gun_ServiceCarbineBayonet.tools.0.label>
+	<!-- EN: bayonet -->
+	<Gun_ServiceCarbineBayonet.tools.1.label>bayonet</Gun_ServiceCarbineBayonet.tools.1.label>
+	<!-- EN: bayonet -->
+	<Gun_ServiceCarbineBayonet.tools.2.label>bayonet</Gun_ServiceCarbineBayonet.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_CrudeCarbine.tools.0.label>stock</Gun_CrudeCarbine.tools.0.label>
+	<!-- EN: bayonet -->
+	<Gun_CrudeCarbine.tools.1.label>bayonet</Gun_CrudeCarbine.tools.1.label>
+	<!-- EN: bayonet -->
+	<Gun_CrudeCarbine.tools.2.label>bayonet</Gun_CrudeCarbine.tools.2.label>
+</LanguageData>

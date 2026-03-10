@@ -1,0 +1,24 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\sarg_alphaanimals\Races_BlackHive_Psycasts122.xml -->
+	<!-- EN: mandibles -->
+	<AA_BlackScarab_Temporary.tools.0.label>mandibles</AA_BlackScarab_Temporary.tools.0.label>
+	<!-- EN: head -->
+	<AA_BlackScarab_Temporary.tools.1.label>head</AA_BlackScarab_Temporary.tools.1.label>
+	
+	<!-- EN: head claw -->
+	<AA_BlackSpelopede_Temporary.tools.0.label>head claw</AA_BlackSpelopede_Temporary.tools.0.label>
+	<!-- EN: head claw -->
+	<AA_BlackSpelopede_Temporary.tools.1.label>head claw</AA_BlackSpelopede_Temporary.tools.1.label>
+	<!-- EN: head -->
+	<AA_BlackSpelopede_Temporary.tools.2.label>head</AA_BlackSpelopede_Temporary.tools.2.label>
+	
+	<!-- EN: head claw -->
+	<AA_BlackSpider_Temporary.tools.0.label>head claw</AA_BlackSpider_Temporary.tools.0.label>
+	<!-- EN: head claw -->
+	<AA_BlackSpider_Temporary.tools.1.label>head claw</AA_BlackSpider_Temporary.tools.1.label>
+	<!-- EN: head -->
+	<AA_BlackSpider_Temporary.tools.2.label>head</AA_BlackSpider_Temporary.tools.2.label>
+	
+	<!-- EN: body -->
+	<AA_MammothWorm_Temporary.tools.0.label>body</AA_MammothWorm_Temporary.tools.0.label>
+</LanguageData>

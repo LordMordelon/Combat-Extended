@@ -1,0 +1,57 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Ryflamer_Rimcraft_Animals\CE_Horses1486.xml -->
+	<!-- EN: left hoof -->
+	<WoW_Animal_Horse.tools.0.label>left hoof</WoW_Animal_Horse.tools.0.label>
+	<!-- EN: left hoof -->
+	<WoW_Animal_Horse.tools.1.label>left hoof</WoW_Animal_Horse.tools.1.label>
+	<!-- EN: right hoof -->
+	<WoW_Animal_Horse.tools.2.label>right hoof</WoW_Animal_Horse.tools.2.label>
+	<!-- EN: right hoof -->
+	<WoW_Animal_Horse.tools.3.label>right hoof</WoW_Animal_Horse.tools.3.label>
+	<!-- EN: head -->
+	<WoW_Animal_Horse.tools.5.label>head</WoW_Animal_Horse.tools.5.label>
+	
+	<!-- EN: left hoof -->
+	<WoW_Animal_Forsakenhorse.tools.0.label>left hoof</WoW_Animal_Forsakenhorse.tools.0.label>
+	<!-- EN: left hoof -->
+	<WoW_Animal_Forsakenhorse.tools.1.label>left hoof</WoW_Animal_Forsakenhorse.tools.1.label>
+	<!-- EN: right hoof -->
+	<WoW_Animal_Forsakenhorse.tools.2.label>right hoof</WoW_Animal_Forsakenhorse.tools.2.label>
+	<!-- EN: right hoof -->
+	<WoW_Animal_Forsakenhorse.tools.3.label>right hoof</WoW_Animal_Forsakenhorse.tools.3.label>
+	<!-- EN: head -->
+	<WoW_Animal_Forsakenhorse.tools.5.label>head</WoW_Animal_Forsakenhorse.tools.5.label>
+	
+	<!-- EN: left hoof -->
+	<WoW_Animal_EpicForsakenhorse.tools.0.label>left hoof</WoW_Animal_EpicForsakenhorse.tools.0.label>
+	<!-- EN: left hoof -->
+	<WoW_Animal_EpicForsakenhorse.tools.1.label>left hoof</WoW_Animal_EpicForsakenhorse.tools.1.label>
+	<!-- EN: right hoof -->
+	<WoW_Animal_EpicForsakenhorse.tools.2.label>right hoof</WoW_Animal_EpicForsakenhorse.tools.2.label>
+	<!-- EN: right hoof -->
+	<WoW_Animal_EpicForsakenhorse.tools.3.label>right hoof</WoW_Animal_EpicForsakenhorse.tools.3.label>
+	<!-- EN: head -->
+	<WoW_Animal_EpicForsakenhorse.tools.5.label>head</WoW_Animal_EpicForsakenhorse.tools.5.label>
+	
+	<!-- EN: horny -->
+	<WoW_Animal_Unicorn.tools.0.label>horny</WoW_Animal_Unicorn.tools.0.label>
+	<!-- EN: left hoof -->
+	<WoW_Animal_Unicorn.tools.1.label>left hoof</WoW_Animal_Unicorn.tools.1.label>
+	<!-- EN: left hoof -->
+	<WoW_Animal_Unicorn.tools.2.label>left hoof</WoW_Animal_Unicorn.tools.2.label>
+	<!-- EN: right hoof -->
+	<WoW_Animal_Unicorn.tools.3.label>right hoof</WoW_Animal_Unicorn.tools.3.label>
+	<!-- EN: right hoof -->
+	<WoW_Animal_Unicorn.tools.4.label>right hoof</WoW_Animal_Unicorn.tools.4.label>
+	
+	<!-- EN: left hoof -->
+	<WoW_Animal_Talbuk.tools.0.label>left hoof</WoW_Animal_Talbuk.tools.0.label>
+	<!-- EN: left hoof -->
+	<WoW_Animal_Talbuk.tools.1.label>left hoof</WoW_Animal_Talbuk.tools.1.label>
+	<!-- EN: right hoof -->
+	<WoW_Animal_Talbuk.tools.2.label>right hoof</WoW_Animal_Talbuk.tools.2.label>
+	<!-- EN: right hoof -->
+	<WoW_Animal_Talbuk.tools.3.label>right hoof</WoW_Animal_Talbuk.tools.3.label>
+	<!-- EN: horny -->
+	<WoW_Animal_Talbuk.tools.5.label>horny</WoW_Animal_Talbuk.tools.5.label>
+</LanguageData>

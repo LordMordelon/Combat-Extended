@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\RH2 Rimmu-Nation² - Security\Defs\RH2 Rimmu-Nation² - Security\152mmBGM71.xml -->
+	<!-- EN: BGM-71D Missile (HEAT) -->
+	<Ammo_BGM71_HEAT.label>BGM-71D Missile (HEAT)</Ammo_BGM71_HEAT.label>
+	<!-- EN: 152mm Anti-tank guided missiles, typically reserved for destroying armoured targets due to its rarity, but can be used for engaging soft targets should a mysterious foreign benefactor supply you with thousands of these free of charge. -->
+	<Ammo_BGM71_HEAT.description>152mm Anti-tank guided missiles, typically reserved for destroying armoured targets due to its rarity, but can be used for engaging soft targets should a mysterious foreign benefactor supply you with thousands of these free of charge.</Ammo_BGM71_HEAT.description>
+	<!-- EN: BGM-71D Missile (HEAT) -->
+	<Bullet_BGM71_HEAT.label>BGM-71D Missile (HEAT)</Bullet_BGM71_HEAT.label>
+</LanguageData>

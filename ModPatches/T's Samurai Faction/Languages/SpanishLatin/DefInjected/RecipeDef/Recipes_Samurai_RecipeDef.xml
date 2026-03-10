@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\T's Samurai Faction\Defs\Recipes_Samurai.xml -->
+	<!-- EN: make shurikens x10 -->
+	<MakeTSF_Shuriken.label>make shurikens x10</MakeTSF_Shuriken.label>
+	<!-- EN: Craft 10 shurikens. -->
+	<MakeTSF_Shuriken.description>Craft 10 shurikens.</MakeTSF_Shuriken.description>
+	<!-- EN: Making shurikens. -->
+	<MakeTSF_Shuriken.jobString>Making shurikens.</MakeTSF_Shuriken.jobString>
+</LanguageData>

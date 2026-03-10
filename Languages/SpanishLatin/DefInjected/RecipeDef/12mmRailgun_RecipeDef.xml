@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Defs\Ammo\Advanced\12mmRailgun.xml -->
+	<!-- EN: make 12mm Railgun cartridge (Sabot) x200 -->
+	<MakeAmmo_12mmRailgun_Sabot.label>make 12mm Railgun cartridge (Sabot) x200</MakeAmmo_12mmRailgun_Sabot.label>
+	<!-- EN: Craft 200 12mm Railgun (Sabot) cartridges. -->
+	<MakeAmmo_12mmRailgun_Sabot.description>Craft 200 12mm Railgun (Sabot) cartridges.</MakeAmmo_12mmRailgun_Sabot.description>
+	<!-- EN: Making 12mm Railgun (Sabot) cartridges. -->
+	<MakeAmmo_12mmRailgun_Sabot.jobString>Making 12mm Railgun (Sabot) cartridges.</MakeAmmo_12mmRailgun_Sabot.jobString>
+</LanguageData>

@@ -1,0 +1,29 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\sarg_alphaimplants\Hediffs_Implants269.xml -->
+	<!-- EN: prosthetic animal leg -->
+	<AI_AnimalProstheticLeg.comps.0.tools.0.label>prosthetic animal leg</AI_AnimalProstheticLeg.comps.0.tools.0.label>
+	<!-- EN: prosthetic animal arm -->
+	<AI_AnimalProstheticArm.comps.0.tools.0.label>prosthetic animal arm</AI_AnimalProstheticArm.comps.0.tools.0.label>
+	<!-- EN: animal power claw -->
+	<AI_AnimalPowerClaw.comps.0.tools.0.label>animal power claw</AI_AnimalPowerClaw.comps.0.tools.0.label>
+	<!-- EN: prosthetic animal blade -->
+	<AI_AnimalProstheticBlade.comps.0.tools.0.label>prosthetic animal blade</AI_AnimalProstheticBlade.comps.0.tools.0.label>
+	<!-- EN: prosthetic animal stinger -->
+	<AI_AnimalProstheticStinger.comps.0.tools.0.label>prosthetic animal stinger</AI_AnimalProstheticStinger.comps.0.tools.0.label>
+	<!-- EN: prosthetic animal horn -->
+	<AI_AnimalProstheticHorn.comps.0.tools.0.label>prosthetic animal horn</AI_AnimalProstheticHorn.comps.0.tools.0.label>
+	<!-- EN: bionic animal leg -->
+	<AI_AnimalBionicLeg.comps.0.tools.0.label>bionic animal leg</AI_AnimalBionicLeg.comps.0.tools.0.label>
+	<!-- EN: bionic animal arm -->
+	<AI_AnimalBionicArm.comps.0.tools.0.label>bionic animal arm</AI_AnimalBionicArm.comps.0.tools.0.label>
+	<!-- EN: bionic animal blade -->
+	<AI_AnimalBionicBlade.comps.0.tools.0.label>bionic animal blade</AI_AnimalBionicBlade.comps.0.tools.0.label>
+	<!-- EN: bionic animal stinger -->
+	<AI_AnimalBionicStinger.comps.0.tools.0.label>bionic animal stinger</AI_AnimalBionicStinger.comps.0.tools.0.label>
+	<!-- EN: bionic animal horn -->
+	<AI_AnimalBionicHorn.comps.0.tools.0.label>bionic animal horn</AI_AnimalBionicHorn.comps.0.tools.0.label>
+	<!-- EN: archotech animal leg -->
+	<AI_AnimalArchotechLeg.comps.0.tools.0.label>archotech animal leg</AI_AnimalArchotechLeg.comps.0.tools.0.label>
+	<!-- EN: archotech animal arm -->
+	<AI_AnimalArchotechArm.comps.0.tools.0.label>archotech animal arm</AI_AnimalArchotechArm.comps.0.tools.0.label>
+</LanguageData>

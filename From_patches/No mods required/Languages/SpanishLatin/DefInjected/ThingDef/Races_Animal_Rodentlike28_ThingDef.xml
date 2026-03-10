@@ -1,0 +1,53 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Races_Animal_Rodentlike28.xml -->
+	<!-- EN: left claw -->
+	<Squirrel.tools.0.label>left claw</Squirrel.tools.0.label>
+	<!-- EN: right claw -->
+	<Squirrel.tools.1.label>right claw</Squirrel.tools.1.label>
+	<!-- EN: head -->
+	<Squirrel.tools.3.label>head</Squirrel.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<Alphabeaver.tools.0.label>left claw</Alphabeaver.tools.0.label>
+	<!-- EN: right claw -->
+	<Alphabeaver.tools.1.label>right claw</Alphabeaver.tools.1.label>
+	<!-- EN: head -->
+	<Alphabeaver.tools.3.label>head</Alphabeaver.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<Capybara.tools.0.label>left claw</Capybara.tools.0.label>
+	<!-- EN: right claw -->
+	<Capybara.tools.1.label>right claw</Capybara.tools.1.label>
+	<!-- EN: head -->
+	<Capybara.tools.3.label>head</Capybara.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<Chinchilla.tools.0.label>left claw</Chinchilla.tools.0.label>
+	<!-- EN: right claw -->
+	<Chinchilla.tools.1.label>right claw</Chinchilla.tools.1.label>
+	<!-- EN: head -->
+	<Chinchilla.tools.3.label>head</Chinchilla.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<Boomrat.tools.0.label>left claw</Boomrat.tools.0.label>
+	<!-- EN: right claw -->
+	<Boomrat.tools.1.label>right claw</Boomrat.tools.1.label>
+	<!-- EN: head -->
+	<Boomrat.tools.3.label>head</Boomrat.tools.3.label>
+	<!-- EN: Secretion level -->
+	<Boomrat.comps.CompShearableRenameable.growthLabel>Secretion level</Boomrat.comps.CompShearableRenameable.growthLabel>
+	
+	<!-- EN: left claw -->
+	<Raccoon.tools.0.label>left claw</Raccoon.tools.0.label>
+	<!-- EN: right claw -->
+	<Raccoon.tools.1.label>right claw</Raccoon.tools.1.label>
+	<!-- EN: head -->
+	<Raccoon.tools.3.label>head</Raccoon.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<Rat.tools.0.label>left claw</Rat.tools.0.label>
+	<!-- EN: right claw -->
+	<Rat.tools.1.label>right claw</Rat.tools.1.label>
+	<!-- EN: head -->
+	<Rat.tools.3.label>head</Rat.tools.3.label>
+</LanguageData>

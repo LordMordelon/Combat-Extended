@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Neronix17_OuterRim_RebelAlliance\Outer_Rim_Rebel_Ranged_Weapons1205.xml -->
+	<!-- EN: The A-180 blaster was a modular blaster manufactured by BlasTech Industries. Though theoretically capable of being easily reconfigured for various battlefield roles, the vast majority found are the simple blaster pistol variant. -->
+	<OuterRim_A180Blaster.description>The A-180 blaster was a modular blaster manufactured by BlasTech Industries. Though theoretically capable of being easily reconfigured for various battlefield roles, the vast majority found are the simple blaster pistol variant.</OuterRim_A180Blaster.description>
+	<!-- EN: dh-17 blaster carbine -->
+	<OuterRim_DH17Pistol.label>dh-17 blaster carbine</OuterRim_DH17Pistol.label>
+	<!-- EN: The DH-17 blaster carbine was a close-combat blaster weapon produced by BlasTech Industries. -->
+	<OuterRim_DH17Pistol.description>The DH-17 blaster carbine was a close-combat blaster weapon produced by BlasTech Industries.</OuterRim_DH17Pistol.description>
+	<!-- EN: Not to be confused with the more compact DH-17 carbine, the DH-17 rifle was another staple of the Rebel Alliance's armouries. With a full stock and improved optics, it was more accurate than the carbine model. -->
+	<OuterRim_DH17Rifle.description>Not to be confused with the more compact DH-17 carbine, the DH-17 rifle was another staple of the Rebel Alliance's armouries. With a full stock and improved optics, it was more accurate than the carbine model.</OuterRim_DH17Rifle.description>
+	<!-- EN: A simple but effective shoulder-fired rocket launcher utilized by the Rebel Alliance, engineered to take advantage of generous leftover stocks of RPS-6 missiles that were once used by the Galactic Republic before its dissolution. -->
+	<OuterRim_HH12RocketLauncher.description>A simple but effective shoulder-fired rocket launcher utilized by the Rebel Alliance, engineered to take advantage of generous leftover stocks of RPS-6 missiles that were once used by the Galactic Republic before its dissolution.</OuterRim_HH12RocketLauncher.description>
+</LanguageData>

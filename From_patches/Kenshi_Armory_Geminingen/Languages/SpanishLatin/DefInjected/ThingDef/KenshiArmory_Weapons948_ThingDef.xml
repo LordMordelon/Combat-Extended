@@ -1,0 +1,82 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Kenshi_Armory_Geminingen\KenshiArmory_Weapons948.xml -->
+	<!-- EN: handle -->
+	<Kenshi_PaladinsCross.tools.0.label>handle</Kenshi_PaladinsCross.tools.0.label>
+	<!-- EN: point -->
+	<Kenshi_PaladinsCross.tools.1.label>point</Kenshi_PaladinsCross.tools.1.label>
+	<!-- EN: edge -->
+	<Kenshi_PaladinsCross.tools.2.label>edge</Kenshi_PaladinsCross.tools.2.label>
+	
+	<!-- EN: handle -->
+	<Kenshi_CombatCleaver.tools.0.label>handle</Kenshi_CombatCleaver.tools.0.label>
+	<!-- EN: point -->
+	<Kenshi_CombatCleaver.tools.1.label>point</Kenshi_CombatCleaver.tools.1.label>
+	<!-- EN: edge -->
+	<Kenshi_CombatCleaver.tools.2.label>edge</Kenshi_CombatCleaver.tools.2.label>
+	
+	<!-- EN: handle -->
+	<Kenshi_Katana.tools.0.label>handle</Kenshi_Katana.tools.0.label>
+	<!-- EN: point -->
+	<Kenshi_Katana.tools.1.label>point</Kenshi_Katana.tools.1.label>
+	<!-- EN: edge -->
+	<Kenshi_Katana.tools.2.label>edge</Kenshi_Katana.tools.2.label>
+	
+	<!-- EN: handle -->
+	<Kenshi_GuardlessKatana.tools.0.label>handle</Kenshi_GuardlessKatana.tools.0.label>
+	<!-- EN: point -->
+	<Kenshi_GuardlessKatana.tools.1.label>point</Kenshi_GuardlessKatana.tools.1.label>
+	<!-- EN: edge -->
+	<Kenshi_GuardlessKatana.tools.2.label>edge</Kenshi_GuardlessKatana.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<Kenshi_Naginata.tools.0.label>shaft</Kenshi_Naginata.tools.0.label>
+	<!-- EN: point -->
+	<Kenshi_Naginata.tools.1.label>point</Kenshi_Naginata.tools.1.label>
+	<!-- EN: edge -->
+	<Kenshi_Naginata.tools.2.label>edge</Kenshi_Naginata.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<Kenshi_NaginataKatana.tools.0.label>shaft</Kenshi_NaginataKatana.tools.0.label>
+	<!-- EN: point -->
+	<Kenshi_NaginataKatana.tools.1.label>point</Kenshi_NaginataKatana.tools.1.label>
+	<!-- EN: edge -->
+	<Kenshi_NaginataKatana.tools.2.label>edge</Kenshi_NaginataKatana.tools.2.label>
+	
+	<!-- EN: handle -->
+	<Kenshi_FallingSun.tools.0.label>handle</Kenshi_FallingSun.tools.0.label>
+	<!-- EN: point -->
+	<Kenshi_FallingSun.tools.1.label>point</Kenshi_FallingSun.tools.1.label>
+	<!-- EN: edge -->
+	<Kenshi_FallingSun.tools.2.label>edge</Kenshi_FallingSun.tools.2.label>
+	
+	<!-- EN: handle -->
+	<Kenshi_FragmentAxe.tools.0.label>handle</Kenshi_FragmentAxe.tools.0.label>
+	<!-- EN: point -->
+	<Kenshi_FragmentAxe.tools.1.label>point</Kenshi_FragmentAxe.tools.1.label>
+	<!-- EN: edge -->
+	<Kenshi_FragmentAxe.tools.2.label>edge</Kenshi_FragmentAxe.tools.2.label>
+	
+	<!-- EN: handle -->
+	<Kenshi_RingedSabre.tools.0.label>handle</Kenshi_RingedSabre.tools.0.label>
+	<!-- EN: point -->
+	<Kenshi_RingedSabre.tools.1.label>point</Kenshi_RingedSabre.tools.1.label>
+	<!-- EN: edge -->
+	<Kenshi_RingedSabre.tools.2.label>edge</Kenshi_RingedSabre.tools.2.label>
+	
+	<!-- EN: handle -->
+	<Kenshi_ForeignSabre.tools.0.label>handle</Kenshi_ForeignSabre.tools.0.label>
+	<!-- EN: point -->
+	<Kenshi_ForeignSabre.tools.1.label>point</Kenshi_ForeignSabre.tools.1.label>
+	<!-- EN: edge -->
+	<Kenshi_ForeignSabre.tools.2.label>edge</Kenshi_ForeignSabre.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<Kenshi_MercenaryClub.tools.0.label>shaft</Kenshi_MercenaryClub.tools.0.label>
+	<!-- EN: head -->
+	<Kenshi_MercenaryClub.tools.1.label>head</Kenshi_MercenaryClub.tools.1.label>
+	
+	<!-- EN: shaft -->
+	<Kenshi_Jitte.tools.0.label>shaft</Kenshi_Jitte.tools.0.label>
+	<!-- EN: head -->
+	<Kenshi_Jitte.tools.1.label>head</Kenshi_Jitte.tools.1.label>
+</LanguageData>

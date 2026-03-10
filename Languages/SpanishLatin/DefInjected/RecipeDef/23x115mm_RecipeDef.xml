@@ -1,0 +1,31 @@
+<LanguageData>
+	<!-- Defs\Ammo\HighCaliber\23x115mm.xml -->
+	
+	<!-- EN: make 23x115mm (AP) cartridge x200 -->
+	<MakeAmmo_23x115mm_AP.label>make 23x115mm (AP) cartridge x200</MakeAmmo_23x115mm_AP.label>
+	<!-- EN: Craft 200 23x115mm (AP) cartridges. -->
+	<MakeAmmo_23x115mm_AP.description>Craft 200 23x115mm (AP) cartridges.</MakeAmmo_23x115mm_AP.description>
+	<!-- EN: Making 23x115mm (AP) cartridges. -->
+	<MakeAmmo_23x115mm_AP.jobString>Making 23x115mm (AP) cartridges.</MakeAmmo_23x115mm_AP.jobString>
+	
+	<!-- EN: make 23x115mm (AP-I) cartridge x200 -->
+	<MakeAmmo_23x115mm_Incendiary.label>make 23x115mm (AP-I) cartridge x200</MakeAmmo_23x115mm_Incendiary.label>
+	<!-- EN: Craft 200 23x115mm (AP-I) cartridges. -->
+	<MakeAmmo_23x115mm_Incendiary.description>Craft 200 23x115mm (AP-I) cartridges.</MakeAmmo_23x115mm_Incendiary.description>
+	<!-- EN: Making 23x115mm (AP-I) cartridges. -->
+	<MakeAmmo_23x115mm_Incendiary.jobString>Making 23x115mm (AP-I) cartridges.</MakeAmmo_23x115mm_Incendiary.jobString>
+	
+	<!-- EN: make 23x115mm (AP-HE) cartridge x200 -->
+	<MakeAmmo_23x115mm_HE.label>make 23x115mm (AP-HE) cartridge x200</MakeAmmo_23x115mm_HE.label>
+	<!-- EN: Craft 200 23x115mm (AP-HE) cartridges. -->
+	<MakeAmmo_23x115mm_HE.description>Craft 200 23x115mm (AP-HE) cartridges.</MakeAmmo_23x115mm_HE.description>
+	<!-- EN: Making 23x115mm (AP-HE) cartridges. -->
+	<MakeAmmo_23x115mm_HE.jobString>Making 23x115mm (AP-HE) cartridges.</MakeAmmo_23x115mm_HE.jobString>
+	
+	<!-- EN: make 23x115mm (Sabot) cartridge x200 -->
+	<MakeAmmo_23x115mm_Sabot.label>make 23x115mm (Sabot) cartridge x200</MakeAmmo_23x115mm_Sabot.label>
+	<!-- EN: Craft 200 23x115mm (Sabot) cartridges. -->
+	<MakeAmmo_23x115mm_Sabot.description>Craft 200 23x115mm (Sabot) cartridges.</MakeAmmo_23x115mm_Sabot.description>
+	<!-- EN: Making 23x115mm (Sabot) cartridges. -->
+	<MakeAmmo_23x115mm_Sabot.jobString>Making 23x115mm (Sabot) cartridges.</MakeAmmo_23x115mm_Sabot.jobString>
+</LanguageData>

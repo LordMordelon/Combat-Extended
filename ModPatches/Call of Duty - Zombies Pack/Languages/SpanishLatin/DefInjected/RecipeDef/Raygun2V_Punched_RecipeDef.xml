@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Rayguns\Raygun2V_Punched.xml -->
+	<!-- EN: make Porter's Raygun Mk.2 V Cartridge x500 -->
+	<MakeAmmo_Raygun_two_v_Punched.label>make Porter's Raygun Mk.2 V Cartridge x500</MakeAmmo_Raygun_two_v_Punched.label>
+	<!-- EN: Craft 500 Porter's Raygun Mk.2 V Cartridges. -->
+	<MakeAmmo_Raygun_two_v_Punched.description>Craft 500 Porter's Raygun Mk.2 V Cartridges.</MakeAmmo_Raygun_two_v_Punched.description>
+	<!-- EN: Making Porter's Raygun Mk.2 V Cartridges. -->
+	<MakeAmmo_Raygun_two_v_Punched.jobString>Making Porter's Raygun Mk.2 V Cartridges.</MakeAmmo_Raygun_two_v_Punched.jobString>
+</LanguageData>

@@ -1,0 +1,30 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Races_Animal_Pet27.xml -->
+	<!-- EN: left claw -->
+	<YorkshireTerrier.tools.0.label>left claw</YorkshireTerrier.tools.0.label>
+	<!-- EN: right claw -->
+	<YorkshireTerrier.tools.1.label>right claw</YorkshireTerrier.tools.1.label>
+	<!-- EN: head -->
+	<YorkshireTerrier.tools.3.label>head</YorkshireTerrier.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<Husky.tools.0.label>left claw</Husky.tools.0.label>
+	<!-- EN: right claw -->
+	<Husky.tools.1.label>right claw</Husky.tools.1.label>
+	<!-- EN: head -->
+	<Husky.tools.3.label>head</Husky.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<LabradorRetriever.tools.0.label>left claw</LabradorRetriever.tools.0.label>
+	<!-- EN: right claw -->
+	<LabradorRetriever.tools.1.label>right claw</LabradorRetriever.tools.1.label>
+	<!-- EN: head -->
+	<LabradorRetriever.tools.3.label>head</LabradorRetriever.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<Cat.tools.0.label>left claw</Cat.tools.0.label>
+	<!-- EN: right claw -->
+	<Cat.tools.1.label>right claw</Cat.tools.1.label>
+	<!-- EN: head -->
+	<Cat.tools.3.label>head</Cat.tools.3.label>
+</LanguageData>

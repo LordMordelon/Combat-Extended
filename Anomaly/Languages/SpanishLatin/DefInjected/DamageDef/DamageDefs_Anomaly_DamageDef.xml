@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- Anomaly\Defs\DamageDefs\DamageDefs_Anomaly.xml -->
+	<!-- EN: scratch -->
+	<DemolishScratch.label>scratch</DemolishScratch.label>
+	<!-- EN: {0} has been torn to death. -->
+	<DemolishScratch.deathMessage>{0} has been torn to death.</DemolishScratch.deathMessage>
+	
+	<!-- EN: {0} has been killed. -->
+	<NerveBioferrite.deathMessage>{0} has been killed.</NerveBioferrite.deathMessage>
+	
+	<!-- EN: bioferrite flame -->
+	<BioferriteFlame.label>bioferrite flame</BioferriteFlame.label>
+	<!-- EN: {0} has burned to death. -->
+	<BioferriteFlame.deathMessage>{0} has burned to death.</BioferriteFlame.deathMessage>
+</LanguageData>

@@ -1,0 +1,43 @@
+<LanguageData>
+	<!-- Defs\Ammo\HighCaliber\300WinchesterMagnum.xml -->
+	
+	<!-- EN: .300 Winchester Magnum (FMJ) -->
+	<Ammo_300WinchesterMagnum_FMJ.label>.300 Winchester Magnum (FMJ)</Ammo_300WinchesterMagnum_FMJ.label>
+	<!-- EN: Large cartridge developed for military long-range sniper rifles. -->
+	<Ammo_300WinchesterMagnum_FMJ.description>Large cartridge developed for military long-range sniper rifles.</Ammo_300WinchesterMagnum_FMJ.description>
+	
+	<!-- EN: .300 Winchester Magnum (AP) -->
+	<Ammo_300WinchesterMagnum_AP.label>.300 Winchester Magnum (AP)</Ammo_300WinchesterMagnum_AP.label>
+	<!-- EN: Large cartridge developed for military long-range sniper rifles. -->
+	<Ammo_300WinchesterMagnum_AP.description>Large cartridge developed for military long-range sniper rifles.</Ammo_300WinchesterMagnum_AP.description>
+	
+	<!-- EN: .300 Winchester Magnum (AP-I) -->
+	<Ammo_300WinchesterMagnum_Incendiary.label>.300 Winchester Magnum (AP-I)</Ammo_300WinchesterMagnum_Incendiary.label>
+	<!-- EN: Large cartridge developed for military long-range sniper rifles. -->
+	<Ammo_300WinchesterMagnum_Incendiary.description>Large cartridge developed for military long-range sniper rifles.</Ammo_300WinchesterMagnum_Incendiary.description>
+	
+	<!-- EN: .300 Winchester Magnum (AP-HE) -->
+	<Ammo_300WinchesterMagnum_HE.label>.300 Winchester Magnum (AP-HE)</Ammo_300WinchesterMagnum_HE.label>
+	<!-- EN: Large cartridge developed for military long-range sniper rifles. -->
+	<Ammo_300WinchesterMagnum_HE.description>Large cartridge developed for military long-range sniper rifles.</Ammo_300WinchesterMagnum_HE.description>
+	
+	<!-- EN: .300 Winchester Magnum (Sabot) -->
+	<Ammo_300WinchesterMagnum_Sabot.label>.300 Winchester Magnum (Sabot)</Ammo_300WinchesterMagnum_Sabot.label>
+	<!-- EN: Large cartridge developed for military long-range sniper rifles. -->
+	<Ammo_300WinchesterMagnum_Sabot.description>Large cartridge developed for military long-range sniper rifles.</Ammo_300WinchesterMagnum_Sabot.description>
+	
+	<!-- EN: .300 Winchester Magnum bullet (FMJ) -->
+	<Bullet_300WinchesterMagnum_FMJ.label>.300 Winchester Magnum bullet (FMJ)</Bullet_300WinchesterMagnum_FMJ.label>
+	
+	<!-- EN: .300 Winchester Magnum bullet (AP) -->
+	<Bullet_300WinchesterMagnum_AP.label>.300 Winchester Magnum bullet (AP)</Bullet_300WinchesterMagnum_AP.label>
+	
+	<!-- EN: .300 Winchester Magnum bullet (AP-I) -->
+	<Bullet_300WinchesterMagnum_Incendiary.label>.300 Winchester Magnum bullet (AP-I)</Bullet_300WinchesterMagnum_Incendiary.label>
+	
+	<!-- EN: .300 Winchester Magnum bullet (AP-HE) -->
+	<Bullet_300WinchesterMagnum_HE.label>.300 Winchester Magnum bullet (AP-HE)</Bullet_300WinchesterMagnum_HE.label>
+	
+	<!-- EN: .300 Winchester Magnum bullet (Sabot) -->
+	<Bullet_300WinchesterMagnum_Sabot.label>.300 Winchester Magnum bullet (Sabot)</Bullet_300WinchesterMagnum_Sabot.label>
+</LanguageData>

@@ -1,0 +1,22 @@
+<LanguageData>
+	<!-- ModPatches\Spacer Arsenal\Defs\Spacer Arsenal\Ammo.xml -->
+	
+	<!-- EN: coilgun lance shot -->
+	<Bullet_CoilGunLance.label>coilgun lance shot</Bullet_CoilGunLance.label>
+	
+	<!-- EN: Hot Plasma Cell -->
+	<Ammo_HotPlasmaCell.label>Hot Plasma Cell</Ammo_HotPlasmaCell.label>
+	<!-- EN: A hot plasma cell utilised by spacer tech assault weapons. -->
+	<Ammo_HotPlasmaCell.description>A hot plasma cell utilised by spacer tech assault weapons.</Ammo_HotPlasmaCell.description>
+	
+	<!-- EN: bullet -->
+	<Bullet_Bolt_PlasmaBlaster.label>bullet</Bullet_Bolt_PlasmaBlaster.label>
+	
+	<!-- EN: Charged Photon Cell -->
+	<Ammo_PhotonCell.label>Charged Photon Cell</Ammo_PhotonCell.label>
+	<!-- EN: A charged photon cell utilised by spacer tech assault weapons. -->
+	<Ammo_PhotonCell.description>A charged photon cell utilised by spacer tech assault weapons.</Ammo_PhotonCell.description>
+	
+	<!-- EN: bullet -->
+	<Bullet_Bolt_PhotonBlaster.label>bullet</Bullet_Bolt_PhotonBlaster.label>
+</LanguageData>

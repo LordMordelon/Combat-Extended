@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\D4egon_MagicWand\Patch_Weapons663.xml -->
+	<!-- EN: wand -->
+	<DM_BasicMagicWand.tools.0.label>wand</DM_BasicMagicWand.tools.0.label>
+	<!-- EN: wand -->
+	<DM_LesserMagicWand.tools.0.label>wand</DM_LesserMagicWand.tools.0.label>
+	<!-- EN: wand -->
+	<DM_MagicWand.tools.0.label>wand</DM_MagicWand.tools.0.label>
+	<!-- EN: wand -->
+	<DM_GreaterMagicWand.tools.0.label>wand</DM_GreaterMagicWand.tools.0.label>
+	<!-- EN: wand -->
+	<DM_FireWand.tools.0.label>wand</DM_FireWand.tools.0.label>
+	<!-- EN: wand -->
+	<DM_PoisonWand.tools.0.label>wand</DM_PoisonWand.tools.0.label>
+</LanguageData>

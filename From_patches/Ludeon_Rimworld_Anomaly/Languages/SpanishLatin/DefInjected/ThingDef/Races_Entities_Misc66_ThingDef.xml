@@ -1,0 +1,95 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Ludeon_Rimworld_Anomaly\Races_Entities_Misc66.xml -->
+	<!-- EN: left blade -->
+	<Metalhorror.tools.0.label>left blade</Metalhorror.tools.0.label>
+	<!-- EN: blade -->
+	<Metalhorror.tools.0.labelNoLocation>blade</Metalhorror.tools.0.labelNoLocation>
+	<!-- EN: left blade -->
+	<Metalhorror.tools.1.label>left blade</Metalhorror.tools.1.label>
+	<!-- EN: blade -->
+	<Metalhorror.tools.1.labelNoLocation>blade</Metalhorror.tools.1.labelNoLocation>
+	<!-- EN: right blade -->
+	<Metalhorror.tools.2.label>right blade</Metalhorror.tools.2.label>
+	<!-- EN: blade -->
+	<Metalhorror.tools.2.labelNoLocation>blade</Metalhorror.tools.2.labelNoLocation>
+	<!-- EN: right blade -->
+	<Metalhorror.tools.3.label>right blade</Metalhorror.tools.3.label>
+	<!-- EN: blade -->
+	<Metalhorror.tools.3.labelNoLocation>blade</Metalhorror.tools.3.labelNoLocation>
+	<!-- EN: head -->
+	<Metalhorror.tools.4.label>head</Metalhorror.tools.4.label>
+	
+	<!-- EN: head -->
+	<Revenant.tools.0.label>head</Revenant.tools.0.label>
+	
+	<!-- EN: left claw -->
+	<Sightstealer.tools.0.label>left claw</Sightstealer.tools.0.label>
+	<!-- EN: claw -->
+	<Sightstealer.tools.0.labelNoLocation>claw</Sightstealer.tools.0.labelNoLocation>
+	<!-- EN: right claw -->
+	<Sightstealer.tools.1.label>right claw</Sightstealer.tools.1.label>
+	<!-- EN: claw -->
+	<Sightstealer.tools.1.labelNoLocation>claw</Sightstealer.tools.1.labelNoLocation>
+	<!-- EN: left claw -->
+	<Sightstealer.tools.2.label>left claw</Sightstealer.tools.2.label>
+	<!-- EN: claw -->
+	<Sightstealer.tools.2.labelNoLocation>claw</Sightstealer.tools.2.labelNoLocation>
+	<!-- EN: right claw -->
+	<Sightstealer.tools.3.label>right claw</Sightstealer.tools.3.label>
+	<!-- EN: claw -->
+	<Sightstealer.tools.3.labelNoLocation>claw</Sightstealer.tools.3.labelNoLocation>
+	<!-- EN: head -->
+	<Sightstealer.tools.4.label>head</Sightstealer.tools.4.label>
+	
+	<!-- EN: left claw -->
+	<Noctol.tools.0.label>left claw</Noctol.tools.0.label>
+	<!-- EN: claw -->
+	<Noctol.tools.0.labelNoLocation>claw</Noctol.tools.0.labelNoLocation>
+	<!-- EN: right claw -->
+	<Noctol.tools.1.label>right claw</Noctol.tools.1.label>
+	<!-- EN: claw -->
+	<Noctol.tools.1.labelNoLocation>claw</Noctol.tools.1.labelNoLocation>
+	<!-- EN: left claw -->
+	<Noctol.tools.2.label>left claw</Noctol.tools.2.label>
+	<!-- EN: claw -->
+	<Noctol.tools.2.labelNoLocation>claw</Noctol.tools.2.labelNoLocation>
+	<!-- EN: right claw -->
+	<Noctol.tools.3.label>right claw</Noctol.tools.3.label>
+	<!-- EN: claw -->
+	<Noctol.tools.3.labelNoLocation>claw</Noctol.tools.3.labelNoLocation>
+	<!-- EN: head -->
+	<Noctol.tools.5.label>head</Noctol.tools.5.label>
+	
+	<!-- EN: left flesh club -->
+	<Gorehulk.tools.0.label>left flesh club</Gorehulk.tools.0.label>
+	<!-- EN: flesh club -->
+	<Gorehulk.tools.0.labelNoLocation>flesh club</Gorehulk.tools.0.labelNoLocation>
+	<!-- EN: right flesh club -->
+	<Gorehulk.tools.1.label>right flesh club</Gorehulk.tools.1.label>
+	<!-- EN: flesh club -->
+	<Gorehulk.tools.1.labelNoLocation>flesh club</Gorehulk.tools.1.labelNoLocation>
+	<!-- EN: head -->
+	<Gorehulk.tools.2.label>head</Gorehulk.tools.2.label>
+	
+	<!-- EN: left fin -->
+	<Devourer.tools.0.label>left fin</Devourer.tools.0.label>
+	<!-- EN: fin -->
+	<Devourer.tools.0.labelNoLocation>fin</Devourer.tools.0.labelNoLocation>
+	<!-- EN: right fin -->
+	<Devourer.tools.1.label>right fin</Devourer.tools.1.label>
+	<!-- EN: fin -->
+	<Devourer.tools.1.labelNoLocation>fin</Devourer.tools.1.labelNoLocation>
+	<!-- EN: teeth -->
+	<Devourer.tools.2.label>teeth</Devourer.tools.2.label>
+	
+	<!-- EN: left claw -->
+	<Chimera.tools.0.label>left claw</Chimera.tools.0.label>
+	<!-- EN: claw -->
+	<Chimera.tools.0.labelNoLocation>claw</Chimera.tools.0.labelNoLocation>
+	<!-- EN: right claw -->
+	<Chimera.tools.1.label>right claw</Chimera.tools.1.label>
+	<!-- EN: claw -->
+	<Chimera.tools.1.labelNoLocation>claw</Chimera.tools.1.labelNoLocation>
+	<!-- EN: head -->
+	<Chimera.tools.3.label>head</Chimera.tools.3.label>
+</LanguageData>

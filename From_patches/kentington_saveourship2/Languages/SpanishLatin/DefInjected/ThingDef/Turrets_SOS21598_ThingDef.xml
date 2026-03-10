@@ -1,0 +1,47 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\kentington_saveourship2\Turrets_SOS21598.xml -->
+	<!-- EN: shoot slug -->
+	<ShipTurret_KineticTop.verbs.0.label>shoot slug</ShipTurret_KineticTop.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<ShipTurret_KineticTop.verbs.CombatExtended.Compatibility.SOS2Compat.Verb_ShootShipCE.label>ㅤ</ShipTurret_KineticTop.verbs.CombatExtended.Compatibility.SOS2Compat.Verb_ShootShipCE.label>
+	
+	<!-- EN: shoot slug -->
+	<ShipTurret_KineticTop_Large.verbs.0.label>shoot slug</ShipTurret_KineticTop_Large.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<ShipTurret_KineticTop_Large.verbs.CombatExtended.Compatibility.SOS2Compat.Verb_ShootShipCE.label>ㅤ</ShipTurret_KineticTop_Large.verbs.CombatExtended.Compatibility.SOS2Compat.Verb_ShootShipCE.label>
+	
+	<!-- EN: fire plasma -->
+	<ShipTurret_PlasmaTop.verbs.0.label>fire plasma</ShipTurret_PlasmaTop.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<ShipTurret_PlasmaTop.verbs.CombatExtended.Compatibility.SOS2Compat.Verb_ShootShipCE.label>ㅤ</ShipTurret_PlasmaTop.verbs.CombatExtended.Compatibility.SOS2Compat.Verb_ShootShipCE.label>
+	
+	<!-- EN: fire plasma -->
+	<ShipTurret_PlasmaTop_Large.verbs.0.label>fire plasma</ShipTurret_PlasmaTop_Large.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<ShipTurret_PlasmaTop_Large.verbs.CombatExtended.Compatibility.SOS2Compat.Verb_ShootShipCE.label>ㅤ</ShipTurret_PlasmaTop_Large.verbs.CombatExtended.Compatibility.SOS2Compat.Verb_ShootShipCE.label>
+	
+	<!-- EN: shoot laser -->
+	<ShipTurret_LaserTop.verbs.0.label>shoot laser</ShipTurret_LaserTop.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<ShipTurret_LaserTop.verbs.CombatExtended.Compatibility.SOS2Compat.Verb_ShootShipCE.label>ㅤ</ShipTurret_LaserTop.verbs.CombatExtended.Compatibility.SOS2Compat.Verb_ShootShipCE.label>
+	
+	<!-- EN: shoot laser -->
+	<ShipTurret_LaserTop_Large.verbs.0.label>shoot laser</ShipTurret_LaserTop_Large.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<ShipTurret_LaserTop_Large.verbs.CombatExtended.Compatibility.SOS2Compat.Verb_ShootShipCE.label>ㅤ</ShipTurret_LaserTop_Large.verbs.CombatExtended.Compatibility.SOS2Compat.Verb_ShootShipCE.label>
+	
+	<!-- EN: shoot slug -->
+	<ShipTurret_ACITop.verbs.0.label>shoot slug</ShipTurret_ACITop.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<ShipTurret_ACITop.verbs.CombatExtended.Compatibility.SOS2Compat.Verb_ShootShipCE.label>ㅤ</ShipTurret_ACITop.verbs.CombatExtended.Compatibility.SOS2Compat.Verb_ShootShipCE.label>
+	
+	<!-- EN: shoot slug -->
+	<ShipTurret_ACIITop.verbs.0.label>shoot slug</ShipTurret_ACIITop.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<ShipTurret_ACIITop.verbs.CombatExtended.Compatibility.SOS2Compat.Verb_ShootShipCE.label>ㅤ</ShipTurret_ACIITop.verbs.CombatExtended.Compatibility.SOS2Compat.Verb_ShootShipCE.label>
+	
+	<!-- EN: shoot slug -->
+	<ShipTurret_ACIIITop.verbs.0.label>shoot slug</ShipTurret_ACIIITop.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<ShipTurret_ACIIITop.verbs.CombatExtended.Compatibility.SOS2Compat.Verb_ShootShipCE.label>ㅤ</ShipTurret_ACIIITop.verbs.CombatExtended.Compatibility.SOS2Compat.Verb_ShootShipCE.label>
+</LanguageData>

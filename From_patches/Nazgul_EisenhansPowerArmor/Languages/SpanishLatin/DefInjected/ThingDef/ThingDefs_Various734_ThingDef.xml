@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Nazgul_EisenhansPowerArmor\ThingDefs_Various734.xml -->
+	<!-- EN: launch 60mm shell -->
+	<Apparel_Eisenhans_Powerarmor.verbs.0.label>launch 60mm shell</Apparel_Eisenhans_Powerarmor.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<Apparel_Eisenhans_Powerarmor.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>ㅤ</Apparel_Eisenhans_Powerarmor.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>
+	<!-- EN: head -->
+	<MeleeWeapon_EisenhansBatteringRam.tools.0.label>head</MeleeWeapon_EisenhansBatteringRam.tools.0.label>
+</LanguageData>

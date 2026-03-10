@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\sarg_magicalmenagerie\AM_CE_Patch_Hediffs332.xml -->
+	<!-- EN: prosthetic horns -->
+	<MM_ProstheticHorns.comps.0.tools.0.label>prosthetic horns</MM_ProstheticHorns.comps.0.tools.0.label>
+	<!-- EN: bionic horns -->
+	<MM_BionicHorns.comps.0.tools.0.label>bionic horns</MM_BionicHorns.comps.0.tools.0.label>
+	<!-- EN: petrifying gaze -->
+	<MM_PetrifyingGazeImplant.comps.0.verbs.0.label>petrifying gaze</MM_PetrifyingGazeImplant.comps.0.verbs.0.label>
+	<!-- EN: venomous quills -->
+	<MM_VenomousQuillImplant.comps.0.verbs.0.label>venomous quills</MM_VenomousQuillImplant.comps.0.verbs.0.label>
+	<!-- EN: wisp breath -->
+	<MM_WispFireImplant.comps.0.verbs.0.label>wisp breath</MM_WispFireImplant.comps.0.verbs.0.label>
+	<!-- EN: acidic breath -->
+	<MM_AcidicBreathImplant.comps.0.verbs.0.label>acidic breath</MM_AcidicBreathImplant.comps.0.verbs.0.label>
+	<!-- EN: fire breath -->
+	<MM_FireBreathImplant.comps.0.verbs.0.label>fire breath</MM_FireBreathImplant.comps.0.verbs.0.label>
+	<!-- EN: toxic breath -->
+	<MM_ToxicBreathImplant.comps.0.verbs.0.label>toxic breath</MM_ToxicBreathImplant.comps.0.verbs.0.label>
+</LanguageData>

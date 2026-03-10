@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Moyo light in the abyss\Defs\Moyo light in the abyss\Ammo\Ammo_Moyo.xml -->
+	<!-- EN: make Plasma Pistol Power Cells -->
+	<MakeAmmo_PlasmaCellPistol_Abyss.label>make Plasma Pistol Power Cells</MakeAmmo_PlasmaCellPistol_Abyss.label>
+	<!-- EN: Craft 500 shots' worth of Plasma Pistol Power Cells. -->
+	<MakeAmmo_PlasmaCellPistol_Abyss.description>Craft 500 shots' worth of Plasma Pistol Power Cells.</MakeAmmo_PlasmaCellPistol_Abyss.description>
+	<!-- EN: Making Plasma Pistol Power Cells. -->
+	<MakeAmmo_PlasmaCellPistol_Abyss.jobString>Making Plasma Pistol Power Cells.</MakeAmmo_PlasmaCellPistol_Abyss.jobString>
+</LanguageData>

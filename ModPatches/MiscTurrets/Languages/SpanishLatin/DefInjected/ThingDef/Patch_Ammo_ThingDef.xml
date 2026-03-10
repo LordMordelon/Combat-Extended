@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\MiscTurrets\Defs\MiscTurrets\Patch_Ammo.xml -->
+	<!-- EN: Nanobots (MT) cartridge -->
+	<Ammo_NanobotsMicroTurret.label>Nanobots (MT) cartridge</Ammo_NanobotsMicroTurret.label>
+	<!-- EN: Nanobot ammo used by highly-advanced designs. -->
+	<Ammo_NanobotsMicroTurret.description>Nanobot ammo used by highly-advanced designs.</Ammo_NanobotsMicroTurret.description>
+	<!-- EN: Nanobots (MT) bullet -->
+	<Bullet_NanobotsMicroTurret.label>Nanobots (MT) bullet</Bullet_NanobotsMicroTurret.label>
+</LanguageData>

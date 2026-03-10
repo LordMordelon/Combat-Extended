@@ -1,0 +1,34 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VAERoy\Royal_Animals1721.xml -->
+	<!-- EN: head -->
+	<VAERoy_AngoraRabbit.tools.1.label>head</VAERoy_AngoraRabbit.tools.1.label>
+	
+	<!-- EN: claws -->
+	<VAERoy_Crane.tools.0.label>claws</VAERoy_Crane.tools.0.label>
+	<!-- EN: head -->
+	<VAERoy_Crane.tools.2.label>head</VAERoy_Crane.tools.2.label>
+	
+	<!-- EN: claws -->
+	<VAERoy_Megachicken.tools.0.label>claws</VAERoy_Megachicken.tools.0.label>
+	<!-- EN: head -->
+	<VAERoy_Megachicken.tools.2.label>head</VAERoy_Megachicken.tools.2.label>
+	
+	<!-- EN: left fist -->
+	<VAERoy_Orangutan.tools.0.label>left fist</VAERoy_Orangutan.tools.0.label>
+	<!-- EN: right fist -->
+	<VAERoy_Orangutan.tools.1.label>right fist</VAERoy_Orangutan.tools.1.label>
+	<!-- EN: head -->
+	<VAERoy_Orangutan.tools.3.label>head</VAERoy_Orangutan.tools.3.label>
+	
+	<!-- EN: claws -->
+	<VAERoy_Pheasant.tools.0.label>claws</VAERoy_Pheasant.tools.0.label>
+	<!-- EN: head -->
+	<VAERoy_Pheasant.tools.2.label>head</VAERoy_Pheasant.tools.2.label>
+	
+	<!-- EN: left claw -->
+	<VAERoy_RoyalTiger.tools.0.label>left claw</VAERoy_RoyalTiger.tools.0.label>
+	<!-- EN: right claw -->
+	<VAERoy_RoyalTiger.tools.1.label>right claw</VAERoy_RoyalTiger.tools.1.label>
+	<!-- EN: head -->
+	<VAERoy_RoyalTiger.tools.3.label>head</VAERoy_RoyalTiger.tools.3.label>
+</LanguageData>

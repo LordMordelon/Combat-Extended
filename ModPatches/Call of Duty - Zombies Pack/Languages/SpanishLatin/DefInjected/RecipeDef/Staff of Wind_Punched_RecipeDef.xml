@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Staffs\Staff of Wind_Punched.xml -->
+	<!-- EN: make Empowered elemental wind crystal x5 -->
+	<MakeAmmo_Elemental_Staff_Wind_Punched.label>make Empowered elemental wind crystal x5</MakeAmmo_Elemental_Staff_Wind_Punched.label>
+	<!-- EN: Craft 5 Empowered elemental wind crystals. -->
+	<MakeAmmo_Elemental_Staff_Wind_Punched.description>Craft 5 Empowered elemental wind crystals.</MakeAmmo_Elemental_Staff_Wind_Punched.description>
+	<!-- EN: Making Empowered elemental wind crystals. -->
+	<MakeAmmo_Elemental_Staff_Wind_Punched.jobString>Making Empowered elemental wind crystals.</MakeAmmo_Elemental_Staff_Wind_Punched.jobString>
+</LanguageData>

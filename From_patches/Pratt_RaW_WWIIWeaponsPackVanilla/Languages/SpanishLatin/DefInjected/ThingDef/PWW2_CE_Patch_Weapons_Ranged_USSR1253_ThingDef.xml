@@ -1,0 +1,56 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Pratt_RaW_WWIIWeaponsPackVanilla\PWW2_CE_Patch_Weapons_Ranged_USSR1253.xml -->
+	<!-- EN: stock -->
+	<Gun_Mosin-NagantM91-30R.tools.0.label>stock</Gun_Mosin-NagantM91-30R.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_Mosin-NagantM91-30R.tools.1.label>barrel</Gun_Mosin-NagantM91-30R.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_Mosin-NagantM91-30R.tools.2.label>muzzle</Gun_Mosin-NagantM91-30R.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_MosinNagantM91-30scopedSR.tools.0.label>stock</Gun_MosinNagantM91-30scopedSR.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_MosinNagantM91-30scopedSR.tools.1.label>barrel</Gun_MosinNagantM91-30scopedSR.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_MosinNagantM91-30scopedSR.tools.2.label>muzzle</Gun_MosinNagantM91-30scopedSR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_SVT40R.tools.0.label>stock</Gun_SVT40R.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_SVT40R.tools.1.label>barrel</Gun_SVT40R.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_SVT40R.tools.2.label>muzzle</Gun_SVT40R.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_DP28LMG.tools.0.label>stock</Gun_DP28LMG.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_DP28LMG.tools.1.label>barrel</Gun_DP28LMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_DP28LMG.tools.2.label>muzzle</Gun_DP28LMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_PPSH41SMG.tools.0.label>stock</Gun_PPSH41SMG.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_PPSH41SMG.tools.1.label>barrel</Gun_PPSH41SMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_PPSH41SMG.tools.2.label>muzzle</Gun_PPSH41SMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_PPS43SMG.tools.0.label>stock</Gun_PPS43SMG.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_PPS43SMG.tools.1.label>barrel</Gun_PPS43SMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_PPS43SMG.tools.2.label>muzzle</Gun_PPS43SMG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_PPSH41stickSMG.tools.0.label>stock</Gun_PPSH41stickSMG.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_PPSH41stickSMG.tools.1.label>barrel</Gun_PPSH41stickSMG.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_PPSH41stickSMG.tools.2.label>muzzle</Gun_PPSH41stickSMG.tools.2.label>
+	
+	<!-- EN: grip -->
+	<Gun_TT-33P.tools.0.label>grip</Gun_TT-33P.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_TT-33P.tools.1.label>muzzle</Gun_TT-33P.tools.1.label>
+</LanguageData>

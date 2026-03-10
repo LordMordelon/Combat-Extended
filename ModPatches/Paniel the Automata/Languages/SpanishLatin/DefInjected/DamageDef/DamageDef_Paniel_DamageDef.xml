@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- ModPatches\Paniel the Automata\Defs\Paniel the Automata\DamageDef_Paniel.xml -->
+	<!-- EN: flame -->
+	<Flame_Nopenetration.label>flame</Flame_Nopenetration.label>
+	<!-- EN: {0} has burned to death. -->
+	<Flame_Nopenetration.deathMessage>{0} has burned to death.</Flame_Nopenetration.deathMessage>
+</LanguageData>

@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- ModPatches\Spacer Arsenal\Defs\Spacer Arsenal\Ammo.xml -->
+	
+	<!-- EN: Plasma Bolt -->
+	<PlasmaBolt.label>Plasma Bolt</PlasmaBolt.label>
+	<!-- EN: A concentrated bolt of radiation, imparting disruptive energy into the target. -->
+	<PlasmaBolt.description>A concentrated bolt of radiation, imparting disruptive energy into the target.</PlasmaBolt.description>
+	
+	<!-- EN: Photon Bolt -->
+	<PhotonCell.label>Photon Bolt</PhotonCell.label>
+	<!-- EN: A concentrated bolt of radiation, imparting disruptive energy into the target. -->
+	<PhotonCell.description>A concentrated bolt of radiation, imparting disruptive energy into the target.</PhotonCell.description>
+</LanguageData>

@@ -1,0 +1,18 @@
+<LanguageData>
+	<!-- ModPatches\Not Only Just A Cannon\Defs\Not Only Just A Cannon\Ammo_Cannon.xml -->
+	
+	<!-- EN: 164mm 32-pounder Cannonball -->
+	<AmmoSet_164mmCannonBall.label>164mm 32-pounder Cannonball</AmmoSet_164mmCannonBall.label>
+	
+	<!-- EN: 18-pounder Chambered Cannonball -->
+	<AmmoSet_164mmCannonBallChamber.label>18-pounder Chambered Cannonball</AmmoSet_164mmCannonBallChamber.label>
+	
+	<!-- EN: 24-pounder Cannonball -->
+	<AmmoSet_164mmCannonBall_Mortar.label>24-pounder Cannonball</AmmoSet_164mmCannonBall_Mortar.label>
+	
+	<!-- EN: 24-pounder Cannonball -->
+	<AmmoSet_164mmCannonBall_MortarSmall.label>24-pounder Cannonball</AmmoSet_164mmCannonBall_MortarSmall.label>
+	
+	<!-- EN: Dragonator Spike -->
+	<AmmoSet_Dragonator.label>Dragonator Spike</AmmoSet_Dragonator.label>
+</LanguageData>

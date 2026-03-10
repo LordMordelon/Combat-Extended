@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\Moyo Cartel\Defs\Moyo Cartel\Ammo\Ammo_Moyo.xml -->
+	<!-- EN: 6x18mm Charged Bullet -->
+	<AmmoSet_6x18mmCMoyo.label>6x18mm Charged Bullet</AmmoSet_6x18mmCMoyo.label>
+	<!-- EN: 6x24mm Charged Bullet -->
+	<AmmoSet_6x24mmCMoyo.label>6x24mm Charged Bullet</AmmoSet_6x24mmCMoyo.label>
+	<!-- EN: 10x18mm Charged Bullet -->
+	<AmmoSet_10x18mmCMoyo.label>10x18mm Charged Bullet</AmmoSet_10x18mmCMoyo.label>
+	<!-- EN: 8x50mm Charged Bullet -->
+	<AmmoSet_8x50mmCMoyo.label>8x50mm Charged Bullet</AmmoSet_8x50mmCMoyo.label>
+</LanguageData>

@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\sarg_alphaanimals\AlphaAnimals_CE_Patch_Race_DecayDrake164.xml -->
+	<!-- EN: left claw -->
+	<AA_DecayDrake.tools.0.label>left claw</AA_DecayDrake.tools.0.label>
+	<!-- EN: right claw -->
+	<AA_DecayDrake.tools.1.label>right claw</AA_DecayDrake.tools.1.label>
+	<!-- EN: razorfangs -->
+	<AA_DecayDrake.tools.2.label>razorfangs</AA_DecayDrake.tools.2.label>
+	<!-- EN: head -->
+	<AA_DecayDrake.tools.3.label>head</AA_DecayDrake.tools.3.label>
+</LanguageData>

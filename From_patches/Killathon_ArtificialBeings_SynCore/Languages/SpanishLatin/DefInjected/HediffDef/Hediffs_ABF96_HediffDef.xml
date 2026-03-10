@@ -1,0 +1,23 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Killathon_ArtificialBeings_SynCore\Hediffs_ABF96.xml -->
+	<!-- EN: drill -->
+	<ABF_Hediff_Synstruct_Utility_MiningArm.comps.0.tools.0.label>drill</ABF_Hediff_Synstruct_Utility_MiningArm.comps.0.tools.0.label>
+	<!-- EN: scythe -->
+	<ABF_Hediff_Synstruct_Utility_AgricultureArm.comps.0.tools.0.label>scythe</ABF_Hediff_Synstruct_Utility_AgricultureArm.comps.0.tools.0.label>
+	<!-- EN: charged fist -->
+	<ABF_Hediff_Synstruct_Utility_PacificationArm.comps.0.tools.0.label>charged fist</ABF_Hediff_Synstruct_Utility_PacificationArm.comps.0.tools.0.label>
+	<!-- EN: scalpel -->
+	<ABF_Hediff_Synstruct_Utility_ScalpelArm.comps.0.tools.0.label>scalpel</ABF_Hediff_Synstruct_Utility_ScalpelArm.comps.0.tools.0.label>
+	<!-- EN: scalpel -->
+	<ABF_Hediff_Synstruct_Utility_ScalpelArm.comps.0.tools.1.label>scalpel</ABF_Hediff_Synstruct_Utility_ScalpelArm.comps.0.tools.1.label>
+	<!-- EN: carver -->
+	<ABF_Hediff_Synstruct_Utility_RendingArm.comps.0.tools.0.label>carver</ABF_Hediff_Synstruct_Utility_RendingArm.comps.0.tools.0.label>
+	<!-- EN: carver -->
+	<ABF_Hediff_Synstruct_Utility_RendingArm.comps.0.tools.1.label>carver</ABF_Hediff_Synstruct_Utility_RendingArm.comps.0.tools.1.label>
+	<!-- EN: carver -->
+	<ABF_Hediff_Synstruct_Utility_RendingArm.comps.0.tools.2.label>carver</ABF_Hediff_Synstruct_Utility_RendingArm.comps.0.tools.2.label>
+	<!-- EN: fist -->
+	<ABF_Hediff_Synstruct_Utility_MakeshiftArm.comps.0.tools.0.label>fist</ABF_Hediff_Synstruct_Utility_MakeshiftArm.comps.0.tools.0.label>
+	<!-- EN: fist -->
+	<ABF_Hediff_Synstruct_Ultrapart_Arm.comps.0.tools.0.label>fist</ABF_Hediff_Synstruct_Ultrapart_Arm.comps.0.tools.0.label>
+</LanguageData>

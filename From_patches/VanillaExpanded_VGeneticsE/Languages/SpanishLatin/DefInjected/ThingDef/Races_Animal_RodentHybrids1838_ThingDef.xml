@@ -1,0 +1,39 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VGeneticsE\Races_Animal_RodentHybrids1838.xml -->
+	<!-- EN: left claw -->
+	<GR_Molebear.tools.0.label>left claw</GR_Molebear.tools.0.label>
+	<!-- EN: right claw -->
+	<GR_Molebear.tools.1.label>right claw</GR_Molebear.tools.1.label>
+	<!-- EN: head -->
+	<GR_Molebear.tools.3.label>head</GR_Molebear.tools.3.label>
+	
+	<!-- EN: head -->
+	<GR_Squirralope.tools.1.label>head</GR_Squirralope.tools.1.label>
+	
+	<!-- EN: head -->
+	<GR_Rabbitchicken.tools.1.label>head</GR_Rabbitchicken.tools.1.label>
+	
+	<!-- EN: head -->
+	<GR_Ratffalo.tools.1.label>head</GR_Ratffalo.tools.1.label>
+	
+	<!-- EN: left claw -->
+	<GR_Beaverwolf.tools.0.label>left claw</GR_Beaverwolf.tools.0.label>
+	<!-- EN: right claw -->
+	<GR_Beaverwolf.tools.1.label>right claw</GR_Beaverwolf.tools.1.label>
+	<!-- EN: head -->
+	<GR_Beaverwolf.tools.3.label>head</GR_Beaverwolf.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<GR_Rabbitcat.tools.0.label>left claw</GR_Rabbitcat.tools.0.label>
+	<!-- EN: right claw -->
+	<GR_Rabbitcat.tools.1.label>right claw</GR_Rabbitcat.tools.1.label>
+	<!-- EN: head -->
+	<GR_Rabbitcat.tools.3.label>head</GR_Rabbitcat.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<GR_Moleman.tools.0.label>left claw</GR_Moleman.tools.0.label>
+	<!-- EN: right claw -->
+	<GR_Moleman.tools.1.label>right claw</GR_Moleman.tools.1.label>
+	<!-- EN: head -->
+	<GR_Moleman.tools.3.label>head</GR_Moleman.tools.3.label>
+</LanguageData>

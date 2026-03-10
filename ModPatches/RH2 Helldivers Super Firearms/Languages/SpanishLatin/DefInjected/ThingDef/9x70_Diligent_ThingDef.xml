@@ -1,0 +1,51 @@
+<LanguageData>
+	<!-- ModPatches\RH2 Helldivers Super Firearms\Defs\RH2 Helldivers Super Firearms\Ammo\9x70_Diligent.xml -->
+	
+	<!-- EN: 9x70mm Diligent (FMJ) -->
+	<Ammo_9x70mmDiligent_FMJ.label>9x70mm Diligent (FMJ)</Ammo_9x70mmDiligent_FMJ.label>
+	<!-- EN: Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle. -->
+	<Ammo_9x70mmDiligent_FMJ.description>Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle.</Ammo_9x70mmDiligent_FMJ.description>
+	
+	<!-- EN: 9x70mm Diligent (AP) -->
+	<Ammo_9x70mmDiligent_AP.label>9x70mm Diligent (AP)</Ammo_9x70mmDiligent_AP.label>
+	<!-- EN: Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle. -->
+	<Ammo_9x70mmDiligent_AP.description>Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle.</Ammo_9x70mmDiligent_AP.description>
+	
+	<!-- EN: 9x70mm Diligent (HP) -->
+	<Ammo_9x70mmDiligent_HP.label>9x70mm Diligent (HP)</Ammo_9x70mmDiligent_HP.label>
+	<!-- EN: Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle. -->
+	<Ammo_9x70mmDiligent_HP.description>Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle.</Ammo_9x70mmDiligent_HP.description>
+	
+	<!-- EN: 9x70mm Diligent (AP-I) -->
+	<Ammo_9x70mmDiligent_Incendiary.label>9x70mm Diligent (AP-I)</Ammo_9x70mmDiligent_Incendiary.label>
+	<!-- EN: Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle. -->
+	<Ammo_9x70mmDiligent_Incendiary.description>Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle.</Ammo_9x70mmDiligent_Incendiary.description>
+	
+	<!-- EN: 9x70mm Diligent (AP-HE) -->
+	<Ammo_9x70mmDiligent_HE.label>9x70mm Diligent (AP-HE)</Ammo_9x70mmDiligent_HE.label>
+	<!-- EN: Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle. -->
+	<Ammo_9x70mmDiligent_HE.description>Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle.</Ammo_9x70mmDiligent_HE.description>
+	
+	<!-- EN: 9x70mm Diligent (Sabot) -->
+	<Ammo_9x70mmDiligent_Sabot.label>9x70mm Diligent (Sabot)</Ammo_9x70mmDiligent_Sabot.label>
+	<!-- EN: Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle. -->
+	<Ammo_9x70mmDiligent_Sabot.description>Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle.</Ammo_9x70mmDiligent_Sabot.description>
+	
+	<!-- EN: 8mm Diligent bullet (FMJ) -->
+	<Bullet_9x70mmDiligent_FMJ.label>8mm Diligent bullet (FMJ)</Bullet_9x70mmDiligent_FMJ.label>
+	
+	<!-- EN: 8mm Diligent bullet (AP) -->
+	<Bullet_9x70mmDiligent_AP.label>8mm Diligent bullet (AP)</Bullet_9x70mmDiligent_AP.label>
+	
+	<!-- EN: 8mm Diligent bullet (HP) -->
+	<Bullet_9x70mmDiligent_HP.label>8mm Diligent bullet (HP)</Bullet_9x70mmDiligent_HP.label>
+	
+	<!-- EN: 9x70mm Diligent bullet (AP-I) -->
+	<Bullet_9x70mmDiligent_Incendiary.label>9x70mm Diligent bullet (AP-I)</Bullet_9x70mmDiligent_Incendiary.label>
+	
+	<!-- EN: 9x70mm Diligent bullet (AP-HE) -->
+	<Bullet_9x70mmDiligent_HE.label>9x70mm Diligent bullet (AP-HE)</Bullet_9x70mmDiligent_HE.label>
+	
+	<!-- EN: 9x70mm Diligent bullet (Sabot) -->
+	<Bullet_9x70mmDiligent_Sabot.label>9x70mm Diligent bullet (Sabot)</Bullet_9x70mmDiligent_Sabot.label>
+</LanguageData>

@@ -1,0 +1,29 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Mlie_ApexRimworldLegends\ApexRimworldLegends_Weapons_Shotguns417.xml -->
+	<!-- EN: M1901 Mastiff -->
+	<ARL_ChargeShotgun.label>M1901 Mastiff</ARL_ChargeShotgun.label>
+	<!-- EN: stock -->
+	<ARL_ChargeShotgun.tools.0.label>stock</ARL_ChargeShotgun.tools.0.label>
+	<!-- EN: barrel -->
+	<ARL_ChargeShotgun.tools.1.label>barrel</ARL_ChargeShotgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<ARL_ChargeShotgun.tools.2.label>muzzle</ARL_ChargeShotgun.tools.2.label>
+	
+	<!-- EN: Peacepeeker -->
+	<ARL_LeverActionShotgun.label>Peacepeeker</ARL_LeverActionShotgun.label>
+	<!-- EN: stock -->
+	<ARL_LeverActionShotgun.tools.0.label>stock</ARL_LeverActionShotgun.tools.0.label>
+	<!-- EN: barrel -->
+	<ARL_LeverActionShotgun.tools.1.label>barrel</ARL_LeverActionShotgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<ARL_LeverActionShotgun.tools.2.label>muzzle</ARL_LeverActionShotgun.tools.2.label>
+	
+	<!-- EN: Eva-8 Auto -->
+	<ARL_SemiAutomaticShotgun.label>Eva-8 Auto</ARL_SemiAutomaticShotgun.label>
+	<!-- EN: stock -->
+	<ARL_SemiAutomaticShotgun.tools.0.label>stock</ARL_SemiAutomaticShotgun.tools.0.label>
+	<!-- EN: barrel -->
+	<ARL_SemiAutomaticShotgun.tools.1.label>barrel</ARL_SemiAutomaticShotgun.tools.1.label>
+	<!-- EN: muzzle -->
+	<ARL_SemiAutomaticShotgun.tools.2.label>muzzle</ARL_SemiAutomaticShotgun.tools.2.label>
+</LanguageData>

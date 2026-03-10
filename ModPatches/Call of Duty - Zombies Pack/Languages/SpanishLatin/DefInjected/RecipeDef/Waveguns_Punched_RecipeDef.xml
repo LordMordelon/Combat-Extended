@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Zaps\Waveguns_Punched.xml -->
+	<!-- EN: make Max Wavegun cartridge x500 -->
+	<MakeAmmo_Wavegun_Punched.label>make Max Wavegun cartridge x500</MakeAmmo_Wavegun_Punched.label>
+	<!-- EN: Craft 500 Max Wavegun cartridges. -->
+	<MakeAmmo_Wavegun_Punched.description>Craft 500 Max Wavegun cartridges.</MakeAmmo_Wavegun_Punched.description>
+	<!-- EN: Making Max Wavegun cartridges. -->
+	<MakeAmmo_Wavegun_Punched.jobString>Making Max Wavegun cartridges.</MakeAmmo_Wavegun_Punched.jobString>
+</LanguageData>

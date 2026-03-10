@@ -1,0 +1,31 @@
+<LanguageData>
+	<!-- Defs\Ammo\Generic\ShotgunShell.xml -->
+	
+	<!-- EN: make shotgun (Buck) shell x200 -->
+	<MakeAmmo_Shotgun_Buck.label>make shotgun (Buck) shell x200</MakeAmmo_Shotgun_Buck.label>
+	<!-- EN: Craft 200 shotgun (Buck) shells. -->
+	<MakeAmmo_Shotgun_Buck.description>Craft 200 shotgun (Buck) shells.</MakeAmmo_Shotgun_Buck.description>
+	<!-- EN: Making shotgun (Buck) shells. -->
+	<MakeAmmo_Shotgun_Buck.jobString>Making shotgun (Buck) shells.</MakeAmmo_Shotgun_Buck.jobString>
+	
+	<!-- EN: make shotgun (Slug) shell x200 -->
+	<MakeAmmo_Shotgun_Slug.label>make shotgun (Slug) shell x200</MakeAmmo_Shotgun_Slug.label>
+	<!-- EN: Craft 200 shotgun (Slug) shells. -->
+	<MakeAmmo_Shotgun_Slug.description>Craft 200 shotgun (Slug) shells.</MakeAmmo_Shotgun_Slug.description>
+	<!-- EN: Making shotgun (Slug) shells. -->
+	<MakeAmmo_Shotgun_Slug.jobString>Making shotgun (Slug) shells.</MakeAmmo_Shotgun_Slug.jobString>
+	
+	<!-- EN: make shotgun (Beanbag) shell x200 -->
+	<MakeAmmo_Shotgun_Beanbag.label>make shotgun (Beanbag) shell x200</MakeAmmo_Shotgun_Beanbag.label>
+	<!-- EN: Craft 200 shotgun (Beanbag) shells. -->
+	<MakeAmmo_Shotgun_Beanbag.description>Craft 200 shotgun (Beanbag) shells.</MakeAmmo_Shotgun_Beanbag.description>
+	<!-- EN: Making shotgun (Beanbag) shells. -->
+	<MakeAmmo_Shotgun_Beanbag.jobString>Making shotgun (Beanbag) shells.</MakeAmmo_Shotgun_Beanbag.jobString>
+	
+	<!-- EN: make shotgun (EMP) shell x200 -->
+	<MakeAmmo_Shotgun_ElectroSlug.label>make shotgun (EMP) shell x200</MakeAmmo_Shotgun_ElectroSlug.label>
+	<!-- EN: Craft 200 shotgun (EMP) shells. -->
+	<MakeAmmo_Shotgun_ElectroSlug.description>Craft 200 shotgun (EMP) shells.</MakeAmmo_Shotgun_ElectroSlug.description>
+	<!-- EN: Making shotgun (EMP) shells. -->
+	<MakeAmmo_Shotgun_ElectroSlug.jobString>Making shotgun (EMP) shells.</MakeAmmo_Shotgun_ElectroSlug.jobString>
+</LanguageData>

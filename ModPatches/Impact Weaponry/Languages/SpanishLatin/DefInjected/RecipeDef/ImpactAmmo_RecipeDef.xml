@@ -1,0 +1,45 @@
+<LanguageData>
+	<!-- ModPatches\Impact Weaponry\Defs\Impact Weaponry\ImpactAmmo.xml -->
+	
+	<!-- EN: make Impact Shells (Small) x200 -->
+	<MakeAmmo_ImpactShellsSmall.label>make Impact Shells (Small) x200</MakeAmmo_ImpactShellsSmall.label>
+	<!-- EN: Craft Impact Shells (Small). -->
+	<MakeAmmo_ImpactShellsSmall.description>Craft Impact Shells (Small).</MakeAmmo_ImpactShellsSmall.description>
+	<!-- EN: Making Impact Shells (Small). -->
+	<MakeAmmo_ImpactShellsSmall.jobString>Making Impact Shells (Small).</MakeAmmo_ImpactShellsSmall.jobString>
+	
+	<!-- EN: make Impact Shells (Big) x200 -->
+	<MakeAmmo_ImpactShellsBig.label>make Impact Shells (Big) x200</MakeAmmo_ImpactShellsBig.label>
+	<!-- EN: Craft Impact Shells (Big). -->
+	<MakeAmmo_ImpactShellsBig.description>Craft Impact Shells (Big).</MakeAmmo_ImpactShellsBig.description>
+	<!-- EN: Making Impact Shells (Big). -->
+	<MakeAmmo_ImpactShellsBig.jobString>Making Impact Shells (Big).</MakeAmmo_ImpactShellsBig.jobString>
+	
+	<!-- EN: make Impact Shells (Shell) x200 -->
+	<MakeAmmo_ImpactShellsShell.label>make Impact Shells (Shell) x200</MakeAmmo_ImpactShellsShell.label>
+	<!-- EN: Craft Impact Shells (Shell). -->
+	<MakeAmmo_ImpactShellsShell.description>Craft Impact Shells (Shell).</MakeAmmo_ImpactShellsShell.description>
+	<!-- EN: Making Impact Shells (Shell). -->
+	<MakeAmmo_ImpactShellsShell.jobString>Making Impact Shells (Shell).</MakeAmmo_ImpactShellsShell.jobString>
+	
+	<!-- EN: make Impact Shells (Sniper) x200 -->
+	<MakeAmmo_ImpactShellsSniper.label>make Impact Shells (Sniper) x200</MakeAmmo_ImpactShellsSniper.label>
+	<!-- EN: Craft Impact Shells (Sniper). -->
+	<MakeAmmo_ImpactShellsSniper.description>Craft Impact Shells (Sniper).</MakeAmmo_ImpactShellsSniper.description>
+	<!-- EN: Making Impact Shells (Sniper). -->
+	<MakeAmmo_ImpactShellsSniper.jobString>Making Impact Shells (Sniper).</MakeAmmo_ImpactShellsSniper.jobString>
+	
+	<!-- EN: make Impact Shells (Bolter) x200 -->
+	<MakeAmmo_ImpactShellsBolter.label>make Impact Shells (Bolter) x200</MakeAmmo_ImpactShellsBolter.label>
+	<!-- EN: Craft Impact Shells (Bolter). -->
+	<MakeAmmo_ImpactShellsBolter.description>Craft Impact Shells (Bolter).</MakeAmmo_ImpactShellsBolter.description>
+	<!-- EN: Making Impact Shells (Bolter). -->
+	<MakeAmmo_ImpactShellsBolter.jobString>Making Impact Shells (Bolter).</MakeAmmo_ImpactShellsBolter.jobString>
+	
+	<!-- EN: make Impact Shells (Slugger) x200 -->
+	<MakeAmmo_ImpactShellsSlugger.label>make Impact Shells (Slugger) x200</MakeAmmo_ImpactShellsSlugger.label>
+	<!-- EN: Craft Impact Shells (Slugger). -->
+	<MakeAmmo_ImpactShellsSlugger.description>Craft Impact Shells (Slugger).</MakeAmmo_ImpactShellsSlugger.description>
+	<!-- EN: Making Impact Shells (Slugger). -->
+	<MakeAmmo_ImpactShellsSlugger.jobString>Making Impact Shells (Slugger).</MakeAmmo_ImpactShellsSlugger.jobString>
+</LanguageData>

@@ -1,0 +1,51 @@
+<LanguageData>
+	<!-- Defs\Ammo\Modded\Warhammer 40k\Autoguns.xml -->
+	
+	<!-- EN: 8.25mm Long (FMJ) -->
+	<Ammo_825mmLong_FMJ.label>8.25mm Long (FMJ)</Ammo_825mmLong_FMJ.label>
+	<!-- EN: Rimmed rifle cartridge found mostly in outdated bolt-action firearms. -->
+	<Ammo_825mmLong_FMJ.description>Rimmed rifle cartridge found mostly in outdated bolt-action firearms.</Ammo_825mmLong_FMJ.description>
+	
+	<!-- EN: 8.25mm Long (AP) -->
+	<Ammo_825mmLong_AP.label>8.25mm Long (AP)</Ammo_825mmLong_AP.label>
+	<!-- EN: Rimmed rifle cartridge found mostly in outdated bolt-action firearms. -->
+	<Ammo_825mmLong_AP.description>Rimmed rifle cartridge found mostly in outdated bolt-action firearms.</Ammo_825mmLong_AP.description>
+	
+	<!-- EN: 8.25mm Long (HP) -->
+	<Ammo_825mmLong_HP.label>8.25mm Long (HP)</Ammo_825mmLong_HP.label>
+	<!-- EN: Rimmed rifle cartridge found mostly in outdated bolt-action firearms. -->
+	<Ammo_825mmLong_HP.description>Rimmed rifle cartridge found mostly in outdated bolt-action firearms.</Ammo_825mmLong_HP.description>
+	
+	<!-- EN: 8.25mm Long (AP-I) -->
+	<Ammo_825mmLong_Incendiary.label>8.25mm Long (AP-I)</Ammo_825mmLong_Incendiary.label>
+	<!-- EN: Rimmed rifle cartridge found mostly in outdated bolt-action firearms. -->
+	<Ammo_825mmLong_Incendiary.description>Rimmed rifle cartridge found mostly in outdated bolt-action firearms.</Ammo_825mmLong_Incendiary.description>
+	
+	<!-- EN: 8.25mm Long (AP-HE) -->
+	<Ammo_825mmLong_HE.label>8.25mm Long (AP-HE)</Ammo_825mmLong_HE.label>
+	<!-- EN: Rimmed rifle cartridge found mostly in outdated bolt-action firearms. -->
+	<Ammo_825mmLong_HE.description>Rimmed rifle cartridge found mostly in outdated bolt-action firearms.</Ammo_825mmLong_HE.description>
+	
+	<!-- EN: 8.25mm Long (Sabot) -->
+	<Ammo_825mmLong_Sabot.label>8.25mm Long (Sabot)</Ammo_825mmLong_Sabot.label>
+	<!-- EN: Rimmed rifle cartridge found mostly in outdated bolt-action firearms. -->
+	<Ammo_825mmLong_Sabot.description>Rimmed rifle cartridge found mostly in outdated bolt-action firearms.</Ammo_825mmLong_Sabot.description>
+	
+	<!-- EN: 8.25mm Long bullet (FMJ) -->
+	<Bullet_825mmLong_FMJ.label>8.25mm Long bullet (FMJ)</Bullet_825mmLong_FMJ.label>
+	
+	<!-- EN: 8.25mm Long bullet (AP) -->
+	<Bullet_825mmLong_AP.label>8.25mm Long bullet (AP)</Bullet_825mmLong_AP.label>
+	
+	<!-- EN: 8.25mm Long bullet (HP) -->
+	<Bullet_825mmLong_HP.label>8.25mm Long bullet (HP)</Bullet_825mmLong_HP.label>
+	
+	<!-- EN: 8.25mm Long bullet (AP-I) -->
+	<Bullet_825mmLong_Incendiary.label>8.25mm Long bullet (AP-I)</Bullet_825mmLong_Incendiary.label>
+	
+	<!-- EN: 8.25mm Long bullet (AP-HE) -->
+	<Bullet_825mmLong_HE.label>8.25mm Long bullet (AP-HE)</Bullet_825mmLong_HE.label>
+	
+	<!-- EN: 8.25mm Long bullet (Sabot) -->
+	<Bullet_825mmLong_Sabot.label>8.25mm Long bullet (Sabot)</Bullet_825mmLong_Sabot.label>
+</LanguageData>

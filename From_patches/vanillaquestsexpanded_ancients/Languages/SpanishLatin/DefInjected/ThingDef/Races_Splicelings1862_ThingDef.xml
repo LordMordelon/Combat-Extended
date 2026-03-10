@@ -1,0 +1,33 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\vanillaquestsexpanded_ancients\Races_Splicelings1862.xml -->
+	<!-- EN: left mutated fist -->
+	<VQEA_Spliceling.tools.0.label>left mutated fist</VQEA_Spliceling.tools.0.label>
+	<!-- EN: mutated fist -->
+	<VQEA_Spliceling.tools.0.labelNoLocation>mutated fist</VQEA_Spliceling.tools.0.labelNoLocation>
+	<!-- EN: flesh club -->
+	<VQEA_Spliceling.tools.1.label>flesh club</VQEA_Spliceling.tools.1.label>
+	<!-- EN: head -->
+	<VQEA_Spliceling.tools.2.label>head</VQEA_Spliceling.tools.2.label>
+	
+	<!-- EN: left swollen arm -->
+	<VQEA_Splicehulk.tools.0.label>left swollen arm</VQEA_Splicehulk.tools.0.label>
+	<!-- EN: swollen arm -->
+	<VQEA_Splicehulk.tools.0.labelNoLocation>swollen arm</VQEA_Splicehulk.tools.0.labelNoLocation>
+	<!-- EN: right swollen arm -->
+	<VQEA_Splicehulk.tools.1.label>right swollen arm</VQEA_Splicehulk.tools.1.label>
+	<!-- EN: swollen arm -->
+	<VQEA_Splicehulk.tools.1.labelNoLocation>swollen arm</VQEA_Splicehulk.tools.1.labelNoLocation>
+	<!-- EN: body slam -->
+	<VQEA_Splicehulk.tools.2.label>body slam</VQEA_Splicehulk.tools.2.label>
+	
+	<!-- EN: left massive fist -->
+	<VQEA_Splicefiend.tools.0.label>left massive fist</VQEA_Splicefiend.tools.0.label>
+	<!-- EN: massive fist -->
+	<VQEA_Splicefiend.tools.0.labelNoLocation>massive fist</VQEA_Splicefiend.tools.0.labelNoLocation>
+	<!-- EN: right massive fist -->
+	<VQEA_Splicefiend.tools.1.label>right massive fist</VQEA_Splicefiend.tools.1.label>
+	<!-- EN: massive fist -->
+	<VQEA_Splicefiend.tools.1.labelNoLocation>massive fist</VQEA_Splicefiend.tools.1.labelNoLocation>
+	<!-- EN: bite -->
+	<VQEA_Splicefiend.tools.0.label>bite</VQEA_Splicefiend.tools.0.label>
+</LanguageData>

@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- ModPatches\Medieval Overhaul\Defs\Medieval Overhaul\Ammo\MO_Ammo_Scorpio.xml -->
+	<!-- EN: scorpio bolt (stone) -->
+	<Projectile_ScorpioBolt_Stone.label>scorpio bolt (stone)</Projectile_ScorpioBolt_Stone.label>
+	<!-- EN: scorpio bolt (iron) -->
+	<Projectile_ScorpioBolt_Iron.label>scorpio bolt (iron)</Projectile_ScorpioBolt_Iron.label>
+	<!-- EN: scorpio bolt (steel) -->
+	<Projectile_ScorpioBolt_Steel.label>scorpio bolt (steel)</Projectile_ScorpioBolt_Steel.label>
+	<!-- EN: scorpio bolt (plasteel) -->
+	<Projectile_ScorpioBolt_Plasteel.label>scorpio bolt (plasteel)</Projectile_ScorpioBolt_Plasteel.label>
+	<!-- EN: scorpio bolt (venom) -->
+	<Projectile_ScorpioBolt_Venom.label>scorpio bolt (venom)</Projectile_ScorpioBolt_Venom.label>
+	<!-- EN: scorpio bolt (flame) -->
+	<Projectile_ScorpioBolt_Flame.label>scorpio bolt (flame)</Projectile_ScorpioBolt_Flame.label>
+</LanguageData>

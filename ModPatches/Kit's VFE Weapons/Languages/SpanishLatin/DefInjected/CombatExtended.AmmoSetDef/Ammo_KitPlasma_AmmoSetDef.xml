@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\Kit's VFE Weapons\Defs\Kit's VFE Weapons\Ammo\Ammo_KitPlasma.xml -->
+	<!-- EN: Plasma Pistol Power Cell -->
+	<AmmoSet_KIT_PlasmaPistol.label>Plasma Pistol Power Cell</AmmoSet_KIT_PlasmaPistol.label>
+	<!-- EN: Plasma Pistol Power Cell -->
+	<AmmoSet_KIT_PlasmaSMG.label>Plasma Pistol Power Cell</AmmoSet_KIT_PlasmaSMG.label>
+	<!-- EN: Plasma Rifle Power Cell -->
+	<AmmoSet_KIT_PlasmaRifle.label>Plasma Rifle Power Cell</AmmoSet_KIT_PlasmaRifle.label>
+	<!-- EN: Plasma Heavy Power Cell (Sniper) -->
+	<AmmoSet_KIT_PlasmaSniper.label>Plasma Heavy Power Cell (Sniper)</AmmoSet_KIT_PlasmaSniper.label>
+</LanguageData>

@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\Kit's Gunpowder Weapons\Defs\Kit's Gunpowder Weapons\Ammo_KitsGunpowder.xml -->
+	<!-- EN: Large Cannon Ball -->
+	<Shell_LargeCannonBall_Steel.label>Large Cannon Ball</Shell_LargeCannonBall_Steel.label>
+	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
+	<Shell_LargeCannonBall_Steel.description>Low-velocity shell designed to be fired from a mortar.</Shell_LargeCannonBall_Steel.description>
+	<!-- EN: lead ball -->
+	<Bullet_BlunderShot_Ball.label>lead ball</Bullet_BlunderShot_Ball.label>
+	<!-- EN: Large Cannon Ball -->
+	<Bullet_LargeCannonBall_Steel.label>Large Cannon Ball</Bullet_LargeCannonBall_Steel.label>
+</LanguageData>

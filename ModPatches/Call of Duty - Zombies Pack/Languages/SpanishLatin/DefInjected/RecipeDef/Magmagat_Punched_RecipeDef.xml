@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Blunders\Magmagat_Punched.xml -->
+	
+	<!-- EN: make Magmus Operandi (Buck) shell x20 -->
+	<MakeAmmo_Magmagat_Buck_Punched.label>make Magmus Operandi (Buck) shell x20</MakeAmmo_Magmagat_Buck_Punched.label>
+	<!-- EN: Craft 20 Magmus Operandi (Buck) shells . -->
+	<MakeAmmo_Magmagat_Buck_Punched.description>Craft 20 Magmus Operandi (Buck) shells .</MakeAmmo_Magmagat_Buck_Punched.description>
+	<!-- EN: Making Magmus Operandi (Buck) shells. -->
+	<MakeAmmo_Magmagat_Buck_Punched.jobString>Making Magmus Operandi (Buck) shells.</MakeAmmo_Magmagat_Buck_Punched.jobString>
+	
+	<!-- EN: make Magmus Operandi (Slug) shell x20 -->
+	<MakeAmmo_Magmagat_Slug_Punched.label>make Magmus Operandi (Slug) shell x20</MakeAmmo_Magmagat_Slug_Punched.label>
+	<!-- EN: Craft 20 Magmus Operandi (Slug) shells . -->
+	<MakeAmmo_Magmagat_Slug_Punched.description>Craft 20 Magmus Operandi (Slug) shells .</MakeAmmo_Magmagat_Slug_Punched.description>
+	<!-- EN: Making Magmus Operandi (Slug) shells. -->
+	<MakeAmmo_Magmagat_Slug_Punched.jobString>Making Magmus Operandi (Slug) shells.</MakeAmmo_Magmagat_Slug_Punched.jobString>
+</LanguageData>

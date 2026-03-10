@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Defs\Ammo\Medieval\BlunderbussShot.xml -->
+	<!-- EN: make blunderbuss shot x100 -->
+	<MakeAmmo_BlunderbussShot.label>make blunderbuss shot x100</MakeAmmo_BlunderbussShot.label>
+	<!-- EN: Craft 100 blunderbuss shots. -->
+	<MakeAmmo_BlunderbussShot.description>Craft 100 blunderbuss shots.</MakeAmmo_BlunderbussShot.description>
+	<!-- EN: Making blunderbuss shots. -->
+	<MakeAmmo_BlunderbussShot.jobString>Making blunderbuss shots.</MakeAmmo_BlunderbussShot.jobString>
+</LanguageData>

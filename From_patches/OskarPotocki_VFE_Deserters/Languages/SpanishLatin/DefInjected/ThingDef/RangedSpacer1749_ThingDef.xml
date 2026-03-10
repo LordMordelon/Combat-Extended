@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\OskarPotocki_VFE_Deserters\RangedSpacer1749.xml -->
+	<!-- EN: grip -->
+	<VFED_Gun_ChargeCycler.tools.0.label>grip</VFED_Gun_ChargeCycler.tools.0.label>
+	<!-- EN: muzzle -->
+	<VFED_Gun_ChargeCycler.tools.1.label>muzzle</VFED_Gun_ChargeCycler.tools.1.label>
+	
+	<!-- EN: stock -->
+	<VFED_Gun_Fletchling.tools.0.label>stock</VFED_Gun_Fletchling.tools.0.label>
+	<!-- EN: barrel -->
+	<VFED_Gun_Fletchling.tools.1.label>barrel</VFED_Gun_Fletchling.tools.1.label>
+	<!-- EN: muzzle -->
+	<VFED_Gun_Fletchling.tools.2.label>muzzle</VFED_Gun_Fletchling.tools.2.label>
+	
+	<!-- EN: ㅤ -->
+	<VFED_Gun_ChargeCycler.verbs.0.label>ㅤ</VFED_Gun_ChargeCycler.verbs.0.label>
+</LanguageData>

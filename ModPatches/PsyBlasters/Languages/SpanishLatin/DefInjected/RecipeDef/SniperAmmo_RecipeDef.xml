@@ -1,0 +1,24 @@
+<LanguageData>
+	<!-- ModPatches\PsyBlasters\Defs\PsyBlasters\SniperAmmo.xml -->
+	
+	<!-- EN: make 8x50mm Psychic cartridge x500 -->
+	<MakeAmmo_8x50mmPsychic.label>make 8x50mm Psychic cartridge x500</MakeAmmo_8x50mmPsychic.label>
+	<!-- EN: Craft 500 8x50mm Psychic cartridges. -->
+	<MakeAmmo_8x50mmPsychic.description>Craft 500 8x50mm Psychic cartridges.</MakeAmmo_8x50mmPsychic.description>
+	<!-- EN: Making 8x50mm Psychic cartridges. -->
+	<MakeAmmo_8x50mmPsychic.jobString>Making 8x50mm Psychic cartridges.</MakeAmmo_8x50mmPsychic.jobString>
+	
+	<!-- EN: make 8x50mm Psychic (Focus) cartridge x500 -->
+	<MakeAmmo_8x50mmPsychic_Focus.label>make 8x50mm Psychic (Focus) cartridge x500</MakeAmmo_8x50mmPsychic_Focus.label>
+	<!-- EN: Craft 500 8x50mm Psychic (Focus) cartridges. -->
+	<MakeAmmo_8x50mmPsychic_Focus.description>Craft 500 8x50mm Psychic (Focus) cartridges.</MakeAmmo_8x50mmPsychic_Focus.description>
+	<!-- EN: Making 8x50mm Psychic (Focus) cartridges. -->
+	<MakeAmmo_8x50mmPsychic_Focus.jobString>Making 8x50mm Psychic (Focus) cartridges.</MakeAmmo_8x50mmPsychic_Focus.jobString>
+	
+	<!-- EN: make 8x50mm Psychic (Neuro) cartridge x500 -->
+	<MakeAmmo_8x50mmPsychic_Neuro.label>make 8x50mm Psychic (Neuro) cartridge x500</MakeAmmo_8x50mmPsychic_Neuro.label>
+	<!-- EN: Craft 500 8x50mm Psychic (Neuro) cartridges. -->
+	<MakeAmmo_8x50mmPsychic_Neuro.description>Craft 500 8x50mm Psychic (Neuro) cartridges.</MakeAmmo_8x50mmPsychic_Neuro.description>
+	<!-- EN: Making 8x50mm Psychic (Neuro) cartridges. -->
+	<MakeAmmo_8x50mmPsychic_Neuro.jobString>Making 8x50mm Psychic (Neuro) cartridges.</MakeAmmo_8x50mmPsychic_Neuro.jobString>
+</LanguageData>

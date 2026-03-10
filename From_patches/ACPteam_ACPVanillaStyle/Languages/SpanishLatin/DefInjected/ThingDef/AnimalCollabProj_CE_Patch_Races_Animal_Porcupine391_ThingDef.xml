@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\ACPteam_ACPVanillaStyle\AnimalCollabProj_CE_Patch_Races_Animal_Porcupine391.xml -->
+	<!-- EN: quills -->
+	<ACPPorcupine.tools.0.label>quills</ACPPorcupine.tools.0.label>
+	<!-- EN: left claw -->
+	<ACPPorcupine.tools.1.label>left claw</ACPPorcupine.tools.1.label>
+	<!-- EN: right claw -->
+	<ACPPorcupine.tools.2.label>right claw</ACPPorcupine.tools.2.label>
+	<!-- EN: head -->
+	<ACPPorcupine.tools.4.label>head</ACPPorcupine.tools.4.label>
+</LanguageData>

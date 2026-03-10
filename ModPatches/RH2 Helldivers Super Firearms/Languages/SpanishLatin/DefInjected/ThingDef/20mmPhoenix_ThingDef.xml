@@ -1,0 +1,35 @@
+<LanguageData>
+	<!-- ModPatches\RH2 Helldivers Super Firearms\Defs\RH2 Helldivers Super Firearms\Ammo\20mmPhoenix.xml -->
+	
+	<!-- EN: 20mm Phoenix APHEF -->
+	<Ammo_20mmPhoenix_APHEF.label>20mm Phoenix APHEF</Ammo_20mmPhoenix_APHEF.label>
+	<!-- EN: Fin-stabilized rocket-propelled tungsten carbide penetrator with variable ordnance core, designed for special purpose weapons. -->
+	<Ammo_20mmPhoenix_APHEF.description>Fin-stabilized rocket-propelled tungsten carbide penetrator with variable ordnance core, designed for special purpose weapons.</Ammo_20mmPhoenix_APHEF.description>
+	
+	<!-- EN: 20mm Phoenix APEM -->
+	<Ammo_20mmPhoenix_APEM.label>20mm Phoenix APEM</Ammo_20mmPhoenix_APEM.label>
+	<!-- EN: Fin-stabilized rocket-propelled tungsten carbide penetrator with variable ordnance core, designed for special purpose weapons. -->
+	<Ammo_20mmPhoenix_APEM.description>Fin-stabilized rocket-propelled tungsten carbide penetrator with variable ordnance core, designed for special purpose weapons.</Ammo_20mmPhoenix_APEM.description>
+	
+	<!-- EN: 20mm Phoenix APHEI -->
+	<Ammo_20mmPhoenix_APHEI.label>20mm Phoenix APHEI</Ammo_20mmPhoenix_APHEI.label>
+	<!-- EN: Fin-stabilized rocket-propelled tungsten carbide penetrator with variable ordnance core, designed for special purpose weapons. -->
+	<Ammo_20mmPhoenix_APHEI.description>Fin-stabilized rocket-propelled tungsten carbide penetrator with variable ordnance core, designed for special purpose weapons.</Ammo_20mmPhoenix_APHEI.description>
+	
+	<!-- EN: 20mm Phoenix HvAP -->
+	<Ammo_20mmPhoenix_HvAP.label>20mm Phoenix HvAP</Ammo_20mmPhoenix_HvAP.label>
+	<!-- EN: Fin-stabilized rocket-propelled tungsten carbide penetrator with variable ordnance core, designed for special purpose weapons. -->
+	<Ammo_20mmPhoenix_HvAP.description>Fin-stabilized rocket-propelled tungsten carbide penetrator with variable ordnance core, designed for special purpose weapons.</Ammo_20mmPhoenix_HvAP.description>
+	
+	<!-- EN: 20mm JAR Phoenix APHEF -->
+	<Bullet_20mmPhoenix_APHEF.label>20mm JAR Phoenix APHEF</Bullet_20mmPhoenix_APHEF.label>
+	
+	<!-- EN: 20mm JAR Phoenix AP-EM -->
+	<Bullet_20mmPhoenix_APEM.label>20mm JAR Phoenix AP-EM</Bullet_20mmPhoenix_APEM.label>
+	
+	<!-- EN: 20mm JAR Phoenix APHEI -->
+	<Bullet_20mmPhoenix_APHEI.label>20mm JAR Phoenix APHEI</Bullet_20mmPhoenix_APHEI.label>
+	
+	<!-- EN: 20mm JAR Phoenix -->
+	<Bullet_20mmPhoenix_HvAP.label>20mm JAR Phoenix</Bullet_20mmPhoenix_HvAP.label>
+</LanguageData>

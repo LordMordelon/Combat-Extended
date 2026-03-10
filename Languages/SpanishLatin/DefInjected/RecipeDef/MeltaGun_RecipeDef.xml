@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Defs\Ammo\Modded\Warhammer 40k\MeltaGun.xml -->
+	<!-- EN: make meltagun canisters x20 -->
+	<MakeAmmo_MeltaGun.label>make meltagun canisters x20</MakeAmmo_MeltaGun.label>
+	<!-- EN: Craft 20 meltagun canisters -->
+	<MakeAmmo_MeltaGun.description>Craft 20 meltagun canisters</MakeAmmo_MeltaGun.description>
+	<!-- EN: Making 20 shots worth of meltagun canisters -->
+	<MakeAmmo_MeltaGun.jobString>Making 20 shots worth of meltagun canisters</MakeAmmo_MeltaGun.jobString>
+</LanguageData>

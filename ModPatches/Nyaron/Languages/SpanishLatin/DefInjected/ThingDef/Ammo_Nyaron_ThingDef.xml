@@ -1,0 +1,29 @@
+<LanguageData>
+	<!-- ModPatches\Nyaron\Defs\Nyaron\Ammo\Ammo_Nyaron.xml -->
+	<!-- EN: nyaron power cell -->
+	<Ammo_NyaronCell.label>nyaron power cell</Ammo_NyaronCell.label>
+	<!-- EN: Energy cells for use in Nyaron energy weapons. -->
+	<Ammo_NyaronCell.description>Energy cells for use in Nyaron energy weapons.</Ammo_NyaronCell.description>
+	<!-- EN: nyaron power ball -->
+	<Bullet_NyaronCellBall.label>nyaron power ball</Bullet_NyaronCellBall.label>
+	<!-- EN: nyaron shock bullet -->
+	<Bullet_NyaronCellBullet.label>nyaron shock bullet</Bullet_NyaronCellBullet.label>
+	<!-- EN: pulse beam -->
+	<Bullet_NyaronCellLaser.label>pulse beam</Bullet_NyaronCellLaser.label>
+	<!-- EN: great arrow (stone) -->
+	<Projectile_GreatArrowNyaron_Stone.label>great arrow (stone)</Projectile_GreatArrowNyaron_Stone.label>
+	<!-- EN: great arrow (steel) -->
+	<Projectile_GreatArrowNyaron_Steel.label>great arrow (steel)</Projectile_GreatArrowNyaron_Steel.label>
+	<!-- EN: great arrow (plasteel) -->
+	<Projectile_GreatArrowNyaron_Plasteel.label>great arrow (plasteel)</Projectile_GreatArrowNyaron_Plasteel.label>
+	<!-- EN: great arrow (venom) -->
+	<Projectile_GreatArrowNyaron_Venom.label>great arrow (venom)</Projectile_GreatArrowNyaron_Venom.label>
+	<!-- EN: great arrow (flame) -->
+	<Projectile_GreatArrowNyaron_Flame.label>great arrow (flame)</Projectile_GreatArrowNyaron_Flame.label>
+	<!-- EN: Nyaron flak grenade -->
+	<Ammo_NyaronFlakGrenade_HE.label>Nyaron flak grenade</Ammo_NyaronFlakGrenade_HE.label>
+	<!-- EN: Specialized grenade developed for use in shoulder-fired grenade launchers. -->
+	<Ammo_NyaronFlakGrenade_HE.description>Specialized grenade developed for use in shoulder-fired grenade launchers.</Ammo_NyaronFlakGrenade_HE.description>
+	<!-- EN: nyaron grenade (HE) -->
+	<Bullet_NyaronFlakGrenade_HE.label>nyaron grenade (HE)</Bullet_NyaronFlakGrenade_HE.label>
+</LanguageData>

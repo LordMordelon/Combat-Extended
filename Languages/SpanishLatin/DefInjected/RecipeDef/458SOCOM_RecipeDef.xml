@@ -1,0 +1,45 @@
+<LanguageData>
+	<!-- Defs\Ammo\Rifle\458SOCOM.xml -->
+	
+	<!-- EN: make .458 SOCOM (FMJ) cartridge x500 -->
+	<MakeAmmo_458SOCOM_FMJ.label>make .458 SOCOM (FMJ) cartridge x500</MakeAmmo_458SOCOM_FMJ.label>
+	<!-- EN: Craft 500 .458 SOCOM (FMJ) cartridges. -->
+	<MakeAmmo_458SOCOM_FMJ.description>Craft 500 .458 SOCOM (FMJ) cartridges.</MakeAmmo_458SOCOM_FMJ.description>
+	<!-- EN: Making .458 SOCOM (FMJ) cartridges. -->
+	<MakeAmmo_458SOCOM_FMJ.jobString>Making .458 SOCOM (FMJ) cartridges.</MakeAmmo_458SOCOM_FMJ.jobString>
+	
+	<!-- EN: make .458 SOCOM (AP) cartridge x500 -->
+	<MakeAmmo_458SOCOM_AP.label>make .458 SOCOM (AP) cartridge x500</MakeAmmo_458SOCOM_AP.label>
+	<!-- EN: Craft 500 .458 SOCOM (AP) cartridges. -->
+	<MakeAmmo_458SOCOM_AP.description>Craft 500 .458 SOCOM (AP) cartridges.</MakeAmmo_458SOCOM_AP.description>
+	<!-- EN: Making .458 SOCOM (AP) cartridges. -->
+	<MakeAmmo_458SOCOM_AP.jobString>Making .458 SOCOM (AP) cartridges.</MakeAmmo_458SOCOM_AP.jobString>
+	
+	<!-- EN: make .458 SOCOM (HP) cartridge x500 -->
+	<MakeAmmo_458SOCOM_HP.label>make .458 SOCOM (HP) cartridge x500</MakeAmmo_458SOCOM_HP.label>
+	<!-- EN: Craft 500 .458 SOCOM (HP) cartridges. -->
+	<MakeAmmo_458SOCOM_HP.description>Craft 500 .458 SOCOM (HP) cartridges.</MakeAmmo_458SOCOM_HP.description>
+	<!-- EN: Making .458 SOCOM (HP) cartridges. -->
+	<MakeAmmo_458SOCOM_HP.jobString>Making .458 SOCOM (HP) cartridges.</MakeAmmo_458SOCOM_HP.jobString>
+	
+	<!-- EN: make .458 SOCOM (AP-I) cartridge x500 -->
+	<MakeAmmo_458SOCOM_Incendiary.label>make .458 SOCOM (AP-I) cartridge x500</MakeAmmo_458SOCOM_Incendiary.label>
+	<!-- EN: Craft 500 .458 SOCOM (AP-I) cartridges. -->
+	<MakeAmmo_458SOCOM_Incendiary.description>Craft 500 .458 SOCOM (AP-I) cartridges.</MakeAmmo_458SOCOM_Incendiary.description>
+	<!-- EN: Making .458 SOCOM (AP-I) cartridges. -->
+	<MakeAmmo_458SOCOM_Incendiary.jobString>Making .458 SOCOM (AP-I) cartridges.</MakeAmmo_458SOCOM_Incendiary.jobString>
+	
+	<!-- EN: make .458 SOCOM (AP-HE) cartridge x500 -->
+	<MakeAmmo_458SOCOM_HE.label>make .458 SOCOM (AP-HE) cartridge x500</MakeAmmo_458SOCOM_HE.label>
+	<!-- EN: Craft 500 .458 SOCOM (AP-HE) cartridges. -->
+	<MakeAmmo_458SOCOM_HE.description>Craft 500 .458 SOCOM (AP-HE) cartridges.</MakeAmmo_458SOCOM_HE.description>
+	<!-- EN: Making .458 SOCOM (AP-HE) cartridges. -->
+	<MakeAmmo_458SOCOM_HE.jobString>Making .458 SOCOM (AP-HE) cartridges.</MakeAmmo_458SOCOM_HE.jobString>
+	
+	<!-- EN: make .458 SOCOM (Sabot) cartridge x500 -->
+	<MakeAmmo_458SOCOM_Sabot.label>make .458 SOCOM (Sabot) cartridge x500</MakeAmmo_458SOCOM_Sabot.label>
+	<!-- EN: Craft 500 .458 SOCOM (Sabot) cartridges. -->
+	<MakeAmmo_458SOCOM_Sabot.description>Craft 500 .458 SOCOM (Sabot) cartridges.</MakeAmmo_458SOCOM_Sabot.description>
+	<!-- EN: Making .458 SOCOM (Sabot) cartridges. -->
+	<MakeAmmo_458SOCOM_Sabot.jobString>Making .458 SOCOM (Sabot) cartridges.</MakeAmmo_458SOCOM_Sabot.jobString>
+</LanguageData>

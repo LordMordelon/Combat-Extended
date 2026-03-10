@@ -1,0 +1,50 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\miho_fortifiedoutremer\Race_MihoMech1099.xml -->
+	<!-- EN: front left leg -->
+	<Miho_Mech_Sapsal.tools.0.label>front left leg</Miho_Mech_Sapsal.tools.0.label>
+	<!-- EN: front right leg -->
+	<Miho_Mech_Sapsal.tools.1.label>front right leg</Miho_Mech_Sapsal.tools.1.label>
+	<!-- EN: blade -->
+	<Miho_Mech_Sapsal.tools.2.label>blade</Miho_Mech_Sapsal.tools.2.label>
+	
+	<!-- EN: right blade -->
+	<Miho_Mech_DesertSphex.tools.0.label>right blade</Miho_Mech_DesertSphex.tools.0.label>
+	
+	<!-- EN: right blade -->
+	<Miho_Mech_DesertSphexExplosion.tools.0.label>right blade</Miho_Mech_DesertSphexExplosion.tools.0.label>
+	
+	<!-- EN: front left leg -->
+	<Miho_Mech_Bulgasal.tools.0.label>front left leg</Miho_Mech_Bulgasal.tools.0.label>
+	<!-- EN: front right leg -->
+	<Miho_Mech_Bulgasal.tools.1.label>front right leg</Miho_Mech_Bulgasal.tools.1.label>
+	
+	<!-- EN: front left leg -->
+	<Miho_Mech_BulgasalSiege.tools.0.label>front left leg</Miho_Mech_BulgasalSiege.tools.0.label>
+	<!-- EN: front right leg -->
+	<Miho_Mech_BulgasalSiege.tools.1.label>front right leg</Miho_Mech_BulgasalSiege.tools.1.label>
+	
+	<!-- EN: front left leg -->
+	<Miho_Mech_BulgasalGrenade.tools.0.label>front left leg</Miho_Mech_BulgasalGrenade.tools.0.label>
+	<!-- EN: front right leg -->
+	<Miho_Mech_BulgasalGrenade.tools.1.label>front right leg</Miho_Mech_BulgasalGrenade.tools.1.label>
+	
+	<!-- EN: front left leg -->
+	<Miho_Mech_CataphractRocket.tools.0.label>front left leg</Miho_Mech_CataphractRocket.tools.0.label>
+	<!-- EN: front right leg -->
+	<Miho_Mech_CataphractRocket.tools.1.label>front right leg</Miho_Mech_CataphractRocket.tools.1.label>
+	
+	<!-- EN: front left leg -->
+	<Miho_Mech_CataphractCluRocket.tools.0.label>front left leg</Miho_Mech_CataphractCluRocket.tools.0.label>
+	<!-- EN: front right leg -->
+	<Miho_Mech_CataphractCluRocket.tools.1.label>front right leg</Miho_Mech_CataphractCluRocket.tools.1.label>
+	
+	<!-- EN: front left leg -->
+	<Miho_Mech_Balbari.tools.0.label>front left leg</Miho_Mech_Balbari.tools.0.label>
+	<!-- EN: front right leg -->
+	<Miho_Mech_Balbari.tools.1.label>front right leg</Miho_Mech_Balbari.tools.1.label>
+	
+	<!-- EN: front left leg -->
+	<Miho_Mech_Clibanar.tools.0.label>front left leg</Miho_Mech_Clibanar.tools.0.label>
+	<!-- EN: front right leg -->
+	<Miho_Mech_Clibanar.tools.1.label>front right leg</Miho_Mech_Clibanar.tools.1.label>
+</LanguageData>

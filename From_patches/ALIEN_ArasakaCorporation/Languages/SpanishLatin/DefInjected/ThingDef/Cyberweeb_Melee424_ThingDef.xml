@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\ALIEN_ArasakaCorporation\Cyberweeb_Melee424.xml -->
+	<!-- EN: handle -->
+	<MeleeWeapon_Thermal_Katana_AC.tools.0.label>handle</MeleeWeapon_Thermal_Katana_AC.tools.0.label>
+	<!-- EN: point -->
+	<MeleeWeapon_Thermal_Katana_AC.tools.1.label>point</MeleeWeapon_Thermal_Katana_AC.tools.1.label>
+	<!-- EN: edge -->
+	<MeleeWeapon_Thermal_Katana_AC.tools.2.label>edge</MeleeWeapon_Thermal_Katana_AC.tools.2.label>
+	
+	<!-- EN: handle -->
+	<MeleeWeapon_Millitary_Katana_AC.tools.0.label>handle</MeleeWeapon_Millitary_Katana_AC.tools.0.label>
+	<!-- EN: point -->
+	<MeleeWeapon_Millitary_Katana_AC.tools.1.label>point</MeleeWeapon_Millitary_Katana_AC.tools.1.label>
+	<!-- EN: edge -->
+	<MeleeWeapon_Millitary_Katana_AC.tools.2.label>edge</MeleeWeapon_Millitary_Katana_AC.tools.2.label>
+</LanguageData>

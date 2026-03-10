@@ -1,0 +1,35 @@
+<LanguageData>
+	<!-- Defs\Ammo\Modded\Warhammer 40k\Bolter_Small.xml -->
+	
+	<!-- EN: .50 cal bolter shell (Standard) -->
+	<Ammo_Bolter50_Standard.label>.50 cal bolter shell (Standard)</Ammo_Bolter50_Standard.label>
+	<!-- EN: A .50 caliber, gryojet-stabilized projectile with an explosive charge and hardened tip, fired from most patterns of Astartes bolters. -->
+	<Ammo_Bolter50_Standard.description>A .50 caliber, gryojet-stabilized projectile with an explosive charge and hardened tip, fired from most patterns of Astartes bolters.</Ammo_Bolter50_Standard.description>
+	
+	<!-- EN: .50 cal bolter shell (Inferno) -->
+	<Ammo_Bolter50_Inferno.label>.50 cal bolter shell (Inferno)</Ammo_Bolter50_Inferno.label>
+	<!-- EN: A .50 caliber, gryojet-stabilized projectile with an explosive charge and hardened tip, fired from most patterns of Astartes bolters. -->
+	<Ammo_Bolter50_Inferno.description>A .50 caliber, gryojet-stabilized projectile with an explosive charge and hardened tip, fired from most patterns of Astartes bolters.</Ammo_Bolter50_Inferno.description>
+	
+	<!-- EN: .50 cal bolter shell (Kraken) -->
+	<Ammo_Bolter50_Kraken.label>.50 cal bolter shell (Kraken)</Ammo_Bolter50_Kraken.label>
+	<!-- EN: A .50 caliber, gryojet-stabilized projectile with an explosive charge and hardened tip, fired from most patterns of Astartes bolters. -->
+	<Ammo_Bolter50_Kraken.description>A .50 caliber, gryojet-stabilized projectile with an explosive charge and hardened tip, fired from most patterns of Astartes bolters.</Ammo_Bolter50_Kraken.description>
+	
+	<!-- EN: .50 cal bolter shell (Tempest) -->
+	<Ammo_Bolter50_Tempest.label>.50 cal bolter shell (Tempest)</Ammo_Bolter50_Tempest.label>
+	<!-- EN: A .50 caliber, gryojet-stabilized projectile with an explosive charge and hardened tip, fired from most patterns of Astartes bolters. -->
+	<Ammo_Bolter50_Tempest.description>A .50 caliber, gryojet-stabilized projectile with an explosive charge and hardened tip, fired from most patterns of Astartes bolters.</Ammo_Bolter50_Tempest.description>
+	
+	<!-- EN: .50 cal bolt (standard) -->
+	<Bullet_Bolter50_Standard.label>.50 cal bolt (standard)</Bullet_Bolter50_Standard.label>
+	
+	<!-- EN: .50 cal bolt (inferno) -->
+	<Bullet_Bolter50_Inferno.label>.50 cal bolt (inferno)</Bullet_Bolter50_Inferno.label>
+	
+	<!-- EN: .50 cal bolt (kraken) -->
+	<Bullet_Bolter50_Kraken.label>.50 cal bolt (kraken)</Bullet_Bolter50_Kraken.label>
+	
+	<!-- EN: .50 cal bolt (tempest) -->
+	<Bullet_Bolter50_Tempest.label>.50 cal bolt (tempest)</Bullet_Bolter50_Tempest.label>
+</LanguageData>

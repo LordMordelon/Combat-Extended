@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- ModPatches\Exotic Arsenal\Defs\Exotic Arsenal\DamageDefs_Exotic.xml -->
+	<!-- EN: charge blaster shot -->
+	<UnleashedCE.label>charge blaster shot</UnleashedCE.label>
+	<!-- EN: {0} has died in an explosion. -->
+	<UnleashedCE.deathMessage>{0} has died in an explosion.</UnleashedCE.deathMessage>
+</LanguageData>

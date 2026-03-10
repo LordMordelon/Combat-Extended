@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Kaiser Armory\Defs\Kaiser Armory\105x155mmR.xml -->
+	<!-- EN: make 105x155mmR HE cannon shells x5 -->
+	<MakeAmmo_105x155mmRCannonShell_HE.label>make 105x155mmR HE cannon shells x5</MakeAmmo_105x155mmRCannonShell_HE.label>
+	<!-- EN: Craft 5 105x155mmR HE cannon shells. -->
+	<MakeAmmo_105x155mmRCannonShell_HE.description>Craft 5 105x155mmR HE cannon shells.</MakeAmmo_105x155mmRCannonShell_HE.description>
+	<!-- EN: Making 105x155mmR HE cannon shells. -->
+	<MakeAmmo_105x155mmRCannonShell_HE.jobString>Making 105x155mmR HE cannon shells.</MakeAmmo_105x155mmRCannonShell_HE.jobString>
+</LanguageData>

@@ -1,0 +1,50 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\rimsenal_feral\Feral_RangedWeapons1554.xml -->
+	<!-- EN: grip -->
+	<Gun_Scraptooth.tools.0.label>grip</Gun_Scraptooth.tools.0.label>
+	<!-- EN: muzzle -->
+	<Gun_Scraptooth.tools.1.label>muzzle</Gun_Scraptooth.tools.1.label>
+	
+	<!-- EN: stock -->
+	<Gun_Gnasher.tools.0.label>stock</Gun_Gnasher.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_Gnasher.tools.1.label>barrel</Gun_Gnasher.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_Gnasher.tools.2.label>muzzle</Gun_Gnasher.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_Deathdealer.tools.0.label>stock</Gun_Deathdealer.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_Deathdealer.tools.1.label>barrel</Gun_Deathdealer.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_Deathdealer.tools.2.label>muzzle</Gun_Deathdealer.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_ScatterStick.tools.0.label>stock</Gun_ScatterStick.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_ScatterStick.tools.1.label>barrel</Gun_ScatterStick.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_ScatterStick.tools.2.label>muzzle</Gun_ScatterStick.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_Thrasher.tools.0.label>stock</Gun_Thrasher.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_Thrasher.tools.1.label>barrel</Gun_Thrasher.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_Thrasher.tools.2.label>muzzle</Gun_Thrasher.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_Crucifier.tools.0.label>stock</Gun_Crucifier.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_Crucifier.tools.1.label>barrel</Gun_Crucifier.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_Crucifier.tools.2.label>muzzle</Gun_Crucifier.tools.2.label>
+	
+	<!-- EN: barrel -->
+	<Gun_SkullBuster.tools.0.label>barrel</Gun_SkullBuster.tools.0.label>
+	
+	<!-- EN: barrel -->
+	<Gun_Scorcher.tools.0.label>barrel</Gun_Scorcher.tools.0.label>
+	<!-- EN: ㅤ -->
+	<Gun_Scorcher.verbs.0.label>ㅤ</Gun_Scorcher.verbs.0.label>
+</LanguageData>

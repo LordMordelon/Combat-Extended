@@ -1,0 +1,66 @@
+<LanguageData>
+	<!-- ModPatches\Not Only Just A Cannon\Defs\Not Only Just A Cannon\Ammo_Cannon.xml -->
+	
+	<!-- EN: make 32-pounder shells x5 -->
+	<MakeAmmo_164mmCannonShell_HE.label>make 32-pounder shells x5</MakeAmmo_164mmCannonShell_HE.label>
+	<!-- EN: Craft 5 32-pounder cannon shells. -->
+	<MakeAmmo_164mmCannonShell_HE.description>Craft 5 32-pounder cannon shells.</MakeAmmo_164mmCannonShell_HE.description>
+	<!-- EN: Making 32-pounder cannon shells. -->
+	<MakeAmmo_164mmCannonShell_HE.jobString>Making 32-pounder cannon shells.</MakeAmmo_164mmCannonShell_HE.jobString>
+	
+	<!-- EN: make 32-pounder shells x5 -->
+	<MakeAmmo_164mmCannonShell_AP.label>make 32-pounder shells x5</MakeAmmo_164mmCannonShell_AP.label>
+	<!-- EN: Craft 5 32-pounder cannon shells. -->
+	<MakeAmmo_164mmCannonShell_AP.description>Craft 5 32-pounder cannon shells.</MakeAmmo_164mmCannonShell_AP.description>
+	<!-- EN: Making 32-pounder cannon shells. -->
+	<MakeAmmo_164mmCannonShell_AP.jobString>Making 32-pounder cannon shells.</MakeAmmo_164mmCannonShell_AP.jobString>
+	
+	<!-- EN: make 32-pounder shells x5 -->
+	<MakeAmmo_164mmCannonShell_FI.label>make 32-pounder shells x5</MakeAmmo_164mmCannonShell_FI.label>
+	<!-- EN: Craft 5 32-pounder cannon shells. -->
+	<MakeAmmo_164mmCannonShell_FI.description>Craft 5 32-pounder cannon shells.</MakeAmmo_164mmCannonShell_FI.description>
+	<!-- EN: Making 32-pounder cannon shells. -->
+	<MakeAmmo_164mmCannonShell_FI.jobString>Making 32-pounder cannon shells.</MakeAmmo_164mmCannonShell_FI.jobString>
+	
+	<!-- EN: make 18-pounder chamber shells x5 -->
+	<MakeAmmo_164mmCannonShell_HEChamber.label>make 18-pounder chamber shells x5</MakeAmmo_164mmCannonShell_HEChamber.label>
+	<!-- EN: Craft 5 18-pounder chamber cannon shells. -->
+	<MakeAmmo_164mmCannonShell_HEChamber.description>Craft 5 18-pounder chamber cannon shells.</MakeAmmo_164mmCannonShell_HEChamber.description>
+	<!-- EN: Making 18-pounder chamber cannon shells. -->
+	<MakeAmmo_164mmCannonShell_HEChamber.jobString>Making 18-pounder chamber cannon shells.</MakeAmmo_164mmCannonShell_HEChamber.jobString>
+	
+	<!-- EN: make 18-pounder chamber shells x5 -->
+	<MakeAmmo_164mmCannonShell_APChamber.label>make 18-pounder chamber shells x5</MakeAmmo_164mmCannonShell_APChamber.label>
+	<!-- EN: Craft 5 18-pounder chamber cannon shells. -->
+	<MakeAmmo_164mmCannonShell_APChamber.description>Craft 5 18-pounder chamber cannon shells.</MakeAmmo_164mmCannonShell_APChamber.description>
+	<!-- EN: Making 18-pounder chamber cannon shells. -->
+	<MakeAmmo_164mmCannonShell_APChamber.jobString>Making 18-pounder chamber cannon shells.</MakeAmmo_164mmCannonShell_APChamber.jobString>
+	
+	<!-- EN: make 18-pounder chamber shells x5 -->
+	<MakeAmmo_164mmCannonShell_FIChamber.label>make 18-pounder chamber shells x5</MakeAmmo_164mmCannonShell_FIChamber.label>
+	<!-- EN: Craft 5 18-pounder chamber cannon shells. -->
+	<MakeAmmo_164mmCannonShell_FIChamber.description>Craft 5 18-pounder chamber cannon shells.</MakeAmmo_164mmCannonShell_FIChamber.description>
+	<!-- EN: Making 18-pounder chamber cannon shells. -->
+	<MakeAmmo_164mmCannonShell_FIChamber.jobString>Making 18-pounder chamber cannon shells.</MakeAmmo_164mmCannonShell_FIChamber.jobString>
+	
+	<!-- EN: Cutting stone blocks from chunk. -->
+	<MakeAmmo_164mmCannonShell_GunStoneSmall.jobString>Cutting stone blocks from chunk.</MakeAmmo_164mmCannonShell_GunStoneSmall.jobString>
+	<!-- EN: cut stone chunks into small gunstones -->
+	<MakeAmmo_164mmCannonShell_GunStoneSmall.label>cut stone chunks into small gunstones</MakeAmmo_164mmCannonShell_GunStoneSmall.label>
+	<!-- EN: Cuts stone chunks down to size to be fired by a cannon. -->
+	<MakeAmmo_164mmCannonShell_GunStoneSmall.description>Cuts stone chunks down to size to be fired by a cannon.</MakeAmmo_164mmCannonShell_GunStoneSmall.description>
+	
+	<!-- EN: Cutting stone blocks from chunk. -->
+	<MakeAmmo_164mmCannonShell_GunStone.jobString>Cutting stone blocks from chunk.</MakeAmmo_164mmCannonShell_GunStone.jobString>
+	<!-- EN: cut stone chunks into a gunstones -->
+	<MakeAmmo_164mmCannonShell_GunStone.label>cut stone chunks into a gunstones</MakeAmmo_164mmCannonShell_GunStone.label>
+	<!-- EN: Cuts stone chunks down to size to be fired by a cannon. -->
+	<MakeAmmo_164mmCannonShell_GunStone.description>Cuts stone chunks down to size to be fired by a cannon.</MakeAmmo_164mmCannonShell_GunStone.description>
+	
+	<!-- EN: Cutting stone blocks from chunk. -->
+	<MakeAmmo_DragonatorSpike.jobString>Cutting stone blocks from chunk.</MakeAmmo_DragonatorSpike.jobString>
+	<!-- EN: forge dragonator spike -->
+	<MakeAmmo_DragonatorSpike.label>forge dragonator spike</MakeAmmo_DragonatorSpike.label>
+	<!-- EN: Forges steel into dragonator spikes -->
+	<MakeAmmo_DragonatorSpike.description>Forges steel into dragonator spikes</MakeAmmo_DragonatorSpike.description>
+</LanguageData>

@@ -1,0 +1,21 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Mlie_OuterRimTatooine\Patch_OuterRim_Weapons1209.xml -->
+	<!-- EN: stock -->
+	<O21_JawaIonBlaster.tools.0.label>stock</O21_JawaIonBlaster.tools.0.label>
+	<!-- EN: barrel -->
+	<O21_JawaIonBlaster.tools.1.label>barrel</O21_JawaIonBlaster.tools.1.label>
+	<!-- EN: muzzle -->
+	<O21_JawaIonBlaster.tools.2.label>muzzle</O21_JawaIonBlaster.tools.2.label>
+	
+	<!-- EN: stock -->
+	<O21_TuskenCycler.tools.0.label>stock</O21_TuskenCycler.tools.0.label>
+	<!-- EN: barrel -->
+	<O21_TuskenCycler.tools.1.label>barrel</O21_TuskenCycler.tools.1.label>
+	<!-- EN: muzzle -->
+	<O21_TuskenCycler.tools.2.label>muzzle</O21_TuskenCycler.tools.2.label>
+	
+	<!-- EN: shaft -->
+	<O21_Gaderffii.tools.0.label>shaft</O21_Gaderffii.tools.0.label>
+	<!-- EN: point -->
+	<O21_Gaderffii.tools.1.label>point</O21_Gaderffii.tools.1.label>
+</LanguageData>

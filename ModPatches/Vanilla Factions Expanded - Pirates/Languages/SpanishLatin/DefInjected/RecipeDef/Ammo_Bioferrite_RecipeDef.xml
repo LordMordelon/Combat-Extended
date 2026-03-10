@@ -1,0 +1,31 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla Factions Expanded - Pirates\Defs\Vanilla Factions Expanded - Pirates\Ammo\Ammo_Bioferrite.xml -->
+	
+	<!-- EN: make WarBolter Rockets (HE) x200 -->
+	<MakeAmmo_WarBolter_HE.label>make WarBolter Rockets (HE) x200</MakeAmmo_WarBolter_HE.label>
+	<!-- EN: Craft 200 WarBolter Rockets (HE). -->
+	<MakeAmmo_WarBolter_HE.description>Craft 200 WarBolter Rockets (HE).</MakeAmmo_WarBolter_HE.description>
+	<!-- EN: Making WarBolter Rockets (HE). -->
+	<MakeAmmo_WarBolter_HE.jobString>Making WarBolter Rockets (HE).</MakeAmmo_WarBolter_HE.jobString>
+	
+	<!-- EN: make WarBolter Rockets (Incendiary) x200 -->
+	<MakeAmmo_WarBolter_Incendiary.label>make WarBolter Rockets (Incendiary) x200</MakeAmmo_WarBolter_Incendiary.label>
+	<!-- EN: Craft 200 WarBolter Rockets (Incendiary). -->
+	<MakeAmmo_WarBolter_Incendiary.description>Craft 200 WarBolter Rockets (Incendiary).</MakeAmmo_WarBolter_Incendiary.description>
+	<!-- EN: Making WarBolter Rockets (Incendiary). -->
+	<MakeAmmo_WarBolter_Incendiary.jobString>Making WarBolter Rockets (Incendiary).</MakeAmmo_WarBolter_Incendiary.jobString>
+	
+	<!-- EN: make WarBolter Rockets (Frag) x200 -->
+	<MakeAmmo_WarBolter_Frag.label>make WarBolter Rockets (Frag) x200</MakeAmmo_WarBolter_Frag.label>
+	<!-- EN: Craft 200 WarBolter Rockets (Frag). -->
+	<MakeAmmo_WarBolter_Frag.description>Craft 200 WarBolter Rockets (Frag).</MakeAmmo_WarBolter_Frag.description>
+	<!-- EN: Making WarBolter Rockets (Frag). -->
+	<MakeAmmo_WarBolter_Frag.jobString>Making WarBolter Rockets (Frag).</MakeAmmo_WarBolter_Frag.jobString>
+	
+	<!-- EN: make WarBolter Rockets (HEAT) x200 -->
+	<MakeAmmo_WarBolter_HEAT.label>make WarBolter Rockets (HEAT) x200</MakeAmmo_WarBolter_HEAT.label>
+	<!-- EN: Craft 200 WarBolter Rockets (HEAT). -->
+	<MakeAmmo_WarBolter_HEAT.description>Craft 200 WarBolter Rockets (HEAT).</MakeAmmo_WarBolter_HEAT.description>
+	<!-- EN: Making WarBolter Rockets (HEAT). -->
+	<MakeAmmo_WarBolter_HEAT.jobString>Making WarBolter Rockets (HEAT).</MakeAmmo_WarBolter_HEAT.jobString>
+</LanguageData>

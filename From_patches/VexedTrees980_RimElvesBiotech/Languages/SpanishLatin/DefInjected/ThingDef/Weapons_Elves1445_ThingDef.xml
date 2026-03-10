@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\VexedTrees980_RimElvesBiotech\Weapons_Elves1445.xml -->
+	<!-- EN: handle -->
+	<MeleeWeapon_ElvenScimitar.tools.0.label>handle</MeleeWeapon_ElvenScimitar.tools.0.label>
+	<!-- EN: point -->
+	<MeleeWeapon_ElvenScimitar.tools.1.label>point</MeleeWeapon_ElvenScimitar.tools.1.label>
+	<!-- EN: edge -->
+	<MeleeWeapon_ElvenScimitar.tools.2.label>edge</MeleeWeapon_ElvenScimitar.tools.2.label>
+	
+	<!-- EN: handle -->
+	<MeleeWeapon_BaneBrand.tools.0.label>handle</MeleeWeapon_BaneBrand.tools.0.label>
+	<!-- EN: edge -->
+	<MeleeWeapon_BaneBrand.tools.1.label>edge</MeleeWeapon_BaneBrand.tools.1.label>
+	<!-- EN: point -->
+	<MeleeWeapon_BaneBrand.tools.2.label>point</MeleeWeapon_BaneBrand.tools.2.label>
+</LanguageData>

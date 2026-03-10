@@ -1,0 +1,24 @@
+<LanguageData>
+	<!-- ModPatches\Arasaka Corporation\Defs\Arasaka Corporation\BigBrainGyrojet.xml -->
+	
+	<!-- EN: make 6mm Smart (FMJ) rocket x200 -->
+	<MakeAmmo_6mmSmartGyrojet_FMJ.label>make 6mm Smart (FMJ) rocket x200</MakeAmmo_6mmSmartGyrojet_FMJ.label>
+	<!-- EN: Craft 200 6mm Smart (FMJ) rockets. -->
+	<MakeAmmo_6mmSmartGyrojet_FMJ.description>Craft 200 6mm Smart (FMJ) rockets.</MakeAmmo_6mmSmartGyrojet_FMJ.description>
+	<!-- EN: Making 6mm Smart (FMJ) rockets. -->
+	<MakeAmmo_6mmSmartGyrojet_FMJ.jobString>Making 6mm Smart (FMJ) rockets.</MakeAmmo_6mmSmartGyrojet_FMJ.jobString>
+	
+	<!-- EN: make 6mm Smart (AP) rocket x200 -->
+	<MakeAmmo_6mmSmartGyrojet_AP.label>make 6mm Smart (AP) rocket x200</MakeAmmo_6mmSmartGyrojet_AP.label>
+	<!-- EN: Craft 200 6mm Smart (AP) rockets. -->
+	<MakeAmmo_6mmSmartGyrojet_AP.description>Craft 200 6mm Smart (AP) rockets.</MakeAmmo_6mmSmartGyrojet_AP.description>
+	<!-- EN: Making 6mm Smart (AP) rockets. -->
+	<MakeAmmo_6mmSmartGyrojet_AP.jobString>Making 6mm Smart (AP) rockets.</MakeAmmo_6mmSmartGyrojet_AP.jobString>
+	
+	<!-- EN: make 6mm Smart (HP) rocket x200 -->
+	<MakeAmmo_6mmSmartGyrojet_HP.label>make 6mm Smart (HP) rocket x200</MakeAmmo_6mmSmartGyrojet_HP.label>
+	<!-- EN: Craft 200 6mm Smart (HP) rockets. -->
+	<MakeAmmo_6mmSmartGyrojet_HP.description>Craft 200 6mm Smart (HP) rockets.</MakeAmmo_6mmSmartGyrojet_HP.description>
+	<!-- EN: Making 6mm Smart (HP) rockets. -->
+	<MakeAmmo_6mmSmartGyrojet_HP.jobString>Making 6mm Smart (HP) rockets.</MakeAmmo_6mmSmartGyrojet_HP.jobString>
+</LanguageData>

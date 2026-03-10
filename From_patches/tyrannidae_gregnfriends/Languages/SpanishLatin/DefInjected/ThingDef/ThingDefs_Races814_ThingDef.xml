@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\tyrannidae_gregnfriends\ThingDefs_Races814.xml -->
+	<!-- EN: claws -->
+	<TYR_CattleEgret.tools.0.label>claws</TYR_CattleEgret.tools.0.label>
+	<!-- EN: head -->
+	<TYR_CattleEgret.tools.2.label>head</TYR_CattleEgret.tools.2.label>
+	
+	<!-- EN: claws -->
+	<TYR_GreatEgret.tools.0.label>claws</TYR_GreatEgret.tools.0.label>
+	<!-- EN: head -->
+	<TYR_GreatEgret.tools.2.label>head</TYR_GreatEgret.tools.2.label>
+	
+	<!-- EN: claws -->
+	<TYR_ReddishEgret.tools.0.label>claws</TYR_ReddishEgret.tools.0.label>
+	<!-- EN: head -->
+	<TYR_ReddishEgret.tools.2.label>head</TYR_ReddishEgret.tools.2.label>
+	
+	<!-- EN: claws -->
+	<TYR_SlatyEgret.tools.0.label>claws</TYR_SlatyEgret.tools.0.label>
+	<!-- EN: head -->
+	<TYR_SlatyEgret.tools.2.label>head</TYR_SlatyEgret.tools.2.label>
+	
+	<!-- EN: claws -->
+	<TYR_SnowyEgret.tools.0.label>claws</TYR_SnowyEgret.tools.0.label>
+	<!-- EN: head -->
+	<TYR_SnowyEgret.tools.2.label>head</TYR_SnowyEgret.tools.2.label>
+</LanguageData>

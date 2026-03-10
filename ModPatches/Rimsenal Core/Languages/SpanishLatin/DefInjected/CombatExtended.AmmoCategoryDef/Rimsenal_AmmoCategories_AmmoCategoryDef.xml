@@ -1,0 +1,44 @@
+<LanguageData>
+	<!-- ModPatches\Rimsenal Core\Defs\Rimsenal Core\Rimsenal_AmmoCategories.xml -->
+	<!-- EN: molten slug -->
+	<MoltenSlug.label>molten slug</MoltenSlug.label>
+	<!-- EN: MS -->
+	<MoltenSlug.labelShort>MS</MoltenSlug.labelShort>
+	<!-- EN: An alloy slug heated nearly to the melting point. -->
+	<MoltenSlug.description>An alloy slug heated nearly to the melting point.</MoltenSlug.description>
+	
+	<!-- EN: high-density alloy slug -->
+	<HDSlug.label>high-density alloy slug</HDSlug.label>
+	<!-- EN: HDS -->
+	<HDSlug.labelShort>HDS</HDSlug.labelShort>
+	<!-- EN: A dense alloy slug heated nearly to the melting point. intended to defeat heavy armor. -->
+	<HDSlug.description>A dense alloy slug heated nearly to the melting point. intended to defeat heavy armor.</HDSlug.description>
+	
+	<!-- EN: slag round -->
+	<Slag.label>slag round</Slag.label>
+	<!-- EN: SG -->
+	<Slag.labelShort>SG</Slag.labelShort>
+	<!-- EN: Loose, white-hot alloy pelts. -->
+	<Slag.description>Loose, white-hot alloy pelts.</Slag.description>
+	
+	<!-- EN: kinetic energy -->
+	<KineticEnergy.label>kinetic energy</KineticEnergy.label>
+	<!-- EN: KE -->
+	<KineticEnergy.labelShort>KE</KineticEnergy.labelShort>
+	<!-- EN: Special ionized electricity from the power core gets turned into a hard energy amalgam in the gun breech, the amalgam doesn't burn like normal energy projectiles, instead it deals blunt damage, hence the name kinetic energy. -->
+	<KineticEnergy.description>Special ionized electricity from the power core gets turned into a hard energy amalgam in the gun breech, the amalgam doesn't burn like normal energy projectiles, instead it deals blunt damage, hence the name kinetic energy.</KineticEnergy.description>
+	
+	<!-- EN: carbon crystal -->
+	<CarbonCrystal.label>carbon crystal</CarbonCrystal.label>
+	<!-- EN: CC -->
+	<CarbonCrystal.labelShort>CC</CarbonCrystal.labelShort>
+	<!-- EN: The carbon crystal core shatters into sharp splinter that maximize flesh damage but produces less armor penetration. -->
+	<CarbonCrystal.description>The carbon crystal core shatters into sharp splinter that maximize flesh damage but produces less armor penetration.</CarbonCrystal.description>
+	
+	<!-- EN: molten shell -->
+	<MoltenShell.label>molten shell</MoltenShell.label>
+	<!-- EN: MS -->
+	<MoltenShell.labelShort>MS</MoltenShell.labelShort>
+	<!-- EN: An alloy shell heated nearly to the melting point. -->
+	<MoltenShell.description>An alloy shell heated nearly to the melting point.</MoltenShell.description>
+</LanguageData>

@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- ModPatches\Morgante WW2 Italian Weapons\Defs\Morgante WW2 Italian Weapons\Patch_Ammo.xml -->
+	<!-- EN: make 60mm Grenades x5 -->
+	<MakeAmmo_60mmGrenade_HEAT.label>make 60mm Grenades x5</MakeAmmo_60mmGrenade_HEAT.label>
+	<!-- EN: Craft 5 60mm Grenades. -->
+	<MakeAmmo_60mmGrenade_HEAT.description>Craft 5 60mm Grenades.</MakeAmmo_60mmGrenade_HEAT.description>
+	<!-- EN: Making 60mm Grenades. -->
+	<MakeAmmo_60mmGrenade_HEAT.jobString>Making 60mm Grenades.</MakeAmmo_60mmGrenade_HEAT.jobString>
+	<!-- EN: make 10.35mm Ordinanza Italiana (FMJ) cartridge x250 -->
+	<MakeAmmo_1035mmOrdinanzaItaliana_FMJ.label>make 10.35mm Ordinanza Italiana (FMJ) cartridge x250</MakeAmmo_1035mmOrdinanzaItaliana_FMJ.label>
+	<!-- EN: Craft 250 10.35mm Ordinanza Italiana (FMJ) cartridges. -->
+	<MakeAmmo_1035mmOrdinanzaItaliana_FMJ.description>Craft 250 10.35mm Ordinanza Italiana (FMJ) cartridges.</MakeAmmo_1035mmOrdinanzaItaliana_FMJ.description>
+	<!-- EN: Making 10.35mm Ordinanza Italiana (FMJ) cartridges. -->
+	<MakeAmmo_1035mmOrdinanzaItaliana_FMJ.jobString>Making 10.35mm Ordinanza Italiana (FMJ) cartridges.</MakeAmmo_1035mmOrdinanzaItaliana_FMJ.jobString>
+</LanguageData>

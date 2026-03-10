@@ -1,0 +1,29 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Races_Animal_Giant25.xml -->
+	<!-- EN: tusk -->
+	<Elephant.tools.0.label>tusk</Elephant.tools.0.label>
+	<!-- EN: left foot -->
+	<Elephant.tools.1.label>left foot</Elephant.tools.1.label>
+	<!-- EN: right foot -->
+	<Elephant.tools.2.label>right foot</Elephant.tools.2.label>
+	<!-- EN: head -->
+	<Elephant.tools.3.label>head</Elephant.tools.3.label>
+	
+	<!-- EN: left claw -->
+	<Megasloth.tools.0.label>left claw</Megasloth.tools.0.label>
+	<!-- EN: right claw -->
+	<Megasloth.tools.1.label>right claw</Megasloth.tools.1.label>
+	<!-- EN: head -->
+	<Megasloth.tools.3.label>head</Megasloth.tools.3.label>
+	
+	<!-- EN: horn -->
+	<Thrumbo.tools.0.label>horn</Thrumbo.tools.0.label>
+	<!-- EN: horn -->
+	<Thrumbo.tools.1.label>horn</Thrumbo.tools.1.label>
+	<!-- EN: left foot -->
+	<Thrumbo.tools.2.label>left foot</Thrumbo.tools.2.label>
+	<!-- EN: right foot -->
+	<Thrumbo.tools.3.label>right foot</Thrumbo.tools.3.label>
+	<!-- EN: head -->
+	<Thrumbo.tools.5.label>head</Thrumbo.tools.5.label>
+</LanguageData>

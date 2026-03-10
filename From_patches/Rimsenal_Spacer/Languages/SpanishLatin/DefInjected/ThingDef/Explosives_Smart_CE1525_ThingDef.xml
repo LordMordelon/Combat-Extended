@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Rimsenal_Spacer\Explosives_Smart_CE1525.xml -->
+	<!-- EN: throw frag grenade -->
+	<Weapon_GrenadeSmart.Properties.label>throw frag grenade</Weapon_GrenadeSmart.Properties.label>
+	<!-- EN: body -->
+	<Weapon_GrenadeSmart.tools.0.label>body</Weapon_GrenadeSmart.tools.0.label>
+</LanguageData>

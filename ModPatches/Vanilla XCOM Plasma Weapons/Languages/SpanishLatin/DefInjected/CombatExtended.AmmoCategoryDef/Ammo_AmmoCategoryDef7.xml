@@ -1,0 +1,23 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla XCOM Plasma Weapons\Defs\Vanilla XCOM Plasma Weapons\Ammo.xml -->
+	<!-- EN: Light Plasma -->
+	<XCOM_PlasmaLight.label>Light Plasma</XCOM_PlasmaLight.label>
+	<!-- EN: light -->
+	<XCOM_PlasmaLight.labelShort>light</XCOM_PlasmaLight.labelShort>
+	<!-- EN: Highly-energized ionized gas capable of devastating burn effects. -->
+	<XCOM_PlasmaLight.description>Highly-energized ionized gas capable of devastating burn effects.</XCOM_PlasmaLight.description>
+	
+	<!-- EN: Dense Plasma -->
+	<XCOM_PlasmaDense.label>Dense Plasma</XCOM_PlasmaDense.label>
+	<!-- EN: dense -->
+	<XCOM_PlasmaDense.labelShort>dense</XCOM_PlasmaDense.labelShort>
+	<!-- EN: Highly-energized ionized gas capable of devastating burn effects. -->
+	<XCOM_PlasmaDense.description>Highly-energized ionized gas capable of devastating burn effects.</XCOM_PlasmaDense.description>
+	
+	<!-- EN: Unstable Plasma -->
+	<XCOM_PlasmaUnstable.label>Unstable Plasma</XCOM_PlasmaUnstable.label>
+	<!-- EN: unstable -->
+	<XCOM_PlasmaUnstable.labelShort>unstable</XCOM_PlasmaUnstable.labelShort>
+	<!-- EN: Highly-energized ionized gas capable of devastating burn effects. -->
+	<XCOM_PlasmaUnstable.description>Highly-energized ionized gas capable of devastating burn effects.</XCOM_PlasmaUnstable.description>
+</LanguageData>

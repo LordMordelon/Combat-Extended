@@ -1,0 +1,24 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Recipe\12Gauge-Punched.xml -->
+	
+	<!-- EN: make 12 gauge (Buck) shell (Punched) x200 -->
+	<MakeAmmo_12Gauge_Buck_Punched.label>make 12 gauge (Buck) shell (Punched) x200</MakeAmmo_12Gauge_Buck_Punched.label>
+	<!-- EN: Craft 200 12 gauge (Buck) shells (Punched). -->
+	<MakeAmmo_12Gauge_Buck_Punched.description>Craft 200 12 gauge (Buck) shells (Punched).</MakeAmmo_12Gauge_Buck_Punched.description>
+	<!-- EN: Making 12 gauge (Buck) shells. -->
+	<MakeAmmo_12Gauge_Buck_Punched.jobString>Making 12 gauge (Buck) shells.</MakeAmmo_12Gauge_Buck_Punched.jobString>
+	
+	<!-- EN: make 12 gauge (Slug) shell (Punched) x200 -->
+	<MakeAmmo_12Gauge_Slug_Punched.label>make 12 gauge (Slug) shell (Punched) x200</MakeAmmo_12Gauge_Slug_Punched.label>
+	<!-- EN: Craft 200 12 gauge (Slug) shells (Punched). -->
+	<MakeAmmo_12Gauge_Slug_Punched.description>Craft 200 12 gauge (Slug) shells (Punched).</MakeAmmo_12Gauge_Slug_Punched.description>
+	<!-- EN: Making 12 gauge (Slug) shells. -->
+	<MakeAmmo_12Gauge_Slug_Punched.jobString>Making 12 gauge (Slug) shells.</MakeAmmo_12Gauge_Slug_Punched.jobString>
+	
+	<!-- EN: make 12 gauge (EMP) shell (Punched) x200 -->
+	<MakeAmmo_12Gauge_ElectroSlug_Punched.label>make 12 gauge (EMP) shell (Punched) x200</MakeAmmo_12Gauge_ElectroSlug_Punched.label>
+	<!-- EN: Craft 200 12 gauge (EMP) shells (Punched). -->
+	<MakeAmmo_12Gauge_ElectroSlug_Punched.description>Craft 200 12 gauge (EMP) shells (Punched).</MakeAmmo_12Gauge_ElectroSlug_Punched.description>
+	<!-- EN: Making 12 gauge (EMP) shells. -->
+	<MakeAmmo_12Gauge_ElectroSlug_Punched.jobString>Making 12 gauge (EMP) shells.</MakeAmmo_12Gauge_ElectroSlug_Punched.jobString>
+</LanguageData>

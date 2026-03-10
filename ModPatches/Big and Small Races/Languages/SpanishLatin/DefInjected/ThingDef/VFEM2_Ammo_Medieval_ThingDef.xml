@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- ModPatches\Big and Small Races\Defs\Big and Small Races\VFEM2_Ammo_Medieval.xml -->
+	<!-- EN: crossbow bolt (stone) -->
+	<Projectile_BASRHeavyCrossbowBolt_Stone.label>crossbow bolt (stone)</Projectile_BASRHeavyCrossbowBolt_Stone.label>
+	<!-- EN: crossbow bolt (steel) -->
+	<Projectile_BASRHeavyCrossbowBolt_Steel.label>crossbow bolt (steel)</Projectile_BASRHeavyCrossbowBolt_Steel.label>
+	<!-- EN: crossbow bolt (plasteel) -->
+	<Projectile_BASRHeavyCrossbowBolt_Plasteel.label>crossbow bolt (plasteel)</Projectile_BASRHeavyCrossbowBolt_Plasteel.label>
+	<!-- EN: crossbow bolt (venom) -->
+	<Projectile_BASRHeavyCrossbowBolt_Venom.label>crossbow bolt (venom)</Projectile_BASRHeavyCrossbowBolt_Venom.label>
+	<!-- EN: crossbow bolt (flame) -->
+	<Projectile_BASRHeavyCrossbowBolt_Flame.label>crossbow bolt (flame)</Projectile_BASRHeavyCrossbowBolt_Flame.label>
+</LanguageData>

@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Harkon_DF_Dusk\Weapons_Dusk_Melee708.xml -->
+	<!-- EN: Dusk Kris handle -->
+	<DF_Dusk_Kris.tools.0.label>Dusk Kris handle</DF_Dusk_Kris.tools.0.label>
+	<!-- EN: Dusk Kris point -->
+	<DF_Dusk_Kris.tools.1.label>Dusk Kris point</DF_Dusk_Kris.tools.1.label>
+	<!-- EN: Dusk Kris edge -->
+	<DF_Dusk_Kris.tools.2.label>Dusk Kris edge</DF_Dusk_Kris.tools.2.label>
+	
+	<!-- EN: Dusk Razor handle -->
+	<DF_Dusk_Razor.tools.0.label>Dusk Razor handle</DF_Dusk_Razor.tools.0.label>
+	<!-- EN: Dusk Razor point -->
+	<DF_Dusk_Razor.tools.1.label>Dusk Razor point</DF_Dusk_Razor.tools.1.label>
+	<!-- EN: Dusk Razor edge -->
+	<DF_Dusk_Razor.tools.2.label>Dusk Razor edge</DF_Dusk_Razor.tools.2.label>
+	
+	<!-- EN: Dusk Saw chain -->
+	<DF_Dusk_Saw.tools.0.label>Dusk Saw chain</DF_Dusk_Saw.tools.0.label>
+</LanguageData>

@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- Defs\Ammo\Pistols\22Short.xml -->
+	
+	<!-- EN: .22 Short (FMJ) -->
+	<Ammo_22Short_FMJ.label>.22 Short (FMJ)</Ammo_22Short_FMJ.label>
+	<!-- EN: Ultra-light cartridge originally designed for self-defense, but now very obsolete. -->
+	<Ammo_22Short_FMJ.description>Ultra-light cartridge originally designed for self-defense, but now very obsolete.</Ammo_22Short_FMJ.description>
+	
+	<!-- EN: .22 Short (AP) -->
+	<Ammo_22Short_AP.label>.22 Short (AP)</Ammo_22Short_AP.label>
+	<!-- EN: Ultra-light cartridge originally designed for self-defense, but now very obsolete. -->
+	<Ammo_22Short_AP.description>Ultra-light cartridge originally designed for self-defense, but now very obsolete.</Ammo_22Short_AP.description>
+	
+	<!-- EN: .22 Short (HP) -->
+	<Ammo_22Short_HP.label>.22 Short (HP)</Ammo_22Short_HP.label>
+	<!-- EN: Ultra-light cartridge originally designed for self-defense, but now very obsolete. -->
+	<Ammo_22Short_HP.description>Ultra-light cartridge originally designed for self-defense, but now very obsolete.</Ammo_22Short_HP.description>
+	
+	<!-- EN: .22 Short bullet -->
+	<Bullet_22Short_FMJ.label>.22 Short bullet</Bullet_22Short_FMJ.label>
+	
+	<!-- EN: .22 Short bullet (AP) -->
+	<Bullet_22Short_AP.label>.22 Short bullet (AP)</Bullet_22Short_AP.label>
+	
+	<!-- EN: .22 Short bullet (HP) -->
+	<Bullet_22Short_HP.label>.22 Short bullet (HP)</Bullet_22Short_HP.label>
+</LanguageData>

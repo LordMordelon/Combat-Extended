@@ -1,0 +1,51 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Recipe\762x51mmNATO-Punched.xml -->
+	
+	<!-- EN: 7.62x51mm NATO cartridge (FMJ) (Punched) -->
+	<Ammo_762x51mmNATO_FMJ_Punched.label>7.62x51mm NATO cartridge (FMJ) (Punched)</Ammo_762x51mmNATO_FMJ_Punched.label>
+	<!-- EN: Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle. -->
+	<Ammo_762x51mmNATO_FMJ_Punched.description>Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle.</Ammo_762x51mmNATO_FMJ_Punched.description>
+	
+	<!-- EN: 7.62x51mm NATO cartridge (AP) (Punched) -->
+	<Ammo_762x51mmNATO_AP_Punched.label>7.62x51mm NATO cartridge (AP) (Punched)</Ammo_762x51mmNATO_AP_Punched.label>
+	<!-- EN: Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle. -->
+	<Ammo_762x51mmNATO_AP_Punched.description>Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle.</Ammo_762x51mmNATO_AP_Punched.description>
+	
+	<!-- EN: 7.62x51mm NATO cartridge (HP) (Punched) -->
+	<Ammo_762x51mmNATO_HP_Punched.label>7.62x51mm NATO cartridge (HP) (Punched)</Ammo_762x51mmNATO_HP_Punched.label>
+	<!-- EN: Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle. -->
+	<Ammo_762x51mmNATO_HP_Punched.description>Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle.</Ammo_762x51mmNATO_HP_Punched.description>
+	
+	<!-- EN: 7.62x51mm NATO cartridge (AP-I) (Punched) -->
+	<Ammo_762x51mmNATO_Incendiary_Punched.label>7.62x51mm NATO cartridge (AP-I) (Punched)</Ammo_762x51mmNATO_Incendiary_Punched.label>
+	<!-- EN: Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle. -->
+	<Ammo_762x51mmNATO_Incendiary_Punched.description>Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle.</Ammo_762x51mmNATO_Incendiary_Punched.description>
+	
+	<!-- EN: 7.62x51mm NATO cartridge (HE) (Punched) -->
+	<Ammo_762x51mmNATO_HE_Punched.label>7.62x51mm NATO cartridge (HE) (Punched)</Ammo_762x51mmNATO_HE_Punched.label>
+	<!-- EN: Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle. -->
+	<Ammo_762x51mmNATO_HE_Punched.description>Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle.</Ammo_762x51mmNATO_HE_Punched.description>
+	
+	<!-- EN: 7.62x51mm NATO cartridge (Sabot) (Punched) -->
+	<Ammo_762x51mmNATO_Sabot_Punched.label>7.62x51mm NATO cartridge (Sabot) (Punched)</Ammo_762x51mmNATO_Sabot_Punched.label>
+	<!-- EN: Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle. -->
+	<Ammo_762x51mmNATO_Sabot_Punched.description>Large rifle bullet used in machine guns, sniper rifles and the occasional assault rifle.</Ammo_762x51mmNATO_Sabot_Punched.description>
+	
+	<!-- EN: 7.62mm NATO bullet (FMJ) (Punched) -->
+	<Bullet_762x51mmNATO_FMJ_Punched.label>7.62mm NATO bullet (FMJ) (Punched)</Bullet_762x51mmNATO_FMJ_Punched.label>
+	
+	<!-- EN: 7.62mm NATO bullet (AP) (Punched) -->
+	<Bullet_762x51mmNATO_AP_Punched.label>7.62mm NATO bullet (AP) (Punched)</Bullet_762x51mmNATO_AP_Punched.label>
+	
+	<!-- EN: 7.62mm NATO bullet (HP) (Punched) -->
+	<Bullet_762x51mmNATO_HP_Punched.label>7.62mm NATO bullet (HP) (Punched)</Bullet_762x51mmNATO_HP_Punched.label>
+	
+	<!-- EN: 7.62mm NATO bullet (AP-I) (Punched) -->
+	<Bullet_762x51mmNATO_Incendiary_Punched.label>7.62mm NATO bullet (AP-I) (Punched)</Bullet_762x51mmNATO_Incendiary_Punched.label>
+	
+	<!-- EN: 7.62mm NATO bullet (HE) (Punched) -->
+	<Bullet_762x51mmNATO_HE_Punched.label>7.62mm NATO bullet (HE) (Punched)</Bullet_762x51mmNATO_HE_Punched.label>
+	
+	<!-- EN: 7.62mm NATO bullet (Sabot) (Punched) -->
+	<Bullet_762x51mmNATO_Sabot_Punched.label>7.62mm NATO bullet (Sabot) (Punched)</Bullet_762x51mmNATO_Sabot_Punched.label>
+</LanguageData>

@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- ModPatches\Miho Race\Defs\Miho Race\Ammo\Ammo_Miho_Industrial.xml -->
+	
+	<!-- EN: 100mm Rocket -->
+	<AmmoSetMiho100mm_Incendiary.label>100mm Rocket</AmmoSetMiho100mm_Incendiary.label>
+	
+	<!-- EN: 57mm Rocket -->
+	<AmmoSet_57mmMihoRocket_indirect.label>57mm Rocket</AmmoSet_57mmMihoRocket_indirect.label>
+	
+	<!-- EN: Miho Missile -->
+	<AmmoSet_MihoMissile.label>Miho Missile</AmmoSet_MihoMissile.label>
+	
+	<!-- EN: Miho AT RR -->
+	<AmmoSet_MihoMissile_S.label>Miho AT RR</AmmoSet_MihoMissile_S.label>
+</LanguageData>

@@ -1,0 +1,24 @@
+<LanguageData>
+	<!-- Defs\Ammo\Rifle\17HMR.xml -->
+	
+	<!-- EN: make .17 HMR cartridge x500 -->
+	<MakeAmmo_17HMR_FMJ.label>make .17 HMR cartridge x500</MakeAmmo_17HMR_FMJ.label>
+	<!-- EN: Craft 500 .17 HMR cartridges. -->
+	<MakeAmmo_17HMR_FMJ.description>Craft 500 .17 HMR cartridges.</MakeAmmo_17HMR_FMJ.description>
+	<!-- EN: Making .17 HMR cartridges. -->
+	<MakeAmmo_17HMR_FMJ.jobString>Making .17 HMR cartridges.</MakeAmmo_17HMR_FMJ.jobString>
+	
+	<!-- EN: make .17 HMR (AP) cartridge x500 -->
+	<MakeAmmo_17HMR_AP.label>make .17 HMR (AP) cartridge x500</MakeAmmo_17HMR_AP.label>
+	<!-- EN: Craft 500 .17 HMR (AP) cartridges. -->
+	<MakeAmmo_17HMR_AP.description>Craft 500 .17 HMR (AP) cartridges.</MakeAmmo_17HMR_AP.description>
+	<!-- EN: Making .17 HMR (AP) cartridges. -->
+	<MakeAmmo_17HMR_AP.jobString>Making .17 HMR (AP) cartridges.</MakeAmmo_17HMR_AP.jobString>
+	
+	<!-- EN: make .17 HMR (HP) cartridge x500 -->
+	<MakeAmmo_17HMR_HP.label>make .17 HMR (HP) cartridge x500</MakeAmmo_17HMR_HP.label>
+	<!-- EN: Craft 500 .17 HMR (HP) cartridges. -->
+	<MakeAmmo_17HMR_HP.description>Craft 500 .17 HMR (HP) cartridges.</MakeAmmo_17HMR_HP.description>
+	<!-- EN: Making .17 HMR (HP) cartridges. -->
+	<MakeAmmo_17HMR_HP.jobString>Making .17 HMR (HP) cartridges.</MakeAmmo_17HMR_HP.jobString>
+</LanguageData>

@@ -1,0 +1,41 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\SirMashedPotato_MorrowRim\MorrowRim_InsectCE1130.xml -->
+	<!-- EN: head -->
+	<MorrowRim_SiltStrider.tools.0.label>head</MorrowRim_SiltStrider.tools.0.label>
+	<!-- EN: left scythed arm -->
+	<MorrowRim_SiltStrider.tools.1.label>left scythed arm</MorrowRim_SiltStrider.tools.1.label>
+	<!-- EN: right scythed arm -->
+	<MorrowRim_SiltStrider.tools.2.label>right scythed arm</MorrowRim_SiltStrider.tools.2.label>
+	
+	<!-- EN: left claw -->
+	<MorrowRim_NixHound.tools.0.label>left claw</MorrowRim_NixHound.tools.0.label>
+	<!-- EN: right claw -->
+	<MorrowRim_NixHound.tools.1.label>right claw</MorrowRim_NixHound.tools.1.label>
+	<!-- EN: proboscis -->
+	<MorrowRim_NixHound.tools.2.label>proboscis</MorrowRim_NixHound.tools.2.label>
+	<!-- EN: head -->
+	<MorrowRim_NixHound.tools.3.label>head</MorrowRim_NixHound.tools.3.label>
+	
+	<!-- EN: head -->
+	<MorrowRim_Shalk.tools.0.label>head</MorrowRim_Shalk.tools.0.label>
+	<!-- EN: mandibles -->
+	<MorrowRim_Shalk.tools.1.label>mandibles</MorrowRim_Shalk.tools.1.label>
+	
+	<!-- EN: head -->
+	<MorrowRim_FungalShalk.tools.0.label>head</MorrowRim_FungalShalk.tools.0.label>
+	<!-- EN: mandibles -->
+	<MorrowRim_FungalShalk.tools.1.label>mandibles</MorrowRim_FungalShalk.tools.1.label>
+	
+	<!-- EN: head -->
+	<MorrowRim_GlowingShalk.tools.0.label>head</MorrowRim_GlowingShalk.tools.0.label>
+	<!-- EN: mandibles -->
+	<MorrowRim_GlowingShalk.tools.1.label>mandibles</MorrowRim_GlowingShalk.tools.1.label>
+	
+	<!-- EN: head -->
+	<MorrowRim_AshHopper.tools.0.label>head</MorrowRim_AshHopper.tools.0.label>
+	<!-- EN: mandibles -->
+	<MorrowRim_AshHopper.tools.1.label>mandibles</MorrowRim_AshHopper.tools.1.label>
+	
+	<!-- EN: head -->
+	<MorrowRim_NixOx.tools.0.label>head</MorrowRim_NixOx.tools.0.label>
+</LanguageData>

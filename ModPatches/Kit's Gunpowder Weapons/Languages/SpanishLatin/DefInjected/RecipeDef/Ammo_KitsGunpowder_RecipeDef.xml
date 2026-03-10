@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- ModPatches\Kit's Gunpowder Weapons\Defs\Kit's Gunpowder Weapons\Ammo_KitsGunpowder.xml -->
+	<!-- EN: Make Mortar Grenade x5 -->
+	<MakeAmmo_MortarGrenade.label>Make Mortar Grenade x5</MakeAmmo_MortarGrenade.label>
+	<!-- EN: Craft 5 Mortar Grenades -->
+	<MakeAmmo_MortarGrenade.description>Craft 5 Mortar Grenades</MakeAmmo_MortarGrenade.description>
+	<!-- EN: Making Mortar Grenades -->
+	<MakeAmmo_MortarGrenade.jobString>Making Mortar Grenades</MakeAmmo_MortarGrenade.jobString>
+	<!-- EN: Make Steel Large Cannon Balls x5 -->
+	<MakeShell_LargeCannonBall_Steel.label>Make Steel Large Cannon Balls x5</MakeShell_LargeCannonBall_Steel.label>
+	<!-- EN: Craft 5 Steel Large Cannon Balls -->
+	<MakeShell_LargeCannonBall_Steel.description>Craft 5 Steel Large Cannon Balls</MakeShell_LargeCannonBall_Steel.description>
+	<!-- EN: Making Steel Large Cannon Balls -->
+	<MakeShell_LargeCannonBall_Steel.jobString>Making Steel Large Cannon Balls</MakeShell_LargeCannonBall_Steel.jobString>
+</LanguageData>

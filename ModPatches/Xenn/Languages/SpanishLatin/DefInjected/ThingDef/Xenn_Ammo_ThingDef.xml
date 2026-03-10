@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- ModPatches\Xenn\Defs\Xenn\ThingDefs_Misc\Xenn_Ammo.xml -->
+	
+	<!-- EN: Xenn Plasma Cell -->
+	<Ammo_Xenn_Hot.label>Xenn Plasma Cell</Ammo_Xenn_Hot.label>
+	<!-- EN: Container holding fuel for Xenn weaponry. -->
+	<Ammo_Xenn_Hot.description>Container holding fuel for Xenn weaponry.</Ammo_Xenn_Hot.description>
+	
+	<!-- EN: Xenn Cryogenic Cell -->
+	<Ammo_Xenn_Cold.label>Xenn Cryogenic Cell</Ammo_Xenn_Cold.label>
+	<!-- EN: Container holding fuel for Xenn weaponry. -->
+	<Ammo_Xenn_Cold.description>Container holding fuel for Xenn weaponry.</Ammo_Xenn_Cold.description>
+	
+	<!-- EN: Xenn Firefoam Cell -->
+	<Ammo_Xenn_Foam.label>Xenn Firefoam Cell</Ammo_Xenn_Foam.label>
+	<!-- EN: Container holding fuel for Xenn weaponry. -->
+	<Ammo_Xenn_Foam.description>Container holding fuel for Xenn weaponry.</Ammo_Xenn_Foam.description>
+	
+	<!-- EN: incendiary bolt -->
+	<Bullet_Xenn_Hot.label>incendiary bolt</Bullet_Xenn_Hot.label>
+	
+	<!-- EN: freezer bolt -->
+	<Bullet_Xenn_Cold.label>freezer bolt</Bullet_Xenn_Cold.label>
+	
+	<!-- EN: foam bolt -->
+	<Bullet_Xenn_Foam.label>foam bolt</Bullet_Xenn_Foam.label>
+</LanguageData>

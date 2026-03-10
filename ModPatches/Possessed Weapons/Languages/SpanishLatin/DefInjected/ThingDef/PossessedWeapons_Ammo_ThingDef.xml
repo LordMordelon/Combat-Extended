@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- ModPatches\Possessed Weapons\Defs\PossessedWeapons_Ammo.xml -->
+	<!-- EN: dragon fire arrow -->
+	<Projectile_DragonFireArrow.label>dragon fire arrow</Projectile_DragonFireArrow.label>
+	<!-- EN: verdant arrow (stone) -->
+	<Projectile_VerdantArrow_Stone.label>verdant arrow (stone)</Projectile_VerdantArrow_Stone.label>
+	<!-- EN: verdant arrow (steel) -->
+	<Projectile_VerdantArrow_Steel.label>verdant arrow (steel)</Projectile_VerdantArrow_Steel.label>
+	<!-- EN: verdant arrow (plasteel) -->
+	<Projectile_VerdantArrow_Plasteel.label>verdant arrow (plasteel)</Projectile_VerdantArrow_Plasteel.label>
+	<!-- EN: verdant arrow (venom) -->
+	<Projectile_VerdantArrow_Venom.label>verdant arrow (venom)</Projectile_VerdantArrow_Venom.label>
+	<!-- EN: musket ball -->
+	<Projectile_GhostFlintlock_MusketBall.label>musket ball</Projectile_GhostFlintlock_MusketBall.label>
+</LanguageData>

@@ -1,0 +1,38 @@
+<LanguageData>
+	<!-- Defs\Ammo\HighCaliber\470NitroExpress.xml -->
+	
+	<!-- EN: make .470 Nitro Express (FMJ) cartridge x200 -->
+	<MakeAmmo_470NitroExpress_FMJ.label>make .470 Nitro Express (FMJ) cartridge x200</MakeAmmo_470NitroExpress_FMJ.label>
+	<!-- EN: Craft 200 .470 Nitro Express (FMJ) cartridges. -->
+	<MakeAmmo_470NitroExpress_FMJ.description>Craft 200 .470 Nitro Express (FMJ) cartridges.</MakeAmmo_470NitroExpress_FMJ.description>
+	<!-- EN: Making .470 Nitro Express (FMJ) cartridges. -->
+	<MakeAmmo_470NitroExpress_FMJ.jobString>Making .470 Nitro Express (FMJ) cartridges.</MakeAmmo_470NitroExpress_FMJ.jobString>
+	
+	<!-- EN: make .470 Nitro Express (AP) cartridge x200 -->
+	<MakeAmmo_470NitroExpress_AP.label>make .470 Nitro Express (AP) cartridge x200</MakeAmmo_470NitroExpress_AP.label>
+	<!-- EN: Craft 200 .470 Nitro Express (AP) cartridges. -->
+	<MakeAmmo_470NitroExpress_AP.description>Craft 200 .470 Nitro Express (AP) cartridges.</MakeAmmo_470NitroExpress_AP.description>
+	<!-- EN: Making .470 Nitro Express (AP) cartridges. -->
+	<MakeAmmo_470NitroExpress_AP.jobString>Making .470 Nitro Express (AP) cartridges.</MakeAmmo_470NitroExpress_AP.jobString>
+	
+	<!-- EN: make .470 Nitro Express (AP-I) cartridge x200 -->
+	<MakeAmmo_470NitroExpress_Incendiary.label>make .470 Nitro Express (AP-I) cartridge x200</MakeAmmo_470NitroExpress_Incendiary.label>
+	<!-- EN: Craft 200 .470 Nitro Express (AP-I) cartridges. -->
+	<MakeAmmo_470NitroExpress_Incendiary.description>Craft 200 .470 Nitro Express (AP-I) cartridges.</MakeAmmo_470NitroExpress_Incendiary.description>
+	<!-- EN: Making .470 Nitro Express (AP-I) cartridges. -->
+	<MakeAmmo_470NitroExpress_Incendiary.jobString>Making .470 Nitro Express (AP-I) cartridges.</MakeAmmo_470NitroExpress_Incendiary.jobString>
+	
+	<!-- EN: make .470 Nitro Express (AP-HE) cartridge x200 -->
+	<MakeAmmo_470NitroExpress_HE.label>make .470 Nitro Express (AP-HE) cartridge x200</MakeAmmo_470NitroExpress_HE.label>
+	<!-- EN: Craft 200 .470 Nitro Express (AP-HE) cartridges. -->
+	<MakeAmmo_470NitroExpress_HE.description>Craft 200 .470 Nitro Express (AP-HE) cartridges.</MakeAmmo_470NitroExpress_HE.description>
+	<!-- EN: Making .470 Nitro Express (AP-HE) cartridges. -->
+	<MakeAmmo_470NitroExpress_HE.jobString>Making .470 Nitro Express (AP-HE) cartridges.</MakeAmmo_470NitroExpress_HE.jobString>
+	
+	<!-- EN: make .470 Nitro Express (Sabot) cartridge x200 -->
+	<MakeAmmo_470NitroExpress_Sabot.label>make .470 Nitro Express (Sabot) cartridge x200</MakeAmmo_470NitroExpress_Sabot.label>
+	<!-- EN: Craft 200 .470 Nitro Express (Sabot) cartridges. -->
+	<MakeAmmo_470NitroExpress_Sabot.description>Craft 200 .470 Nitro Express (Sabot) cartridges.</MakeAmmo_470NitroExpress_Sabot.description>
+	<!-- EN: Making .470 Nitro Express (Sabot) cartridges. -->
+	<MakeAmmo_470NitroExpress_Sabot.jobString>Making .470 Nitro Express (Sabot) cartridges.</MakeAmmo_470NitroExpress_Sabot.jobString>
+</LanguageData>

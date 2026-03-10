@@ -1,0 +1,28 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\heis_edo_themed_expansion\EdoTheme_Weapons_Ranged733.xml -->
+	<!-- EN: stock -->
+	<HSTanegashimaRifle.tools.0.label>stock</HSTanegashimaRifle.tools.0.label>
+	<!-- EN: barrel -->
+	<HSTanegashimaRifle.tools.1.label>barrel</HSTanegashimaRifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<HSTanegashimaRifle.tools.2.label>muzzle</HSTanegashimaRifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<HSTanegashimaPistol.tools.0.label>stock</HSTanegashimaPistol.tools.0.label>
+	<!-- EN: barrel -->
+	<HSTanegashimaPistol.tools.1.label>barrel</HSTanegashimaPistol.tools.1.label>
+	<!-- EN: muzzle -->
+	<HSTanegashimaPistol.tools.2.label>muzzle</HSTanegashimaPistol.tools.2.label>
+	
+	<!-- EN: Throw kunai -->
+	<HS_Kunai.Properties.label>Throw kunai</HS_Kunai.Properties.label>
+	<!-- EN: point -->
+	<HS_Kunai.tools.0.label>point</HS_Kunai.tools.0.label>
+	
+	<!-- EN: Body -->
+	<HS_Edo_Blackpowder_Bomb.tools.0.label>Body</HS_Edo_Blackpowder_Bomb.tools.0.label>
+	<!-- EN: blackpowder bomb -->
+	<HS_Edo_Blackpowder_Bomb.label>blackpowder bomb</HS_Edo_Blackpowder_Bomb.label>
+	<!-- EN: throw blackpowder bomb -->
+	<HS_Edo_Blackpowder_Bomb.Properties.label>throw blackpowder bomb</HS_Edo_Blackpowder_Bomb.Properties.label>
+</LanguageData>

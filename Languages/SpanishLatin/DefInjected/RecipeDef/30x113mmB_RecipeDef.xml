@@ -1,0 +1,66 @@
+<LanguageData>
+	<!-- Defs\Ammo\HighCaliber\30x113mmB.xml -->
+	
+	<!-- EN: make 30x113mmB (AP) cartridge x150 -->
+	<MakeAmmo_30x113mmB_AP.label>make 30x113mmB (AP) cartridge x150</MakeAmmo_30x113mmB_AP.label>
+	<!-- EN: Craft 150 30x113mmB (AP) cartridges. -->
+	<MakeAmmo_30x113mmB_AP.description>Craft 150 30x113mmB (AP) cartridges.</MakeAmmo_30x113mmB_AP.description>
+	<!-- EN: Making 30x113mmB (AP) cartridges. -->
+	<MakeAmmo_30x113mmB_AP.jobString>Making 30x113mmB (AP) cartridges.</MakeAmmo_30x113mmB_AP.jobString>
+	
+	<!-- EN: make 30x113mmB (AP-I) cartridge x150 -->
+	<MakeAmmo_30x113mmB_Incendiary.label>make 30x113mmB (AP-I) cartridge x150</MakeAmmo_30x113mmB_Incendiary.label>
+	<!-- EN: Craft 150 30x113mmB (AP-I) cartridges. -->
+	<MakeAmmo_30x113mmB_Incendiary.description>Craft 150 30x113mmB (AP-I) cartridges.</MakeAmmo_30x113mmB_Incendiary.description>
+	<!-- EN: Making 30x113mmB (AP-I) cartridges. -->
+	<MakeAmmo_30x113mmB_Incendiary.jobString>Making 30x113mmB (AP-I) cartridges.</MakeAmmo_30x113mmB_Incendiary.jobString>
+	
+	<!-- EN: make 30x113mmB (AP-HE) cartridge x150 -->
+	<MakeAmmo_30x113mmB_HE.label>make 30x113mmB (AP-HE) cartridge x150</MakeAmmo_30x113mmB_HE.label>
+	<!-- EN: Craft 150 30x113mmB (AP-HE) cartridges. -->
+	<MakeAmmo_30x113mmB_HE.description>Craft 150 30x113mmB (AP-HE) cartridges.</MakeAmmo_30x113mmB_HE.description>
+	<!-- EN: Making 30x113mmB (AP-HE) cartridges. -->
+	<MakeAmmo_30x113mmB_HE.jobString>Making 30x113mmB (AP-HE) cartridges.</MakeAmmo_30x113mmB_HE.jobString>
+	
+	<!-- EN: make 30x113mmB (Sabot) cartridge x150 -->
+	<MakeAmmo_30x113mmB_Sabot.label>make 30x113mmB (Sabot) cartridge x150</MakeAmmo_30x113mmB_Sabot.label>
+	<!-- EN: Craft 150 30x113mmB (Sabot) cartridges. -->
+	<MakeAmmo_30x113mmB_Sabot.description>Craft 150 30x113mmB (Sabot) cartridges.</MakeAmmo_30x113mmB_Sabot.description>
+	<!-- EN: Making 30x113mmB (Sabot) cartridges. -->
+	<MakeAmmo_30x113mmB_Sabot.jobString>Making 30x113mmB (Sabot) cartridges.</MakeAmmo_30x113mmB_Sabot.jobString>
+	
+	<!-- EN: make 30x113mmB HE cartridge x100 -->
+	<MakeAmmo_30x113mmBGrenade_HE.label>make 30x113mmB HE cartridge x100</MakeAmmo_30x113mmBGrenade_HE.label>
+	<!-- EN: Craft 100 30x113mmB HE cartridges. -->
+	<MakeAmmo_30x113mmBGrenade_HE.description>Craft 100 30x113mmB HE cartridges.</MakeAmmo_30x113mmBGrenade_HE.description>
+	<!-- EN: Making 30x113mmB HE cartridges. -->
+	<MakeAmmo_30x113mmBGrenade_HE.jobString>Making 30x113mmB HE cartridges.</MakeAmmo_30x113mmBGrenade_HE.jobString>
+	
+	<!-- EN: make 30x113mmB HE Time-Fuzed cartridge x100 -->
+	<MakeAmmo_30x113mmBGrenade_HE_TFuzed.label>make 30x113mmB HE Time-Fuzed cartridge x100</MakeAmmo_30x113mmBGrenade_HE_TFuzed.label>
+	<!-- EN: Craft 100 30x113mmB HE Time-Fuzed cartridges. -->
+	<MakeAmmo_30x113mmBGrenade_HE_TFuzed.description>Craft 100 30x113mmB HE Time-Fuzed cartridges.</MakeAmmo_30x113mmBGrenade_HE_TFuzed.description>
+	<!-- EN: Making 30x113mmB HE Time-Fuzed cartridges. -->
+	<MakeAmmo_30x113mmBGrenade_HE_TFuzed.jobString>Making 30x113mmB HE Time-Fuzed cartridges.</MakeAmmo_30x113mmBGrenade_HE_TFuzed.jobString>
+	
+	<!-- EN: make 30x113mmB HEDP cartridge x100 -->
+	<MakeAmmo_30x113mmBGrenade_HEDP.label>make 30x113mmB HEDP cartridge x100</MakeAmmo_30x113mmBGrenade_HEDP.label>
+	<!-- EN: Craft 100 30x113mmB HEDP cartridges. -->
+	<MakeAmmo_30x113mmBGrenade_HEDP.description>Craft 100 30x113mmB HEDP cartridges.</MakeAmmo_30x113mmBGrenade_HEDP.description>
+	<!-- EN: Making 30x113mmB HEDP cartridges. -->
+	<MakeAmmo_30x113mmBGrenade_HEDP.jobString>Making 30x113mmB HEDP cartridges.</MakeAmmo_30x113mmBGrenade_HEDP.jobString>
+	
+	<!-- EN: make 30x113mmB EMP cartridge x100 -->
+	<MakeAmmo_30x113mmBGrenade_EMP.label>make 30x113mmB EMP cartridge x100</MakeAmmo_30x113mmBGrenade_EMP.label>
+	<!-- EN: Craft 100 30x113mmB EMP cartridges. -->
+	<MakeAmmo_30x113mmBGrenade_EMP.description>Craft 100 30x113mmB EMP cartridges.</MakeAmmo_30x113mmBGrenade_EMP.description>
+	<!-- EN: Making 30x113mmB EMP cartridges. -->
+	<MakeAmmo_30x113mmBGrenade_EMP.jobString>Making 30x113mmB EMP cartridges.</MakeAmmo_30x113mmBGrenade_EMP.jobString>
+	
+	<!-- EN: make 30x113mmB smoke cartridge x100 -->
+	<MakeAmmo_30x113mmBGrenade_Smoke.label>make 30x113mmB smoke cartridge x100</MakeAmmo_30x113mmBGrenade_Smoke.label>
+	<!-- EN: Craft 100 30x113mmB smoke cartridges. -->
+	<MakeAmmo_30x113mmBGrenade_Smoke.description>Craft 100 30x113mmB smoke cartridges.</MakeAmmo_30x113mmBGrenade_Smoke.description>
+	<!-- EN: Making 30x113mmB smoke cartridges. -->
+	<MakeAmmo_30x113mmBGrenade_Smoke.jobString>Making 30x113mmB smoke cartridges.</MakeAmmo_30x113mmBGrenade_Smoke.jobString>
+</LanguageData>

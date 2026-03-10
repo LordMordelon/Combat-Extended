@@ -1,0 +1,50 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\OskarPotocki_VFE_Mechanoid\Races_AdvancedMechanoid1782.xml -->
+	<!-- EN: head -->
+	<VFE_Mech_AdvancedCentipede.tools.0.label>head</VFE_Mech_AdvancedCentipede.tools.0.label>
+	
+	<!-- EN: left blade -->
+	<VFE_Mech_AdvancedScyther.tools.0.label>left blade</VFE_Mech_AdvancedScyther.tools.0.label>
+	<!-- EN: left blade -->
+	<VFE_Mech_AdvancedScyther.tools.1.label>left blade</VFE_Mech_AdvancedScyther.tools.1.label>
+	<!-- EN: right blade -->
+	<VFE_Mech_AdvancedScyther.tools.2.label>right blade</VFE_Mech_AdvancedScyther.tools.2.label>
+	<!-- EN: right blade -->
+	<VFE_Mech_AdvancedScyther.tools.3.label>right blade</VFE_Mech_AdvancedScyther.tools.3.label>
+	<!-- EN: head -->
+	<VFE_Mech_AdvancedScyther.tools.4.label>head</VFE_Mech_AdvancedScyther.tools.4.label>
+	
+	<!-- EN: left fist -->
+	<VFE_Mech_AdvancedLancer.tools.0.label>left fist</VFE_Mech_AdvancedLancer.tools.0.label>
+	<!-- EN: right fist -->
+	<VFE_Mech_AdvancedLancer.tools.1.label>right fist</VFE_Mech_AdvancedLancer.tools.1.label>
+	<!-- EN: head -->
+	<VFE_Mech_AdvancedLancer.tools.2.label>head</VFE_Mech_AdvancedLancer.tools.2.label>
+	
+	<!-- EN: front left leg -->
+	<VFE_Mech_AdvancedPikeman.tools.0.label>front left leg</VFE_Mech_AdvancedPikeman.tools.0.label>
+	<!-- EN: front right leg -->
+	<VFE_Mech_AdvancedPikeman.tools.1.label>front right leg</VFE_Mech_AdvancedPikeman.tools.1.label>
+	<!-- EN: head -->
+	<VFE_Mech_AdvancedPikeman.tools.2.label>head</VFE_Mech_AdvancedPikeman.tools.2.label>
+	
+	<!-- EN: left fist -->
+	<VFE_Mech_AdvancedKnight.tools.0.label>left fist</VFE_Mech_AdvancedKnight.tools.0.label>
+	<!-- EN: right fist -->
+	<VFE_Mech_AdvancedKnight.tools.1.label>right fist</VFE_Mech_AdvancedKnight.tools.1.label>
+	<!-- EN: head -->
+	<VFE_Mech_AdvancedKnight.tools.2.label>head</VFE_Mech_AdvancedKnight.tools.2.label>
+	
+	<!-- EN: left fist -->
+	<VFE_Mech_AdvancedInquisitor.tools.0.label>left fist</VFE_Mech_AdvancedInquisitor.tools.0.label>
+	<!-- EN: right fist -->
+	<VFE_Mech_AdvancedInquisitor.tools.1.label>right fist</VFE_Mech_AdvancedInquisitor.tools.1.label>
+	<!-- EN: head -->
+	<VFE_Mech_AdvancedInquisitor.tools.2.label>head</VFE_Mech_AdvancedInquisitor.tools.2.label>
+	
+	<!-- EN: head -->
+	<VFE_Mech_AdvancedCarpenter.tools.0.label>head</VFE_Mech_AdvancedCarpenter.tools.0.label>
+	
+	<!-- EN: head -->
+	<VFE_Mech_AdvTermite.tools.0.label>head</VFE_Mech_AdvTermite.tools.0.label>
+</LanguageData>

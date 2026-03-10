@@ -1,0 +1,37 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\RH2_Faction_Task_Force_141\TaskForce141_Guns1285.xml -->
+	<!-- EN: stock -->
+	<RNGun_HK433_Rifle.tools.0.label>stock</RNGun_HK433_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_HK433_Rifle.tools.1.label>barrel</RNGun_HK433_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_HK433_Rifle.tools.2.label>muzzle</RNGun_HK433_Rifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_M4A1TaskForce_Rifle.tools.0.label>stock</RNGun_M4A1TaskForce_Rifle.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_M4A1TaskForce_Rifle.tools.1.label>barrel</RNGun_M4A1TaskForce_Rifle.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_M4A1TaskForce_Rifle.tools.2.label>muzzle</RNGun_M4A1TaskForce_Rifle.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_FNMinimi762MG.tools.0.label>stock</RNGun_FNMinimi762MG.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_FNMinimi762MG.tools.1.label>barrel</RNGun_FNMinimi762MG.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_FNMinimi762MG.tools.2.label>muzzle</RNGun_FNMinimi762MG.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_RSASS_DMR.tools.0.label>stock</RNGun_RSASS_DMR.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_RSASS_DMR.tools.1.label>barrel</RNGun_RSASS_DMR.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_RSASS_DMR.tools.2.label>muzzle</RNGun_RSASS_DMR.tools.2.label>
+	
+	<!-- EN: stock -->
+	<RNGun_THORM408AMR.tools.0.label>stock</RNGun_THORM408AMR.tools.0.label>
+	<!-- EN: barrel -->
+	<RNGun_THORM408AMR.tools.1.label>barrel</RNGun_THORM408AMR.tools.1.label>
+	<!-- EN: muzzle -->
+	<RNGun_THORM408AMR.tools.2.label>muzzle</RNGun_THORM408AMR.tools.2.label>
+</LanguageData>

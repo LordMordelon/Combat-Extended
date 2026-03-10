@@ -1,0 +1,51 @@
+<LanguageData>
+	<!-- ModPatches\RH2 Helldivers Super Firearms\Defs\RH2 Helldivers Super Firearms\Ammo\8x60_Constitution.xml -->
+	
+	<!-- EN: 8x60mm Constitution (FMJ) -->
+	<Ammo_8x60mmConstitution_FMJ.label>8x60mm Constitution (FMJ)</Ammo_8x60mmConstitution_FMJ.label>
+	<!-- EN: Large rifle bullet used in machine guns, sniper rifles, and the occasional assault rifle. -->
+	<Ammo_8x60mmConstitution_FMJ.description>Large rifle bullet used in machine guns, sniper rifles, and the occasional assault rifle.</Ammo_8x60mmConstitution_FMJ.description>
+	
+	<!-- EN: 8x60mm Constitution (AP) -->
+	<Ammo_8x60mmConstitution_AP.label>8x60mm Constitution (AP)</Ammo_8x60mmConstitution_AP.label>
+	<!-- EN: Large rifle bullet used in machine guns, sniper rifles, and the occasional assault rifle. -->
+	<Ammo_8x60mmConstitution_AP.description>Large rifle bullet used in machine guns, sniper rifles, and the occasional assault rifle.</Ammo_8x60mmConstitution_AP.description>
+	
+	<!-- EN: 8x60mm Constitution (HP) -->
+	<Ammo_8x60mmConstitution_HP.label>8x60mm Constitution (HP)</Ammo_8x60mmConstitution_HP.label>
+	<!-- EN: Large rifle bullet used in machine guns, sniper rifles, and the occasional assault rifle. -->
+	<Ammo_8x60mmConstitution_HP.description>Large rifle bullet used in machine guns, sniper rifles, and the occasional assault rifle.</Ammo_8x60mmConstitution_HP.description>
+	
+	<!-- EN: 8x60mm Constitution (AP-I) -->
+	<Ammo_8x60mmConstitution_Incendiary.label>8x60mm Constitution (AP-I)</Ammo_8x60mmConstitution_Incendiary.label>
+	<!-- EN: Large rifle bullet used in machine guns, sniper rifles, and the occasional assault rifle. -->
+	<Ammo_8x60mmConstitution_Incendiary.description>Large rifle bullet used in machine guns, sniper rifles, and the occasional assault rifle.</Ammo_8x60mmConstitution_Incendiary.description>
+	
+	<!-- EN: 8x60mm Constitution (AP-HE) -->
+	<Ammo_8x60mmConstitution_HE.label>8x60mm Constitution (AP-HE)</Ammo_8x60mmConstitution_HE.label>
+	<!-- EN: Large rifle bullet used in machine guns, sniper rifles, and the occasional assault rifle. -->
+	<Ammo_8x60mmConstitution_HE.description>Large rifle bullet used in machine guns, sniper rifles, and the occasional assault rifle.</Ammo_8x60mmConstitution_HE.description>
+	
+	<!-- EN: 8x60mm Constitution (Sabot) -->
+	<Ammo_8x60mmConstitution_Sabot.label>8x60mm Constitution (Sabot)</Ammo_8x60mmConstitution_Sabot.label>
+	<!-- EN: Large rifle bullet used in machine guns, sniper rifles, and the occasional assault rifle. -->
+	<Ammo_8x60mmConstitution_Sabot.description>Large rifle bullet used in machine guns, sniper rifles, and the occasional assault rifle.</Ammo_8x60mmConstitution_Sabot.description>
+	
+	<!-- EN: 8mm Constitution bullet (FMJ) -->
+	<Bullet_8x60mmConstitution_FMJ.label>8mm Constitution bullet (FMJ)</Bullet_8x60mmConstitution_FMJ.label>
+	
+	<!-- EN: 8mm Constitution bullet (AP) -->
+	<Bullet_8x60mmConstitution_AP.label>8mm Constitution bullet (AP)</Bullet_8x60mmConstitution_AP.label>
+	
+	<!-- EN: 8mm Constitution bullet (HP) -->
+	<Bullet_8x60mmConstitution_HP.label>8mm Constitution bullet (HP)</Bullet_8x60mmConstitution_HP.label>
+	
+	<!-- EN: 8x60mm Constitution bullet (AP-I) -->
+	<Bullet_8x60mmConstitution_Incendiary.label>8x60mm Constitution bullet (AP-I)</Bullet_8x60mmConstitution_Incendiary.label>
+	
+	<!-- EN: 8x60mm Constitution bullet (AP-HE) -->
+	<Bullet_8x60mmConstitution_HE.label>8x60mm Constitution bullet (AP-HE)</Bullet_8x60mmConstitution_HE.label>
+	
+	<!-- EN: 8x60mm Constitution bullet (Sabot) -->
+	<Bullet_8x60mmConstitution_Sabot.label>8x60mm Constitution bullet (Sabot)</Bullet_8x60mmConstitution_Sabot.label>
+</LanguageData>

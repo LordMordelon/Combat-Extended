@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\bonible_protoswords\Proto_CE1271.xml -->
+	<!-- EN: handle -->
+	<BON_Protosword.tools.0.label>handle</BON_Protosword.tools.0.label>
+	<!-- EN: edge -->
+	<BON_Protosword.tools.1.label>edge</BON_Protosword.tools.1.label>
+	<!-- EN: point -->
+	<BON_Protosword.tools.2.label>point</BON_Protosword.tools.2.label>
+	
+	<!-- EN: hilt -->
+	<BON_Phasesword.tools.0.label>hilt</BON_Phasesword.tools.0.label>
+	<!-- EN: edge -->
+	<BON_Phasesword.tools.1.label>edge</BON_Phasesword.tools.1.label>
+	<!-- EN: point -->
+	<BON_Phasesword.tools.2.label>point</BON_Phasesword.tools.2.label>
+</LanguageData>

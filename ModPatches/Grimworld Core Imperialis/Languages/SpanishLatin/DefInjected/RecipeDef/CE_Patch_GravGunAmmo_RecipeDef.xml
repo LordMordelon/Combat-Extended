@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Grimworld Core Imperialis\Defs\Grimworld Core Imperialis\Ammo\CE_Patch_GravGunAmmo.xml -->
+	<!-- EN: make graviton power cell x5 -->
+	<MakeAmmo_GravCell.label>make graviton power cell x5</MakeAmmo_GravCell.label>
+	<!-- EN: Craft 5 graviton power cells -->
+	<MakeAmmo_GravCell.description>Craft 5 graviton power cells</MakeAmmo_GravCell.description>
+	<!-- EN: Making 5 graviton power cells -->
+	<MakeAmmo_GravCell.jobString>Making 5 graviton power cells</MakeAmmo_GravCell.jobString>
+</LanguageData>

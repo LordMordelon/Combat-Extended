@@ -1,0 +1,75 @@
+<LanguageData>
+	<!-- ModPatches\Not Only Just A Cannon\Defs\Not Only Just A Cannon\Ammo_Cannon.xml -->
+	
+	<!-- EN: 32-pounder cannon explosive round -->
+	<Ammo_164mmCannonShell_HE.label>32-pounder cannon explosive round</Ammo_164mmCannonShell_HE.label>
+	<!-- EN: A round shell designed to be fired from a cannon. -->
+	<Ammo_164mmCannonShell_HE.description>A round shell designed to be fired from a cannon.</Ammo_164mmCannonShell_HE.description>
+	
+	<!-- EN: 32-pounder cannon shell (HE) -->
+	<Bullet_164mmCannonShell_HE.label>32-pounder cannon shell (HE)</Bullet_164mmCannonShell_HE.label>
+	
+	<!-- EN: 32-pounder cannon solid round -->
+	<Ammo_164mmCannonShell_AP.label>32-pounder cannon solid round</Ammo_164mmCannonShell_AP.label>
+	<!-- EN: A round shell designed to be fired from a cannon. -->
+	<Ammo_164mmCannonShell_AP.description>A round shell designed to be fired from a cannon.</Ammo_164mmCannonShell_AP.description>
+	
+	<!-- EN: 32-pounder cannon solid round -->
+	<Bullet_164mmCannonShell_AP.label>32-pounder cannon solid round</Bullet_164mmCannonShell_AP.label>
+	
+	<!-- EN: 32-pounder cannon incendiary round (Incendiary) -->
+	<Ammo_164mmCannonShell_FI.label>32-pounder cannon incendiary round (Incendiary)</Ammo_164mmCannonShell_FI.label>
+	<!-- EN: A round shell designed to be fired from a cannon. -->
+	<Ammo_164mmCannonShell_FI.description>A round shell designed to be fired from a cannon.</Ammo_164mmCannonShell_FI.description>
+	
+	<!-- EN: 32-pounder incendiary shell -->
+	<Bullet_164mmCannonShell_FI.label>32-pounder incendiary shell</Bullet_164mmCannonShell_FI.label>
+	
+	<!-- EN: 18-pounder cannon chamber explosive round -->
+	<Ammo_164mmCannonShell_HEChamber.label>18-pounder cannon chamber explosive round</Ammo_164mmCannonShell_HEChamber.label>
+	<!-- EN: A metal projectile and powder charge loaded in a mug-shaped chamber to be loaded into a cannon. -->
+	<Ammo_164mmCannonShell_HEChamber.description>A metal projectile and powder charge loaded in a mug-shaped chamber to be loaded into a cannon.</Ammo_164mmCannonShell_HEChamber.description>
+	
+	<!-- EN: 18-pounder cannon chamber solid round -->
+	<Ammo_164mmCannonShell_APChamber.label>18-pounder cannon chamber solid round</Ammo_164mmCannonShell_APChamber.label>
+	<!-- EN: A metal projectile and powder charge loaded in a mug-shaped chamber to be loaded into a cannon. -->
+	<Ammo_164mmCannonShell_APChamber.description>A metal projectile and powder charge loaded in a mug-shaped chamber to be loaded into a cannon.</Ammo_164mmCannonShell_APChamber.description>
+	
+	<!-- EN: 18-pounder cannon chamber incendiary round -->
+	<Ammo_164mmCannonShell_FIChamber.label>18-pounder cannon chamber incendiary round</Ammo_164mmCannonShell_FIChamber.label>
+	<!-- EN: A metal projectile and powder charge loaded in a mug-shaped chamber to be loaded into a cannon. -->
+	<Ammo_164mmCannonShell_FIChamber.description>A metal projectile and powder charge loaded in a mug-shaped chamber to be loaded into a cannon.</Ammo_164mmCannonShell_FIChamber.description>
+	
+	<!-- EN: 24-pounder cannon shell (HE) -->
+	<Bullet_164mmCannonShell_HE_Mortar.label>24-pounder cannon shell (HE)</Bullet_164mmCannonShell_HE_Mortar.label>
+	
+	<!-- EN: 24-pounder cannon solid round -->
+	<Bullet_164mmCannonShell_AP_Mortar.label>24-pounder cannon solid round</Bullet_164mmCannonShell_AP_Mortar.label>
+	
+	<!-- EN: 24-pounder incendiary shell -->
+	<Bullet_164mmCannonShell_FI_Mortar.label>24-pounder incendiary shell</Bullet_164mmCannonShell_FI_Mortar.label>
+	
+	<!-- EN: 24-pounder cannon small gunstone -->
+	<Ammo_164mmCannonShell_GunStoneSmall.label>24-pounder cannon small gunstone</Ammo_164mmCannonShell_GunStoneSmall.label>
+	<!-- EN: A round shell designed to be fired from a cannon. -->
+	<Ammo_164mmCannonShell_GunStoneSmall.description>A round shell designed to be fired from a cannon.</Ammo_164mmCannonShell_GunStoneSmall.description>
+	
+	<!-- EN: 24-pounder cannon small gunstone -->
+	<Bullet_164mmCannonShell_GunStoneSmall.label>24-pounder cannon small gunstone</Bullet_164mmCannonShell_GunStoneSmall.label>
+	
+	<!-- EN: 24-pounder cannon gunstone -->
+	<Ammo_164mmCannonShell_GunStone.label>24-pounder cannon gunstone</Ammo_164mmCannonShell_GunStone.label>
+	<!-- EN: A round shell designed to be fired from a cannon. -->
+	<Ammo_164mmCannonShell_GunStone.description>A round shell designed to be fired from a cannon.</Ammo_164mmCannonShell_GunStone.description>
+	
+	<!-- EN: 24-pounder cannon gunstone -->
+	<Bullet_164mmCannonShell_GunStone.label>24-pounder cannon gunstone</Bullet_164mmCannonShell_GunStone.label>
+	
+	<!-- EN: Dragonator Spike -->
+	<Ammo_DragonatorSpike.label>Dragonator Spike</Ammo_DragonatorSpike.label>
+	<!-- EN: A round shell designed to be fired from a cannon. -->
+	<Ammo_DragonatorSpike.description>A round shell designed to be fired from a cannon.</Ammo_DragonatorSpike.description>
+	
+	<!-- EN: Dragonator Spike -->
+	<Bullet_DragonatorSpike.label>Dragonator Spike</Bullet_DragonatorSpike.label>
+</LanguageData>

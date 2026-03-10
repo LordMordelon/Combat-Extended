@@ -1,0 +1,35 @@
+<LanguageData>
+	<!-- Defs\Ammo\Shotgun\12Gauge.xml -->
+	<!-- EN: 12 gauge shell (Buck) -->
+	<Ammo_12Gauge_Buck.label>12 gauge shell (Buck)</Ammo_12Gauge_Buck.label>
+	<!-- EN: Extremely common shotgun caliber used in almost every application, from hunting over riot control to military firearms. -->
+	<Ammo_12Gauge_Buck.description>Extremely common shotgun caliber used in almost every application, from hunting over riot control to military firearms.</Ammo_12Gauge_Buck.description>
+	<!-- EN: 12 gauge shell (Slug) -->
+	<Ammo_12Gauge_Slug.label>12 gauge shell (Slug)</Ammo_12Gauge_Slug.label>
+	<!-- EN: Extremely common shotgun caliber used in almost every application, from hunting over riot control to military firearms. -->
+	<Ammo_12Gauge_Slug.description>Extremely common shotgun caliber used in almost every application, from hunting over riot control to military firearms.</Ammo_12Gauge_Slug.description>
+	<!-- EN: 12 gauge shell (Bean) -->
+	<Ammo_12Gauge_Beanbag.label>12 gauge shell (Bean)</Ammo_12Gauge_Beanbag.label>
+	<!-- EN: Extremely common shotgun caliber used in almost every application, from hunting over riot control to military firearms. -->
+	<Ammo_12Gauge_Beanbag.description>Extremely common shotgun caliber used in almost every application, from hunting over riot control to military firearms.</Ammo_12Gauge_Beanbag.description>
+	<!-- EN: 12 gauge shell (EMP) -->
+	<Ammo_12Gauge_ElectroSlug.label>12 gauge shell (EMP)</Ammo_12Gauge_ElectroSlug.label>
+	<!-- EN: Extremely common shotgun caliber used in almost every application, from hunting over riot control to military firearms. -->
+	<Ammo_12Gauge_ElectroSlug.description>Extremely common shotgun caliber used in almost every application, from hunting over riot control to military firearms.</Ammo_12Gauge_ElectroSlug.description>
+	<!-- EN: buckshot pellet -->
+	<Bullet_12Gauge_Buck.label>buckshot pellet</Bullet_12Gauge_Buck.label>
+	<!-- EN: shotgun slug -->
+	<Bullet_12Gauge_Slug.label>shotgun slug</Bullet_12Gauge_Slug.label>
+	<!-- EN: beanbag -->
+	<Bullet_12Gauge_Beanbag.label>beanbag</Bullet_12Gauge_Beanbag.label>
+	<!-- EN: EMP slug -->
+	<Bullet_12Gauge_ElectroSlug.label>EMP slug</Bullet_12Gauge_ElectroSlug.label>
+	<!-- EN: buckshot pellet -->
+	<Bullet_12Gauge_Buck_SB.label>buckshot pellet</Bullet_12Gauge_Buck_SB.label>
+	<!-- EN: shotgun slug -->
+	<Bullet_12Gauge_Slug_SB.label>shotgun slug</Bullet_12Gauge_Slug_SB.label>
+	<!-- EN: beanbag -->
+	<Bullet_12Gauge_Beanbag_SB.label>beanbag</Bullet_12Gauge_Beanbag_SB.label>
+	<!-- EN: EMP slug -->
+	<Bullet_12Gauge_ElectroSlug_SB.label>EMP slug</Bullet_12Gauge_ElectroSlug_SB.label>
+</LanguageData>

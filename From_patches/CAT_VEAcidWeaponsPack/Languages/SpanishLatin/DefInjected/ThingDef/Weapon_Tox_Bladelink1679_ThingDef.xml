@@ -1,0 +1,39 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\CAT_VEAcidWeaponsPack\Weapon_Tox_Bladelink1679.xml -->
+	<!-- EN: handle -->
+	<CAT_ToxRapierBladelink.tools.0.label>handle</CAT_ToxRapierBladelink.tools.0.label>
+	<!-- EN: point -->
+	<CAT_ToxRapierBladelink.tools.1.label>point</CAT_ToxRapierBladelink.tools.1.label>
+	<!-- EN: edge -->
+	<CAT_ToxRapierBladelink.tools.2.label>edge</CAT_ToxRapierBladelink.tools.2.label>
+	
+	<!-- EN: handle -->
+	<CAT_ToxCurvedBladeBladelink.tools.0.label>handle</CAT_ToxCurvedBladeBladelink.tools.0.label>
+	<!-- EN: point -->
+	<CAT_ToxCurvedBladeBladelink.tools.1.label>point</CAT_ToxCurvedBladeBladelink.tools.1.label>
+	<!-- EN: edge -->
+	<CAT_ToxCurvedBladeBladelink.tools.2.label>edge</CAT_ToxCurvedBladeBladelink.tools.2.label>
+	
+	<!-- EN: handle -->
+	<CAT_ToxScytheBladelink.tools.0.label>handle</CAT_ToxScytheBladelink.tools.0.label>
+	<!-- EN: edge -->
+	<CAT_ToxScytheBladelink.tools.1.label>edge</CAT_ToxScytheBladelink.tools.1.label>
+	
+	<!-- EN: edge -->
+	<CAT_ToxGauntletBladelink.tools.1.label>edge</CAT_ToxGauntletBladelink.tools.1.label>
+	
+	<!-- EN: edge -->
+	<CAT_ToxTribladeBladelink.tools.0.label>edge</CAT_ToxTribladeBladelink.tools.0.label>
+	
+	<!-- EN: handle -->
+	<CAT_ToxStellicPolearmBladelink.tools.0.label>handle</CAT_ToxStellicPolearmBladelink.tools.0.label>
+	<!-- EN: point -->
+	<CAT_ToxStellicPolearmBladelink.tools.1.label>point</CAT_ToxStellicPolearmBladelink.tools.1.label>
+	<!-- EN: edge -->
+	<CAT_ToxStellicPolearmBladelink.tools.2.label>edge</CAT_ToxStellicPolearmBladelink.tools.2.label>
+	
+	<!-- EN: handle -->
+	<CAT_ToxStellicThuribleBladelink.tools.0.label>handle</CAT_ToxStellicThuribleBladelink.tools.0.label>
+	<!-- EN: edge -->
+	<CAT_ToxStellicThuribleBladelink.tools.1.label>edge</CAT_ToxStellicThuribleBladelink.tools.1.label>
+</LanguageData>

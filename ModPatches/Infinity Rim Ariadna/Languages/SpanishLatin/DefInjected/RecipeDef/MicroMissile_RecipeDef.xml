@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Infinity Rim Ariadna\Defs\Infinity Rim Ariadna\Ammo\MicroMissile.xml -->
+	<!-- EN: make Ariadnan micro missile (HE) x10 -->
+	<MakeAmmo_AriadnanMicroMissile_HE.label>make Ariadnan micro missile (HE) x10</MakeAmmo_AriadnanMicroMissile_HE.label>
+	<!-- EN: Craft 10 Ariadnan HE micro missile. -->
+	<MakeAmmo_AriadnanMicroMissile_HE.description>Craft 10 Ariadnan HE micro missile.</MakeAmmo_AriadnanMicroMissile_HE.description>
+	<!-- EN: Making Ariadnan micro missile (HE). -->
+	<MakeAmmo_AriadnanMicroMissile_HE.jobString>Making Ariadnan micro missile (HE).</MakeAmmo_AriadnanMicroMissile_HE.jobString>
+</LanguageData>

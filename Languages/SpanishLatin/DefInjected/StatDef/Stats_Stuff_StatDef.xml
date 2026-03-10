@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- Defs\Stats\Stats_Stuff.xml -->
+	<!-- EN: Armor - Electric -->
+	<StuffPower_Armor_Electric.label>Armor - Electric</StuffPower_Armor_Electric.label>
+	<!-- EN: Armor against electric damage like EMPs. -->
+	<StuffPower_Armor_Electric.description>Armor against electric damage like EMPs.</StuffPower_Armor_Electric.description>
+</LanguageData>

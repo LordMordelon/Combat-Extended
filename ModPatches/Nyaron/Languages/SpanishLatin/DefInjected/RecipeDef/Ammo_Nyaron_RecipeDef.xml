@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- ModPatches\Nyaron\Defs\Nyaron\Ammo\Ammo_Nyaron.xml -->
+	<!-- EN: make nyaron power cell x500 -->
+	<MakeAmmo_NyaronCell.label>make nyaron power cell x500</MakeAmmo_NyaronCell.label>
+	<!-- EN: Craft 500 nyaron power cells. -->
+	<MakeAmmo_NyaronCell.description>Craft 500 nyaron power cells.</MakeAmmo_NyaronCell.description>
+	<!-- EN: Making nyaron power cells. -->
+	<MakeAmmo_NyaronCell.jobString>Making nyaron power cells.</MakeAmmo_NyaronCell.jobString>
+	<!-- EN: make Nyaron Flak grenades x100 -->
+	<MakeAmmo_NyaronFlakGrenade_HE.label>make Nyaron Flak grenades x100</MakeAmmo_NyaronFlakGrenade_HE.label>
+	<!-- EN: Craft 100 Nyaron Flak grenades. -->
+	<MakeAmmo_NyaronFlakGrenade_HE.description>Craft 100 Nyaron Flak grenades.</MakeAmmo_NyaronFlakGrenade_HE.description>
+	<!-- EN: Making Nyaron Flak grenades. -->
+	<MakeAmmo_NyaronFlakGrenade_HE.jobString>Making Nyaron Flak grenades.</MakeAmmo_NyaronFlakGrenade_HE.jobString>
+</LanguageData>

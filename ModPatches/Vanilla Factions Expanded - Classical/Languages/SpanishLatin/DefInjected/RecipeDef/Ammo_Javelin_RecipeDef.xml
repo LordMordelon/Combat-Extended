@@ -1,0 +1,10 @@
+<LanguageData>
+	<!-- ModPatches\Vanilla Factions Expanded - Classical\Defs\Vanilla Factions Expanded - Classical\Ammo_Javelin.xml -->
+	
+	<!-- EN: make javelins x5 -->
+	<MakeAmmo_VFEC_Javelin.label>make javelins x5</MakeAmmo_VFEC_Javelin.label>
+	<!-- EN: Craft 5 javelins. -->
+	<MakeAmmo_VFEC_Javelin.description>Craft 5 javelins.</MakeAmmo_VFEC_Javelin.description>
+	<!-- EN: Making javelins. -->
+	<MakeAmmo_VFEC_Javelin.jobString>Making javelins.</MakeAmmo_VFEC_Javelin.jobString>
+</LanguageData>

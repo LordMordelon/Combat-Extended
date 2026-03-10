@@ -1,0 +1,31 @@
+<LanguageData>
+	<!-- Defs\Ammo\Modded\Warhammer 40k\Bolter_Small.xml -->
+	
+	<!-- EN: make .50 Cal Bolter (standard) shell x200 -->
+	<MakeAmmo_Bolter50_Standard.label>make .50 Cal Bolter (standard) shell x200</MakeAmmo_Bolter50_Standard.label>
+	<!-- EN: Craft 200 .50 Cal Bolter (standard) shells. -->
+	<MakeAmmo_Bolter50_Standard.description>Craft 200 .50 Cal Bolter (standard) shells.</MakeAmmo_Bolter50_Standard.description>
+	<!-- EN: Making .50 Cal Bolter (standard) shells. -->
+	<MakeAmmo_Bolter50_Standard.jobString>Making .50 Cal Bolter (standard) shells.</MakeAmmo_Bolter50_Standard.jobString>
+	
+	<!-- EN: make .50 Cal Bolter (inferno) shell x200 -->
+	<MakeAmmo_Bolter50_Inferno.label>make .50 Cal Bolter (inferno) shell x200</MakeAmmo_Bolter50_Inferno.label>
+	<!-- EN: Craft 200 .50 Cal Bolter (inferno) shells. -->
+	<MakeAmmo_Bolter50_Inferno.description>Craft 200 .50 Cal Bolter (inferno) shells.</MakeAmmo_Bolter50_Inferno.description>
+	<!-- EN: Making .50 Cal Bolter (inferno) shells. -->
+	<MakeAmmo_Bolter50_Inferno.jobString>Making .50 Cal Bolter (inferno) shells.</MakeAmmo_Bolter50_Inferno.jobString>
+	
+	<!-- EN: make .50 Cal Bolter (kraken) shell x200 -->
+	<MakeAmmo_Bolter50_Kraken.label>make .50 Cal Bolter (kraken) shell x200</MakeAmmo_Bolter50_Kraken.label>
+	<!-- EN: Craft 200 .50 Cal Bolter (kraken) shells. -->
+	<MakeAmmo_Bolter50_Kraken.description>Craft 200 .50 Cal Bolter (kraken) shells.</MakeAmmo_Bolter50_Kraken.description>
+	<!-- EN: Making .50 Cal Bolter (kraken) shells. -->
+	<MakeAmmo_Bolter50_Kraken.jobString>Making .50 Cal Bolter (kraken) shells.</MakeAmmo_Bolter50_Kraken.jobString>
+	
+	<!-- EN: make .50 Cal Bolter (tempest) shell x200 -->
+	<MakeAmmo_Bolter50_Tempest.label>make .50 Cal Bolter (tempest) shell x200</MakeAmmo_Bolter50_Tempest.label>
+	<!-- EN: Craft 200 .50 Cal Bolter (tempest) shells. -->
+	<MakeAmmo_Bolter50_Tempest.description>Craft 200 .50 Cal Bolter (tempest) shells.</MakeAmmo_Bolter50_Tempest.description>
+	<!-- EN: Making .50 Cal Bolter (tempest) shells. -->
+	<MakeAmmo_Bolter50_Tempest.jobString>Making .50 Cal Bolter (tempest) shells.</MakeAmmo_Bolter50_Tempest.jobString>
+</LanguageData>

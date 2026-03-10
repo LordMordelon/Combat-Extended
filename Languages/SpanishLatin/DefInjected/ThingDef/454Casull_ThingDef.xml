@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- Defs\Ammo\Pistols\454Casull.xml -->
+	
+	<!-- EN: .454 Casull (FMJ) -->
+	<Ammo_454Casull_FMJ.label>.454 Casull (FMJ)</Ammo_454Casull_FMJ.label>
+	<!-- EN: A lengthened and reinforced .45 Colt cartridge. Very potent. -->
+	<Ammo_454Casull_FMJ.description>A lengthened and reinforced .45 Colt cartridge. Very potent.</Ammo_454Casull_FMJ.description>
+	
+	<!-- EN: .454 Casull (AP) -->
+	<Ammo_454Casull_AP.label>.454 Casull (AP)</Ammo_454Casull_AP.label>
+	<!-- EN: A lengthened and reinforced .45 Colt cartridge. Very potent. -->
+	<Ammo_454Casull_AP.description>A lengthened and reinforced .45 Colt cartridge. Very potent.</Ammo_454Casull_AP.description>
+	
+	<!-- EN: .454 Casull (HP) -->
+	<Ammo_454Casull_HP.label>.454 Casull (HP)</Ammo_454Casull_HP.label>
+	<!-- EN: A lengthened and reinforced .45 Colt cartridge. Very potent. -->
+	<Ammo_454Casull_HP.description>A lengthened and reinforced .45 Colt cartridge. Very potent.</Ammo_454Casull_HP.description>
+	
+	<!-- EN: .454 Casull bullet (FMJ) -->
+	<Bullet_454Casull_FMJ.label>.454 Casull bullet (FMJ)</Bullet_454Casull_FMJ.label>
+	
+	<!-- EN: .454 Casull bullet (AP) -->
+	<Bullet_454Casull_AP.label>.454 Casull bullet (AP)</Bullet_454Casull_AP.label>
+	
+	<!-- EN: .454 Casull bullet (HP) -->
+	<Bullet_454Casull_HP.label>.454 Casull bullet (HP)</Bullet_454Casull_HP.label>
+</LanguageData>

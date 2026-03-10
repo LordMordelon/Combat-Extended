@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Staffs\Staff of Fire.xml -->
+	<!-- EN: make Elemental Fire Crystal x5 -->
+	<MakeAmmo_Elemental_Staff_Fire.label>make Elemental Fire Crystal x5</MakeAmmo_Elemental_Staff_Fire.label>
+	<!-- EN: Craft 5 Elemental Fire Crystals. -->
+	<MakeAmmo_Elemental_Staff_Fire.description>Craft 5 Elemental Fire Crystals.</MakeAmmo_Elemental_Staff_Fire.description>
+	<!-- EN: Making Elemental Fire Crystals. -->
+	<MakeAmmo_Elemental_Staff_Fire.jobString>Making Elemental Fire Crystals.</MakeAmmo_Elemental_Staff_Fire.jobString>
+</LanguageData>

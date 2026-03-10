@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\sarg_jorisexperience\JorisShootCE1654.xml -->
+	<!-- EN: holy fire -->
+	<JE_BiblicallyAccurateJoris.verbs.0.label>holy fire</JE_BiblicallyAccurateJoris.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<JE_BiblicallyAccurateJoris.verbs.Verb_Shoot.label>ㅤ</JE_BiblicallyAccurateJoris.verbs.Verb_Shoot.label>
+	
+	<!-- EN: tears -->
+	<JECom_IsaacJoris.verbs.0.label>tears</JECom_IsaacJoris.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<JECom_IsaacJoris.verbs.CombatExtended.Verb_ShootCE.label>ㅤ</JECom_IsaacJoris.verbs.CombatExtended.Verb_ShootCE.label>
+	
+	<!-- EN: noita fireball -->
+	<JE_NoitaJoris.verbs.0.label>noita fireball</JE_NoitaJoris.verbs.0.label>
+	<!-- EN: ㅤ -->
+	<JE_NoitaJoris.verbs.CombatExtended.Verb_ShootCE.label>ㅤ</JE_NoitaJoris.verbs.CombatExtended.Verb_ShootCE.label>
+</LanguageData>

@@ -1,0 +1,32 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Grimworld_AstraMilitarum\CE_Patch_Melee_Weapons834.xml -->
+	<!-- EN: handle -->
+	<GW_HOI_Melee_Chainsword.tools.0.label>handle</GW_HOI_Melee_Chainsword.tools.0.label>
+	<!-- EN: edge -->
+	<GW_HOI_Melee_Chainsword.tools.1.label>edge</GW_HOI_Melee_Chainsword.tools.1.label>
+	
+	<!-- EN: Fist -->
+	<GW_HOI_Melee_PowerFist.tools.0.label>Fist</GW_HOI_Melee_PowerFist.tools.0.label>
+	
+	<!-- EN: handle -->
+	<GW_HOI_Melee_CombatKnife.tools.0.label>handle</GW_HOI_Melee_CombatKnife.tools.0.label>
+	<!-- EN: blade -->
+	<GW_HOI_Melee_CombatKnife.tools.1.label>blade</GW_HOI_Melee_CombatKnife.tools.1.label>
+	<!-- EN: point -->
+	<GW_HOI_Melee_CombatKnife.tools.2.label>point</GW_HOI_Melee_CombatKnife.tools.2.label>
+	
+	<!-- EN: handle -->
+	<GW_HOI_Melee_Eviscerator.tools.0.label>handle</GW_HOI_Melee_Eviscerator.tools.0.label>
+	<!-- EN: edge -->
+	<GW_HOI_Melee_Eviscerator.tools.1.label>edge</GW_HOI_Melee_Eviscerator.tools.1.label>
+	
+	<!-- EN: handle -->
+	<GW_HOI_Melee_OmniAxe.tools.0.label>handle</GW_HOI_Melee_OmniAxe.tools.0.label>
+	<!-- EN: edge -->
+	<GW_HOI_Melee_OmniAxe.tools.1.label>edge</GW_HOI_Melee_OmniAxe.tools.1.label>
+	<!-- EN: point -->
+	<GW_HOI_Melee_OmniAxe.tools.2.label>point</GW_HOI_Melee_OmniAxe.tools.2.label>
+	
+	<!-- EN: head -->
+	<GW_HOI_Melee_PsykerForceStaff.tools.0.label>head</GW_HOI_Melee_PsykerForceStaff.tools.0.label>
+</LanguageData>

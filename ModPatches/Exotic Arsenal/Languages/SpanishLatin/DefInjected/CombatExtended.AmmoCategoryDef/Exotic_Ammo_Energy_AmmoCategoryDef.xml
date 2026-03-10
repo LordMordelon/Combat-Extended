@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- ModPatches\Exotic Arsenal\Defs\Exotic Arsenal\Exotic_Ammo_Energy.xml -->
+	<!-- EN: Exotic energy cell -->
+	<Exotic_Normal.label>Exotic energy cell</Exotic_Normal.label>
+	<!-- EN: EEC -->
+	<Exotic_Normal.labelShort>EEC</Exotic_Normal.labelShort>
+	<!-- EN: The exotic energy cell does a funni. -->
+	<Exotic_Normal.description>The exotic energy cell does a funni.</Exotic_Normal.description>
+	<!-- EN: Overcharged exotic energy cell -->
+	<Exotic_Hipower.label>Overcharged exotic energy cell</Exotic_Hipower.label>
+	<!-- EN: OEEC -->
+	<Exotic_Hipower.labelShort>OEEC</Exotic_Hipower.labelShort>
+	<!-- EN: Overcharge the energy cell to increase its power output at the cost of making it unstable and volatile. Its effects are weapon dependent, it is also usually less accurate than thr regular version. -->
+	<Exotic_Hipower.description>Overcharge the energy cell to increase its power output at the cost of making it unstable and volatile. Its effects are weapon dependent, it is also usually less accurate than thr regular version.</Exotic_Hipower.description>
+</LanguageData>

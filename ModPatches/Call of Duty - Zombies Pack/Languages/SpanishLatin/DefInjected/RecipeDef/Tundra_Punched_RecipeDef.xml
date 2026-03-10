@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\Call of Duty - Zombies Pack\Defs\Call of Duty - Zombies Pack\Ammo\Thunders\Tundra_Punched.xml -->
+	<!-- EN: make Boreas Blizzard Cannister x5 -->
+	<MakeAmmo_Tundra_Punched.label>make Boreas Blizzard Cannister x5</MakeAmmo_Tundra_Punched.label>
+	<!-- EN: Craft 5 Boreas Blizzard Cannister. -->
+	<MakeAmmo_Tundra_Punched.description>Craft 5 Boreas Blizzard Cannister.</MakeAmmo_Tundra_Punched.description>
+	<!-- EN: Making Boreas Blizzard Cannister. -->
+	<MakeAmmo_Tundra_Punched.jobString>Making Boreas Blizzard Cannister.</MakeAmmo_Tundra_Punched.jobString>
+</LanguageData>

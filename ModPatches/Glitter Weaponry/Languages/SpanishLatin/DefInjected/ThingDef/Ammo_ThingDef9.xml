@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- ModPatches\Glitter Weaponry\Defs\Glitter Weaponry\Ammo.xml -->
+	<!-- EN: laser bolt -->
+	<Bullet_Laser_Laser_Carbine.label>laser bolt</Bullet_Laser_Laser_Carbine.label>
+	<!-- EN: small laser bolt -->
+	<Bullet_Laser_Laser_Handcannon.label>small laser bolt</Bullet_Laser_Laser_Handcannon.label>
+	<!-- EN: laser bolt -->
+	<Bullet_Laser_Laser_Scatterer.label>laser bolt</Bullet_Laser_Laser_Scatterer.label>
+	<!-- EN: laser bolt -->
+	<Bullet_Laser_DestructorLaser.label>laser bolt</Bullet_Laser_DestructorLaser.label>
+</LanguageData>

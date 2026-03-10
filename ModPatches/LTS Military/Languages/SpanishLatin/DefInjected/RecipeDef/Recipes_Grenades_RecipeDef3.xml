@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- ModPatches\LTS Military\Defs\LTS Military\Recipes_Grenades.xml -->
+	<!-- EN: make M59 grenades x10 -->
+	<LTS_Handgranat.label>make M59 grenades x10</LTS_Handgranat.label>
+	<!-- EN: Craft 10 M59 grenades. -->
+	<LTS_Handgranat.description>Craft 10 M59 grenades.</LTS_Handgranat.description>
+	<!-- EN: Making M59 grenades. -->
+	<LTS_Handgranat.jobString>Making M59 grenades.</LTS_Handgranat.jobString>
+</LanguageData>

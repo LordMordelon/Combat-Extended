@@ -1,0 +1,10 @@
+<LanguageData>
+	<!-- ModPatches\Infinity Rim Ariadna\Defs\Infinity Rim Ariadna\Ammo\Arrow.xml -->
+	
+	<!-- EN: make teseum great arrows x10 -->
+	<MakeAmmo_GreatArrow_Teseum.label>make teseum great arrows x10</MakeAmmo_GreatArrow_Teseum.label>
+	<!-- EN: Craft 10 teseum great arrows. -->
+	<MakeAmmo_GreatArrow_Teseum.description>Craft 10 teseum great arrows.</MakeAmmo_GreatArrow_Teseum.description>
+	<!-- EN: Making teseum great arrows. -->
+	<MakeAmmo_GreatArrow_Teseum.jobString>Making teseum great arrows.</MakeAmmo_GreatArrow_Teseum.jobString>
+</LanguageData>

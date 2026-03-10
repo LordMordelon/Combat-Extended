@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Defs\Ammo\Shell\28cmSpgr.xml -->
+	<!-- EN: make 28cm Spgr. (HE) cannon shells x5 -->
+	<MakeAmmo_28cmSpgrShell_HE.label>make 28cm Spgr. (HE) cannon shells x5</MakeAmmo_28cmSpgrShell_HE.label>
+	<!-- EN: Craft 5 28cm Spgr. (HE) cannon shells. -->
+	<MakeAmmo_28cmSpgrShell_HE.description>Craft 5 28cm Spgr. (HE) cannon shells.</MakeAmmo_28cmSpgrShell_HE.description>
+	<!-- EN: Making 28cm Spgr. (HE) cannon shells. -->
+	<MakeAmmo_28cmSpgrShell_HE.jobString>Making 28cm Spgr. (HE) cannon shells.</MakeAmmo_28cmSpgrShell_HE.jobString>
+</LanguageData>

@@ -1,0 +1,11 @@
+<LanguageData>
+	<!-- Defs\Ammo\HighCaliber\12.7x108mmSoviet.xml -->
+	<!-- EN: 12.7x108mm Soviet -->
+	<Ammo127x108mm.label>12.7x108mm Soviet</Ammo127x108mm.label>
+	<!-- Defs\Ammo\Modded\Halo\12.7x40mm.xml -->
+	<!-- EN: 12.7x40mm -->
+	<Ammo127x40mm.label>12.7x40mm</Ammo127x40mm.label>
+	<!-- Defs\Ammo\Modded\Halo\12.7x99mm.xml -->
+	<!-- EN: 12.7x99mm -->
+	<Ammo127x99mm.label>12.7x99mm</Ammo127x99mm.label>
+</LanguageData>

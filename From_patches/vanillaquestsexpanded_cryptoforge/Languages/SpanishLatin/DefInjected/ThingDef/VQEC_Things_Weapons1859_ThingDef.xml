@@ -1,0 +1,14 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\vanillaquestsexpanded_cryptoforge\VQEC_Things_Weapons1859.xml -->
+	<!-- EN: handle -->
+	<VQE_MeleeWeapon_Cryptoaxe.tools.0.label>handle</VQE_MeleeWeapon_Cryptoaxe.tools.0.label>
+	<!-- EN: edge -->
+	<VQE_MeleeWeapon_Cryptoaxe.tools.1.label>edge</VQE_MeleeWeapon_Cryptoaxe.tools.1.label>
+	
+	<!-- EN: stock -->
+	<VQE_Weapon_Cryptobolter.tools.0.label>stock</VQE_Weapon_Cryptobolter.tools.0.label>
+	<!-- EN: barrel -->
+	<VQE_Weapon_Cryptobolter.tools.1.label>barrel</VQE_Weapon_Cryptobolter.tools.1.label>
+	<!-- EN: stirrup -->
+	<VQE_Weapon_Cryptobolter.tools.2.label>stirrup</VQE_Weapon_Cryptobolter.tools.2.label>
+</LanguageData>

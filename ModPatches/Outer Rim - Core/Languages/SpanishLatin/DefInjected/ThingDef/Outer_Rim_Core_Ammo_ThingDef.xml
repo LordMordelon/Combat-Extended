@@ -1,0 +1,103 @@
+<LanguageData>
+	<!-- ModPatches\Outer Rim - Core\Defs\Outer Rim - Core\Outer_Rim_Core_Ammo.xml -->
+	<!-- EN: Plasma Gas Cartridges -->
+	<Ammo_PlasmaGasCartridge_Standard.label>Plasma Gas Cartridges</Ammo_PlasmaGasCartridge_Standard.label>
+	<!-- EN: Plasma gas ammo used by advanced blaster designs. Standard general-purpose tibanna-gas based plasma bolts, effective against most targets and lighter armours. -->
+	<Ammo_PlasmaGasCartridge_Standard.description>Plasma gas ammo used by advanced blaster designs. Standard general-purpose tibanna-gas based plasma bolts, effective against most targets and lighter armours.</Ammo_PlasmaGasCartridge_Standard.description>
+	<!-- EN: Plasma Gas Cartridges (Conc.) -->
+	<Ammo_PlasmaGasCartridge_AP.label>Plasma Gas Cartridges (Conc.)</Ammo_PlasmaGasCartridge_AP.label>
+	<!-- EN: Plasma gas ammo used by advanced blaster designs. A concentrated high-pressure refinement process produces plasma bolts capable of piercing hardened armour more effectively. -->
+	<Ammo_PlasmaGasCartridge_AP.description>Plasma gas ammo used by advanced blaster designs. A concentrated high-pressure refinement process produces plasma bolts capable of piercing hardened armour more effectively.</Ammo_PlasmaGasCartridge_AP.description>
+	<!-- EN: Plasma Gas Cartridges (Ion) -->
+	<Ammo_PlasmaGasCartridge_Ion.label>Plasma Gas Cartridges (Ion)</Ammo_PlasmaGasCartridge_Ion.label>
+	<!-- EN: Plasma gas ammo used by advanced blaster designs. Specialized particle induction causes ionization effects on bolt impacts, increasing effectiveness against mechanical targets. -->
+	<Ammo_PlasmaGasCartridge_Ion.description>Plasma gas ammo used by advanced blaster designs. Specialized particle induction causes ionization effects on bolt impacts, increasing effectiveness against mechanical targets.</Ammo_PlasmaGasCartridge_Ion.description>
+	<!-- EN: Plasma Gas Cartridges (Stun) -->
+	<Ammo_PlasmaGasCartridge_Stun.label>Plasma Gas Cartridges (Stun)</Ammo_PlasmaGasCartridge_Stun.label>
+	<!-- EN: Plasma gas ammo used by advanced blaster designs. Modulated energy pulse emission generates a non-lethal pulse that can disable organics, but is highly ineffective against mechanical targets. -->
+	<Ammo_PlasmaGasCartridge_Stun.description>Plasma gas ammo used by advanced blaster designs. Modulated energy pulse emission generates a non-lethal pulse that can disable organics, but is highly ineffective against mechanical targets.</Ammo_PlasmaGasCartridge_Stun.description>
+	<!-- EN: bullet -->
+	<Bullet_BlasterPistol_Red.label>bullet</Bullet_BlasterPistol_Red.label>
+	<!-- EN: bullet -->
+	<Bullet_BlasterPistol_RedAP.label>bullet</Bullet_BlasterPistol_RedAP.label>
+	<!-- EN: bullet -->
+	<Bullet_BlasterRifle_Red.label>bullet</Bullet_BlasterRifle_Red.label>
+	<!-- EN: bullet -->
+	<Bullet_BlasterRifle_RedAP.label>bullet</Bullet_BlasterRifle_RedAP.label>
+	<!-- EN: bullet -->
+	<Bullet_BlasterSniper_Red.label>bullet</Bullet_BlasterSniper_Red.label>
+	<!-- EN: bullet -->
+	<Bullet_BlasterSniper_RedAP.label>bullet</Bullet_BlasterSniper_RedAP.label>
+	<!-- EN: bullet -->
+	<Bullet_BlasterPistol_Green.label>bullet</Bullet_BlasterPistol_Green.label>
+	<!-- EN: bullet -->
+	<Bullet_BlasterPistol_GreenAP.label>bullet</Bullet_BlasterPistol_GreenAP.label>
+	<!-- EN: bullet -->
+	<Bullet_BlasterRifle_Green.label>bullet</Bullet_BlasterRifle_Green.label>
+	<!-- EN: bullet -->
+	<Bullet_BlasterRifle_GreenAP.label>bullet</Bullet_BlasterRifle_GreenAP.label>
+	<!-- EN: bullet -->
+	<Bullet_BlasterSniper_Green.label>bullet</Bullet_BlasterSniper_Green.label>
+	<!-- EN: bullet -->
+	<Bullet_BlasterSniper_GreenAP.label>bullet</Bullet_BlasterSniper_GreenAP.label>
+	<!-- EN: bullet -->
+	<Bullet_BlasterPistol_Blue.label>bullet</Bullet_BlasterPistol_Blue.label>
+	<!-- EN: bullet -->
+	<Bullet_BlasterPistol_BlueAP.label>bullet</Bullet_BlasterPistol_BlueAP.label>
+	<!-- EN: bullet -->
+	<Bullet_BlasterRifle_Blue.label>bullet</Bullet_BlasterRifle_Blue.label>
+	<!-- EN: bullet -->
+	<Bullet_BlasterRifle_BlueAP.label>bullet</Bullet_BlasterRifle_BlueAP.label>
+	<!-- EN: bullet -->
+	<Bullet_BlasterSniper_Blue.label>bullet</Bullet_BlasterSniper_Blue.label>
+	<!-- EN: bullet -->
+	<Bullet_BlasterSniper_BlueAP.label>bullet</Bullet_BlasterSniper_BlueAP.label>
+	<!-- EN: bullet -->
+	<Bullet_BlasterPistol_Yellow.label>bullet</Bullet_BlasterPistol_Yellow.label>
+	<!-- EN: bullet -->
+	<Bullet_BlasterPistol_YellowAP.label>bullet</Bullet_BlasterPistol_YellowAP.label>
+	<!-- EN: bullet -->
+	<Bullet_BlasterRifle_Yellow.label>bullet</Bullet_BlasterRifle_Yellow.label>
+	<!-- EN: bullet -->
+	<Bullet_BlasterRifle_YellowAP.label>bullet</Bullet_BlasterRifle_YellowAP.label>
+	<!-- EN: bullet -->
+	<Bullet_BlasterSniper_Yellow.label>bullet</Bullet_BlasterSniper_Yellow.label>
+	<!-- EN: bullet -->
+	<Bullet_BlasterSniper_YellowAP.label>bullet</Bullet_BlasterSniper_YellowAP.label>
+	<!-- EN: bullet -->
+	<Bullet_BlasterPistol_Ion.label>bullet</Bullet_BlasterPistol_Ion.label>
+	<!-- EN: bullet -->
+	<Bullet_BlasterRifle_Ion.label>bullet</Bullet_BlasterRifle_Ion.label>
+	<!-- EN: bullet -->
+	<Bullet_BlasterSniper_Ion.label>bullet</Bullet_BlasterSniper_Ion.label>
+	<!-- EN: bullet -->
+	<Bullet_BlasterPistol_Stun.label>bullet</Bullet_BlasterPistol_Stun.label>
+	<!-- EN: bullet -->
+	<Bullet_BlasterRifle_Stun.label>bullet</Bullet_BlasterRifle_Stun.label>
+	<!-- EN: bullet -->
+	<Bullet_BlasterSniper_Stun.label>bullet</Bullet_BlasterSniper_Stun.label>
+	<!-- EN: bullet -->
+	<Bullet_BlasterBolt_Scatter.label>bullet</Bullet_BlasterBolt_Scatter.label>
+	<!-- EN: bullet -->
+	<Bullet_BlasterBolt_DualShot.label>bullet</Bullet_BlasterBolt_DualShot.label>
+	<!-- EN: bullet -->
+	<Bullet_BlasterBolt_DualShotAP.label>bullet</Bullet_BlasterBolt_DualShotAP.label>
+	<!-- EN: bullet -->
+	<Bullet_BlasterBolt_DualShotIon.label>bullet</Bullet_BlasterBolt_DualShotIon.label>
+	<!-- EN: bullet -->
+	<Bullet_BlasterBolt_DualShotStun.label>bullet</Bullet_BlasterBolt_DualShotStun.label>
+	<!-- EN: standard minirocket -->
+	<Ammo_OR_MiniRocket_Standard.label>standard minirocket</Ammo_OR_MiniRocket_Standard.label>
+	<!-- EN: A small but nonetheless extremely deadly miniaturized rocket, designed to be launched from wrist-mounted weapon platforms. -->
+	<Ammo_OR_MiniRocket_Standard.description>A small but nonetheless extremely deadly miniaturized rocket, designed to be launched from wrist-mounted weapon platforms.</Ammo_OR_MiniRocket_Standard.description>
+	<!-- EN: wrist rocket -->
+	<Bullet_OR_WristRocket.label>wrist rocket</Bullet_OR_WristRocket.label>
+	<!-- EN: bullet -->
+	<Bullet_OR_KnockoutDart.label>bullet</Bullet_OR_KnockoutDart.label>
+	<!-- EN: RPS-6 rocket -->
+	<Ammo_RPS6_HEDP.label>RPS-6 rocket</Ammo_RPS6_HEDP.label>
+	<!-- EN: A powerful rocket first used in the Galactic Republic's RPS-6. Old caches have been repurposed by the Rebel Alliance for use in the HH-12 launcher. The dual-purpose missile is lethal to both vehicles and infantry alike. -->
+	<Ammo_RPS6_HEDP.description>A powerful rocket first used in the Galactic Republic's RPS-6. Old caches have been repurposed by the Rebel Alliance for use in the HH-12 launcher. The dual-purpose missile is lethal to both vehicles and infantry alike.</Ammo_RPS6_HEDP.description>
+	<!-- EN: RPS-6 Rocket -->
+	<Bullet_RPS6_HEDP.label>RPS-6 Rocket</Bullet_RPS6_HEDP.label>
+</LanguageData>

@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\Mlie_InfinityRimAriadna\Heavy906.xml -->
+	<!-- EN: stock -->
+	<Gun_MissileLauncher.tools.0.label>stock</Gun_MissileLauncher.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_MissileLauncher.tools.1.label>barrel</Gun_MissileLauncher.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_MissileLauncher.tools.2.label>muzzle</Gun_MissileLauncher.tools.2.label>
+	
+	<!-- EN: stock -->
+	<Gun_AutoCannon.tools.0.label>stock</Gun_AutoCannon.tools.0.label>
+	<!-- EN: barrel -->
+	<Gun_AutoCannon.tools.1.label>barrel</Gun_AutoCannon.tools.1.label>
+	<!-- EN: muzzle -->
+	<Gun_AutoCannon.tools.2.label>muzzle</Gun_AutoCannon.tools.2.label>
+</LanguageData>

@@ -1,0 +1,22 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\rooboid_satyrfaun_expanded_tug_SatyrFaun_Expanded\SatyrFaun_Weapons1575.xml -->
+	<!-- EN: handle -->
+	<RBSFE_FaeBlade.tools.0.label>handle</RBSFE_FaeBlade.tools.0.label>
+	<!-- EN: point -->
+	<RBSFE_FaeBlade.tools.1.label>point</RBSFE_FaeBlade.tools.1.label>
+	<!-- EN: edge -->
+	<RBSFE_FaeBlade.tools.2.label>edge</RBSFE_FaeBlade.tools.2.label>
+	
+	<!-- EN: head -->
+	<RBSFE_FaeStaff.tools.0.label>head</RBSFE_FaeStaff.tools.0.label>
+	
+	<!-- EN: whip -->
+	<RBSFE_FaeWhip.tools.0.label>whip</RBSFE_FaeWhip.tools.0.label>
+	
+	<!-- EN: handle -->
+	<RBSFE_Faemore.tools.0.label>handle</RBSFE_Faemore.tools.0.label>
+	<!-- EN: point -->
+	<RBSFE_Faemore.tools.1.label>point</RBSFE_Faemore.tools.1.label>
+	<!-- EN: edge -->
+	<RBSFE_Faemore.tools.2.label>edge</RBSFE_Faemore.tools.2.label>
+</LanguageData>
