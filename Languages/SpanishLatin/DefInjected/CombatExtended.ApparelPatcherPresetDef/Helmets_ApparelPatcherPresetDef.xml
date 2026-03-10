@@ -1,9 +1,9 @@
 <LanguageData>
 	<!-- Defs\ApparelAutoPatcherPresets\Helmets.xml -->
 	<!-- EN: preset helmet -->
-	<Helmet.label>preset helmet</Helmet.label>
+	<Helmet.label>casco predefinido</Helmet.label>
 	<!-- EN: preset light helmet -->
-	<LightHelmet.label>preset light helmet</LightHelmet.label>
+	<LightHelmet.label>casco ligero predefinido</LightHelmet.label>
 	<!-- EN: preset hat -->
-	<Hat.label>preset hat</Hat.label>
+	<Hat.label>sombrero predefinido</Hat.label>
 </LanguageData>

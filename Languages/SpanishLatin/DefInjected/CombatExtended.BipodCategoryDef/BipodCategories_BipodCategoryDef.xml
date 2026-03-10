@@ -1,7 +1,7 @@
 <LanguageData>
 	<!-- Defs\BipodCategoryDefs\BipodCategories.xml -->
 	<!-- EN: Rifle -->
-	<bipodRifle.label>Rifle</bipodRifle.label>
+	<bipodRifle.label>Fusil</bipodRifle.label>
 	<!-- EN: SAW -->
 	<bipodSAW.label>SAW</bipodSAW.label>
 	<!-- EN: LMG -->
