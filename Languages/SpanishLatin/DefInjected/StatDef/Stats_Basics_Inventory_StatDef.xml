@@ -1,17 +1,17 @@
 <LanguageData>
 	<!-- Defs\Stats\Stats_Basics_Inventory.xml -->
 	<!-- EN: bulk -->
-	<Bulk.label>bulk</Bulk.label>
+	<Bulk.label>volumen</Bulk.label>
 	<!-- EN: The amount of inventory space an item takes up when carried in bag or pocket. -->
-	<Bulk.description>The amount of inventory space an item takes up when carried in bag or pocket.</Bulk.description>
+	<Bulk.description>La cantidad de espacio de inventario que ocupa un elemento cuando se lleva en una bolsa o bolsillo.</Bulk.description>
 	
 	<!-- EN: caliber -->
-	<AmmoCaliber.label>caliber</AmmoCaliber.label>
+	<AmmoCaliber.label>calibre</AmmoCaliber.label>
 	<!-- EN: The guns which accept this type of ammo. -->
-	<AmmoCaliber.description>The guns which accept this type of ammo.</AmmoCaliber.description>
+	<AmmoCaliber.description>Las armas que aceptan este tipo de munición.</AmmoCaliber.description>
 	
 	<!-- EN: range -->
-	<LongRange.label>range</LongRange.label>
+	<LongRange.label>alcance</LongRange.label>
 	<!-- EN: The projectile's range on the world map. -->
-	<LongRange.description>The projectile's range on the world map.</LongRange.description>
+	<LongRange.description>El alcance del proyectil en el mapa mundial.</LongRange.description>
 </LanguageData>

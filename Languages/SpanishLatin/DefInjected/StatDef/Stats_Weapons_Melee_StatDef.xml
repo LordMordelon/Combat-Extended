@@ -1,29 +1,29 @@
 <LanguageData>
 	<!-- Defs\Stats\Stats_Weapons_Melee.xml -->
 	<!-- EN: melee damage -->
-	<MeleeDamage.label>melee damage</MeleeDamage.label>
+	<MeleeDamage.label>daño cuerpo a cuerpo</MeleeDamage.label>
 	<!-- EN: Damage ranges for each of this weapon's tools. -->
-	<MeleeDamage.description>Damage ranges for each of this weapon's tools.</MeleeDamage.description>
+	<MeleeDamage.description>Rangos de daño para cada herramienta de esta arma.</MeleeDamage.description>
 	
 	<!-- EN: Toughness - Material effect multiplier -->
-	<StuffEffectMultiplierToughness.label>Toughness - Material effect multiplier</StuffEffectMultiplierToughness.label>
+	<StuffEffectMultiplierToughness.label>Dureza - Multiplicador de efecto de material</StuffEffectMultiplierToughness.label>
 	
 	<!-- EN: Toughness -->
-	<ToughnessRating.label>Toughness</ToughnessRating.label>
+	<ToughnessRating.label>Dureza</ToughnessRating.label>
 	<!-- EN: Toughness (weapon stat) -->
-	<ToughnessRating.labelForFullStatList>Toughness (weapon stat)</ToughnessRating.labelForFullStatList>
+	<ToughnessRating.labelForFullStatList>Dureza (estadística del arma)</ToughnessRating.labelForFullStatList>
 	<!-- EN: Mitigation effect on damage taken by a weapon when it is used to parry an attack.\n\nAgainst blunt attacks, this rating is multiplied by 1.5 and is considered as the blunt armor rating, otherwise it's taken as it is as sharp armor rating. This rating is compared against the attack's armor penetration, then the damage is reduced by the ratio of remaining to initial penetration and by a flat 50% factor (e.g: if 8mm RHA toughness weapon is used to parry a 15 MPa blunt attack, the weapon will take 10% of the damage).\n\nThis stat is affected by the skill of the user.\n\nWe suggest to read the description of sharp and blunt armor ratings to find more in-depth info about how the damage is affected. -->
-	<ToughnessRating.description>Mitigation effect on damage taken by a weapon when it is used to parry an attack.\n\nAgainst blunt attacks, this rating is multiplied by 1.5 and is considered as the blunt armor rating, otherwise it's taken as it is as sharp armor rating. This rating is compared against the attack's armor penetration, then the damage is reduced by the ratio of remaining to initial penetration and by a flat 50% factor (e.g: if 8mm RHA toughness weapon is used to parry a 15 MPa blunt attack, the weapon will take 10% of the damage).\n\nThis stat is affected by the skill of the user.\n\nWe suggest to read the description of sharp and blunt armor ratings to find more in-depth info about how the damage is affected.</ToughnessRating.description>
+	<ToughnessRating.description>Efecto de mitigación en el daño recibido por un arma cuando se usa para defender un ataque.\n\nContra ataques contundentes, esta clasificación se multiplica por 1.5 y se considera como la clasificación de armadura contundente, de lo contrario se toma tal cual es como clasificación de armadura afilada. Esta calificación se compara contra la penetración de armadura del ataque, luego el daño se reduce por la relación entre penetración restante e inicial y por un factor del 50% plano (ej: si se usa un arma con dureza de 8mm RHA para defender un ataque contundente de 15 MPa, el arma recibirá el 10% del daño).\n\nEsta estadística se ve afectada por la habilidad del usuario.\n\nSugerimos leer la descripción de las clasificaciones de armadura afilada y contundente para encontrar información más detallada sobre cómo se ve afectado el daño.</ToughnessRating.description>
 	<!-- EN: {0} mm RHA -->
 	<ToughnessRating.formatString>{0} mm RHA</ToughnessRating.formatString>
 	
 	<!-- EN: melee armor penetration factor -->
-	<MeleePenetrationFactor.label>melee armor penetration factor</MeleePenetrationFactor.label>
+	<MeleePenetrationFactor.label>factor de penetración de armadura cuerpo a cuerpo</MeleePenetrationFactor.label>
 	<!-- EN: Capability to penetrate armor on a melee strike. This multiplier is applied to all melee attacks made with this weapon.\n\nThe base value is determined by the tool used. -->
-	<MeleePenetrationFactor.description>Capability to penetrate armor on a melee strike. This multiplier is applied to all melee attacks made with this weapon.\n\nThe base value is determined by the tool used.</MeleePenetrationFactor.description>
+	<MeleePenetrationFactor.description>Capacidad de penetrar armadura en un golpe cuerpo a cuerpo. Este multiplicador se aplica a todos los ataques cuerpo a cuerpo realizados con esta arma.\n\nEl valor base está determinado por la herramienta utilizada.</MeleePenetrationFactor.description>
 	
 	<!-- EN: melee counter parry bonus -->
-	<MeleeCounterParryBonus.label>melee counter parry bonus</MeleeCounterParryBonus.label>
+	<MeleeCounterParryBonus.label>bonificación de contradefensa cuerpo a cuerpo</MeleeCounterParryBonus.label>
 	<!-- EN: When attacking an opponent with this weapon, the attacker's parry chance is multiplied by this value plus one. -->
-	<MeleeCounterParryBonus.description>When attacking an opponent with this weapon, the attacker's parry chance is multiplied by this value plus one.</MeleeCounterParryBonus.description>
+	<MeleeCounterParryBonus.description>Al atacar a un oponente con esta arma, la oportunidad de defensa del atacante se multiplica por este valor más uno.</MeleeCounterParryBonus.description>
 </LanguageData>

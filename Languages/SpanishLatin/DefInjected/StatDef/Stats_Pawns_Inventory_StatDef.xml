@@ -1,14 +1,14 @@
 <LanguageData>
 	<!-- Defs\Stats\Stats_Pawns_Inventory.xml -->
 	<!-- EN: carry weight -->
-	<CarryWeight.label>carry weight</CarryWeight.label>
+	<CarryWeight.label>peso de carga</CarryWeight.label>
 	<!-- EN: The amount of weight this creature can carry in pockets, bags or otherwise attached to its body. -->
-	<CarryWeight.description>The amount of weight this creature can carry in pockets, bags or otherwise attached to its body.</CarryWeight.description>
+	<CarryWeight.description>La cantidad de peso que esta criatura puede cargar en bolsillos, bolsas o de otro modo unido a su cuerpo.</CarryWeight.description>
 	<!-- EN: {0} kg -->
 	<CarryWeight.formatString>{0} kg</CarryWeight.formatString>
 	
 	<!-- EN: bulk capacity -->
-	<CarryBulk.label>bulk capacity</CarryBulk.label>
+	<CarryBulk.label>capacidad de volumen</CarryBulk.label>
 	<!-- EN: The volume of items this creature can carry in pockets, bags or otherwise attached to its body. -->
-	<CarryBulk.description>The volume of items this creature can carry in pockets, bags or otherwise attached to its body.</CarryBulk.description>
+	<CarryBulk.description>El volumen de elementos que esta criatura puede cargar en bolsillos, bolsas o de otro modo unido a su cuerpo.</CarryBulk.description>
 </LanguageData>

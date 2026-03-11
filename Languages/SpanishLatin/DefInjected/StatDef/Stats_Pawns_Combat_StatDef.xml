@@ -1,58 +1,58 @@
 <LanguageData>
 	<!-- Defs\Stats\Stats_Pawns_Combat.xml -->
 	<!-- EN: aiming accuracy -->
-	<AimingAccuracy.label>aiming accuracy</AimingAccuracy.label>
+	<AimingAccuracy.label>precisión de puntería</AimingAccuracy.label>
 	<!-- EN: How well a shooter can lead moving targets and estimate range in combination with the weapon's aiming efficiency.\n\nThe final modifier is calculated via this formula:\n(1.5 - aiming accuracy) / aiming efficiency\n\nLead error is calculated by multiplying this factor against total lead distance in cells. Range error is calculated by multiplying it against the total distance to the target divided by 4.\n\nAiming accuracy influences the the sway reduction during aimed shots. For example, at 75% aiming accuracy sway will be reduced to 25%. -->
-	<AimingAccuracy.description>How well a shooter can lead moving targets and estimate range in combination with the weapon's aiming efficiency.\n\nThe final modifier is calculated via this formula:\n(1.5 - aiming accuracy) / aiming efficiency\n\nLead error is calculated by multiplying this factor against total lead distance in cells. Range error is calculated by multiplying it against the total distance to the target divided by 4.\n\nAiming accuracy influences the the sway reduction during aimed shots. For example, at 75% aiming accuracy sway will be reduced to 25%.</AimingAccuracy.description>
+	<AimingAccuracy.description>Cómo de bien un tirador puede adelantar objetivos en movimiento y estimar el alcance en combinación con la eficiencia de puntería del arma.\n\nEl modificador final se calcula mediante esta fórmula:\n(1.5 - aiming accuracy) / aiming efficiency\n\nEl error de adelanto se calcula multiplicando este factor por la distancia total de adelanto en celdas. El error de alcance se calcula multiplicándolo por la distancia total al objetivo dividida entre 4.\n\nLa precisión de puntería influye en la reducción del bamboleo durante disparos apuntados. Por ejemplo, con una precisión de puntería del 75% el bamboleo se reducirá al 25%.</AimingAccuracy.description>
 	
 	<!-- EN: reload speed -->
-	<ReloadSpeed.label>reload speed</ReloadSpeed.label>
+	<ReloadSpeed.label>velocidad de recarga</ReloadSpeed.label>
 	<!-- EN: The speed at which firearms are reloaded. -->
-	<ReloadSpeed.description>The speed at which firearms are reloaded.</ReloadSpeed.description>
+	<ReloadSpeed.description>La velocidad a la que se recargan las armas de fuego.</ReloadSpeed.description>
 	
 	<!-- EN: suppressability -->
-	<Suppressability.label>suppressability</Suppressability.label>
+	<Suppressability.label>capacidad de supresión</Suppressability.label>
 	<!-- EN: How susceptible this person is to suppression. Loss of consciousness and certain drugs can lower this value, making it harder to suppress this person. -->
-	<Suppressability.description>How susceptible this person is to suppression. Loss of consciousness and certain drugs can lower this value, making it harder to suppress this person.</Suppressability.description>
+	<Suppressability.description>Qué tan susceptible es esta persona a la supresión. La pérdida de consciencia y ciertos fármacos pueden reducir este valor, haciendo más difícil suprimir a esta persona.</Suppressability.description>
 	
 	<!-- EN: armor coverage -->
-	<AverageSharpArmor.label>armor coverage</AverageSharpArmor.label>
+	<AverageSharpArmor.label>cobertura de armadura</AverageSharpArmor.label>
 	<!-- EN: The average value of armor coverage across this person's body. Higher values will make them more confident against low-penetration projectiles. -->
-	<AverageSharpArmor.description>The average value of armor coverage across this person's body. Higher values will make them more confident against low-penetration projectiles.</AverageSharpArmor.description>
+	<AverageSharpArmor.description>El valor promedio de cobertura de armadura en el cuerpo de esta persona. Valores más altos los harán más seguros contra proyectiles de baja penetración.</AverageSharpArmor.description>
 	<!-- EN: {0} mm RHA -->
 	<AverageSharpArmor.formatString>{0} mm RHA</AverageSharpArmor.formatString>
 	
 	<!-- EN: melee armor penetration -->
-	<MeleeArmorPenetration.label>melee armor penetration</MeleeArmorPenetration.label>
+	<MeleeArmorPenetration.label>penetración de armadura cuerpo a cuerpo</MeleeArmorPenetration.label>
 	<!-- EN: Armor penetration in melee. Determines how much damage is lost to enemy armor. -->
-	<MeleeArmorPenetration.description>Armor penetration in melee. Determines how much damage is lost to enemy armor.</MeleeArmorPenetration.description>
+	<MeleeArmorPenetration.description>Penetración de armadura en combate cuerpo a cuerpo. Determina cuánto daño se pierde en la armadura enemiga.</MeleeArmorPenetration.description>
 	
 	<!-- EN: melee critical chance -->
-	<MeleeCritChance.label>melee critical chance</MeleeCritChance.label>
+	<MeleeCritChance.label>oportunidad crítica cuerpo a cuerpo</MeleeCritChance.label>
 	<!-- EN: Base chance to land a critical hit with a melee attack. Critical hits force max damage from the damage variation. On a critical hit, sharp attacks get double penetration, while blunt attacks stun the target.\nThe final chance depends on the opponent's critical skill and equal opponents will always have a 10% chance to crit. The internal formula is:\n\nFinalCritChance = ClampBetweenZeroAndOne(0.1 + AttackerCritChance - DefenderCritChance)*100% -->
-	<MeleeCritChance.description>Base chance to land a critical hit with a melee attack. Critical hits force max damage from the damage variation. On a critical hit, sharp attacks get double penetration, while blunt attacks stun the target.\nThe final chance depends on the opponent's critical skill and equal opponents will always have a 10% chance to crit. The internal formula is:\n\nFinalCritChance = ClampBetweenZeroAndOne(0.1 + AttackerCritChance - DefenderCritChance)*100%</MeleeCritChance.description>
+	<MeleeCritChance.description>Probabilidad base de golpe crítico con un ataque cuerpo a cuerpo. Los golpes críticos fuerzan el daño máximo de la variación de daño. En un golpe crítico, los ataques cortantes obtienen el doble de penetración, mientras que los ataques contundentes aturden al objetivo.\nLa probabilidad final depende de la habilidad crítica del oponente e igualmente los oponentes siempre tendrán un 10% de oportunidad de crítico. La fórmula interna es:\n\nFinalCritChance = ClampBetweenZeroAndOne(0.1 + AttackerCritChance - DefenderCritChance)*100%</MeleeCritChance.description>
 	
 	<!-- EN: melee parry chance -->
-	<MeleeParryChance.label>melee parry chance</MeleeParryChance.label>
+	<MeleeParryChance.label>oportunidad de parada cuerpo a cuerpo</MeleeParryChance.label>
 	<!-- EN: Base chance to parry a melee attack. When a parry is performed the equipped weapon or shield will take damage instead of the wielder. If the parrying pawn passes a critical chance check they will automatically riposte their attacker.\nThe final chance depends on the opponent's parry skill and equal opponents will always have a 20% chance to parry. The internal formula is:\n\nFinalParryChance = ClampBetweenZeroAndOne(0.2 + DefenderParryChance - AttackerParryChance * (1 + AttackerWeaponMeleeCounterParryBonus)*100%\n\nA pawn that is better skilled in parrying takes less damage from parrying while unarmed and is better at reducing damage taken by their weapon on parry. -->
-	<MeleeParryChance.description>Base chance to parry a melee attack. When a parry is performed the equipped weapon or shield will take damage instead of the wielder. If the parrying pawn passes a critical chance check they will automatically riposte their attacker.\nThe final chance depends on the opponent's parry skill and equal opponents will always have a 20% chance to parry. The internal formula is:\n\nFinalParryChance = ClampBetweenZeroAndOne(0.2 + DefenderParryChance - AttackerParryChance * (1 + AttackerWeaponMeleeCounterParryBonus)*100%\n\nA pawn that is better skilled in parrying takes less damage from parrying while unarmed and is better at reducing damage taken by their weapon on parry.</MeleeParryChance.description>
+	<MeleeParryChance.description>Probabilidad base de defender un ataque cuerpo a cuerpo. Cuando se realiza una defensa, el arma equipada o escudo tomará daño en lugar de quien lo empuña. Si el peón que defiende aprueba una verificación de oportunidad crítica, automáticamente contraatacará a su atacante.\nLa probabilidad final depende de la habilidad de defensa del oponente e igualmente los oponentes siempre tendrán un 20% de oportunidad de defenderse. La fórmula interna es:\n\nFinalParryChance = ClampBetweenZeroAndOne(0.2 + DefenderParryChance - AttackerParryChance * (1 + AttackerWeaponMeleeCounterParryBonus)*100%\n\nUn peón que sea más hábil en defensa toma menos daño al defenderse sin armas y es mejor para reducir el daño recibido por su arma en defensa.</MeleeParryChance.description>
 	
 	<!-- EN: unarmed damage bonus -->
-	<UnarmedDamage.label>unarmed damage bonus</UnarmedDamage.label>
+	<UnarmedDamage.label>bonificación de daño desarmado</UnarmedDamage.label>
 	<!-- EN: Additional damage done in unarmed combat. -->
-	<UnarmedDamage.description>Additional damage done in unarmed combat.</UnarmedDamage.description>
+	<UnarmedDamage.description>Daño adicional infligido en combate desarmado.</UnarmedDamage.description>
 	
 	<!-- EN: Compared against weapon's armor penetration to see if it can penetrate to the next layer of body parts. A high value means low-penetration attacks like buckshot will have a harder time hitting internal organs. -->
-	<BodyPartSharpArmor.description>Compared against weapon's armor penetration to see if it can penetrate to the next layer of body parts. A high value means low-penetration attacks like buckshot will have a harder time hitting internal organs.</BodyPartSharpArmor.description>
+	<BodyPartSharpArmor.description>Comparado contra la penetración de armadura del arma para ver si puede penetrar hasta la siguiente capa de partes del cuerpo. Un valor alto significa que ataques de baja penetración como perdigones tendrán más dificultad golpeando órganos internos.</BodyPartSharpArmor.description>
 	<!-- EN: body part RHA -->
-	<BodyPartSharpArmor.label>body part RHA</BodyPartSharpArmor.label>
+	<BodyPartSharpArmor.label>RHA de parte del cuerpo</BodyPartSharpArmor.label>
 	<!-- EN: {0} mm RHA -->
 	<BodyPartSharpArmor.formatString>{0} mm RHA</BodyPartSharpArmor.formatString>
 	
 	<!-- EN: Compared against weapon's armor penetration to see if it can penetrate to the next layer of body parts. A high value means low-penetration attacks like buckshot will have a harder time hitting internal organs. -->
-	<BodyPartBluntArmor.description>Compared against weapon's armor penetration to see if it can penetrate to the next layer of body parts. A high value means low-penetration attacks like buckshot will have a harder time hitting internal organs.</BodyPartBluntArmor.description>
+	<BodyPartBluntArmor.description>Comparado contra la penetración de armadura del arma para ver si puede penetrar hasta la siguiente capa de partes del cuerpo. Un valor alto significa que ataques de baja penetración como perdigones tendrán más dificultad golpeando órganos internos.</BodyPartBluntArmor.description>
 	<!-- EN: body part MPa -->
-	<BodyPartBluntArmor.label>body part MPa</BodyPartBluntArmor.label>
+	<BodyPartBluntArmor.label>MPa de parte del cuerpo</BodyPartBluntArmor.label>
 	<!-- EN: {0} MPa -->
 	<BodyPartBluntArmor.formatString>{0} MPa</BodyPartBluntArmor.formatString>
 </LanguageData>

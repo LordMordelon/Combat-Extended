@@ -1,11 +1,11 @@
 <LanguageData>
 	<!-- Defs\StuffCategoryDefs\StuffCategories.xml -->
 	<!-- EN: steeled -->
-	<Steeled.label>steeled</Steeled.label>
+	<Steeled.label>templado</Steeled.label>
 	<!-- EN: metallic -->
-	<Metallic_Weapon.label>metallic</Metallic_Weapon.label>
+	<Metallic_Weapon.label>metálico</Metallic_Weapon.label>
 	<!-- EN: soft armor -->
-	<SoftArmor.label>soft armor</SoftArmor.label>
+	<SoftArmor.label>armadura suave</SoftArmor.label>
 	<!-- EN: soft armor -->
-	<SoftArmor.noun>soft armor</SoftArmor.noun>
+	<SoftArmor.noun>armadura suave</SoftArmor.noun>
 </LanguageData>

@@ -1,7 +1,7 @@
 <LanguageData>
 	<!-- Defs\Stats\Stats_Pawns_General.xml -->
 	<!-- EN: smoke sensitivity -->
-	<SmokeSensitivity.label>smoke sensitivity</SmokeSensitivity.label>
+	<SmokeSensitivity.label>sensibilidad al humo</SmokeSensitivity.label>
 	<!-- EN: Multiplier on the impact of smoke inhalation on this creature. -->
-	<SmokeSensitivity.description>Multiplier on the impact of smoke inhalation on this creature.</SmokeSensitivity.description>
+	<SmokeSensitivity.description>Multiplicador del impacto de la inhalación de humo en esta criatura.</SmokeSensitivity.description>
 </LanguageData>

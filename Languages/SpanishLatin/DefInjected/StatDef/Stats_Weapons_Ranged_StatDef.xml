@@ -1,87 +1,87 @@
 <LanguageData>
 	<!-- Defs\Stats\Stats_Weapons_Ranged.xml -->
 	<!-- EN: sights efficiency -->
-	<SightsEfficiency.label>sights efficiency</SightsEfficiency.label>
+	<SightsEfficiency.label>eficiencia de miras</SightsEfficiency.label>
 	<!-- EN: How good the sights on this weapon are. Quality sights reduce range errors and improve target leading. This is multiplied against the aiming accuracy of the shooter to calculate the amount of range and lead error.\n\nThe final modifier is calculated via this formula:\n(1.5 - aiming accuracy) / aiming efficiency\n\nLead error is calculated by multiplying this factor against total lead distance in cells. Range error is calculated by multiplying it against the total distance to the target divided by 4. -->
-	<SightsEfficiency.description>How good the sights on this weapon are. Quality sights reduce range errors and improve target leading. This is multiplied against the aiming accuracy of the shooter to calculate the amount of range and lead error.\n\nThe final modifier is calculated via this formula:\n(1.5 - aiming accuracy) / aiming efficiency\n\nLead error is calculated by multiplying this factor against total lead distance in cells. Range error is calculated by multiplying it against the total distance to the target divided by 4.</SightsEfficiency.description>
+	<SightsEfficiency.description>Qu\u00e9 tan buenas son las miras en esta arma. Las miras de calidad reducen errores de alcance y mejoran el adelanto de objetivo. Esto se multiplica contra la precisi\u00f3n de punter\u00eda del tirador para calcular la cantidad de error de alcance y adelanto.\\n\\nEl modificador final se calcula mediante esta f\u00f3rmula:\\n(1.5 - aiming accuracy) / aiming efficiency\\n\\nEl error de adelanto se calcula multiplicando este factor por la distancia total de adelanto en celdas. El error de alcance se calcula multiplic\u00e1ndolo por la distancia total al objetivo dividida entre 4.</SightsEfficiency.description>
 	
 	<!-- EN: One-handed weapon -->
-	<OneHandedness.label>One-handed weapon</OneHandedness.label>
+	<OneHandedness.label>Arma de una mano</OneHandedness.label>
 	<!-- EN: Whether or not the weapon can be used with shields -->
-	<OneHandedness.description>Whether or not the weapon can be used with shields</OneHandedness.description>
+	<OneHandedness.description>Si el arma puede usarse con escudos o no</OneHandedness.description>
 	
 	<!-- EN: Additional weapon info -->
-	<UBGLInfo.label>Additional weapon info</UBGLInfo.label>
+	<UBGLInfo.label>Informaci\u00f3n adicional del arma</UBGLInfo.label>
 	<!-- EN: Information about under/over barrel or otherwise mounted weapons -->
-	<UBGLInfo.description>Information about under/over barrel or otherwise mounted weapons</UBGLInfo.description>
+	<UBGLInfo.description>Informaci\u00f3n sobre armas montadas bajo/sobre ca\u00f1\u00f3n u otro modo</UBGLInfo.description>
 	
 	<!-- EN: spread -->
-	<ShotSpread.label>spread</ShotSpread.label>
+	<ShotSpread.label>dispersi\u00f3n</ShotSpread.label>
 	<!-- EN: Inherent projectile spread. This represents the inherent inaccuracy of the gun and causes random conical deviation that is not influenced by skill. -->
-	<ShotSpread.description>Inherent projectile spread. This represents the inherent inaccuracy of the gun and causes random conical deviation that is not influenced by skill.</ShotSpread.description>
+	<ShotSpread.description>Dispersi\u00f3n inherente de proyectiles. Esto representa la inexactitud inherente del arma y causa desviaci\u00f3n c\u00f3nica aleatoria que no est\u00e1 influenciada por la habilidad.</ShotSpread.description>
 	
 	<!-- EN: weapon sway -->
-	<SwayFactor.label>weapon sway</SwayFactor.label>
+	<SwayFactor.label>bamboleo del arma</SwayFactor.label>
 	<!-- EN: How difficult the gun is to keep steady. \n\nThe total sway is calculated as:\n(4.5 - shooting accuracy) * weapon sway factor\n\nAiming accuracy influences the sway reduction during aimed shots. For example, at 75% aiming accuracy sway will be reduced to 25%. -->
-	<SwayFactor.description>How difficult the gun is to keep steady. \n\nThe total sway is calculated as:\n(4.5 - shooting accuracy) * weapon sway factor\n\nAiming accuracy influences the sway reduction during aimed shots. For example, at 75% aiming accuracy sway will be reduced to 25%.</SwayFactor.description>
+	<SwayFactor.description>Qu\u00e9 tan dif\u00edcil es mantener el arma firme. \\n\\nEl bamboleo total se calcula como:\\n(4.5 - shooting accuracy) * weapon sway factor\\n\\nLa precisi\u00f3n de punter\u00eda influye en la reducci\u00f3n del bamboleo durante disparos apuntados. Por ejemplo, con una precisi\u00f3n de punter\u00eda del 75% el bamboleo se reducir\u00e1 al 25%.</SwayFactor.description>
 	
 	<!-- EN: muzzle flash -->
-	<MuzzleFlash.label>muzzle flash</MuzzleFlash.label>
+	<MuzzleFlash.label>destello de boca de fuego</MuzzleFlash.label>
 	<!-- EN: How bright the muzzle flash is.\n\nMuzzle flashes will illuminate a shooter's position in darkness, exposing them to more accurate return fire. Brighter muzzle flashes are easier to target.\n\nPawns will remember the position of the muzzle flash for 5-10 seconds. -->
-	<MuzzleFlash.description>How bright the muzzle flash is.\n\nMuzzle flashes will illuminate a shooter's position in darkness, exposing them to more accurate return fire. Brighter muzzle flashes are easier to target.\n\nPawns will remember the position of the muzzle flash for 5-10 seconds.</MuzzleFlash.description>
+	<MuzzleFlash.description>Qu\u00e9 tan brillante es el destello de boca de fuego.\\n\\nLos destellos de boca de fuego iluminar\u00e1n la posici\u00f3n del tirador en la oscuridad, expon\u00e9ndolo a fuego de retorno m\u00e1s preciso. Los destellos m\u00e1s brillantes son m\u00e1s f\u00e1ciles de apuntar.\\n\\nLos peones recordar\u00e1n la posici\u00f3n del destello de boca de fuego durante 5-10 segundos.</MuzzleFlash.description>
 	
 	<!-- EN: caliber -->
-	<Caliber.label>caliber</Caliber.label>
+	<Caliber.label>calibre</Caliber.label>
 	<!-- EN: The types of ammo this gun accepts. -->
-	<Caliber.description>The types of ammo this gun accepts.</Caliber.description>
+	<Caliber.description>Los tipos de munici\u00f3n que acepta esta arma.</Caliber.description>
 	
 	<!-- EN: Bipod stats -->
-	<BipodStats.label>Bipod stats</BipodStats.label>
+	<BipodStats.label>Estad\u00edsticas de bipode</BipodStats.label>
 	<!-- EN: Stats with bipod deployed and undeployed. -->
-	<BipodStats.description>Stats with bipod deployed and undeployed.</BipodStats.description>
+	<BipodStats.description>Estad\u00edsticas con bipode desplegado y recogido.</BipodStats.description>
 	
 	<!-- EN: fire rate -->
-	<TicksBetweenBurstShots.label>fire rate</TicksBetweenBurstShots.label>
+	<TicksBetweenBurstShots.label>cadencia de fuego</TicksBetweenBurstShots.label>
 	<!-- EN: The speed at this weapon launch projectiles. -->
-	<TicksBetweenBurstShots.description>The speed at this weapon launch projectiles.</TicksBetweenBurstShots.description>
+	<TicksBetweenBurstShots.description>La velocidad a la que este arma lanza proyectiles.</TicksBetweenBurstShots.description>
 	
 	<!-- EN: burst shot count -->
-	<BurstShotCount.label>burst shot count</BurstShotCount.label>
+	<BurstShotCount.label>cantidad de disparos en r\u00e1faga</BurstShotCount.label>
 	<!-- EN: How many projectiles this weapon launch in one burst. -->
-	<BurstShotCount.description>How many projectiles this weapon launch in one burst.</BurstShotCount.description>
+	<BurstShotCount.description>Cu\u00e1ntos proyectiles lanza este arma en una r\u00e1faga.</BurstShotCount.description>
 	
 	<!-- EN: recoil amount -->
-	<Recoil.label>recoil amount</Recoil.label>
+	<Recoil.label>cantidad de retroceso</Recoil.label>
 	<!-- EN: How much will this weapon recoil upon firing. -->
-	<Recoil.description>How much will this weapon recoil upon firing.</Recoil.description>
+	<Recoil.description>Cu\u00e1nto retroceder\u00e1 este arma al disparar.</Recoil.description>
 	
 	<!-- EN: recoil multiplier -->
-	<CE_RangedWeapon_RecoilMultiplier.label>recoil multiplier</CE_RangedWeapon_RecoilMultiplier.label>
+	<CE_RangedWeapon_RecoilMultiplier.label>multiplicador de retroceso</CE_RangedWeapon_RecoilMultiplier.label>
 	<!-- EN: A multiplier applied to this weapon's recoil. -->
-	<CE_RangedWeapon_RecoilMultiplier.description>A multiplier applied to this weapon's recoil.</CE_RangedWeapon_RecoilMultiplier.description>
+	<CE_RangedWeapon_RecoilMultiplier.description>Un multiplicador aplicado al retroceso de esta arma.</CE_RangedWeapon_RecoilMultiplier.description>
 	
 	<!-- EN: magazine capacity -->
-	<MagazineCapacity.label>magazine capacity</MagazineCapacity.label>
+	<MagazineCapacity.label>capacidad de revista</MagazineCapacity.label>
 	<!-- EN: How many projectiles this weapon's magazine holds and how long it takes to reload it. -->
-	<MagazineCapacity.description>How many projectiles this weapon's magazine holds and how long it takes to reload it.</MagazineCapacity.description>
+	<MagazineCapacity.description>Cu\u00e1ntos proyectiles almacena la revista de este arma y cu\u00e1nto tarda en recargarse.</MagazineCapacity.description>
 	
 	<!-- EN: reload time -->
-	<ReloadTime.label>reload time</ReloadTime.label>
+	<ReloadTime.label>tiempo de recarga</ReloadTime.label>
 	<!-- EN: How long should this weapon take to reload. -->
-	<ReloadTime.description>How long should this weapon take to reload.</ReloadTime.description>
+	<ReloadTime.description>Cu\u00e1nto tiempo deber\u00eda tardar este arma en recargarse.</ReloadTime.description>
 	
 	<!-- EN: reload time multiplier -->
-	<CE_RangedWeapon_ReloadFactor.label>reload time multiplier</CE_RangedWeapon_ReloadFactor.label>
+	<CE_RangedWeapon_ReloadFactor.label>multiplicador de tiempo de recarga</CE_RangedWeapon_ReloadFactor.label>
 	<!-- EN: A multiplier applied to this weapon's reload time. -->
-	<CE_RangedWeapon_ReloadFactor.description>A multiplier applied to this weapon's reload time.</CE_RangedWeapon_ReloadFactor.description>
+	<CE_RangedWeapon_ReloadFactor.description>Un multiplicador aplicado al tiempo de recarga de esta arma.</CE_RangedWeapon_ReloadFactor.description>
 	
 	<!-- EN: ammo consumed per shot -->
-	<ammoConsumedPerShotCount.label>ammo consumed per shot</ammoConsumedPerShotCount.label>
+	<ammoConsumedPerShotCount.label>munici\u00f3n consumida por disparo</ammoConsumedPerShotCount.label>
 	<!-- EN: How many units of ammunition this gun consumes for each individual shot.\n\nThis applies to guns with multiple barrels that fire simultaneously with each pull of the trigger, or exotic energy weapons that use up different amounts of energy from a power cell. -->
-	<ammoConsumedPerShotCount.description>How many units of ammunition this gun consumes for each individual shot.\n\nThis applies to guns with multiple barrels that fire simultaneously with each pull of the trigger, or exotic energy weapons that use up different amounts of energy from a power cell.</ammoConsumedPerShotCount.description>
+	<ammoConsumedPerShotCount.description>Cu\u00e1ntas unidades de munici\u00f3n consume este arma por cada disparo individual.\\n\\nEsto aplica a armas con m\u00faltiples ca\u00f1ones que disparan simult\u00e1neamente con cada tiradora del gatillo, o armas de energ\u00eda ex\u00f3tica que consumen diferentes cantidades de energ\u00eda de una celda de poder.</ammoConsumedPerShotCount.description>
 	
 	<!-- EN: ammo generation per magazine override -->
-	<AmmoGenPerMagOverride.label>ammo generation per magazine override</AmmoGenPerMagOverride.label>
+	<AmmoGenPerMagOverride.label>anulaci\u00f3n de generaci\u00f3n de munici\u00f3n por revista</AmmoGenPerMagOverride.label>
 	<!-- EN: How many units of ammunition per magazine specified in pawnKindDef should a pawn bring.\n\nPurely used in pawn generation. You should not be able to read this in game. -->
-	<AmmoGenPerMagOverride.description>How many units of ammunition per magazine specified in pawnKindDef should a pawn bring.\n\nPurely used in pawn generation. You should not be able to read this in game.</AmmoGenPerMagOverride.description>
+	<AmmoGenPerMagOverride.description>Cu\u00e1ntas unidades de munici\u00f3n por revista especificadas en pawnKindDef deber\u00eda traer un pe\u00f3n.\\n\\nUsado \u00fanicamente en generaci\u00f3n de peones. No deber\u00edas poder leer esto en el juego.</AmmoGenPerMagOverride.description>
 </LanguageData>

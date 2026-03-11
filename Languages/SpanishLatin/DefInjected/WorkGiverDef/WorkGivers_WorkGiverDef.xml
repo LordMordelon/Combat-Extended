@@ -1,30 +1,30 @@
 <LanguageData>
 	<!-- Defs\WorkGiverDefs\WorkGivers.xml -->
 	<!-- EN: reload turrets -->
-	<ReloadTurrets.label>reload turrets</ReloadTurrets.label>
+	<ReloadTurrets.label>recargar torretas</ReloadTurrets.label>
 	<!-- EN: reload -->
-	<ReloadTurrets.verb>reload</ReloadTurrets.verb>
+	<ReloadTurrets.verb>recargar</ReloadTurrets.verb>
 	<!-- EN: reloading -->
-	<ReloadTurrets.gerund>reloading</ReloadTurrets.gerund>
+	<ReloadTurrets.gerund>recargando</ReloadTurrets.gerund>
 	
 	<!-- EN: reload ammo container -->
-	<ReloadAutoLoader.label>reload ammo container</ReloadAutoLoader.label>
+	<ReloadAutoLoader.label>recargar contenedor de munición</ReloadAutoLoader.label>
 	<!-- EN: reload -->
-	<ReloadAutoLoader.verb>reload</ReloadAutoLoader.verb>
+	<ReloadAutoLoader.verb>recargar</ReloadAutoLoader.verb>
 	<!-- EN: reloading -->
-	<ReloadAutoLoader.gerund>reloading</ReloadAutoLoader.gerund>
+	<ReloadAutoLoader.gerund>recargando</ReloadAutoLoader.gerund>
 	
 	<!-- EN: make ammo -->
-	<DoBillsAmmoBench.label>make ammo</DoBillsAmmoBench.label>
+	<DoBillsAmmoBench.label>hacer munición</DoBillsAmmoBench.label>
 	<!-- EN: produce ammo -->
-	<DoBillsAmmoBench.verb>produce ammo</DoBillsAmmoBench.verb>
+	<DoBillsAmmoBench.verb>producir munición</DoBillsAmmoBench.verb>
 	<!-- EN: producing ammo at -->
-	<DoBillsAmmoBench.gerund>producing ammo at</DoBillsAmmoBench.gerund>
+	<DoBillsAmmoBench.gerund>produciendo munición en</DoBillsAmmoBench.gerund>
 	
 	<!-- EN: modify weapons -->
-	<ModifyWeapons.label>modify weapons</ModifyWeapons.label>
+	<ModifyWeapons.label>modificar armas</ModifyWeapons.label>
 	<!-- EN: attach attachments -->
-	<ModifyWeapons.verb>attach attachments</ModifyWeapons.verb>
+	<ModifyWeapons.verb>adjuntar accesorios</ModifyWeapons.verb>
 	<!-- EN: applying modifications at -->
-	<ModifyWeapons.gerund>applying modifications at</ModifyWeapons.gerund>
+	<ModifyWeapons.gerund>aplicando modificaciones en</ModifyWeapons.gerund>
 </LanguageData>
