@@ -1,21 +1,21 @@
 <LanguageData>
 	<!-- Defs\ThingDefs_Items\Items_Unfinished.xml -->
 	<!-- EN: Unfinished ammo batch -->
-	<UnfinishedAmmo.label>Unfinished ammo batch</UnfinishedAmmo.label>
+	<UnfinishedAmmo.label>Lote de municion sin terminar</UnfinishedAmmo.label>
 	<!-- EN: Unfinished arrow batch -->
-	<UnfinishedArrows.label>Unfinished arrow batch</UnfinishedArrows.label>
+	<UnfinishedArrows.label>Lote de flechas sin terminar</UnfinishedArrows.label>
 	<!-- EN: Unfinished turret gun -->
-	<UnfinishedTurretGun.label>Unfinished turret gun</UnfinishedTurretGun.label>
+	<UnfinishedTurretGun.label>Arma de torreta sin terminar</UnfinishedTurretGun.label>
 	<!-- EN: Unfinished shield -->
-	<UnfinishedShield.label>Unfinished shield</UnfinishedShield.label>
+	<UnfinishedShield.label>Escudo sin terminar</UnfinishedShield.label>
 	<!-- EN: unfinished hard metal armor -->
-	<UnfinishedSteeledTechArmor.label>unfinished hard metal armor</UnfinishedSteeledTechArmor.label>
+	<UnfinishedSteeledTechArmor.label>armadura de metal duro sin terminar</UnfinishedSteeledTechArmor.label>
 	<!-- EN: An unfinished piece of hard metal armor. -->
-	<UnfinishedSteeledTechArmor.description>An unfinished piece of hard metal armor.</UnfinishedSteeledTechArmor.description>
+	<UnfinishedSteeledTechArmor.description>Una pieza de armadura de metal duro sin terminar.</UnfinishedSteeledTechArmor.description>
 	<!-- EN: unfinished armored apparel -->
-	<UnfinishedArmoredApparel.label>unfinished armored apparel</UnfinishedArmoredApparel.label>
+	<UnfinishedArmoredApparel.label>prendas blindadas sin terminar</UnfinishedArmoredApparel.label>
 	<!-- EN: An unfinished piece of an armored apparel. -->
-	<UnfinishedArmoredApparel.description>An unfinished piece of an armored apparel.</UnfinishedArmoredApparel.description>
+	<UnfinishedArmoredApparel.description>Una pieza de prenda blindada sin terminar.</UnfinishedArmoredApparel.description>
 	<!-- EN: improvised turret -->
-	<MinifiedTurretGun.label>improvised turret</MinifiedTurretGun.label>
+	<MinifiedTurretGun.label>torreta improvisada</MinifiedTurretGun.label>
 </LanguageData>

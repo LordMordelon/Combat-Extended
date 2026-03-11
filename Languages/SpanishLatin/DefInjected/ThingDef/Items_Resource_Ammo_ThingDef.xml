@@ -1,12 +1,12 @@
 <LanguageData>
 	<!-- Defs\ThingDefs_Items\Items_Resource_Ammo.xml -->
 	<!-- EN: prometheum -->
-	<Prometheum.label>prometheum</Prometheum.label>
+	<Prometheum.label>prometeio</Prometheum.label>
 	<!-- EN: Military-grade incendiary agent, ignites on contact with oxygen. The raw resource is used to craft incendiary ammo of all kinds. -->
-	<Prometheum.description>Military-grade incendiary agent, ignites on contact with oxygen. The raw resource is used to craft incendiary ammo of all kinds.</Prometheum.description>
+	<Prometheum.description>Agente incendiario de grado militar, se enciende en contacto con oxigeno. El recurso crudo se usa para fabricar municion incendiaria de todo tipo.</Prometheum.description>
 	
 	<!-- EN: FSX -->
 	<FSX.label>FSX</FSX.label>
 	<!-- EN: High-explosive chemical extracted from Boomalope sacks and synthesized from chemfuel, it is used in a variety of industrial and military applications. -->
-	<FSX.description>High-explosive chemical extracted from Boomalope sacks and synthesized from chemfuel, it is used in a variety of industrial and military applications.</FSX.description>
+	<FSX.description>Quimico altamente explosivo extraido de bolsas de bumalope y sintetizado a partir de quimbustible, se usa en una variedad de aplicaciones industriales y militares.</FSX.description>
 </LanguageData>
