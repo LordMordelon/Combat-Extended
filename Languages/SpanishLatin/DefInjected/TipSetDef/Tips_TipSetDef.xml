@@ -1,115 +1,115 @@
 <LanguageData>
 	<!-- Defs\Misc\TipSetDefs\Tips.xml -->
 	<!-- EN: The most important part of a mortar squad is an experienced spotter with a good pair of binoculars. -->
-	<CombatExtendedCoreTips.tips.0>The most important part of a mortar squad is an experienced spotter with a good pair of binoculars.</CombatExtendedCoreTips.tips.0>
+	<CombatExtendedCoreTips.tips.0>La parte mas importante de una escuadra de mortero es un observador experimentado con buenos binoculares.</CombatExtendedCoreTips.tips.0>
 	<!-- EN: If your colonists can't hit the broad side of a barn, perhaps they are vision-impaired, less conscious or they weren't told to aim their shots. -->
-	<CombatExtendedCoreTips.tips.1>If your colonists can't hit the broad side of a barn, perhaps they are vision-impaired, less conscious or they weren't told to aim their shots.</CombatExtendedCoreTips.tips.1>
+	<CombatExtendedCoreTips.tips.1>Si tus colonos no le atinan ni a un granero, tal vez tengan vision deficiente, esten menos conscientes o no les ordenaste apuntar sus disparos.</CombatExtendedCoreTips.tips.1>
 	<!-- EN: Fewer things are deadlier than a well-prepared kill zone. -->
-	<CombatExtendedCoreTips.tips.2>Fewer things are deadlier than a well-prepared kill zone.</CombatExtendedCoreTips.tips.2>
+	<CombatExtendedCoreTips.tips.2>Pocas cosas son mas letales que una zona de muerte bien preparada.</CombatExtendedCoreTips.tips.2>
 	<!-- EN: Simple, durable projectiles such as steel or plasteel arrows can survive the force of impact to be re-used by you or your enemies. -->
-	<CombatExtendedCoreTips.tips.3>Simple, durable projectiles such as steel or plasteel arrows can survive the force of impact to be re-used by you or your enemies.</CombatExtendedCoreTips.tips.3>
+	<CombatExtendedCoreTips.tips.3>Proyectiles simples y resistentes, como flechas de acero o plastacero, pueden sobrevivir al impacto y ser reutilizados por ti o por tus enemigos.</CombatExtendedCoreTips.tips.3>
 	<!-- EN: Select a colonist carrying medicine and right click a downed comrade (or foe) to order them to "stabilize" the target, temporarily stanching their bleeding. -->
-	<CombatExtendedCoreTips.tips.4>Select a colonist carrying medicine and right click a downed comrade (or foe) to order them to "stabilize" the target, temporarily stanching their bleeding.</CombatExtendedCoreTips.tips.4>
+	<CombatExtendedCoreTips.tips.4>Selecciona un colono con medicina y haz clic derecho en un camarada caido (o enemigo) para ordenarle "estabilizar" al objetivo, deteniendo temporalmente su sangrado.</CombatExtendedCoreTips.tips.4>
 	<!-- EN: Stabilizing someone temporarily staunches their bleeding, but it does not treat the wound. How long it lasts depends on the medic's skill and the medicine quality. -->
-	<CombatExtendedCoreTips.tips.5>Stabilizing someone temporarily staunches their bleeding, but it does not treat the wound. How long it lasts depends on the medic's skill and the medicine quality.</CombatExtendedCoreTips.tips.5>
+	<CombatExtendedCoreTips.tips.5>Estabilizar a alguien detiene temporalmente su sangrado, pero no trata la herida. Cuanto dura depende de la habilidad del medico y de la calidad de la medicina.</CombatExtendedCoreTips.tips.5>
 	<!-- EN: Bloodloss is often as fatal as enemy fire. Tend to the wounded quickly to save allies and capture foes. -->
-	<CombatExtendedCoreTips.tips.6>Bloodloss is often as fatal as enemy fire. Tend to the wounded quickly to save allies and capture foes.</CombatExtendedCoreTips.tips.6>
+	<CombatExtendedCoreTips.tips.6>La perdida de sangre suele ser tan mortal como el fuego enemigo. Atiende a los heridos rapido para salvar aliados y capturar enemigos.</CombatExtendedCoreTips.tips.6>
 	<!-- EN: Some weapons, such as one-handed pistols and melee weapons, can be used in conjuction with a shield, although doing so will expose the user's arms. -->
-	<CombatExtendedCoreTips.tips.7>Some weapons, such as one-handed pistols and melee weapons, can be used in conjuction with a shield, although doing so will expose the user's arms.</CombatExtendedCoreTips.tips.7>
+	<CombatExtendedCoreTips.tips.7>Algunas armas, como pistolas de una mano y armas cuerpo a cuerpo, pueden usarse junto con un escudo, aunque eso expone los brazos del usuario.</CombatExtendedCoreTips.tips.7>
 	<!-- EN: Centipedes are extremely well armored mechanoids, intended to shrug off small arms fire and break defensive lines. Defeating them requires special weapons and tactics. -->
-	<CombatExtendedCoreTips.tips.8>Centipedes are extremely well armored mechanoids, intended to shrug off small arms fire and break defensive lines. Defeating them requires special weapons and tactics.</CombatExtendedCoreTips.tips.8>
+	<CombatExtendedCoreTips.tips.8>Los ciempies son mecanoides extremadamente blindados, hechos para resistir fuego de armas ligeras y romper lineas defensivas. Derrotarlos requiere armas y tacticas especiales.</CombatExtendedCoreTips.tips.8>
 	<!-- EN: Stockpiling ammunition close to your emplacements keeps it handy during combat. Just watch out for cook-off! -->
-	<CombatExtendedCoreTips.tips.9>Stockpiling ammunition close to your emplacements keeps it handy during combat. Just watch out for cook-off!</CombatExtendedCoreTips.tips.9>
+	<CombatExtendedCoreTips.tips.9>Almacenar municion cerca de tus emplazamientos la mantiene a mano durante el combate. Solo cuidado con la ignicion espontanea.</CombatExtendedCoreTips.tips.9>
 	<!-- EN: Targets are more difficult to spot in darkness, but shooters aren't penalized for being in the dark. Light 'em up! -->
-	<CombatExtendedCoreTips.tips.10>Targets are more difficult to spot in darkness, but shooters aren't penalized for being in the dark. Light 'em up!</CombatExtendedCoreTips.tips.10>
+	<CombatExtendedCoreTips.tips.10>Los objetivos son mas dificiles de detectar en la oscuridad, pero los tiradores no son penalizados por estar en ella. !Iluminalos!</CombatExtendedCoreTips.tips.10>
 	<!-- EN: Good sights can help negate inaccuracy due to bad weather, darkness, or dense smoke. -->
-	<CombatExtendedCoreTips.tips.11>Good sights can help negate inaccuracy due to bad weather, darkness, or dense smoke.</CombatExtendedCoreTips.tips.11>
+	<CombatExtendedCoreTips.tips.11>Buenas miras pueden ayudar a compensar la imprecision por mal clima, oscuridad o humo denso.</CombatExtendedCoreTips.tips.11>
 	<!-- EN: Shooters imperfectly lead their targets until they commit to a shot. Slower projectiles can be dodged. -->
-	<CombatExtendedCoreTips.tips.12>Shooters imperfectly lead their targets until they commit to a shot. Slower projectiles can be dodged.</CombatExtendedCoreTips.tips.12>
+	<CombatExtendedCoreTips.tips.12>Los tiradores corrigen el adelanto del blanco de forma imperfecta hasta comprometerse al disparo. Los proyectiles lentos pueden esquivarse.</CombatExtendedCoreTips.tips.12>
 	<!-- EN: Some weapons, such as shotguns, are reloaded one round at a time, allowing them to be fired mid-reload. -->
-	<CombatExtendedCoreTips.tips.13>Some weapons, such as shotguns, are reloaded one round at a time, allowing them to be fired mid-reload.</CombatExtendedCoreTips.tips.13>
+	<CombatExtendedCoreTips.tips.13>Algunas armas, como las escopetas, se recargan cartucho por cartucho, permitiendo disparar a mitad de recarga.</CombatExtendedCoreTips.tips.13>
 	<!-- EN: Even when a projectile doesn't penetrate a character's armor, they may still be injured by the force of the impact. -->
-	<CombatExtendedCoreTips.tips.14>Even when a projectile doesn't penetrate a character's armor, they may still be injured by the force of the impact.</CombatExtendedCoreTips.tips.14>
+	<CombatExtendedCoreTips.tips.14>Aun cuando un proyectil no penetra la armadura de un personaje, igual puede herirlo por la fuerza del impacto.</CombatExtendedCoreTips.tips.14>
 	<!-- EN: Even when behind cover, a shooter's head will still be exposed as they scan for targets. -->
-	<CombatExtendedCoreTips.tips.15>Even when behind cover, a shooter's head will still be exposed as they scan for targets.</CombatExtendedCoreTips.tips.15>
+	<CombatExtendedCoreTips.tips.15>Incluso tras cobertura, la cabeza del tirador seguira expuesta mientras busca objetivos.</CombatExtendedCoreTips.tips.15>
 	<!-- EN: The longer a wound remains untreated, the higher the risk of infection. Lying in the dirt doesn't help things either. -->
-	<CombatExtendedCoreTips.tips.16>The longer a wound remains untreated, the higher the risk of infection. Lying in the dirt doesn't help things either.</CombatExtendedCoreTips.tips.16>
+	<CombatExtendedCoreTips.tips.16>Cuanto mas tiempo permanezca una herida sin tratar, mayor el riesgo de infeccion. Estar tirado en la tierra tampoco ayuda.</CombatExtendedCoreTips.tips.16>
 	<!-- EN: The Suppress fire mode will let shooters continue to engage targets even if they lose sight of them while firing. -->
-	<CombatExtendedCoreTips.tips.17>The Suppress fire mode will let shooters continue to engage targets even if they lose sight of them while firing.</CombatExtendedCoreTips.tips.17>
+	<CombatExtendedCoreTips.tips.17>El modo de fuego de supresion permite a los tiradores seguir atacando objetivos aunque los pierdan de vista durante el disparo.</CombatExtendedCoreTips.tips.17>
 	<!-- EN: Darkness seriously impacts ranged weapon accuracy, especially at longer ranges. Offset this with night vision equipment, bionics or by illuminating your target with flares. -->
-	<CombatExtendedCoreTips.tips.18>Darkness seriously impacts ranged weapon accuracy, especially at longer ranges. Offset this with night vision equipment, bionics or by illuminating your target with flares.</CombatExtendedCoreTips.tips.18>
+	<CombatExtendedCoreTips.tips.18>La oscuridad afecta seriamente la precision de armas a distancia, sobre todo a mayor alcance. Compensalo con vision nocturna, bionicos o iluminando al objetivo con bengalas.</CombatExtendedCoreTips.tips.18>
 	<!-- EN: Night vision of different types doesn't stack, but shooters will always use the best source of night vision available to them. -->
-	<CombatExtendedCoreTips.tips.19>Night vision of different types doesn't stack, but shooters will always use the best source of night vision available to them.</CombatExtendedCoreTips.tips.19>
+	<CombatExtendedCoreTips.tips.19>La vision nocturna de distintos tipos no se acumula, pero los tiradores siempre usaran la mejor fuente disponible.</CombatExtendedCoreTips.tips.19>
 	<!-- EN: Pawns with enough weapon handling stat can target specific body parts for quickest or safest takedowns. -->
-	<CombatExtendedCoreTips.tips.20>Pawns with enough weapon handling stat can target specific body parts for quickest or safest takedowns.</CombatExtendedCoreTips.tips.20>
+	<CombatExtendedCoreTips.tips.20>Peones con suficiente estadistica de manejo de armas pueden apuntar a partes del cuerpo especificas para derribos mas rapidos o seguros.</CombatExtendedCoreTips.tips.20>
 	<!-- EN: Attackers and friendlies may take advantage of loaded guns and ammunition scattered around battlefields. -->
-	<CombatExtendedCoreTips.tips.21>Attackers and friendlies may take advantage of loaded guns and ammunition scattered around battlefields.</CombatExtendedCoreTips.tips.21>
+	<CombatExtendedCoreTips.tips.21>Atacantes y aliados pueden aprovechar armas cargadas y municion esparcida por el campo de batalla.</CombatExtendedCoreTips.tips.21>
 	<!-- EN: Muzzle flash from firing guns will reveal the shooter in the darkness making them easier to spot and therefore be shot by others. -->
-	<CombatExtendedCoreTips.tips.22>Muzzle flash from firing guns will reveal the shooter in the darkness making them easier to spot and therefore be shot by others.</CombatExtendedCoreTips.tips.22>
+	<CombatExtendedCoreTips.tips.22>El fogonazo del arma al disparar delata al tirador en la oscuridad, haciendolo mas facil de detectar y por tanto de recibir disparos.</CombatExtendedCoreTips.tips.22>
 	<!-- EN: Your chance to hit, parry, dodge or land a critical hit in melee is a comparison between your and the enemy skill. The higher the difference in skill levels, the bigger the disparity. -->
-	<CombatExtendedCoreTips.tips.23>Your chance to hit, parry, dodge or land a critical hit in melee is a comparison between your and the enemy skill. The higher the difference in skill levels, the bigger the disparity.</CombatExtendedCoreTips.tips.23>
+	<CombatExtendedCoreTips.tips.23>Tu probabilidad de golpear, parar, esquivar o asestar un critico en melee se compara con la habilidad del enemigo. Cuanto mayor la diferencia de nivel, mayor la ventaja.</CombatExtendedCoreTips.tips.23>
 	<!-- EN: Your choice of weapon significantly affects your chance to hit, parry, dodge or land a critical hit. -->
-	<CombatExtendedCoreTips.tips.24>Your choice of weapon significantly affects your chance to hit, parry, dodge or land a critical hit.</CombatExtendedCoreTips.tips.24>
+	<CombatExtendedCoreTips.tips.24>Tu eleccion de arma afecta significativamente tu probabilidad de golpear, parar, esquivar o asestar un critico.</CombatExtendedCoreTips.tips.24>
 	<!-- EN: Melee weapons can score critical hits. Blunt weapons will inflict a short stun, sharp weapons double their armor penetration, and animals knock down their target. -->
-	<CombatExtendedCoreTips.tips.25>Melee weapons can score critical hits. Blunt weapons will inflict a short stun, sharp weapons double their armor penetration, and animals knock down their target.</CombatExtendedCoreTips.tips.25>
+	<CombatExtendedCoreTips.tips.25>Las armas cuerpo a cuerpo pueden lograr golpes criticos. Las contundentes aplican un aturdimiento corto, las cortantes duplican su penetracion de armadura y los animales derriban al objetivo.</CombatExtendedCoreTips.tips.25>
 	<!-- EN: Heavy, blunt melee weapons may defeat thick armor when edged weapons fail. -->
-	<CombatExtendedCoreTips.tips.26>Heavy, blunt melee weapons may defeat thick armor when edged weapons fail.</CombatExtendedCoreTips.tips.26>
+	<CombatExtendedCoreTips.tips.26>Las armas cuerpo a cuerpo pesadas y contundentes pueden vencer armaduras gruesas cuando las armas con filo fallan.</CombatExtendedCoreTips.tips.26>
 	<!-- EN: Scoring a critical hit on a parry gives you a free riposte attack. -->
-	<CombatExtendedCoreTips.tips.27>Scoring a critical hit on a parry gives you a free riposte attack.</CombatExtendedCoreTips.tips.27>
+	<CombatExtendedCoreTips.tips.27>Lograr un golpe critico en una parada te da un contraataque gratis.</CombatExtendedCoreTips.tips.27>
 	<!-- EN: Pawns with enough melee skill can target specific body parts for quickest or safest takedowns. -->
-	<CombatExtendedCoreTips.tips.28>Pawns with enough melee skill can target specific body parts for quickest or safest takedowns.</CombatExtendedCoreTips.tips.28>
+	<CombatExtendedCoreTips.tips.28>Peones con suficiente habilidad melee pueden apuntar a partes del cuerpo especificas para derribos mas rapidos o seguros.</CombatExtendedCoreTips.tips.28>
 	<!-- EN: Characters under enemy fire will become suppressed, diminishing their effectiveness in combat. Under especially heavy fire, they will seek cover and hunker down to avoid being killed. -->
-	<CombatExtendedCoreTips.tips.29>Characters under enemy fire will become suppressed, diminishing their effectiveness in combat. Under especially heavy fire, they will seek cover and hunker down to avoid being killed.</CombatExtendedCoreTips.tips.29>
+	<CombatExtendedCoreTips.tips.29>Los personajes bajo fuego enemigo quedaran suprimidos, reduciendo su efectividad en combate. Bajo fuego especialmente intenso, buscaran cobertura y se agacharan para no morir.</CombatExtendedCoreTips.tips.29>
 	<!-- EN: Projectiles will suppress enemies along their entire trajectory. Keep your spacing! -->
-	<CombatExtendedCoreTips.tips.30>Projectiles will suppress enemies along their entire trajectory. Keep your spacing!</CombatExtendedCoreTips.tips.30>
+	<CombatExtendedCoreTips.tips.30>Los proyectiles suprimen enemigos a lo largo de toda su trayectoria. !Mantengan distancia entre ustedes!</CombatExtendedCoreTips.tips.30>
 	<!-- EN: Suppressed characters are indicated with a yellow downwards arrow. Suppression incurs mood debuffs, prevents aiming shots, and lowers accuracy. -->
-	<CombatExtendedCoreTips.tips.31>Suppressed characters are indicated with a yellow downwards arrow. Suppression incurs mood debuffs, prevents aiming shots, and lowers accuracy.</CombatExtendedCoreTips.tips.31>
+	<CombatExtendedCoreTips.tips.31>Los personajes suprimidos se indican con una flecha amarilla hacia abajo. La supresion aplica penalizadores de animo, impide apuntar y reduce la precision.</CombatExtendedCoreTips.tips.31>
 	<!-- EN: Hunkering characters emit an orange downwards arrow and dive for the nearest cover, where they build courage to return to the fight. -->
-	<CombatExtendedCoreTips.tips.32>Hunkering characters emit an orange downwards arrow and dive for the nearest cover, where they build courage to return to the fight.</CombatExtendedCoreTips.tips.32>
+	<CombatExtendedCoreTips.tips.32>Los personajes atrincherados muestran una flecha naranja hacia abajo y se lanzan a la cobertura mas cercana, donde recuperan valor para volver al combate.</CombatExtendedCoreTips.tips.32>
 	<!-- EN: Armor and specialized items like war masks make characters less suceptible to supression. -->
-	<CombatExtendedCoreTips.tips.33>Armor and specialized items like war masks make characters less suceptible to supression.</CombatExtendedCoreTips.tips.33>
+	<CombatExtendedCoreTips.tips.33>La armadura y objetos especializados como mascaras de guerra hacen a los personajes menos susceptibles a la supresion.</CombatExtendedCoreTips.tips.33>
 	<!-- EN: Armor-piercing ammo offers superior armor penetration, but less damage than FMJ. The reverse is true for Hollow-Points. -->
-	<CombatExtendedCoreTips.tips.34>Armor-piercing ammo offers superior armor penetration, but less damage than FMJ. The reverse is true for Hollow-Points.</CombatExtendedCoreTips.tips.34>
+	<CombatExtendedCoreTips.tips.34>La municion perforante ofrece mejor penetracion de armadura, pero menos dano que FMJ. Con las punta hueca ocurre lo contrario.</CombatExtendedCoreTips.tips.34>
 	<!-- EN: Shotguns can fire a variety of special ammunition types, such as EMP and non-lethal beanbags. -->
-	<CombatExtendedCoreTips.tips.35>Shotguns can fire a variety of special ammunition types, such as EMP and non-lethal beanbags.</CombatExtendedCoreTips.tips.35>
+	<CombatExtendedCoreTips.tips.35>Las escopetas pueden disparar varios tipos de municion especial, como EMP y saquetes no letales.</CombatExtendedCoreTips.tips.35>
 	<!-- EN: Guns vary in calibre, accepted ammo types, long-range accuracy and magazine size. Find out more by reading their information tab! -->
-	<CombatExtendedCoreTips.tips.36>Guns vary in calibre, accepted ammo types, long-range accuracy and magazine size. Find out more by reading their information tab!</CombatExtendedCoreTips.tips.36>
+	<CombatExtendedCoreTips.tips.36>Las armas varian en calibre, tipos de municion aceptados, precision a larga distancia y tamano del cargador. !Lee su pestana de informacion para saber mas!</CombatExtendedCoreTips.tips.36>
 	<!-- EN: Thick armour instills courage against small arms fire, but its bulkiness reduces work speed. -->
-	<CombatExtendedCoreTips.tips.37>Thick armour instills courage against small arms fire, but its bulkiness reduces work speed.</CombatExtendedCoreTips.tips.37>
+	<CombatExtendedCoreTips.tips.37>La armadura gruesa da confianza frente a fuego de armas ligeras, pero su volumen reduce la velocidad de trabajo.</CombatExtendedCoreTips.tips.37>
 	<!-- EN: You can rely on enemies to drop ammunition, or you can craft it yourself at a machining table or a loading bench. -->
-	<CombatExtendedCoreTips.tips.38>You can rely on enemies to drop ammunition, or you can craft it yourself at a machining table or a loading bench.</CombatExtendedCoreTips.tips.38>
+	<CombatExtendedCoreTips.tips.38>Puedes confiar en que los enemigos suelten municion, o fabricarla tu mismo en una mesa de mecanizado o banco de recarga.</CombatExtendedCoreTips.tips.38>
 	<!-- EN: Prometheum can be harvested from Blazebulb plants to create powerful incendiary weapons. But beware, high temperatures will cause Blazebulbs to combust! -->
-	<CombatExtendedCoreTips.tips.39>Prometheum can be harvested from Blazebulb plants to create powerful incendiary weapons. But beware, high temperatures will cause Blazebulbs to combust!</CombatExtendedCoreTips.tips.39>
+	<CombatExtendedCoreTips.tips.39>El prometeio puede cosecharse de plantas bulbo ardiente para crear armas incendiarias poderosas. Pero cuidado: las altas temperaturas haran que los bulbos ardan.</CombatExtendedCoreTips.tips.39>
 	<!-- EN: FSX, a volatile compound used to manufacture various explosives, can be harvested by butchering or shearing boomalopes and boomrats, or can be synthesized from chemfuel at a drug lab or biofuel refinery. -->
-	<CombatExtendedCoreTips.tips.40>FSX, a volatile compound used to manufacture various explosives, can be harvested by butchering or shearing boomalopes and boomrats, or can be synthesized from chemfuel at a drug lab or biofuel refinery.</CombatExtendedCoreTips.tips.40>
+	<CombatExtendedCoreTips.tips.40>FSX, un compuesto volatil usado para fabricar varios explosivos, puede obtenerse al carnizar o esquilar boomalopes y boomrats, o sintetizarse desde combustible quimico en un laboratorio de drogas o refinadora de biocombustible.</CombatExtendedCoreTips.tips.40>
 	<!-- EN: Cold climates benefits are favourable for growing blazebulbs, where less cooling is required to prevent them from combusting. -->
-	<CombatExtendedCoreTips.tips.41>Cold climates benefits are favourable for growing blazebulbs, where less cooling is required to prevent them from combusting.</CombatExtendedCoreTips.tips.41>
+	<CombatExtendedCoreTips.tips.41>Los climas frios son favorables para cultivar bulbos ardientes, porque requieren menos enfriamiento para evitar que se incendien.</CombatExtendedCoreTips.tips.41>
 	<!-- EN: Warm climates benefits are favorable for rearing boomalopes and boomrats, which struggle in harsh winter conditions. -->
-	<CombatExtendedCoreTips.tips.42>Warm climates benefits are favorable for rearing boomalopes and boomrats, which struggle in harsh winter conditions.</CombatExtendedCoreTips.tips.42>
+	<CombatExtendedCoreTips.tips.42>Los climas calidos son favorables para criar boomalopes y boomrats, que sufren en inviernos duros.</CombatExtendedCoreTips.tips.42>
 	<!-- EN: Prometheum-based flamethrowers and Molotovs will soak their targets and cause even normally non-flammable enemies to burn fiercely. -->
-	<CombatExtendedCoreTips.tips.43>Prometheum-based flamethrowers and Molotovs will soak their targets and cause even normally non-flammable enemies to burn fiercely.</CombatExtendedCoreTips.tips.43>
+	<CombatExtendedCoreTips.tips.43>Los lanzallamas y molotovs con base de prometeio empapan a sus objetivos y hacen arder ferozmente incluso a enemigos normalmente no inflamables.</CombatExtendedCoreTips.tips.43>
 	<!-- EN: Incendiary mortar shells will airburst and set fire to large areas. -->
-	<CombatExtendedCoreTips.tips.44>Incendiary mortar shells will airburst and set fire to large areas.</CombatExtendedCoreTips.tips.44>
+	<CombatExtendedCoreTips.tips.44>Los proyectiles incendiarios de mortero estallan en el aire y prenden fuego a grandes areas.</CombatExtendedCoreTips.tips.44>
 	<!-- EN: Prometheum is a self-igniting liquid that sticks to surfaces and is impossible to extinguish without firefoam. -->
-	<CombatExtendedCoreTips.tips.45>Prometheum is a self-igniting liquid that sticks to surfaces and is impossible to extinguish without firefoam.</CombatExtendedCoreTips.tips.45>
+	<CombatExtendedCoreTips.tips.45>El prometeio es un liquido autoignitable que se adhiere a las superficies y es imposible de apagar sin espuma contra incendios.</CombatExtendedCoreTips.tips.45>
 	<!-- EN: It's not just carried items that count against your colonists' carry weight. Clothes and armor slow them down, too. -->
-	<CombatExtendedCoreTips.tips.46>It's not just carried items that count against your colonists' carry weight. Clothes and armor slow them down, too.</CombatExtendedCoreTips.tips.46>
+	<CombatExtendedCoreTips.tips.46>No solo los objetos que llevan cuentan para el peso de carga de tus colonos. La ropa y la armadura tambien los ralentizan.</CombatExtendedCoreTips.tips.46>
 	<!-- EN: Colonists wearing bulky clothing or carrying bulky equipment will work more slowly and be less effective in melee combat. -->
-	<CombatExtendedCoreTips.tips.47>Colonists wearing bulky clothing or carrying bulky equipment will work more slowly and be less effective in melee combat.</CombatExtendedCoreTips.tips.47>
+	<CombatExtendedCoreTips.tips.47>Los colonos con ropa voluminosa o equipo pesado trabajaran mas lento y seran menos efectivos en combate cuerpo a cuerpo.</CombatExtendedCoreTips.tips.47>
 	<!-- EN: Certain guns like machine guns and sniper rifles have bipods built into them for you to take advantage of. Beware that while guns can be fired without setting up their bipods, they will suffer a penalty to their accuracy. -->
-	<CombatExtendedCoreTips.tips.48>Certain guns like machine guns and sniper rifles have bipods built into them for you to take advantage of. Beware that while guns can be fired without setting up their bipods, they will suffer a penalty to their accuracy.</CombatExtendedCoreTips.tips.48>
+	<CombatExtendedCoreTips.tips.48>Ciertas armas como ametralladoras y rifles de francotirador tienen bipodes integrados. Ojo: pueden dispararse sin desplegar bipode, pero sufriran una penalizacion de precision.</CombatExtendedCoreTips.tips.48>
 	<!-- EN: Precipitation, wind direction and speed all have a significant effect on fire spread. Beware of being downwind from a bush fire. -->
-	<CombatExtendedCoreTips.tips.49>Precipitation, wind direction and speed all have a significant effect on fire spread. Beware of being downwind from a bush fire.</CombatExtendedCoreTips.tips.49>
+	<CombatExtendedCoreTips.tips.49>La precipitacion, direccion y velocidad del viento tienen un efecto importante en la propagacion del fuego. Cuidado con quedar a sotavento de un incendio forestal.</CombatExtendedCoreTips.tips.49>
 	<!-- EN: Fires in confined spaces will create clouds of lethal smoke, capable of rapidly incapacitating anyone caught in it. Use gas masks to protect yourself. -->
-	<CombatExtendedCoreTips.tips.50>Fires in confined spaces will create clouds of lethal smoke, capable of rapidly incapacitating anyone caught in it. Use gas masks to protect yourself.</CombatExtendedCoreTips.tips.50>
+	<CombatExtendedCoreTips.tips.50>Los incendios en espacios confinados crean nubes de humo letal, capaces de incapacitar rapidamente a cualquiera atrapado en ellas. Usa mascaras de gas para protegerte.</CombatExtendedCoreTips.tips.50>
 	<!-- EN: Use loadouts to determine what your colonists should carry in their inventory. Use the equipment tab to access items. -->
-	<CombatExtendedCoreTips.tips.51>Use loadouts to determine what your colonists should carry in their inventory. Use the equipment tab to access items.</CombatExtendedCoreTips.tips.51>
+	<CombatExtendedCoreTips.tips.51>Usa equipamientos para definir que deben llevar tus colonos en su inventario. Usa la pestana de equipo para acceder a los objetos.</CombatExtendedCoreTips.tips.51>
 	<!-- EN: In a pinch, you can order your colonists to give ammo to other friendly pawns. -->
-	<CombatExtendedCoreTips.tips.52>In a pinch, you can order your colonists to give ammo to other friendly pawns.</CombatExtendedCoreTips.tips.52>
+	<CombatExtendedCoreTips.tips.52>En un apuro, puedes ordenar a tus colonos dar municion a otros peones aliados.</CombatExtendedCoreTips.tips.52>
 	<!-- EN: Embrasures provide a safer, but not impenetrable, cover to lay down machinegun fire on assailants. Be sure to wear a helmet when peeking over them! -->
-	<CombatExtendedCoreTips.tips.53>Embrasures provide a safer, but not impenetrable, cover to lay down machinegun fire on assailants. Be sure to wear a helmet when peeking over them!</CombatExtendedCoreTips.tips.53>
+	<CombatExtendedCoreTips.tips.53>Las troneras brindan una cobertura mas segura, aunque no impenetrable, para abrir fuego de ametralladora sobre atacantes. !Usa casco al asomarte!</CombatExtendedCoreTips.tips.53>
 	<!-- EN: Auto-turrets can be built by a constructor or bought from traders or settlements. They will target and fire automatically when powered, but must be reloaded manually. -->
-	<CombatExtendedCoreTips.tips.54>Auto-turrets can be built by a constructor or bought from traders or settlements. They will target and fire automatically when powered, but must be reloaded manually.</CombatExtendedCoreTips.tips.54>
+	<CombatExtendedCoreTips.tips.54>Las torretas automaticas pueden construirlas constructores o comprarse a comerciantes o asentamientos. Apuntaran y dispararan automaticamente con energia, pero deben recargarse manualmente.</CombatExtendedCoreTips.tips.54>
 	<!-- EN: Manned turrets can be built by constructors or bought from traders or settlements. They will target and fire automatically when manned by a pawn, but must be reloaded manually. -->
-	<CombatExtendedCoreTips.tips.55>Manned turrets can be built by constructors or bought from traders or settlements. They will target and fire automatically when manned by a pawn, but must be reloaded manually.</CombatExtendedCoreTips.tips.55>
+	<CombatExtendedCoreTips.tips.55>Las torretas tripuladas pueden construirlas constructores o comprarse a comerciantes o asentamientos. Apuntaran y dispararan automaticamente cuando un peon las opere, pero deben recargarse manualmente.</CombatExtendedCoreTips.tips.55>
 </LanguageData>

@@ -1,9 +1,9 @@
 <LanguageData>
 	<!-- Defs\Ammo\Advanced\PlasmaCellRifle.xml -->
 	<!-- EN: plasma rifle power cell -->
-	<Ammo_PlasmaCellRifle.label>plasma rifle power cell</Ammo_PlasmaCellRifle.label>
+	<Ammo_PlasmaCellRifle.label>celda de energia de plasma de rifle</Ammo_PlasmaCellRifle.label>
 	<!-- EN: Plasma containment power cell optimized for rifles -->
-	<Ammo_PlasmaCellRifle.description>Plasma containment power cell optimized for rifles</Ammo_PlasmaCellRifle.description>
+	<Ammo_PlasmaCellRifle.description>Celda de energia de contencion de plasma optimizada para rifles.</Ammo_PlasmaCellRifle.description>
 	<!-- EN: Plasma Bolt -->
-	<Bullet_PlasmaCellRifle.label>Plasma Bolt</Bullet_PlasmaCellRifle.label>
+	<Bullet_PlasmaCellRifle.label>Proyectil de plasma</Bullet_PlasmaCellRifle.label>
 </LanguageData>

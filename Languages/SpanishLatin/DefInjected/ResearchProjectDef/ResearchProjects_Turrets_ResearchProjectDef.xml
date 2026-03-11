@@ -13,11 +13,11 @@
 		<li>subject_gerund->building heavy emplacements</li>
 	 -->
 	<CE_TurretHeavyWeapons.generalRules.rulesStrings>
-		<li>subject->canones reforzados</li>
+		<li>subject->cañones reforzados</li>
 		<li>subject->emplazamientos de alto calibre</li>
 		<li>subject_story->endurecio componentes para soportar presiones enormemente altas</li>
 		<li>subject_story->sobrevivio a un asedio de anos en un mundo en guerra</li>
-		<li>subject_story->trabajo en una fabrica que producia canones de artilleria</li>
+		<li>subject_story->trabajo en una fabrica que producia cañones de artilleria</li>
 		<li>subject_gerund->construyendo emplazamientos pesados</li>
 	</CE_TurretHeavyWeapons.generalRules.rulesStrings>
 	

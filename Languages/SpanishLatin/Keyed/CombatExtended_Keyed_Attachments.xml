@@ -33,7 +33,7 @@
 	<!-- EN: Stock -->
 	<CE_AttachmentSlot_Stock>Culata</CE_AttachmentSlot_Stock>
 	<!-- EN: Underbarrel -->
-	<CE_AttachmentSlot_Underbarrel>Bajo canon</CE_AttachmentSlot_Underbarrel>
+	<CE_AttachmentSlot_Underbarrel>Bajo cañon</CE_AttachmentSlot_Underbarrel>
 	<!-- EN: Close -->
 	<CE_Close>Cerrar</CE_Close>
 	<!-- EN: Apply -->
@@ -46,11 +46,11 @@
 	<CE_EditAttachmentsCost>Costo</CE_EditAttachmentsCost>
 
 	<!-- EN: Switch to under barrel -->
-	<CE_SwitchAmmmoSetToUnderBarrel>Cambiar a accesorio bajo canon</CE_SwitchAmmmoSetToUnderBarrel>
+	<CE_SwitchAmmmoSetToUnderBarrel>Cambiar a accesorio bajo cañon</CE_SwitchAmmmoSetToUnderBarrel>
 	<!-- EN: Switch to standard weapon -->
 	<CE_SwitchAmmmoSetToNormalRifle>Cambiar a arma estandar</CE_SwitchAmmmoSetToNormalRifle>
 	<!-- EN: Under barrel weapon stats: -->
-	<CE_UBGLStats>Estadisticas del arma bajo canon:</CE_UBGLStats>
+	<CE_UBGLStats>Estadisticas del arma bajo cañon:</CE_UBGLStats>
 	<!-- EN: Click or hover over -->
 	<CE_UBGLStats_Title>Haz clic o pasa el cursor</CE_UBGLStats_Title>
 </LanguageData>

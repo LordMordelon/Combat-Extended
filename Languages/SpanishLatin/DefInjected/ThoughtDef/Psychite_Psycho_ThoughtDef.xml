@@ -2,28 +2,28 @@
 	<!-- Defs\Drugs\Psychite_Psycho.xml -->
 	
 	<!-- EN: coming down from psycho -->
-	<PsychoHigh.stages.0.label>coming down from psycho</PsychoHigh.stages.0.label>
+	<PsychoHigh.stages.0.label>bajando del psico</PsychoHigh.stages.0.label>
 	<!-- EN: Things are slowing down and my head is starting to pound. -->
-	<PsychoHigh.stages.0.description>Things are slowing down and my head is starting to pound.</PsychoHigh.stages.0.description>
+	<PsychoHigh.stages.0.description>Todo se esta desacelerando y mi cabeza empieza a latir.</PsychoHigh.stages.0.description>
 	<!-- EN: fading psycho high -->
-	<PsychoHigh.stages.1.label>fading psycho high</PsychoHigh.stages.1.label>
+	<PsychoHigh.stages.1.label>subidon de psico desvaneciendose</PsychoHigh.stages.1.label>
 	<!-- EN: I still feel so good. -->
-	<PsychoHigh.stages.1.description>I still feel so good.</PsychoHigh.stages.1.description>
+	<PsychoHigh.stages.1.description>Todavia me siento muy bien.</PsychoHigh.stages.1.description>
 	<!-- EN: psycho high -->
-	<PsychoHigh.stages.2.label>psycho high</PsychoHigh.stages.2.label>
+	<PsychoHigh.stages.2.label>subidon de psico</PsychoHigh.stages.2.label>
 	<!-- EN: I feel powerful and ready for anything. -->
-	<PsychoHigh.stages.2.description>I feel powerful and ready for anything.</PsychoHigh.stages.2.description>
+	<PsychoHigh.stages.2.description>Me siento poderoso y listo para cualquier cosa.</PsychoHigh.stages.2.description>
 	
 	<!-- EN: fading psycho comedown -->
-	<Crashed.stages.0.label>fading psycho comedown</Crashed.stages.0.label>
+	<Crashed.stages.0.label>bajada de psico desvaneciendose</Crashed.stages.0.label>
 	<!-- EN: Ugh. My head is pounding, but at least I can think straight again. -->
-	<Crashed.stages.0.description>Ugh. My head is pounding, but at least I can think straight again.</Crashed.stages.0.description>
+	<Crashed.stages.0.description>Ugh. Mi cabeza late con fuerza, pero al menos puedo pensar con claridad otra vez.</Crashed.stages.0.description>
 	<!-- EN: major psycho comedown -->
-	<Crashed.stages.1.label>major psycho comedown</Crashed.stages.1.label>
+	<Crashed.stages.1.label>bajada fuerte de psico</Crashed.stages.1.label>
 	<!-- EN: I feel awful. My mind feels sluggish and I can barely keep my balance. -->
-	<Crashed.stages.1.description>I feel awful. My mind feels sluggish and I can barely keep my balance.</Crashed.stages.1.description>
+	<Crashed.stages.1.description>Me siento fatal. Mi mente esta torpe y apenas puedo mantener el equilibrio.</Crashed.stages.1.description>
 	<!-- EN: initial psycho comedown -->
-	<Crashed.stages.2.label>initial psycho comedown</Crashed.stages.2.label>
+	<Crashed.stages.2.label>bajada inicial de psico</Crashed.stages.2.label>
 	<!-- EN: I don't feel so good. My vision is blurry and my hands are starting to shake. -->
-	<Crashed.stages.2.description>I don't feel so good. My vision is blurry and my hands are starting to shake.</Crashed.stages.2.description>
+	<Crashed.stages.2.description>No me siento muy bien. Mi vision esta borrosa y mis manos empiezan a temblar.</Crashed.stages.2.description>
 </LanguageData>

@@ -2,47 +2,47 @@
 	<!-- Defs\Ammo\Generic\LauncherGrenade.xml -->
 	
 	<!-- EN: launcher grenade (HE) -->
-	<Ammo_LauncherGrenade_HE.label>launcher grenade (HE)</Ammo_LauncherGrenade_HE.label>
+	<Ammo_LauncherGrenade_HE.label>granada lanzador (HE)</Ammo_LauncherGrenade_HE.label>
 	<!-- EN: Low velocity grenade fired from various grenade launchers -->
-	<Ammo_LauncherGrenade_HE.description>Low velocity grenade fired from various grenade launchers</Ammo_LauncherGrenade_HE.description>
+	<Ammo_LauncherGrenade_HE.description>Granada de baja velocidad disparada desde varios lanzadores de granadas</Ammo_LauncherGrenade_HE.description>
 	
 	<!-- EN: launcher grenade (HE Time-Fuzed) -->
-	<Ammo_LauncherGrenade_HE_TFuzed.label>launcher grenade (HE Time-Fuzed)</Ammo_LauncherGrenade_HE_TFuzed.label>
+	<Ammo_LauncherGrenade_HE_TFuzed.label>granada lanzador (HE espoleta temporal)</Ammo_LauncherGrenade_HE_TFuzed.label>
 	<!-- EN: Low velocity grenade fired from various grenade launchers -->
-	<Ammo_LauncherGrenade_HE_TFuzed.description>Low velocity grenade fired from various grenade launchers</Ammo_LauncherGrenade_HE_TFuzed.description>
+	<Ammo_LauncherGrenade_HE_TFuzed.description>Granada de baja velocidad disparada desde varios lanzadores de granadas</Ammo_LauncherGrenade_HE_TFuzed.description>
 	
 	<!-- EN: launcher grenade (HEDP) -->
-	<Ammo_LauncherGrenade_HEDP.label>launcher grenade (HEDP)</Ammo_LauncherGrenade_HEDP.label>
+	<Ammo_LauncherGrenade_HEDP.label>granada lanzador (HEDP)</Ammo_LauncherGrenade_HEDP.label>
 	<!-- EN: Low velocity grenade fired from various grenade launchers -->
-	<Ammo_LauncherGrenade_HEDP.description>Low velocity grenade fired from various grenade launchers</Ammo_LauncherGrenade_HEDP.description>
+	<Ammo_LauncherGrenade_HEDP.description>Granada de baja velocidad disparada desde varios lanzadores de granadas</Ammo_LauncherGrenade_HEDP.description>
 	
 	<!-- EN: launcher grenade (EMP) -->
-	<Ammo_LauncherGrenade_EMP.label>launcher grenade (EMP)</Ammo_LauncherGrenade_EMP.label>
+	<Ammo_LauncherGrenade_EMP.label>granada lanzador (EMP)</Ammo_LauncherGrenade_EMP.label>
 	<!-- EN: Low velocity grenade fired from various grenade launchers -->
-	<Ammo_LauncherGrenade_EMP.description>Low velocity grenade fired from various grenade launchers</Ammo_LauncherGrenade_EMP.description>
+	<Ammo_LauncherGrenade_EMP.description>Granada de baja velocidad disparada desde varios lanzadores de granadas</Ammo_LauncherGrenade_EMP.description>
 	
 	<!-- EN: launcher grenade (Smoke) -->
-	<Ammo_LauncherGrenade_Smoke.label>launcher grenade (Smoke)</Ammo_LauncherGrenade_Smoke.label>
+	<Ammo_LauncherGrenade_Smoke.label>granada lanzador (humo)</Ammo_LauncherGrenade_Smoke.label>
 	<!-- EN: Low velocity grenade fired from various grenade launchers -->
-	<Ammo_LauncherGrenade_Smoke.description>Low velocity grenade fired from various grenade launchers</Ammo_LauncherGrenade_Smoke.description>
+	<Ammo_LauncherGrenade_Smoke.description>Granada de baja velocidad disparada desde varios lanzadores de granadas</Ammo_LauncherGrenade_Smoke.description>
 	
 	<!-- EN: launcher grenade (Tox) -->
-	<Ammo_LauncherGrenade_Tox.label>launcher grenade (Tox)</Ammo_LauncherGrenade_Tox.label>
+	<Ammo_LauncherGrenade_Tox.label>granada lanzador (toxica)</Ammo_LauncherGrenade_Tox.label>
 	<!-- EN: Low velocity grenade fired from various grenade launchers -->
-	<Ammo_LauncherGrenade_Tox.description>Low velocity grenade fired from various grenade launchers</Ammo_LauncherGrenade_Tox.description>
+	<Ammo_LauncherGrenade_Tox.description>Granada de baja velocidad disparada desde varios lanzadores de granadas</Ammo_LauncherGrenade_Tox.description>
 	
 	<!-- EN: launcher grenade (AP) -->
-	<Ammo_LauncherGrenade_AP.label>launcher grenade (AP)</Ammo_LauncherGrenade_AP.label>
+	<Ammo_LauncherGrenade_AP.label>granada lanzador (AP)</Ammo_LauncherGrenade_AP.label>
 	<!-- EN: Low velocity grenade fired from various grenade launchers -->
-	<Ammo_LauncherGrenade_AP.description>Low velocity grenade fired from various grenade launchers</Ammo_LauncherGrenade_AP.description>
+	<Ammo_LauncherGrenade_AP.description>Granada de baja velocidad disparada desde varios lanzadores de granadas</Ammo_LauncherGrenade_AP.description>
 	
 	<!-- EN: launcher grenade (AP-I) -->
-	<Ammo_LauncherGrenade_Incendiary.label>launcher grenade (AP-I)</Ammo_LauncherGrenade_Incendiary.label>
+	<Ammo_LauncherGrenade_Incendiary.label>granada lanzador (AP-I)</Ammo_LauncherGrenade_Incendiary.label>
 	<!-- EN: Low velocity grenade fired from various grenade launchers -->
-	<Ammo_LauncherGrenade_Incendiary.description>Low velocity grenade fired from various grenade launchers</Ammo_LauncherGrenade_Incendiary.description>
+	<Ammo_LauncherGrenade_Incendiary.description>Granada de baja velocidad disparada desde varios lanzadores de granadas</Ammo_LauncherGrenade_Incendiary.description>
 	
 	<!-- EN: launcher grenade (AP-HE) -->
-	<Ammo_LauncherGrenade_APHE.label>launcher grenade (AP-HE)</Ammo_LauncherGrenade_APHE.label>
+	<Ammo_LauncherGrenade_APHE.label>granada lanzador (AP-HE)</Ammo_LauncherGrenade_APHE.label>
 	<!-- EN: Low velocity grenade fired from various grenade launchers -->
-	<Ammo_LauncherGrenade_APHE.description>Low velocity grenade fired from various grenade launchers</Ammo_LauncherGrenade_APHE.description>
+	<Ammo_LauncherGrenade_APHE.description>Granada de baja velocidad disparada desde varios lanzadores de granadas</Ammo_LauncherGrenade_APHE.description>
 </LanguageData>

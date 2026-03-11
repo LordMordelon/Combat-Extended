@@ -1,17 +1,17 @@
 <LanguageData>
 	<!-- Defs\ThingDefs_Misc\Filth_Various.xml -->
 	<!-- EN: prometheum puddle -->
-	<FilthPrometheum.label>prometheum puddle</FilthPrometheum.label>
+	<FilthPrometheum.label>charco de prometeio</FilthPrometheum.label>
 	<!-- EN: A puddle of pyrophoric Prometheum. -->
-	<FilthPrometheum.description>A puddle of pyrophoric Prometheum.</FilthPrometheum.description>
+	<FilthPrometheum.description>Un charco de prometeio piroforico.</FilthPrometheum.description>
 	
 	<!-- EN: used medkits -->
-	<Filth_StabilizeMedicineIndustrial.label>used medkits</Filth_StabilizeMedicineIndustrial.label>
+	<Filth_StabilizeMedicineIndustrial.label>botiquines usados</Filth_StabilizeMedicineIndustrial.label>
 	<!-- EN: Trash from administering first aid. -->
-	<Filth_StabilizeMedicineIndustrial.description>Trash from administering first aid.</Filth_StabilizeMedicineIndustrial.description>
+	<Filth_StabilizeMedicineIndustrial.description>Basura de proporcionar primeros auxilios.</Filth_StabilizeMedicineIndustrial.description>
 	
 	<!-- EN: scattered herbs -->
-	<Filth_StabilizeMedicineHerbal.label>scattered herbs</Filth_StabilizeMedicineHerbal.label>
+	<Filth_StabilizeMedicineHerbal.label>hierbas dispersas</Filth_StabilizeMedicineHerbal.label>
 	<!-- EN: Trash from administering first aid. -->
-	<Filth_StabilizeMedicineHerbal.description>Trash from administering first aid.</Filth_StabilizeMedicineHerbal.description>
+	<Filth_StabilizeMedicineHerbal.description>Basura de proporcionar primeros auxilios.</Filth_StabilizeMedicineHerbal.description>
 </LanguageData>

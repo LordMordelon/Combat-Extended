@@ -2,62 +2,62 @@
 	<!-- Defs\Ammo\Generic\Charged.xml -->
 	
 	<!-- EN: Charged pistol cartridge -->
-	<Ammo_PistolCharged.label>Charged pistol cartridge</Ammo_PistolCharged.label>
+	<Ammo_PistolCharged.label>cartucho de pistola cargado</Ammo_PistolCharged.label>
 	<!-- EN: Charged shot ammo used by advanced light weapon designs. -->
-	<Ammo_PistolCharged.description>Charged shot ammo used by advanced light weapon designs.</Ammo_PistolCharged.description>
+	<Ammo_PistolCharged.description>Municion de disparo cargado usado por disenos avanzados de armas ligeras.</Ammo_PistolCharged.description>
 	
 	<!-- EN: Charged pistol (Conc.) -->
-	<Ammo_PistolCharged_AP.label>Charged pistol (Conc.)</Ammo_PistolCharged_AP.label>
+	<Ammo_PistolCharged_AP.label>pistola cargada (Conc.)</Ammo_PistolCharged_AP.label>
 	<!-- EN: Charged shot ammo used by advanced light weapon designs. -->
-	<Ammo_PistolCharged_AP.description>Charged shot ammo used by advanced light weapon designs.</Ammo_PistolCharged_AP.description>
+	<Ammo_PistolCharged_AP.description>Municion de disparo cargado usado por disenos avanzados de armas ligeras.</Ammo_PistolCharged_AP.description>
 	
 	<!-- EN: Charged pistol cartridge (Ion) -->
-	<Ammo_PistolCharged_Ion.label>Charged pistol cartridge (Ion)</Ammo_PistolCharged_Ion.label>
+	<Ammo_PistolCharged_Ion.label>cartucho de pistola cargado (Ion)</Ammo_PistolCharged_Ion.label>
 	<!-- EN: Charged shot ammo used by advanced light weapon designs. -->
-	<Ammo_PistolCharged_Ion.description>Charged shot ammo used by advanced light weapon designs.</Ammo_PistolCharged_Ion.description>
+	<Ammo_PistolCharged_Ion.description>Municion de disparo cargado usado por disenos avanzados de armas ligeras.</Ammo_PistolCharged_Ion.description>
 	
 	<!-- EN: Charged rifle cartridge -->
-	<Ammo_RifleCharged.label>Charged rifle cartridge</Ammo_RifleCharged.label>
+	<Ammo_RifleCharged.label>cartucho de rifle cargado</Ammo_RifleCharged.label>
 	<!-- EN: Charged shot ammo used by advanced rifle designs. -->
-	<Ammo_RifleCharged.description>Charged shot ammo used by advanced rifle designs.</Ammo_RifleCharged.description>
+	<Ammo_RifleCharged.description>Municion de disparo cargado usado por disenos avanzados de rifles.</Ammo_RifleCharged.description>
 	
 	<!-- EN: Charged rifle cartridge (Conc.) -->
-	<Ammo_RifleCharged_AP.label>Charged rifle cartridge (Conc.)</Ammo_RifleCharged_AP.label>
+	<Ammo_RifleCharged_AP.label>cartucho de rifle cargado (Conc.)</Ammo_RifleCharged_AP.label>
 	<!-- EN: Charged shot ammo used by advanced rifle designs. -->
-	<Ammo_RifleCharged_AP.description>Charged shot ammo used by advanced rifle designs.</Ammo_RifleCharged_AP.description>
+	<Ammo_RifleCharged_AP.description>Municion de disparo cargado usado por disenos avanzados de rifles.</Ammo_RifleCharged_AP.description>
 	
 	<!-- EN: Charged rifle cartridge (Ion) -->
-	<Ammo_RifleCharged_Ion.label>Charged rifle cartridge (Ion)</Ammo_RifleCharged_Ion.label>
+	<Ammo_RifleCharged_Ion.label>cartucho de rifle cargado (Ion)</Ammo_RifleCharged_Ion.label>
 	<!-- EN: Charged shot ammo used by advanced rifle designs. -->
-	<Ammo_RifleCharged_Ion.description>Charged shot ammo used by advanced rifle designs.</Ammo_RifleCharged_Ion.description>
+	<Ammo_RifleCharged_Ion.description>Municion de disparo cargado usado por disenos avanzados de rifles.</Ammo_RifleCharged_Ion.description>
 	
 	<!-- EN: Heavy charged cartridge -->
-	<Ammo_HeavyCharged.label>Heavy charged cartridge</Ammo_HeavyCharged.label>
+	<Ammo_HeavyCharged.label>cartucho pesado cargado</Ammo_HeavyCharged.label>
 	<!-- EN: High-caliber charged shot ammo used by advanced heavy machine guns and anti-materiel rifles. -->
-	<Ammo_HeavyCharged.description>High-caliber charged shot ammo used by advanced heavy machine guns and anti-materiel rifles.</Ammo_HeavyCharged.description>
+	<Ammo_HeavyCharged.description>Municion de disparo cargado de alto calibre usado por ametralladoras pesadas avanzadas y rifles antimaterial.</Ammo_HeavyCharged.description>
 	
 	<!-- EN: Heavy charged cartridge (Conc.) -->
-	<Ammo_HeavyCharged_AP.label>Heavy charged cartridge (Conc.)</Ammo_HeavyCharged_AP.label>
+	<Ammo_HeavyCharged_AP.label>cartucho pesado cargado (Conc.)</Ammo_HeavyCharged_AP.label>
 	<!-- EN: High-caliber charged shot ammo used by advanced heavy machine guns and anti-materiel rifles. -->
-	<Ammo_HeavyCharged_AP.description>High-caliber charged shot ammo used by advanced heavy machine guns and anti-materiel rifles.</Ammo_HeavyCharged_AP.description>
+	<Ammo_HeavyCharged_AP.description>Municion de disparo cargado de alto calibre usado por ametralladoras pesadas avanzadas y rifles antimaterial.</Ammo_HeavyCharged_AP.description>
 	
 	<!-- EN: Heavy charged cartridge (Ion) -->
-	<Ammo_HeavyCharged_Ion.label>Heavy charged cartridge (Ion)</Ammo_HeavyCharged_Ion.label>
+	<Ammo_HeavyCharged_Ion.label>cartucho pesado cargado (Ion)</Ammo_HeavyCharged_Ion.label>
 	<!-- EN: High-caliber charged shot ammo used by advanced heavy machine guns and anti-materiel rifles. -->
-	<Ammo_HeavyCharged_Ion.description>High-caliber charged shot ammo used by advanced heavy machine guns and anti-materiel rifles.</Ammo_HeavyCharged_Ion.description>
+	<Ammo_HeavyCharged_Ion.description>Municion de disparo cargado de alto calibre usado por ametralladoras pesadas avanzadas y rifles antimaterial.</Ammo_HeavyCharged_Ion.description>
 	
 	<!-- EN: Charged shotgun shell -->
-	<Ammo_ShotgunCharged.label>Charged shotgun shell</Ammo_ShotgunCharged.label>
+	<Ammo_ShotgunCharged.label>cartucho de escopeta cargado</Ammo_ShotgunCharged.label>
 	<!-- EN: Multi-pellet charge shot cartridge designed for shotgun-type weapons. -->
-	<Ammo_ShotgunCharged.description>Multi-pellet charge shot cartridge designed for shotgun-type weapons.</Ammo_ShotgunCharged.description>
+	<Ammo_ShotgunCharged.description>Cartucho de disparo con multiples perdigones disenado para armas tipo escopeta.</Ammo_ShotgunCharged.description>
 	
 	<!-- EN: Charged shotgun shell (Slug) -->
-	<Ammo_ShotgunCharged_Slug.label>Charged shotgun shell (Slug)</Ammo_ShotgunCharged_Slug.label>
+	<Ammo_ShotgunCharged_Slug.label>cartucho de escopeta cargado (Slug)</Ammo_ShotgunCharged_Slug.label>
 	<!-- EN: Multi-pellet charge shot cartridge designed for shotgun-type weapons. -->
-	<Ammo_ShotgunCharged_Slug.description>Multi-pellet charge shot cartridge designed for shotgun-type weapons.</Ammo_ShotgunCharged_Slug.description>
+	<Ammo_ShotgunCharged_Slug.description>Cartucho de disparo con multiples perdigones disenado para armas tipo escopeta.</Ammo_ShotgunCharged_Slug.description>
 	
 	<!-- EN: Charged shotgun shell (Ion Shot) -->
-	<Ammo_ShotgunCharged_Ion.label>Charged shotgun shell (Ion Shot)</Ammo_ShotgunCharged_Ion.label>
+	<Ammo_ShotgunCharged_Ion.label>cartucho de escopeta cargado (Disparo Ion)</Ammo_ShotgunCharged_Ion.label>
 	<!-- EN: Multi-pellet charge shot cartridge designed for shotgun-type weapons. -->
-	<Ammo_ShotgunCharged_Ion.description>Multi-pellet charge shot cartridge designed for shotgun-type weapons.</Ammo_ShotgunCharged_Ion.description>
+	<Ammo_ShotgunCharged_Ion.description>Cartucho de disparo con multiples perdigones disenado para armas tipo escopeta.</Ammo_ShotgunCharged_Ion.description>
 </LanguageData>

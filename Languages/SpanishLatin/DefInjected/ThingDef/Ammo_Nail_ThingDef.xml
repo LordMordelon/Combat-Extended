@@ -1,11 +1,11 @@
 <LanguageData>
 	<!-- Defs\Ammo\Other\Ammo_Nail.xml -->
 	<!-- EN: nail -->
-	<Ammo_Nail.label>nail</Ammo_Nail.label>
+	<Ammo_Nail.label>clavo</Ammo_Nail.label>
 	<!-- EN: A pointed carpentry nail a few inches long. Not suitable for combat when used with conventional tools. -->
-	<Ammo_Nail.description>A pointed carpentry nail a few inches long. Not suitable for combat when used with conventional tools.</Ammo_Nail.description>
+	<Ammo_Nail.description>Un clavo de carpinteria afilado de unos pocos centimetros de largo. No es adecuado para combate cuando se usa con herramientas convencionales.</Ammo_Nail.description>
 	<!-- EN: bullet -->
-	<Bullet_Nail.label>bullet</Bullet_Nail.label>
+	<Bullet_Nail.label>proyectil</Bullet_Nail.label>
 	<!-- EN: nail -->
-	<Bullet_Nail_HV.label>nail</Bullet_Nail_HV.label>
+	<Bullet_Nail_HV.label>clavo</Bullet_Nail_HV.label>
 </LanguageData>

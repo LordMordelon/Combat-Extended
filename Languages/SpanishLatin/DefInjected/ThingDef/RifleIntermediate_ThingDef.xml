@@ -2,32 +2,32 @@
 	<!-- Defs\Ammo\Generic\RifleIntermediate.xml -->
 	
 	<!-- EN: intermediate rifle cartridge (FMJ) -->
-	<Ammo_RifleIntermediate_FMJ.label>intermediate rifle cartridge (FMJ)</Ammo_RifleIntermediate_FMJ.label>
+	<Ammo_RifleIntermediate_FMJ.label>cartucho de rifle intermedio (FMJ)</Ammo_RifleIntermediate_FMJ.label>
 	<!-- EN: Intermediate power rifle ammunition, used mainly by assault rifles. -->
-	<Ammo_RifleIntermediate_FMJ.description>Intermediate power rifle ammunition, used mainly by assault rifles.</Ammo_RifleIntermediate_FMJ.description>
+	<Ammo_RifleIntermediate_FMJ.description>Municion de rifle de potencia intermedia, usada principalmente por rifles de asalto.</Ammo_RifleIntermediate_FMJ.description>
 	
 	<!-- EN: intermediate rifle cartridge (AP) -->
-	<Ammo_RifleIntermediate_AP.label>intermediate rifle cartridge (AP)</Ammo_RifleIntermediate_AP.label>
+	<Ammo_RifleIntermediate_AP.label>cartucho de rifle intermedio (AP)</Ammo_RifleIntermediate_AP.label>
 	<!-- EN: Intermediate power rifle ammunition, used mainly by assault rifles. -->
-	<Ammo_RifleIntermediate_AP.description>Intermediate power rifle ammunition, used mainly by assault rifles.</Ammo_RifleIntermediate_AP.description>
+	<Ammo_RifleIntermediate_AP.description>Municion de rifle de potencia intermedia, usada principalmente por rifles de asalto.</Ammo_RifleIntermediate_AP.description>
 	
 	<!-- EN: intermediate rifle cartridge (HP) -->
-	<Ammo_RifleIntermediate_HP.label>intermediate rifle cartridge (HP)</Ammo_RifleIntermediate_HP.label>
+	<Ammo_RifleIntermediate_HP.label>cartucho de rifle intermedio (HP)</Ammo_RifleIntermediate_HP.label>
 	<!-- EN: Intermediate power rifle ammunition, used mainly by assault rifles. -->
-	<Ammo_RifleIntermediate_HP.description>Intermediate power rifle ammunition, used mainly by assault rifles.</Ammo_RifleIntermediate_HP.description>
+	<Ammo_RifleIntermediate_HP.description>Municion de rifle de potencia intermedia, usada principalmente por rifles de asalto.</Ammo_RifleIntermediate_HP.description>
 	
 	<!-- EN: intermediate rifle cartridge (AP-I) -->
-	<Ammo_RifleIntermediate_Incendiary.label>intermediate rifle cartridge (AP-I)</Ammo_RifleIntermediate_Incendiary.label>
+	<Ammo_RifleIntermediate_Incendiary.label>cartucho de rifle intermedio (AP-I)</Ammo_RifleIntermediate_Incendiary.label>
 	<!-- EN: Intermediate power rifle ammunition, used mainly by assault rifles. -->
-	<Ammo_RifleIntermediate_Incendiary.description>Intermediate power rifle ammunition, used mainly by assault rifles.</Ammo_RifleIntermediate_Incendiary.description>
+	<Ammo_RifleIntermediate_Incendiary.description>Municion de rifle de potencia intermedia, usada principalmente por rifles de asalto.</Ammo_RifleIntermediate_Incendiary.description>
 	
 	<!-- EN: intermediate rifle cartridge (AP-HE) -->
-	<Ammo_RifleIntermediate_HE.label>intermediate rifle cartridge (AP-HE)</Ammo_RifleIntermediate_HE.label>
+	<Ammo_RifleIntermediate_HE.label>cartucho de rifle intermedio (AP-HE)</Ammo_RifleIntermediate_HE.label>
 	<!-- EN: Intermediate power rifle ammunition, used mainly by assault rifles. -->
-	<Ammo_RifleIntermediate_HE.description>Intermediate power rifle ammunition, used mainly by assault rifles.</Ammo_RifleIntermediate_HE.description>
+	<Ammo_RifleIntermediate_HE.description>Municion de rifle de potencia intermedia, usada principalmente por rifles de asalto.</Ammo_RifleIntermediate_HE.description>
 	
 	<!-- EN: intermediate rifle cartridge (Sabot) -->
-	<Ammo_RifleIntermediate_Sabot.label>intermediate rifle cartridge (Sabot)</Ammo_RifleIntermediate_Sabot.label>
+	<Ammo_RifleIntermediate_Sabot.label>cartucho de rifle intermedio (Sabot)</Ammo_RifleIntermediate_Sabot.label>
 	<!-- EN: Intermediate power rifle ammunition, used mainly by assault rifles. -->
-	<Ammo_RifleIntermediate_Sabot.description>Intermediate power rifle ammunition, used mainly by assault rifles.</Ammo_RifleIntermediate_Sabot.description>
+	<Ammo_RifleIntermediate_Sabot.description>Municion de rifle de potencia intermedia, usada principalmente por rifles de asalto.</Ammo_RifleIntermediate_Sabot.description>
 </LanguageData>

@@ -2,17 +2,17 @@
 	<!-- Defs\Ammo\Generic\Mech.xml -->
 	
 	<!-- EN: Mech Charged cartridge -->
-	<Ammo_Mech_Charged.label>Mech Charged cartridge</Ammo_Mech_Charged.label>
+	<Ammo_Mech_Charged.label>cartucho cargado mecanoide</Ammo_Mech_Charged.label>
 	<!-- EN: Charged shot ammo used by mechanoid weaponry. -->
-	<Ammo_Mech_Charged.description>Charged shot ammo used by mechanoid weaponry.</Ammo_Mech_Charged.description>
+	<Ammo_Mech_Charged.description>Municion de disparo cargado usada por armamento mecanoide.</Ammo_Mech_Charged.description>
 	
 	<!-- EN: mech shell (Incendiary) -->
-	<Ammo_MechShell_Incendiary.label>mech shell (Incendiary)</Ammo_MechShell_Incendiary.label>
+	<Ammo_MechShell_Incendiary.label>proyectil mecanoide (Incendiario)</Ammo_MechShell_Incendiary.label>
 	<!-- EN: Large shell used by mechanoid cannons and heavy weapons. -->
-	<Ammo_MechShell_Incendiary.description>Large shell used by mechanoid cannons and heavy weapons.</Ammo_MechShell_Incendiary.description>
+	<Ammo_MechShell_Incendiary.description>Proyectil grande usado por cañones mecanoides y armamento pesado.</Ammo_MechShell_Incendiary.description>
 	
 	<!-- EN: mech shell (Demo) -->
-	<Ammo_MechShell_Demo.label>mech shell (Demo)</Ammo_MechShell_Demo.label>
+	<Ammo_MechShell_Demo.label>proyectil mecanoide (Demo)</Ammo_MechShell_Demo.label>
 	<!-- EN: Large shell used by mechanoid cannons and heavy weapons. -->
-	<Ammo_MechShell_Demo.description>Large shell used by mechanoid cannons and heavy weapons.</Ammo_MechShell_Demo.description>
+	<Ammo_MechShell_Demo.description>Proyectil grande usado por cañones mecanoides y armamento pesado.</Ammo_MechShell_Demo.description>
 </LanguageData>

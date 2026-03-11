@@ -23,20 +23,20 @@
 	<!-- EN: Round Shot -->
 	<CannonBall.label>Bala redonda</CannonBall.label>
 	<!-- EN: A solid metal ball fired from an early, smoothbore cannon. -->
-	<CannonBall.description>Una esfera maciza de metal disparada por un canon temprano de anima lisa.</CannonBall.description>
+	<CannonBall.description>Una esfera maciza de metal disparada por un cañon temprano de anima lisa.</CannonBall.description>
 	
 	<!-- EN: Grapeshot -->
 	<Grapeshot.label>Metralla</Grapeshot.label>
 	<!-- EN: A canister packed with numerous small projectiles, fired from early smoothbore cannons as an anti-infantry weapon. -->
-	<Grapeshot.description>Un cartucho lleno de numerosos proyectiles pequenos, disparado por canones tempranos de anima lisa como arma antiinfanteria.</Grapeshot.description>
+	<Grapeshot.description>Un cartucho lleno de numerosos proyectiles pequenos, disparado por cañones tempranos de anima lisa como arma antiinfanteria.</Grapeshot.description>
 	
 	<!-- EN: Bursting Shell -->
 	<BurstingShell.label>Proyectil explosivo</BurstingShell.label>
 	<!-- EN: A crude explosive shell consisting of a hollow metal projectile filled with blackpowder to be fired from early smoothbore cannons. -->
-	<BurstingShell.description>Un proyectil explosivo rudimentario formado por una carcasa metalica hueca rellena de polvora negra para dispararse desde canones tempranos de anima lisa.</BurstingShell.description>
+	<BurstingShell.description>Un proyectil explosivo rudimentario formado por una carcasa metalica hueca rellena de polvora negra para dispararse desde cañones tempranos de anima lisa.</BurstingShell.description>
 	
 	<!-- EN: Fire Shell -->
 	<FireShell.label>Proyectil incendiario</FireShell.label>
 	<!-- EN: A simple incendiary shell consisting of a hollow metal projectile filled with highly flammable liquid to be fired from early smoothbore cannons. -->
-	<FireShell.description>Un proyectil incendiario simple formado por una carcasa metalica hueca rellena de liquido altamente inflamable para dispararse desde canones tempranos de anima lisa.</FireShell.description>
+	<FireShell.description>Un proyectil incendiario simple formado por una carcasa metalica hueca rellena de liquido altamente inflamable para dispararse desde cañones tempranos de anima lisa.</FireShell.description>
 </LanguageData>

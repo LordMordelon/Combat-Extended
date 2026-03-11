@@ -1,7 +1,7 @@
 <LanguageData>
 	<!-- Defs\ThingDefs_Plants\Plants_Cultivated_Farm.xml -->
 	<!-- EN: Blazebulb -->
-	<PlantBlazebulb.label>Blazebulb</PlantBlazebulb.label>
+	<PlantBlazebulb.label>bulbo ardiente</PlantBlazebulb.label>
 	<!-- EN: Genetically engineered plant designed to yield pyrophoric compounds for use in incendiary weapons.\n\nGreat care must be taken in cultivating these as the incendiary compounds inside the bulbs can self-ignite at temperatures above 28°C/82F, requiring constant cooling to maintain optimal growth temperatures. -->
-	<PlantBlazebulb.description>Genetically engineered plant designed to yield pyrophoric compounds for use in incendiary weapons.\n\nGreat care must be taken in cultivating these as the incendiary compounds inside the bulbs can self-ignite at temperatures above 28°C/82F, requiring constant cooling to maintain optimal growth temperatures.</PlantBlazebulb.description>
+	<PlantBlazebulb.description>Planta modificada geneticamente disenada para producir compuestos piroforicos para su uso en armas incendiarias.\n\nSe debe tener mucho cuidado al cultivarlas, ya que los compuestos incendiarios dentro de los bulbos pueden autoencenderse a temperaturas superiores a 28°C/82F, lo que requiere enfriamiento constante para mantener temperaturas de crecimiento optimas.</PlantBlazebulb.description>
 </LanguageData>

@@ -27,11 +27,11 @@
 	<!-- EN: shaft -->
 	<Shaft.label>asta</Shaft.label>
 	<!-- EN: barrel -->
-	<Barrel.label>canon</Barrel.label>
+	<Barrel.label>cañon</Barrel.label>
 	<!-- EN: muzzle -->
-	<Muzzle.label>boca del canon</Muzzle.label>
+	<Muzzle.label>boca del cañon</Muzzle.label>
 	<!-- EN: barrels -->
-	<Barrels.label>canones</Barrels.label>
+	<Barrels.label>cañones</Barrels.label>
 	<!-- EN: grip -->
 	<Grip.label>agarre</Grip.label>
 	<!-- EN: magazine -->

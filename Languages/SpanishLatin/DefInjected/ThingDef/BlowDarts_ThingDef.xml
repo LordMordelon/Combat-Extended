@@ -1,9 +1,9 @@
 <LanguageData>
 	<!-- Defs\Ammo\Neolithic\BlowDarts.xml -->
 	<!-- EN: poison dart -->
-	<Ammo_Dart_Venom.label>poison dart</Ammo_Dart_Venom.label>
+	<Ammo_Dart_Venom.label>dardo envenenado</Ammo_Dart_Venom.label>
 	<!-- EN: A simple wooden dart with a barbed head coated in poison derived from plants and animal products. -->
-	<Ammo_Dart_Venom.description>A simple wooden dart with a barbed head coated in poison derived from plants and animal products.</Ammo_Dart_Venom.description>
+	<Ammo_Dart_Venom.description>Un dardo de madera simple con punta barbada recubierta de veneno derivado de productos vegetales y animales.</Ammo_Dart_Venom.description>
 	<!-- EN: poison dart -->
-	<Projectile_Dart_Venom.label>poison dart</Projectile_Dart_Venom.label>
+	<Projectile_Dart_Venom.label>dardo envenenado</Projectile_Dart_Venom.label>
 </LanguageData>

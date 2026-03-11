@@ -1,9 +1,9 @@
 <LanguageData>
 	<!-- Defs\Ammo\Medieval\MortarGrenade.xml -->
 	<!-- EN: mortar grenade -->
-	<Ammo_MortarGrenade.label>mortar grenade</Ammo_MortarGrenade.label>
+	<Ammo_MortarGrenade.label>granada de mortero</Ammo_MortarGrenade.label>
 	<!-- EN: Low velocity grenade fired from a hand mortar. -->
-	<Ammo_MortarGrenade.description>Low velocity grenade fired from a hand mortar.</Ammo_MortarGrenade.description>
+	<Ammo_MortarGrenade.description>Granada de baja velocidad disparada desde un mortero de mano.</Ammo_MortarGrenade.description>
 	<!-- EN: Mortar Grenade -->
-	<Bullet_MortarGrenade.label>Mortar Grenade</Bullet_MortarGrenade.label>
+	<Bullet_MortarGrenade.label>Granada de mortero</Bullet_MortarGrenade.label>
 </LanguageData>

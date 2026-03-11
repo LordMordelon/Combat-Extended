@@ -1,19 +1,19 @@
 <LanguageData>
 	<!-- Defs\Ammo\Other\Flare.xml -->
 	<!-- EN: Flare -->
-	<Flare.label>Flare</Flare.label>
+	<Flare.label>Bengala</Flare.label>
 	<!-- EN: flare round -->
-	<Ammo_Flare.label>flare round</Ammo_Flare.label>
+	<Ammo_Flare.label>ronda bengala</Ammo_Flare.label>
 	<!-- EN: A flare round for illumination. -->
-	<Ammo_Flare.description>A flare round for illumination.</Ammo_Flare.description>
+	<Ammo_Flare.description>Una ronda de bengala para iluminacion.</Ammo_Flare.description>
 	<!-- EN: bioferrite flare round -->
-	<Ammo_FlareBioferrite.label>bioferrite flare round</Ammo_FlareBioferrite.label>
+	<Ammo_FlareBioferrite.label>ronda bengala biofierrita</Ammo_FlareBioferrite.label>
 	<!-- EN: A flare round for illumination. -->
-	<Ammo_FlareBioferrite.description>A flare round for illumination.</Ammo_FlareBioferrite.description>
+	<Ammo_FlareBioferrite.description>Una ronda de bengala para iluminacion.</Ammo_FlareBioferrite.description>
 	<!-- EN: flare -->
-	<Bullet_Flare.label>flare</Bullet_Flare.label>
+	<Bullet_Flare.label>bengala</Bullet_Flare.label>
 	<!-- EN: disruptor flare -->
-	<CE_DisruptorFlareSmall.label>disruptor flare</CE_DisruptorFlareSmall.label>
+	<CE_DisruptorFlareSmall.label>bengala disruptora</CE_DisruptorFlareSmall.label>
 	<!-- EN: bioferrite flare -->
-	<Bullet_FlareBioferrite.label>bioferrite flare</Bullet_FlareBioferrite.label>
+	<Bullet_FlareBioferrite.label>bengala biofierrita</Bullet_FlareBioferrite.label>
 </LanguageData>
