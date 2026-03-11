@@ -6,7 +6,7 @@
 	<!-- EN: binoculars -->
 	<Gun_BinocularsRadio.label>binoculares</Gun_BinocularsRadio.label>
 	<!-- EN: A pair of binoculars and a portable radio. Useful to coordinate artillery strikes.\n\nUsing this on a target will mark it, removing the indirect fire penalty from any artillery pieces targeting it. Additionally, any directed fire will use the aiming accuracy and efficiency of the spotter, rather than the artillery operator to determine final accuracy. -->
-	<Gun_BinocularsRadio.description>Un par de binoculares y una radio portatil. Util para coordinar ataques de artilleria.\n\nUsar esto en un objetivo lo marcara, eliminando la penalizacion de fuego indirecto de cualquier pieza de artilleria apuntando a el. Ademas, cualquier fuego dirigido usara la precision y eficiencia de apuntado del observador, no del operador de artilleria para determinar la precision final.</Gun_BinocularsRadio.description>
+	<Gun_BinocularsRadio.description>Un par de binoculares y una radio portátil. Útil para coordinar ataques de artillería.\n\nUsar esto en un objetivo lo marcará, eliminando la penalización de fuego indirecto de cualquier pieza de artillería apuntando a él. Además, cualquier fuego dirigido usará la precisión y eficiencia de apuntado del observador, no del operador de artillería para determinar la precisión final.</Gun_BinocularsRadio.description>
 	<!-- EN: ㅤ -->
 	<Gun_BinocularsRadio.verbs.0.label>ㅤ</Gun_BinocularsRadio.verbs.0.label>
 	<!-- EN: Body -->

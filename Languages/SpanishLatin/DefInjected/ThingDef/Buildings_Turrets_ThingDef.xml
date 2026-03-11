@@ -1,7 +1,7 @@
 <LanguageData>
 	<!-- Defs\ThingDefs_Buildings\Buildings_Turrets.xml -->
 	<!-- EN: charge blaster auto-turret -->
-	<Turret_Blaster.label>torreta automatica blaster de carga</Turret_Blaster.label>
+	<Turret_Blaster.label>torreta automática blaster de carga</Turret_Blaster.label>
 	<!-- EN: Automatic turret equipped with a charge blaster. -->
 	<Turret_Blaster.description>Torreta automática equipada con un blaster de carga.</Turret_Blaster.description>
 	

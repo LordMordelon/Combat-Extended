@@ -3,7 +3,7 @@
 	<!-- EN: sights efficiency -->
 	<SightsEfficiency.label>eficiencia de miras</SightsEfficiency.label>
 	<!-- EN: How good the sights on this weapon are. Quality sights reduce range errors and improve target leading. This is multiplied against the aiming accuracy of the shooter to calculate the amount of range and lead error.\n\nThe final modifier is calculated via this formula:\n(1.5 - aiming accuracy) / aiming efficiency\n\nLead error is calculated by multiplying this factor against total lead distance in cells. Range error is calculated by multiplying it against the total distance to the target divided by 4. -->
-	<SightsEfficiency.description>Qu\u00e9 tan buenas son las miras en esta arma. Las miras de calidad reducen errores de alcance y mejoran el adelanto de objetivo. Esto se multiplica contra la precisi\u00f3n de punter\u00eda del tirador para calcular la cantidad de error de alcance y adelanto.\\n\\nEl modificador final se calcula mediante esta f\u00f3rmula:\\n(1.5 - aiming accuracy) / aiming efficiency\\n\\nEl error de adelanto se calcula multiplicando este factor por la distancia total de adelanto en celdas. El error de alcance se calcula multiplic\u00e1ndolo por la distancia total al objetivo dividida entre 4.</SightsEfficiency.description>
+	<SightsEfficiency.description>Qué tan buenas son las miras en esta arma. Las miras de calidad reducen errores de alcance y mejoran el adelanto de objetivo. Esto se multiplica contra la precisión de puntería del tirador para calcular la cantidad de error de alcance y adelanto.\n\nEl modificador final se calcula mediante esta fórmula:\n(1.5 - aiming accuracy) / aiming efficiency\n\nEl error de adelanto se calcula multiplicando este factor por la distancia total de adelanto en celdas. El error de alcance se calcula multiplicándolo por la distancia total al objetivo dividida entre 4.</SightsEfficiency.description>
 	
 	<!-- EN: One-handed weapon -->
 	<OneHandedness.label>Arma de una mano</OneHandedness.label>
@@ -11,9 +11,9 @@
 	<OneHandedness.description>Si el arma puede usarse con escudos o no</OneHandedness.description>
 	
 	<!-- EN: Additional weapon info -->
-	<UBGLInfo.label>Informaci\u00f3n adicional del arma</UBGLInfo.label>
+	<UBGLInfo.label>Información adicional del arma</UBGLInfo.label>
 	<!-- EN: Information about under/over barrel or otherwise mounted weapons -->
-	<UBGLInfo.description>Informaci\u00f3n sobre armas montadas bajo/sobre ca\u00f1\u00f3n u otro modo</UBGLInfo.description>
+	<UBGLInfo.description>Información sobre armas montadas bajo/sobre cañón u otro modo</UBGLInfo.description>
 	
 	<!-- EN: spread -->
 	<ShotSpread.label>dispersi\u00f3n</ShotSpread.label>
@@ -33,12 +33,12 @@
 	<!-- EN: caliber -->
 	<Caliber.label>calibre</Caliber.label>
 	<!-- EN: The types of ammo this gun accepts. -->
-	<Caliber.description>Los tipos de munici\u00f3n que acepta esta arma.</Caliber.description>
+	<Caliber.description>Los tipos de munición que acepta esta arma.</Caliber.description>
 	
 	<!-- EN: Bipod stats -->
-	<BipodStats.label>Estad\u00edsticas de bipode</BipodStats.label>
+	<BipodStats.label>Estadísticas de bípode</BipodStats.label>
 	<!-- EN: Stats with bipod deployed and undeployed. -->
-	<BipodStats.description>Estad\u00edsticas con bipode desplegado y recogido.</BipodStats.description>
+	<BipodStats.description>Estadísticas con bípode desplegado y recogido.</BipodStats.description>
 	
 	<!-- EN: fire rate -->
 	<TicksBetweenBurstShots.label>cadencia de fuego</TicksBetweenBurstShots.label>
@@ -76,12 +76,12 @@
 	<CE_RangedWeapon_ReloadFactor.description>Un multiplicador aplicado al tiempo de recarga de esta arma.</CE_RangedWeapon_ReloadFactor.description>
 	
 	<!-- EN: ammo consumed per shot -->
-	<ammoConsumedPerShotCount.label>munici\u00f3n consumida por disparo</ammoConsumedPerShotCount.label>
+	<ammoConsumedPerShotCount.label>munición consumida por disparo</ammoConsumedPerShotCount.label>
 	<!-- EN: How many units of ammunition this gun consumes for each individual shot.\n\nThis applies to guns with multiple barrels that fire simultaneously with each pull of the trigger, or exotic energy weapons that use up different amounts of energy from a power cell. -->
-	<ammoConsumedPerShotCount.description>Cu\u00e1ntas unidades de munici\u00f3n consume este arma por cada disparo individual.\\n\\nEsto aplica a armas con m\u00faltiples ca\u00f1ones que disparan simult\u00e1neamente con cada tiradora del gatillo, o armas de energ\u00eda ex\u00f3tica que consumen diferentes cantidades de energ\u00eda de una celda de poder.</ammoConsumedPerShotCount.description>
+	<ammoConsumedPerShotCount.description>Cuántas unidades de munición consume este arma por cada disparo individual.\n\nEsto aplica a armas con múltiples cañones que disparan simultáneamente con cada tiradora del gatillo, o armas de energía exótica que consumen diferentes cantidades de energía de una celda de poder.</ammoConsumedPerShotCount.description>
 	
 	<!-- EN: ammo generation per magazine override -->
-	<AmmoGenPerMagOverride.label>anulaci\u00f3n de generaci\u00f3n de munici\u00f3n por revista</AmmoGenPerMagOverride.label>
+	<AmmoGenPerMagOverride.label>anulación de generación de munición por revista</AmmoGenPerMagOverride.label>
 	<!-- EN: How many units of ammunition per magazine specified in pawnKindDef should a pawn bring.\n\nPurely used in pawn generation. You should not be able to read this in game. -->
-	<AmmoGenPerMagOverride.description>Cu\u00e1ntas unidades de munici\u00f3n por revista especificadas en pawnKindDef deber\u00eda traer un pe\u00f3n.\\n\\nUsado \u00fanicamente en generaci\u00f3n de peones. No deber\u00edas poder leer esto en el juego.</AmmoGenPerMagOverride.description>
+	<AmmoGenPerMagOverride.description>Cuántas unidades de munición por revista especificadas en pawnKindDef debería traer un peón.\n\nUsado únicamente en generación de peones. No deberías poder leer esto en el juego.</AmmoGenPerMagOverride.description>
 </LanguageData>

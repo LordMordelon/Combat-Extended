@@ -17,7 +17,7 @@
 	<!-- EN: edge -->
 	<Edge.label>filo</Edge.label>
 	<!-- EN: handle -->
-	<Handle.label>empunadura</Handle.label>
+	<Handle.label>empuñadura</Handle.label>
 	<!-- EN: head -->
 	<Head.label>cabeza</Head.label>
 	<!-- EN: neck -->
@@ -27,9 +27,9 @@
 	<!-- EN: shaft -->
 	<Shaft.label>asta</Shaft.label>
 	<!-- EN: barrel -->
-	<Barrel.label>cañon</Barrel.label>
+	<Barrel.label>cañón</Barrel.label>
 	<!-- EN: muzzle -->
-	<Muzzle.label>boca del cañon</Muzzle.label>
+	<Muzzle.label>boca del cañón</Muzzle.label>
 	<!-- EN: barrels -->
 	<Barrels.label>cañones</Barrels.label>
 	<!-- EN: grip -->

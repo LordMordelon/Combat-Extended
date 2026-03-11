@@ -1,7 +1,7 @@
 <LanguageData>
 	<!-- Defs\Ammo\Modded\Warhammer 40k\LasGun.xml -->
 	<!-- EN: lasgun power pack -->
-	<Ammo_LasgunPowerPack.label>paquete de energia lasgun</Ammo_LasgunPowerPack.label>
+	<Ammo_LasgunPowerPack.label>paquete de energía lasgun</Ammo_LasgunPowerPack.label>
 	<!-- EN: A universal power pack for lasguns. -->
 	<Ammo_LasgunPowerPack.description>Un paquete de energía universal para lasguns.</Ammo_LasgunPowerPack.description>
 	<!-- EN: laser beam -->

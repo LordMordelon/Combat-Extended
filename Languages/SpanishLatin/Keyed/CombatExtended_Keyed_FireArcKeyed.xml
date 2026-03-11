@@ -29,12 +29,12 @@
 	<!-- EN: Free arc of fire span -->
 	<CE_MaxArcOfFireSpan>Amplitud libre del arco de fuego</CE_MaxArcOfFireSpan>
 	<!-- EN: The maximal and minimal arc of fire from a given center line. -->
-	<CE_MaxArcOfFireSpanDesc>El arco de fuego maximo y minimo desde una linea central dada.</CE_MaxArcOfFireSpanDesc>
+	<CE_MaxArcOfFireSpanDesc>El arco de fuego máximo y mínimo desde una línea central dada.</CE_MaxArcOfFireSpanDesc>
 
 	<!-- EN: Maximal arc of fire -->
-	<CE_MaxArcOfFireDeviation>Arco de fuego maximo</CE_MaxArcOfFireDeviation>
+	<CE_MaxArcOfFireDeviation>Arco de fuego máximo</CE_MaxArcOfFireDeviation>
 	<!-- EN: The maximal arc of fire from the facing of the turret. -->
-	<CE_MaxArcOfFireDeviationDesc>El arco de fuego maximo respecto a la orientacion de la torreta.</CE_MaxArcOfFireDeviationDesc>
+	<CE_MaxArcOfFireDeviationDesc>El arco de fuego máximo respecto a la orientación de la torreta.</CE_MaxArcOfFireDeviationDesc>
 
 	<!-- EN: Turret traverse and arc of fire -->
 	<CE_Settings_EnableArcOfFire_Title>Giro de torretas y arco de fuego</CE_Settings_EnableArcOfFire_Title>

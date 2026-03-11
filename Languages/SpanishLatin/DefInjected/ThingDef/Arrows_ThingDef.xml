@@ -31,7 +31,7 @@
 	<!-- EN: arrow (flame) -->
 	<Projectile_Arrow_Flame.label>flecha (llama)</Projectile_Arrow_Flame.label>
 	<!-- EN: streamlined arrow (stone) -->
-	<Projectile_StreamlinedArrow_Stone.label>flecha aerodinamica (piedra)</Projectile_StreamlinedArrow_Stone.label>
+	<Projectile_StreamlinedArrow_Stone.label>flecha aerodinámica (piedra)</Projectile_StreamlinedArrow_Stone.label>
 	<!-- EN: streamlined arrow (steel) -->
 	<Projectile_StreamlinedArrow_Steel.label>flecha aerodinámica (acero)</Projectile_StreamlinedArrow_Steel.label>
 	<!-- EN: streamlined arrow (plasteel) -->

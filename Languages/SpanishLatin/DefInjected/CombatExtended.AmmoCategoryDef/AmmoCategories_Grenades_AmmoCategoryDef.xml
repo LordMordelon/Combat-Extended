@@ -5,10 +5,10 @@
 	<!-- EN: HE -->
 	<GrenadeHE.labelShort>HE</GrenadeHE.labelShort>
 	<!-- EN: The high-explosive charge detonates on impact, scattering lethal shell fragments in a large area. -->
-	<GrenadeHE.description>La carga de alto explosivo detona al impactar, dispersando fragmentos letales por una gran area.</GrenadeHE.description>
+	<GrenadeHE.description>La carga de alto explosivo detona al impactar, dispersando fragmentos letales por una gran área.</GrenadeHE.description>
 	
 	<!-- EN: High-explosive dual-purpose -->
-	<GrenadeHEDP.label>alto explosivo de doble proposito</GrenadeHEDP.label>
+	<GrenadeHEDP.label>alto explosivo de doble propósito</GrenadeHEDP.label>
 	<!-- EN: HEDP -->
 	<GrenadeHEDP.labelShort>HEDP</GrenadeHEDP.labelShort>
 	<!-- EN: Grenade with a shaped charge warhead. Detonates on impact, creating a super-heated stream of molten metal that punches through enemy armor. -->
@@ -37,7 +37,7 @@
 	<Smoke.description>Rellena con un agente generador de humo. Explota al impactar para crear una cortina de humo densa.</Smoke.description>
 	
 	<!-- EN: tear gas -->
-	<CNGas.label>gas lacrimogeno</CNGas.label>
+	<CNGas.label>gas lacrimógeno</CNGas.label>
 	<!-- EN: Filled with a non-lethal chemical agent capable of causing pain, irritation, and temporary blindness. -->
 	<CNGas.description>Rellena con un agente químico no letal capaz de causar dolor, irritación y ceguera temporal.</CNGas.description>
 	

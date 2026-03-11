@@ -1,14 +1,14 @@
 <LanguageData>
 	<!-- Defs\Ammo\AmmoCategoryDefs\AmmoCategories_Shotgun.xml -->
 	<!-- EN: buckshot -->
-	<BuckShot.label>perdigon grueso</BuckShot.label>
+	<BuckShot.label>perdigón grueso</BuckShot.label>
 	<!-- EN: buck -->
 	<BuckShot.labelShort>grueso</BuckShot.labelShort>
 	<!-- EN: Filled with several buckshot pellets which spread in a tight pattern. -->
 	<BuckShot.description>Rellena con varios perdigones gruesos que se dispersan en un patrón cerrado.</BuckShot.description>
 	
 	<!-- EN: birdshot -->
-	<BirdShot.label>perdigon fino</BirdShot.label>
+	<BirdShot.label>perdigón fino</BirdShot.label>
 	<!-- EN: bird -->
 	<BirdShot.labelShort>bird</BirdShot.labelShort>
 	<!-- EN: Filled with a large number of very small birdshot pellets which spread over a large area. -->

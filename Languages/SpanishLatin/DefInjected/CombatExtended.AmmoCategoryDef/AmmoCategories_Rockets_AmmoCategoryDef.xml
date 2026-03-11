@@ -8,21 +8,21 @@
 	<RocketHEAT.description>Ojiva de carga hueca. Detona al impactar, creando un chorro sobrecalentado de metal fundido que perfora la armadura enemiga.</RocketHEAT.description>
 	
 	<!-- EN: thermobaric -->
-	<RocketThermobaric.label>termobarica</RocketThermobaric.label>
+	<RocketThermobaric.label>termobárica</RocketThermobaric.label>
 	<!-- EN: Disperses and subsequently ignites a fuel-air explosive mix, creating a powerful explosion and potentially igniting flammable objects. -->
-	<RocketThermobaric.description>Dispersa y luego enciende una mezcla explosiva combustible-aire, creando una explosion poderosa y pudiendo prender objetos inflamables.</RocketThermobaric.description>
+	<RocketThermobaric.description>Dispersa y luego enciende una mezcla explosiva combustible-aire, creando una explosión poderosa y pudiendo prender objetos inflamables.</RocketThermobaric.description>
 	
 	<!-- EN: fragmentation -->
-	<RocketFrag.label>fragmentacion</RocketFrag.label>
+	<RocketFrag.label>fragmentación</RocketFrag.label>
 	<!-- EN: Frag -->
 	<RocketFrag.labelShort>Frag</RocketFrag.labelShort>
 	<!-- EN: Designed to explode into a cloud of deadly shrapnel, shredding soft targets in a large area. -->
-	<RocketFrag.description>Disenada para explotar en una nube de metralla letal, destrozando objetivos blandos en un area amplia.</RocketFrag.description>
+	<RocketFrag.description>Diseñada para explotar en una nube de metralla letal, destrozando objetivos blandos en un área amplia.</RocketFrag.description>
 	
 	<!-- EN: High Explosive -->
 	<RocketHE.label>Alto explosivo</RocketHE.label>
 	<!-- EN: HE -->
 	<RocketHE.labelShort>HE</RocketHE.labelShort>
 	<!-- EN: Designed to explode, damaging targets in a large area. -->
-	<RocketHE.description>Disenado para explotar y danar objetivos en una gran area.</RocketHE.description>
+	<RocketHE.description>Diseñado para explotar y dañar objetivos en una gran área.</RocketHE.description>
 </LanguageData>
