@@ -2,37 +2,37 @@
 	<!-- Defs\Ammo\Generic\AntiMateriel.xml -->
 	
 	<!-- EN: make anti-materiel (FMJ) cartridge x200 -->
-	<MakeAmmo_AntiMateriel_FMJ.label>make anti-materiel (FMJ) cartridge x200</MakeAmmo_AntiMateriel_FMJ.label>
+	<MakeAmmo_AntiMateriel_FMJ.label>fabricar cartucho antimaterial (FMJ) x200</MakeAmmo_AntiMateriel_FMJ.label>
 	<!-- EN: Craft 200 anti-materiel (FMJ) cartridges. -->
-	<MakeAmmo_AntiMateriel_FMJ.description>Craft 200 anti-materiel (FMJ) cartridges.</MakeAmmo_AntiMateriel_FMJ.description>
+	<MakeAmmo_AntiMateriel_FMJ.description>Fabrica 200 cartuchos antimaterial (FMJ).</MakeAmmo_AntiMateriel_FMJ.description>
 	<!-- EN: Making anti-materiel (FMJ) cartridges. -->
-	<MakeAmmo_AntiMateriel_FMJ.jobString>Making anti-materiel (FMJ) cartridges.</MakeAmmo_AntiMateriel_FMJ.jobString>
+	<MakeAmmo_AntiMateriel_FMJ.jobString>Fabricando cartuchos antimaterial (FMJ).</MakeAmmo_AntiMateriel_FMJ.jobString>
 	
 	<!-- EN: make anti-materiel (AP) cartridge x200 -->
-	<MakeAmmo_AntiMateriel_AP.label>make anti-materiel (AP) cartridge x200</MakeAmmo_AntiMateriel_AP.label>
+	<MakeAmmo_AntiMateriel_AP.label>fabricar cartucho antimaterial (AP) x200</MakeAmmo_AntiMateriel_AP.label>
 	<!-- EN: Craft 200 anti-materiel (AP) cartridges. -->
-	<MakeAmmo_AntiMateriel_AP.description>Craft 200 anti-materiel (AP) cartridges.</MakeAmmo_AntiMateriel_AP.description>
+	<MakeAmmo_AntiMateriel_AP.description>Fabrica 200 cartuchos antimaterial (AP).</MakeAmmo_AntiMateriel_AP.description>
 	<!-- EN: Making anti-materiel (AP) cartridges. -->
-	<MakeAmmo_AntiMateriel_AP.jobString>Making anti-materiel (AP) cartridges.</MakeAmmo_AntiMateriel_AP.jobString>
+	<MakeAmmo_AntiMateriel_AP.jobString>Fabricando cartuchos antimaterial (AP).</MakeAmmo_AntiMateriel_AP.jobString>
 	
 	<!-- EN: make anti-materiel (AP-I) cartridge x200 -->
-	<MakeAmmo_AntiMateriel_Incendiary.label>make anti-materiel (AP-I) cartridge x200</MakeAmmo_AntiMateriel_Incendiary.label>
+	<MakeAmmo_AntiMateriel_Incendiary.label>fabricar cartucho antimaterial (AP-I) x200</MakeAmmo_AntiMateriel_Incendiary.label>
 	<!-- EN: Craft 200 anti-materiel (AP-I) cartridges. -->
-	<MakeAmmo_AntiMateriel_Incendiary.description>Craft 200 anti-materiel (AP-I) cartridges.</MakeAmmo_AntiMateriel_Incendiary.description>
+	<MakeAmmo_AntiMateriel_Incendiary.description>Fabrica 200 cartuchos antimaterial (AP-I).</MakeAmmo_AntiMateriel_Incendiary.description>
 	<!-- EN: Making anti-materiel (AP-I) cartridges. -->
-	<MakeAmmo_AntiMateriel_Incendiary.jobString>Making anti-materiel (AP-I) cartridges.</MakeAmmo_AntiMateriel_Incendiary.jobString>
+	<MakeAmmo_AntiMateriel_Incendiary.jobString>Fabricando cartuchos antimaterial (AP-I).</MakeAmmo_AntiMateriel_Incendiary.jobString>
 	
 	<!-- EN: make anti-materiel (HE) cartridge x200 -->
-	<MakeAmmo_AntiMateriel_HE.label>make anti-materiel (HE) cartridge x200</MakeAmmo_AntiMateriel_HE.label>
+	<MakeAmmo_AntiMateriel_HE.label>fabricar cartucho antimaterial (HE) x200</MakeAmmo_AntiMateriel_HE.label>
 	<!-- EN: Craft 200 anti-materiel (HE) cartridges. -->
-	<MakeAmmo_AntiMateriel_HE.description>Craft 200 anti-materiel (HE) cartridges.</MakeAmmo_AntiMateriel_HE.description>
+	<MakeAmmo_AntiMateriel_HE.description>Fabrica 200 cartuchos antimaterial (HE).</MakeAmmo_AntiMateriel_HE.description>
 	<!-- EN: Making anti-materiel (HE) cartridges. -->
-	<MakeAmmo_AntiMateriel_HE.jobString>Making anti-materiel (HE) cartridges.</MakeAmmo_AntiMateriel_HE.jobString>
+	<MakeAmmo_AntiMateriel_HE.jobString>Fabricando cartuchos antimaterial (HE).</MakeAmmo_AntiMateriel_HE.jobString>
 	
 	<!-- EN: make anti-materiel (Sabot) cartridge x200 -->
-	<MakeAmmo_AntiMateriel_Sabot.label>make anti-materiel (Sabot) cartridge x200</MakeAmmo_AntiMateriel_Sabot.label>
+	<MakeAmmo_AntiMateriel_Sabot.label>fabricar cartucho antimaterial (sabot) x200</MakeAmmo_AntiMateriel_Sabot.label>
 	<!-- EN: Craft 200 anti-materiel (Sabot) cartridges. -->
-	<MakeAmmo_AntiMateriel_Sabot.description>Craft 200 anti-materiel (Sabot) cartridges.</MakeAmmo_AntiMateriel_Sabot.description>
+	<MakeAmmo_AntiMateriel_Sabot.description>Fabrica 200 cartuchos antimaterial (sabot).</MakeAmmo_AntiMateriel_Sabot.description>
 	<!-- EN: Making anti-materiel (Sabot) cartridges. -->
-	<MakeAmmo_AntiMateriel_Sabot.jobString>Making anti-materiel (Sabot) cartridges.</MakeAmmo_AntiMateriel_Sabot.jobString>
+	<MakeAmmo_AntiMateriel_Sabot.jobString>Fabricando cartuchos antimaterial (sabot).</MakeAmmo_AntiMateriel_Sabot.jobString>
 </LanguageData>
