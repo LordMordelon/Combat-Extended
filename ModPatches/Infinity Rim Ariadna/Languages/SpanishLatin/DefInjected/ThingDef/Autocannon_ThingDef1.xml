@@ -2,15 +2,15 @@
 	<!-- ModPatches\Infinity Rim Ariadna\Defs\Infinity Rim Ariadna\Ammo\Autocannon.xml -->
 	
 	<!-- EN: 20x99mmR ShVAK cartridge (Teseum) -->
-	<Ammo_20x99mmRShVAK_Teseum.label>20x99mmR ShVAK cartridge (Teseum)</Ammo_20x99mmRShVAK_Teseum.label>
+	<Ammo_20x99mmRShVAK_Teseum.label>cartucho 20x99mmR ShVAK (Teseum)</Ammo_20x99mmRShVAK_Teseum.label>
 	<!-- EN: Large caliber cartridge used by autocannons and a handful of anti-tank rifles. -->
-	<Ammo_20x99mmRShVAK_Teseum.description>Large caliber cartridge used by autocannons and a handful of anti-tank rifles.</Ammo_20x99mmRShVAK_Teseum.description>
+	<Ammo_20x99mmRShVAK_Teseum.description>Cartucho de gran calibre usado por autocañones y algunos rifles anticarro.</Ammo_20x99mmRShVAK_Teseum.description>
 	
 	<!-- EN: autocannon shell (Teseum) -->
-	<Ammo_Autocannon_Teseum.label>autocannon shell (Teseum)</Ammo_Autocannon_Teseum.label>
+	<Ammo_Autocannon_Teseum.label>carcasa de autocañon (Teseum)</Ammo_Autocannon_Teseum.label>
 	<!-- EN: Large caliber cartridge used by autocannons and a handful of anti-tank rifles. -->
-	<Ammo_Autocannon_Teseum.description>Large caliber cartridge used by autocannons and a handful of anti-tank rifles.</Ammo_Autocannon_Teseum.description>
+	<Ammo_Autocannon_Teseum.description>Cartucho de gran calibre usado por autocañones y algunos rifles anticarro.</Ammo_Autocannon_Teseum.description>
 	
 	<!-- EN: 20mmR ShVAK bullet (Teseum) -->
-	<Bullet_20x99mmRShVAK_Teseum.label>20mmR ShVAK bullet (Teseum)</Bullet_20x99mmRShVAK_Teseum.label>
+	<Bullet_20x99mmRShVAK_Teseum.label>bala 20mmR ShVAK (Teseum)</Bullet_20x99mmRShVAK_Teseum.label>
 </LanguageData>

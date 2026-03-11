@@ -12,7 +12,7 @@
 	<Ammo_Flamethrower_Prometheum.description>Combustible para un lanzallamas.\n\nEsta mezcla aplica un recubrimiento pegajoso de prometeio extremadamente inflamable al objetivo.</Ammo_Flamethrower_Prometheum.description>
 	
 	<!-- EN: infused chemfuel -->
-	<Ammo_Flamethrower_Bioferrite.label>quimbustible infusionado</Ammo_Flamethrower_Bioferrite.label>
+	<Ammo_Flamethrower_Bioferrite.label>quimbustible bioferroso</Ammo_Flamethrower_Bioferrite.label>
 	<!-- EN: Fuel for a flamethrower that burns at incredibly high temperature, leaving behind no puddles of fuel.\n\nAn infusion of crystalline bioferrite attacks organic matter on a cellular level, disrupting regeneration and weakening tissue. -->
 	<Ammo_Flamethrower_Bioferrite.description>Combustible para un lanzallamas que arde a temperatura increíblemente alta, sin dejar charcos de combustible.\n\nUna infusión de bioferrita cristalina ataca la materia orgánica a nivel celular, interrumpiendo la regeneración y debilitando el tejido.</Ammo_Flamethrower_Bioferrite.description>
 	
@@ -20,8 +20,8 @@
 	<Bullet_Flamethrower_Napalm.label>chorro de quimbustible gelificado</Bullet_Flamethrower_Napalm.label>
 	
 	<!-- EN: jellied prometheum stream -->
-	<Bullet_Flamethrower_Prometheum.label>chorro prometeio gelificado</Bullet_Flamethrower_Prometheum.label>
+	<Bullet_Flamethrower_Prometheum.label>chorro de prometeio gelificado</Bullet_Flamethrower_Prometheum.label>
 	
 	<!-- EN: infused chemfuel stream -->
-	<Bullet_Flamethrower_Bioferrite.label>chorro de quimbustible infusionado</Bullet_Flamethrower_Bioferrite.label>
+	<Bullet_Flamethrower_Bioferrite.label>chorro de quimbustible bioferroso</Bullet_Flamethrower_Bioferrite.label>
 </LanguageData>

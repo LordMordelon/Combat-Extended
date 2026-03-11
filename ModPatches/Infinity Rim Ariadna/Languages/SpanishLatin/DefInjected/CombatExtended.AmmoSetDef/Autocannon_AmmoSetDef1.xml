@@ -1,8 +1,8 @@
 <LanguageData>
 	<!-- ModPatches\Infinity Rim Ariadna\Defs\Infinity Rim Ariadna\Ammo\Autocannon.xml -->
 	<!-- EN: 20x99mmR Ariadnan -->
-	<AmmoSet_TeseumAutocannon.label>20x99mmR Ariadnan</AmmoSet_TeseumAutocannon.label>
+	<AmmoSet_TeseumAutocannon.label>20x99mmR ariadnano</AmmoSet_TeseumAutocannon.label>
 	
 	<!-- EN: autocannon shell -->
-	<AmmoSet_TeseumAutocannonGeneric.label>autocannon shell</AmmoSet_TeseumAutocannonGeneric.label>
+	<AmmoSet_TeseumAutocannonGeneric.label>carcasa de autocañon</AmmoSet_TeseumAutocannonGeneric.label>
 </LanguageData>

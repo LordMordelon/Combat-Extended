@@ -2,16 +2,16 @@
 	<!-- ModPatches\Infinity Rim Ariadna\Defs\Infinity Rim Ariadna\Ammo\Autocannon.xml -->
 	
 	<!-- EN: make 20x99mmR ShVAK cartridge (Teseum) x200 -->
-	<MakeAmmo_20x99mmRShVAK_Teseum.label>make 20x99mmR ShVAK cartridge (Teseum) x200</MakeAmmo_20x99mmRShVAK_Teseum.label>
+	<MakeAmmo_20x99mmRShVAK_Teseum.label>hacer cartucho 20x99mmR ShVAK (Teseum) x200</MakeAmmo_20x99mmRShVAK_Teseum.label>
 	<!-- EN: Craft 20x99mmR ShVAK cartridge (Teseum). -->
-	<MakeAmmo_20x99mmRShVAK_Teseum.description>Craft 20x99mmR ShVAK cartridge (Teseum).</MakeAmmo_20x99mmRShVAK_Teseum.description>
+	<MakeAmmo_20x99mmRShVAK_Teseum.description>Fabrica cartucho 20x99mmR ShVAK (Teseum).</MakeAmmo_20x99mmRShVAK_Teseum.description>
 	<!-- EN: Making 20x99mmR ShVAK cartridge (Teseum). -->
-	<MakeAmmo_20x99mmRShVAK_Teseum.jobString>Making 20x99mmR ShVAK cartridge (Teseum).</MakeAmmo_20x99mmRShVAK_Teseum.jobString>
+	<MakeAmmo_20x99mmRShVAK_Teseum.jobString>Fabricando cartucho 20x99mmR ShVAK (Teseum).</MakeAmmo_20x99mmRShVAK_Teseum.jobString>
 	
 	<!-- EN: make autocannon shell (Teseum) x200 -->
-	<MakeAmmo_Autocannon_Teseum.label>make autocannon shell (Teseum) x200</MakeAmmo_Autocannon_Teseum.label>
+	<MakeAmmo_Autocannon_Teseum.label>hacer carcasa de autocañon (Teseum) x200</MakeAmmo_Autocannon_Teseum.label>
 	<!-- EN: Craft 200 autocannon shell (Teseum). -->
-	<MakeAmmo_Autocannon_Teseum.description>Craft 200 autocannon shell (Teseum).</MakeAmmo_Autocannon_Teseum.description>
+	<MakeAmmo_Autocannon_Teseum.description>Fabrica 200 carcasas de autocañon (Teseum).</MakeAmmo_Autocannon_Teseum.description>
 	<!-- EN: Making autocannon shell (Teseum). -->
-	<MakeAmmo_Autocannon_Teseum.jobString>Making autocannon shell (Teseum).</MakeAmmo_Autocannon_Teseum.jobString>
+	<MakeAmmo_Autocannon_Teseum.jobString>Fabricando carcasas de autocañon (Teseum).</MakeAmmo_Autocannon_Teseum.jobString>
 </LanguageData>

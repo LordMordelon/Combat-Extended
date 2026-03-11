@@ -2,65 +2,65 @@
 	<!-- Defs\Ammo\Generic\Autocannon.xml -->
 	
 	<!-- EN: make autocannon shell (AP) x200 -->
-	<MakeAmmo_Autocannon_AP.label>make autocannon shell (AP) x200</MakeAmmo_Autocannon_AP.label>
+	<MakeAmmo_Autocannon_AP.label>hacer carcasa de autocañon (AP) x200</MakeAmmo_Autocannon_AP.label>
 	<!-- EN: Craft 200 autocannon shell (AP). -->
-	<MakeAmmo_Autocannon_AP.description>Craft 200 autocannon shell (AP).</MakeAmmo_Autocannon_AP.description>
+	<MakeAmmo_Autocannon_AP.description>Fabrica 200 carcasas de autocañon (AP).</MakeAmmo_Autocannon_AP.description>
 	<!-- EN: Making autocannon shell (AP). -->
-	<MakeAmmo_Autocannon_AP.jobString>Making autocannon shell (AP).</MakeAmmo_Autocannon_AP.jobString>
+	<MakeAmmo_Autocannon_AP.jobString>Fabricando carcasas de autocañon (AP).</MakeAmmo_Autocannon_AP.jobString>
 	
 	<!-- EN: make autocannon shell (AP-I) x200 -->
-	<MakeAmmo_Autocannon_Incendiary.label>make autocannon shell (AP-I) x200</MakeAmmo_Autocannon_Incendiary.label>
+	<MakeAmmo_Autocannon_Incendiary.label>hacer carcasa de autocañon (AP-I) x200</MakeAmmo_Autocannon_Incendiary.label>
 	<!-- EN: Craft 200 autocannon shell (AP-I). -->
-	<MakeAmmo_Autocannon_Incendiary.description>Craft 200 autocannon shell (AP-I).</MakeAmmo_Autocannon_Incendiary.description>
+	<MakeAmmo_Autocannon_Incendiary.description>Fabrica 200 carcasas de autocañon (AP-I).</MakeAmmo_Autocannon_Incendiary.description>
 	<!-- EN: Making autocannon shell (AP-I). -->
-	<MakeAmmo_Autocannon_Incendiary.jobString>Making autocannon shell (AP-I).</MakeAmmo_Autocannon_Incendiary.jobString>
+	<MakeAmmo_Autocannon_Incendiary.jobString>Fabricando carcasas de autocañon (AP-I).</MakeAmmo_Autocannon_Incendiary.jobString>
 	
 	<!-- EN: make autocannon shell (AP-HE) x200 -->
-	<MakeAmmo_Autocannon_HE.label>make autocannon shell (AP-HE) x200</MakeAmmo_Autocannon_HE.label>
+	<MakeAmmo_Autocannon_HE.label>hacer carcasa de autocañon (AP-HE) x200</MakeAmmo_Autocannon_HE.label>
 	<!-- EN: Craft 200 autocannon shell (AP-HE). -->
-	<MakeAmmo_Autocannon_HE.description>Craft 200 autocannon shell (AP-HE).</MakeAmmo_Autocannon_HE.description>
+	<MakeAmmo_Autocannon_HE.description>Fabrica 200 carcasas de autocañon (AP-HE).</MakeAmmo_Autocannon_HE.description>
 	<!-- EN: Making autocannon shell (AP-HE). -->
-	<MakeAmmo_Autocannon_HE.jobString>Making autocannon shell (AP-HE).</MakeAmmo_Autocannon_HE.jobString>
+	<MakeAmmo_Autocannon_HE.jobString>Fabricando carcasas de autocañon (AP-HE).</MakeAmmo_Autocannon_HE.jobString>
 	
 	<!-- EN: make autocannon shell (Sabot) x200 -->
-	<MakeAmmo_Autocannon_Sabot.label>make autocannon shell (Sabot) x200</MakeAmmo_Autocannon_Sabot.label>
+	<MakeAmmo_Autocannon_Sabot.label>hacer carcasa de autocañon (saboteada) x200</MakeAmmo_Autocannon_Sabot.label>
 	<!-- EN: Craft 200 autocannon shell (Sabot). -->
-	<MakeAmmo_Autocannon_Sabot.description>Craft 200 autocannon shell (Sabot).</MakeAmmo_Autocannon_Sabot.description>
+	<MakeAmmo_Autocannon_Sabot.description>Fabrica 200 carcasas de autocañon (saboteada).</MakeAmmo_Autocannon_Sabot.description>
 	<!-- EN: Making autocannon shell (Sabot). -->
-	<MakeAmmo_Autocannon_Sabot.jobString>Making autocannon shell (Sabot).</MakeAmmo_Autocannon_Sabot.jobString>
+	<MakeAmmo_Autocannon_Sabot.jobString>Fabricando carcasas de autocañon (saboteada).</MakeAmmo_Autocannon_Sabot.jobString>
 	
 	<!-- EN: make autocannon shell (HE) x100 -->
-	<MakeAmmo_AutocannonGrenade_HE.label>make autocannon shell (HE) x100</MakeAmmo_AutocannonGrenade_HE.label>
+	<MakeAmmo_AutocannonGrenade_HE.label>hacer carcasa de autocañon (HE) x100</MakeAmmo_AutocannonGrenade_HE.label>
 	<!-- EN: Craft 100 autocannon shell (HE). -->
-	<MakeAmmo_AutocannonGrenade_HE.description>Craft 100 autocannon shell (HE).</MakeAmmo_AutocannonGrenade_HE.description>
+	<MakeAmmo_AutocannonGrenade_HE.description>Fabrica 100 carcasas de autocañon (HE).</MakeAmmo_AutocannonGrenade_HE.description>
 	<!-- EN: Making autocannon shell (HE). -->
-	<MakeAmmo_AutocannonGrenade_HE.jobString>Making autocannon shell (HE).</MakeAmmo_AutocannonGrenade_HE.jobString>
+	<MakeAmmo_AutocannonGrenade_HE.jobString>Fabricando carcasas de autocañon (HE).</MakeAmmo_AutocannonGrenade_HE.jobString>
 	
 	<!-- EN: make autocannon shell (HE Time-Fuzed) x100 -->
-	<MakeAmmo_AutocannonGrenade_HE_TFuzed.label>make autocannon shell (HE Time-Fuzed) x100</MakeAmmo_AutocannonGrenade_HE_TFuzed.label>
+	<MakeAmmo_AutocannonGrenade_HE_TFuzed.label>hacer carcasa de autocañon (HE con espoleta temporizada) x100</MakeAmmo_AutocannonGrenade_HE_TFuzed.label>
 	<!-- EN: Craft 100 autocannon shell (HE Time-Fuzed). -->
-	<MakeAmmo_AutocannonGrenade_HE_TFuzed.description>Craft 100 autocannon shell (HE Time-Fuzed).</MakeAmmo_AutocannonGrenade_HE_TFuzed.description>
+	<MakeAmmo_AutocannonGrenade_HE_TFuzed.description>Fabrica 100 carcasas de autocañon (HE con espoleta temporizada).</MakeAmmo_AutocannonGrenade_HE_TFuzed.description>
 	<!-- EN: Making autocannon shell (HE Time-Fuzed). -->
-	<MakeAmmo_AutocannonGrenade_HE_TFuzed.jobString>Making autocannon shell (HE Time-Fuzed).</MakeAmmo_AutocannonGrenade_HE_TFuzed.jobString>
+	<MakeAmmo_AutocannonGrenade_HE_TFuzed.jobString>Fabricando carcasas de autocañon (HE con espoleta temporizada).</MakeAmmo_AutocannonGrenade_HE_TFuzed.jobString>
 	
 	<!-- EN: make autocannon shell (HEDP) x100 -->
-	<MakeAmmo_AutocannonGrenade_HEDP.label>make autocannon shell (HEDP) x100</MakeAmmo_AutocannonGrenade_HEDP.label>
+	<MakeAmmo_AutocannonGrenade_HEDP.label>hacer carcasa de autocañon (HEDP) x100</MakeAmmo_AutocannonGrenade_HEDP.label>
 	<!-- EN: Craft 100 autocannon shell (HEDP). -->
-	<MakeAmmo_AutocannonGrenade_HEDP.description>Craft 100 autocannon shell (HEDP).</MakeAmmo_AutocannonGrenade_HEDP.description>
+	<MakeAmmo_AutocannonGrenade_HEDP.description>Fabrica 100 carcasas de autocañon (HEDP).</MakeAmmo_AutocannonGrenade_HEDP.description>
 	<!-- EN: Making autocannon shell (HEDP). -->
-	<MakeAmmo_AutocannonGrenade_HEDP.jobString>Making autocannon shell (HEDP).</MakeAmmo_AutocannonGrenade_HEDP.jobString>
+	<MakeAmmo_AutocannonGrenade_HEDP.jobString>Fabricando carcasas de autocañon (HEDP).</MakeAmmo_AutocannonGrenade_HEDP.jobString>
 	
 	<!-- EN: make autocannon shell (EMP) x100 -->
-	<MakeAmmo_AutocannonGrenade_EMP.label>make autocannon shell (EMP) x100</MakeAmmo_AutocannonGrenade_EMP.label>
+	<MakeAmmo_AutocannonGrenade_EMP.label>hacer carcasa de autocañon (PEM) x100</MakeAmmo_AutocannonGrenade_EMP.label>
 	<!-- EN: Craft 100 autocannon shell (EMP). -->
-	<MakeAmmo_AutocannonGrenade_EMP.description>Craft 100 autocannon shell (EMP).</MakeAmmo_AutocannonGrenade_EMP.description>
+	<MakeAmmo_AutocannonGrenade_EMP.description>Fabrica 100 carcasas de autocañon (PEM).</MakeAmmo_AutocannonGrenade_EMP.description>
 	<!-- EN: Making autocannon shell (EMP). -->
-	<MakeAmmo_AutocannonGrenade_EMP.jobString>Making autocannon shell (EMP).</MakeAmmo_AutocannonGrenade_EMP.jobString>
+	<MakeAmmo_AutocannonGrenade_EMP.jobString>Fabricando carcasas de autocañon (PEM).</MakeAmmo_AutocannonGrenade_EMP.jobString>
 	
 	<!-- EN: make autocannon shell (Smoke) x100 -->
-	<MakeAmmo_AutocannonGrenade_Smoke.label>make autocannon shell (Smoke) x100</MakeAmmo_AutocannonGrenade_Smoke.label>
+	<MakeAmmo_AutocannonGrenade_Smoke.label>hacer carcasa de autocañon (humo) x100</MakeAmmo_AutocannonGrenade_Smoke.label>
 	<!-- EN: Craft 100 autocannon shell (Smoke). -->
-	<MakeAmmo_AutocannonGrenade_Smoke.description>Craft 100 autocannon shell (Smoke).</MakeAmmo_AutocannonGrenade_Smoke.description>
+	<MakeAmmo_AutocannonGrenade_Smoke.description>Fabrica 100 carcasas de autocañon (humo).</MakeAmmo_AutocannonGrenade_Smoke.description>
 	<!-- EN: Making autocannon shell (Smoke). -->
-	<MakeAmmo_AutocannonGrenade_Smoke.jobString>Making autocannon shell (Smoke).</MakeAmmo_AutocannonGrenade_Smoke.jobString>
+	<MakeAmmo_AutocannonGrenade_Smoke.jobString>Fabricando carcasas de autocañon (humo).</MakeAmmo_AutocannonGrenade_Smoke.jobString>
 </LanguageData>

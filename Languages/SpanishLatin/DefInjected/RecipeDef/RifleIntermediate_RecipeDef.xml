@@ -2,44 +2,44 @@
 	<!-- Defs\Ammo\Generic\RifleIntermediate.xml -->
 	
 	<!-- EN: make intermediate rifle (FMJ) cartridge x500 -->
-	<MakeAmmo_RifleIntermediate_FMJ.label>make intermediate rifle (FMJ) cartridge x500</MakeAmmo_RifleIntermediate_FMJ.label>
+	<MakeAmmo_RifleIntermediate_FMJ.label>fabricar cartucho de rifle intermedio (FMJ) x500</MakeAmmo_RifleIntermediate_FMJ.label>
 	<!-- EN: Craft 500 intermediate rifle (FMJ) cartridges. -->
-	<MakeAmmo_RifleIntermediate_FMJ.description>Craft 500 intermediate rifle (FMJ) cartridges.</MakeAmmo_RifleIntermediate_FMJ.description>
+	<MakeAmmo_RifleIntermediate_FMJ.description>Fabrica 500 cartuchos de rifle intermedio (FMJ).</MakeAmmo_RifleIntermediate_FMJ.description>
 	<!-- EN: Making intermediate rifle (FMJ) cartridges. -->
-	<MakeAmmo_RifleIntermediate_FMJ.jobString>Making intermediate rifle (FMJ) cartridges.</MakeAmmo_RifleIntermediate_FMJ.jobString>
+	<MakeAmmo_RifleIntermediate_FMJ.jobString>Fabricando cartuchos de rifle intermedio (FMJ).</MakeAmmo_RifleIntermediate_FMJ.jobString>
 	
 	<!-- EN: make intermediate rifle (AP) cartridge x500 -->
-	<MakeAmmo_RifleIntermediate_AP.label>make intermediate rifle (AP) cartridge x500</MakeAmmo_RifleIntermediate_AP.label>
+	<MakeAmmo_RifleIntermediate_AP.label>fabricar cartucho de rifle intermedio (AP) x500</MakeAmmo_RifleIntermediate_AP.label>
 	<!-- EN: Craft 500 intermediate rifle (AP) cartridges. -->
-	<MakeAmmo_RifleIntermediate_AP.description>Craft 500 intermediate rifle (AP) cartridges.</MakeAmmo_RifleIntermediate_AP.description>
+	<MakeAmmo_RifleIntermediate_AP.description>Fabrica 500 cartuchos de rifle intermedio (AP).</MakeAmmo_RifleIntermediate_AP.description>
 	<!-- EN: Making intermediate rifle (AP) cartridges. -->
-	<MakeAmmo_RifleIntermediate_AP.jobString>Making intermediate rifle (AP) cartridges.</MakeAmmo_RifleIntermediate_AP.jobString>
+	<MakeAmmo_RifleIntermediate_AP.jobString>Fabricando cartuchos de rifle intermedio (AP).</MakeAmmo_RifleIntermediate_AP.jobString>
 	
 	<!-- EN: make intermediate rifle (HP) cartridge x500 -->
-	<MakeAmmo_RifleIntermediate_HP.label>make intermediate rifle (HP) cartridge x500</MakeAmmo_RifleIntermediate_HP.label>
+	<MakeAmmo_RifleIntermediate_HP.label>fabricar cartucho de rifle intermedio (HP) x500</MakeAmmo_RifleIntermediate_HP.label>
 	<!-- EN: Craft 500 intermediate rifle (HP) cartridges. -->
-	<MakeAmmo_RifleIntermediate_HP.description>Craft 500 intermediate rifle (HP) cartridges.</MakeAmmo_RifleIntermediate_HP.description>
+	<MakeAmmo_RifleIntermediate_HP.description>Fabrica 500 cartuchos de rifle intermedio (HP).</MakeAmmo_RifleIntermediate_HP.description>
 	<!-- EN: Making intermediate rifle (HP) cartridges. -->
-	<MakeAmmo_RifleIntermediate_HP.jobString>Making intermediate rifle (HP) cartridges.</MakeAmmo_RifleIntermediate_HP.jobString>
+	<MakeAmmo_RifleIntermediate_HP.jobString>Fabricando cartuchos de rifle intermedio (HP).</MakeAmmo_RifleIntermediate_HP.jobString>
 	
 	<!-- EN: make intermediate rifle (AP-I) cartridge x500 -->
-	<MakeAmmo_RifleIntermediate_Incendiary.label>make intermediate rifle (AP-I) cartridge x500</MakeAmmo_RifleIntermediate_Incendiary.label>
+	<MakeAmmo_RifleIntermediate_Incendiary.label>fabricar cartucho de rifle intermedio (AP-I) x500</MakeAmmo_RifleIntermediate_Incendiary.label>
 	<!-- EN: Craft 500 intermediate rifle (AP-I) cartridges. -->
-	<MakeAmmo_RifleIntermediate_Incendiary.description>Craft 500 intermediate rifle (AP-I) cartridges.</MakeAmmo_RifleIntermediate_Incendiary.description>
+	<MakeAmmo_RifleIntermediate_Incendiary.description>Fabrica 500 cartuchos de rifle intermedio (AP-I).</MakeAmmo_RifleIntermediate_Incendiary.description>
 	<!-- EN: Making intermediate rifle (AP-I) cartridges. -->
-	<MakeAmmo_RifleIntermediate_Incendiary.jobString>Making intermediate rifle (AP-I) cartridges.</MakeAmmo_RifleIntermediate_Incendiary.jobString>
+	<MakeAmmo_RifleIntermediate_Incendiary.jobString>Fabricando cartuchos de rifle intermedio (AP-I).</MakeAmmo_RifleIntermediate_Incendiary.jobString>
 	
 	<!-- EN: make intermediate rifle (HE) cartridge x500 -->
-	<MakeAmmo_RifleIntermediate_HE.label>make intermediate rifle (HE) cartridge x500</MakeAmmo_RifleIntermediate_HE.label>
+	<MakeAmmo_RifleIntermediate_HE.label>fabricar cartucho de rifle intermedio (HE) x500</MakeAmmo_RifleIntermediate_HE.label>
 	<!-- EN: Craft 500 intermediate rifle (HE) cartridges. -->
-	<MakeAmmo_RifleIntermediate_HE.description>Craft 500 intermediate rifle (HE) cartridges.</MakeAmmo_RifleIntermediate_HE.description>
+	<MakeAmmo_RifleIntermediate_HE.description>Fabrica 500 cartuchos de rifle intermedio (HE).</MakeAmmo_RifleIntermediate_HE.description>
 	<!-- EN: Making intermediate rifle (HE) cartridges. -->
-	<MakeAmmo_RifleIntermediate_HE.jobString>Making intermediate rifle (HE) cartridges.</MakeAmmo_RifleIntermediate_HE.jobString>
+	<MakeAmmo_RifleIntermediate_HE.jobString>Fabricando cartuchos de rifle intermedio (HE).</MakeAmmo_RifleIntermediate_HE.jobString>
 	
 	<!-- EN: make intermediate rifle (Sabot) cartridge x500 -->
-	<MakeAmmo_RifleIntermediate_Sabot.label>make intermediate rifle (Sabot) cartridge x500</MakeAmmo_RifleIntermediate_Sabot.label>
+	<MakeAmmo_RifleIntermediate_Sabot.label>fabricar cartucho de rifle intermedio (sabot) x500</MakeAmmo_RifleIntermediate_Sabot.label>
 	<!-- EN: Craft 500 intermediate rifle (Sabot) cartridges. -->
-	<MakeAmmo_RifleIntermediate_Sabot.description>Craft 500 intermediate rifle (Sabot) cartridges.</MakeAmmo_RifleIntermediate_Sabot.description>
+	<MakeAmmo_RifleIntermediate_Sabot.description>Fabrica 500 cartuchos de rifle intermedio (sabot).</MakeAmmo_RifleIntermediate_Sabot.description>
 	<!-- EN: Making intermediate rifle (Sabot) cartridges. -->
-	<MakeAmmo_RifleIntermediate_Sabot.jobString>Making intermediate rifle (Sabot) cartridges.</MakeAmmo_RifleIntermediate_Sabot.jobString>
+	<MakeAmmo_RifleIntermediate_Sabot.jobString>Fabricando cartuchos de rifle intermedio (sabot).</MakeAmmo_RifleIntermediate_Sabot.jobString>
 </LanguageData>

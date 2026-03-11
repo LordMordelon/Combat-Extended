@@ -2,30 +2,30 @@
 	<!-- ModPatches\Infinity Rim Ariadna\Defs\Infinity Rim Ariadna\Ammo\Rifle.xml -->
 	
 	<!-- EN: make 5.45x39mm Soviet (Teseum) cartridge x500 -->
-	<MakeAmmo_545x39mmSoviet_Teseum.label>make 5.45x39mm Soviet (Teseum) cartridge x500</MakeAmmo_545x39mmSoviet_Teseum.label>
+	<MakeAmmo_545x39mmSoviet_Teseum.label>hacer cartucho sovietico 5.45x39 mm (Teseum) x500</MakeAmmo_545x39mmSoviet_Teseum.label>
 	<!-- EN: Craft 500 5.45x39mm Soviet (Teseum) cartridges. -->
-	<MakeAmmo_545x39mmSoviet_Teseum.description>Craft 500 5.45x39mm Soviet (Teseum) cartridges.</MakeAmmo_545x39mmSoviet_Teseum.description>
+	<MakeAmmo_545x39mmSoviet_Teseum.description>Fabrica 500 cartuchos sovieticos 5.45x39 mm (Teseum).</MakeAmmo_545x39mmSoviet_Teseum.description>
 	<!-- EN: Making 5.45x39mm Soviet (Teseum) cartridges. -->
-	<MakeAmmo_545x39mmSoviet_Teseum.jobString>Making 5.45x39mm Soviet (Teseum) cartridges.</MakeAmmo_545x39mmSoviet_Teseum.jobString>
+	<MakeAmmo_545x39mmSoviet_Teseum.jobString>Fabricando cartuchos sovieticos 5.45x39 mm (Teseum).</MakeAmmo_545x39mmSoviet_Teseum.jobString>
 	
 	<!-- EN: make intermediate rifle (Teseum) cartridge x500 -->
-	<MakeAmmo_RifleIntermediate_Teseum.label>make intermediate rifle (Teseum) cartridge x500</MakeAmmo_RifleIntermediate_Teseum.label>
+	<MakeAmmo_RifleIntermediate_Teseum.label>hacer cartucho de rifle intermedio (Teseum) x500</MakeAmmo_RifleIntermediate_Teseum.label>
 	<!-- EN: Craft 500 intermediate rifle (Teseum) cartridges. -->
-	<MakeAmmo_RifleIntermediate_Teseum.description>Craft 500 intermediate rifle (Teseum) cartridges.</MakeAmmo_RifleIntermediate_Teseum.description>
+	<MakeAmmo_RifleIntermediate_Teseum.description>Fabrica 500 cartuchos de rifle intermedio (Teseum).</MakeAmmo_RifleIntermediate_Teseum.description>
 	<!-- EN: Making intermediate rifle (Teseum) cartridges. -->
-	<MakeAmmo_RifleIntermediate_Teseum.jobString>Making intermediate rifle (Teseum) cartridges.</MakeAmmo_RifleIntermediate_Teseum.jobString>
+	<MakeAmmo_RifleIntermediate_Teseum.jobString>Fabricando cartuchos de rifle intermedio (Teseum).</MakeAmmo_RifleIntermediate_Teseum.jobString>
 	
 	<!-- EN: make 7.62x54mmR (Teseum) cartridge x500 -->
-	<MakeAmmo_762x54mmR_Teseum.label>make 7.62x54mmR (Teseum) cartridge x500</MakeAmmo_762x54mmR_Teseum.label>
+	<MakeAmmo_762x54mmR_Teseum.label>hacer cartucho 7.62x54mmR (Teseum) x500</MakeAmmo_762x54mmR_Teseum.label>
 	<!-- EN: Craft 500 7.62x54mmR (Teseum) cartridges. -->
-	<MakeAmmo_762x54mmR_Teseum.description>Craft 500 7.62x54mmR (Teseum) cartridges.</MakeAmmo_762x54mmR_Teseum.description>
+	<MakeAmmo_762x54mmR_Teseum.description>Fabrica 500 cartuchos 7.62x54mmR (Teseum).</MakeAmmo_762x54mmR_Teseum.description>
 	<!-- EN: Making 7.62x54mmR (Teseum) cartridges. -->
-	<MakeAmmo_762x54mmR_Teseum.jobString>Making 7.62x54mmR (Teseum) cartridges.</MakeAmmo_762x54mmR_Teseum.jobString>
+	<MakeAmmo_762x54mmR_Teseum.jobString>Fabricando cartuchos 7.62x54mmR (Teseum).</MakeAmmo_762x54mmR_Teseum.jobString>
 	
 	<!-- EN: make rifle (Teseum) cartridge x500 -->
-	<MakeAmmo_Rifle_Teseum.label>make rifle (Teseum) cartridge x500</MakeAmmo_Rifle_Teseum.label>
+	<MakeAmmo_Rifle_Teseum.label>hacer cartucho de rifle (Teseum) x500</MakeAmmo_Rifle_Teseum.label>
 	<!-- EN: Craft 500 rifle (Teseum) cartridges. -->
-	<MakeAmmo_Rifle_Teseum.description>Craft 500 rifle (Teseum) cartridges.</MakeAmmo_Rifle_Teseum.description>
+	<MakeAmmo_Rifle_Teseum.description>Fabrica 500 cartuchos de rifle (Teseum).</MakeAmmo_Rifle_Teseum.description>
 	<!-- EN: Making rifle (Teseum) cartridges. -->
-	<MakeAmmo_Rifle_Teseum.jobString>Making rifle (Teseum) cartridges.</MakeAmmo_Rifle_Teseum.jobString>
+	<MakeAmmo_Rifle_Teseum.jobString>Fabricando cartuchos de rifle (Teseum).</MakeAmmo_Rifle_Teseum.jobString>
 </LanguageData>

@@ -1,12 +1,12 @@
 <LanguageData>
 	<!-- ModPatches\Vanilla Factions Expanded - Empire\Defs\Vanilla Factions Expanded - Empire\Ammo\ThingDefs_ShuttleTurret.xml -->
 	<!-- EN: double autocannon -->
-	<VFEI_TurretArmoredShuttle_CE.label>double autocannon</VFEI_TurretArmoredShuttle_CE.label>
+	<VFEI_TurretArmoredShuttle_CE.label>autocañon doble</VFEI_TurretArmoredShuttle_CE.label>
 	<!-- EN: A powerful, twin-linked autocannon. -->
-	<VFEI_TurretArmoredShuttle_CE.description>A powerful, twin-linked autocannon.</VFEI_TurretArmoredShuttle_CE.description>
+	<VFEI_TurretArmoredShuttle_CE.description>Un autocañon doble de gran potencia.</VFEI_TurretArmoredShuttle_CE.description>
 	<!-- EN: ㅤ -->
 	<VFEI_TurretArmoredShuttle_CE.verbs.0.label>ㅤ</VFEI_TurretArmoredShuttle_CE.verbs.0.label>
 	
 	<!-- EN: autocannon shell -->
-	<Bullet_ArmoredShuttleTurret_CE.label>autocannon shell</Bullet_ArmoredShuttleTurret_CE.label>
+	<Bullet_ArmoredShuttleTurret_CE.label>carcasa de autocañon</Bullet_ArmoredShuttleTurret_CE.label>
 </LanguageData>
