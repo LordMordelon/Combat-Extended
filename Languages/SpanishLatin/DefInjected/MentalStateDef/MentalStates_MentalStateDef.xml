@@ -1,24 +1,24 @@
 <LanguageData>
 	<!-- Defs\MentalStateDefs\MentalStates.xml -->
 	<!-- EN: combat frenzy -->
-	<CombatFrenzy.label>combat frenzy</CombatFrenzy.label>
+	<CombatFrenzy.label>frenesi de combate</CombatFrenzy.label>
 	<!-- EN: frenzy -->
-	<CombatFrenzy.beginLetterLabel>frenzy</CombatFrenzy.beginLetterLabel>
+	<CombatFrenzy.beginLetterLabel>frenesi</CombatFrenzy.beginLetterLabel>
 	<!-- EN: {0} has become frenzied from suppression! -->
-	<CombatFrenzy.beginLetter>{0} has become frenzied from suppression!</CombatFrenzy.beginLetter>
+	<CombatFrenzy.beginLetter>!{0} entro en frenesi por la supresion!</CombatFrenzy.beginLetter>
 	<!-- EN: {0}'s combat frenzy has come to an end. -->
-	<CombatFrenzy.recoveryMessage>{0}'s combat frenzy has come to an end.</CombatFrenzy.recoveryMessage>
+	<CombatFrenzy.recoveryMessage>El frenesi de combate de {0} ha terminado.</CombatFrenzy.recoveryMessage>
 	<!-- EN: Mental state: Combat frenzy -->
-	<CombatFrenzy.baseInspectLine>Mental state: Combat frenzy</CombatFrenzy.baseInspectLine>
+	<CombatFrenzy.baseInspectLine>Estado mental: Frenesi de combate</CombatFrenzy.baseInspectLine>
 	
 	<!-- EN: shell-shock -->
-	<ShellShock.label>shell-shock</ShellShock.label>
+	<ShellShock.label>shock de combate</ShellShock.label>
 	<!-- EN: shell-shock -->
-	<ShellShock.beginLetterLabel>shell-shock</ShellShock.beginLetterLabel>
+	<ShellShock.beginLetterLabel>shock de combate</ShellShock.beginLetterLabel>
 	<!-- EN: {0} has become shell-shocked from suppression! -->
-	<ShellShock.beginLetter>{0} has become shell-shocked from suppression!</ShellShock.beginLetter>
+	<ShellShock.beginLetter>!{0} sufrio shock de combate por la supresion!</ShellShock.beginLetter>
 	<!-- EN: {0}'s shell-shock has come to an end. -->
-	<ShellShock.recoveryMessage>{0}'s shell-shock has come to an end.</ShellShock.recoveryMessage>
+	<ShellShock.recoveryMessage>El shock de combate de {0} ha terminado.</ShellShock.recoveryMessage>
 	<!-- EN: Mental state: Shell-shocked -->
-	<ShellShock.baseInspectLine>Mental state: Shell-shocked</ShellShock.baseInspectLine>
+	<ShellShock.baseInspectLine>Estado mental: En shock de combate</ShellShock.baseInspectLine>
 </LanguageData>

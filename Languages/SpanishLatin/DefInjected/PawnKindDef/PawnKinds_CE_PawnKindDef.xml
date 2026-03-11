@@ -1,9 +1,9 @@
 <LanguageData>
 	<!-- Defs\PawnKindDefs\PawnKinds_CE.xml -->
 	<!-- EN: mercenary machine gunner -->
-	<CE_Mercenary_MachineGunner.label>mercenary machine gunner</CE_Mercenary_MachineGunner.label>
+	<CE_Mercenary_MachineGunner.label>ametrallador mercenario</CE_Mercenary_MachineGunner.label>
 	<!-- EN: boomer -->
-	<CE_Tribal_Grenadier.label>boomer</CE_Tribal_Grenadier.label>
+	<CE_Tribal_Grenadier.label>bombardero</CE_Tribal_Grenadier.label>
 	<!-- EN: thunderer -->
-	<CE_Tribal_Gunner.label>thunderer</CE_Tribal_Gunner.label>
+	<CE_Tribal_Gunner.label>tronador</CE_Tribal_Gunner.label>
 </LanguageData>

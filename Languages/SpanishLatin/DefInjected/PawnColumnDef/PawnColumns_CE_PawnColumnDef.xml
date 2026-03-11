@@ -1,9 +1,9 @@
 <LanguageData>
 	<!-- Defs\Misc\PawnColumnDefs\PawnColumns_CE.xml -->
 	<!-- EN: current loadout -->
-	<Loadout.label>current loadout</Loadout.label>
+	<Loadout.label>equipamiento actual</Loadout.label>
 	<!-- EN: mass -->
-	<CEMass.label>mass</CEMass.label>
+	<CEMass.label>masa</CEMass.label>
 	<!-- EN: bulk -->
-	<CEBulk.label>bulk</CEBulk.label>
+	<CEBulk.label>volumen</CEBulk.label>
 </LanguageData>
