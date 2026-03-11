@@ -2,8 +2,8 @@
 	<!-- Defs\Ammo\Generic\Shell_Cannon.xml -->
 	
 	<!-- EN: light cannon shell -->
-	<AmmoSet_LightCannon.label>proyectil de canion ligero</AmmoSet_LightCannon.label>
+	<AmmoSet_LightCannon.label>proyectil de cañon ligero</AmmoSet_LightCannon.label>
 	
 	<!-- EN: heavy cannon shell -->
-	<AmmoSet_HeavyCannon.label>proyectil de canion pesado</AmmoSet_HeavyCannon.label>
+	<AmmoSet_HeavyCannon.label>proyectil de cañon pesado</AmmoSet_HeavyCannon.label>
 </LanguageData>

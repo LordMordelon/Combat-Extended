@@ -4,25 +4,25 @@
 	<!-- EN: artillery shell (HE) -->
 	<Ammo_ArtilleryShell_HE.label>proyectil de artilleria (HE)</Ammo_ArtilleryShell_HE.label>
 	<!-- EN: Large cannon shell used by howitzers. -->
-	<Ammo_ArtilleryShell_HE.description>Proyectil de canion grande usado por obuses.</Ammo_ArtilleryShell_HE.description>
+	<Ammo_ArtilleryShell_HE.description>Proyectil de cañon grande usado por obuses.</Ammo_ArtilleryShell_HE.description>
 	
 	<!-- EN: artillery shell (Airburst) -->
 	<Ammo_ArtilleryShell_HE_HFuzed.label>proyectil de artilleria (rafaga aerea)</Ammo_ArtilleryShell_HE_HFuzed.label>
 	<!-- EN: Large cannon shell used by howitzers. -->
-	<Ammo_ArtilleryShell_HE_HFuzed.description>Proyectil de canion grande usado por obuses.</Ammo_ArtilleryShell_HE_HFuzed.description>
+	<Ammo_ArtilleryShell_HE_HFuzed.description>Proyectil de cañon grande usado por obuses.</Ammo_ArtilleryShell_HE_HFuzed.description>
 	
 	<!-- EN: artillery shell (Incendiary) -->
 	<Ammo_ArtilleryShell_Incendiary.label>proyectil de artilleria (incendiario)</Ammo_ArtilleryShell_Incendiary.label>
 	<!-- EN: Large cannon shell used by howitzers. -->
-	<Ammo_ArtilleryShell_Incendiary.description>Proyectil de canion grande usado por obuses.</Ammo_ArtilleryShell_Incendiary.description>
+	<Ammo_ArtilleryShell_Incendiary.description>Proyectil de cañon grande usado por obuses.</Ammo_ArtilleryShell_Incendiary.description>
 	
 	<!-- EN: artillery shell (EMP) -->
 	<Ammo_ArtilleryShell_EMP.label>proyectil de artilleria (PEM)</Ammo_ArtilleryShell_EMP.label>
 	<!-- EN: Large cannon shell used by howitzers. -->
-	<Ammo_ArtilleryShell_EMP.description>Proyectil de canion grande usado por obuses.</Ammo_ArtilleryShell_EMP.description>
+	<Ammo_ArtilleryShell_EMP.description>Proyectil de cañon grande usado por obuses.</Ammo_ArtilleryShell_EMP.description>
 	
 	<!-- EN: artillery shell (Smoke) -->
 	<Ammo_ArtilleryShell_Smoke.label>proyectil de artilleria (humo)</Ammo_ArtilleryShell_Smoke.label>
 	<!-- EN: Large cannon shell used by howitzers. -->
-	<Ammo_ArtilleryShell_Smoke.description>Proyectil de canion grande usado por obuses.</Ammo_ArtilleryShell_Smoke.description>
+	<Ammo_ArtilleryShell_Smoke.description>Proyectil de cañon grande usado por obuses.</Ammo_ArtilleryShell_Smoke.description>
 </LanguageData>

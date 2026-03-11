@@ -2,52 +2,52 @@
 	<!-- Defs\Ammo\Generic\Shell_Cannon.xml -->
 	
 	<!-- EN: light cannon shell (AP) -->
-	<Ammo_LightCannonShell_AP.label>proyectil de canion ligero (AP)</Ammo_LightCannonShell_AP.label>
+	<Ammo_LightCannonShell_AP.label>proyectil de cañon ligero (AP)</Ammo_LightCannonShell_AP.label>
 	<!-- EN: Large caliber shell used by autocannons and anti-aircraft cannons. -->
 	<Ammo_LightCannonShell_AP.description>Proyectil de gran calibre usado por autocanones y caniones antiaereos.</Ammo_LightCannonShell_AP.description>
 	
 	<!-- EN: light cannon shell (HE) -->
-	<Ammo_LightCannonShell_HE.label>proyectil de canion ligero (HE)</Ammo_LightCannonShell_HE.label>
+	<Ammo_LightCannonShell_HE.label>proyectil de cañon ligero (HE)</Ammo_LightCannonShell_HE.label>
 	<!-- EN: Large caliber shell used by autocannons and anti-aircraft cannons. -->
 	<Ammo_LightCannonShell_HE.description>Proyectil de gran calibre usado por autocanones y caniones antiaereos.</Ammo_LightCannonShell_HE.description>
 	
 	<!-- EN: light cannon shell (HE Time Fuzed) -->
-	<Ammo_LightCannonShell_HE_TFuzed.label>proyectil de canion ligero (HE con espoleta temporizada)</Ammo_LightCannonShell_HE_TFuzed.label>
+	<Ammo_LightCannonShell_HE_TFuzed.label>proyectil de cañon ligero (HE con espoleta temporizada)</Ammo_LightCannonShell_HE_TFuzed.label>
 	<!-- EN: Large caliber shell used by autocannons and anti-aircraft cannons. -->
 	<Ammo_LightCannonShell_HE_TFuzed.description>Proyectil de gran calibre usado por autocanones y caniones antiaereos.</Ammo_LightCannonShell_HE_TFuzed.description>
 	
 	<!-- EN: light cannon shell (Sabot) -->
-	<Ammo_LightCannonShell_Sabot.label>proyectil de canion ligero (saboteada)</Ammo_LightCannonShell_Sabot.label>
+	<Ammo_LightCannonShell_Sabot.label>proyectil de cañon ligero (sabot)</Ammo_LightCannonShell_Sabot.label>
 	<!-- EN: Large caliber shell used by autocannons and anti-aircraft cannons. -->
 	<Ammo_LightCannonShell_Sabot.description>Proyectil de gran calibre usado por autocanones y caniones antiaereos.</Ammo_LightCannonShell_Sabot.description>
 	
 	<!-- EN: heavy cannon shell (HEAT) -->
-	<Ammo_HeavyCannonShell_HEAT.label>proyectil de canion pesado (HEAT)</Ammo_HeavyCannonShell_HEAT.label>
+	<Ammo_HeavyCannonShell_HEAT.label>proyectil de cañon pesado (HEAT)</Ammo_HeavyCannonShell_HEAT.label>
 	<!-- EN: High-caliber cannon shell typically used by anti-armor weaponry. -->
-	<Ammo_HeavyCannonShell_HEAT.description>Proyectil de canion de alto calibre usado normalmente por armamento antiblindaje.</Ammo_HeavyCannonShell_HEAT.description>
+	<Ammo_HeavyCannonShell_HEAT.description>Proyectil de cañon de alto calibre usado normalmente por armamento antiblindaje.</Ammo_HeavyCannonShell_HEAT.description>
 	
 	<!-- EN: heavy cannon shell (AP) -->
-	<Ammo_HeavyCannonShell_AP.label>proyectil de canion pesado (AP)</Ammo_HeavyCannonShell_AP.label>
+	<Ammo_HeavyCannonShell_AP.label>proyectil de cañon pesado (AP)</Ammo_HeavyCannonShell_AP.label>
 	<!-- EN: Relatively small cannon shell. -->
-	<Ammo_HeavyCannonShell_AP.description>Proyectil de canion relativamente pequeno.</Ammo_HeavyCannonShell_AP.description>
+	<Ammo_HeavyCannonShell_AP.description>Proyectil de cañon relativamente pequeno.</Ammo_HeavyCannonShell_AP.description>
 	
 	<!-- EN: heavy cannon shell (HE) -->
-	<Ammo_HeavyCannonShell_HE.label>proyectil de canion pesado (HE)</Ammo_HeavyCannonShell_HE.label>
+	<Ammo_HeavyCannonShell_HE.label>proyectil de cañon pesado (HE)</Ammo_HeavyCannonShell_HE.label>
 	<!-- EN: Relatively small cannon shell. -->
-	<Ammo_HeavyCannonShell_HE.description>Proyectil de canion relativamente pequeno.</Ammo_HeavyCannonShell_HE.description>
+	<Ammo_HeavyCannonShell_HE.description>Proyectil de cañon relativamente pequeno.</Ammo_HeavyCannonShell_HE.description>
 	
 	<!-- EN: heavy cannon shell (HE Time-Fuzed) -->
-	<Ammo_HeavyCannonShell_HE_TFuzed.label>proyectil de canion pesado (HE con espoleta temporizada)</Ammo_HeavyCannonShell_HE_TFuzed.label>
+	<Ammo_HeavyCannonShell_HE_TFuzed.label>proyectil de cañon pesado (HE con espoleta temporizada)</Ammo_HeavyCannonShell_HE_TFuzed.label>
 	<!-- EN: Relatively small cannon shell. -->
-	<Ammo_HeavyCannonShell_HE_TFuzed.description>Proyectil de canion relativamente pequeno.</Ammo_HeavyCannonShell_HE_TFuzed.description>
+	<Ammo_HeavyCannonShell_HE_TFuzed.description>Proyectil de cañon relativamente pequeno.</Ammo_HeavyCannonShell_HE_TFuzed.description>
 	
 	<!-- EN: heavy cannon shell (APCR) -->
-	<Ammo_HeavyCannonShell_APCR.label>proyectil de canion pesado (APCR)</Ammo_HeavyCannonShell_APCR.label>
+	<Ammo_HeavyCannonShell_APCR.label>proyectil de cañon pesado (APCR)</Ammo_HeavyCannonShell_APCR.label>
 	<!-- EN: Relatively small cannon shell. -->
-	<Ammo_HeavyCannonShell_APCR.description>Proyectil de canion relativamente pequeno.</Ammo_HeavyCannonShell_APCR.description>
+	<Ammo_HeavyCannonShell_APCR.description>Proyectil de cañon relativamente pequeno.</Ammo_HeavyCannonShell_APCR.description>
 	
 	<!-- EN: heavy cannon shell (EMP) -->
-	<Ammo_HeavyCannonShell_EMP.label>proyectil de canion pesado (PEM)</Ammo_HeavyCannonShell_EMP.label>
+	<Ammo_HeavyCannonShell_EMP.label>proyectil de cañon pesado (PEM)</Ammo_HeavyCannonShell_EMP.label>
 	<!-- EN: Relatively small cannon shell. -->
-	<Ammo_HeavyCannonShell_EMP.description>Proyectil de canion relativamente pequeno.</Ammo_HeavyCannonShell_EMP.description>
+	<Ammo_HeavyCannonShell_EMP.description>Proyectil de cañon relativamente pequeno.</Ammo_HeavyCannonShell_EMP.description>
 </LanguageData>
