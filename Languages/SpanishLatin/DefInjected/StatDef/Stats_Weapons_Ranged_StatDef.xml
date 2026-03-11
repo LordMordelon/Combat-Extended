@@ -16,19 +16,19 @@
 	<UBGLInfo.description>Información sobre armas montadas bajo/sobre cañón u otro modo</UBGLInfo.description>
 	
 	<!-- EN: spread -->
-	<ShotSpread.label>dispersi\u00f3n</ShotSpread.label>
+	<ShotSpread.label>dispersión</ShotSpread.label>
 	<!-- EN: Inherent projectile spread. This represents the inherent inaccuracy of the gun and causes random conical deviation that is not influenced by skill. -->
-	<ShotSpread.description>Dispersi\u00f3n inherente de proyectiles. Esto representa la inexactitud inherente del arma y causa desviaci\u00f3n c\u00f3nica aleatoria que no est\u00e1 influenciada por la habilidad.</ShotSpread.description>
+	<ShotSpread.description>Dispersión inherente de proyectiles. Esto representa la inexactitud inherente del arma y causa desviación cónica aleatoria que no está influenciada por la habilidad.</ShotSpread.description>
 	
 	<!-- EN: weapon sway -->
 	<SwayFactor.label>bamboleo del arma</SwayFactor.label>
 	<!-- EN: How difficult the gun is to keep steady. \n\nThe total sway is calculated as:\n(4.5 - shooting accuracy) * weapon sway factor\n\nAiming accuracy influences the sway reduction during aimed shots. For example, at 75% aiming accuracy sway will be reduced to 25%. -->
-	<SwayFactor.description>Qu\u00e9 tan dif\u00edcil es mantener el arma firme. \\n\\nEl bamboleo total se calcula como:\\n(4.5 - shooting accuracy) * weapon sway factor\\n\\nLa precisi\u00f3n de punter\u00eda influye en la reducci\u00f3n del bamboleo durante disparos apuntados. Por ejemplo, con una precisi\u00f3n de punter\u00eda del 75% el bamboleo se reducir\u00e1 al 25%.</SwayFactor.description>
+	<SwayFactor.description>Qué tan difícil es mantener el arma firme. \n\nEl bamboleo total se calcula como:\n(4.5 - shooting accuracy) * weapon sway factor\n\nLa precisión de puntería influye en la reducción del bamboleo durante disparos apuntados. Por ejemplo, con una precisión de puntería del 75% el bamboleo se reducirá al 25%.</SwayFactor.description>
 	
 	<!-- EN: muzzle flash -->
 	<MuzzleFlash.label>destello de boca de fuego</MuzzleFlash.label>
 	<!-- EN: How bright the muzzle flash is.\n\nMuzzle flashes will illuminate a shooter's position in darkness, exposing them to more accurate return fire. Brighter muzzle flashes are easier to target.\n\nPawns will remember the position of the muzzle flash for 5-10 seconds. -->
-	<MuzzleFlash.description>Qu\u00e9 tan brillante es el destello de boca de fuego.\\n\\nLos destellos de boca de fuego iluminar\u00e1n la posici\u00f3n del tirador en la oscuridad, expon\u00e9ndolo a fuego de retorno m\u00e1s preciso. Los destellos m\u00e1s brillantes son m\u00e1s f\u00e1ciles de apuntar.\\n\\nLos peones recordar\u00e1n la posici\u00f3n del destello de boca de fuego durante 5-10 segundos.</MuzzleFlash.description>
+	<MuzzleFlash.description>Qué tan brillante es el destello de boca de fuego.\n\nLos destellos de boca de fuego iluminarán la posición del tirador en la oscuridad, exponiéndolo a fuego de retorno más preciso. Los destellos más brillantes son más fáciles de apuntar.\n\nLos peones recordarán la posición del destello de boca de fuego durante 5-10 segundos.</MuzzleFlash.description>
 	
 	<!-- EN: caliber -->
 	<Caliber.label>calibre</Caliber.label>
@@ -46,14 +46,14 @@
 	<TicksBetweenBurstShots.description>La velocidad a la que este arma lanza proyectiles.</TicksBetweenBurstShots.description>
 	
 	<!-- EN: burst shot count -->
-	<BurstShotCount.label>cantidad de disparos en r\u00e1faga</BurstShotCount.label>
+	<BurstShotCount.label>cantidad de disparos en ráfaga</BurstShotCount.label>
 	<!-- EN: How many projectiles this weapon launch in one burst. -->
-	<BurstShotCount.description>Cu\u00e1ntos proyectiles lanza este arma en una r\u00e1faga.</BurstShotCount.description>
+	<BurstShotCount.description>Cuántos proyectiles lanza este arma en una ráfaga.</BurstShotCount.description>
 	
 	<!-- EN: recoil amount -->
 	<Recoil.label>cantidad de retroceso</Recoil.label>
 	<!-- EN: How much will this weapon recoil upon firing. -->
-	<Recoil.description>Cu\u00e1nto retroceder\u00e1 este arma al disparar.</Recoil.description>
+	<Recoil.description>Cuánto retrocederá este arma al disparar.</Recoil.description>
 	
 	<!-- EN: recoil multiplier -->
 	<CE_RangedWeapon_RecoilMultiplier.label>multiplicador de retroceso</CE_RangedWeapon_RecoilMultiplier.label>
@@ -61,14 +61,14 @@
 	<CE_RangedWeapon_RecoilMultiplier.description>Un multiplicador aplicado al retroceso de esta arma.</CE_RangedWeapon_RecoilMultiplier.description>
 	
 	<!-- EN: magazine capacity -->
-	<MagazineCapacity.label>capacidad de revista</MagazineCapacity.label>
+	<MagazineCapacity.label>capacidad del cargador</MagazineCapacity.label>
 	<!-- EN: How many projectiles this weapon's magazine holds and how long it takes to reload it. -->
-	<MagazineCapacity.description>Cu\u00e1ntos proyectiles almacena la revista de este arma y cu\u00e1nto tarda en recargarse.</MagazineCapacity.description>
+	<MagazineCapacity.description>Cuántos proyectiles almacena el cargador de este arma y cuánto tarda en recargarse.</MagazineCapacity.description>
 	
 	<!-- EN: reload time -->
 	<ReloadTime.label>tiempo de recarga</ReloadTime.label>
 	<!-- EN: How long should this weapon take to reload. -->
-	<ReloadTime.description>Cu\u00e1nto tiempo deber\u00eda tardar este arma en recargarse.</ReloadTime.description>
+	<ReloadTime.description>Cuánto tiempo debería tardar este arma en recargarse.</ReloadTime.description>
 	
 	<!-- EN: reload time multiplier -->
 	<CE_RangedWeapon_ReloadFactor.label>multiplicador de tiempo de recarga</CE_RangedWeapon_ReloadFactor.label>
@@ -78,10 +78,10 @@
 	<!-- EN: ammo consumed per shot -->
 	<ammoConsumedPerShotCount.label>munición consumida por disparo</ammoConsumedPerShotCount.label>
 	<!-- EN: How many units of ammunition this gun consumes for each individual shot.\n\nThis applies to guns with multiple barrels that fire simultaneously with each pull of the trigger, or exotic energy weapons that use up different amounts of energy from a power cell. -->
-	<ammoConsumedPerShotCount.description>Cuántas unidades de munición consume este arma por cada disparo individual.\n\nEsto aplica a armas con múltiples cañones que disparan simultáneamente con cada tiradora del gatillo, o armas de energía exótica que consumen diferentes cantidades de energía de una celda de poder.</ammoConsumedPerShotCount.description>
+	<ammoConsumedPerShotCount.description>Cuántas unidades de munición consume este arma por cada disparo individual.\n\nEsto aplica a armas con múltiples cañones que disparan simultáneamente con cada tirón del gatillo, o armas de energía exótica que consumen diferentes cantidades de energía de una celda de poder.</ammoConsumedPerShotCount.description>
 	
 	<!-- EN: ammo generation per magazine override -->
-	<AmmoGenPerMagOverride.label>anulación de generación de munición por revista</AmmoGenPerMagOverride.label>
+	<AmmoGenPerMagOverride.label>anulación de generación de munición por cargador</AmmoGenPerMagOverride.label>
 	<!-- EN: How many units of ammunition per magazine specified in pawnKindDef should a pawn bring.\n\nPurely used in pawn generation. You should not be able to read this in game. -->
-	<AmmoGenPerMagOverride.description>Cuántas unidades de munición por revista especificadas en pawnKindDef debería traer un peón.\n\nUsado únicamente en generación de peones. No deberías poder leer esto en el juego.</AmmoGenPerMagOverride.description>
+	<AmmoGenPerMagOverride.description>Cuántas unidades de munición por cargador especificadas en pawnKindDef debería traer un peón.\n\nUsado únicamente en generación de peones. No deberías poder leer esto en el juego.</AmmoGenPerMagOverride.description>
 </LanguageData>

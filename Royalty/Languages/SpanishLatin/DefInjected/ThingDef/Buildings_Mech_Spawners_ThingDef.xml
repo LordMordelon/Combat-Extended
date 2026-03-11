@@ -1,7 +1,7 @@
 <LanguageData>
 	<!-- Royalty\Defs\ThingDefs_Buildings\Buildings_Mech_Spawners.xml -->
 	<!-- EN: mech ammo beacon -->
-	<CombatExtended_MechAmmoBeacon.label>mech ammo beacon</CombatExtended_MechAmmoBeacon.label>
+	<CombatExtended_MechAmmoBeacon.label>baliza de munición mecanoide</CombatExtended_MechAmmoBeacon.label>
 	<!-- EN: A mechanoid ammunition drop beacon. When activated, it calls in ammunition to land in drop pods nearby. -->
-	<CombatExtended_MechAmmoBeacon.description>A mechanoid ammunition drop beacon. When activated, it calls in ammunition to land in drop pods nearby.</CombatExtended_MechAmmoBeacon.description>
+	<CombatExtended_MechAmmoBeacon.description>Una baliza de lanzamiento de munición mecanoide. Al activarse, solicita munición para que aterrice en cápsulas cercanas.</CombatExtended_MechAmmoBeacon.description>
 </LanguageData>
