@@ -1,9 +1,9 @@
 <LanguageData>
 	<!-- Anomaly\Defs\Ammo\NerveSpikerBolt.xml -->
 	<!-- EN: make nerve spiker bolts x10 -->
-	<MakeAmmo_NerveSpikerBolt.label>make nerve spiker bolts x10</MakeAmmo_NerveSpikerBolt.label>
+	<MakeAmmo_NerveSpikerBolt.label>hacer virotes perforanervios x10</MakeAmmo_NerveSpikerBolt.label>
 	<!-- EN: Craft 10 nerve spiker bolts. -->
-	<MakeAmmo_NerveSpikerBolt.description>Craft 10 nerve spiker bolts.</MakeAmmo_NerveSpikerBolt.description>
+	<MakeAmmo_NerveSpikerBolt.description>Fabrica 10 virotes perforanervios.</MakeAmmo_NerveSpikerBolt.description>
 	<!-- EN: Making nerve spiker bolts. -->
-	<MakeAmmo_NerveSpikerBolt.jobString>Making nerve spiker bolts.</MakeAmmo_NerveSpikerBolt.jobString>
+	<MakeAmmo_NerveSpikerBolt.jobString>Fabricando virotes perforanervios.</MakeAmmo_NerveSpikerBolt.jobString>
 </LanguageData>

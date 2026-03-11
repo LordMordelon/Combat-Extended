@@ -2,10 +2,10 @@
 	<!-- ModPatches\Vanilla Quests Expanded - Cryptoforge\Defs\Vanilla Quests Expanded - Cryptoforge\VQEC_Ammo_Cryptoforge.xml -->
 	
 	<!-- EN: crypto bolt -->
-	<Ammo_VQEC_CryptoBolt.label>crypto bolt</Ammo_VQEC_CryptoBolt.label>
+	<Ammo_VQEC_CryptoBolt.label>virote cripto</Ammo_VQEC_CryptoBolt.label>
 	<!-- EN: Metal-cored projectiles wrapped in unstable crypto technology contained with an energy field. Capable of dealing both ballistic damage and causing serious hypothermia. -->
-	<Ammo_VQEC_CryptoBolt.description>Metal-cored projectiles wrapped in unstable crypto technology contained with an energy field. Capable of dealing both ballistic damage and causing serious hypothermia.</Ammo_VQEC_CryptoBolt.description>
+	<Ammo_VQEC_CryptoBolt.description>Proyectiles con nucleo metalico envueltos en inestable criptotecnologia contenida por un campo de energia. Capaces de infligir daño balistico y causar hipotermia grave.</Ammo_VQEC_CryptoBolt.description>
 	
 	<!-- EN: crypto bolt -->
-	<Bullet_VQEC_CryptoBolt.label>crypto bolt</Bullet_VQEC_CryptoBolt.label>
+	<Bullet_VQEC_CryptoBolt.label>virote cripto</Bullet_VQEC_CryptoBolt.label>
 </LanguageData>

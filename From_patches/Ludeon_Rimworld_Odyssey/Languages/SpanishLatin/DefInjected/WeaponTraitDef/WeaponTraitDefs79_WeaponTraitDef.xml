@@ -5,7 +5,7 @@
 	<!-- EN: improved terminal ballistics -->
 	<HollowPointRounds.label>balistica terminal mejorada</HollowPointRounds.label>
 	<!-- EN: This weapon's bullets have been designed for maximum fragmentation after striking a target, dealing more damage than normal. -->
-	<HollowPointRounds.description>Las balas de esta arma han sido disenadas para fragmentacion maxima despues de golpear un objetivo, causando mas dano de lo normal.</HollowPointRounds.description>
+	<HollowPointRounds.description>Las balas de esta arma han sido disenadas para fragmentacion maxima despues de golpear un objetivo, causando mas daño de lo normal.</HollowPointRounds.description>
 	<!-- EN: wide bore -->
 	<BirdshotPellets.label>recamara ancha</BirdshotPellets.label>
 	<!-- EN: This weapon has a wider bore than normal, causing considerably larger spread. -->

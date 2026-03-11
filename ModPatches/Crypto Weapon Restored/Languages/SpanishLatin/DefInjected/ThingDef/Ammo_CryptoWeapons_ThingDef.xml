@@ -1,21 +1,21 @@
 <LanguageData>
 	<!-- ModPatches\Crypto Weapon Restored\Defs\Crypto Weapon Restored\Ammo_CryptoWeapons.xml -->
 	<!-- EN: crypto rifle cartridge -->
-	<Ammo_CryptoRifle.label>crypto rifle cartridge</Ammo_CryptoRifle.label>
+	<Ammo_CryptoRifle.label>cartucho de rifle cripto</Ammo_CryptoRifle.label>
 	<!-- EN: Metal-cored projectiles wrapped in unstable crypto technology contained with an energy field. Capable of dealing both ballistic damage and causing serious hypothermia. -->
-	<Ammo_CryptoRifle.description>Metal-cored projectiles wrapped in unstable crypto technology contained with an energy field. Capable of dealing both ballistic damage and causing serious hypothermia.</Ammo_CryptoRifle.description>
+	<Ammo_CryptoRifle.description>Proyectiles con nucleo metalico envueltos en inestable criptotecnologia contenida por un campo de energia. Capaces de infligir daño balistico y causar hipotermia grave.</Ammo_CryptoRifle.description>
 	<!-- EN: crypto pistol cartridge -->
-	<Ammo_CryptoPistol.label>crypto pistol cartridge</Ammo_CryptoPistol.label>
+	<Ammo_CryptoPistol.label>cartucho de pistola cripto</Ammo_CryptoPistol.label>
 	<!-- EN: Metal-cored projectiles wrapped in unstable crypto technology contained with an energy field. Capable of dealing both ballistic damage and causing serious hypothermia. -->
-	<Ammo_CryptoPistol.description>Metal-cored projectiles wrapped in unstable crypto technology contained with an energy field. Capable of dealing both ballistic damage and causing serious hypothermia.</Ammo_CryptoPistol.description>
+	<Ammo_CryptoPistol.description>Proyectiles con nucleo metalico envueltos en inestable criptotecnologia contenida por un campo de energia. Capaces de infligir daño balistico y causar hipotermia grave.</Ammo_CryptoPistol.description>
 	<!-- EN: crypto bolt -->
-	<Ammo_CryptoShotgun.label>crypto bolt</Ammo_CryptoShotgun.label>
+	<Ammo_CryptoShotgun.label>virote cripto</Ammo_CryptoShotgun.label>
 	<!-- EN: Metal-cored projectiles wrapped in unstable crypto technology contained with an energy field. Capable of dealing both ballistic damage and causing serious hypothermia. -->
-	<Ammo_CryptoShotgun.description>Metal-cored projectiles wrapped in unstable crypto technology contained with an energy field. Capable of dealing both ballistic damage and causing serious hypothermia.</Ammo_CryptoShotgun.description>
+	<Ammo_CryptoShotgun.description>Proyectiles con nucleo metalico envueltos en inestable criptotecnologia contenida por un campo de energia. Capaces de infligir daño balistico y causar hipotermia grave.</Ammo_CryptoShotgun.description>
 	<!-- EN: crypto bullet -->
-	<Bullet_CryptoRifle.label>crypto bullet</Bullet_CryptoRifle.label>
+	<Bullet_CryptoRifle.label>bala cripto</Bullet_CryptoRifle.label>
 	<!-- EN: crypto bullet -->
-	<Bullet_CryptoPistol.label>crypto bullet</Bullet_CryptoPistol.label>
+	<Bullet_CryptoPistol.label>bala cripto</Bullet_CryptoPistol.label>
 	<!-- EN: crypto pellet -->
-	<Bullet_CryptoShotgun.label>crypto pellet</Bullet_CryptoShotgun.label>
+	<Bullet_CryptoShotgun.label>perdigon cripto</Bullet_CryptoShotgun.label>
 </LanguageData>

@@ -1,31 +1,31 @@
 <LanguageData>
 	<!-- _Translation\Grabbed_Defs_from_patches\lts_I\Hediffs_ExtraArms914.xml -->
 	<!-- EN: fist -->
-	<LeftExtraArchotechArm.comps.0.tools.0.label>fist</LeftExtraArchotechArm.comps.0.tools.0.label>
+	<LeftExtraArchotechArm.comps.0.tools.0.label>puño</LeftExtraArchotechArm.comps.0.tools.0.label>
 	<!-- EN: fist -->
-	<RightExtraArchotechArm.comps.0.tools.0.label>fist</RightExtraArchotechArm.comps.0.tools.0.label>
+	<RightExtraArchotechArm.comps.0.tools.0.label>puño</RightExtraArchotechArm.comps.0.tools.0.label>
 	<!-- EN: fist -->
-	<LeftExtraBionicArm.comps.0.tools.0.label>fist</LeftExtraBionicArm.comps.0.tools.0.label>
+	<LeftExtraBionicArm.comps.0.tools.0.label>puño</LeftExtraBionicArm.comps.0.tools.0.label>
 	<!-- EN: fist -->
-	<RightExtraBionicArm.comps.0.tools.0.label>fist</RightExtraBionicArm.comps.0.tools.0.label>
+	<RightExtraBionicArm.comps.0.tools.0.label>puño</RightExtraBionicArm.comps.0.tools.0.label>
 	<!-- EN: power claw -->
-	<LeftExtraPowerClaw.comps.0.tools.0.label>power claw</LeftExtraPowerClaw.comps.0.tools.0.label>
+	<LeftExtraPowerClaw.comps.0.tools.0.label>garra de poder</LeftExtraPowerClaw.comps.0.tools.0.label>
 	<!-- EN: power claw -->
-	<RightExtraPowerClaw.comps.0.tools.0.label>power claw</RightExtraPowerClaw.comps.0.tools.0.label>
+	<RightExtraPowerClaw.comps.0.tools.0.label>garra de poder</RightExtraPowerClaw.comps.0.tools.0.label>
 	<!-- EN: drill -->
-	<LeftExtraDrillArm.comps.0.tools.0.label>drill</LeftExtraDrillArm.comps.0.tools.0.label>
+	<LeftExtraDrillArm.comps.0.tools.0.label>taladro</LeftExtraDrillArm.comps.0.tools.0.label>
 	<!-- EN: drill -->
-	<RightExtraDrillArm.comps.0.tools.0.label>drill</RightExtraDrillArm.comps.0.tools.0.label>
+	<RightExtraDrillArm.comps.0.tools.0.label>taladro</RightExtraDrillArm.comps.0.tools.0.label>
 	<!-- EN: knuckle -->
-	<LeftExtraFieldHand.comps.0.tools.0.label>knuckle</LeftExtraFieldHand.comps.0.tools.0.label>
+	<LeftExtraFieldHand.comps.0.tools.0.label>nudillo</LeftExtraFieldHand.comps.0.tools.0.label>
 	<!-- EN: knuckle -->
-	<RightExtraFieldHand.comps.0.tools.0.label>knuckle</RightExtraFieldHand.comps.0.tools.0.label>
+	<RightExtraFieldHand.comps.0.tools.0.label>nudillo</RightExtraFieldHand.comps.0.tools.0.label>
 	<!-- EN: nerve shredder claw -->
-	<LeftExtraNerveShredderClaw.comps.0.tools.0.label>nerve shredder claw</LeftExtraNerveShredderClaw.comps.0.tools.0.label>
+	<LeftExtraNerveShredderClaw.comps.0.tools.0.label>garra trituradora de nervios</LeftExtraNerveShredderClaw.comps.0.tools.0.label>
 	<!-- EN: nerve shredder claw -->
-	<RightExtraNerveShredderClaw.comps.0.tools.0.label>nerve shredder claw</RightExtraNerveShredderClaw.comps.0.tools.0.label>
+	<RightExtraNerveShredderClaw.comps.0.tools.0.label>garra trituradora de nervios</RightExtraNerveShredderClaw.comps.0.tools.0.label>
 	<!-- EN: deadlife venom claw -->
-	<LeftExtraDeadlifeVenomClaw.comps.0.tools.0.label>deadlife venom claw</LeftExtraDeadlifeVenomClaw.comps.0.tools.0.label>
+	<LeftExtraDeadlifeVenomClaw.comps.0.tools.0.label>garra de veneno de antimomia</LeftExtraDeadlifeVenomClaw.comps.0.tools.0.label>
 	<!-- EN: deadlife venom claw -->
-	<RightExtraDeadlifeVenomClaw.comps.0.tools.0.label>deadlife venom claw</RightExtraDeadlifeVenomClaw.comps.0.tools.0.label>
+	<RightExtraDeadlifeVenomClaw.comps.0.tools.0.label>garra de veneno de antimomia</RightExtraDeadlifeVenomClaw.comps.0.tools.0.label>
 </LanguageData>

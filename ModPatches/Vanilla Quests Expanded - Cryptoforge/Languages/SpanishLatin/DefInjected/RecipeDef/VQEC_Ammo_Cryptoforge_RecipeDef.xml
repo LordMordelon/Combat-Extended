@@ -2,9 +2,9 @@
 	<!-- ModPatches\Vanilla Quests Expanded - Cryptoforge\Defs\Vanilla Quests Expanded - Cryptoforge\VQEC_Ammo_Cryptoforge.xml -->
 	
 	<!-- EN: make crypto bolt x200 -->
-	<MakeAmmo_VQEC_CryptoBolt.label>make crypto bolt x200</MakeAmmo_VQEC_CryptoBolt.label>
+	<MakeAmmo_VQEC_CryptoBolt.label>hacer virote cripto x200</MakeAmmo_VQEC_CryptoBolt.label>
 	<!-- EN: Craft 200 crypto bolt. -->
-	<MakeAmmo_VQEC_CryptoBolt.description>Craft 200 crypto bolt.</MakeAmmo_VQEC_CryptoBolt.description>
+	<MakeAmmo_VQEC_CryptoBolt.description>Fabrica 200 virotes cripto.</MakeAmmo_VQEC_CryptoBolt.description>
 	<!-- EN: Making crypto bolt. -->
-	<MakeAmmo_VQEC_CryptoBolt.jobString>Making crypto bolt.</MakeAmmo_VQEC_CryptoBolt.jobString>
+	<MakeAmmo_VQEC_CryptoBolt.jobString>Fabricando virotes cripto.</MakeAmmo_VQEC_CryptoBolt.jobString>
 </LanguageData>

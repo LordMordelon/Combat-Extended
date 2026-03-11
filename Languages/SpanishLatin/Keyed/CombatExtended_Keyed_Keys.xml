@@ -271,7 +271,7 @@
 	<!-- EN: Adjusted for weapon -->
 	<CE_AdjustedForWeapon>Ajustado para el arma</CE_AdjustedForWeapon>
 	<!-- EN: Projectile damage multiplier -->
-	<CE_RangedDamageMultiplier>Multiplicador de dano de proyectil</CE_RangedDamageMultiplier>
+	<CE_RangedDamageMultiplier>Multiplicador de daño de proyectil</CE_RangedDamageMultiplier>
 	<!-- EN: Projectile penetration multiplier -->
 	<CE_RangedPenMultiplier>Multiplicador de penetración de proyectil</CE_RangedPenMultiplier>
 	<!-- EN: Damage per second -->

@@ -102,9 +102,9 @@
 	<FlameCrossbowBolt.description>Punta de virote de acero en jaula abierta con componentes incendiarios para prender fuego a los objetivos.</FlameCrossbowBolt.description>
 	
 	<!-- EN: nerve -->
-	<Nerve.label>proyectil nervioso</Nerve.label>
+	<Nerve.label>proyectil de nervios</Nerve.label>
 	<!-- EN: nerve -->
-	<Nerve.labelShort>nervioso</Nerve.labelShort>
+	<Nerve.labelShort>nervio</Nerve.labelShort>
 	<!-- EN: The projectile is coated with a potent bioferrite-based biotoxin that stuns organic targets and disrupts regeneration. -->
 	<Nerve.description>El proyectil esta recubierto con una potente biotoxina basada en bioferrita que aturde objetivos organicos y altera la regeneracion.</Nerve.description>
 </LanguageData>

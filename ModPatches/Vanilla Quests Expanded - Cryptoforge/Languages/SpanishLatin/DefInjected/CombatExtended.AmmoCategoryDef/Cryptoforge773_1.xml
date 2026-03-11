@@ -1,7 +1,7 @@
 <LanguageData>
 	<!-- ModPatches\Vanilla Quests Expanded - Cryptoforge\Defs\Vanilla Quests Expanded - Cryptoforge\VQEC_Ammo_Cryptoforge.xml -->
 	<!-- EN: crypto -->
-	<VQEC_Crypto.label>crypto</VQEC_Crypto.label>
+	<VQEC_Crypto.label>cripto</VQEC_Crypto.label>
 	<!-- EN: Metal-cored projectiles wrapped in an unstable crypto technology, capable of dealing both ballistic and cold damage. -->
-	<VQEC_Crypto.description>Metal-cored projectiles wrapped in an unstable crypto technology, capable of dealing both ballistic and cold damage.</VQEC_Crypto.description>
+	<VQEC_Crypto.description>Proyectiles con nucleo metalico envueltos en una inestable criptotecnologia, capaces de infligir daño balistico y daño por frio.</VQEC_Crypto.description>
 </LanguageData>
