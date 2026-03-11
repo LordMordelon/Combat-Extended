@@ -1,12 +1,12 @@
 <LanguageData>
 	<!-- Defs\ThingDefs_Buildings\Buildings_Production.xml -->
 	<!-- EN: loading bench -->
-	<AmmoBench.label>loading bench</AmmoBench.label>
+	<AmmoBench.label>banco de carga</AmmoBench.label>
 	<!-- EN: A workstation for handloading ammo. -->
-	<AmmoBench.description>A workstation for handloading ammo.</AmmoBench.description>
+	<AmmoBench.description>Una estacion de trabajo para carga manual de municion.</AmmoBench.description>
 	
 	<!-- EN: gunsmithing bench -->
-	<GunsmithingBench.label>gunsmithing bench</GunsmithingBench.label>
+	<GunsmithingBench.label>banco de armeria</GunsmithingBench.label>
 	<!-- EN: A workstation for creating and attaching attachments to weapons. -->
-	<GunsmithingBench.description>A workstation for creating and attaching attachments to weapons.</GunsmithingBench.description>
+	<GunsmithingBench.description>Una estacion de trabajo para crear y adjuntar accesorios a las armas.</GunsmithingBench.description>
 </LanguageData>
