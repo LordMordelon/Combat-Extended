@@ -1,32 +1,32 @@
 <LanguageData>
 	<!-- _Translation\Grabbed_Defs_from_patches\Ludeon_Rimworld_Anomaly\Weapons_Ranged64.xml -->
 	<!-- EN: stock -->
-	<Gun_HellcatRifle.tools.0.label>stock</Gun_HellcatRifle.tools.0.label>
+	<Gun_HellcatRifle.tools.0.label>culata</Gun_HellcatRifle.tools.0.label>
 	<!-- EN: barrel -->
-	<Gun_HellcatRifle.tools.1.label>barrel</Gun_HellcatRifle.tools.1.label>
+	<Gun_HellcatRifle.tools.1.label>cañon</Gun_HellcatRifle.tools.1.label>
 	<!-- EN: muzzle -->
-	<Gun_HellcatRifle.tools.2.label>muzzle</Gun_HellcatRifle.tools.2.label>
+	<Gun_HellcatRifle.tools.2.label>boca de fuego</Gun_HellcatRifle.tools.2.label>
 	
 	<!-- EN: stock -->
-	<Gun_Incinerator.tools.0.label>stock</Gun_Incinerator.tools.0.label>
+	<Gun_Incinerator.tools.0.label>culata</Gun_Incinerator.tools.0.label>
 	<!-- EN: barrel -->
-	<Gun_Incinerator.tools.1.label>barrel</Gun_Incinerator.tools.1.label>
+	<Gun_Incinerator.tools.1.label>cañon</Gun_Incinerator.tools.1.label>
 	<!-- EN: muzzle -->
-	<Gun_Incinerator.tools.2.label>muzzle</Gun_Incinerator.tools.2.label>
+	<Gun_Incinerator.tools.2.label>boca de fuego</Gun_Incinerator.tools.2.label>
 	
 	<!-- EN: A versatile assault rifle with a shortened barrel, trading range and stopping power for decreased weight and bulk.\n\nIt also comes equipped with a hardened, bioferrite mini-burner capable of setting nearby targets ablaze with a stream of burning accelerant. -->
 	<Gun_HellcatRifle.description>A versatile assault rifle with a shortened barrel, trading range and stopping power for decreased weight and bulk.\n\nIt also comes equipped with a hardened, bioferrite mini-burner capable of setting nearby targets ablaze with a stream of burning accelerant.</Gun_HellcatRifle.description>
 	<!-- EN: switch to rifle -->
-	<Gun_HellcatRifle.comps.0.standardLabel>switch to rifle</Gun_HellcatRifle.comps.0.standardLabel>
+	<Gun_HellcatRifle.comps.0.standardLabel>cambiar a rifle</Gun_HellcatRifle.comps.0.standardLabel>
 	<!-- EN: switch to flamethrower -->
-	<Gun_HellcatRifle.comps.0.underBarrelLabel>switch to flamethrower</Gun_HellcatRifle.comps.0.underBarrelLabel>
+	<Gun_HellcatRifle.comps.0.underBarrelLabel>cambiar a lanzallamas</Gun_HellcatRifle.comps.0.underBarrelLabel>
 	
 	<!-- EN: A heavy weapon with a hardened bioferrite housing that can spray a stream of flame into an area.\n\nThe weapon also comes equipped with a pressure control module, allowing the wielder to set a small area ablaze with a concentrated spray of fuel. -->
 	<Gun_Incinerator.description>A heavy weapon with a hardened bioferrite housing that can spray a stream of flame into an area.\n\nThe weapon also comes equipped with a pressure control module, allowing the wielder to set a small area ablaze with a concentrated spray of fuel.</Gun_Incinerator.description>
 	<!-- EN: ㅤ -->
 	<Gun_Incinerator.verbs.0.label>ㅤ</Gun_Incinerator.verbs.0.label>
 	<!-- EN: switch to standard pressure -->
-	<Gun_Incinerator.comps.0.standardLabel>switch to standard pressure</Gun_Incinerator.comps.0.standardLabel>
+	<Gun_Incinerator.comps.0.standardLabel>cambiar a presion estandar</Gun_Incinerator.comps.0.standardLabel>
 	<!-- EN: switch to high pressure -->
-	<Gun_Incinerator.comps.0.underBarrelLabel>switch to high pressure</Gun_Incinerator.comps.0.underBarrelLabel>
+	<Gun_Incinerator.comps.0.underBarrelLabel>cambiar a presion alta</Gun_Incinerator.comps.0.underBarrelLabel>
 </LanguageData>

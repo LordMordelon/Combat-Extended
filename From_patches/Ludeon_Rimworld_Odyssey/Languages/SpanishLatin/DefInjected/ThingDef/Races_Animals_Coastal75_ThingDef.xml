@@ -1,45 +1,45 @@
 <LanguageData>
 	<!-- _Translation\Grabbed_Defs_from_patches\Ludeon_Rimworld_Odyssey\Races_Animals_Coastal75.xml -->
 	<!-- EN: tusks -->
-	<Walrus.tools.0.label>tusks</Walrus.tools.0.label>
+	<Walrus.tools.0.label>colmillos</Walrus.tools.0.label>
 	<!-- EN: head -->
-	<Walrus.tools.1.label>head</Walrus.tools.1.label>
+	<Walrus.tools.1.label>cabeza</Walrus.tools.1.label>
 	
 	<!-- EN: head -->
-	<SeaLion.tools.1.label>head</SeaLion.tools.1.label>
+	<SeaLion.tools.1.label>cabeza</SeaLion.tools.1.label>
 	
 	<!-- EN: head -->
-	<Seal.tools.1.label>head</Seal.tools.1.label>
+	<Seal.tools.1.label>cabeza</Seal.tools.1.label>
 	
 	<!-- EN: head -->
-	<HermitCrab.tools.0.label>head</HermitCrab.tools.0.label>
+	<HermitCrab.tools.0.label>cabeza</HermitCrab.tools.0.label>
 	<!-- EN: left claw -->
-	<HermitCrab.tools.1.label>left claw</HermitCrab.tools.1.label>
+	<HermitCrab.tools.1.label>garra izquierda</HermitCrab.tools.1.label>
 	<!-- EN: claw -->
-	<HermitCrab.tools.1.labelNoLocation>claw</HermitCrab.tools.1.labelNoLocation>
+	<HermitCrab.tools.1.labelNoLocation>garra</HermitCrab.tools.1.labelNoLocation>
 	<!-- EN: right claw -->
-	<HermitCrab.tools.2.label>right claw</HermitCrab.tools.2.label>
+	<HermitCrab.tools.2.label>garra derecha</HermitCrab.tools.2.label>
 	<!-- EN: claw -->
-	<HermitCrab.tools.2.labelNoLocation>claw</HermitCrab.tools.2.labelNoLocation>
+	<HermitCrab.tools.2.labelNoLocation>garra</HermitCrab.tools.2.labelNoLocation>
 	
 	<!-- EN: head -->
-	<StoneCrab.tools.0.label>head</StoneCrab.tools.0.label>
+	<StoneCrab.tools.0.label>cabeza</StoneCrab.tools.0.label>
 	<!-- EN: left claw -->
-	<StoneCrab.tools.1.label>left claw</StoneCrab.tools.1.label>
+	<StoneCrab.tools.1.label>garra izquierda</StoneCrab.tools.1.label>
 	<!-- EN: claw -->
-	<StoneCrab.tools.1.labelNoLocation>claw</StoneCrab.tools.1.labelNoLocation>
+	<StoneCrab.tools.1.labelNoLocation>garra</StoneCrab.tools.1.labelNoLocation>
 	<!-- EN: right claw -->
-	<StoneCrab.tools.2.label>right claw</StoneCrab.tools.2.label>
+	<StoneCrab.tools.2.label>garra derecha</StoneCrab.tools.2.label>
 	<!-- EN: claw -->
-	<StoneCrab.tools.2.labelNoLocation>claw</StoneCrab.tools.2.labelNoLocation>
+	<StoneCrab.tools.2.labelNoLocation>garra</StoneCrab.tools.2.labelNoLocation>
 	
 	<!-- EN: head -->
-	<SeaTurtle.tools.1.label>head</SeaTurtle.tools.1.label>
+	<SeaTurtle.tools.1.label>cabeza</SeaTurtle.tools.1.label>
 	
 	<!-- EN: left claw -->
-	<Otter.tools.0.label>left claw</Otter.tools.0.label>
+	<Otter.tools.0.label>garra izquierda</Otter.tools.0.label>
 	<!-- EN: right claw -->
-	<Otter.tools.1.label>right claw</Otter.tools.1.label>
+	<Otter.tools.1.label>garra derecha</Otter.tools.1.label>
 	<!-- EN: head -->
-	<Otter.tools.3.label>head</Otter.tools.3.label>
+	<Otter.tools.3.label>cabeza</Otter.tools.3.label>
 </LanguageData>

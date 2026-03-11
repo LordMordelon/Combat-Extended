@@ -1,13 +1,13 @@
 <LanguageData>
 	<!-- _Translation\Grabbed_Defs_from_patches\Ludeon_Rimworld_Odyssey\Races_Mechanoids78.xml -->
 	<!-- EN: front left leg -->
-	<Mech_Cyclops.tools.0.label>front left leg</Mech_Cyclops.tools.0.label>
+	<Mech_Cyclops.tools.0.label>pata delantera izquierda</Mech_Cyclops.tools.0.label>
 	<!-- EN: leg -->
-	<Mech_Cyclops.tools.0.labelNoLocation>leg</Mech_Cyclops.tools.0.labelNoLocation>
+	<Mech_Cyclops.tools.0.labelNoLocation>pata</Mech_Cyclops.tools.0.labelNoLocation>
 	<!-- EN: front right leg -->
-	<Mech_Cyclops.tools.1.label>front right leg</Mech_Cyclops.tools.1.label>
+	<Mech_Cyclops.tools.1.label>pata delantera derecha</Mech_Cyclops.tools.1.label>
 	<!-- EN: leg -->
-	<Mech_Cyclops.tools.1.labelNoLocation>leg</Mech_Cyclops.tools.1.labelNoLocation>
+	<Mech_Cyclops.tools.1.labelNoLocation>pata</Mech_Cyclops.tools.1.labelNoLocation>
 	<!-- EN: head -->
-	<Mech_Cyclops.tools.2.label>head</Mech_Cyclops.tools.2.label>
+	<Mech_Cyclops.tools.2.label>cabeza</Mech_Cyclops.tools.2.label>
 </LanguageData>

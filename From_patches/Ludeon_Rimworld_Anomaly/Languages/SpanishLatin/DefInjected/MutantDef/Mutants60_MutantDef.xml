@@ -1,16 +1,16 @@
 <LanguageData>
 	<!-- _Translation\Grabbed_Defs_from_patches\Ludeon_Rimworld_Anomaly\Mutants60.xml -->
 	<!-- EN: teeth -->
-	<Shambler.tools.0.label>teeth</Shambler.tools.0.label>
+	<Shambler.tools.0.label>dientes</Shambler.tools.0.label>
 	<!-- EN: left hand -->
-	<Shambler.tools.1.label>left hand</Shambler.tools.1.label>
+	<Shambler.tools.1.label>mano izquierda</Shambler.tools.1.label>
 	<!-- EN: right hand -->
-	<Shambler.tools.2.label>right hand</Shambler.tools.2.label>
+	<Shambler.tools.2.label>mano derecha</Shambler.tools.2.label>
 	
 	<!-- EN: teeth -->
-	<Ghoul.tools.0.label>teeth</Ghoul.tools.0.label>
+	<Ghoul.tools.0.label>dientes</Ghoul.tools.0.label>
 	<!-- EN: left claw -->
-	<Ghoul.tools.1.label>left claw</Ghoul.tools.1.label>
+	<Ghoul.tools.1.label>garra izquierda</Ghoul.tools.1.label>
 	<!-- EN: right claw -->
-	<Ghoul.tools.2.label>right claw</Ghoul.tools.2.label>
+	<Ghoul.tools.2.label>garra derecha</Ghoul.tools.2.label>
 </LanguageData>

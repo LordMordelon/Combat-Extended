@@ -1,103 +1,103 @@
 <LanguageData>
 	<!-- _Translation\Grabbed_Defs_from_patches\Ludeon_Rimworld_Odyssey\Races_Animals73.xml -->
 	<!-- EN: left claw -->
-	<BogHound.tools.0.label>left claw</BogHound.tools.0.label>
+	<BogHound.tools.0.label>garra izquierda</BogHound.tools.0.label>
 	<!-- EN: right claw -->
-	<BogHound.tools.1.label>right claw</BogHound.tools.1.label>
+	<BogHound.tools.1.label>garra derecha</BogHound.tools.1.label>
 	<!-- EN: razorfangs -->
-	<BogHound.tools.2.label>razorfangs</BogHound.tools.2.label>
+	<BogHound.tools.2.label>colmillos afilados</BogHound.tools.2.label>
 	<!-- EN: head -->
-	<BogHound.tools.3.label>head</BogHound.tools.3.label>
+	<BogHound.tools.3.label>cabeza</BogHound.tools.3.label>
 	
 	<!-- EN: left claw -->
-	<PrairieDog.tools.0.label>left claw</PrairieDog.tools.0.label>
+	<PrairieDog.tools.0.label>garra izquierda</PrairieDog.tools.0.label>
 	<!-- EN: right claw -->
-	<PrairieDog.tools.1.label>right claw</PrairieDog.tools.1.label>
+	<PrairieDog.tools.1.label>garra derecha</PrairieDog.tools.1.label>
 	<!-- EN: head -->
-	<PrairieDog.tools.3.label>head</PrairieDog.tools.3.label>
+	<PrairieDog.tools.3.label>cabeza</PrairieDog.tools.3.label>
 	
 	<!-- EN: left claw -->
-	<Porcupine.tools.0.label>left claw</Porcupine.tools.0.label>
+	<Porcupine.tools.0.label>garra izquierda</Porcupine.tools.0.label>
 	<!-- EN: right claw -->
-	<Porcupine.tools.1.label>right claw</Porcupine.tools.1.label>
+	<Porcupine.tools.1.label>garra derecha</Porcupine.tools.1.label>
 	<!-- EN: bite -->
-	<Porcupine.tools.2.label>bite</Porcupine.tools.2.label>
+	<Porcupine.tools.2.label>mordisco</Porcupine.tools.2.label>
 	<!-- EN: head -->
-	<Porcupine.tools.3.label>head</Porcupine.tools.3.label>
+	<Porcupine.tools.3.label>cabeza</Porcupine.tools.3.label>
 	
 	<!-- EN: tusk -->
-	<Mastodon.tools.0.label>tusk</Mastodon.tools.0.label>
+	<Mastodon.tools.0.label>colmillo</Mastodon.tools.0.label>
 	<!-- EN: left foot -->
-	<Mastodon.tools.1.label>left foot</Mastodon.tools.1.label>
+	<Mastodon.tools.1.label>pata izquierda</Mastodon.tools.1.label>
 	<!-- EN: right foot -->
-	<Mastodon.tools.2.label>right foot</Mastodon.tools.2.label>
+	<Mastodon.tools.2.label>pata derecha</Mastodon.tools.2.label>
 	<!-- EN: head -->
-	<Mastodon.tools.3.label>head</Mastodon.tools.3.label>
+	<Mastodon.tools.3.label>cabeza</Mastodon.tools.3.label>
 	
 	<!-- EN: left claw -->
-	<Cat_Scimitar.tools.0.label>left claw</Cat_Scimitar.tools.0.label>
+	<Cat_Scimitar.tools.0.label>garra izquierda</Cat_Scimitar.tools.0.label>
 	<!-- EN: right claw -->
-	<Cat_Scimitar.tools.1.label>right claw</Cat_Scimitar.tools.1.label>
+	<Cat_Scimitar.tools.1.label>garra derecha</Cat_Scimitar.tools.1.label>
 	<!-- EN: head -->
-	<Cat_Scimitar.tools.3.label>head</Cat_Scimitar.tools.3.label>
+	<Cat_Scimitar.tools.3.label>cabeza</Cat_Scimitar.tools.3.label>
 	
 	<!-- EN: left claw -->
-	<Wolverine.tools.0.label>left claw</Wolverine.tools.0.label>
+	<Wolverine.tools.0.label>garra izquierda</Wolverine.tools.0.label>
 	<!-- EN: right claw -->
-	<Wolverine.tools.1.label>right claw</Wolverine.tools.1.label>
+	<Wolverine.tools.1.label>garra derecha</Wolverine.tools.1.label>
 	<!-- EN: razorfangs -->
-	<Wolverine.tools.2.label>razorfangs</Wolverine.tools.2.label>
+	<Wolverine.tools.2.label>colmillos afilados</Wolverine.tools.2.label>
 	<!-- EN: head -->
-	<Wolverine.tools.3.label>head</Wolverine.tools.3.label>
+	<Wolverine.tools.3.label>cabeza</Wolverine.tools.3.label>
 	
 	<!-- EN: left claw -->
-	<Wolf_Great.tools.0.label>left claw</Wolf_Great.tools.0.label>
+	<Wolf_Great.tools.0.label>garra izquierda</Wolf_Great.tools.0.label>
 	<!-- EN: right claw -->
-	<Wolf_Great.tools.1.label>right claw</Wolf_Great.tools.1.label>
+	<Wolf_Great.tools.1.label>garra derecha</Wolf_Great.tools.1.label>
 	<!-- EN: razorfangs -->
-	<Wolf_Great.tools.2.label>razorfangs</Wolf_Great.tools.2.label>
+	<Wolf_Great.tools.2.label>colmillos afilados</Wolf_Great.tools.2.label>
 	<!-- EN: head -->
-	<Wolf_Great.tools.3.label>head</Wolf_Great.tools.3.label>
+	<Wolf_Great.tools.3.label>cabeza</Wolf_Great.tools.3.label>
 	
 	<!-- EN: left hoof -->
-	<Moose.tools.0.label>left hoof</Moose.tools.0.label>
+	<Moose.tools.0.label>casco izquierdo</Moose.tools.0.label>
 	<!-- EN: left hoof -->
-	<Moose.tools.1.label>left hoof</Moose.tools.1.label>
+	<Moose.tools.1.label>casco izquierdo</Moose.tools.1.label>
 	<!-- EN: right hoof -->
-	<Moose.tools.2.label>right hoof</Moose.tools.2.label>
+	<Moose.tools.2.label>casco derecho</Moose.tools.2.label>
 	<!-- EN: right hoof -->
-	<Moose.tools.3.label>right hoof</Moose.tools.3.label>
+	<Moose.tools.3.label>casco derecho</Moose.tools.3.label>
 	<!-- EN: head -->
-	<Moose.tools.5.label>head</Moose.tools.5.label>
+	<Moose.tools.5.label>cabeza</Moose.tools.5.label>
 	<!-- EN: antlers -->
-	<Moose.tools.6.label>antlers</Moose.tools.6.label>
+	<Moose.tools.6.label>astas</Moose.tools.6.label>
 	
 	<!-- EN: head -->
-	<Muskox.tools.0.label>head</Muskox.tools.0.label>
+	<Muskox.tools.0.label>cabeza</Muskox.tools.0.label>
 	<!-- EN: left hoof -->
-	<Muskox.tools.1.label>left hoof</Muskox.tools.1.label>
+	<Muskox.tools.1.label>casco izquierdo</Muskox.tools.1.label>
 	<!-- EN: left hoof -->
-	<Muskox.tools.2.label>left hoof</Muskox.tools.2.label>
+	<Muskox.tools.2.label>casco izquierdo</Muskox.tools.2.label>
 	<!-- EN: right hoof -->
-	<Muskox.tools.3.label>right hoof</Muskox.tools.3.label>
+	<Muskox.tools.3.label>casco derecho</Muskox.tools.3.label>
 	<!-- EN: right hoof -->
-	<Muskox.tools.4.label>right hoof</Muskox.tools.4.label>
+	<Muskox.tools.4.label>casco derecho</Muskox.tools.4.label>
 	
 	<!-- EN: horn -->
-	<AlphaThrumbo.tools.0.label>horn</AlphaThrumbo.tools.0.label>
+	<AlphaThrumbo.tools.0.label>cuerno</AlphaThrumbo.tools.0.label>
 	<!-- EN: horn -->
-	<AlphaThrumbo.tools.1.label>horn</AlphaThrumbo.tools.1.label>
+	<AlphaThrumbo.tools.1.label>cuerno</AlphaThrumbo.tools.1.label>
 	<!-- EN: left foot -->
-	<AlphaThrumbo.tools.2.label>left foot</AlphaThrumbo.tools.2.label>
+	<AlphaThrumbo.tools.2.label>pata izquierda</AlphaThrumbo.tools.2.label>
 	<!-- EN: right foot -->
-	<AlphaThrumbo.tools.3.label>right foot</AlphaThrumbo.tools.3.label>
+	<AlphaThrumbo.tools.3.label>pata derecha</AlphaThrumbo.tools.3.label>
 	<!-- EN: head -->
-	<AlphaThrumbo.tools.5.label>head</AlphaThrumbo.tools.5.label>
+	<AlphaThrumbo.tools.5.label>cabeza</AlphaThrumbo.tools.5.label>
 	
 	<!-- EN: left claw -->
-	<Tiger.tools.0.label>left claw</Tiger.tools.0.label>
+	<Tiger.tools.0.label>garra izquierda</Tiger.tools.0.label>
 	<!-- EN: right claw -->
-	<Tiger.tools.1.label>right claw</Tiger.tools.1.label>
+	<Tiger.tools.1.label>garra derecha</Tiger.tools.1.label>
 	<!-- EN: head -->
 	<Tiger.tools.3.label>head</Tiger.tools.3.label>
 	

@@ -1,17 +1,17 @@
 <LanguageData>
 	<!-- _Translation\Grabbed_Defs_from_patches\Ludeon_Rimworld_Royalty\Hediffs_Implants37.xml -->
 	<!-- EN: drill -->
-	<DrillArm.comps.0.tools.0.label>drill</DrillArm.comps.0.tools.0.label>
+	<DrillArm.comps.0.tools.0.label>taladro</DrillArm.comps.0.tools.0.label>
 	<!-- EN: knuckle -->
-	<FieldHand.comps.0.tools.0.label>knuckle</FieldHand.comps.0.tools.0.label>
+	<FieldHand.comps.0.tools.0.label>nudillo</FieldHand.comps.0.tools.0.label>
 	<!-- EN: talon -->
 	<HandTalon.comps.0.tools.0.label>talon</HandTalon.comps.0.tools.0.label>
 	<!-- EN: blade -->
-	<ElbowBlade.comps.0.tools.0.label>blade</ElbowBlade.comps.0.tools.0.label>
+	<ElbowBlade.comps.0.tools.0.label>hoja</ElbowBlade.comps.0.tools.0.label>
 	<!-- EN: spike -->
-	<KneeSpike.comps.0.tools.0.label>spike</KneeSpike.comps.0.tools.0.label>
+	<KneeSpike.comps.0.tools.0.label>pua</KneeSpike.comps.0.tools.0.label>
 	<!-- EN: venom fangs -->
-	<VenomFangs.comps.0.tools.0.label>venom fangs</VenomFangs.comps.0.tools.0.label>
+	<VenomFangs.comps.0.tools.0.label>colmillos venenosos</VenomFangs.comps.0.tools.0.label>
 	<!-- EN: venom talon -->
-	<VenomTalon.comps.0.tools.0.label>venom talon</VenomTalon.comps.0.tools.0.label>
+	<VenomTalon.comps.0.tools.0.label>talon venenoso</VenomTalon.comps.0.tools.0.label>
 </LanguageData>

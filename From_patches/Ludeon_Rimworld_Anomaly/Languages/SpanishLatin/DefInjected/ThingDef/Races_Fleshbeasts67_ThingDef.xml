@@ -1,49 +1,49 @@
 <LanguageData>
 	<!-- _Translation\Grabbed_Defs_from_patches\Ludeon_Rimworld_Anomaly\Races_Fleshbeasts67.xml -->
 	<!-- EN: tentacle -->
-	<Bulbfreak.tools.0.label>tentacle</Bulbfreak.tools.0.label>
+	<Bulbfreak.tools.0.label>tentaculo</Bulbfreak.tools.0.label>
 	<!-- EN: tentacle -->
-	<Bulbfreak.tools.1.label>tentacle</Bulbfreak.tools.1.label>
+	<Bulbfreak.tools.1.label>tentaculo</Bulbfreak.tools.1.label>
 	<!-- EN: tentacle -->
-	<Bulbfreak.tools.2.label>tentacle</Bulbfreak.tools.2.label>
+	<Bulbfreak.tools.2.label>tentaculo</Bulbfreak.tools.2.label>
 	<!-- EN: tentacle -->
-	<Bulbfreak.tools.3.label>tentacle</Bulbfreak.tools.3.label>
+	<Bulbfreak.tools.3.label>tentaculo</Bulbfreak.tools.3.label>
 	<!-- EN: tentacle -->
-	<Bulbfreak.tools.4.label>tentacle</Bulbfreak.tools.4.label>
+	<Bulbfreak.tools.4.label>tentaculo</Bulbfreak.tools.4.label>
 	<!-- EN: head -->
-	<Bulbfreak.tools.5.label>head</Bulbfreak.tools.5.label>
+	<Bulbfreak.tools.5.label>cabeza</Bulbfreak.tools.5.label>
 	
 	<!-- EN: left spike -->
-	<Toughspike.tools.0.label>left spike</Toughspike.tools.0.label>
+	<Toughspike.tools.0.label>pua izquierda</Toughspike.tools.0.label>
 	<!-- EN: right spike -->
-	<Toughspike.tools.1.label>right spike</Toughspike.tools.1.label>
+	<Toughspike.tools.1.label>pua derecha</Toughspike.tools.1.label>
 	<!-- EN: head -->
-	<Toughspike.tools.2.label>head</Toughspike.tools.2.label>
+	<Toughspike.tools.2.label>cabeza</Toughspike.tools.2.label>
 	
 	<!-- EN: top spike -->
-	<Trispike.tools.0.label>top spike</Trispike.tools.0.label>
+	<Trispike.tools.0.label>pua superior</Trispike.tools.0.label>
 	<!-- EN: left spike -->
-	<Trispike.tools.1.label>left spike</Trispike.tools.1.label>
+	<Trispike.tools.1.label>pua izquierda</Trispike.tools.1.label>
 	<!-- EN: right spike -->
-	<Trispike.tools.2.label>right spike</Trispike.tools.2.label>
+	<Trispike.tools.2.label>pua derecha</Trispike.tools.2.label>
 	<!-- EN: head -->
-	<Trispike.tools.3.label>head</Trispike.tools.3.label>
+	<Trispike.tools.3.label>cabeza</Trispike.tools.3.label>
 	
 	<!-- EN: spike -->
-	<Fingerspike.tools.0.label>spike</Fingerspike.tools.0.label>
+	<Fingerspike.tools.0.label>pua</Fingerspike.tools.0.label>
 	<!-- EN: spike -->
-	<Fingerspike.tools.0.labelNoLocation>spike</Fingerspike.tools.0.labelNoLocation>
+	<Fingerspike.tools.0.labelNoLocation>pua</Fingerspike.tools.0.labelNoLocation>
 	<!-- EN: head -->
-	<Fingerspike.tools.1.label>head</Fingerspike.tools.1.label>
+	<Fingerspike.tools.1.label>cabeza</Fingerspike.tools.1.label>
 	
 	<!-- EN: left spike -->
-	<Dreadmeld.tools.0.label>left spike</Dreadmeld.tools.0.label>
+	<Dreadmeld.tools.0.label>pua izquierda</Dreadmeld.tools.0.label>
 	<!-- EN: spike -->
-	<Dreadmeld.tools.0.labelNoLocation>spike</Dreadmeld.tools.0.labelNoLocation>
+	<Dreadmeld.tools.0.labelNoLocation>pua</Dreadmeld.tools.0.labelNoLocation>
 	<!-- EN: right spike -->
-	<Dreadmeld.tools.1.label>right spike</Dreadmeld.tools.1.label>
+	<Dreadmeld.tools.1.label>pua derecha</Dreadmeld.tools.1.label>
 	<!-- EN: spike -->
-	<Dreadmeld.tools.1.labelNoLocation>spike</Dreadmeld.tools.1.labelNoLocation>
+	<Dreadmeld.tools.1.labelNoLocation>pua</Dreadmeld.tools.1.labelNoLocation>
 	<!-- EN: head -->
-	<Dreadmeld.tools.2.label>head</Dreadmeld.tools.2.label>
+	<Dreadmeld.tools.2.label>cabeza</Dreadmeld.tools.2.label>
 </LanguageData>

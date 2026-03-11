@@ -1,9 +1,9 @@
 <LanguageData>
 	<!-- _Translation\Grabbed_Defs_from_patches\Ludeon_Rimworld_Biotech\RangedIndustrial_Biotech48.xml -->
 	<!-- EN: Body -->
-	<Weapon_GrenadeTox.tools.0.label>Body</Weapon_GrenadeTox.tools.0.label>
+	<Weapon_GrenadeTox.tools.0.label>Cuerpo</Weapon_GrenadeTox.tools.0.label>
 	<!-- EN: tox grenade -->
-	<Weapon_GrenadeTox.label>tox grenade</Weapon_GrenadeTox.label>
+	<Weapon_GrenadeTox.label>granada toxica</Weapon_GrenadeTox.label>
 	<!-- EN: throw tox grenade -->
-	<Weapon_GrenadeTox.Properties.label>throw tox grenade</Weapon_GrenadeTox.Properties.label>
+	<Weapon_GrenadeTox.Properties.label>lanzar granada toxica</Weapon_GrenadeTox.Properties.label>
 </LanguageData>
