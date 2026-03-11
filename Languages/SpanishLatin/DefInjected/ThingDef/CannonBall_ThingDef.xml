@@ -2,7 +2,7 @@
 	<!-- Defs\Ammo\Medieval\CannonBall.xml -->
 	
 	<!-- EN: round shot -->
-	<Ammo_CannonBall_Round.label>bala de cañon</Ammo_CannonBall_Round.label>
+	<Ammo_CannonBall_Round.label>bala de cañón</Ammo_CannonBall_Round.label>
 	<!-- EN: A solid ball of metal fired, capable of delivering significant damage on a direct hit. -->
 	<Ammo_CannonBall_Round.description>Una bola sólida de metal disparada, capaz de causar daño significativo en un impacto directo.</Ammo_CannonBall_Round.description>
 	
@@ -19,7 +19,7 @@
 	<!-- EN: grape shot shell -->
 	<Ammo_CannonBall_Grape.label>bala de metralla</Ammo_CannonBall_Grape.label>
 	<!-- EN: A canister of numerous metal balls, fired in a wide spread to deal horrific damage against enemy infantry. -->
-	<Ammo_CannonBall_Grape.description>Un cartucho de numerosas bolas de metal, disparadas en amplio esparcimiento para causar daño horrible contra infantería enemiga.</Ammo_CannonBall_Grape.description>
+	<Ammo_CannonBall_Grape.description>Un cartucho con numerosas bolas de metal, disparadas en amplia dispersión para causar daño devastador contra la infantería enemiga.</Ammo_CannonBall_Grape.description>
 	
 	<!-- EN: round shot -->
 	<Bullet_CannonBall_Round.label>bala de cañón</Bullet_CannonBall_Round.label>
