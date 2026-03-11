@@ -1,17 +1,17 @@
 <LanguageData>
 	<!-- _Translation\Grabbed_Defs_from_patches\VanillaExpanded_VWEG\Apparel_Packs1908.xml -->
 	<!-- EN: throw frag grenade -->
-	<VWE_Apparel_GrenadeFragBelt.verbs.0.label>throw frag grenade</VWE_Apparel_GrenadeFragBelt.verbs.0.label>
+	<VWE_Apparel_GrenadeFragBelt.verbs.0.label>lanzar granada de fragmentacion</VWE_Apparel_GrenadeFragBelt.verbs.0.label>
 	<!-- EN: ㅤ -->
 	<VWE_Apparel_GrenadeFragBelt.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>ㅤ</VWE_Apparel_GrenadeFragBelt.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>
 	
 	<!-- EN: throw molotov -->
-	<VWE_Apparel_GrenadeMolotovBelt.verbs.0.label>throw molotov</VWE_Apparel_GrenadeMolotovBelt.verbs.0.label>
+	<VWE_Apparel_GrenadeMolotovBelt.verbs.0.label>lanzar coctel molotov</VWE_Apparel_GrenadeMolotovBelt.verbs.0.label>
 	<!-- EN: ㅤ -->
 	<VWE_Apparel_GrenadeMolotovBelt.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>ㅤ</VWE_Apparel_GrenadeMolotovBelt.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>
 	
 	<!-- EN: throw EMP grenade -->
-	<VWE_Apparel_GrenadeEMPBelt.verbs.0.label>throw EMP grenade</VWE_Apparel_GrenadeEMPBelt.verbs.0.label>
+	<VWE_Apparel_GrenadeEMPBelt.verbs.0.label>lanzar granada PEM</VWE_Apparel_GrenadeEMPBelt.verbs.0.label>
 	<!-- EN: ㅤ -->
 	<VWE_Apparel_GrenadeEMPBelt.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>ㅤ</VWE_Apparel_GrenadeEMPBelt.verbs.CombatExtended.Verb_LaunchProjectileStaticCE.label>
 </LanguageData>

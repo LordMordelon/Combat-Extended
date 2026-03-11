@@ -1,65 +1,65 @@
 <LanguageData>
 	<!-- Defs\Ammo\Recipes_HandGrenades.xml -->
 	<!-- EN: make concussion grenades x10 -->
-	<MakeConcussionGrenade.label>make concussion grenades x10</MakeConcussionGrenade.label>
+	<MakeConcussionGrenade.label>hacer granadas de conmocion x10</MakeConcussionGrenade.label>
 	<!-- EN: Craft 10 concussion grenades. -->
-	<MakeConcussionGrenade.description>Craft 10 concussion grenades.</MakeConcussionGrenade.description>
+	<MakeConcussionGrenade.description>Fabrica 10 granadas de conmocion.</MakeConcussionGrenade.description>
 	<!-- EN: Making concussion grenades. -->
-	<MakeConcussionGrenade.jobString>Making concussion grenades.</MakeConcussionGrenade.jobString>
+	<MakeConcussionGrenade.jobString>Fabricando granadas de conmocion.</MakeConcussionGrenade.jobString>
 	
 	<!-- EN: make frag grenades x10 -->
-	<MakeFragGrenade.label>make frag grenades x10</MakeFragGrenade.label>
+	<MakeFragGrenade.label>hacer granadas de fragmentacion x10</MakeFragGrenade.label>
 	<!-- EN: Craft 10 frag grenades. -->
-	<MakeFragGrenade.description>Craft 10 frag grenades.</MakeFragGrenade.description>
+	<MakeFragGrenade.description>Fabrica 10 granadas de fragmentacion.</MakeFragGrenade.description>
 	<!-- EN: Making frag grenades. -->
-	<MakeFragGrenade.jobString>Making frag grenades.</MakeFragGrenade.jobString>
+	<MakeFragGrenade.jobString>Fabricando granadas de fragmentacion.</MakeFragGrenade.jobString>
 	
 	<!-- EN: make molotov cocktails x10 -->
-	<MakeMolotovCocktail.label>make molotov cocktails x10</MakeMolotovCocktail.label>
+	<MakeMolotovCocktail.label>hacer cocteles molotov x10</MakeMolotovCocktail.label>
 	<!-- EN: Craft 10 molotov cocktails. -->
-	<MakeMolotovCocktail.description>Craft 10 molotov cocktails.</MakeMolotovCocktail.description>
+	<MakeMolotovCocktail.description>Fabrica 10 cocteles molotov.</MakeMolotovCocktail.description>
 	<!-- EN: Making molotov cocktails. -->
-	<MakeMolotovCocktail.jobString>Making molotov cocktails.</MakeMolotovCocktail.jobString>
+	<MakeMolotovCocktail.jobString>Fabricando cocteles molotov.</MakeMolotovCocktail.jobString>
 	
 	<!-- EN: make EMP grenades x10 -->
-	<MakeEMPGrenade.label>make EMP grenades x10</MakeEMPGrenade.label>
+	<MakeEMPGrenade.label>hacer granadas PEM x10</MakeEMPGrenade.label>
 	<!-- EN: Craft 10 EMP grenades. -->
-	<MakeEMPGrenade.description>Craft 10 EMP grenades.</MakeEMPGrenade.description>
+	<MakeEMPGrenade.description>Fabrica 10 granadas PEM.</MakeEMPGrenade.description>
 	<!-- EN: Making EMP grenades. -->
-	<MakeEMPGrenade.jobString>Making EMP grenades.</MakeEMPGrenade.jobString>
+	<MakeEMPGrenade.jobString>Fabricando granadas PEM.</MakeEMPGrenade.jobString>
 	
 	<!-- EN: make flashbang grenades x10 -->
-	<MakeFlashbangGrenade.label>make flashbang grenades x10</MakeFlashbangGrenade.label>
+	<MakeFlashbangGrenade.label>hacer granadas aturdidoras x10</MakeFlashbangGrenade.label>
 	<!-- EN: Craft 10 flashbang grenades. -->
-	<MakeFlashbangGrenade.description>Craft 10 flashbang grenades.</MakeFlashbangGrenade.description>
+	<MakeFlashbangGrenade.description>Fabrica 10 granadas aturdidoras.</MakeFlashbangGrenade.description>
 	<!-- EN: Making flashbang grenades. -->
-	<MakeFlashbangGrenade.jobString>Making flashbang grenades.</MakeFlashbangGrenade.jobString>
+	<MakeFlashbangGrenade.jobString>Fabricando granadas aturdidoras.</MakeFlashbangGrenade.jobString>
 	
 	<!-- EN: make stick bombs x10 -->
-	<MakeStickBomb.label>make stick bombs x10</MakeStickBomb.label>
+	<MakeStickBomb.label>hacer bombas de palo x10</MakeStickBomb.label>
 	<!-- EN: Craft 10 stick bombs. -->
-	<MakeStickBomb.description>Craft 10 stick bombs.</MakeStickBomb.description>
+	<MakeStickBomb.description>Fabrica 10 bombas de palo.</MakeStickBomb.description>
 	<!-- EN: Making stick bombs. -->
-	<MakeStickBomb.jobString>Making stick bombs.</MakeStickBomb.jobString>
+	<MakeStickBomb.jobString>Fabricando bombas de palo.</MakeStickBomb.jobString>
 	
 	<!-- EN: make smoke grenades x10 -->
-	<MakeSmokeGrenade.label>make smoke grenades x10</MakeSmokeGrenade.label>
+	<MakeSmokeGrenade.label>hacer granadas de humo x10</MakeSmokeGrenade.label>
 	<!-- EN: Craft 10 smoke grenades. -->
-	<MakeSmokeGrenade.description>Craft 10 smoke grenades.</MakeSmokeGrenade.description>
+	<MakeSmokeGrenade.description>Fabrica 10 granadas de humo.</MakeSmokeGrenade.description>
 	<!-- EN: Making smoke grenades. -->
-	<MakeSmokeGrenade.jobString>Making smoke grenades.</MakeSmokeGrenade.jobString>
+	<MakeSmokeGrenade.jobString>Fabricando granadas de humo.</MakeSmokeGrenade.jobString>
 	
 	<!-- EN: make firefoam grenades x10 -->
-	<MakeFirefoamGrenade.label>make firefoam grenades x10</MakeFirefoamGrenade.label>
+	<MakeFirefoamGrenade.label>hacer granadas de espuma ignifuga x10</MakeFirefoamGrenade.label>
 	<!-- EN: Craft 10 firefoam grenades. -->
-	<MakeFirefoamGrenade.description>Craft 10 firefoam grenades.</MakeFirefoamGrenade.description>
+	<MakeFirefoamGrenade.description>Fabrica 10 granadas de espuma ignifuga.</MakeFirefoamGrenade.description>
 	<!-- EN: Making firefoam grenades. -->
-	<MakeFirefoamGrenade.jobString>Making firefoam grenades.</MakeFirefoamGrenade.jobString>
+	<MakeFirefoamGrenade.jobString>Fabricando granadas de espuma ignifuga.</MakeFirefoamGrenade.jobString>
 	
 	<!-- EN: make tox grenades x10 -->
-	<MakeToxGrenade.label>make tox grenades x10</MakeToxGrenade.label>
+	<MakeToxGrenade.label>hacer granadas toxicas x10</MakeToxGrenade.label>
 	<!-- EN: Craft 10 tox grenades. -->
-	<MakeToxGrenade.description>Craft 10 tox grenades.</MakeToxGrenade.description>
+	<MakeToxGrenade.description>Fabrica 10 granadas toxicas.</MakeToxGrenade.description>
 	<!-- EN: Making tox grenades. -->
-	<MakeToxGrenade.jobString>Making tox grenades.</MakeToxGrenade.jobString>
+	<MakeToxGrenade.jobString>Fabricando granadas toxicas.</MakeToxGrenade.jobString>
 </LanguageData>
