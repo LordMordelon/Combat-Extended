@@ -2,34 +2,34 @@
 	<!-- Defs\Ammo\Shell\50mmType89Mortar.xml -->
 	
 	<!-- EN: 50mm type 89 mortar shell (HE) -->
-	<Ammo_50mmType89MortarShell_HE.label>50mm type 89 mortar shell (HE)</Ammo_50mmType89MortarShell_HE.label>
+	<Ammo_50mmType89MortarShell_HE.label>obús de mortero tipo 89 de 50 mm (HE)</Ammo_50mmType89MortarShell_HE.label>
 	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
-	<Ammo_50mmType89MortarShell_HE.description>Low-velocity shell designed to be fired from a mortar.</Ammo_50mmType89MortarShell_HE.description>
+	<Ammo_50mmType89MortarShell_HE.description>Proyectil de baja velocidad diseñado para dispararse desde un mortero.</Ammo_50mmType89MortarShell_HE.description>
 	
 	<!-- EN: 50mm type 89 mortar shell (Incendiary) -->
-	<Ammo_50mmType89MortarShell_Incendiary.label>50mm type 89 mortar shell (Incendiary)</Ammo_50mmType89MortarShell_Incendiary.label>
+	<Ammo_50mmType89MortarShell_Incendiary.label>obús de mortero tipo 89 de 50 mm (incendiario)</Ammo_50mmType89MortarShell_Incendiary.label>
 	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
-	<Ammo_50mmType89MortarShell_Incendiary.description>Low-velocity shell designed to be fired from a mortar.</Ammo_50mmType89MortarShell_Incendiary.description>
+	<Ammo_50mmType89MortarShell_Incendiary.description>Proyectil de baja velocidad diseñado para dispararse desde un mortero.</Ammo_50mmType89MortarShell_Incendiary.description>
 	
 	<!-- EN: 50mm type 89 mortar shell (EMP) -->
-	<Ammo_50mmType89MortarShell_EMP.label>50mm type 89 mortar shell (EMP)</Ammo_50mmType89MortarShell_EMP.label>
+	<Ammo_50mmType89MortarShell_EMP.label>obús de mortero tipo 89 de 50 mm (PEM)</Ammo_50mmType89MortarShell_EMP.label>
 	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
-	<Ammo_50mmType89MortarShell_EMP.description>Low-velocity shell designed to be fired from a mortar.</Ammo_50mmType89MortarShell_EMP.description>
+	<Ammo_50mmType89MortarShell_EMP.description>Proyectil de baja velocidad diseñado para dispararse desde un mortero.</Ammo_50mmType89MortarShell_EMP.description>
 	
 	<!-- EN: 50mm type 89 mortar shell (Smoke) -->
-	<Ammo_50mmType89MortarShell_Smoke.label>50mm type 89 mortar shell (Smoke)</Ammo_50mmType89MortarShell_Smoke.label>
+	<Ammo_50mmType89MortarShell_Smoke.label>obús de mortero tipo 89 de 50 mm (humo)</Ammo_50mmType89MortarShell_Smoke.label>
 	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
-	<Ammo_50mmType89MortarShell_Smoke.description>Low-velocity shell designed to be fired from a mortar.</Ammo_50mmType89MortarShell_Smoke.description>
+	<Ammo_50mmType89MortarShell_Smoke.description>Proyectil de baja velocidad diseñado para dispararse desde un mortero.</Ammo_50mmType89MortarShell_Smoke.description>
 	
 	<!-- EN: 50mm type 89 mortar shell (HE) -->
-	<Bullet_50mmType89MortarShell_HE.label>50mm type 89 mortar shell (HE)</Bullet_50mmType89MortarShell_HE.label>
+	<Bullet_50mmType89MortarShell_HE.label>obús de mortero tipo 89 de 50 mm (HE)</Bullet_50mmType89MortarShell_HE.label>
 	
 	<!-- EN: 50mm type 89 mortar shell (Incendiary) -->
-	<Bullet_50mmType89MortarShell_Incendiary.label>50mm type 89 mortar shell (Incendiary)</Bullet_50mmType89MortarShell_Incendiary.label>
+	<Bullet_50mmType89MortarShell_Incendiary.label>obús de mortero tipo 89 de 50 mm (incendiario)</Bullet_50mmType89MortarShell_Incendiary.label>
 	
 	<!-- EN: 50mm type 89 mortar shell (EMP) -->
-	<Bullet_50mmType89MortarShell_EMP.label>50mm type 89 mortar shell (EMP)</Bullet_50mmType89MortarShell_EMP.label>
+	<Bullet_50mmType89MortarShell_EMP.label>obús de mortero tipo 89 de 50 mm (PEM)</Bullet_50mmType89MortarShell_EMP.label>
 	
 	<!-- EN: 50mm type 89 mortar shell (Smoke) -->
-	<Bullet_50mmType89MortarShell_Smoke.label>50mm type 89 mortar shell (Smoke)</Bullet_50mmType89MortarShell_Smoke.label>
+	<Bullet_50mmType89MortarShell_Smoke.label>obús de mortero tipo 89 de 50 mm (humo)</Bullet_50mmType89MortarShell_Smoke.label>
 </LanguageData>

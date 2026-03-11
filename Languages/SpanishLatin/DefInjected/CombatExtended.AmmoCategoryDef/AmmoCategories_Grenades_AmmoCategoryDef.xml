@@ -17,22 +17,22 @@
 	<!-- EN: High-explosive airburst -->
 	<GrenadeHETF.label>alto explosivo de estallido aéreo</GrenadeHETF.label>
 	<!-- EN: Airburst -->
-	<GrenadeHETF.labelShort>Aéreo</GrenadeHETF.labelShort>
+	<GrenadeHETF.labelShort>aéreo</GrenadeHETF.labelShort>
 	<!-- EN: Grenade with a timed fuze designed to detonate mid-flight for maxiumum effectiveness. -->
 	<GrenadeHETF.description>Granada con espoleta temporizada diseñada para detonar en pleno vuelo y lograr máxima efectividad.</GrenadeHETF.description>
 	
 	<!-- EN: EMP -->
-	<GrenadeEMP.label>EMP</GrenadeEMP.label>
+	<GrenadeEMP.label>PEM</GrenadeEMP.label>
 	<!-- EN: Creates an electro-magnetic burst on impact, temporarily disrupting electronic systems and Mechanoids. -->
 	<GrenadeEMP.description>Crea una ráfaga electromagnética al impactar, interrumpiendo temporalmente sistemas electrónicos y mecanoides.</GrenadeEMP.description>
 	
 	<!-- EN: Incendiary -->
-	<GrenadeIncendiary.label>Incendiaria</GrenadeIncendiary.label>
+	<GrenadeIncendiary.label>incendiario</GrenadeIncendiary.label>
 	<!-- EN: Filled with incendiary agent. The agent is dispersed on impact, covering the area in flames. -->
 	<GrenadeIncendiary.description>Rellena con agente incendiario. El agente se dispersa al impacto, cubriendo el área en llamas.</GrenadeIncendiary.description>
 	
 	<!-- EN: Smoke -->
-	<Smoke.label>Humo</Smoke.label>
+	<Smoke.label>humo</Smoke.label>
 	<!-- EN: Filled with a smoke-producing agent. Explodes on impact to generate a thick smokescreen. -->
 	<Smoke.description>Rellena con un agente generador de humo. Explota al impactar para crear una cortina de humo densa.</Smoke.description>
 	
@@ -42,12 +42,12 @@
 	<CNGas.description>Rellena con un agente químico no letal capaz de causar dolor, irritación y ceguera temporal.</CNGas.description>
 	
 	<!-- EN: Toxic -->
-	<Toxic.label>Tóxica</Toxic.label>
+	<Toxic.label>tóxico</Toxic.label>
 	<!-- EN: Filled with tox gas, a caustic agent that burns the lungs and eyes. Continued exposure to it results in toxic buildup which can be lethal. -->
 	<Toxic.description>Rellena con gas tóxico, un agente cáustico que quema pulmones y ojos. La exposición continua produce acumulación tóxica que puede ser letal.</Toxic.description>
 	
 	<!-- EN: Deadlife -->
-	<Deadlife.label>Muerte viviente</Deadlife.label>
+	<Deadlife.label>polvo de necrovita</Deadlife.label>
 	<!-- EN: Filled with a dust-like substance that explodes into a cloud and reanimates nearby corpses. -->
 	<Deadlife.description>Rellena con una sustancia similar al polvo que explota en una nube y reanima cadáveres cercanos.</Deadlife.description>
 </LanguageData>

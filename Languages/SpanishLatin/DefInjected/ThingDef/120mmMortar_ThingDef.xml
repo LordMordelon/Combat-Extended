@@ -2,52 +2,48 @@
 	<!-- Defs\Ammo\Shell\120mmMortar.xml -->
 	
 	<!-- EN: 120mm mortar shell (HE) -->
-	<Shell_120mmMortar_HE.label>120mm mortar shell (HE)</Shell_120mmMortar_HE.label>
+	<Shell_120mmMortar_HE.label>obús de mortero de 120 mm (HE)</Shell_120mmMortar_HE.label>
 	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
-	<Shell_120mmMortar_HE.description>Low-velocity shell designed to be fired from a mortar.</Shell_120mmMortar_HE.description>
+	<Shell_120mmMortar_HE.description>Proyectil de baja velocidad diseñado para dispararse desde un mortero.</Shell_120mmMortar_HE.description>
 	
 	<!-- EN: 120mm mortar shell (Airburst) -->
-	<Shell_120mmMortar_HE_HFuzed.label>120mm mortar shell (Airburst)</Shell_120mmMortar_HE_HFuzed.label>
+	<Shell_120mmMortar_HE_HFuzed.label>obús de mortero de 120 mm (estallido aéreo)</Shell_120mmMortar_HE_HFuzed.label>
 	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
-	<Shell_120mmMortar_HE_HFuzed.description>Low-velocity shell designed to be fired from a mortar.</Shell_120mmMortar_HE_HFuzed.description>
+	<Shell_120mmMortar_HE_HFuzed.description>Proyectil de baja velocidad diseñado para dispararse desde un mortero.</Shell_120mmMortar_HE_HFuzed.description>
 	
 	<!-- EN: 120mm mortar shell (Incendiary) -->
-	<Shell_120mmMortar_Incendiary.label>120mm mortar shell (Incendiary)</Shell_120mmMortar_Incendiary.label>
+	<Shell_120mmMortar_Incendiary.label>obús de mortero de 120 mm (incendiario)</Shell_120mmMortar_Incendiary.label>
 	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
-	<Shell_120mmMortar_Incendiary.description>Low-velocity shell designed to be fired from a mortar.</Shell_120mmMortar_Incendiary.description>
+	<Shell_120mmMortar_Incendiary.description>Proyectil de baja velocidad diseñado para dispararse desde un mortero.</Shell_120mmMortar_Incendiary.description>
 	
 	<!-- EN: 120mm mortar shell (EMP) -->
-	<Shell_120mmMortar_EMP.label>120mm mortar shell (EMP)</Shell_120mmMortar_EMP.label>
+	<Shell_120mmMortar_EMP.label>obús de mortero de 120 mm (PEM)</Shell_120mmMortar_EMP.label>
 	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
-	<Shell_120mmMortar_EMP.description>Low-velocity shell designed to be fired from a mortar.</Shell_120mmMortar_EMP.description>
+	<Shell_120mmMortar_EMP.description>Proyectil de baja velocidad diseñado para dispararse desde un mortero.</Shell_120mmMortar_EMP.description>
 	
 	<!-- EN: 120mm mortar shell (Foam) -->
-	<Shell_120mmMortar_Firefoam.label>120mm mortar shell (Foam)</Shell_120mmMortar_Firefoam.label>
+	<Shell_120mmMortar_Firefoam.label>obús de mortero de 120 mm (espuma cortafuego)</Shell_120mmMortar_Firefoam.label>
 	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
-	<Shell_120mmMortar_Firefoam.description>Low-velocity shell designed to be fired from a mortar.</Shell_120mmMortar_Firefoam.description>
+	<Shell_120mmMortar_Firefoam.description>Proyectil de baja velocidad diseñado para dispararse desde un mortero.</Shell_120mmMortar_Firefoam.description>
 	
 	<!-- EN: 120mm mortar shell (Smoke) -->
-	<Shell_120mmMortar_Smoke.label>120mm mortar shell (Smoke)</Shell_120mmMortar_Smoke.label>
+	<Shell_120mmMortar_Smoke.label>obús de mortero de 120 mm (humo)</Shell_120mmMortar_Smoke.label>
 	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
-	<Shell_120mmMortar_Smoke.description>Low-velocity shell designed to be fired from a mortar.</Shell_120mmMortar_Smoke.description>
+	<Shell_120mmMortar_Smoke.description>Proyectil de baja velocidad diseñado para dispararse desde un mortero.</Shell_120mmMortar_Smoke.description>
 	
-	<!-- EN: 120mm mortar shell (HE) -->
-	<Bullet_120mmMortarShell_HE.label>120mm mortar shell (HE)</Bullet_120mmMortarShell_HE.label>
-	
-	<!-- EN: 120mm mortar shell (Airburst) -->
-	<Bullet_120mmMortarShell_HE_HFuzed.label>120mm mortar shell (Airburst)</Bullet_120mmMortarShell_HE_HFuzed.label>
 	<!-- EN: mortar shell (Airburst) -->
-	<Bullet_120mmMortarShell_HE_HFuzed.modExtensions.0.genericLabel>mortar shell (Airburst)</Bullet_120mmMortarShell_HE_HFuzed.modExtensions.0.genericLabel>
-	
+	<Bullet_120mmMortarShell_HE_HFuzed.modExtensions.0.genericLabel>obús de mortero (estallido aéreo)</Bullet_120mmMortarShell_HE_HFuzed.modExtensions.0.genericLabel>
+	<!-- EN: 120mm mortar shell (HE) -->
+	<Bullet_120mmMortarShell_HE.label>obús de mortero de 120 mm (HE)</Bullet_120mmMortarShell_HE.label>
+	<!-- EN: 120mm mortar shell (Airburst) -->
+	<Bullet_120mmMortarShell_HE_HFuzed.label>obús de mortero de 120 mm (estallido aéreo)</Bullet_120mmMortarShell_HE_HFuzed.label>
 	<!-- EN: 120mm mortar shell (Incendiary) -->
-	<Bullet_120mmMortarShell_Incendiary.label>120mm mortar shell (Incendiary)</Bullet_120mmMortarShell_Incendiary.label>
-	
+	<Bullet_120mmMortarShell_Incendiary.label>obús de mortero de 120 mm (incendiario)</Bullet_120mmMortarShell_Incendiary.label>
 	<!-- EN: 120mm mortar shell (EMP) -->
-	<Bullet_120mmMortarShell_EMP.label>120mm mortar shell (EMP)</Bullet_120mmMortarShell_EMP.label>
-	
+	<Bullet_120mmMortarShell_EMP.label>obús de mortero de 120 mm (PEM)</Bullet_120mmMortarShell_EMP.label>
 	<!-- EN: 120mm mortar shell (Foam) -->
-	<Bullet_120mmMortarShell_Firefoam.label>120mm mortar shell (Foam)</Bullet_120mmMortarShell_Firefoam.label>
-	
+	<Bullet_120mmMortarShell_Firefoam.label>obús de mortero de 120 mm (espuma cortafuego)</Bullet_120mmMortarShell_Firefoam.label>
 	<!-- EN: 120mm mortar shell (Smoke) -->
-	<Bullet_120mmMortarShell_Smoke.label>120mm mortar shell (Smoke)</Bullet_120mmMortarShell_Smoke.label>
+	<Bullet_120mmMortarShell_Smoke.label>obús de mortero de 120 mm (humo)</Bullet_120mmMortarShell_Smoke.label>
+
 </LanguageData>

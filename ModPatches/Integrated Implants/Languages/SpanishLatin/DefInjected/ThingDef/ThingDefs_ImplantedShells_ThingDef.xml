@@ -1,42 +1,42 @@
 <LanguageData>
 	<!-- ModPatches\Integrated Implants\Defs\Integrated Implants\ThingDefs_ImplantedShells.xml -->
 	<!-- EN: 81mm mortar shell (HE) -->
-	<Shell_HighExplosive_Dummy.label>81mm mortar shell (HE)</Shell_HighExplosive_Dummy.label>
+	<Shell_HighExplosive_Dummy.label>proyectil de mortero de 81 mm (HE)</Shell_HighExplosive_Dummy.label>
 	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
-	<Shell_HighExplosive_Dummy.description>Low-velocity shell designed to be fired from a mortar.</Shell_HighExplosive_Dummy.description>
+	<Shell_HighExplosive_Dummy.description>Proyectil de baja velocidad diseñado para dispararse desde un mortero.</Shell_HighExplosive_Dummy.description>
 	
 	<!-- EN: 81mm mortar shell (Anti) -->
-	<Shell_Anti_Dummy.label>81mm mortar shell (Anti)</Shell_Anti_Dummy.label>
+	<Shell_Anti_Dummy.label>proyectil de mortero de 81 mm (Anti)</Shell_Anti_Dummy.label>
 	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
-	<Shell_Anti_Dummy.description>Low-velocity shell designed to be fired from a mortar.</Shell_Anti_Dummy.description>
+	<Shell_Anti_Dummy.description>Proyectil de baja velocidad diseñado para dispararse desde un mortero.</Shell_Anti_Dummy.description>
 	
 	<!-- EN: 81mm mortar shell (Incendiary) -->
-	<Shell_Incendiary_Dummy.label>81mm mortar shell (Incendiary)</Shell_Incendiary_Dummy.label>
+	<Shell_Incendiary_Dummy.label>proyectil de mortero de 81 mm (incendiario)</Shell_Incendiary_Dummy.label>
 	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
-	<Shell_Incendiary_Dummy.description>Low-velocity shell designed to be fired from a mortar.</Shell_Incendiary_Dummy.description>
+	<Shell_Incendiary_Dummy.description>Proyectil de baja velocidad diseñado para dispararse desde un mortero.</Shell_Incendiary_Dummy.description>
 	
 	<!-- EN: 81mm mortar shell (Smoke) -->
-	<Shell_Smoke_Dummy.label>81mm mortar shell (Smoke)</Shell_Smoke_Dummy.label>
+	<Shell_Smoke_Dummy.label>proyectil de mortero de 81 mm (humo)</Shell_Smoke_Dummy.label>
 	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
-	<Shell_Smoke_Dummy.description>Low-velocity shell designed to be fired from a mortar.</Shell_Smoke_Dummy.description>
+	<Shell_Smoke_Dummy.description>Proyectil de baja velocidad diseñado para dispararse desde un mortero.</Shell_Smoke_Dummy.description>
 	
 	<!-- EN: 81mm mortar shell (Foam) -->
-	<Shell_Foam_Dummy.label>81mm mortar shell (Foam)</Shell_Foam_Dummy.label>
+	<Shell_Foam_Dummy.label>proyectil de mortero de 81 mm (espuma cortafuego)</Shell_Foam_Dummy.label>
 	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
-	<Shell_Foam_Dummy.description>Low-velocity shell designed to be fired from a mortar.</Shell_Foam_Dummy.description>
+	<Shell_Foam_Dummy.description>Proyectil de baja velocidad diseñado para dispararse desde un mortero.</Shell_Foam_Dummy.description>
 	
 	<!-- EN: 81mm mortar shell (EMP) -->
-	<Shell_EMP_Dummy.label>81mm mortar shell (EMP)</Shell_EMP_Dummy.label>
+	<Shell_EMP_Dummy.label>proyectil de mortero de 81 mm (PEM)</Shell_EMP_Dummy.label>
 	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
-	<Shell_EMP_Dummy.description>Low-velocity shell designed to be fired from a mortar.</Shell_EMP_Dummy.description>
+	<Shell_EMP_Dummy.description>Proyectil de baja velocidad diseñado para dispararse desde un mortero.</Shell_EMP_Dummy.description>
 	
 	<!-- EN: 81mm mortar shell (Toxic) -->
-	<Shell_Toxic_Dummy.label>81mm mortar shell (Toxic)</Shell_Toxic_Dummy.label>
+	<Shell_Toxic_Dummy.label>proyectil de mortero de 81 mm (tóxico)</Shell_Toxic_Dummy.label>
 	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
-	<Shell_Toxic_Dummy.description>Low-velocity shell designed to be fired from a mortar.</Shell_Toxic_Dummy.description>
+	<Shell_Toxic_Dummy.description>Proyectil de baja velocidad diseñado para dispararse desde un mortero.</Shell_Toxic_Dummy.description>
 	
 	<!-- EN: 81mm mortar shell (Deadlife) -->
-	<Shell_Deadlife_Dummy.label>81mm mortar shell (Deadlife)</Shell_Deadlife_Dummy.label>
+	<Shell_Deadlife_Dummy.label>proyectil de mortero de 81 mm (Deadlife)</Shell_Deadlife_Dummy.label>
 	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
-	<Shell_Deadlife_Dummy.description>Low-velocity shell designed to be fired from a mortar.</Shell_Deadlife_Dummy.description>
+	<Shell_Deadlife_Dummy.description>Proyectil de baja velocidad diseñado para dispararse desde un mortero.</Shell_Deadlife_Dummy.description>
 </LanguageData>

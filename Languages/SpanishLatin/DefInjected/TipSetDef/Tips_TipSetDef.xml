@@ -91,7 +91,7 @@
 	<!-- EN: Incendiary mortar shells will airburst and set fire to large areas. -->
 	<CombatExtendedCoreTips.tips.44>Los proyectiles incendiarios de mortero estallan en el aire y prenden fuego a grandes áreas.</CombatExtendedCoreTips.tips.44>
 	<!-- EN: Prometheum is a self-igniting liquid that sticks to surfaces and is impossible to extinguish without firefoam. -->
-	<CombatExtendedCoreTips.tips.45>El prometeio es un líquido autoignitable que se adhiere a las superficies y es imposible de apagar sin espuma contra incendios.</CombatExtendedCoreTips.tips.45>
+	<CombatExtendedCoreTips.tips.45>El prometeio es un líquido autoignitable que se adhiere a las superficies y es imposible de apagar sin espuma cortafuego.</CombatExtendedCoreTips.tips.45>
 	<!-- EN: It's not just carried items that count against your colonists' carry weight. Clothes and armor slow them down, too. -->
 	<CombatExtendedCoreTips.tips.46>No solo los objetos que llevan cuentan para el peso de carga de tus colonos. La ropa y la armadura también los ralentizan.</CombatExtendedCoreTips.tips.46>
 	<!-- EN: Colonists wearing bulky clothing or carrying bulky equipment will work more slowly and be less effective in melee combat. -->

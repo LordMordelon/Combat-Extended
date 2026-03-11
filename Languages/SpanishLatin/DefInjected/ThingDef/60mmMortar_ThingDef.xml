@@ -2,42 +2,42 @@
 	<!-- Defs\Ammo\Shell\60mmMortar.xml -->
 	
 	<!-- EN: 60mm mortar shell (HE) -->
-	<Shell_60mmMortar_HE.label>60mm mortar shell (HE)</Shell_60mmMortar_HE.label>
+	<Shell_60mmMortar_HE.label>obús de mortero de 60 mm (HE)</Shell_60mmMortar_HE.label>
 	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
-	<Shell_60mmMortar_HE.description>Low-velocity shell designed to be fired from a mortar.</Shell_60mmMortar_HE.description>
+	<Shell_60mmMortar_HE.description>Proyectil de baja velocidad diseñado para dispararse desde un mortero.</Shell_60mmMortar_HE.description>
 	
 	<!-- EN: 60mm mortar shell (Incendiary) -->
-	<Shell_60mmMortar_Incendiary.label>60mm mortar shell (Incendiary)</Shell_60mmMortar_Incendiary.label>
+	<Shell_60mmMortar_Incendiary.label>obús de mortero de 60 mm (incendiario)</Shell_60mmMortar_Incendiary.label>
 	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
-	<Shell_60mmMortar_Incendiary.description>Low-velocity shell designed to be fired from a mortar.</Shell_60mmMortar_Incendiary.description>
+	<Shell_60mmMortar_Incendiary.description>Proyectil de baja velocidad diseñado para dispararse desde un mortero.</Shell_60mmMortar_Incendiary.description>
 	
 	<!-- EN: 60mm mortar shell (EMP) -->
-	<Shell_60mmMortar_EMP.label>60mm mortar shell (EMP)</Shell_60mmMortar_EMP.label>
+	<Shell_60mmMortar_EMP.label>obús de mortero de 60 mm (PEM)</Shell_60mmMortar_EMP.label>
 	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
-	<Shell_60mmMortar_EMP.description>Low-velocity shell designed to be fired from a mortar.</Shell_60mmMortar_EMP.description>
+	<Shell_60mmMortar_EMP.description>Proyectil de baja velocidad diseñado para dispararse desde un mortero.</Shell_60mmMortar_EMP.description>
 	
 	<!-- EN: 60mm mortar shell (Foam) -->
-	<Shell_60mmMortar_Firefoam.label>60mm mortar shell (Foam)</Shell_60mmMortar_Firefoam.label>
+	<Shell_60mmMortar_Firefoam.label>obús de mortero de 60 mm (espuma cortafuego)</Shell_60mmMortar_Firefoam.label>
 	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
-	<Shell_60mmMortar_Firefoam.description>Low-velocity shell designed to be fired from a mortar.</Shell_60mmMortar_Firefoam.description>
+	<Shell_60mmMortar_Firefoam.description>Proyectil de baja velocidad diseñado para dispararse desde un mortero.</Shell_60mmMortar_Firefoam.description>
 	
 	<!-- EN: 60mm mortar shell (Smoke) -->
-	<Shell_60mmMortar_Smoke.label>60mm mortar shell (Smoke)</Shell_60mmMortar_Smoke.label>
+	<Shell_60mmMortar_Smoke.label>obús de mortero de 60 mm (humo)</Shell_60mmMortar_Smoke.label>
 	<!-- EN: Low-velocity shell designed to be fired from a mortar. -->
-	<Shell_60mmMortar_Smoke.description>Low-velocity shell designed to be fired from a mortar.</Shell_60mmMortar_Smoke.description>
+	<Shell_60mmMortar_Smoke.description>Proyectil de baja velocidad diseñado para dispararse desde un mortero.</Shell_60mmMortar_Smoke.description>
 	
 	<!-- EN: 60mm mortar shell (HE) -->
-	<Bullet_60mmMortarShell_HE.label>60mm mortar shell (HE)</Bullet_60mmMortarShell_HE.label>
+	<Bullet_60mmMortarShell_HE.label>obús de mortero de 60 mm (HE)</Bullet_60mmMortarShell_HE.label>
 	
 	<!-- EN: 60mm mortar shell (Incendiary) -->
-	<Bullet_60mmMortarShell_Incendiary.label>60mm mortar shell (Incendiary)</Bullet_60mmMortarShell_Incendiary.label>
+	<Bullet_60mmMortarShell_Incendiary.label>obús de mortero de 60 mm (incendiario)</Bullet_60mmMortarShell_Incendiary.label>
 	
 	<!-- EN: 60mm mortar shell (EMP) -->
-	<Bullet_60mmMortarShell_EMP.label>60mm mortar shell (EMP)</Bullet_60mmMortarShell_EMP.label>
+	<Bullet_60mmMortarShell_EMP.label>obús de mortero de 60 mm (PEM)</Bullet_60mmMortarShell_EMP.label>
 	
 	<!-- EN: 60mm mortar shell (Foam) -->
-	<Bullet_60mmMortarShell_Firefoam.label>60mm mortar shell (Foam)</Bullet_60mmMortarShell_Firefoam.label>
+	<Bullet_60mmMortarShell_Firefoam.label>obús de mortero de 60 mm (espuma cortafuego)</Bullet_60mmMortarShell_Firefoam.label>
 	
 	<!-- EN: 60mm mortar shell (Smoke) -->
-	<Bullet_60mmMortarShell_Smoke.label>60mm mortar shell (Smoke)</Bullet_60mmMortarShell_Smoke.label>
+	<Bullet_60mmMortarShell_Smoke.label>obús de mortero de 60 mm (humo)</Bullet_60mmMortarShell_Smoke.label>
 </LanguageData>
