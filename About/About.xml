@@ -1,5 +1,5 @@
 <ModMetaData>
-	<name>Combat Extended</name>
+	<name>Combat Extended [Español Latino]</name>
 	<author>Mordelon</author>
 	<packageId>Mordelon.CETeam.CombatExtended</packageId>
 	<supportedVersions>
@@ -9,7 +9,7 @@
 		<li>
 			<packageId>CETeam.CombatExtended</packageId>
 			<displayName>Combat Extended</displayName>
-			<steamWorkshopUrl>https:/steamcommunity.com/sharedfiles/filedetails/?id=2890901044</steamWorkshopUrl>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2890901044</steamWorkshopUrl>
 		</li>
 	</modDependencies>
 	<loadAfter>
@@ -18,7 +18,7 @@
 	<description>Traducción de Combat Extended
 
 Amplía las mecánicas de combate para hacerlas más profundas y tácticas.
-https:/steamcommunity.com/sharedfiles/filedetails/?id=2890901044
+https://steamcommunity.com/sharedfiles/filedetails/?id=2890901044
 
 Si notas algo sin traducir, escríbelo en los comentarios de la traducción ^_^</description>
 </ModMetaData>
