@@ -17,7 +17,7 @@
 	<Ammo_GreatArrow_Plasteel.description>Flecha pesada diseñada para ser disparada desde un arco grande.</Ammo_GreatArrow_Plasteel.description>
 	
 	<!-- EN: great arrow (venom) -->
-	<Ammo_GreatArrow_Venom.label>flecha grande (toxica)</Ammo_GreatArrow_Venom.label>
+	<Ammo_GreatArrow_Venom.label>flecha grande (venenosa)</Ammo_GreatArrow_Venom.label>
 	<!-- EN: Heavy arrow designed to be fired from a great bow. -->
 	<Ammo_GreatArrow_Venom.description>Flecha pesada diseñada para ser disparada desde un arco grande.</Ammo_GreatArrow_Venom.description>
 	
@@ -36,7 +36,7 @@
 	<Projectile_GreatArrow_Plasteel.label>flecha grande (plastiacero)</Projectile_GreatArrow_Plasteel.label>
 	
 	<!-- EN: great arrow (venom) -->
-	<Projectile_GreatArrow_Venom.label>flecha grande (toxica)</Projectile_GreatArrow_Venom.label>
+	<Projectile_GreatArrow_Venom.label>flecha grande (venenosa)</Projectile_GreatArrow_Venom.label>
 	
 	<!-- EN: great arrow (flame) -->
 	<Projectile_GreatArrow_Flame.label>flecha grande (incendiaria)</Projectile_GreatArrow_Flame.label>

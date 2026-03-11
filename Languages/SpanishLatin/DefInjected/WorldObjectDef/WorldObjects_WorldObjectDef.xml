@@ -1,7 +1,7 @@
 <LanguageData>
 	<!-- Defs\WorldObjectDefs\WorldObjects.xml -->
 	<!-- EN: Artillery Shell -->
-	<TravelingShell.label>Proyectil de Artillería</TravelingShell.label>
+	<TravelingShell.label>Proyectil de artillería</TravelingShell.label>
 	<!-- EN: An artillery projectile. -->
 	<TravelingShell.description>Un proyectil de artillería.</TravelingShell.description>
 </LanguageData>
