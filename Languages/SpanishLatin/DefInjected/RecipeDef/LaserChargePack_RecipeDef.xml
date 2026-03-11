@@ -2,16 +2,16 @@
 	<!-- Defs\Ammo\Advanced\LaserChargePack.xml -->
 	
 	<!-- EN: make laser charge pack x500 -->
-	<MakeAmmo_LaserChargePack.label>make laser charge pack x500</MakeAmmo_LaserChargePack.label>
+	<MakeAmmo_LaserChargePack.label>fabricar paquete de carga láser x500</MakeAmmo_LaserChargePack.label>
 	<!-- EN: Craft 500 laser charge pack. -->
-	<MakeAmmo_LaserChargePack.description>Craft 500 laser charge pack.</MakeAmmo_LaserChargePack.description>
+	<MakeAmmo_LaserChargePack.description>Fabrica 500 paquetes de carga láser.</MakeAmmo_LaserChargePack.description>
 	<!-- EN: Making laser charge pack. -->
-	<MakeAmmo_LaserChargePack.jobString>Making laser charge pack.</MakeAmmo_LaserChargePack.jobString>
+	<MakeAmmo_LaserChargePack.jobString>Fabricando paquete de carga láser.</MakeAmmo_LaserChargePack.jobString>
 	
 	<!-- EN: make mechanoid laser charge pack x500 -->
-	<MakeAmmo_LaserChargePack_Mech.label>make mechanoid laser charge pack x500</MakeAmmo_LaserChargePack_Mech.label>
+	<MakeAmmo_LaserChargePack_Mech.label>fabricar paquete de carga láser mecanoide x500</MakeAmmo_LaserChargePack_Mech.label>
 	<!-- EN: Craft 500 mechanoid laser charge pack. -->
-	<MakeAmmo_LaserChargePack_Mech.description>Craft 500 mechanoid laser charge pack.</MakeAmmo_LaserChargePack_Mech.description>
+	<MakeAmmo_LaserChargePack_Mech.description>Fabrica 500 paquetes de carga láser mecanoides.</MakeAmmo_LaserChargePack_Mech.description>
 	<!-- EN: Making mechanoid laser charge pack. -->
-	<MakeAmmo_LaserChargePack_Mech.jobString>Making mechanoid laser charge pack.</MakeAmmo_LaserChargePack_Mech.jobString>
+	<MakeAmmo_LaserChargePack_Mech.jobString>Fabricando paquete de carga láser mecanoide.</MakeAmmo_LaserChargePack_Mech.jobString>
 </LanguageData>

@@ -20,12 +20,12 @@
 	<Ionized.description>Diseñado para combatir mecanoides, este cartucho crea una corriente eléctrica al impactar, interrumpiendo temporalmente sistemas electrónicos.</Ionized.description>
 	
 	<!-- EN: laser -->
-	<Laser.label>laser</Laser.label>
+	<Laser.label>láser</Laser.label>
 	<!-- EN: A concentrated beam or bolt of radiation, imparting disruptive energy into the target. -->
 	<Laser.description>Un haz o pulso concentrado de radiación que transmite energía disruptiva al objetivo.</Laser.description>
 	
 	<!-- EN: laser (mech) -->
-	<Laser_Mech.label>laser (meca)</Laser_Mech.label>
+	<Laser_Mech.label>láser (meca)</Laser_Mech.label>
 	<!-- EN: A concentrated beam or bolt of radiation, imparting disruptive energy into the target. -->
 	<Laser_Mech.description>Un haz o pulso concentrado de radiación que transmite energía disruptiva al objetivo.</Laser_Mech.description>
 	
@@ -35,12 +35,12 @@
 	<IncendiaryFuel.description>Rellena con agente incendiario que prende despues del impacto.</IncendiaryFuel.description>
 	
 	<!-- EN: jellied chemfuel -->
-	<NapalmFuel.label>combustible en gel</NapalmFuel.label>
+	<NapalmFuel.label>quimbustible en gel</NapalmFuel.label>
 	<!-- EN: Highly flammable liquid, burns over time and catches nearby objects on fire. -->
 	<NapalmFuel.description>Líquido altamente inflamable, arde con el tiempo y prende fuego a objetos cercanos.</NapalmFuel.description>
 	
 	<!-- EN: jellied prometheum -->
-	<JelliedPrometheumFuel.label>prometeo en gel</JelliedPrometheumFuel.label>
+	<JelliedPrometheumFuel.label>prometeio en gel</JelliedPrometheumFuel.label>
 	<!-- EN: Advanced pyrophoric compound in gel-form. Self-ignites on contact with air, sticks to skin and seeps into openings, burning even mechanoids. -->
 	<JelliedPrometheumFuel.description>Compuesto piroforico avanzado en forma de gel. Se enciende al contacto con el aire, se adhiere a la piel y se filtra por aberturas, quemando incluso mecanoides.</JelliedPrometheumFuel.description>
 	

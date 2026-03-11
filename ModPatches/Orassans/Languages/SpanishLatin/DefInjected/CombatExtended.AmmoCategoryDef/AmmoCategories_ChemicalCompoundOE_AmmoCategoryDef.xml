@@ -1,19 +1,19 @@
 <LanguageData>
 	<!-- ModPatches\Orassans\Defs\Orassans\Ammo\AmmoCategories_ChemicalCompoundOE.xml -->
 	<!-- EN: accelerated jellied prometheum -->
-	<ChemicalMunitionCompoundAprometheum.label>accelerated jellied prometheum</ChemicalMunitionCompoundAprometheum.label>
+	<ChemicalMunitionCompoundAprometheum.label>prometeio gelificado acelerado</ChemicalMunitionCompoundAprometheum.label>
 	<!-- EN: A.Prometheum -->
-	<ChemicalMunitionCompoundAprometheum.labelShort>A.Prometheum</ChemicalMunitionCompoundAprometheum.labelShort>
+	<ChemicalMunitionCompoundAprometheum.labelShort>A.Prometeio</ChemicalMunitionCompoundAprometheum.labelShort>
 	<!-- EN: Filled with mixture of potent but short-living version of prometheum. -->
-	<ChemicalMunitionCompoundAprometheum.description>Filled with mixture of potent but short-living version of prometheum.</ChemicalMunitionCompoundAprometheum.description>
+	<ChemicalMunitionCompoundAprometheum.description>Rellena con una mezcla de una versión potente pero de corta duración de prometeio.</ChemicalMunitionCompoundAprometheum.description>
 	
 	<!-- EN: Thermobaric -->
-	<ChemicalMunitionCompoundThermobaric.label>Thermobaric</ChemicalMunitionCompoundThermobaric.label>
+	<ChemicalMunitionCompoundThermobaric.label>termobárico</ChemicalMunitionCompoundThermobaric.label>
 	<!-- EN: Filled with mixture that disperses and subsequently ignites a fuel-air explosive mix, creating a powerful explosion and potentially igniting flammable objects. -->
-	<ChemicalMunitionCompoundThermobaric.description>Filled with mixture that disperses and subsequently ignites a fuel-air explosive mix, creating a powerful explosion and potentially igniting flammable objects.</ChemicalMunitionCompoundThermobaric.description>
+	<ChemicalMunitionCompoundThermobaric.description>Rellena con una mezcla que se dispersa y posteriormente enciende una mezcla explosiva de combustible y aire, creando una potente explosión y potencialmente incendiando objetos inflamables.</ChemicalMunitionCompoundThermobaric.description>
 	
 	<!-- EN: Cryo -->
-	<ChemicalMunitionCompoundCryo.label>Cryo</ChemicalMunitionCompoundCryo.label>
+	<ChemicalMunitionCompoundCryo.label>crio</ChemicalMunitionCompoundCryo.label>
 	<!-- EN: Filled with mixture of solid hydrogen and unstable compounds that vaporizes on contact with the air. -->
-	<ChemicalMunitionCompoundCryo.description>Filled with mixture of solid hydrogen and unstable compounds that vaporizes on contact with the air.</ChemicalMunitionCompoundCryo.description>
+	<ChemicalMunitionCompoundCryo.description>Rellena con una mezcla de hidrógeno sólido y compuestos inestables que se vaporiza al contacto con el aire.</ChemicalMunitionCompoundCryo.description>
 </LanguageData>

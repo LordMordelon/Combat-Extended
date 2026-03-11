@@ -3,7 +3,7 @@
 	<!-- EN: nerve spiker bolt -->
 	<Ammo_NerveSpikerBolt.label>virote perforanervios</Ammo_NerveSpikerBolt.label>
 	<!-- EN: A heavy bioferrite bolt, shaped to be fired from a nerve spiker.\n\nThough simple to make, these bolts are brittle and tend to deform or break on impact. -->
-	<Ammo_NerveSpikerBolt.description>Un pesado virote de bioferrita, moldeado para ser disparado desde un perforanervios.\n\nAunque es sencillo de fabricar, estos virotes son fragiles y tienden a deformarse o romperse al impactar.</Ammo_NerveSpikerBolt.description>
+	<Ammo_NerveSpikerBolt.description>Un pesado virote de bioferrita, moldeado para ser disparado desde un pinchador de nervios.\n\nAunque es sencillo de fabricar, estos virotes son fragiles y tienden a deformarse o romperse al impactar.</Ammo_NerveSpikerBolt.description>
 	<!-- EN: nerve spiker bolt -->
 	<Projectile_NerveSpikerBolt.label>virote perforanervios</Projectile_NerveSpikerBolt.label>
 </LanguageData>

@@ -2,11 +2,11 @@
 	<!-- Defs\Ammo\Medieval\CannonBall.xml -->
 	
 	<!-- EN: make round shot cannon balls x5 -->
-	<MakeAmmo_CannonBall_Round.label>fabricar balas redondas de cañón x5</MakeAmmo_CannonBall_Round.label>
+	<MakeAmmo_CannonBall_Round.label>fabricar balas de cañón x5</MakeAmmo_CannonBall_Round.label>
 	<!-- EN: Craft 5 round shot cannon balls. -->
-	<MakeAmmo_CannonBall_Round.description>Fabrica 5 balas redondas de cañón.</MakeAmmo_CannonBall_Round.description>
+	<MakeAmmo_CannonBall_Round.description>Fabrica 5 balas de cañón.</MakeAmmo_CannonBall_Round.description>
 	<!-- EN: Making round shot cannon balls. -->
-	<MakeAmmo_CannonBall_Round.jobString>Fabricando balas redondas de cañón.</MakeAmmo_CannonBall_Round.jobString>
+	<MakeAmmo_CannonBall_Round.jobString>Fabricando balas de cañón.</MakeAmmo_CannonBall_Round.jobString>
 	
 	<!-- EN: make bursting cannon shells x5 -->
 	<MakeAmmo_CannonBall_Bursting.label>fabricar proyectiles explosivos de cañón x5</MakeAmmo_CannonBall_Bursting.label>

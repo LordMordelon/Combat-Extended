@@ -32,7 +32,7 @@
 	<CE_ThermalBoltProjector.tools.0.label>cañón</CE_ThermalBoltProjector.tools.0.label>
 	
 	<!-- EN: flare gun -->
-	<CE_FlareGun.label>lanzador de bengalas</CE_FlareGun.label>
+	<CE_FlareGun.label>pistola de bengalas</CE_FlareGun.label>
 	<!-- EN: An ancient, single-shot flare gun, used for signaling or illumination. Loaded from the breech, its barrel is too thin to fire anything but flares. -->
 	<CE_FlareGun.description>Una antigua pistola lanzadora de bengalas de un tiro, usada para señales o iluminación. Cargada por la recámara, su cañón es demasiado fino para disparar otra cosa que bengalas.</CE_FlareGun.description>
 	<!-- EN: ㅤ -->

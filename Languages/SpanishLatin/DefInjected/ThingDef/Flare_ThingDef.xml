@@ -7,7 +7,7 @@
 	<!-- EN: A flare round for illumination. -->
 	<Ammo_Flare.description>Una ronda de bengala para iluminación.</Ammo_Flare.description>
 	<!-- EN: bioferrite flare round -->
-	<Ammo_FlareBioferrite.label>ronda bengala biofierrita</Ammo_FlareBioferrite.label>
+	<Ammo_FlareBioferrite.label>ronda bengala bioferrosa</Ammo_FlareBioferrite.label>
 	<!-- EN: A flare round for illumination. -->
 	<Ammo_FlareBioferrite.description>Una ronda de bengala para iluminación.</Ammo_FlareBioferrite.description>
 	<!-- EN: flare -->
@@ -15,5 +15,5 @@
 	<!-- EN: disruptor flare -->
 	<CE_DisruptorFlareSmall.label>bengala disruptora</CE_DisruptorFlareSmall.label>
 	<!-- EN: bioferrite flare -->
-	<Bullet_FlareBioferrite.label>bengala biofierrita</Bullet_FlareBioferrite.label>
+	<Bullet_FlareBioferrite.label>bengala bioferrosa</Bullet_FlareBioferrite.label>
 </LanguageData>
