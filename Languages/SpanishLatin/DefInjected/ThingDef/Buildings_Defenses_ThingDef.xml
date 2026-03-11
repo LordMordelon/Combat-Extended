@@ -1,7 +1,7 @@
 <LanguageData>
 	<!-- Defs\ThingDefs_Buildings\Buildings_Defenses.xml -->
 	<!-- EN: barbed wire -->
-	<CE_BarbedWire.label>alambre de puas</CE_BarbedWire.label>
+	<CE_BarbedWire.label>alambre de púas</CE_BarbedWire.label>
 	<!-- EN: Cheap defence system that slows down enemies. -->
 	<CE_BarbedWire.description>Sistema de defensa barato que ralentiza a los enemigos.</CE_BarbedWire.description>
 	

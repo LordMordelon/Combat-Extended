@@ -3,31 +3,31 @@
 	<!-- EN: charge -->
 	<Charged.label>carga</Charged.label>
 	<!-- EN: The charged particle coating disrupts armor and tissue in equal measure. -->
-	<Charged.description>El recubrimiento de particulas cargadas altera armadura y tejido por igual.</Charged.description>
+	<Charged.description>El recubrimiento de partículas cargadas altera armadura y tejido por igual.</Charged.description>
 	
 	<!-- EN: concentrated charge -->
 	<ChargedAP.label>carga concentrada</ChargedAP.label>
 	<!-- EN: conc. -->
 	<ChargedAP.labelShort>conc.</ChargedAP.labelShort>
 	<!-- EN: Focuses charged particles around the tip of the core for improved armor penetration at the cost of stopping power. -->
-	<ChargedAP.description>Concentra particulas cargadas alrededor de la punta del nucleo para mejorar la penetracion de armadura a costa de poder de detencion.</ChargedAP.description>
+	<ChargedAP.description>Concentra partículas cargadas alrededor de la punta del núcleo para mejorar la penetración de armadura a costa de poder de detención.</ChargedAP.description>
 	
 	<!-- EN: ion charge -->
-	<Ionized.label>carga ionica</Ionized.label>
+	<Ionized.label>carga iónica</Ionized.label>
 	<!-- EN: ion -->
 	<Ionized.labelShort>ion</Ionized.labelShort>
 	<!-- EN: Designed to combat mechanoids, the round creates an electrical current on impact, disrupting electronic systems temporarily. -->
-	<Ionized.description>Disenado para combatir mecanoides, este cartucho crea una corriente electrica al impactar, interrumpiendo temporalmente sistemas electronicos.</Ionized.description>
+	<Ionized.description>Diseñado para combatir mecanoides, este cartucho crea una corriente eléctrica al impactar, interrumpiendo temporalmente sistemas electrónicos.</Ionized.description>
 	
 	<!-- EN: laser -->
 	<Laser.label>laser</Laser.label>
 	<!-- EN: A concentrated beam or bolt of radiation, imparting disruptive energy into the target. -->
-	<Laser.description>Un haz o pulso concentrado de radiacion que transmite energia disruptiva al objetivo.</Laser.description>
+	<Laser.description>Un haz o pulso concentrado de radiación que transmite energía disruptiva al objetivo.</Laser.description>
 	
 	<!-- EN: laser (mech) -->
 	<Laser_Mech.label>laser (mech)</Laser_Mech.label>
 	<!-- EN: A concentrated beam or bolt of radiation, imparting disruptive energy into the target. -->
-	<Laser_Mech.description>Un haz o pulso concentrado de radiacion que transmite energia disruptiva al objetivo.</Laser_Mech.description>
+	<Laser_Mech.description>Un haz o pulso concentrado de radiación que transmite energía disruptiva al objetivo.</Laser_Mech.description>
 	
 	<!-- EN: incendiary -->
 	<IncendiaryFuel.label>incendiaria</IncendiaryFuel.label>
@@ -37,7 +37,7 @@
 	<!-- EN: jellied chemfuel -->
 	<NapalmFuel.label>combustible en gel</NapalmFuel.label>
 	<!-- EN: Highly flammable liquid, burns over time and catches nearby objects on fire. -->
-	<NapalmFuel.description>Liquido altamente inflamable, arde con el tiempo y prende fuego a objetos cercanos.</NapalmFuel.description>
+	<NapalmFuel.description>Líquido altamente inflamable, arde con el tiempo y prende fuego a objetos cercanos.</NapalmFuel.description>
 	
 	<!-- EN: jellied prometheum -->
 	<JelliedPrometheumFuel.label>prometeo en gel</JelliedPrometheumFuel.label>
@@ -47,27 +47,27 @@
 	<!-- EN: bioferrite -->
 	<Bioferrite.label>bioferrite</Bioferrite.label>
 	<!-- EN: An infusion of crystalline bioferrite attacks organic matter on a cellular level, disrupting regeneration and weakening tisue. -->
-	<Bioferrite.description>Una infusion de bioferrita cristalina ataca materia organica a nivel celular, alterando la regeneracion y debilitando tejido.</Bioferrite.description>
+	<Bioferrite.description>Una infusión de bioferrita cristalina ataca materia orgánica a nivel celular, alterando la regeneración y debilitando tejido.</Bioferrite.description>
 	
 	<!-- EN: thermobaric -->
-	<ThermobaricFuel.label>thermobaric</ThermobaricFuel.label>
+	<ThermobaricFuel.label>termobárico</ThermobaricFuel.label>
 	<!-- EN: Filled with high-explosive aerosol that causes a large explosion and ignites flammable materials. -->
 	<ThermobaricFuel.description>Rellena con aerosol de alto explosivo que causa una gran explosion y enciende materiales inflamables.</ThermobaricFuel.description>
 	
 	<!-- EN: foam -->
 	<FoamFuel.label>foam</FoamFuel.label>
 	<!-- EN: Special round designed for civilian fire-fighting purposes. Filled with fire-retardant foam to suppress fires in a large area. -->
-	<FoamFuel.description>Municion especial disenada para extincion de incendios civiles. Rellena con espuma retardante para sofocar fuegos en un area grande.</FoamFuel.description>
+	<FoamFuel.description>Munición especial diseñada para extinción de incendios civiles. Rellena con espuma retardante para sofocar fuegos en un área grande.</FoamFuel.description>
 	
 	<!-- EN: antigrain warhead -->
 	<Antigrain.label>ojiva antimateria</Antigrain.label>
 	<!-- EN: A tiny ultra-tech warhead usually used by spacecraft or glitterworld war machines. Powered by a grain of antimatter, it creates a huge explosion and starts fires around the target. -->
-	<Antigrain.description>Una pequena ojiva ultra tecnologica usada normalmente por naves o maquinas de guerra de mundos brillantes. Alimentada por un grano de antimateria, crea una explosion enorme e inicia incendios alrededor del objetivo.</Antigrain.description>
+	<Antigrain.description>Una pequeña ojiva ultra tecnológica usada normalmente por naves o máquinas de guerra de mundos brillantes. Alimentada por un grano de antimateria, crea una explosión enorme e inicia incendios alrededor del objetivo.</Antigrain.description>
 	
 	<!-- EN: radiation -->
 	<RadiationIonising.label>radiacion</RadiationIonising.label>
 	<!-- EN: Contains ionising gamma radiation that significantly impairs consciousness, and is a carcinogen. -->
-	<RadiationIonising.description>Contiene radiacion gamma ionizante que deteriora significativamente la consciencia y es carcinogena.</RadiationIonising.description>
+	<RadiationIonising.description>Contiene radiación gamma ionizante que deteriora significativamente la conciencia y es carcinógena.</RadiationIonising.description>
 	
 	<!-- EN: forsaken arrow -->
 	<ForsakenArrow.label>flecha maldita</ForsakenArrow.label>
@@ -81,7 +81,7 @@
 	<!-- EN: plasma -->
 	<Plasma.labelShort>plasma</Plasma.labelShort>
 	<!-- EN: Highly-energized ionized gas capable of devastating burn effects. -->
-	<Plasma.description>Gas ionizado de alta energia capaz de provocar efectos de quemadura devastadores.</Plasma.description>
+	<Plasma.description>Gas ionizado de alta energía capaz de provocar efectos de quemadura devastadores.</Plasma.description>
 	
 	<!-- EN: Railgun sabot -->
 	<RailgunSabot.label>sabot de railgun</RailgunSabot.label>
@@ -93,14 +93,14 @@
 	<!-- EN: nanobots (MT) -->
 	<NanobotsMT.label>nanobots (MT)</NanobotsMT.label>
 	<!-- EN: The nanobots inside this projectile will create a micro-turret near the place of impact. -->
-	<NanobotsMT.description>Los nanobots dentro de este proyectil crearan una microtorreta cerca del punto de impacto.</NanobotsMT.description>
+	<NanobotsMT.description>Los nanobots dentro de este proyectil crearán una microtorreta cerca del punto de impacto.</NanobotsMT.description>
 	
 	<!-- EN: Standard -->
 	<Standard.label>Estandar</Standard.label>
 	<!-- EN: Standard -->
 	<Standard.labelShort>Estandar</Standard.labelShort>
 	<!-- EN: A gyro-stabilized projectile equipped with a hardened tip for penetrating armor and laden with a small explosive charge. -->
-	<Standard.description>Un proyectil giroestabilizado equipado con punta endurecida para penetrar armadura y cargado con una pequena carga explosiva.</Standard.description>
+	<Standard.description>Un proyectil giroestabilizado equipado con punta endurecida para penetrar armadura y cargado con una pequeña carga explosiva.</Standard.description>
 	
 	<!-- EN: Inferno -->
 	<Inferno.label>Inferno</Inferno.label>
@@ -114,21 +114,21 @@
 	<!-- EN: Metal Storm -->
 	<MetalStorm.labelShort>Metal Storm</MetalStorm.labelShort>
 	<!-- EN: A gyro-stabilized equipped with a proximity fuse, designed to shower lighly armored targets with a devestating shower of fragmention when it detonates. -->
-	<MetalStorm.description>Un proyectil giroestabilizado equipado con espoleta de proximidad, disenado para banar a objetivos con armadura ligera con una lluvia devastadora de fragmentacion al detonar.</MetalStorm.description>
+	<MetalStorm.description>Un proyectil giroestabilizado equipado con espoleta de proximidad, diseñado para bañar a objetivos con armadura ligera con una lluvia devastadora de fragmentación al detonar.</MetalStorm.description>
 	
 	<!-- EN: Kraken -->
 	<Kraken.label>Kraken</Kraken.label>
 	<!-- EN: Kraken -->
 	<Kraken.labelShort>Kraken</Kraken.labelShort>
 	<!-- EN: A gyro-stabilized projectile with hardened penetrator and explosive 'kicker' charge, designed to punch through heavy armor. -->
-	<Kraken.description>Un proyectil giroestabilizado con penetrador endurecido y carga explosiva de impulso, disenado para atravesar armadura pesada.</Kraken.description>
+	<Kraken.description>Un proyectil giroestabilizado con penetrador endurecido y carga explosiva de impulso, diseñado para atravesar armadura pesada.</Kraken.description>
 	
 	<!-- EN: Tempest -->
 	<Tempest.label>Tempest</Tempest.label>
 	<!-- EN: Tempest -->
 	<Tempest.labelShort>Tempest</Tempest.labelShort>
 	<!-- EN: A gyro-stabilized projectile carrying a plasma shock generator that is effective against machines. -->
-	<Tempest.description>Un proyectil giroestabilizado que porta un generador de choque de plasma eficaz contra maquinas.</Tempest.description>
+	<Tempest.description>Un proyectil giroestabilizado que porta un generador de choque de plasma eficaz contra máquinas.</Tempest.description>
 	
 	<!-- EN: Melta -->
 	<Melta.label>Melta</Melta.label>
@@ -142,49 +142,49 @@
 	<!-- EN: blaster -->
 	<BlasterStandard.labelShort>blaster</BlasterStandard.labelShort>
 	<!-- EN: Energy bolts created with tibanna gas. Causes neat punctures and burns that tend to carbonize and char. Low chance of wound infection. -->
-	<BlasterStandard.description>Pulsos de energia creados con gas tibanna. Causan perforaciones limpias y quemaduras que tienden a carbonizar. Baja probabilidad de infeccion de heridas.</BlasterStandard.description>
+	<BlasterStandard.description>Pulsos de energía creados con gas tibanna. Causan perforaciones limpias y quemaduras que tienden a carbonizar. Baja probabilidad de infección de heridas.</BlasterStandard.description>
 	
 	<!-- EN: stun -->
 	<BlasterStun.label>stun</BlasterStun.label>
 	<!-- EN: stun -->
 	<BlasterStun.labelShort>stun</BlasterStun.labelShort>
 	<!-- EN: Low-energy bolts created with tibanna gas. Temporarily stuns and incapacitates the target. -->
-	<BlasterStun.description>Pulsos de baja energia creados con gas tibanna. Aturde e incapacita temporalmente al objetivo.</BlasterStun.description>
+	<BlasterStun.description>Pulsos de baja energía creados con gas tibanna. Aturde e incapacita temporalmente al objetivo.</BlasterStun.description>
 	
 	<!-- EN: concentrated tibanna -->
 	<BlasterAP.label>tibanna concentrada</BlasterAP.label>
 	<!-- EN: conc. -->
 	<BlasterAP.labelShort>conc.</BlasterAP.labelShort>
 	<!-- EN: Energy bolts created with tibanna gas. Causes neat punctures and burns that tend to carbonize and char. Low chance of wound infection. Spun to a higher pressure to create bolts with improved penetration, at the loss of wounding potential. -->
-	<BlasterAP.description>Pulsos de energia creados con gas tibanna. Causan perforaciones limpias y quemaduras que tienden a carbonizar. Baja probabilidad de infeccion de heridas. Comprimidos a mayor presion para crear pulsos con mejor penetracion, a costa del potencial de heridas.</BlasterAP.description>
+	<BlasterAP.description>Pulsos de energía creados con gas tibanna. Causan perforaciones limpias y quemaduras que tienden a carbonizar. Baja probabilidad de infección de heridas. Comprimidos a mayor presión para crear pulsos con mejor penetración, a costa del potencial de heridas.</BlasterAP.description>
 	
 	<!-- EN: ionized tibanna -->
 	<BlasterIonized.label>tibanna ionizada</BlasterIonized.label>
 	<!-- EN: ion. -->
 	<BlasterIonized.labelShort>ion.</BlasterIonized.labelShort>
 	<!-- EN: Energy bolts created with tibanna gas. Causes neat punctures and burns that tend to carbonize and char. Low chance of wound infection. Ionized during the firing process to cause extra damage to droids and mechanoids, at the cost of reduced lethality against organics. -->
-	<BlasterIonized.description>Pulsos de energia creados con gas tibanna. Causan perforaciones limpias y quemaduras que tienden a carbonizar. Baja probabilidad de infeccion de heridas. Ionizados durante el disparo para causar dano extra a droides y mecanoides, a costa de menor letalidad contra organicos.</BlasterIonized.description>
+	<BlasterIonized.description>Pulsos de energía creados con gas tibanna. Causan perforaciones limpias y quemaduras que tienden a carbonizar. Baja probabilidad de infección de heridas. Ionizados durante el disparo para causar daño extra a droides y mecanoides, a costa de menor letalidad contra orgánicos.</BlasterIonized.description>
 	
 	<!-- EN: hi-energy plasma charge -->
-	<SWRocketPlasma.label>carga de plasma de alta energia</SWRocketPlasma.label>
+	<SWRocketPlasma.label>carga de plasma de alta energía</SWRocketPlasma.label>
 	<!-- EN: HEPC -->
 	<SWRocketPlasma.labelShort>HEPC</SWRocketPlasma.labelShort>
 	<!-- EN: A compressed plasma charge produces a powerful armour-penetrating explosion, along with a concentrated secondary blast. Lacks fragmentation effects, unlike earlier warhead designs, limiting effective radius. -->
-	<SWRocketPlasma.description>Una carga de plasma comprimido produce una explosion potente que penetra armadura, junto con una explosion secundaria concentrada. Carece de efectos de fragmentacion, a diferencia de disenos de ojiva previos, limitando el radio efectivo.</SWRocketPlasma.description>
+	<SWRocketPlasma.description>Una carga de plasma comprimido produce una explosión potente que penetra armadura, junto con una explosión secundaria concentrada. Carece de efectos de fragmentación, a diferencia de diseños de ojiva previos, limitando el radio efectivo.</SWRocketPlasma.description>
 	
 	<!-- EN: armor-piercing high-explosive fragmentation -->
 	<MiniRocketAPHEF.label>fragmentacion alto explosivo perforante</MiniRocketAPHEF.label>
 	<!-- EN: AP-HE-Frag -->
 	<MiniRocketAPHEF.labelShort>AP-HE-Frag</MiniRocketAPHEF.labelShort>
 	<!-- EN: Rocket-assisted fin-stabilized explosive projectiles that penetrate, then explode. Deadly against hard and soft targets alike, with secondary fragmentation over a wide area. -->
-	<MiniRocketAPHEF.description>Proyectiles explosivos asistidos por cohete y estabilizados por aletas que penetran y luego explotan. Letales contra objetivos duros y blandos por igual, con fragmentacion secundaria en un area amplia.</MiniRocketAPHEF.description>
+	<MiniRocketAPHEF.description>Proyectiles explosivos asistidos por cohete y estabilizados por aletas que penetran y luego explotan. Letales contra objetivos duros y blandos por igual, con fragmentación secundaria en un área amplia.</MiniRocketAPHEF.description>
 	
 	<!-- EN: armor-piercing electromagnetized -->
 	<MiniRocketEMP.label>electromagnetica perforante</MiniRocketEMP.label>
 	<!-- EN: HE-EMP -->
 	<MiniRocketEMP.labelShort>HE-EMP</MiniRocketEMP.labelShort>
 	<!-- EN: Rocket-assisted fin-stabilized electromagnetically-cored projectiles that penetrate, then overwhelm the target's electronics with a concentrated electromagnetic pulse. Devastating against robotic targets and energy shields. -->
-	<MiniRocketEMP.description>Proyectiles con nucleo electromagnetico asistidos por cohete y estabilizados por aletas que penetran y luego saturan la electronica del objetivo con un pulso electromagnetico concentrado. Devastadores contra objetivos roboticos y escudos de energia.</MiniRocketEMP.description>
+	<MiniRocketEMP.description>Proyectiles con núcleo electromagnético asistidos por cohete y estabilizados por aletas que penetran y luego saturan la electrónica del objetivo con un pulso electromagnético concentrado. Devastadores contra objetivos robóticos y escudos de energía.</MiniRocketEMP.description>
 	
 	<!-- EN: high-explosive incendiary -->
 	<MiniRocketIncendiary.label>alto explosivo incendiario</MiniRocketIncendiary.label>
@@ -198,5 +198,5 @@
 	<!-- EN: heavy ap -->
 	<MiniRocketPierce.labelShort>heavy ap</MiniRocketPierce.labelShort>
 	<!-- EN: Rocket-assisted fin-stabilized projectiles that penetrate, with no secondary explosion. For situations where splash damage is undesirable. -->
-	<MiniRocketPierce.description>Proyectiles asistidos por cohete y estabilizados por aletas que penetran, sin explosion secundaria. Para situaciones donde el dano de area no es deseable.</MiniRocketPierce.description>
+	<MiniRocketPierce.description>Proyectiles asistidos por cohete y estabilizados por aletas que penetran, sin explosión secundaria. Para situaciones donde el daño de área no es deseable.</MiniRocketPierce.description>
 </LanguageData>

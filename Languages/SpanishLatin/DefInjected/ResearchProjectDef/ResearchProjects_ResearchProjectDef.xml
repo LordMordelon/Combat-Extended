@@ -1,9 +1,9 @@
 <LanguageData>
 	<!-- Defs\ResearchProjectDefs\ResearchProjects.xml -->
 	<!-- EN: gunpowder -->
-	<CE_Gunpowder.label>polvora</CE_Gunpowder.label>
+	<CE_Gunpowder.label>pólvora</CE_Gunpowder.label>
 	<!-- EN: Craft early muzzle loading weapons and black powder ammunition. -->
-	<CE_Gunpowder.description>Permite fabricar armas tempranas de avancarga y municion de polvora negra.</CE_Gunpowder.description>
+	<CE_Gunpowder.description>Permite fabricar armas tempranas de avancarga y munición de pólvora negra.</CE_Gunpowder.description>
 	<!-- EN: 
 		<li>subject->gunpowder</li>
 		<li>subject_story->revolutionized warfare on a medieval world</li>
@@ -12,17 +12,17 @@
 		<li>subject_gerund->producing gunpowder</li>
 	 -->
 	<CE_Gunpowder.generalRules.rulesStrings>
-		<li>subject->polvora</li>
-		<li>subject_story->revoluciono la guerra en un mundo medieval</li>
-		<li>subject_story->descubrio polvora explosiva mientras realizaba experimentos alquimicos</li>
+		<li>subject->pólvora</li>
+		<li>subject_story->revolucionó la guerra en un mundo medieval</li>
+		<li>subject_story->descubrió pólvora explosiva mientras realizaba experimentos alquímicos</li>
 		<li>subject_story->fue venerado por una tribu por el acto de crear truenos</li>
-		<li>subject_gerund->produciendo polvora</li>
+		<li>subject_gerund->produciendo pólvora</li>
 	</CE_Gunpowder.generalRules.rulesStrings>
 	
 	<!-- EN: simple launchers -->
 	<CE_Launchers.label>lanzadores simples</CE_Launchers.label>
 	<!-- EN: Allows for the production of basic grenade and rocket launchers. -->
-	<CE_Launchers.description>Permite la produccion de lanzagranadas y lanzacohetes basicos.</CE_Launchers.description>
+	<CE_Launchers.description>Permite la producción de lanzagranadas y lanzacohetes básicos.</CE_Launchers.description>
 	<!-- EN: 
 		<li>subject->grenade launchers</li>
 		<li>subject->rocket launchers</li>
@@ -36,10 +36,10 @@
 	<CE_Launchers.generalRules.rulesStrings>
 		<li>subject->lanzagranadas</li>
 		<li>subject->lanzacohetes</li>
-		<li>subject_story->desarrollo armas para derrotar enemigos fuertemente blindados</li>
+		<li>subject_story->desarrolló armas para derrotar enemigos fuertemente blindados</li>
 		<li>subject_story->trabajo en una fabrica de municiones de un mundo urbano</li>
-		<li>subject_story->sobrevivio por poco a un asalto de mecanoides y juro detener esos ataques</li>
-		<li>subject_story->desarrollo tacticas antiblindaje</li>
+		<li>subject_story->sobrevivió por poco a un asalto de mecanoides y juró detener esos ataques</li>
+		<li>subject_story->desarrolló tácticas antiblindaje</li>
 		<li>subject_gerund->fabricando lanzagranadas</li>
 		<li>subject_gerund->fabricando lanzacohetes</li>
 	</CE_Launchers.generalRules.rulesStrings>
@@ -47,7 +47,7 @@
 	<!-- EN: advanced launchers -->
 	<CE_AdvancedLaunchers.label>lanzadores avanzados</CE_AdvancedLaunchers.label>
 	<!-- EN: Allows for the production of more advanced launchers and munitions such as incendiary, triple rocket, and doomsday launchers, as well as thermobaric and time-fuzed projectiles. -->
-	<CE_AdvancedLaunchers.description>Permite la produccion de lanzadores y municiones mas avanzados, como lanzadores incendiarios, de cohete triple y apocalipticos, ademas de proyectiles termobaricos y con espoleta temporizada.</CE_AdvancedLaunchers.description>
+	<CE_AdvancedLaunchers.description>Permite la producción
 	<!-- EN: 
 		<li>subject->fused explosives</li>
 		<li>subject->advanced explosives</li>

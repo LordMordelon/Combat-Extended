@@ -22,9 +22,9 @@
 	<!-- EN: Auto -->
 	<CE_AutoFireLabel>Auto</CE_AutoFireLabel>
 	<!-- EN: Burst -->
-	<CE_BurstFireLabel>Rafaga</CE_BurstFireLabel>
+	<CE_BurstFireLabel>Ráfaga</CE_BurstFireLabel>
 	<!-- EN: Single -->
-	<CE_SingleFireLabel>Unico</CE_SingleFireLabel>
+	<CE_SingleFireLabel>Único</CE_SingleFireLabel>
 	<!-- EN: Snapshot -->
 	<CE_SnapshotLabel>Disparo rapido</CE_SnapshotLabel>
 	<!-- EN: Aimed shot -->
@@ -40,13 +40,13 @@
 
 		<!-- Bipod system -->
 	<!-- EN: Bipod IS set up -->
-	<CE_Bipod_Set_Up>El bipode ESTA desplegado</CE_Bipod_Set_Up>
+	<CE_Bipod_Set_Up>El bípode ESTÁ desplegado</CE_Bipod_Set_Up>
 	<!-- EN: Bipod IS NOT set up -->
-	<CE_Bipod_Not_Set_Up>El bipode NO ESTA desplegado</CE_Bipod_Not_Set_Up>
+	<CE_Bipod_Not_Set_Up>El bípode NO ESTÁ desplegado</CE_Bipod_Not_Set_Up>
 	<!-- EN: Deploy bipod -->
-	<CE_Deploy_Bipod>Desplegar bipode</CE_Deploy_Bipod>
+	<CE_Deploy_Bipod>Desplegar bípode</CE_Deploy_Bipod>
 	<!-- EN: Close bipod -->
-	<CE_Close_Bipod>Plegar bipode</CE_Close_Bipod>
+	<CE_Close_Bipod>Plegar bípode</CE_Close_Bipod>
 
 		<!-- Aiming system -->
 	<!-- EN: Marked for artillery, expires in -->
@@ -61,9 +61,9 @@
 	<!-- EN: Range error -->
 	<CE_RangeError>Error de alcance</CE_RangeError>
 	<!-- EN: Sway -->
-	<CE_Sway>Oscilacion</CE_Sway>
+	<CE_Sway>Oscilación</CE_Sway>
 	<!-- EN: Spread -->
-	<CE_Spread>Dispersion</CE_Spread>
+	<CE_Spread>Dispersión</CE_Spread>
 	<!-- EN: Miss radius -->
 	<CE_MissRadius>Radio de fallo</CE_MissRadius>
 	<!-- EN: Indirect fire -->
@@ -86,9 +86,9 @@
 	<!-- EN: Target dodge chance -->
 	<CE_TargetDodgeChance>Probabilidad de esquiva del objetivo</CE_TargetDodgeChance>
 	<!-- EN: Deflected chance -->
-	<CE_DeflectedChance>Probabilidad de desvio</CE_DeflectedChance>
+	<CE_DeflectedChance>Probabilidad de desvío</CE_DeflectedChance>
 	<!-- EN: Deflection type -->
-	<CE_DeflectionType>Tipo de desvio</CE_DeflectionType>
+	<CE_DeflectionType>Tipo de desvío</CE_DeflectionType>
 	<!-- EN: Riposte chance -->
 	<CE_RiposteChance>Probabilidad de contraataque</CE_RiposteChance>
 	<!-- EN: Parry chance -->
@@ -100,23 +100,23 @@
 	<!-- EN: Hit chance -->
 	<CE_FinalToHitChance>Probabilidad de impacto</CE_FinalToHitChance>
 	<!-- EN: Crit chance -->
-	<CE_CritChance>Probabilidad de critico</CE_CritChance>
+	<CE_CritChance>Probabilidad de crítico</CE_CritChance>
 
 		<!-- Ranged Attack -->
 	<!-- EN: Out of bounds -->
-	<CE_OutOfBounds>Fuera de limites</CE_OutOfBounds>
+	<CE_OutOfBounds>Fuera de límites</CE_OutOfBounds>
 	<!-- EN: Can't target self -->
 	<CE_NoSelfTarget>No puedes apuntarte a ti mismo</CE_NoSelfTarget>
 	<!-- EN: No line of sight -->
-	<CE_NoLoS>No hay linea de vision</CE_NoLoS>
+	<CE_NoLoS>No hay línea de visión</CE_NoLoS>
 	<!-- EN: Blocked by roof -->
 	<CE_BlockedRoof>Bloqueado por techo</CE_BlockedRoof>
 	<!-- EN: Shooting disallowed by  -->
 	<CE_BlockedShield>Disparo bloqueado por </CE_BlockedShield>
 	<!-- EN: Outside of range -->
-	<CE_BlockedMaxRange>Fuera de alcance</CE_BlockedMaxRange>
+	<CE_BlockedMaxRange>Fuera de alcance máximo</CE_BlockedMaxRange>
 	<!-- EN: Within minimum range -->
-	<CE_BlockedMinRange>Dentro del alcance minimo</CE_BlockedMinRange>
+	<CE_BlockedMinRange>Dentro del alcance mínimo</CE_BlockedMinRange>
 	<!-- EN: bullet -->
 	<CE_GenericBullet>bala</CE_GenericBullet>
 
@@ -130,9 +130,9 @@
 	<!-- EN: Target: -->
 	<CE_ArtilleryTarget_ClickToOrderAttack>Objetivo:</CE_ArtilleryTarget_ClickToOrderAttack>
 	<!-- EN: Invalid target -->
-	<CE_ArtilleryTarget_InvalidTarget>Objetivo invalido</CE_ArtilleryTarget_InvalidTarget>
+	<CE_ArtilleryTarget_InvalidTarget>Objetivo inválido</CE_ArtilleryTarget_InvalidTarget>
 	<!-- EN: Are you sure you want to attack {0} ({1})?\n\nThis will make {1} hostile to you, and they may retaliate with raids and artillery fire against your colony! -->
-	<CE_ArtilleryTarget_AttackingAllies>Seguro que quieres atacar {0} ({1})?\n\nEsto hara que {1} sea hostil contigo, y podrian responder con incursiones y fuego de artilleria contra tu colonia!</CE_ArtilleryTarget_AttackingAllies>
+	<CE_ArtilleryTarget_AttackingAllies>Seguro que quieres atacar {0} ({1})?\n\nEsto hará que {1} sea hostil contigo, y podrian responder con incursiones y fuego de artillería contra tu colonia!</CE_ArtilleryTarget_AttackingAllies>
 	<!-- EN: Attack world tile -->
 	<CE_ArtilleryTargetLabel>Atacar casilla del mundo</CE_ArtilleryTargetLabel>
 	<!-- EN: Attack a world tile. If the selected tile contains a map, you can select the attack target within that map. -->
@@ -142,11 +142,11 @@
 	<!-- EN: Can only target artillery mark -->
 	<CE_ArtilleryTarget_MustTargetMark>Solo puede apuntar a una marca de artilleria</CE_ArtilleryTarget_MustTargetMark>
 	<!-- EN: Aiming artillery at this position will improve accuracy by: -->
-	<CE_ArtilleryTarget_MarkerHoverHeader>Apuntar la artilleria en esta posicion mejorara la precision en:</CE_ArtilleryTarget_MarkerHoverHeader>
+	<CE_ArtilleryTarget_MarkerHoverHeader>Apuntar la artillería en esta posición mejorará la precisión en:</CE_ArtilleryTarget_MarkerHoverHeader>
 
 		<!-- Marking -->
 	<!-- EN: Pawn cannot mark targets for artillery because they are on a map with no local artillery and they need a radio pack to communicate with the artillery crew.\n\nMarking targets is disabled when no artillery is available in local map and the pawn doesn't have access to long range radios. -->
-	<CE_MarkingUnavailableReason>El peon no puede marcar objetivos para artilleria porque esta en un mapa sin artilleria local y necesita una mochila de radio para comunicarse con la tripulacion de artilleria.\n\nEl marcado de objetivos se desactiva cuando no hay artilleria disponible en el mapa local y el peon no tiene acceso a radios de largo alcance.</CE_MarkingUnavailableReason>
+	<CE_MarkingUnavailableReason>El peón no puede marcar objetivos para artillería porque está en un mapa sin artillería local y necesita una mochila de radio para comunicarse con la tripulación de artillería.\n\nEl marcado de objetivos se desactiva cuando no hay artillería disponible en el mapa local y el peón no tiene acceso a radios de largo alcance.</CE_MarkingUnavailableReason>
 
 		<!-- Reloading -->
 	<!-- EN: equipped -->
@@ -154,7 +154,7 @@
 	<!-- EN: stored -->
 	<CE_ReloadingInventory>almacenado</CE_ReloadingInventory>
 	<!-- EN: ammo -->
-	<CE_ReloadingGenericAmmo>municion</CE_ReloadingGenericAmmo>
+	<CE_ReloadingGenericAmmo>munición</CE_ReloadingGenericAmmo>
 	<!-- EN: Reloading {0}! -->
 	<CE_ReloadingMote>Recargando {0}!</CE_ReloadingMote>
 	<!-- EN: Reloading turret {0}. -->
@@ -162,7 +162,7 @@
 	<!-- EN: manned turret -->
 	<CE_MannedTurret>torreta tripulada</CE_MannedTurret>
 	<!-- EN: auto-turret -->
-	<CE_AutoTurret>torreta automatica</CE_AutoTurret>
+	<CE_AutoTurret>torreta automática</CE_AutoTurret>
 	<!-- EN: Unload -->
 	<CE_UnloadLabel>Descargar</CE_UnloadLabel>
 	<!-- EN: Reload -->
@@ -197,7 +197,7 @@
 	<!-- EN: Cooking off -->
 	<CE_CookingOff>Detonando por calor</CE_CookingOff>
 	<!-- EN: Out of ammo -->
-	<CE_OutOfAmmo>Sin municion</CE_OutOfAmmo>
+	<CE_OutOfAmmo>Sin munición</CE_OutOfAmmo>
 	<!-- EN: Put away {0} -->
 	<CE_PutAway>Guardar {0}</CE_PutAway>
 	<!-- EN: Reload {0} with {1} -->
@@ -229,11 +229,11 @@
 	<!-- EN: {0} is not carrying any medicine in inventory -->
 	<CE_NoMedicine>{0} no lleva medicina en el inventario</CE_NoMedicine>
 	<!-- EN: Wound stabilized - bleeding rate multiplied by {0}. Stabilization effect will fully expire in {1} hours. -->
-	<CE_StabilizeHediffDescription>Herida estabilizada: la tasa de sangrado se multiplica por {0}. El efecto de estabilizacion expirara por completo en {1} horas.</CE_StabilizeHediffDescription>
+	<CE_StabilizeHediffDescription>Herida estabilizada: la tasa de sangrado se multiplica por {0}. El efecto de estabilización expirará por completo en {1} horas.</CE_StabilizeHediffDescription>
 
 		<!-- Info Box -->
 	<!-- EN: Magazine size -->
-	<CE_MagazineSize>Tamano del cargador</CE_MagazineSize>
+	<CE_MagazineSize>Tamaño del cargador</CE_MagazineSize>
 	<!-- EN: Reload time -->
 	<CE_ReloadTime>Tiempo de recarga</CE_ReloadTime>
 	<!-- EN: Caliber -->
@@ -241,7 +241,7 @@
 	<!-- EN: Fire modes -->
 	<CE_FireModes>Modos de fuego</CE_FireModes>
 	<!-- EN: Burst shot count -->
-	<CE_AimedBurstCount>Cantidad de disparos por rafaga</CE_AimedBurstCount>
+	<CE_AimedBurstCount>Cantidad de disparos por ráfaga</CE_AimedBurstCount>
 	<!-- EN: Used by -->
 	<CE_UsedBy>Usado por</CE_UsedBy>
 	<!-- EN: Multiplier for precipitation -->
@@ -263,7 +263,7 @@
 	<!-- EN: m -->
 	<CE_meters>m</CE_meters>
 	<!-- EN: Weapon penetration factor -->
-	<CE_WeaponPenetrationFactor>Factor de penetracion del arma</CE_WeaponPenetrationFactor>
+	<CE_WeaponPenetrationFactor>Factor de penetración del arma</CE_WeaponPenetrationFactor>
 	<!-- EN: Skill factor -->
 	<CE_WeaponPenetrationSkillFactor>Factor de habilidad</CE_WeaponPenetrationSkillFactor>
 	<!-- EN: Other factors -->
@@ -273,13 +273,13 @@
 	<!-- EN: Projectile damage multiplier -->
 	<CE_RangedDamageMultiplier>Multiplicador de dano de proyectil</CE_RangedDamageMultiplier>
 	<!-- EN: Projectile penetration multiplier -->
-	<CE_RangedPenMultiplier>Multiplicador de penetracion de proyectil</CE_RangedPenMultiplier>
+	<CE_RangedPenMultiplier>Multiplicador de penetración de proyectil</CE_RangedPenMultiplier>
 	<!-- EN: Damage per second -->
-	<CE_DPS>Dano por segundo</CE_DPS>
+	<CE_DPS>Daño por segundo</CE_DPS>
 	<!-- EN: Damage variation -->
-	<CE_DamageVariation>Variacion de dano</CE_DamageVariation>
+	<CE_DamageVariation>Variación de daño</CE_DamageVariation>
 	<!-- EN: Final average damage -->
-	<CE_FinalAverageDamage>Dano promedio final</CE_FinalAverageDamage>
+	<CE_FinalAverageDamage>Daño promedio final</CE_FinalAverageDamage>
 	<!-- EN: Wielder skill level -->
 	<CE_WielderSkillLevel>Nivel de habilidad del portador</CE_WielderSkillLevel>
 	<!-- EN: chance -->
@@ -301,9 +301,9 @@
 	<!-- EN: Counter shelling -->
 	<CE_CounterShellingLabel>Contra bombardeo</CE_CounterShellingLabel>
 	<!-- EN: Strange signals -->
-	<CE_MechWarningLabel>Senales extranas</CE_MechWarningLabel>
+	<CE_MechWarningLabel>Señales extrañas</CE_MechWarningLabel>
 	<!-- EN: You have intercepted several strange electronic signals nearby. While harmless on their own, such signals are often an indicator of Mechanoid activity in the area.\n\nSome of the larger Mechanoids have heavy armor that will easily deflect all rifle fire. {0} says you will need something that can defeat at least {1}mm RHA, molotov cocktails which can sink into openings and overheat internal components or EMP weapons which can destroy their circuitry. -->
-	<CE_MechWarningText>Has interceptado varias senales electronicas extranas cerca. Aunque por si solas son inofensivas, estas senales suelen indicar actividad de mecanoides en la zona.\n\nAlgunos de los mecanoides mas grandes tienen armadura pesada que desviara facilmente todo fuego de rifle. {0} dice que necesitaras algo que supere al menos {1} mm RHA, cocteles molotov que entren por aberturas y sobrecalienten componentes internos, o armas PEM que destruyan sus circuitos.</CE_MechWarningText>
+	<CE_MechWarningText>Has interceptado varias señales electrónicas extrañas cerca. Aunque por sí solas son inofensivas, estas señales suelen indicar actividad de mecanoides en la zona.\n\nAlgunos de los mecanoides más grandes tienen armadura pesada que desviará fácilmente todo fuego de rifle. {0} dice que necesitarás algo que supere al menos {1} mm RHA, cócteles molotov que entren por aberturas y sobrecalienten componentes internos, o armas PEM que destruyan sus circuitos.</CE_MechWarningText>
 	<!-- EN: One of your colonists -->
 	<CE_MechWarningText_UnnamedColonist>Uno de tus colonos</CE_MechWarningText_UnnamedColonist>
 
@@ -313,7 +313,7 @@
 
 		<!-- Tutorial popup -->
 	<!-- EN: CE adds several tutorial entries on subjects such as how the armor mechanics work and how not to die from Centipedes. It is recommended first time players enable the learning helper. -->
-	<CE_EnableTutorText>CE agrega varias entradas de tutorial sobre temas como el funcionamiento de la armadura y como no morir ante Ciempiens. Se recomienda que quienes juegan por primera vez activen el asistente de aprendizaje.</CE_EnableTutorText>
+	<CE_EnableTutorText>CE agrega varias entradas de tutorial sobre temas como el funcionamiento de la armadura y cómo no morir ante Ciempiés. Se recomienda que quienes juegan por primera vez activen el asistente de aprendizaje.</CE_EnableTutorText>
 	<!-- EN: Enable learning helper -->
 	<CE_EnableTutorEnable>Activar asistente de aprendizaje</CE_EnableTutorEnable>
 	<!-- EN: I know the risk -->
@@ -326,14 +326,14 @@
 
 		<!-- Uncompiled dev build popup -->
 	<!-- EN: Uncompiled CE dev build\n\nYou're running a development build of Combat Extended that is not intended for gameplay purposes, this will create a large amount of errors if you attempt to play a colony.\n\nEither download an official CE release from GitHub's Releases section, or if you need the latest development snapshot for testing purposes, get it from the link below. -->
-	<CE_UncompiledDevBuild>Compilacion de desarrollo de CE sin compilar\n\nEstas ejecutando una compilacion de desarrollo de Combat Extended que no esta pensada para jugar, esto generara una gran cantidad de errores si intentas jugar una colonia.\n\nDescarga una version oficial de CE desde la seccion Releases de GitHub, o si necesitas la ultima instantanea de desarrollo para pruebas, obtenla desde el enlace de abajo.</CE_UncompiledDevBuild>
+	<CE_UncompiledDevBuild>Compilación de desarrollo de CE sin compilar\n\nEstás ejecutando una compilación de desarrollo de Combat Extended que no está pensada para jugar, esto generará una gran cantidad de errores si intentas jugar una colonia.\n\nDescarga una versión oficial de CE desde la sección Releases de GitHub, o si necesitas la última instantánea de desarrollo para pruebas, obtenla desde el enlace de abajo.</CE_UncompiledDevBuild>
 	<!-- EN: Get development snapshot -->
 	<CE_GetCompiledDevBuild>Obtener instantanea de desarrollo</CE_GetCompiledDevBuild>
 	<!-- EN: Continue anyway -->
 	<CE_ContinueAnyway>Continuar de todos modos</CE_ContinueAnyway>
 
 	<!-- EN: This weapon is yet patched for CE, while it will behave in vanilla way as fallback, please contact a patcher for compatibility patches. -->
-	<CE_UnpatchedWeapon>Esta arma aun no esta parcheada para CE; se comportara como en vanilla como alternativa. Contacta a un parcheador para parches de compatibilidad.</CE_UnpatchedWeapon>
+	<CE_UnpatchedWeapon>Esta arma aún no está parcheada para CE; se comportará como en vanilla como alternativa. Contacta a un parcheador para parches de compatibilidad.</CE_UnpatchedWeapon>
 	<!-- EN: Not patched for CE -->
 	<CE_UnpatchedWeaponShort>No parcheado para CE</CE_UnpatchedWeaponShort>
 
@@ -357,9 +357,9 @@
 	<!-- EN: Ignore incoming projectiles -->
 	<HoldCloseInProjectilesFireDesc>Ignorar proyectiles entrantes</HoldCloseInProjectilesFireDesc>
 	<!-- EN: Hold fire - skyfallers -->
-	<HoldCloseInSkyfallersFire>Mantener fuego - caidas del cielo</HoldCloseInSkyfallersFire>
+	<HoldCloseInSkyfallersFire>Mantener fuego - caídas del cielo</HoldCloseInSkyfallersFire>
 	<!-- EN: Ignore landing skyfallers and drop pods -->
-	<HoldCloseInSkyfallersFireDesc>Ignorar objetos que caen del cielo y capsulas de descenso</HoldCloseInSkyfallersFireDesc>
+	<HoldCloseInSkyfallersFireDesc>Ignorar objetos que caen del cielo y cápsulas de descenso</HoldCloseInSkyfallersFireDesc>
 	<!-- EN: Configure CIWS -->
 	<Dialog_ManageCIWS>Configurar CIWS</Dialog_ManageCIWS>
 	<!-- EN: Change available and ignored targets for selected CIWS -->

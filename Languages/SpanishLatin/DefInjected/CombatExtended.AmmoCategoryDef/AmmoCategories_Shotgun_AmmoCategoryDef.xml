@@ -5,29 +5,29 @@
 	<!-- EN: buck -->
 	<BuckShot.labelShort>grueso</BuckShot.labelShort>
 	<!-- EN: Filled with several buckshot pellets which spread in a tight pattern. -->
-	<BuckShot.description>Rellena con varios perdigones gruesos que se dispersan en un patron cerrado.</BuckShot.description>
+	<BuckShot.description>Rellena con varios perdigones gruesos que se dispersan en un patrón cerrado.</BuckShot.description>
 	
 	<!-- EN: birdshot -->
 	<BirdShot.label>perdigon fino</BirdShot.label>
 	<!-- EN: bird -->
 	<BirdShot.labelShort>bird</BirdShot.labelShort>
 	<!-- EN: Filled with a large number of very small birdshot pellets which spread over a large area. -->
-	<BirdShot.description>Rellena con gran cantidad de perdigones muy pequenos que se dispersan sobre una gran area.</BirdShot.description>
+	<BirdShot.description>Rellena con gran cantidad de perdigones muy pequeños que se dispersan sobre una gran área.</BirdShot.description>
 	
 	<!-- EN: slug -->
 	<Slug.label>slug</Slug.label>
 	<!-- EN: The single large projectile offers better damage potential and armor penetration compared to regular shot but is inaccurate over large distances. -->
-	<Slug.description>El proyectil unico de gran tamano ofrece mejor potencial de dano y penetracion de armadura que la municion regular, pero es inexacto a grandes distancias.</Slug.description>
+	<Slug.description>El proyectil único de gran tamaño ofrece mejor potencial de daño y penetración de armadura que la munición regular, pero es inexacto a grandes distancias.</Slug.description>
 	
 	<!-- EN: beanbag -->
 	<Beanbag.label>beanbag</Beanbag.label>
 	<!-- EN: bean -->
 	<Beanbag.labelShort>bean</Beanbag.labelShort>
 	<!-- EN: Non-lethal rubber round originally designed for riot control. Accurate over short ranges only. Designed to temporarily incapacitate a target, it does not cause bleeding or damage to internal organs. -->
-	<Beanbag.description>Municion no letal de goma, originalmente disenada para control de disturbios. Precisa solo a corta distancia. Pensada para incapacitar temporalmente, no causa sangrado ni dano en organos internos.</Beanbag.description>
+	<Beanbag.description>Munición no letal de goma, originalmente diseñada para control de disturbios. Precisa solo a corta distancia. Pensada para incapacitar temporalmente, no causa sangrado ni daño en órganos internos.</Beanbag.description>
 	
 	<!-- EN: EMP -->
 	<ElectroSlug.label>EMP</ElectroSlug.label>
 	<!-- EN: Designed to combat mechanoids, the projectile is accurate over short range only and delivers an electro-magnetic pulse on impact, temporarily disabling electronics. -->
-	<ElectroSlug.description>Disenado para combatir mecanoides, el proyectil es preciso solo a corta distancia y entrega un pulso electromagnetico al impactar, desactivando temporalmente sistemas electronicos.</ElectroSlug.description>
+	<ElectroSlug.description>Diseñado para combatir mecanoides, el proyectil es preciso solo a corta distancia y entrega un pulso electromagnético al impactar, desactivando temporalmente sistemas electrónicos.</ElectroSlug.description>
 </LanguageData>

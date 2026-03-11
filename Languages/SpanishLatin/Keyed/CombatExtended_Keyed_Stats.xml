@@ -16,7 +16,7 @@
 	<!-- EN: Long range radio -->
 	<CE_Long_Range_Radio>Radio de largo alcance</CE_Long_Range_Radio>
 	<!-- EN: Picks the lowest value of available -->
-	<CE_StatPart_MinimaExplanation>Toma el valor mas bajo de los disponibles</CE_StatPart_MinimaExplanation>
+	<CE_StatPart_MinimaExplanation>Toma el valor más bajo de los disponibles</CE_StatPart_MinimaExplanation>
 	<!-- EN: Picks the highest value of available -->
-	<CE_StatPart_MaximaExplanation>Toma el valor mas alto de los disponibles</CE_StatPart_MaximaExplanation>
+	<CE_StatPart_MaximaExplanation>Toma el valor más alto de los disponibles</CE_StatPart_MaximaExplanation>
 </LanguageData>

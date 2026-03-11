@@ -3,17 +3,17 @@
 	<!-- EN: plate helmet -->
 	<CE_Apparel_PlateHelmet.label>casco de placas</CE_Apparel_PlateHelmet.label>
 	<!-- EN: A medieval helmet that provides full coverage of the head. Somewhat protective, but restricts the wearer's field of view which affects attack accuracy. -->
-	<CE_Apparel_PlateHelmet.description>Un casco medieval que proporciona cobertura completa de la cabeza. Algo protector, pero restringe el campo de vision del usuario que afecta la precision del ataque.</CE_Apparel_PlateHelmet.description>
+	<CE_Apparel_PlateHelmet.description>Un casco medieval que proporciona cobertura completa de la cabeza. Algo protector, pero restringe el campo de visión del usuario que afecta la precisión del ataque.</CE_Apparel_PlateHelmet.description>
 	
 	<!-- EN: gas mask -->
 	<CE_Apparel_GasMask.label>mascara de gas</CE_Apparel_GasMask.label>
 	<!-- EN: Sealed rubber mask with a filter attached. Will protect against smoke inhalation and airborne toxins. -->
-	<CE_Apparel_GasMask.description>Mascara de caucho sellada con un filtro adjunto. Protegedera contra la inhalacion de humo y toxinas aerosolizadas.</CE_Apparel_GasMask.description>
+	<CE_Apparel_GasMask.description>Máscara de caucho sellada con un filtro adjunto. Protegerá contra la inhalación de humo y toxinas aerosolizadas.</CE_Apparel_GasMask.description>
 	
 	<!-- EN: improvised gas mask -->
 	<CE_Apparel_ImprovGasMask.label>mascara de gas improvisada</CE_Apparel_ImprovGasMask.label>
 	<!-- EN: Crude gas mask fashioned from thick cloth and charcoal. Provides some limited protection against smoke and airborne toxins. -->
-	<CE_Apparel_ImprovGasMask.description>Mascara de gas crudamente hecha de tela gruesa y carbon. Proporciona cierta proteccion limitada contra el humo y las toxinas aerosolizadas.</CE_Apparel_ImprovGasMask.description>
+	<CE_Apparel_ImprovGasMask.description>Máscara de gas crudamente hecha de tela gruesa y carbón. Proporciona cierta protección limitada contra el humo y las toxinas aerosolizadas.</CE_Apparel_ImprovGasMask.description>
 	
 	<!-- EN: night vision monocular -->
 	<CE_Apparel_SimpleNightVision.label>monocular de vision nocturna</CE_Apparel_SimpleNightVision.label>
@@ -23,5 +23,5 @@
 	<!-- EN: advanced night vision goggles -->
 	<CE_Apparel_AdvancedNightVision.label>gafas de vision nocturna avanzada</CE_Apparel_AdvancedNightVision.label>
 	<!-- EN: A set of advanced night vision goggles offering detailed, panoramic vision when fighting in the dark. -->
-	<CE_Apparel_AdvancedNightVision.description>Un conjunto de gafas de vision nocturna avanzada que ofrecen vision detallada y panoramica cuando se lucha en la oscuridad.</CE_Apparel_AdvancedNightVision.description>
+	<CE_Apparel_AdvancedNightVision.description>Un conjunto de gafas de visión nocturna avanzada que ofrecen visión detallada y panorámica cuando se lucha en la oscuridad.</CE_Apparel_AdvancedNightVision.description>
 </LanguageData>

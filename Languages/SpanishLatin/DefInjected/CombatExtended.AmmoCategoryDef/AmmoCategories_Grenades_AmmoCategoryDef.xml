@@ -19,17 +19,17 @@
 	<!-- EN: Airburst -->
 	<GrenadeHETF.labelShort>Aéreo</GrenadeHETF.labelShort>
 	<!-- EN: Grenade with a timed fuze designed to detonate mid-flight for maxiumum effectiveness. -->
-	<GrenadeHETF.description>Granada con espoleta temporizada disenada para detonar en pleno vuelo y lograr maxima efectividad.</GrenadeHETF.description>
+	<GrenadeHETF.description>Granada con espoleta temporizada diseñada para detonar en pleno vuelo y lograr máxima efectividad.</GrenadeHETF.description>
 	
 	<!-- EN: EMP -->
 	<GrenadeEMP.label>EMP</GrenadeEMP.label>
 	<!-- EN: Creates an electro-magnetic burst on impact, temporarily disrupting electronic systems and Mechanoids. -->
-	<GrenadeEMP.description>Crea una rafaga electromagnetica al impactar, interrumpiendo temporalmente sistemas electronicos y mecanoides.</GrenadeEMP.description>
+	<GrenadeEMP.description>Crea una ráfaga electromagnética al impactar, interrumpiendo temporalmente sistemas electrónicos y mecanoides.</GrenadeEMP.description>
 	
 	<!-- EN: Incendiary -->
 	<GrenadeIncendiary.label>Incendiaria</GrenadeIncendiary.label>
 	<!-- EN: Filled with incendiary agent. The agent is dispersed on impact, covering the area in flames. -->
-	<GrenadeIncendiary.description>Rellena con agente incendiario. El agente se dispersa al impacto, cubriendo el area en llamas.</GrenadeIncendiary.description>
+	<GrenadeIncendiary.description>Rellena con agente incendiario. El agente se dispersa al impacto, cubriendo el área en llamas.</GrenadeIncendiary.description>
 	
 	<!-- EN: Smoke -->
 	<Smoke.label>Humo</Smoke.label>
@@ -39,15 +39,15 @@
 	<!-- EN: tear gas -->
 	<CNGas.label>gas lacrimogeno</CNGas.label>
 	<!-- EN: Filled with a non-lethal chemical agent capable of causing pain, irritation, and temporary blindness. -->
-	<CNGas.description>Rellena con un agente quimico no letal capaz de causar dolor, irritacion y ceguera temporal.</CNGas.description>
+	<CNGas.description>Rellena con un agente químico no letal capaz de causar dolor, irritación y ceguera temporal.</CNGas.description>
 	
 	<!-- EN: Toxic -->
-	<Toxic.label>Toxica</Toxic.label>
+	<Toxic.label>Tóxica</Toxic.label>
 	<!-- EN: Filled with tox gas, a caustic agent that burns the lungs and eyes. Continued exposure to it results in toxic buildup which can be lethal. -->
-	<Toxic.description>Rellena con gas toxico, un agente caustico que quema pulmones y ojos. La exposicion continua produce acumulacion toxica que puede ser letal.</Toxic.description>
+	<Toxic.description>Rellena con gas tóxico, un agente cáustico que quema pulmones y ojos. La exposición continua produce acumulación tóxica que puede ser letal.</Toxic.description>
 	
 	<!-- EN: Deadlife -->
 	<Deadlife.label>Muerte viviente</Deadlife.label>
 	<!-- EN: Filled with a dust-like substance that explodes into a cloud and reanimates nearby corpses. -->
-	<Deadlife.description>Rellena con una sustancia similar al polvo que explota en una nube y reanima cadaveres cercanos.</Deadlife.description>
+	<Deadlife.description>Rellena con una sustancia similar al polvo que explota en una nube y reanima cadáveres cercanos.</Deadlife.description>
 </LanguageData>
