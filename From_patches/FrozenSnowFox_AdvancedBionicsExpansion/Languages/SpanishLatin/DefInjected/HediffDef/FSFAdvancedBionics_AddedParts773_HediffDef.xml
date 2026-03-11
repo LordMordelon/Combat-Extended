@@ -1,41 +1,41 @@
 <LanguageData>
 	<!-- _Translation\Grabbed_Defs_from_patches\FrozenSnowFox_AdvancedBionicsExpansion\FSFAdvancedBionics_AddedParts773.xml -->
 	<!-- EN: fist -->
-	<FSFAdvBionicPowerArm.comps.0.tools.0.label>fist</FSFAdvBionicPowerArm.comps.0.tools.0.label>
+	<FSFAdvBionicPowerArm.comps.0.tools.0.label>puño</FSFAdvBionicPowerArm.comps.0.tools.0.label>
 	<!-- EN: edge -->
-	<FSFAdvBionicPowerArm.comps.0.tools.1.label>edge</FSFAdvBionicPowerArm.comps.0.tools.1.label>
+	<FSFAdvBionicPowerArm.comps.0.tools.1.label>filo</FSFAdvBionicPowerArm.comps.0.tools.1.label>
 	<!-- EN: point -->
-	<FSFAdvBionicPowerArm.comps.0.tools.2.label>point</FSFAdvBionicPowerArm.comps.0.tools.2.label>
+	<FSFAdvBionicPowerArm.comps.0.tools.2.label>punta</FSFAdvBionicPowerArm.comps.0.tools.2.label>
 	<!-- EN: foot -->
-	<FSFAdvBionicPowerLeg.comps.0.tools.0.label>foot</FSFAdvBionicPowerLeg.comps.0.tools.0.label>
+	<FSFAdvBionicPowerLeg.comps.0.tools.0.label>pie</FSFAdvBionicPowerLeg.comps.0.tools.0.label>
 	<!-- EN: edge -->
-	<FSFAdvBionicPowerLeg.comps.0.tools.1.label>edge</FSFAdvBionicPowerLeg.comps.0.tools.1.label>
+	<FSFAdvBionicPowerLeg.comps.0.tools.1.label>filo</FSFAdvBionicPowerLeg.comps.0.tools.1.label>
 	<!-- EN: point -->
-	<FSFAdvBionicPowerLeg.comps.0.tools.2.label>point</FSFAdvBionicPowerLeg.comps.0.tools.2.label>
+	<FSFAdvBionicPowerLeg.comps.0.tools.2.label>punta</FSFAdvBionicPowerLeg.comps.0.tools.2.label>
 	<!-- EN: fist -->
-	<FSFArchotechPowerArm.comps.0.tools.0.label>fist</FSFArchotechPowerArm.comps.0.tools.0.label>
+	<FSFArchotechPowerArm.comps.0.tools.0.label>puño</FSFArchotechPowerArm.comps.0.tools.0.label>
 	<!-- EN: edge -->
-	<FSFArchotechPowerArm.comps.0.tools.1.label>edge</FSFArchotechPowerArm.comps.0.tools.1.label>
+	<FSFArchotechPowerArm.comps.0.tools.1.label>filo</FSFArchotechPowerArm.comps.0.tools.1.label>
 	<!-- EN: point -->
-	<FSFArchotechPowerArm.comps.0.tools.2.label>point</FSFArchotechPowerArm.comps.0.tools.2.label>
+	<FSFArchotechPowerArm.comps.0.tools.2.label>punta</FSFArchotechPowerArm.comps.0.tools.2.label>
 	<!-- EN: fist -->
-	<FSFAdvBionicArm.comps.0.tools.0.label>fist</FSFAdvBionicArm.comps.0.tools.0.label>
+	<FSFAdvBionicArm.comps.0.tools.0.label>puño</FSFAdvBionicArm.comps.0.tools.0.label>
 	<!-- EN: fist -->
-	<FSFAdvBionicTaserArm.comps.0.tools.0.label>fist</FSFAdvBionicTaserArm.comps.0.tools.0.label>
+	<FSFAdvBionicTaserArm.comps.0.tools.0.label>puño</FSFAdvBionicTaserArm.comps.0.tools.0.label>
 	<!-- EN: teeth -->
-	<FSFAdvBionicJaw.comps.0.tools.0.label>teeth</FSFAdvBionicJaw.comps.0.tools.0.label>
+	<FSFAdvBionicJaw.comps.0.tools.0.label>dientes</FSFAdvBionicJaw.comps.0.tools.0.label>
 	<!-- EN: fist -->
-	<FSFAdvBionicFieldArm.comps.0.tools.0.label>fist</FSFAdvBionicFieldArm.comps.0.tools.0.label>
+	<FSFAdvBionicFieldArm.comps.0.tools.0.label>puño</FSFAdvBionicFieldArm.comps.0.tools.0.label>
 	<!-- EN: fist -->
-	<FSFAdvBionicConstructionArm.comps.0.tools.0.label>fist</FSFAdvBionicConstructionArm.comps.0.tools.0.label>
+	<FSFAdvBionicConstructionArm.comps.0.tools.0.label>puño</FSFAdvBionicConstructionArm.comps.0.tools.0.label>
 	<!-- EN: fist -->
-	<FSFAdvBionicDrillArm.comps.0.tools.0.label>fist</FSFAdvBionicDrillArm.comps.0.tools.0.label>
+	<FSFAdvBionicDrillArm.comps.0.tools.0.label>puño</FSFAdvBionicDrillArm.comps.0.tools.0.label>
 	<!-- EN: teeth -->
-	<FSFAdvBionicTaserJaw.comps.0.tools.0.label>teeth</FSFAdvBionicTaserJaw.comps.0.tools.0.label>
+	<FSFAdvBionicTaserJaw.comps.0.tools.0.label>dientes</FSFAdvBionicTaserJaw.comps.0.tools.0.label>
 	<!-- EN: fist -->
-	<FSFAdvBionicBreachArm.comps.0.tools.0.label>fist</FSFAdvBionicBreachArm.comps.0.tools.0.label>
+	<FSFAdvBionicBreachArm.comps.0.tools.0.label>puño</FSFAdvBionicBreachArm.comps.0.tools.0.label>
 	<!-- EN: fist -->
-	<FSFBionicFieldArm.comps.0.tools.0.label>fist</FSFBionicFieldArm.comps.0.tools.0.label>
+	<FSFBionicFieldArm.comps.0.tools.0.label>puño</FSFBionicFieldArm.comps.0.tools.0.label>
 	<!-- EN: drill -->
-	<FSFBionicDrillArm.comps.0.tools.0.label>drill</FSFBionicDrillArm.comps.0.tools.0.label>
+	<FSFBionicDrillArm.comps.0.tools.0.label>taladro</FSFBionicDrillArm.comps.0.tools.0.label>
 </LanguageData>

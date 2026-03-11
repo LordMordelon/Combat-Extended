@@ -1,13 +1,13 @@
 <LanguageData>
 	<!-- _Translation\Grabbed_Defs_from_patches\FrozenSnowFox_VanillaBionicsExpansion\FSFBionics_AddedParts776.xml -->
 	<!-- EN: claw -->
-	<FSFBionicPowerArm.comps.0.tools.0.label>claw</FSFBionicPowerArm.comps.0.tools.0.label>
+	<FSFBionicPowerArm.comps.0.tools.0.label>garra</FSFBionicPowerArm.comps.0.tools.0.label>
 	<!-- EN: fist -->
-	<FSFProstheticHand.comps.0.tools.0.label>fist</FSFProstheticHand.comps.0.tools.0.label>
+	<FSFProstheticHand.comps.0.tools.0.label>puño</FSFProstheticHand.comps.0.tools.0.label>
 	<!-- EN: teeth -->
-	<FSFArchotechJaw.comps.0.tools.0.label>teeth</FSFArchotechJaw.comps.0.tools.0.label>
+	<FSFArchotechJaw.comps.0.tools.0.label>dientes</FSFArchotechJaw.comps.0.tools.0.label>
 	<!-- EN: fist -->
-	<FSFBionicFieldArm.comps.0.tools.0.label>fist</FSFBionicFieldArm.comps.0.tools.0.label>
+	<FSFBionicFieldArm.comps.0.tools.0.label>puño</FSFBionicFieldArm.comps.0.tools.0.label>
 	<!-- EN: drill -->
-	<FSFBionicDrillArm.comps.0.tools.0.label>drill</FSFBionicDrillArm.comps.0.tools.0.label>
+	<FSFBionicDrillArm.comps.0.tools.0.label>taladro</FSFBionicDrillArm.comps.0.tools.0.label>
 </LanguageData>

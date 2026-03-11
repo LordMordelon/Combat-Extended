@@ -1,15 +1,15 @@
 <LanguageData>
 	<!-- _Translation\Grabbed_Defs_from_patches\FrozenSnowFox_AdvancedBionicsExpansion\FSFAdvancedBionics_AddedParts774.xml -->
 	<!-- EN: fist -->
-	<FSFAdvBionicMedicArm.comps.0.tools.0.label>fist</FSFAdvBionicMedicArm.comps.0.tools.0.label>
+	<FSFAdvBionicMedicArm.comps.0.tools.0.label>puño</FSFAdvBionicMedicArm.comps.0.tools.0.label>
 	<!-- EN: fist -->
-	<FSFArchotechMedicArm.comps.0.tools.0.label>fist</FSFArchotechMedicArm.comps.0.tools.0.label>
+	<FSFArchotechMedicArm.comps.0.tools.0.label>puño</FSFArchotechMedicArm.comps.0.tools.0.label>
 	<!-- EN: fist -->
-	<FSFBionicConstructionArm.comps.0.tools.0.label>fist</FSFBionicConstructionArm.comps.0.tools.0.label>
+	<FSFBionicConstructionArm.comps.0.tools.0.label>puño</FSFBionicConstructionArm.comps.0.tools.0.label>
 	<!-- EN: fist -->
-	<FSFAdvBionicConstructionArm.comps.0.tools.0.label>fist</FSFAdvBionicConstructionArm.comps.0.tools.0.label>
+	<FSFAdvBionicConstructionArm.comps.0.tools.0.label>puño</FSFAdvBionicConstructionArm.comps.0.tools.0.label>
 	<!-- EN: drill -->
-	<FSFAdvBionicDrillArm.comps.0.tools.0.label>drill</FSFAdvBionicDrillArm.comps.0.tools.0.label>
+	<FSFAdvBionicDrillArm.comps.0.tools.0.label>taladro</FSFAdvBionicDrillArm.comps.0.tools.0.label>
 	<!-- EN: knuckle -->
-	<FSFAdvBionicFieldArm.comps.0.tools.0.label>knuckle</FSFAdvBionicFieldArm.comps.0.tools.0.label>
+	<FSFAdvBionicFieldArm.comps.0.tools.0.label>nudillo</FSFAdvBionicFieldArm.comps.0.tools.0.label>
 </LanguageData>
