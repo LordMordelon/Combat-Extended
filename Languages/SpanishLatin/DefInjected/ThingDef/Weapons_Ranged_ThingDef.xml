@@ -3,7 +3,7 @@
 	<!-- EN: grenade launcher -->
 	<CE_GrenadeLauncher.label>lanzador de granadas</CE_GrenadeLauncher.label>
 	<!-- EN: A simple, locally produced break-action grenade launcher, capable of firing a variety of different projectiles. -->
-	<CE_GrenadeLauncher.description>Un lanzador de granadas simple de fabricacion local y accion recta, capaz de disparar una variedad de proyectiles diferentes.</CE_GrenadeLauncher.description>
+	<CE_GrenadeLauncher.description>Un lanzador de granadas simple de fabricación local y acción recta, capaz de disparar una variedad de proyectiles diferentes.</CE_GrenadeLauncher.description>
 	<!-- EN: ㅤ -->
 	<CE_GrenadeLauncher.verbs.0.label>ㅤ</CE_GrenadeLauncher.verbs.0.label>
 	<!-- EN: stock -->
@@ -16,7 +16,7 @@
 	<!-- EN: disposable rocket launcher -->
 	<CE_DisposableRocketLauncher.label>lanzador de cohetes desechable</CE_DisposableRocketLauncher.label>
 	<!-- EN: A lightweight single-use anti-tank launcher. Designed to provide soldiers in the field with a compact anti-armor weapon. -->
-	<CE_DisposableRocketLauncher.description>Un lanzador ligero de uso unico contra tanques. Disenado para proporcionar a los soldados en el campo un arma anti-armadura compacta.</CE_DisposableRocketLauncher.description>
+	<CE_DisposableRocketLauncher.description>Un lanzador ligero de uso único contra tanques. Diseñado para proporcionar a los soldados en el campo un arma anti-armadura compacta.</CE_DisposableRocketLauncher.description>
 	<!-- EN: muzzle -->
 	<CE_DisposableRocketLauncher.tools.0.label>boca del cañón</CE_DisposableRocketLauncher.tools.0.label>
 	<!-- EN: ㅤ -->

@@ -1,31 +1,31 @@
 <LanguageData>
 	<!-- Defs\JobDefs\Jobs_CE.xml -->
 	<!-- EN: Reloading FlagSource TargetB with AmmoType. -->
-	<ReloadWeapon.reportString>Reloading FlagSource TargetB with AmmoType.</ReloadWeapon.reportString>
+	<ReloadWeapon.reportString>Recargando FlagSource TargetB con AmmoType.</ReloadWeapon.reportString>
 	<!-- EN: Applying modifications TargetB at TargetA. -->
-	<ModifyWeapon.reportString>Applying modifications TargetB at TargetA.</ModifyWeapon.reportString>
+	<ModifyWeapon.reportString>Aplicando modificaciones TargetB en TargetA.</ModifyWeapon.reportString>
 	<!-- EN: Running for cover. -->
-	<RunForCover.reportString>Running for cover.</RunForCover.reportString>
+	<RunForCover.reportString>Corriendo hacia cobertura.</RunForCover.reportString>
 	<!-- EN: Hunkering down. -->
-	<HunkerDown.reportString>Hunkering down.</HunkerDown.reportString>
+	<HunkerDown.reportString>Atrincherandose.</HunkerDown.reportString>
 	<!-- EN: Knocked down. -->
-	<WaitKnockdown.reportString>Knocked down.</WaitKnockdown.reportString>
+	<WaitKnockdown.reportString>Derribado.</WaitKnockdown.reportString>
 	<!-- EN: Reloading TurretType TargetA with TargetB. -->
-	<ReloadTurret.reportString>Reloading TurretType TargetA with TargetB.</ReloadTurret.reportString>
+	<ReloadTurret.reportString>Recargando TurretType TargetA con TargetB.</ReloadTurret.reportString>
 	<!-- EN: Stabilizing. -->
-	<Stabilize.reportString>Stabilizing.</Stabilize.reportString>
+	<Stabilize.reportString>Estabilizando.</Stabilize.reportString>
 	<!-- EN: FlagC TargetA from TargetB. -->
-	<TakeFromOther.reportString>FlagC TargetA from TargetB.</TakeFromOther.reportString>
+	<TakeFromOther.reportString>FlagC TargetA de TargetB.</TakeFromOther.reportString>
 	<!-- EN: equipping TargetA. -->
-	<EquipFromInventory.reportString>equipping TargetA.</EquipFromInventory.reportString>
+	<EquipFromInventory.reportString>equipando TargetA.</EquipFromInventory.reportString>
 	<!-- EN: attacking TargetC using TargetA. -->
-	<OpportunisticAttack.reportString>attacking TargetC using TargetA.</OpportunisticAttack.reportString>
+	<OpportunisticAttack.reportString>atacando TargetC usando TargetA.</OpportunisticAttack.reportString>
 	<!-- EN: tending to TargetA. -->
-	<TendSelf.reportString>tending to TargetA.</TendSelf.reportString>
+	<TendSelf.reportString>atendiendo a TargetA.</TendSelf.reportString>
 	<!-- EN: Fixing TargetA's natural armor. -->
-	<RepairNaturalArmor.reportString>Fixing TargetA's natural armor.</RepairNaturalArmor.reportString>
+	<RepairNaturalArmor.reportString>Reparando la armadura natural de TargetA.</RepairNaturalArmor.reportString>
 	<!-- EN: Reloading TargetA with TargetB. -->
-	<ReloadAutoLoader.reportString>Reloading TargetA with TargetB.</ReloadAutoLoader.reportString>
+	<ReloadAutoLoader.reportString>Recargando TargetA con TargetB.</ReloadAutoLoader.reportString>
 	<!-- EN: Giving TargetB to TargetA. -->
-	<GiveAmmo.reportString>Giving TargetB to TargetA.</GiveAmmo.reportString>
+	<GiveAmmo.reportString>Dando TargetB a TargetA.</GiveAmmo.reportString>
 </LanguageData>

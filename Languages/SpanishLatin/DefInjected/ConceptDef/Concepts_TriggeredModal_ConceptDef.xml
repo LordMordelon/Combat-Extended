@@ -1,7 +1,7 @@
 <LanguageData>
 	<!-- Defs\Tutor\Concepts_TriggeredModal.xml -->
 	<!-- EN: Ammo settings changed -->
-	<CE_AmmoSettings.label>Configuracion de municion cambiada</CE_AmmoSettings.label>
+	<CE_AmmoSettings.label>Configuración de munición cambiada</CE_AmmoSettings.label>
 	<!-- EN: WARNING: You have changed the ammo settings. It is highly recommended you start a new colony with these settings.\n\nChanging the ammo settings on an existing colony is not supported and might result in game-breaking bugs, do so at your own risk. -->
-	<CE_AmmoSettings.helpText>ADVERTENCIA: Has cambiado la configuracion de municion. Se recomienda encarecidamente iniciar una colonia nueva con esta configuracion.\n\nCambiar la configuracion de municion en una colonia existente no es compatible y puede causar errores graves que rompan la partida. Hazlo bajo tu propio riesgo.</CE_AmmoSettings.helpText>
+	<CE_AmmoSettings.helpText>ADVERTENCIA: Has cambiado la configuración de munición. Se recomienda encarecidamente iniciar una colonia nueva con esta configuración.\n\nCambiar la configuración de munición en una colonia existente no es compatible y puede causar errores graves que rompan la partida. Hazlo bajo tu propio riesgo.</CE_AmmoSettings.helpText>
 </LanguageData>

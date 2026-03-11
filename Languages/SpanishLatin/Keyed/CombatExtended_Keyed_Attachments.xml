@@ -15,9 +15,9 @@
 	<!-- EN: Clear attachments loadout -->
 	<CE_AttachmentsClearLoadout>Limpiar equipamiento de accesorios</CE_AttachmentsClearLoadout>
 	<!-- EN: Information -->
-	<CE_Attachments_Information>Informacion</CE_Attachments_Information>
+	<CE_Attachments_Information>Información</CE_Attachments_Information>
 	<!-- EN: Here you can view general Information related to your current configuration. -->
-	<CE_Attachments_Information_Tip>Aqui puedes ver informacion general relacionada con tu configuracion actual.</CE_Attachments_Information_Tip>
+	<CE_Attachments_Information_Tip>Aquí puedes ver información general relacionada con tu configuración actual.</CE_Attachments_Information_Tip>
 	<!-- EN: Cost -->
 	<CE_Attachments_Cost>Costo</CE_Attachments_Cost>
 	<!-- EN: The cost of the current changes -->
@@ -33,7 +33,7 @@
 	<!-- EN: Stock -->
 	<CE_AttachmentSlot_Stock>Culata</CE_AttachmentSlot_Stock>
 	<!-- EN: Underbarrel -->
-	<CE_AttachmentSlot_Underbarrel>Bajo cañon</CE_AttachmentSlot_Underbarrel>
+	<CE_AttachmentSlot_Underbarrel>Bajo cañón</CE_AttachmentSlot_Underbarrel>
 	<!-- EN: Close -->
 	<CE_Close>Cerrar</CE_Close>
 	<!-- EN: Apply -->
@@ -41,16 +41,16 @@
 	<!-- EN: Edit Attachments -->
 	<CE_EditAttachments>Editar accesorios</CE_EditAttachments>
 	<!-- EN: Statistics -->
-	<CE_EditAttachmentsStats>Estadisticas</CE_EditAttachmentsStats>
+	<CE_EditAttachmentsStats>Estadísticas</CE_EditAttachmentsStats>
 	<!-- EN: Cost -->
 	<CE_EditAttachmentsCost>Costo</CE_EditAttachmentsCost>
 
 	<!-- EN: Switch to under barrel -->
-	<CE_SwitchAmmmoSetToUnderBarrel>Cambiar a accesorio bajo cañon</CE_SwitchAmmmoSetToUnderBarrel>
+	<CE_SwitchAmmmoSetToUnderBarrel>Cambiar a accesorio bajo cañón</CE_SwitchAmmmoSetToUnderBarrel>
 	<!-- EN: Switch to standard weapon -->
 	<CE_SwitchAmmmoSetToNormalRifle>Cambiar a arma estandar</CE_SwitchAmmmoSetToNormalRifle>
 	<!-- EN: Under barrel weapon stats: -->
-	<CE_UBGLStats>Estadisticas del arma bajo cañon:</CE_UBGLStats>
+	<CE_UBGLStats>Estadísticas del arma bajo cañón:</CE_UBGLStats>
 	<!-- EN: Click or hover over -->
 	<CE_UBGLStats_Title>Haz clic o pasa el cursor</CE_UBGLStats_Title>
 </LanguageData>

@@ -60,17 +60,17 @@
 	<CE_AdvancedLaunchers.generalRules.rulesStrings>
 		<li>subject->explosivos con espoleta</li>
 		<li>subject->explosivos avanzados</li>
-		<li>subject_story->devasto campos con proyectiles incendiarios</li>
-		<li>subject_story->optimizo la construccion de celdas termobaricas compactas</li>
-		<li>subject_story->exploro un enorme crater de explosion en un mundo toxico</li>
+		<li>subject_story->devastó campos con proyectiles incendiarios</li>
+		<li>subject_story->optimizó la construcción de celdas termobáricas compactas</li>
+		<li>subject_story->exploró un enorme cráter de explosión en un mundo tóxico</li>
 		<li>subject_gerund->fabricando lanzadores avanzados</li>
 		<li>subject_gerund->fabricando lanzadores de celda de combustible</li>
 	</CE_AdvancedLaunchers.generalRules.rulesStrings>
 	
 	<!-- EN: advanced ammunition -->
-	<CE_AdvancedAmmo.label>municion avanzada</CE_AdvancedAmmo.label>
+	<CE_AdvancedAmmo.label>munición avanzada</CE_AdvancedAmmo.label>
 	<!-- EN: Allows for the production of advanced ammunition for small arms and light weapons systems like armor-piercing incendiary, sabot, and high-explosive rounds. -->
-	<CE_AdvancedAmmo.description>Permite la produccion de municion avanzada para armas ligeras y sistemas de armas livianos, como cartuchos incendiarios perforantes, sabot y de alto explosivo.</CE_AdvancedAmmo.description>
+	<CE_AdvancedAmmo.description>Permite la producción de munición avanzada para armas ligeras y sistemas de armas livianos, como cartuchos incendiarios perforantes, sabot y de alto explosivo.</CE_AdvancedAmmo.description>
 	<!-- EN: 
 		<li>subject->advanced ammunition</li>
 		<li>subject->ammunition fillings</li>
@@ -82,20 +82,20 @@
 		<li>subject_gerund->crafting discarding sabots</li>
 	 -->
 	<CE_AdvancedAmmo.generalRules.rulesStrings>
-		<li>subject->municion avanzada</li>
+		<li>subject->munición avanzada</li>
 		<li>subject->rellenos de municion</li>
 		<li>subject_story->dio con un alijo de armas avanzadas</li>
-		<li>subject_story->aprendio a usar sabot descartable para derrotar armaduras potenciadas</li>
-		<li>subject_story->trabajo para un prolifico comerciante de armas</li>
-		<li>subject_story->estudio las secuelas de un asalto de mecanoides</li>
-		<li>subject_gerund->creando municion explosiva</li>
+		<li>subject_story->aprendió a usar sabot descartable para derrotar armaduras potenciadas</li>
+		<li>subject_story->trabajó para un prolifico comerciante de armas</li>
+		<li>subject_story->estudió las secuelas de un asalto de mecanoides</li>
+		<li>subject_gerund->creando munición explosiva</li>
 		<li>subject_gerund->fabricando sabots descartables</li>
 	</CE_AdvancedAmmo.generalRules.rulesStrings>
 	
 	<!-- EN: basic optoelectronics -->
-	<CE_SimpleNV.label>optoelectronica basica</CE_SimpleNV.label>
+	<CE_SimpleNV.label>optoelectrónica básica</CE_SimpleNV.label>
 	<!-- EN: Allows for the production of simple electro-optical devices, like night vision goggles and reflex sights. -->
-	<CE_SimpleNV.description>Permite la produccion de dispositivos electro-opticos simples, como gafas de vision nocturna y miras reflex.</CE_SimpleNV.description>
+	<CE_SimpleNV.description>Permite la producción de dispositivos electro-ópticos simples, como gafas de visión nocturna y miras reflex.</CE_SimpleNV.description>
 	<!-- EN: 
 		<li>subject->optoelectronics</li>
 		<li>subject_story->worked on developing basic light sensors</li>
@@ -105,18 +105,18 @@
 		<li>subject_gerund->conducting night assaults</li>
 	 -->
 	<CE_SimpleNV.generalRules.rulesStrings>
-		<li>subject->optoelectronica</li>
-		<li>subject_story->trabajo en el desarrollo de sensores de luz basicos</li>
-		<li>subject_story->participo en pruebas militares de campo en un mundo en guerra</li>
+		<li>subject->optoelectrónica</li>
+		<li>subject_story->trabajó en el desarrollo de sensores de luz básicos</li>
+		<li>subject_story->participó en pruebas militares de campo en un mundo en guerra</li>
 		<li>subject_story->adiestraba a soldados tempranos de mundos intermedios en combate nocturno</li>
-		<li>subject_gerund->fabricando monoculares de vision nocturna</li>
+		<li>subject_gerund->fabricando monoculares de visión nocturna</li>
 		<li>subject_gerund->realizando asaltos nocturnos</li>
 	</CE_SimpleNV.generalRules.rulesStrings>
 	
 	<!-- EN: advanced optoelectronics -->
-	<CE_AdvancedNV.label>optoelectronica avanzada</CE_AdvancedNV.label>
+	<CE_AdvancedNV.label>optoelectrónica avanzada</CE_AdvancedNV.label>
 	<!-- EN: Allows for the production of more advanced and specialized electro-optical devices, including better night vision goggles and advanced digital optics. -->
-	<CE_AdvancedNV.description>Permite la produccion de dispositivos electro-opticos mas avanzados y especializados, incluyendo mejores gafas de vision nocturna y opticas digitales avanzadas.</CE_AdvancedNV.description>
+	<CE_AdvancedNV.description>Permite la producción de dispositivos electro-ópticos más avanzados y especializados, incluyendo mejores gafas de visión nocturna y ópticas digitales avanzadas.</CE_AdvancedNV.description>
 	<!-- EN: 
 		<li>subject->advanced optoelectronics</li>
 		<li>subject_story->meticulously studied the sensors of destroyed mechanoids</li>
@@ -127,12 +127,12 @@
 		<li>subject_gerund->fabricating advanced optoelectronics</li>
 	 -->
 	<CE_AdvancedNV.generalRules.rulesStrings>
-		<li>subject->optoelectronica avanzada</li>
-		<li>subject_story->estudio meticulosamente los sensores de mecanoides destruidos</li>
-		<li>subject_story->descubrio una antigua cripta de crio sueno con reservas de armaduras avanzadas</li>
+		<li>subject->optoelectrónica avanzada</li>
+		<li>subject_story->estudió meticulosamente los sensores de mecanoides destruidos</li>
+		<li>subject_story->descubrió una antigua cripta de crio sueño con reservas de armaduras avanzadas</li>
 		<li>subject_story->fue entrenado como explorador en el ejercito de un mundo urbano</li>
-		<li>subject_story->trabajo en un laboratorio militar de prototipos</li>
-		<li>subject_gerund->fabricando equipos de vision nocturna</li>
-		<li>subject_gerund->fabricando optoelectronica avanzada</li>
+		<li>subject_story->trabajó en un laboratorio militar de prototipos</li>
+		<li>subject_gerund->fabricando equipos de visión nocturna</li>
+		<li>subject_gerund->fabricando optoelectrónica avanzada</li>
 	</CE_AdvancedNV.generalRules.rulesStrings>
 </LanguageData>

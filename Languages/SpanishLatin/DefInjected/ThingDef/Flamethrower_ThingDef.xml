@@ -14,7 +14,7 @@
 	<!-- EN: infused chemfuel -->
 	<Ammo_Flamethrower_Bioferrite.label>quimbustible infusionado</Ammo_Flamethrower_Bioferrite.label>
 	<!-- EN: Fuel for a flamethrower that burns at incredibly high temperature, leaving behind no puddles of fuel.\n\nAn infusion of crystalline bioferrite attacks organic matter on a cellular level, disrupting regeneration and weakening tissue. -->
-	<Ammo_Flamethrower_Bioferrite.description>Combustible para un lanzallamas que arde a temperatura increiblemente alta, sin dejar charcos de combustible.\n\nUna infusion de biofierrita cristalina ataca la materia organica a nivel celular, interrumpiendo la regeneracion y debilitando el tejido.</Ammo_Flamethrower_Bioferrite.description>
+	<Ammo_Flamethrower_Bioferrite.description>Combustible para un lanzallamas que arde a temperatura increíblemente alta, sin dejar charcos de combustible.\n\nUna infusión de bioferrita cristalina ataca la materia orgánica a nivel celular, interrumpiendo la regeneración y debilitando el tejido.</Ammo_Flamethrower_Bioferrite.description>
 	
 	<!-- EN: jellied chemfuel stream -->
 	<Bullet_Flamethrower_Napalm.label>chorro de quimbustible gelificado</Bullet_Flamethrower_Napalm.label>

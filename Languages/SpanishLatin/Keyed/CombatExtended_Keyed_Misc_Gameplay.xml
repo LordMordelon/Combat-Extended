@@ -5,23 +5,23 @@
 	<!-- EN: Targeted bodypart: -->
 	<CE_MeleeTargetting_CurPart>Parte del cuerpo objetivo:</CE_MeleeTargetting_CurPart>
 	<!-- EN: Melee attacked area -->
-	<CE_MeleeTargetting_CurHeight>Area de ataque cuerpo a cuerpo</CE_MeleeTargetting_CurHeight>
+	<CE_MeleeTargetting_CurHeight>Área de ataque cuerpo a cuerpo</CE_MeleeTargetting_CurHeight>
 	<!-- EN: Area targetting -->
-	<CE_MeleeTargetting>Apuntado por area</CE_MeleeTargetting>
+	<CE_MeleeTargetting>Apuntado por área</CE_MeleeTargetting>
 	<!-- EN: None -->
 	<CE_NoBP>Ninguna</CE_NoBP>
 	<!-- EN: Yes -->
-	<CE_Yes>Si</CE_Yes>
+	<CE_Yes>Sí</CE_Yes>
 	<!-- EN: No -->
 	<CE_No>No</CE_No>
 	<!-- EN: Give ammo to {0} -->
-	<CE_GiveAmmoToThing>Dar municion a {0}</CE_GiveAmmoToThing>
+	<CE_GiveAmmoToThing>Dar munición a {0}</CE_GiveAmmoToThing>
 	<!-- EN: Give -->
 	<CE_Give>Dar</CE_Give>
 	<!-- EN: No compatible ammo -->
-	<CE_NoAmmoToGive>No hay municion compatible</CE_NoAmmoToGive>
+	<CE_NoAmmoToGive>No hay munición compatible</CE_NoAmmoToGive>
 	<!-- EN: Amount of ammo to give: -->
-	<CE_AmmoAmount>Cantidad de municion a dar:</CE_AmmoAmount>
+	<CE_AmmoAmount>Cantidad de munición a dar:</CE_AmmoAmount>
 	<!-- EN: Target pawn's inventory is full -->
-	<CE_TargetInventoryFull>El inventario del peon objetivo esta lleno</CE_TargetInventoryFull>
+	<CE_TargetInventoryFull>El inventario del peón objetivo está lleno</CE_TargetInventoryFull>
 </LanguageData>

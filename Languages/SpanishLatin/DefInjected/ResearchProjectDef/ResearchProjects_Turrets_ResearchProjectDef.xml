@@ -3,7 +3,7 @@
 	<!-- EN: heavy weapons -->
 	<CE_TurretHeavyWeapons.label>armas pesadas</CE_TurretHeavyWeapons.label>
 	<!-- EN: Allows you to assemble high-caliber weapons, automatic grenade launchers and artillery. -->
-	<CE_TurretHeavyWeapons.description>Permite ensamblar armas de alto calibre, lanzagranadas automaticos y artilleria.</CE_TurretHeavyWeapons.description>
+	<CE_TurretHeavyWeapons.description>Permite ensamblar armas de alto calibre, lanzagranadas automáticos y artillería.</CE_TurretHeavyWeapons.description>
 	<!-- EN: 
 		<li>subject->heavy-duty barrels</li>
 		<li>subject->high-caliber emplacements</li>
@@ -15,16 +15,16 @@
 	<CE_TurretHeavyWeapons.generalRules.rulesStrings>
 		<li>subject->cañones reforzados</li>
 		<li>subject->emplazamientos de alto calibre</li>
-		<li>subject_story->endurecio componentes para soportar presiones enormemente altas</li>
-		<li>subject_story->sobrevivio a un asedio de anos en un mundo en guerra</li>
-		<li>subject_story->trabajo en una fabrica que producia cañones de artilleria</li>
+		<li>subject_story->endureció componentes para soportar presiones enormemente altas</li>
+		<li>subject_story->sobrevivió a un asedio de años en un mundo en guerra</li>
+		<li>subject_story->trabajó en una fábrica que producía cañones de artillería</li>
 		<li>subject_gerund->construyendo emplazamientos pesados</li>
 	</CE_TurretHeavyWeapons.generalRules.rulesStrings>
 	
 	<!-- EN: heavy auto turrets -->
-	<CE_HeavyTurret.label>torretas automaticas pesadas</CE_HeavyTurret.label>
+	<CE_HeavyTurret.label>torretas automáticas pesadas</CE_HeavyTurret.label>
 	<!-- EN: Learn to construct heavy auto-turrets. -->
-	<CE_HeavyTurret.description>Aprende a construir torretas automaticas pesadas.</CE_HeavyTurret.description>
+	<CE_HeavyTurret.description>Aprende a construir torretas automáticas pesadas.</CE_HeavyTurret.description>
 	<!-- EN: 
 		<li>subject->heavy autoturrets</li>
 		<li>subject_story->optimized automated fire-control systems for long range engagements</li>
@@ -33,10 +33,10 @@
 		<li>subject_gerund->automating heavy emplacements</li>
 	 -->
 	<CE_HeavyTurret.generalRules.rulesStrings>
-		<li>subject->torretas automaticas pesadas</li>
-		<li>subject_story->optimizo sistemas automatizados de control de fuego para enfrentamientos de largo alcance</li>
-		<li>subject_story->desarrollo protocolos electronicos IFF mejorados</li>
-		<li>subject_story->trabajo para una empresa de mundo urbano que producia sistemas sensoriales de mecanoides</li>
+		<li>subject->torretas automáticas pesadas</li>
+		<li>subject_story->optimizó sistemas automatizados de control de fuego para enfrentamientos de largo alcance</li>
+		<li>subject_story->desarrolló protocolos electrónicos IFF mejorados</li>
+		<li>subject_story->trabajó para una empresa de mundo urbano que producía sistemas sensoriales de mecanoides</li>
 		<li>subject_gerund->automatizando emplazamientos pesados</li>
 	</CE_HeavyTurret.generalRules.rulesStrings>
 	
@@ -53,9 +53,9 @@
 	 -->
 	<CE_ChargeTurret.generalRules.rulesStrings>
 		<li>subject->torretas de carga</li>
-		<li>subject_story->creo unidades de energia mas densas para mayor consumo</li>
-		<li>subject_story->exploro los restos de un campo de batalla en un mundo toxico</li>
-		<li>subject_story->participo en un asalto condenado contra una fortaleza mecanoide</li>
+		<li>subject_story->creó unidades de energía más densas para mayor consumo</li>
+		<li>subject_story->exploró los restos de un campo de batalla en un mundo tóxico</li>
+		<li>subject_story->participó en un asalto condenado contra una fortaleza mecanoide</li>
 		<li>subject_gerund->construyendo torretas de disparo cargado</li>
 	</CE_ChargeTurret.generalRules.rulesStrings>
 </LanguageData>

@@ -7,9 +7,9 @@
 	<!-- EN: Set mag count -->
 	<MTA_SetMagCount>Establecer cantidad de cargadores</MTA_SetMagCount>
 	<!-- EN: Take ammo now -->
-	<MTA_TakeAmmoNow>Tomar municion ahora</MTA_TakeAmmoNow>
+	<MTA_TakeAmmoNow>Tomar munición ahora</MTA_TakeAmmoNow>
 	<!-- EN: No need to resupply ammunition -->
-	<MTA_NoNeedAmmo>No necesita reabastecer municion</MTA_NoNeedAmmo>
+	<MTA_NoNeedAmmo>No necesita reabastecer munición</MTA_NoNeedAmmo>
 	<!-- EN: Each unit is one magazine, {0} rounds. -->
 	<MTA_MagazinePrefix>Cada unidad es un cargador, {0} disparos.</MTA_MagazinePrefix>
 	<!-- EN: Unable to set loadout for mechanoids with different weapons. Try multi-selecting similar mechanoids. -->

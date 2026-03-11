@@ -3,23 +3,23 @@
 	<!-- EN: arrow (stone) -->
 	<Ammo_Arrow_Stone.label>flecha (piedra)</Ammo_Arrow_Stone.label>
 	<!-- EN: Simple arrow design with a cutting head attached to a wooden shaft. -->
-	<Ammo_Arrow_Stone.description>Diseno simple de flecha con punta de corte adjunto a un asta de madera.</Ammo_Arrow_Stone.description>
+	<Ammo_Arrow_Stone.description>Diseño simple de flecha con punta de corte adjunto a un asta de madera.</Ammo_Arrow_Stone.description>
 	<!-- EN: arrow (steel) -->
 	<Ammo_Arrow_Steel.label>flecha (acero)</Ammo_Arrow_Steel.label>
 	<!-- EN: Simple arrow design with a cutting head attached to a wooden shaft. -->
-	<Ammo_Arrow_Steel.description>Diseno simple de flecha con punta de corte adjunto a un asta de madera.</Ammo_Arrow_Steel.description>
+	<Ammo_Arrow_Steel.description>Diseño simple de flecha con punta de corte adjunto a un asta de madera.</Ammo_Arrow_Steel.description>
 	<!-- EN: arrow (plasteel) -->
 	<Ammo_Arrow_Plasteel.label>flecha (plastiacero)</Ammo_Arrow_Plasteel.label>
 	<!-- EN: Simple arrow design with a cutting head attached to a wooden shaft. -->
-	<Ammo_Arrow_Plasteel.description>Diseno simple de flecha con punta de corte adjunto a un asta de madera.</Ammo_Arrow_Plasteel.description>
+	<Ammo_Arrow_Plasteel.description>Diseño simple de flecha con punta de corte adjunto a un asta de madera.</Ammo_Arrow_Plasteel.description>
 	<!-- EN: arrow (venom) -->
 	<Ammo_Arrow_Venom.label>flecha (veneno)</Ammo_Arrow_Venom.label>
 	<!-- EN: Simple arrow design with a cutting head attached to a wooden shaft. -->
-	<Ammo_Arrow_Venom.description>Diseno simple de flecha con punta de corte adjunto a un asta de madera.</Ammo_Arrow_Venom.description>
+	<Ammo_Arrow_Venom.description>Diseño simple de flecha con punta de corte adjunto a un asta de madera.</Ammo_Arrow_Venom.description>
 	<!-- EN: arrow (flame) -->
 	<Ammo_Arrow_Flame.label>flecha (llama)</Ammo_Arrow_Flame.label>
 	<!-- EN: Simple arrow design with a cutting head attached to a wooden shaft. -->
-	<Ammo_Arrow_Flame.description>Diseno simple de flecha con punta de corte adjunto a un asta de madera.</Ammo_Arrow_Flame.description>
+	<Ammo_Arrow_Flame.description>Diseño simple de flecha con punta de corte adjunto a un asta de madera.</Ammo_Arrow_Flame.description>
 	<!-- EN: arrow (stone) -->
 	<Projectile_Arrow_Stone.label>flecha (piedra)</Projectile_Arrow_Stone.label>
 	<!-- EN: arrow (steel) -->
@@ -33,11 +33,11 @@
 	<!-- EN: streamlined arrow (stone) -->
 	<Projectile_StreamlinedArrow_Stone.label>flecha aerodinamica (piedra)</Projectile_StreamlinedArrow_Stone.label>
 	<!-- EN: streamlined arrow (steel) -->
-	<Projectile_StreamlinedArrow_Steel.label>flecha aerodinamica (acero)</Projectile_StreamlinedArrow_Steel.label>
+	<Projectile_StreamlinedArrow_Steel.label>flecha aerodinámica (acero)</Projectile_StreamlinedArrow_Steel.label>
 	<!-- EN: streamlined arrow (plasteel) -->
-	<Projectile_StreamlinedArrow_Plasteel.label>flecha aerodinamica (plastiacero)</Projectile_StreamlinedArrow_Plasteel.label>
+	<Projectile_StreamlinedArrow_Plasteel.label>flecha aerodinámica (plastiacero)</Projectile_StreamlinedArrow_Plasteel.label>
 	<!-- EN: streamlined arrow (venom) -->
-	<Projectile_StreamlinedArrow_Venom.label>flecha aerodinamica (veneno)</Projectile_StreamlinedArrow_Venom.label>
+	<Projectile_StreamlinedArrow_Venom.label>flecha aerodinámica (veneno)</Projectile_StreamlinedArrow_Venom.label>
 	<!-- EN: streamlined arrow (flame) -->
-	<Projectile_StreamlinedArrow_Flame.label>flecha aerodinamica (llama)</Projectile_StreamlinedArrow_Flame.label>
+	<Projectile_StreamlinedArrow_Flame.label>flecha aerodinámica (llama)</Projectile_StreamlinedArrow_Flame.label>
 </LanguageData>

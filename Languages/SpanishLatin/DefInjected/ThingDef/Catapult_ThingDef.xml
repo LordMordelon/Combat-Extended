@@ -4,7 +4,7 @@
 	<!-- EN: boulder -->
 	<Ammo_Catapult_Boulder.label>piedra</Ammo_Catapult_Boulder.label>
 	<!-- EN: A heavy stone, cut to an appropriate size and shape to be thrown by a siege engine. -->
-	<Ammo_Catapult_Boulder.description>Una piedra pesada, cortada al tamano y forma apropiados para ser lanzada por una maquina de asedio.</Ammo_Catapult_Boulder.description>
+	<Ammo_Catapult_Boulder.description>Una piedra pesada, cortada al tamaño y forma apropiados para ser lanzada por una máquina de asedio.</Ammo_Catapult_Boulder.description>
 	
 	<!-- EN: boulder -->
 	<Projectile_CatapultBullet_Boulder.label>piedra</Projectile_CatapultBullet_Boulder.label>

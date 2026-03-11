@@ -1,7 +1,7 @@
 <LanguageData>
 	<!-- Defs\ThingDefs_Items\Items_Unfinished.xml -->
 	<!-- EN: Unfinished ammo batch -->
-	<UnfinishedAmmo.label>Lote de municion sin terminar</UnfinishedAmmo.label>
+	<UnfinishedAmmo.label>Lote de munición sin terminar</UnfinishedAmmo.label>
 	<!-- EN: Unfinished arrow batch -->
 	<UnfinishedArrows.label>Lote de flechas sin terminar</UnfinishedArrows.label>
 	<!-- EN: Unfinished turret gun -->

@@ -3,13 +3,13 @@
 	<!-- EN: plasma canister -->
 	<Ammo_PlasmaCanister.label>canister de plasma</Ammo_PlasmaCanister.label>
 	<!-- EN: A canister of pressurized hydrogen that serves as a containment vessel for the ionization of the gas into plasma. -->
-	<Ammo_PlasmaCanister.description>Un canister de hidrogeno presurizado que sirve como contenedor para la ionizacion del gas en plasma.</Ammo_PlasmaCanister.description>
+	<Ammo_PlasmaCanister.description>Un cánister de hidrógeno presurizado que sirve como contenedor para la ionización del gas en plasma.</Ammo_PlasmaCanister.description>
 	<!-- EN: plasma pistol bolt -->
 	<Bullet_PlasmaPistol.label>proyectil de plasma de pistola</Bullet_PlasmaPistol.label>
 	<!-- EN: plasma rifle bolt -->
 	<Bullet_PlasmaRifle.label>proyectil de plasma de rifle</Bullet_PlasmaRifle.label>
 	<!-- EN: plasma cannon bolt -->
-	<Bullet_PlasmaCannon.label>proyectil de plasma de cañon</Bullet_PlasmaCannon.label>
+	<Bullet_PlasmaCannon.label>proyectil de plasma de cañón</Bullet_PlasmaCannon.label>
 	<!-- EN: plasma pistol bolt -->
 	<Bullet_PlasmaPistol_Relic.label>proyectil de plasma de pistola</Bullet_PlasmaPistol_Relic.label>
 	<!-- EN: plasma rifle bolt -->

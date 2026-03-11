@@ -4,7 +4,7 @@
 	<!-- EN: Mech Charged cartridge -->
 	<Ammo_Mech_Charged.label>cartucho cargado mecanoide</Ammo_Mech_Charged.label>
 	<!-- EN: Charged shot ammo used by mechanoid weaponry. -->
-	<Ammo_Mech_Charged.description>Municion de disparo cargado usada por armamento mecanoide.</Ammo_Mech_Charged.description>
+	<Ammo_Mech_Charged.description>Munición de disparo cargado usada por armamento mecanoide.</Ammo_Mech_Charged.description>
 	
 	<!-- EN: mech shell (Incendiary) -->
 	<Ammo_MechShell_Incendiary.label>proyectil mecanoide (Incendiario)</Ammo_MechShell_Incendiary.label>

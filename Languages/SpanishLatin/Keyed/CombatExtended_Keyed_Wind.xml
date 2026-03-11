@@ -25,7 +25,7 @@
 	<!-- EN: Violent storm -->
 	<CE_Wind_Beaufort11>Tormenta violenta</CE_Wind_Beaufort11>
 	<!-- EN: Hurricane -->
-	<CE_Wind_Beaufort12>Huracan</CE_Wind_Beaufort12>
+	<CE_Wind_Beaufort12>Huracán</CE_Wind_Beaufort12>
 
 	<!-- EN: heading North -->
 	<CE_Wind_Direction_N>hacia el Norte</CE_Wind_Direction_N>
@@ -45,5 +45,5 @@
 	<CE_Wind_Direction_NW>hacia el Noroeste</CE_Wind_Direction_NW>
 
 	<!-- EN: Current wind speed and direction.\n\nWind affects the spread pattern of fires, and can range from light breezes to strong gales. -->
-	<CE_Wind_Tooltip>Velocidad y direccion actual del viento.\n\nEl viento afecta el patron de propagacion del fuego, y puede ir desde brisas ligeras hasta vendavales fuertes.</CE_Wind_Tooltip>
+	<CE_Wind_Tooltip>Velocidad y dirección actual del viento.\n\nEl viento afecta el patrón de propagación del fuego, y puede ir desde brisas ligeras hasta vendavales fuertes.</CE_Wind_Tooltip>
 </LanguageData>

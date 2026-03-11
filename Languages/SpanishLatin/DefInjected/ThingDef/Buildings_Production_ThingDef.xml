@@ -3,10 +3,10 @@
 	<!-- EN: loading bench -->
 	<AmmoBench.label>banco de carga</AmmoBench.label>
 	<!-- EN: A workstation for handloading ammo. -->
-	<AmmoBench.description>Una estacion de trabajo para carga manual de municion.</AmmoBench.description>
+	<AmmoBench.description>Una estación de trabajo para carga manual de munición.</AmmoBench.description>
 	
 	<!-- EN: gunsmithing bench -->
-	<GunsmithingBench.label>banco de armeria</GunsmithingBench.label>
+	<GunsmithingBench.label>banco de armería</GunsmithingBench.label>
 	<!-- EN: A workstation for creating and attaching attachments to weapons. -->
-	<GunsmithingBench.description>Una estacion de trabajo para crear y adjuntar accesorios a las armas.</GunsmithingBench.description>
+	<GunsmithingBench.description>Una estación de trabajo para crear y adjuntar accesorios a las armas.</GunsmithingBench.description>
 </LanguageData>

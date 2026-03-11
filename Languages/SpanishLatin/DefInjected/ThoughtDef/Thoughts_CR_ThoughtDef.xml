@@ -3,13 +3,13 @@
 	<!-- EN: under fire -->
 	<Suppressed.stages.0.label>bajo fuego</Suppressed.stages.0.label>
 	<!-- EN: People are trying to kill me! -->
-	<Suppressed.stages.0.description>!Estan intentando matarme!</Suppressed.stages.0.description>
+	<Suppressed.stages.0.description>¡Están intentando matarme!</Suppressed.stages.0.description>
 	<!-- EN: under suppression -->
-	<Suppressed.stages.1.label>bajo supresion</Suppressed.stages.1.label>
+	<Suppressed.stages.1.label>bajo supresión</Suppressed.stages.1.label>
 	<!-- EN: That's a lot of fire coming my way! -->
-	<Suppressed.stages.1.description>!Viene demasiado fuego hacia mi!</Suppressed.stages.1.description>
+	<Suppressed.stages.1.description>¡Viene demasiado fuego hacia mí!</Suppressed.stages.1.description>
 	<!-- EN: under heavy suppression -->
-	<Suppressed.stages.2.label>bajo supresion intensa</Suppressed.stages.2.label>
+	<Suppressed.stages.2.label>bajo supresión intensa</Suppressed.stages.2.label>
 	<!-- EN: Game over, man! Game over! -->
-	<Suppressed.stages.2.description>!Se acabo, amigo! !Se acabo!</Suppressed.stages.2.description>
+	<Suppressed.stages.2.description>¡Se acabó, amigo! ¡Se acabó!</Suppressed.stages.2.description>
 </LanguageData>

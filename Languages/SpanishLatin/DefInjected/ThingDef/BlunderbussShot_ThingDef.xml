@@ -3,7 +3,7 @@
 	<!-- EN: blunderbuss shot -->
 	<Ammo_BlunderbussShot.label>carga trabucazo</Ammo_BlunderbussShot.label>
 	<!-- EN: A paper cartridge sealed with wax containing several round projectiles and black powder, fired by early, smoothbore blunderbusses. -->
-	<Ammo_BlunderbussShot.description>Un cartucho de papel sellado con cera que contiene varios proyectiles redondos y polvora negra, disparados por trabucos antiguos de anima lisa.</Ammo_BlunderbussShot.description>
+	<Ammo_BlunderbussShot.description>Un cartucho de papel sellado con cera que contiene varios proyectiles redondos y pólvora negra, disparados por trabucos antiguos de ánima lisa.</Ammo_BlunderbussShot.description>
 	<!-- EN: blunderbuss pellet -->
 	<Bullet_BlunderbussShot.label>perdigon trabucazo</Bullet_BlunderbussShot.label>
 </LanguageData>

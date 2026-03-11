@@ -4,12 +4,12 @@
 	<!-- EN: mini round shot -->
 	<Ammo_MiniCannonBall_Round.label>bala redonda mini</Ammo_MiniCannonBall_Round.label>
 	<!-- EN: A solid ball of metal, capable of delivering significant damage on a direct hit. -->
-	<Ammo_MiniCannonBall_Round.description>Una bola solida de metal, capaz de infligir un dano significativo con un impacto directo.</Ammo_MiniCannonBall_Round.description>
+	<Ammo_MiniCannonBall_Round.description>Una bola sólida de metal, capaz de infligir un daño significativo con un impacto directo.</Ammo_MiniCannonBall_Round.description>
 	
 	<!-- EN: mini grape shot shell -->
 	<Ammo_MiniCannonBall_Grape.label>cartucho de metralla mini</Ammo_MiniCannonBall_Grape.label>
 	<!-- EN: A canister of numerous metal balls, fired in a wide spread to deal horrific damage against enemy infantry. -->
-	<Ammo_MiniCannonBall_Grape.description>Un canister con numerosas bolas de metal, disparadas en una amplia dispersion para infligir dano devastador a la infanteria enemiga.</Ammo_MiniCannonBall_Grape.description>
+	<Ammo_MiniCannonBall_Grape.description>Un canister con numerosas bolas de metal, disparadas en una amplia dispersión para infligir daño devastador a la infantería enemiga.</Ammo_MiniCannonBall_Grape.description>
 	
 	<!-- EN: mini round shot -->
 	<Bullet_MiniCannonBall_Round.label>bala redonda mini</Bullet_MiniCannonBall_Round.label>

@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <LanguageData>
 	<!-- EN: Time to set up bipod:  -->
-	<CE_BipodSetupTime>Tiempo para desplegar bipode: </CE_BipodSetupTime>
+	<CE_BipodSetupTime>Tiempo para desplegar bípode: </CE_BipodSetupTime>
 	<!-- EN: Auto sets up in firemode:  -->
-	<CE_BipodAutoSetupMode>Despliegue automatico en modo de fuego: </CE_BipodAutoSetupMode>
+	<CE_BipodAutoSetupMode>Despliegue automático en modo de fuego: </CE_BipodAutoSetupMode>
 	<!-- EN: Stats when set up:  -->
-	<CE_BipodStatWhenSetUp>Estadisticas al estar desplegado: </CE_BipodStatWhenSetUp>
+	<CE_BipodStatWhenSetUp>Estadísticas al estar desplegado: </CE_BipodStatWhenSetUp>
 	<!-- EN: Stats when NOT set up:  -->
-	<CE_BipodStatWhenNotSetUp>Estadisticas al NO estar desplegado: </CE_BipodStatWhenNotSetUp>
+	<CE_BipodStatWhenNotSetUp>Estadísticas al NO estar desplegado: </CE_BipodStatWhenNotSetUp>
 	<!-- EN: Range -->
 	<CE_BipodStatRange>Alcance</CE_BipodStatRange>
 	<!-- EN: Warm up -->
-	<CE_BipodStatWarmUp>Preparacion</CE_BipodStatWarmUp>
+	<CE_BipodStatWarmUp>Preparación</CE_BipodStatWarmUp>
 	<!-- EN: Hover over to display -->
 	<CE_BipodHoverOverStat>Pasa el cursor para mostrar</CE_BipodHoverOverStat>
 </LanguageData>
